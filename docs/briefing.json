@@ -1,11 +1,117 @@
 {
-  "generated_at": null,
-  "datum": "Beispiel – wird täglich automatisch ersetzt",
+  "generated_at": "2026-06-10T22:38:00.101056+00:00",
+  "datum": "Mittwoch, 10. Juni 2026",
   "ressorts": [
-    { "id": "politik", "label": "Politik & Welt", "emoji": "🏛️", "stories": [
-      { "id": "politik-0", "titel": "Hier erscheint die erste Schlagzeile", "zusammenfassung": "Sobald der Cron-Job einmal gelaufen ist, steht hier die aktuelle Meldung.", "bedeutung": "Zeigt, dass das Frontend korrekt lädt.", "hintergrund": "Dies ist ein Platzhalter.\n\nNach dem ersten Lauf des Workflows wird diese Datei durch echte, recherchierte Inhalte ersetzt.", "tag": "Beispiel", "emoji": "🏛️", "quelle": "—" }
-    ]},
-    { "id": "wirtschaft", "label": "Weltwirtschaft", "emoji": "🌍", "stories": [] },
-    { "id": "boerse", "label": "Märkte & Börse", "emoji": "📈", "stories": [] }
+    {
+      "id": "politik",
+      "label": "Politik & Welt",
+      "emoji": "🏛️",
+      "stories": [
+        {
+          "id": "politik-0",
+          "titel": "USA und Iran tauschen neue Schläge – Waffenstillstand bröckelt",
+          "zusammenfassung": "Nach dem Abschuss eines US-Kampfhubschraubers durch eine iranische Drohne über der Straße von Hormus hat Washington erneut Angriffe auf iranische Ziele eingeleitet. Teheran revanchierte sich mit Raketen- und Drohnenangriffen auf US-Stützpunkte in Jordanien, Bahrain und Kuwait, während Präsident Trump mit weiteren massiven Schlägen drohte.",
+          "bedeutung": "Der de-facto-Zusammenbruch des seit April geltenden Waffenstillstands riskiert eine offene Eskalation im Nahen Osten mit globalen Konsequenzen für Energiepreise und Sicherheitsarchitektur.",
+          "hintergrund": "Am 28. Februar 2026 eröffneten die USA und Israel gemeinsam Luftangriffe auf Iran, töteten Revolutionsführer Chamenei und zerstörten große Teile der Militärinfrastruktur. Als Gegenmaßnahme blockierte Teheran die Straße von Hormus, durch die rund ein Fünftel des weltweit gehandelten Öls fließt, was globale Lieferketten schwer traf.\n\nAm 8. April vermittelte Pakistan einen zweiwöchigen Waffenstillstand, der seitdem mehrfach verlängert, aber auch wiederholt gebrochen wurde. Friedensgespräche in Islamabad scheiterten. Der Abschuss des Apache-Hubschraubers am 9. Juni und Trumps anschließende Drohgebärden deuten darauf hin, dass der Waffenstillstand nun endgültig am seidenen Faden hängt – mit unabsehbaren Folgen für Ölpreise, regionale Stabilität und die globale Wirtschaft.",
+          "tag": "US-Iran-Krieg",
+          "emoji": "💥",
+          "quelle": "CBS News / Britannica"
+        },
+        {
+          "id": "politik-1",
+          "titel": "Taiwan feuert erstmals HIMARS in Richtung Chinas",
+          "zusammenfassung": "Das taiwanesische Militär hat bei einer Übung in Taichung zum ersten Mal US-Raketenwerfer vom Typ HIMARS direkt in die Gewässer der Taiwanstraße abgefeuert. Der Schritt gilt als deutliches Signal an Peking zur Abschreckung eines möglichen Angriffs.",
+          "bedeutung": "Die Premiere markiert eine neue Eskalationsstufe in der Taiwan-Frage und testet die Grenzen des jüngst ausgehandelten Trump-Xi-Rahmens.",
+          "hintergrund": "Taiwan baut seine asymmetrische Verteidigung seit Jahren aus und strebt an, seine Flugabwehrraketen-Bestände bis 2029 auf über 1.800 Einheiten zu erhöhen. Die HIMARS-Systeme mit einer Reichweite von bis zu 300 Kilometern können damit Ziele in der chinesischen Provinz Fujian erreichen.\n\nDie Übung erfolgt in einem diplomatisch heiklen Moment: Ein US-Plan zur Lieferung von 82 weiteren HIMARS an Taiwan wurde nach dem Treffen von Trump und Xi in Peking im Mai offenbar auf Eis gelegt. Peking dürfte die Übung als Provokation werten – die Reaktion Chinas wird die Stimmung in der Meerenge in den kommenden Tagen prägen.",
+          "tag": "Taiwan-Konflikt",
+          "emoji": "🚀",
+          "quelle": "NPR / Crypto Briefing"
+        },
+        {
+          "id": "politik-2",
+          "titel": "Belfast-Unruhen nach Messerangriff – Anti-Migrations-Ausschreitungen",
+          "zusammenfassung": "Nach der Festnahme eines sudanesischen Verdächtigen wegen eines brutalen Messerstechens in Belfast brachen in der nordirischen Stadt schwere anti-immigrationsfeindliche Ausschreitungen aus. Häuser von Einwandererfamilien wurden angezündet, Feuerwehren und Polizei standen unter massivem Druck.",
+          "bedeutung": "Die Eskalation offenbart die gesellschaftliche Sprengkraft des Migrationsthemas in Großbritannien und könnte die ohnehin fragile politische Situation Nordirlands weiter destabilisieren.",
+          "hintergrund": "Großbritannien erlebt seit Monaten eine aufgeheizte Debatte über Migration und innere Sicherheit. Nordirland steht durch seine komplizierte Geschichte zwischen britischer und irischer Identität unter besonderem Druck, wenn ethnische oder nationale Spannungen aufflammen.\n\nDie Behörden riefen zur Ruhe auf und verhängten verstärkte Sicherheitsmaßnahmen. Politisch werden die Ereignisse sowohl von Populisten als Beleg für gescheiterte Migrationspolitik vereinnahmt als auch von Bürgerrechtsgruppen als gefährlicher Rückfall in alte Gewaltmuster verurteilt.",
+          "tag": "Belfast/Migration",
+          "emoji": "🔥",
+          "quelle": "NPR / Global News"
+        }
+      ]
+    },
+    {
+      "id": "wirtschaft",
+      "label": "Weltwirtschaft",
+      "emoji": "🌍",
+      "stories": [
+        {
+          "id": "wirtschaft-0",
+          "titel": "US-Inflation steigt auf Drei-Jahres-Hoch von 4,2 Prozent",
+          "zusammenfassung": "Der US-Verbraucherpreisindex legte im Mai auf 4,2 Prozent im Jahresvergleich zu – der höchste Stand seit drei Jahren. Die Kernrate stieg monatsweise moderater als erwartet, was leichte Entlastung bot, doch der Markt preist eine Fed-Zinserhöhung im Dezember weiter voll ein.",
+          "bedeutung": "Eine dauerhaft hohe Inflation zwingt die Fed zu einer restriktiveren Geldpolitik und belastet Konsum, Investitionen und Schuldentragfähigkeit in einem ohnehin unsicheren geopolitischen Umfeld.",
+          "hintergrund": "Der seit Monaten andauernde Konflikt zwischen den USA und Iran hat die Ölpreise stark angetrieben, da die Straße von Hormus de facto blockiert ist. Energiekosten sind der Haupttreiber des Preisanstiegs; die Kernrate stieg auf Jahressicht auf 2,9 Prozent – ein Warnsignal für zweite Runden-Effekte.\n\nZu Jahresbeginn hatten Märkte noch mehrere Zinssenkungen der Fed eingepreist. Diese Hoffnungen sind vollständig verflogen. Ökonomen streiten nun darüber, ob die Fed in diesem Jahr noch erhöhen muss. Eine Zinserhöhung würde die Rezessionsrisiken verschärfen und den Dollar weiter aufwerten, mit Folgewirkungen für Schwellenländer weltweit.",
+          "tag": "Inflation/Fed",
+          "emoji": "📈",
+          "quelle": "TheStreet / Trading Economics"
+        },
+        {
+          "id": "wirtschaft-1",
+          "titel": "Straße von Hormus: Ölpreisschock als globales Konjunkturrisiko",
+          "zusammenfassung": "Der anhaltende US-Iran-Konflikt hält die Straße von Hormus faktisch weitgehend geschlossen; ein Energiechef warnte, die Puffer und Schockabsorber am Markt seien stark erschöpft und weiterer Preisauftrieb sei wahrscheinlich. Rohöl der Sorte Brent kletterte auf rund 90 Dollar je Barrel.",
+          "bedeutung": "Die Engstelle kontrolliert rund ein Fünftel des globalen Öl- und Gashandels – ein anhaltender Ausfall würde die Weltwirtschaft in eine importierte Stagflation treiben.",
+          "hintergrund": "Seit der iranischen Gegenblockade im März sind die globalen Energiemärkte in Alarmbereitschaft. Asiatische Volkswirtschaften wie Südkorea und Japan, die stark von Importen aus dem Golf abhängen, spüren die Folgen besonders. Südkorea etwa versucht, die negativen Effekte durch boomende KI-Chip-Exporte zu kompensieren.\n\nDas US-Militär eskoriert Tanker durch die Meerenge und hat zuletzt nach eigenen Angaben Öl direkt aus iranischen Beständen abgezogen. Eine vollständige Wiedereröffnung hängt auch nach einem möglichen Waffenstillstand von der Minenräumung ab – ein Prozess, der Wochen dauern kann und die Preisvolatilität prolongiert.",
+          "tag": "Energie/Hormuz",
+          "emoji": "🛢️",
+          "quelle": "Deloitte / CBS News"
+        },
+        {
+          "id": "wirtschaft-2",
+          "titel": "Bank of Japan signalisiert Zinserhöhung im Juni",
+          "zusammenfassung": "BoJ-Gouverneur Kazuo Ueda deutete in jüngsten Kommentaren an, die Inflationsbekämpfung müsse Vorrang haben – was Märkte als klares Signal für eine baldige Zinserhöhung werteten. Japans Anleiherendite für zehnjährige Bonds blieb die Woche über stabil bei 2,66 Prozent.",
+          "bedeutung": "Eine BoJ-Zinserhöhung würde den jahrelangen globalen Carry-Trade in Yen massiv unter Druck setzen und könnte einen Kapitalrückfluss nach Japan mit Verwerfungen an globalen Märkten auslösen.",
+          "hintergrund": "Japan hatte jahrzehntelang eine Nullzinspolitik betrieben. Die Abkehr davon begann 2024 und löste im Sommer desselben Jahres einen kurzen, heftigen globalen Marktschock aus. Seitdem geht die BoJ behutsam vor, steht aber wegen steigender Energieimportkosten und einem schwachen Yen unter Druck.\n\nDer Yen hat sich trotz der erwarteten Zinsanhebungen wenig erholt – Analysten von J.P. Morgan sehen den Dollar-Yen-Kurs möglicherweise noch bis auf 160 steigen. Eine Überraschungsentscheidung der BoJ könnte diesen Trend abrupt umkehren und spekulative Positionen weltweit auf dem falschen Fuß erwischen.",
+          "tag": "BoJ/Yen",
+          "emoji": "🇯🇵",
+          "quelle": "T. Rowe Price / Deloitte"
+        }
+      ]
+    },
+    {
+      "id": "boerse",
+      "label": "Märkte & Börse",
+      "emoji": "📈",
+      "stories": [
+        {
+          "id": "boerse-0",
+          "titel": "Wall Street bricht ein: Dow verliert 953 Punkte",
+          "zusammenfassung": "Der Dow Jones schloss bei 49.918 Punkten, ein Minus von 953 Zählern oder 1,87 Prozent. Der Nasdaq verlor 1,98 Prozent auf 25.169 Punkte, der S&P 500 gab 1,62 Prozent nach – auf ein Fünf-Wochen-Tief.",
+          "bedeutung": "Das Zusammentreffen von heißen Inflationsdaten, militärischer Eskalation und einem Tech-Selloff testet die Widerstandsfähigkeit der Jahres-Rallye und könnte die Stimmung nachhaltig eintrüben.",
+          "hintergrund": "Die US-Märkte hatten sich seit Jahresbeginn dank KI-Euphorie trotz geopolitischer Turbulenzen gut gehalten. Die heutigen Verluste zeigen, dass diese Puffer begrenzt sind: Tech und Halbleiter führten die Rückgänge an, während Energie und Defensivwerte als einzige Sektoren leicht im Plus schlossen.\n\nAm gleichen Tag veröffentlichte Oracle seine Quartalsergebnisse als weiterer KI-Ausgaben-Indikator; Super Micro Computer brach über 12 Prozent ein, nachdem das Unternehmen eine milliardenschwere Kapitalerhöhung ankündigte. Investoren rotieren in defensive Werte und fragen sich, ob die Tech-Bewertungen bei anhaltend hoher Inflation noch zu rechtfertigen sind.",
+          "tag": "Marktkorrektur",
+          "emoji": "📉",
+          "quelle": "TheStreet / Bloomberg"
+        },
+        {
+          "id": "boerse-1",
+          "titel": "Rohöl auf 90 Dollar – Energieaktien gegen den Trend",
+          "zusammenfassung": "US-Rohöl (WTI) kletterte infolge der erneuten US-Iran-Angriffe auf rund 90 Dollar pro Barrel und beflügelte Energieaktien wie Chevron, die als einer der wenigen Gewinner des Tages aus dem Handel gingen. Industriewerte verloren dagegen über drei Prozent.",
+          "bedeutung": "Der Ölpreisanstieg verstärkt den Inflationsdruck und belastet die Notenbanken genau dann, wenn die Wirtschaft ohnehin unter Druck steht – ein klassisches Stagflationsszenario bahnt sich an.",
+          "hintergrund": "Brent-Rohöl lag zu Jahresbeginn noch deutlich unter 70 Dollar; der Krieg trieb ihn sukzessive nach oben. J.P. Morgan hatte in seinem Jahresausblick für 2026 einen Durchschnittspreis von 58 Dollar je Barrel prognostiziert – ein Wert, der inzwischen weit unterschritten wurde.\n\nDas Angebot übersteigt die Nachfrage strukturell, doch die geopolitische Risikoprämie dominiert derzeit alle Fundamentaldaten. Ein möglicher Waffenstillstand könnte Öl schnell wieder unter 70 Dollar drücken; anhaltende Konflikte hingegen könnten die Marke von 100 Dollar in Reichweite bringen – mit weitreichenden Folgen für Verbraucherpreise und Notenbanken weltweit.",
+          "tag": "Ölpreis",
+          "emoji": "⛽",
+          "quelle": "Bloomberg / TheStreet"
+        },
+        {
+          "id": "boerse-2",
+          "titel": "Bitcoin auf 62.000 Dollar – Krypto unter Druck",
+          "zusammenfassung": "Bitcoin fiel auf rund 62.000 Dollar und befindet sich damit seit etwa zwei Wochen in einem Abwärtstrend, nachdem die Kryptowährung im Mai noch kurzzeitig über 80.000 Dollar notiert hatte. Risk-off-Stimmung und Inflationssorgen belasten auch digitale Assets.",
+          "bedeutung": "Das Unterschreiten psychologisch wichtiger Marken signalisiert, dass Krypto seine Rolle als Inflationshedge in einem Umfeld echter geopolitischer Schocks nicht überzeugend ausfüllen kann.",
+          "hintergrund": "Bitcoin hatte Anfang 2026 von der allgemeinen KI- und Risikoeuphorie profitiert und neue Hochs markiert. Als sichere Zufluchts- und Inflationsschutzanlage positioniert, gerät die Narrative nun unter Druck: In echten Krisenzeiten fließt Kapital eher in US-Staatsanleihen, den Dollar und Gold.\n\nDie SpaceX-IPO-Diskussion – die laut Analysten Elon Musk zum Trillionär machen könnte – und ein anhaltender Regulierungsdruck in wichtigen Märkten belasten die mittelfristige Stimmung im Kryptosektor zusätzlich. Marktteilnehmer beobachten, ob die 60.000-Dollar-Marke als Unterstützung hält.",
+          "tag": "Bitcoin/Krypto",
+          "emoji": "₿",
+          "quelle": "TheStreet / Democracy Now"
+        }
+      ]
+    }
   ]
 }
