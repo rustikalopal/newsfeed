@@ -1,0 +1,11 @@
+{
+  "generated_at": null,
+  "datum": "Beispiel – wird täglich automatisch ersetzt",
+  "ressorts": [
+    { "id": "politik", "label": "Politik & Welt", "emoji": "🏛️", "stories": [
+      { "id": "politik-0", "titel": "Hier erscheint die erste Schlagzeile", "zusammenfassung": "Sobald der Cron-Job einmal gelaufen ist, steht hier die aktuelle Meldung.", "bedeutung": "Zeigt, dass das Frontend korrekt lädt.", "hintergrund": "Dies ist ein Platzhalter.\n\nNach dem ersten Lauf des Workflows wird diese Datei durch echte, recherchierte Inhalte ersetzt.", "tag": "Beispiel", "emoji": "🏛️", "quelle": "—" }
+    ]},
+    { "id": "wirtschaft", "label": "Weltwirtschaft", "emoji": "🌍", "stories": [] },
+    { "id": "boerse", "label": "Märkte & Börse", "emoji": "📈", "stories": [] }
+  ]
+}
