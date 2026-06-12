@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-11T09:03:27.613558+00:00",
-  "datum": "Donnerstag, 11. Juni 2026",
+  "generated_at": "2026-06-12T08:48:37.421080+00:00",
+  "datum": "Freitag, 12. Juni 2026",
   "ressorts": [
     {
       "id": "politik",
@@ -9,33 +9,33 @@
       "stories": [
         {
           "id": "politik-0",
-          "titel": "USA und Iran im zweiten Tag direkter Luftangriffe",
-          "zusammenfassung": "US-Streitkräfte führten einen zweiten aufeinanderfolgenden Tag von Luftangriffen gegen mehrere Ziele im Iran durch, nachdem Teheran zuvor einen amerikanischen Apache-Kampfhubschrauber über der Straße von Hormuz abgeschossen hatte. Iran antwortete mit Raketen- und Drohnenangriffen auf US-Stützpunkte in Jordanien, Kuwait und Bahrain.",
-          "bedeutung": "Die Eskalation zwischen Washington und Teheran bedroht eine ohnehin fragile Waffenruhe und gefährdet die Stabilität der gesamten Golfregion und globaler Energielieferwege.",
-          "hintergrund": "Der Konflikt zwischen den USA und dem Iran begann im Juni 2025 mit gemeinsamen amerikanisch-israelischen Bombardierungen iranischer Nuklearanlagen. Seitdem herrscht ein unstetiger Kriegszustand, bei dem Trump mehrfach Verhandlungen ankündigte, ohne dass ein Abkommen zustande kam.\n\nDie Straße von Hormuz ist für rund 20 Prozent des weltweiten Öltransports entscheidend. Eine anhaltende Militarisierung dieser Wasserstraße treibt die Energiepreise weltweit in die Höhe und erhöht das Risiko einer breiteren regionalen Eskalation unter Einbeziehung weiterer Akteure.",
-          "tag": "US-Iran-Krieg",
-          "emoji": "💣",
-          "quelle": "Bloomberg / RFERL"
+          "titel": "Trump kündigt baldigen Friedensdeal mit Iran an",
+          "zusammenfassung": "US-Präsident Trump erklärte am 11. Juni, ein Abkommen mit Iran könnte noch dieses Wochenende unterzeichnet werden – und deutete an, die Straße von Hormus werde mit Vertragsabschluss sofort wieder geöffnet. Irans halboffizielle Nachrichtenagentur Fars berichtete, Teheran neige zur Annahme der Vereinbarung, ein endgültiger Text liegt aber noch nicht vor.",
+          "bedeutung": "Ein Friedensschluss würde den seit Februar andauernden Krieg beenden, den Energiemarkt schlagartig entlasten und die gesamte Weltkonjunktur stabilisieren.",
+          "hintergrund": "Der Konflikt begann am 28. Februar 2026, als die USA und Israel im Rahmen der Operation Epic Fury gemeinsam massive Luftangriffe gegen militärische und staatliche Infrastrukturen Irans starteten. Iran schloss daraufhin die Straße von Hormus und griff US-Militäranlagen im Golf an. Am 8. April vermittelte Pakistan einen bedingten zweiwöchigen Waffenstillstand, der seitdem mehrfach verlängert wurde – aber auch wiederholt verletzt wurde.\n\nDirekte Gespräche in Islamabad (11.–12. April) scheiterten. Seitdem tauschen beide Seiten über Pakistans Vermittlung Entwürfe aus. Kernstreitpunkte sind Irans Atomprogramm, Raketenkapazitäten, die Wiedereröffnung der Meerenge, Sanktionserleichterungen sowie die Lage im Libanon. Trump verknüpfte einen Deal zusätzlich mit einer Ausweitung der Abraham-Abkommen auf Saudi-Arabien, Qatar und Pakistan.",
+          "tag": "Iran-Krieg",
+          "emoji": "🕊️",
+          "quelle": "ABC News / Polymarket"
         },
         {
           "id": "politik-1",
-          "titel": "Taiwan feuert HIMARS erstmals in Richtung Taiwanstraße",
-          "zusammenfassung": "Das taiwanesische Militär führte die erste Scharfschussübung mit US-gelieferten HIMARS-Raketenwerfern durch, bei der Raketen in die Gewässer der Taiwanstraße abgefeuert wurden – ein symbolisch und strategisch bedeutsamer Präzedenzfall. Die Übung simulierte die Abwehr einer chinesischen Amphibienlandung an der Westküste der Insel.",
-          "bedeutung": "Die Übung sendet ein klares Signal an Peking über Taiwans wachsende Abschreckungskapazitäten und die Tiefe der US-taiwanesischen Sicherheitskooperation.",
-          "hintergrund": "Taiwan hat bislang 29 HIMARS-Systeme erworben, von denen elf bereits geliefert wurden. Das System kann mit einer Reichweite von rund 300 Kilometern Ziele in Teilen der chinesischen Küstenprovinz Fujian erreichen. Ein im Dezember 2025 angekündigtes Folgepaket mit 82 weiteren Systemen wurde nach einem Trump-Xi-Treffen in Peking vorerst auf Eis gelegt.\n\nDie Übung fällt in eine Phase erhöhter chinesischer Grauzonenaktivitäten rund um Taiwan. Peking reagierte bisher nicht offiziell, doch Militärbeobachter werten den Test als bewusste Machtdemonstration zu einem geopolitisch hochsensiblen Zeitpunkt.",
-          "tag": "Taiwan-Straße",
-          "emoji": "🚀",
-          "quelle": "NPR / Taipei Times"
+          "titel": "Taiwan: KMT-Chefin trifft Xi – Spannungen bleiben",
+          "zusammenfassung": "KMT-Vorsitzende Cheng Li-wun reiste nach Peking und traf dort Chinas Staatschef Xi Jinping – ein symbolisch hochgeladener Besuch in einer Phase wachsender Unsicherheit über Washingtons Beistandsversprechen gegenüber Taiwan. Parallel wartet Taipei auf die US-Genehmigung eines 14-Milliarden-Dollar-Rüstungspakets.",
+          "bedeutung": "Der Dialog zwischen Taiwans größter Oppositionspartei und Peking sendet ein ambivalentes Signal über die künftige Ausrichtung der Insel und erhöht den Druck auf die Regierung Taiwans wie auf Washington.",
+          "hintergrund": "Die Beziehungen zwischen Taipei und Peking sind seit Jahren angespannt; die Volksrepublik betrachtet Taiwan als Teil ihres Territoriums und lehnt jede offizielle Anerkennung ab. Die KMT, traditionell für einen pragmatischeren Kurs gegenüber dem Festland bekannt, nutzt den Dialog als außenpolitischen Kontrapunkt zur regierenden DPP.\n\nDer Kontext hat sich durch den Iran-Krieg verschärft: Die USA sind militärisch und diplomatisch stark absorbiert, was Fragen über deren Verlässlichkeit als Sicherheitsgarant für Taiwan aufwirft. Das ausstehende Rüstungspaket gilt als wichtiger Indikator für Washingtons tatsächliches Engagement.",
+          "tag": "Taiwan",
+          "emoji": "🇹🇼",
+          "quelle": "NPR World News"
         },
         {
           "id": "politik-2",
-          "titel": "Messerangriff in Belfast löst landesweite Migrationsunruhen aus",
-          "zusammenfassung": "Ein brutaler Messerangriff auf einer Belfaster Straße, dem ein sudanesischer Tatverdächtiger beschuldigt wird, löste gewaltsame Anti-Migrations-Proteste in Nordirland und weiteren Teilen des Vereinigten Königreichs aus. Britische Politiker riefen zur Ruhe auf, während Fahrzeuge angezündet und Fenster eingeschlagen wurden.",
-          "bedeutung": "Die Unruhen zeigen die soziale Sprengkraft des Migrationsthemas in Großbritannien und stellen die politische Stabilität der Regierung vor eine ernsthafte innenpolitische Belastungsprobe.",
-          "hintergrund": "Großbritannien erlebt seit Jahren eine aufgeheizte Debatte über Einwanderung und Asylpolitik. Bereits 2024 hatten ähnliche Ereignisse in englischen Städten zu Ausschreitungen geführt. Die aktuelle Regierung steht unter Druck, eine glaubwürdige Antwort auf irreguläre Migration zu liefern, ohne rechtsextreme Narrative zu befeuern.\n\nDie Ereignisse in Belfast werden von Sicherheitsexperten als Zeichen für eine systematische Mobilisierung durch rechtsextreme Netzwerke gewertet, die gezielt Einzelvorfälle nutzen, um gesellschaftliche Spaltung zu schüren.",
-          "tag": "Migrationsunruhen",
+          "titel": "Nordirland: Zweite Nacht Unruhen in Belfast",
+          "zusammenfassung": "In Belfast und Umgebung kam es zum zweiten Mal in Folge zu ernsthaften Ausschreitungen – Demonstranten warfen Steine und Flaschen auf Polizeikräfte und zündeten Feuer an. Auslöser ist eine Messerattacke, die kommunale Spannungen erneut eskalieren ließ.",
+          "bedeutung": "Die Gewalt zeigt die anhaltende Fragilität des Friedensprozesses in Nordirland und stellt Sicherheitskräfte sowie die Regionalregierung vor eine ernsthafte Bewährungsprobe.",
+          "hintergrund": "Nordirland leidet trotz des Karfreitagsabkommens von 1998 weiterhin unter tiefen gesellschaftlichen Trennlinien zwischen unionistischen und republikanischen Gemeinschaften. Gewalttaten, die eine der Gruppen betreffen, können schnell zu gemeinschaftlicher Eskalation führen.\n\nDie aktuelle Episode folgt einem Muster, das in den vergangenen Jahren mehrfach zu beobachten war: Ein Einzelereignis mit möglichem sektarischen Bezug entlädt angestaute Spannungen in offene Straßengewalt. Das britische Innenministerium steht unter Druck, ein rasches Eingreifen zu koordinieren, ohne die politische Balance zu gefährden.",
+          "tag": "Nordirland",
           "emoji": "🔥",
-          "quelle": "NPR / Taipei Times"
+          "quelle": "NPR World News"
         }
       ]
     },
@@ -46,33 +46,33 @@
       "stories": [
         {
           "id": "wirtschaft-0",
-          "titel": "US-Inflation steigt auf 4,2 Prozent – Fed unter Druck",
-          "zusammenfassung": "Der amerikanische Verbraucherpreisindex kletterte im Mai auf 4,2 Prozent im Jahresvergleich, den höchsten Stand seit mehreren Jahren, angetrieben vor allem durch Energiepreise infolge der Nahost-Eskalation. Die Kerninflation fiel mit 0,2 Prozent monatlich milder aus als befürchtet.",
-          "bedeutung": "Die Inflationsbeschleunigung verengt den Spielraum der Federal Reserve erheblich und erhöht die Wahrscheinlichkeit, dass der neue Fed-Chef Kevin Warsh beim kommenden FOMC-Treffen eine Zinserhöhung signalisieren muss.",
-          "hintergrund": "Die Fed hat ihren Leitzins seit Dezember 2025 unverändert bei 3,50–3,75 Prozent belassen. Für 2026 waren ursprünglich Senkungen erwartet worden – die Energiepreisschocks durch den Nahost-Konflikt haben diese Erwartungen jedoch umgekehrt. Terminmärkte preisen inzwischen mit über 50-prozentiger Wahrscheinlichkeit mindestens eine Zinserhöhung bis Jahresende ein.\n\nDer Wechsel an der Fed-Spitze von Jerome Powell zu Kevin Warsh, der am 22. Mai vereidigt wurde, sorgt für zusätzliche Unsicherheit über die geldpolitische Kommunikation. Sein erstes Pressegespräch als Fed-Chef am 17. Juni dürfte von Märkten äußerst genau beobachtet werden.",
-          "tag": "US-Inflation",
-          "emoji": "📈",
-          "quelle": "TradingKey / Kraken Blog / Schwab"
+          "titel": "Weltbank senkt Wachstumsprognose auf COVID-Tief",
+          "zusammenfassung": "Die Weltbank hat in ihrem neuen Global-Economic-Prospects-Bericht das globale Wachstum für 2026 auf nur noch 2,5 Prozent heruntergesetzt – den schwächsten Wert seit der COVID-19-Pandemie. Als Haupttreiber nennt die Institution den Nahostkonflikt, der Energiepreise, Inflation und Kreditkosten weltweit in die Höhe treibt.",
+          "bedeutung": "Die Prognose verdeutlicht, wie eng globales Wachstum, Energiesicherheit und geopolitische Stabilität miteinander verknüpft sind – und wie verwundbar Entwicklungsländer in der aktuellen Lage sind.",
+          "hintergrund": "Die Weltbank geht davon aus, dass Brent-Rohöl im Jahr 2026 im Schnitt bei 94 Dollar pro Barrel liegen wird – rund 36 Prozent über dem Niveau von 2025. Die Schließung der Straße von Hormus hat Energielieferketten massiv belastet; gleichzeitig steigen Düngemittelpreise, was Lebensmittelmärkte zusätzlich unter Druck setzt.\n\nIn einem Schlechtwetterszenario – anhaltende Konflikte und breiter Finanzmarktstress – könnte das globale Wachstum sogar auf 1,3 Prozent einbrechen, während die Inflation auf 4,4 Prozent klettern würde. Die am stärksten betroffene Region ist der Nahe Osten und Nordafrika, wo das Wachstum der Golfstaaten gegen null tendiert. Die Weltbank hat bis zu 60 Milliarden Dollar an Sofortmitteln mobilisiert.",
+          "tag": "Weltbank",
+          "emoji": "📉",
+          "quelle": "World Bank / Prism News"
         },
         {
           "id": "wirtschaft-1",
-          "titel": "OECD senkt Wachstumsprognose, warnt vor Rezession",
-          "zusammenfassung": "Die OECD hat ihre globale Wachstumsprognose für 2026 auf 2,8 Prozent gesenkt und warnt, dass ein anhaltender Nahost-Konflikt das Weltwirtschaftswachstum auf 2,1 Prozent drücken und mehrere Länder in die Rezession treiben könnte. Notenbanken sollen die Zinsen vorerst stabil halten, um zwischen Inflationsrisiken und Wachstumsschwäche abzuwägen.",
-          "bedeutung": "Die OECD-Warnung unterstreicht, wie sehr der Energiepreisschock durch den US-Iran-Krieg die globale Konjunktur gefährdet und die Handlungsfähigkeit der Zentralbanken einengt.",
-          "hintergrund": "Der Nahost-Konflikt hat die Öl- und Gaspreise erheblich angetrieben und Lieferketten für Düngemittel und andere Güter gestört. KI-Infrastruktur, die als Wachstumstreiber gilt, ist stark auf stabile Energieversorgung und Halbleiter-Inputs aus Golfstaaten angewiesen – beides gerät durch den Konflikt unter Druck.\n\nDie Eurozone ist besonders anfällig für Erdgaspreisschocks und steigende Industrieenergiekosten. Gleichzeitig steht die EZB heute vor der Entscheidung, ob sie trotz schwachen Wachstums die Zinsen anheben soll – eine politisch wie wirtschaftlich heikle Weichenstellung.",
-          "tag": "Konjunkturrisiken",
-          "emoji": "⚠️",
-          "quelle": "Euronews / OECD"
+          "titel": "US-Erzeugerpreise steigen auf Vier-Jahres-Hoch",
+          "zusammenfassung": "Der amerikanische Produzentenpreisindex (PPI) legte im Mai auf Jahresbasis um 6,5 Prozent zu – Grosshandelspreise steigen damit so schnell wie zuletzt Ende 2022. Beunruhigend: Auch die Kernrate ohne Energie und Nahrungsmittel bewegte sich mit 4,9 Prozent deutlich über den Erwartungen.",
+          "bedeutung": "Hartnäckige Erzeugerpreisinflation erhöht den Druck auf die Fed und nährt Spekulationen über eine mögliche Zinserhöhung noch in diesem Jahr.",
+          "hintergrund": "Die US-Notenbank befindet sich in einem schwierigen Spagat: Die Wirtschaft zeigt sich robust, doch der Energiepreisschock aus dem Nahostkonflikt arbeitet sich sukzessive durch die Lieferketten bis zu den Verbraucherpreisen vor. Das für die Fed maßgebliche PCE-Preismaß dürfte im Mai ebenfalls kräftig ausgefallen sein.\n\nDerzeit preisen Terminmärkte mit rund 70-prozentiger Wahrscheinlichkeit eine Zinserhöhung um 25 Basispunkte bis Ende 2026 ein. Die nächste FOMC-Sitzung beginnt am 16. Juni – Anleger werden die Signale der Notenbanker genau beobachten.",
+          "tag": "Inflation/Fed",
+          "emoji": "📊",
+          "quelle": "Schwab Market Update / U.S. Bank"
         },
         {
           "id": "wirtschaft-2",
-          "titel": "EZB-Zinsentscheid heute: Erhöhung trotz Wachstumsschwäche?",
-          "zusammenfassung": "Die Europäische Zentralbank trifft heute ihre Zinsentscheidung – Analysten erwarten angesichts wiedererstarkter Inflation durch Energiepreise eine Erhöhung, obwohl das Wirtschaftswachstum in der Eurozone schwächelt. Der Schritt gilt am Markt als politisch erzwungen, nicht konjunkturell motiviert.",
-          "bedeutung": "Eine EZB-Zinserhöhung in einem schwachen Wachstumsumfeld könnte die europäische Wirtschaft weiter bremsen und die Divergenz zur US-Geldpolitik verschärfen, mit Folgen für den Euro-Dollar-Kurs und europäische Staatsanleihen.",
-          "hintergrund": "Die EZB hatte ihren Einlagezins 2025 in mehreren Schritten auf 2 Prozent gesenkt. Die seitdem durch den Nahost-Krieg getriebenen Energiepreisanstiege haben die Inflationserwartungen in der Eurozone wieder hochgetrieben und den geldpolitischen Spielraum eingeengt.\n\nInsbesondere Deutschland und Frankreich kämpfen mit schwachem Industriewachstum. Eine Erhöhung würde die Kreditkosten für Unternehmen und Haushalte weiter steigen lassen – in einer Phase, in der die europäische Wirtschaft dringend Entlastung braucht.",
-          "tag": "EZB-Zinspolitik",
+          "titel": "Bank of Japan signalisiert mögliche Zinserhöhung im Juni",
+          "zusammenfassung": "BoJ-Gouverneur Kazuo Ueda deutete in einer Rede vom 3. Juni an, dass die Bank of Japan trotz konjunktureller Risiken die Inflationsbekämpfung priorisieren werde. Japans Nominallöhne stiegen im April um 3,5 Prozent – stärker als erwartet – und untermauern Argumente für eine baldige Straffung.",
+          "bedeutung": "Ein weiterer Zinsschritt der BoJ würde globale Carry-Trades erschüttern und hätte erhebliche Auswirkungen auf Devisenmärkte und Anleihenkurse weltweit.",
+          "hintergrund": "Japan kämpft seit Jahrzehnten gegen Deflation – erst jüngst kehrt Inflation merklich zurück. Höhere Energiepreise durch den Iran-Krieg haben den Teuerungsdruck verstärkt, was Ueda vor ein Dilemma stellt: Zu frühe Straffung riskiert das Wirtschaftswachstum, zu langes Abwarten lässt die Inflation weiter anziehen.\n\nDer Yen gilt als wichtigste Finanzierungswährung in globalen Carry-Trades; eine Zinserhöhung könnte den Yen aufwerten und risikotragende Positionen weltweit unter Druck setzen. JPMorgan prognostiziert, dass USD/JPY die Marke von 160 in 2026 durchbricht – eine BoJ-Überraschung könnte diese Erwartung kippen.",
+          "tag": "BoJ/Yen",
           "emoji": "🏦",
-          "quelle": "iForex / investingLive"
+          "quelle": "T. Rowe Price / Deloitte Weekly Update"
         }
       ]
     },
@@ -83,33 +83,33 @@
       "stories": [
         {
           "id": "boerse-0",
-          "titel": "Wall Street fällt scharf: Iran-Eskalation und CPI belasten",
-          "zusammenfassung": "Der Dow Jones verlor am Mittwoch 1,87 Prozent, der S&P 500 gab 1,62 Prozent nach und der Nasdaq fiel um 1,98 Prozent, belastet durch die neue US-Iran-Angriffswelle und einen CPI-Anstieg auf 4,2 Prozent. Am Donnerstagmorgen erholten sich Futures leicht, nachdem das US-Militär das Ende seiner jüngsten Angriffsserie bekanntgegeben hatte.",
-          "bedeutung": "Die Märkte reagieren hochsensibel auf jeden Eskalationsschritt im Nahen Osten, da dieser direkt Energiepreise und Fed-Zinserwartungen beeinflusst – die zwei dominanten Risikofaktoren für Aktien derzeit.",
-          "hintergrund": "Der S&P 500 hatte Anfang Juni noch ein Allzeithoch bei über 7.600 Punkten markiert, angetrieben durch KI-Euphorie und starke Tech-Earnings. Seitdem drücken steigende Inflation und die Nahosteskalation auf die Stimmung, besonders im Technologie- und Halbleitersektor.\n\nEin weiterer Belastungsfaktor ist Oracle, dessen Aktie nachbörslich über 10 Prozent einbrach, nachdem der Konzern eine Kapitalerhöhung um 20 Milliarden Dollar zur Finanzierung seiner KI-Expansion ankündigte – ein Zeichen für den enormen Kapitalbedarf im KI-Wettbewerb.",
-          "tag": "Aktienmarkt",
-          "emoji": "📉",
-          "quelle": "TheStreet / Trading Economics / CNBC"
+          "titel": "SpaceX feiert größten Börsengang der Geschichte",
+          "zusammenfassung": "SpaceX debütiert heute auf dem Nasdaq unter dem Ticker SPCX – zu 135 Dollar je Aktie, einem Erlös von 75 Milliarden Dollar und einer Bewertung von 1,77 Billionen Dollar. Das übertrifft Saudi Aramcos bisherigen Rekord von 2019 um fast das Dreifache und macht Elon Musk zum potenziellen ersten Trillionär der Welt.",
+          "bedeutung": "Das Mega-IPO läutet eine neue Ära des Tech-Börsengangs ein und könnte den breiteren Markt kurzfristig durch Kapitalumschichtungen und die bevorstehende Aufnahme in den Nasdaq-100 bewegen.",
+          "hintergrund": "SpaceX fusionierte im Februar 2026 mit Musks KI-Firma xAI und betreibt neben seinem Raketenprogramm auch Starlink (über neun Millionen Abonnenten) sowie den KI-Chatbot Grok. Der Umsatz wuchs 2025 um 33 Prozent auf 18,7 Milliarden Dollar – trotzdem schrieb das Unternehmen 4,9 Milliarden Dollar Verlust. Kritiker, darunter Senatorin Elizabeth Warren, mahnen eine überzogene Bewertung und problematische Aktionärsstruktur an.\n\nDas IPO ist vielfach überzeichnet; da der institutionelle Andrang enorm ist, wurde der Retailanteil auf unter 25 Prozent gekürzt. Rund 15 Tage nach dem Listing wird SpaceX in den Nasdaq-100 aufgenommen – das dürfte mechanische Käufe von 22 bis 27 Milliarden Dollar aus Indexfonds auslösen.",
+          "tag": "IPO/SpaceX",
+          "emoji": "🚀",
+          "quelle": "CNBC / Fortune / Financer.com"
         },
         {
           "id": "boerse-1",
-          "titel": "SpaceX IPO-Preisfestsetzung heute: Größter Börsengang aller Zeiten",
-          "zusammenfassung": "SpaceX setzt heute Abend den Ausgabepreis für seinen Nasdaq-Börsengang fest – 135 Dollar je Aktie, was eine Bewertung von rund 1,77 Billionen Dollar und eine Kapitalbeschaffung von bis zu 75 Milliarden Dollar bedeuten würde. Die Aktie soll morgen unter dem Ticker SPCX gehandelt werden; die Emission ist bereits mehrfach überzeichnet.",
-          "bedeutung": "Der SpaceX-IPO wäre der größte in der Börsengeschichte und übertrifft Saudi Aramcos Rekord aus 2019 deutlich – er setzt einen Maßstab für die kommenden Mega-IPOs von OpenAI und Anthropic.",
-          "hintergrund": "SpaceX erzielte 2025 einen Umsatz von 18,7 Milliarden Dollar (+33 Prozent), schrieb aber einen Nettoverlust von 4,9 Milliarden Dollar – hauptsächlich verursacht durch das im Februar 2026 übernommene KI-Unternehmen xAI (Grok, X-Plattform), das allein 6,35 Milliarden Dollar operativen Verlust einfuhr. Starlink hingegen erwirtschaftete 11,4 Milliarden Dollar Umsatz mit 39 Prozent operativer Marge.\n\nSkeptiker warnen, dass die Bewertung von fast 95-mal dem Jahresumsatz ein Wachstum erfordert, das kein Unternehmen bisher erreicht hat. Morningstar sieht den fairen Wert bei nur 780 Milliarden Dollar. Gleichzeitig sorgen OpenAI und Anthropic, die ebenfalls kurz vor ihren Börsengängen stehen, für massiven Kapitaldruck an den Märkten.",
-          "tag": "SpaceX IPO",
-          "emoji": "🛸",
-          "quelle": "TradingKey / Fortune / Investing.com"
+          "titel": "Rallye an Wall Street: Dow +1,86 % auf Iran-Hoffnungen",
+          "zusammenfassung": "Der Dow Jones sprang am Donnerstag um 923 Punkte, der S&P 500 legte 1,75 Prozent zu und der Nasdaq kletterte 2,54 Prozent – angetrieben von Trumps Aussagen über einen nahenden Friedensschluss mit Iran und fallenden Ölpreisen. Chips führten die Rally an: Micron +11 %, AMD +8 %, Lam Research +12,7 %, Intel +10 %.",
+          "bedeutung": "Die Kursgewinne spiegeln wider, wie unmittelbar die Markterwartung eines Iran-Deals das globale Risikosentiment bestimmt – ein Rückfall in Kriegsrhetorik könnte die Gewinne ebenso schnell auslöschen.",
+          "hintergrund": "Seit Kriegsbeginn Ende Februar hatten Energie- und Inflationssorgen für erhebliche Volatilität gesorgt; der S&P 500 hatte im März rund 13 Prozent eingebüßt, sich aber seitdem stark erholt und neue Allzeithochs über 7.600 Punkten markiert. Die Perspektive eines Waffenstillstands und wieder freier Schifffahrt durch die Straße von Hormus wirkt wie ein Doppelimpuls: Öl fällt, Unternehmensgewinne steigen.\n\nAuch Asien profitierte: Der MSCI Asien-Pazifik Index legte am Freitagmorgen um 3,3 Prozent zu, Südkoreas Kospi schoss sogar 8,1 Prozent in die Höhe. Europäische Futures deuteten auf ein Plus von 1,8 Prozent zum Handelsauftakt hin.",
+          "tag": "Aktienrally",
+          "emoji": "📈",
+          "quelle": "Bloomberg / TradingEconomics"
         },
         {
           "id": "boerse-2",
-          "titel": "Öl springt auf 92 Dollar – Gold fällt auf Elf-Wochen-Tief",
-          "zusammenfassung": "West Texas Intermediate Rohöl stieg nach den neuerlichen US-Angriffen auf den Iran auf bis zu 92,45 Dollar je Barrel, den höchsten Stand seit Monaten. Gold hingegen fiel um mehr als 2,5 Prozent auf unter 4.200 Dollar je Unze – einen Elf-Wochen-Tiefstand – belastet durch einen erstarken US-Dollar-Index, der die Marke von 100 überstieg.",
-          "bedeutung": "Die gegenläufige Bewegung von Öl und Gold zeigt, wie der Markt den Konflikt interpretiert: nicht als klassischen Safe-Haven-Moment, sondern als Inflations- und Zinsproblem, das den Dollar stärkt und Zinserhöhungen wahrscheinlicher macht.",
-          "hintergrund": "Rohöl war bereits vor dem jüngsten Eskalationsschub durch die US-Iran-Auseinandersetzung auf erhöhten Niveaus gehandelt worden. Die Straße von Hormuz, durch die rund ein Fünftel des weltweit gehandelten Öls fließt, ist zum zentralen geopolitischen Risikobarometer geworden.\n\nGold leidet unter dem paradoxen Effekt, dass steigende Realzinserwartungen – ausgelöst durch die Inflationsdaten – die Opportunitätskosten für das zinstragende Edelmetall erhöhen. Solange der Dollar stark bleibt und Märkte auf Fed-Zinserhöhungen wetten, bleibt Gold unter Druck, auch wenn die geopolitische Unsicherheit andauert.",
-          "tag": "Rohstoffmärkte",
+          "titel": "Ölpreis fällt – Straße von Hormus-Öffnung erwartet",
+          "zusammenfassung": "Rohöl (Brent) gab nach Trumps Ankündigung eines bevorstehenden Iran-Deals merklich nach, da Marktteilnehmer auf eine baldige Wiedereröffnung der Straße von Hormus setzen. Trump bestätigte: Die Aufhebung der Seeblockade sei Teil des aktuellen Verhandlungspakets.",
+          "bedeutung": "Ein freier Warenverkehr durch die Meerenge würde die wichtigste Engstelle des globalen Ölhandels entsperren und die Energiepreise signifikant senken – mit direkter Entlastungswirkung für Inflation und Wachstum weltweit.",
+          "hintergrund": "Die Straße von Hormus ist das meistbefahrene Nadelöhr für Rohöl und Gas weltweit; rund ein Fünftel der globalen Öllieferungen passiert sie. Die Sperrung seit Kriegsausbruch hat Brent auf über 94 Dollar pro Barrel getrieben – das höchste Niveau seit Russlands Ukraine-Invasion 2022 – und weltweit Inflationsdruck erzeugt.\n\nSelbst wenn ein Deal unterzeichnet wird, dürfte die vollständige Normalisierung Wochen dauern: Minen müssen geräumt, Schiffsrouten neu koordiniert werden. Dennoch würde allein das glaubhafte Signal eines Öffnungstermins Öl-Futures unter Druck setzen und an den Anleihemärkten die Inflationserwartungen rasch drücken.",
+          "tag": "Öl/Hormuz",
           "emoji": "🛢️",
-          "quelle": "Bloomberg / Schwab Market Update"
+          "quelle": "ABC News / Bloomberg / Schwab"
         }
       ]
     }
