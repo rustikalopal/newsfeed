@@ -1,0 +1,169 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
+<title>Morgenlage</title>
+<link rel="manifest" href="manifest.json" />
+<meta name="theme-color" content="#F6F4EF" />
+<!-- iOS Home-Screen / Standalone -->
+<meta name="apple-mobile-web-app-capable" content="yes" />
+<meta name="apple-mobile-web-app-status-bar-style" content="default" />
+<meta name="apple-mobile-web-app-title" content="Morgenlage" />
+<link rel="apple-touch-icon" href="icon-192.png" />
+<link rel="icon" href="icon-192.png" />
+<link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,400;9..144,500;9..144,600;9..144,700&family=Inter:wght@400;500;600&family=IBM+Plex+Mono:wght@400;500&display=swap" rel="stylesheet" />
+<style>
+:root{ --paper:#F6F4EF; --ink:#181816; --muted:#6E6A62; --line:#E4DFD5; }
+*{box-sizing:border-box;}
+body{margin:0; background:var(--paper); color:var(--ink); font-family:'Inter',system-ui,sans-serif; -webkit-font-smoothing:antialiased;}
+.masthead{position:sticky; top:0; z-index:20; display:flex; align-items:center; justify-content:space-between; gap:16px; padding:14px 24px; padding-top:max(14px, env(safe-area-inset-top)); background:rgba(246,244,239,0.9); backdrop-filter:blur(10px); border-bottom:1px solid var(--line);}
+.brand{display:flex; align-items:center; gap:11px;}
+.mark{width:26px; height:26px; color:#E9663B;}
+.wordmark{font-family:'Fraunces',serif; font-weight:600; font-size:23px; letter-spacing:-0.01em; line-height:1;}
+.subline{font-family:'IBM Plex Mono',monospace; font-size:10px; letter-spacing:0.16em; text-transform:uppercase; color:var(--muted); margin-top:3px;}
+.clock{font-family:'IBM Plex Mono',monospace; font-size:13px; color:var(--muted);}
+main{max-width:1040px; margin:0 auto; padding:40px 24px 70px;}
+.hero{margin-bottom:46px;}
+.hero-rule{height:3px; width:64px; margin-bottom:20px; background:linear-gradient(90deg,#E9663B,#C07A1E);}
+.eyebrow{font-family:'IBM Plex Mono',monospace; font-size:11px; letter-spacing:0.1em; text-transform:uppercase; color:var(--muted); margin-bottom:10px; display:flex; align-items:center; gap:9px; flex-wrap:wrap;}
+.dot{opacity:.5;} .read{color:#E9663B;}
+.greeting{font-family:'Fraunces',serif; font-weight:500; font-size:clamp(34px,5vw,52px); line-height:1.05; letter-spacing:-0.015em; margin:0;}
+.ressort{margin-bottom:50px;}
+.ressort-head{display:flex; align-items:center; gap:10px; padding-bottom:13px; margin-bottom:24px; border-bottom:1px solid var(--line);}
+.tick{width:10px; height:10px; border-radius:1px;}
+.ressort-name{font-family:'IBM Plex Mono',monospace; font-size:13px; font-weight:500; letter-spacing:0.13em; text-transform:uppercase;}
+.ressort-count{margin-left:auto; font-family:'IBM Plex Mono',monospace; font-size:11px; color:var(--muted);}
+.grid{display:grid; grid-template-columns:1fr; gap:18px;}
+.card{display:flex; flex-direction:column; gap:9px; background:#fff; border:1px solid var(--line); border-left:3px solid var(--line); border-radius:4px; padding:20px 22px;}
+.card-top{display:flex; align-items:center; gap:10px;}
+.emoji{font-size:24px; line-height:1;}
+.cat{font-family:'IBM Plex Mono',monospace; font-size:10.5px; font-weight:500; letter-spacing:0.1em; text-transform:uppercase;}
+.title{font-family:'Fraunces',serif; font-weight:600; line-height:1.18; letter-spacing:-0.01em; margin:0; font-size:20px;}
+.sum{font-size:14.5px; line-height:1.55; color:#3A3833; margin:0;}
+.why{font-size:13.5px; line-height:1.5; color:#48453F; margin:2px 0 0;}
+.why-label{display:block; font-family:'IBM Plex Mono',monospace; font-size:10px; letter-spacing:0.1em; text-transform:uppercase; margin-bottom:3px; font-weight:500;}
+.source{font-family:'IBM Plex Mono',monospace; font-size:10.5px; color:var(--muted); margin:6px 0 0;}
+.more{align-self:flex-start; margin-top:5px; padding:0; background:transparent; border:none; cursor:pointer; font-family:'IBM Plex Mono',monospace; font-size:11px; font-weight:500; letter-spacing:0.06em; text-transform:uppercase; opacity:.85;}
+.more:hover{opacity:1; text-decoration:underline;}
+.bg{margin-top:4px; padding:4px 0 2px 16px; border-left:2px solid var(--line); display:flex; flex-direction:column; gap:10px;}
+.bg p{margin:0; font-size:14.5px; line-height:1.62; color:#3A3833;}
+.footer{margin-top:40px; padding-top:22px; border-top:1px solid var(--line); display:flex; flex-direction:column; gap:6px; font-family:'IBM Plex Mono',monospace; font-size:11px; color:var(--muted); line-height:1.6;}
+.disclaimer{color:#A23B3B;}
+.state{padding:40px 0; color:var(--muted); font-family:'IBM Plex Mono',monospace; font-size:13px;}
+@media (max-width:680px){ main{padding:28px 16px 60px;} .masthead{padding:12px 16px;} .clock{display:none;} }
+</style>
+</head>
+<body>
+<header class="masthead">
+  <div class="brand">
+    <svg class="mark" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"><path d="M17 18a5 5 0 0 0-10 0"/><line x1="12" y1="9" x2="12" y2="2"/><line x1="4.2" y1="10.2" x2="5.6" y2="11.6"/><line x1="1" y1="18" x2="3" y2="18"/><line x1="21" y1="18" x2="23" y2="18"/><line x1="18.4" y1="11.6" x2="19.8" y2="10.2"/><line x1="23" y1="22" x2="1" y2="22"/><polyline points="8 6 12 2 16 6"/></svg>
+    <div><div class="wordmark">Morgenlage</div><div class="subline">Tägliches Briefing</div></div>
+  </div>
+  <span class="clock" id="clock"></span>
+</header>
+<main>
+  <section class="hero">
+    <div class="hero-rule"></div>
+    <div class="eyebrow" id="eyebrow"></div>
+    <h1 class="greeting" id="greeting"></h1>
+  </section>
+  <div id="content"><div class="state">Lade Briefing …</div></div>
+  <footer class="footer">
+    <span id="stand">Alle Meldungen werden per Web-Suche recherchiert und in eigenen Worten zusammengefasst.</span>
+    <span class="disclaimer">Börseninhalte dienen der Information, keine Anlageberatung.</span>
+  </footer>
+</main>
+<script>
+const COLORS = { politik:"#A23B3B", wirtschaft:"#2F6B4F", boerse:"#C07A1E" };
+
+function greeting(h){ return h < 11 ? "Guten Morgen" : h < 18 ? "Guten Tag" : "Guten Abend"; }
+function tick(){ document.getElementById("clock").textContent =
+  new Date().toLocaleTimeString("de-DE",{hour:"2-digit",minute:"2-digit"}); }
+setInterval(tick, 1000); tick();
+document.getElementById("greeting").textContent = greeting(new Date().getHours()) + ".";
+
+function readingMinutes(ressorts){
+  let w = 0;
+  ressorts.forEach(r => r.stories.forEach(s =>
+    w += (s.titel + " " + s.zusammenfassung + " " + s.bedeutung).split(/\s+/).length));
+  return Math.max(1, Math.round(w / 200));
+}
+function el(tag, cls, txt){ const e = document.createElement(tag); if(cls) e.className = cls; if(txt!=null) e.textContent = txt; return e; }
+
+function renderCard(story, color){
+  const card = el("article","card"); card.style.borderLeftColor = color;
+  const top = el("div","card-top");
+  top.appendChild(el("span","emoji", story.emoji));
+  const cat = el("span","cat", story.tag); cat.style.color = color; top.appendChild(cat);
+  card.appendChild(top);
+  card.appendChild(el("h3","title", story.titel));
+  card.appendChild(el("p","sum", story.zusammenfassung));
+  if(story.bedeutung){
+    const why = el("p","why"); const lab = el("span","why-label","Warum es zählt");
+    lab.style.color = color; why.appendChild(lab); why.appendChild(document.createTextNode(story.bedeutung));
+    card.appendChild(why);
+  }
+  if(story.hintergrund && story.hintergrund.trim()){
+    const btn = el("button","more","mehr ▾"); btn.style.color = color;
+    const bg = el("div","bg"); bg.style.borderLeftColor = color; bg.style.display = "none";
+    story.hintergrund.split(/\n{2,}/).map(p=>p.trim()).filter(Boolean).forEach(p => bg.appendChild(el("p",null,p)));
+    let open = false;
+    btn.addEventListener("click", () => { open = !open; bg.style.display = open ? "flex":"none"; btn.textContent = open ? "weniger ▲":"mehr ▾"; });
+    card.appendChild(btn); card.appendChild(bg);
+  }
+  if(story.quelle){
+    const src = el("p","source");
+    src.appendChild(document.createTextNode("Quelle: "));
+    if(story.quelle_url){
+      const a = el("a",null,story.quelle); a.href = story.quelle_url;
+      a.target = "_blank"; a.rel = "noopener"; a.style.color = "inherit";
+      src.appendChild(a);
+    } else {
+      src.appendChild(document.createTextNode(story.quelle));
+    }
+    card.appendChild(src);
+  }
+  return card;
+}
+
+function render(data){
+  document.getElementById("eyebrow").innerHTML = "";
+  const eb = document.getElementById("eyebrow");
+  eb.appendChild(document.createTextNode(data.datum || ""));
+  const mins = readingMinutes(data.ressorts || []);
+  const dot = el("span","dot","·"); const read = el("span","read","≈ " + mins + " Min. Lesezeit");
+  eb.appendChild(dot); eb.appendChild(read);
+
+  const content = document.getElementById("content"); content.innerHTML = "";
+  (data.ressorts || []).forEach(r => {
+    const color = COLORS[r.id] || "#181816";
+    const sec = el("section","ressort");
+    const head = el("div","ressort-head");
+    const t = el("span","tick"); t.style.background = color; head.appendChild(t);
+    head.appendChild(el("span","ressort-name", r.label));
+    head.appendChild(el("span","ressort-count", r.stories.length + " Meldungen"));
+    sec.appendChild(head);
+    const grid = el("div","grid");
+    r.stories.forEach(s => grid.appendChild(renderCard(s, color)));
+    sec.appendChild(grid); content.appendChild(sec);
+  });
+
+  if(data.generated_at){
+    const t = new Date(data.generated_at).toLocaleString("de-DE",{day:"2-digit",month:"2-digit",hour:"2-digit",minute:"2-digit"});
+    document.getElementById("stand").textContent =
+      "Recherchiert per Web-Suche, in eigenen Worten zusammengefasst. Stand: " + t + " Uhr.";
+  }
+}
+
+fetch("briefing.json?ts=" + Date.now())
+  .then(r => { if(!r.ok) throw new Error("HTTP " + r.status); return r.json(); })
+  .then(render)
+  .catch(err => {
+    document.getElementById("content").innerHTML =
+      '<div class="state">Konnte das Briefing nicht laden (' + err.message +
+      '). Es wird täglich morgens automatisch erzeugt.</div>';
+  });
+</script>
+</body>
+</html>
