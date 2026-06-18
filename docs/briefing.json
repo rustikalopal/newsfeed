@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-17T06:50:08.159399+00:00",
-  "datum": "Mittwoch, 17. Juni 2026",
+  "generated_at": "2026-06-18T08:00:01.188175+00:00",
+  "datum": "Donnerstag, 18. Juni 2026",
   "ressorts": [
     {
       "id": "politik",
@@ -9,36 +9,36 @@
       "stories": [
         {
           "id": "politik-0",
-          "titel": "Iran verkauft Atomdeal als Triumph, doch Not trieb ihn",
-          "zusammenfassung": "Teheran präsentiert die Einigung mit Washington als strategischen Sieg und betont eigene Stärke. Für die meisten Iraner im Land ist entscheidender, ob die Preise sinken und ein neuer Krieg abgewendet bleibt.",
-          "bedeutung": "Die Diskrepanz zwischen offizieller Siegesrhetorik und dem Alltag der Bevölkerung entscheidet über die innenpolitische Stabilität des Regimes und die Nachhaltigkeit des Deals.",
-          "hintergrund": "Nach monatelangen Spannungen und Gerüchten über einen möglichen Militärschlag haben sich Teheran und Washington auf ein Abkommen geeinigt, das die iranische Führung als Beweis eigener Verhandlungsmacht darstellt. Kritiker im In- und Ausland sehen darin vor allem den Druck massiver Wirtschaftssanktionen und die Erschöpfung der Bevölkerung als eigentliche Triebkräfte.\n\nFür die breite iranische Öffentlichkeit, die seit Jahren unter Inflation, Währungsverfall und internationaler Isolation leidet, ist die Frage nach Sieg oder Niederlage abstrakt. Sie messen den Deal daran, ob Alltagsprodukte bezahlbar werden und ob die Gefahr eines erneuten militärischen Konflikts tatsächlich gebannt ist – eine Erwartungslast, die jeden Kompromiss innenpolitisch unter Druck setzt.",
-          "tag": "Iran-Deal",
+          "titel": "US-Iran-Abkommen: Atomverzicht und Milliarden-Paket vereinbart",
+          "zusammenfassung": "Washington und Teheran haben ein 14-Punkte-Abkommen unterzeichnet, das einen Waffenstillstand, den dauerhaften Verzicht Irans auf Atomwaffen und ein Wiederaufbauprogramm im Umfang von 300 Milliarden Dollar vorsieht. Das Dokument gilt als diplomatischer Durchbruch nach Jahren eskalierender Spannungen.",
+          "bedeutung": "Das Abkommen könnte die geopolitische Ordnung des Nahen Ostens grundlegend verschieben und globale Energiemärkte sowie Sicherheitsarchitekturen neu kalibrieren.",
+          "hintergrund": "Der Deal ist das Ergebnis monatelanger Geheimverhandlungen und markiert eine scharfe Kehrtwende gegenüber der US-Maximaldruck-Strategie der vergangenen Jahre. Kern des Textes ist Irans verbindlicher Verzicht auf nukleare Bewaffnung, überwacht durch internationale Inspektoren.\n\nIm Gegenzug sichern die USA und ein Konsortium westlicher Staaten Teheran ein massives Investitionspaket zu, das auf Infrastruktur, Energienetze und Industrie zielt. Kritiker in Washington und Tel Aviv warnen, die Vereinbarung lasse sich kaum verlässlich verifizieren.",
+          "tag": "Diplomatie",
           "emoji": "🕊️",
           "quelle": "BBC",
-          "quelle_url": "https://www.bbc.com/news/articles/cn4rwzxvl8ko?at_medium=RSS&at_campaign=rss"
+          "quelle_url": "https://www.bbc.com/news/articles/cvgmqzr6p9mo?at_medium=RSS&at_campaign=rss"
         },
         {
           "id": "politik-1",
-          "titel": "Russisches Kriegsschiff soll im Ärmelkanal geschossen haben",
-          "zusammenfassung": "Großbritannien untersucht Berichte, wonach ein russisches Kriegsschiff im Ärmelkanal Warnschüsse auf eine britische Yacht abgegeben hat. Das betroffene Rentnerpaar schildert, es habe dem Schiff bereits einen Kurswechsel signalisiert, bevor die Schüsse fielen.",
-          "bedeutung": "Sollte sich der Vorfall bestätigen, wäre es ein dramatischer Übergriff russischer Streitkräfte in einem der meistbefahrenen Seewege der Welt, mit weitreichenden Folgen für die europäische Sicherheitslage.",
-          "hintergrund": "Der Ärmelkanal gilt als internationales Gewässer unter intensiver NATO-Überwachung; Zwischenfälle mit russischen Marinekräften sind dort bislang äußerst selten. Die britische Regierung hat Bestätigung und eine offizielle Stellungnahme angekündigt, während Moskau bisher schweigt.\n\nDer Vorfall fügt sich in ein Muster zunehmend aggressiven russischen Verhaltens gegenüber westlichen Schiffen und Flugzeugen in europäischen Gewässern und Lufträumen ein. Verteidigungsexperten warnen, dass derartige Eskalationen – selbst wenn sie als Warnschüsse deklariert werden – das Risiko unkontrollierter Konfrontationen erheblich steigern.",
-          "tag": "Russland NATO",
-          "emoji": "⚓",
+          "titel": "Trump kündigt Indien-Besuch an – Beziehungen zu Modi tauen auf",
+          "zusammenfassung": "US-Präsident Donald Trump hat überraschend angekündigt, Indien in naher Zukunft besuchen zu wollen, und signalisierte dabei uneingeschränkte Unterstützung für New Delhi. Das Verhältnis zwischen beiden Ländern war zuletzt durch Zollstreitigkeiten und Differenzen in der Handelspolitik erheblich belastet.",
+          "bedeutung": "Eine Annäherung zwischen Washington und New Delhi hätte weitreichende Folgen für die geopolitische Balance in Asien, insbesondere gegenüber China.",
+          "hintergrund": "Trumps Ankündigung überraschte Beobachter, da beide Regierungen noch bis vor Kurzem über gegenseitige Strafzölle und Technologiefragen stritten. Experten werten den Vorstoß als strategisches Signal, Indien stärker an den Westen zu binden.\n\nPremier Modi hatte zuletzt ebenfalls moderatere Töne gegenüber Washington angeschlagen. Ein erfolgreicher Staatsbesuch könnte den Rahmen für ein umfassendes bilaterales Handels- und Verteidigungsabkommen legen.",
+          "tag": "Geopolitik",
+          "emoji": "🤝",
           "quelle": "BBC",
-          "quelle_url": "https://www.bbc.com/news/articles/c20yzm84r7lo?at_medium=RSS&at_campaign=rss"
+          "quelle_url": "https://www.bbc.com/news/articles/c621glv9vnqo?at_medium=RSS&at_campaign=rss"
         },
         {
           "id": "politik-2",
-          "titel": "Putin-Kritiker und Satiriker in Polen erschossen",
-          "zusammenfassung": "Der russische Künstler Robert Kusowkow, bekannt unter dem Pseudonym Semyon Skrepetsky für seine scharfen Karikaturen von Kremlchef Wladimir Putin, wurde in Polen getötet. Der Fall wird als mutmaßliches politisch motiviertes Attentat eingestuft.",
-          "bedeutung": "Der Mord an einem prominenten Kremlkritiker auf EU-Boden verstärkt die Sorge vor einer gezielten russischen Einschüchterungskampagne gegen Oppositionelle im Ausland.",
-          "hintergrund": "Kusowkow hatte Russland nach dem Beginn des Krieges gegen die Ukraine verlassen und lebte im Exil in Polen, wo er seine Satire auf Putin und das russische Regime fortsetzte. Seine Arbeiten kursierten weit verbreitet in sozialen Netzwerken und machten ihn zu einer unübersehbaren Stimme der russischen Dissidenz.\n\nSein Tod reiht sich in eine Serie verdächtiger Todesfälle russischer Regierungskritiker im Ausland ein, darunter vergiftete Journalisten und ermordete Aktivisten in mehreren europäischen Ländern. Die polnischen Behörden haben Ermittlungen aufgenommen; Warschau und Brüssel stehen unter Druck, die Sicherheit gefährdeter Exilrussen neu zu bewerten.",
-          "tag": "Exil Attentat",
-          "emoji": "🖊️",
+          "titel": "Japans Verteidigungsminister: Aufrüstung unabdingbar für Frieden",
+          "zusammenfassung": "Verteidigungsminister Shinjiro Koizumi hat im BBC-Interview erklärt, Japan müsse seine pazifistische Nachkriegsdoktrin grundlegend überdenken, um Krieg in der Region zu verhindern. Er betonte, die sicherheitspolitische Lage in Ostasien habe sich dramatisch verändert.",
+          "bedeutung": "Japans schleichende Abkehr vom Pazifismus verändert das strategische Gleichgewicht in Ostasien und zieht enge Verbündete wie die USA, Südkorea und Australien in eine neue Sicherheitskalkulation.",
+          "hintergrund": "Die japanische Verfassung beschränkt seit 1947 die Streitkräfte des Landes auf reine Selbstverteidigung. Angesichts wachsender chinesischer Militärpräsenz im Pazifik und nordkoreanischer Raketentests hat Tokyo seine Verteidigungsausgaben in den vergangenen Jahren bereits erheblich erhöht.\n\nKoizumis Aussagen gehen weiter als bisherige offizielle Formulierungen und dürften innenpolitisch kontrovers aufgenommen werden. Oppositionsparteien und Teile der Zivilgesellschaft sehen in der Neuausrichtung eine Gefährdung des verfassungsmäßigen Friedensgebots.",
+          "tag": "Sicherheitspolitik",
+          "emoji": "🛡️",
           "quelle": "BBC",
-          "quelle_url": "https://www.bbc.com/news/articles/clyrzd5g6k2o?at_medium=RSS&at_campaign=rss"
+          "quelle_url": "https://www.bbc.com/news/articles/cly8qd4595eo?at_medium=RSS&at_campaign=rss"
         }
       ]
     },
@@ -49,36 +49,36 @@
       "stories": [
         {
           "id": "wirtschaft-0",
-          "titel": "Bank of Japan hebt Zinsen auf 31-Jahres-Hoch",
-          "zusammenfassung": "Die japanische Zentralbank hat ihren Leitzins erneut angehoben und damit den höchsten Stand seit über drei Jahrzehnten erreicht. Damit setzt die Bank of Japan ihre Abkehr von der jahrzehntelangen Nullzinspolitik konsequent fort.",
-          "bedeutung": "Japans geldpolitische Wende beeinflusst globale Kapitalströme erheblich, da billiges Yen-Kapital jahrelang Anlagen weltweit alimentierte und ein Zinsanstieg sogenannte Carry Trades auflösen kann.",
-          "hintergrund": "Seit 2024 erhöht die Bank of Japan schrittweise die Zinsen, nachdem sie jahrzehntelang mit Null- und Negativzinsen gegen Deflation und Stagnation gekämpft hatte. Steigende Löhne und hartnäckige Inflation haben die Notenbank veranlasst, den geldpolitischen Kurs grundlegend zu drehen.\n\nDie Entscheidung hat weitreichende internationale Konsequenzen: Investoren, die sich günstig in Yen verschuldet und das Kapital in höher verzinste Märkte investiert hatten, könnten nun zur Rückabwicklung gezwungen sein. Analysten beobachten besonders die Auswirkungen auf asiatische Schwellenmärkte und den US-Anleihemarkt.",
-          "tag": "Zinswende Japan",
+          "titel": "Fed lässt Zinsen unverändert – Iran-Unsicherheit bremst Entscheidung",
+          "zusammenfassung": "Die US-Notenbank Federal Reserve hat die Leitzinsen bei ihrer ersten Sitzung unter dem neuen Vorsitzenden Kevin Warsh unverändert in einer Spanne von 3,5 bis 3,75 Prozent belassen. Als wesentlicher Grund gilt die anhaltende Unsicherheit über wirtschaftliche Folgen des Iran-Deals.",
+          "bedeutung": "Die Haltung der Fed prägt Kreditkosten und Investitionsklima weltweit – jede Signalverschiebung durch den neuen Vorsitzenden wird von Märkten und Regierungen genau beobachtet.",
+          "hintergrund": "Kevin Warsh gilt als überzeugter Verfechter der Preisstabilität und hatte bereits im Vorfeld signalisiert, er werde keine vorschnellen Lockerungen vornehmen. Der Schritt enttäuscht Teile des Marktes, die auf eine baldige Zinssenkung spekuliert hatten.\n\nGleichzeitig sendete das geldpolitische Komitee Signale, dass einzelne Mitglieder sogar eine Erhöhung für 2026 in Betracht ziehen. Die mittlere Projektion sieht den Leitzins Ende 2026 leicht über dem aktuellen Niveau.",
+          "tag": "Geldpolitik",
           "emoji": "🏦",
           "quelle": "BBC",
-          "quelle_url": "https://www.bbc.com/news/articles/cjdgl213dpzo?at_medium=RSS&at_campaign=rss"
+          "quelle_url": "https://www.bbc.com/news/articles/cdjkl78vd7lo?at_medium=RSS&at_campaign=rss"
         },
         {
           "id": "wirtschaft-1",
-          "titel": "Thames Water droht Verstaatlichung nach Scheitern des Rettungsplans",
-          "zusammenfassung": "Die britische Regierung hat den jüngsten Rettungsvorschlag der Gläubiger von Thames Water abgelehnt, da er weder Verbrauchern noch der Umwelt ausreichend diene. Der Wasserversorger für London rückt damit einer staatlichen Übernahme näher.",
-          "bedeutung": "Eine Verstaatlichung des größten britischen Wasserversorgers wäre ein politisches und wirtschaftliches Präzedenzfall und würde Milliarden an öffentlichen Mitteln binden.",
-          "hintergrund": "Thames Water steckt seit Jahren in einer schweren Schuldenkrise und kämpft gleichzeitig mit Klagen wegen massiver Abwassereinleitungen in britische Gewässer. Mehrere Rettungsversuche privater Investoren sind gescheitert oder von Regulatoren abgelehnt worden.\n\nDie Regierung steht vor einem Dilemma: Eine Insolvenz würde Millionen Londoner Haushalte gefährden, eine Verstaatlichung aber erhebliche öffentliche Mittel binden und politische Grundsatzfragen über die Privatisierung kritischer Infrastruktur neu aufwerfen, die bis in die Thatcher-Ära zurückreichen.",
-          "tag": "Verstaatlichung Infrastruktur",
-          "emoji": "💧",
+          "titel": "Apple kündigt Preiserhöhungen wegen steigender KI-Chipkosten an",
+          "zusammenfassung": "Apple-Chef Tim Cook hat bestätigt, dass das Unternehmen seine Produktpreise angesichts stark gestiegener Kosten für KI-Chips anheben wird. Konkrete Zeitpunkte und betroffene Produktlinien wurden noch nicht kommuniziert.",
+          "bedeutung": "Als weltweit wertvollstes Unternehmen setzt Apple Preissignale, die gesamte Lieferketten und Konsumgütermärkte beeinflussen.",
+          "hintergrund": "Der KI-Boom treibt weltweit die Nachfrage nach Hochleistungschips in die Höhe und hat bei führenden Halbleiterherstellern wie TSMC und NVIDIA zu massiven Kapazitätsengpässen geführt. Apple, das eigene Chips entwickelt, spürt den Kostendruck dennoch, da Fertigungskapazitäten knapper und teurer werden.\n\nDie Ankündigung kommt in einer Phase, in der Verbraucher in vielen Märkten bereits unter erhöhten Lebenshaltungskosten leiden. Analysten erwarten, dass andere Technologiekonzerne dem Schritt folgen könnten.",
+          "tag": "Tech-Inflation",
+          "emoji": "📱",
           "quelle": "BBC",
-          "quelle_url": "https://www.bbc.com/news/articles/cly089d0wl7o?at_medium=RSS&at_campaign=rss"
+          "quelle_url": "https://www.bbc.com/news/articles/c3wyxvqdx1zo?at_medium=RSS&at_campaign=rss"
         },
         {
           "id": "wirtschaft-2",
-          "titel": "SpaceX überholt Amazon als fünftwertvollstes Unternehmen weltweit",
-          "zusammenfassung": "Elon Musks Raumfahrtkonzern SpaceX hat nach einem kräftigen Kursanstieg den Handelsriesen Amazon in der globalen Unternehmensrangliste überholt und ist nun das fünftwertvollste Unternehmen der Welt. Der Aufstieg unterstreicht das wachsende Anlegervertrauen in kommerzielle Raumfahrt.",
-          "bedeutung": "Der Wertanstieg zeigt, wie stark Investoren auf Raumfahrt, Satellitenkommunikation und staatliche Aufträge als nächste große Wachstumsfelder setzen.",
-          "hintergrund": "SpaceX hat in den vergangenen Jahren mit dem Starlink-Satellitennetzwerk und lukrativen Verträgen mit der NASA und dem US-Militär massive Einnahmen generiert. Hinzu kamen der jüngst vollzogene Börsengang sowie steigende Bewertungen im privaten Markt.\n\nKritiker wie Hedgefondsmanager Michael Burry zweifeln daran, ob die aktuelle Bewertung fundamental gerechtfertigt ist, und vergleichen sie mit früheren Technologieblasen. Dennoch signalisiert der Aufstieg von SpaceX einen strukturellen Wandel: Raumfahrt ist von einer staatlichen Domäne zu einem zentralen Sektor für private Kapitalanleger geworden.",
-          "tag": "Raumfahrt Bewertung",
-          "emoji": "🚀",
+          "titel": "Mondelez verteidigt Russland-Präsenz trotz Kriegs in der Ukraine",
+          "zusammenfassung": "Der Cadbury-Mutterkonzern Mondelez hält an seinem Russland-Geschäft fest und sieht darin nach Angaben von Konzernchef Dirk Van de Put die richtige unternehmerische Entscheidung. Das Unternehmen steht deswegen erneut unter Druck von Investoren und NGOs.",
+          "bedeutung": "Der Fall Mondelez steht exemplarisch für das ungelöste Dilemma westlicher Konzerne zwischen wirtschaftlichen Interessen und ethischem Druck in Kriegszeiten.",
+          "hintergrund": "Seit dem russischen Angriff auf die Ukraine haben Hunderte westlicher Unternehmen den Markt verlassen, doch eine Reihe von Konsumgüterherstellern ist geblieben. Mondelez begründet den Verbleib unter anderem mit Verantwortung gegenüber lokalen Mitarbeitern und laufenden Vertragsverpflichtungen.\n\nKritiker werfen dem Konzern vor, durch Steuerzahlungen und Aktivitäten indirekt den russischen Staatshaushalt zu stützen. Der Druck auf verbliebene Unternehmen dürfte mit jeder neuen Kriegseskalation zunehmen.",
+          "tag": "Unternehmensethik",
+          "emoji": "🍫",
           "quelle": "BBC",
-          "quelle_url": "https://www.bbc.com/news/articles/cvgd5g7d7gyo?at_medium=RSS&at_campaign=rss"
+          "quelle_url": "https://www.bbc.com/news/articles/cy06d00jpn0o?at_medium=RSS&at_campaign=rss"
         }
       ]
     },
@@ -89,36 +89,36 @@
       "stories": [
         {
           "id": "boerse-0",
-          "titel": "Fed-Chef Warsh verweigert wohl eigene Zinsprognose im Dot-Plot",
-          "zusammenfassung": "Notenbankchef Kevin Warsh soll bei der heutigen Veröffentlichung des quartalsweisen Zinsausblicks der Federal Reserve keinen eigenen Punkt im sogenannten Dot-Plot einreichen. Dies wäre ein ungewöhnliches Signal kurz vor einer richtungsweisenden geldpolitischen Entscheidung.",
-          "bedeutung": "Ein Verzicht des Fed-Vorsitzenden auf eine öffentliche Zinsprognose würde die Unsicherheit über den künftigen US-Zinspfad erhöhen und könnte Anleihe- wie Aktienmärkte weltweit bewegen.",
-          "hintergrund": "Der Dot-Plot, in dem einzelne Mitglieder des Offenmarktausschusses ihre persönlichen Zinserwartungen anonym einzeichnen, gilt als wichtigstes Signal für die künftige Geldpolitik der weltgrößten Zentralbank. Warsh, der erst seit einigen Monaten im Amt ist, scheint damit Distanz zur kollektiven Prognose signalisieren zu wollen.\n\nMarktteilnehmer werden die Veröffentlichung heute Abend besonders genau analysieren: Angesichts hartnäckiger Inflation in Teilen der Wirtschaft und gleichzeitig wachsender Rezessionssorgen ist die geldpolitische Richtung der Fed derzeit heißumstritten – und jede Abweichung vom Erwarteten dürfte unmittelbare Kursbewegungen auslösen.",
-          "tag": "Fed Zinsen",
-          "emoji": "📉",
+          "titel": "Fed-Mitglieder signalisieren mögliche Zinserhöhung noch 2026",
+          "zusammenfassung": "Mehrere Mitglieder des geldpolitischen Ausschusses der US-Notenbank haben in ihren Projektionen eine Leitzinserhöhung für das laufende Jahr in Aussicht gestellt, während Vorsitzender Warsh auf eine eigene Prognose verzichtete. Die mittlere Erwartung des Komitees liegt nun bei 3,8 Prozent zum Jahresende.",
+          "bedeutung": "Eine mögliche Zinserhöhung in den USA würde Anleihe- und Aktienmärkte weltweit unter Druck setzen und die Refinanzierungskosten für Schwellenländer erhöhen.",
+          "hintergrund": "Warsh hatte mit seiner Enthaltung bei der Zinsprognose gezielt Signale gesetzt, die Markterwartungen nicht unnötig zu lenken. Anleger interpretierten die Zurückhaltung als Ausdruck einer pragmatisch-datengetriebenen Haltung, die Flexibilität in beide Richtungen offenhält.\n\nBond-Stratege Jeffrey Gundlach kommentierte, Warsh werde entgegen früherer Hoffnungen kein Vorsitzender des billigen Geldes werden. Das drückte am Mittwoch die Kurse langlaufender US-Staatsanleihen leicht.",
+          "tag": "Fed-Zinsen",
+          "emoji": "📈",
           "quelle": "CNBC",
-          "quelle_url": "https://www.cnbc.com/2026/06/16/fed-chair-warsh-expected-to-withhold-dot-from-central-banks-interest-rate-outlook.html"
+          "quelle_url": "https://www.cnbc.com/2026/06/17/fed-projections-call-for-a-rate-hike-in-2026-but-chairman-warsh-likely-abstained.html"
         },
         {
           "id": "boerse-1",
-          "titel": "Iranische Tanker durchbrechen US-Blockade – Ölmarkt atmet auf",
-          "zusammenfassung": "Erstmals seit Monaten haben mindestens drei iranische Öltanker die US-Marine-Blockade verlassen und transportieren knapp fünf Millionen Barrel Rohöl auf die Weltmärkte. Reeder beobachten die Entwicklung rund um die Straße von Hormuz mit gemischten Gefühlen.",
-          "bedeutung": "Die Wiedereröffnung dieser Lieferkette könnte den Ölpreis unmittelbar beeinflussen und ist ein frühes Zeichen, ob der Iran-Deal auch wirtschaftlich greift.",
-          "hintergrund": "Die Straße von Hormuz ist einer der bedeutendsten Energiekorridore der Welt; rund ein Fünftel des globalen Ölhandels passiert diesen engen Meeresarm. Die US-Marine hatte im Zuge der Spannungen mit Teheran die Durchfahrt iranischer Tankschiffe blockiert, was die Ölpreise unter Aufwärtsdruck gesetzt hatte.\n\nDas Auslaufen der Tanker wird von Marktbeobachtern als erster konkreter Test des neuen Abkommens gewertet. Ob es sich um einen dauerhaften Kurswechsel oder eine einmalige Geste handelt, bleibt abzuwarten – die Reaktion der Rohölmärkte in den kommenden Stunden gilt als Stimmungsbarometer für die Stabilität der Einigung.",
-          "tag": "Rohöl Hormuz",
-          "emoji": "🛢️",
+          "titel": "Britische Inflation stagniert bei 2,8 Prozent – BoE unter Zugzwang",
+          "zusammenfassung": "Die Teuerungsrate in Großbritannien verharrte im Mai bei 2,8 Prozent und übertraf damit leicht die Erwartungen der Analysten. Die Bank of England, die am Donnerstag über ihren Leitzins entscheidet, steht damit vor einer heiklen Abwägung.",
+          "bedeutung": "Hartnäckige Inflation in einer der größten europäischen Volkswirtschaften dämpft Hoffnungen auf rasche Zinssenkungen und strahlt auf andere Zentralbanken aus.",
+          "hintergrund": "Während Lebensmittelpreise, insbesondere für Fleisch und Milchprodukte, ihren Anstieg verlangsamten, trieben höhere Benzinpreise die Gesamtrate auf stabilem Niveau. Ökonomen hatten mit einem leichten Rückgang gerechnet.\n\nDie anhaltende Unsicherheit durch die Lage im Nahen Osten nach dem Iran-Abkommen und schwankende Ölpreise machen eine verlässliche Inflationsprognose schwieriger. Märkte preisen eine Zinspause der Bank of England für diese Woche mit hoher Wahrscheinlichkeit ein.",
+          "tag": "Inflation UK",
+          "emoji": "💷",
           "quelle": "CNBC",
-          "quelle_url": "https://www.cnbc.com/2026/06/17/iranian-tankers-oil-shipment-us-iran-deal-strait-of-hormuz-.html"
+          "quelle_url": "https://www.cnbc.com/2026/06/17/inflation-uk-cpi-interest-rates-bank-of-england.html"
         },
         {
           "id": "boerse-2",
-          "titel": "SpaceX-Börsengang: Kleinanleger gehen großteils leer aus",
-          "zusammenfassung": "Beim mit Spannung erwarteten Börsengang von SpaceX erhielten Privatanleger nur einen Bruchteil der verfügbaren Aktien, während institutionelle Investoren bevorzugt bedient wurden. Wer Anteile ergatterte, steht nun vor der schwierigen Frage, ob er verkaufen oder langfristig halten soll.",
-          "bedeutung": "Der SpaceX-IPO testet, ob der Hype um kommerzielle Raumfahrt auch am Kassamarkt trägt – und wirft grundsätzliche Fragen über die Fairness moderner Börsengänge für Kleinanleger auf.",
-          "hintergrund": "SpaceX galt jahrelang als Paradebeispiel eines privaten Technologiegiganten, der bewusst den Gang an die Börse hinauszögerte. Der vollzogene Börsengang erzeugte enorme Nachfrage, die das verfügbare Angebot bei weitem überstieg, was zu einer für Privatanleger frustrierenden Zuteilungssituation führte.\n\nAnalysten beobachten nun das Kursverhalten in den ersten Handelstagen genau: Frühverkäufer realisieren schnelle Gewinne, Langzeithalter wetten auf Musks Ambitionen in Raumfahrt, Satellitenkommunikation und perspektivisch auch auf bemannte Marsmissionen – obwohl Prognosemärkte letzteren Schritt kaum vor 2030 erwarten.",
-          "tag": "IPO Raumfahrt",
-          "emoji": "📈",
+          "titel": "Iranische Öltanker durchbrechen erstmals US-Marine-Blockade",
+          "zusammenfassung": "Mindestens drei iranische Tanker mit zusammen knapp fünf Millionen Barrel Rohöl haben die seit Monaten bestehende US-Seeblockade im Golf von Oman durchbrochen. Schiffseigentümer und Ölhändler verfolgen die Entwicklung nach eigenen Angaben mit ungläubigem Staunen.",
+          "bedeutung": "Der Vorfall könnte einen raschen Anstieg des iranischen Ölexports einleiten und den Rohölpreis an den Weltmärkten spürbar bewegen.",
+          "hintergrund": "Die US-Blockade war ein zentrales Druckmittel gegenüber Teheran und hatte den iranischen Ölexport auf ein Minimum reduziert. Mit dem neu unterzeichneten Abkommen scheinen die Rahmenbedingungen für eine Lockerung der Sanktionen in Bewegung geraten zu sein.\n\nAnalysten des Energiemarkts warnen vor erheblicher kurzfristiger Volatilität beim Brent-Preis, sollte der Iran seine Förder- und Exportkapazitäten schnell hochfahren. OPEC+-Länder dürften ihre Produktionsstrategie neu bewerten müssen.",
+          "tag": "Öl & Energie",
+          "emoji": "🛢️",
           "quelle": "CNBC",
-          "quelle_url": "https://www.cnbc.com/2026/06/15/spacex-ipo-leaves-retail-investors-with-too-few-shares-and-a-tough-hold-or-sell-decision.html"
+          "quelle_url": "https://www.cnbc.com/2026/06/17/iranian-tankers-oil-shipment-us-iran-deal-strait-of-hormuz-.html"
         }
       ]
     }
