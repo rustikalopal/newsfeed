@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-18T08:00:01.188175+00:00",
-  "datum": "Donnerstag, 18. Juni 2026",
+  "generated_at": "2026-06-19T06:06:07.441213+00:00",
+  "datum": "Freitag, 19. Juni 2026",
   "ressorts": [
     {
       "id": "politik",
@@ -9,36 +9,36 @@
       "stories": [
         {
           "id": "politik-0",
-          "titel": "US-Iran-Abkommen: Atomverzicht und Milliarden-Paket vereinbart",
-          "zusammenfassung": "Washington und Teheran haben ein 14-Punkte-Abkommen unterzeichnet, das einen Waffenstillstand, den dauerhaften Verzicht Irans auf Atomwaffen und ein Wiederaufbauprogramm im Umfang von 300 Milliarden Dollar vorsieht. Das Dokument gilt als diplomatischer Durchbruch nach Jahren eskalierender Spannungen.",
-          "bedeutung": "Das Abkommen könnte die geopolitische Ordnung des Nahen Ostens grundlegend verschieben und globale Energiemärkte sowie Sicherheitsarchitekturen neu kalibrieren.",
-          "hintergrund": "Der Deal ist das Ergebnis monatelanger Geheimverhandlungen und markiert eine scharfe Kehrtwende gegenüber der US-Maximaldruck-Strategie der vergangenen Jahre. Kern des Textes ist Irans verbindlicher Verzicht auf nukleare Bewaffnung, überwacht durch internationale Inspektoren.\n\nIm Gegenzug sichern die USA und ein Konsortium westlicher Staaten Teheran ein massives Investitionspaket zu, das auf Infrastruktur, Energienetze und Industrie zielt. Kritiker in Washington und Tel Aviv warnen, die Vereinbarung lasse sich kaum verlässlich verifizieren.",
-          "tag": "Diplomatie",
+          "titel": "USA heben Seeblockade auf – Khamenei kritisiert Abkommen",
+          "zusammenfassung": "Washington und Teheran haben ein Abkommen geschlossen, das die US-Marine dazu veranlasste, die Seeblockade gegen den Iran aufzuheben. Irans Oberster Führer distanzierte sich öffentlich von dem Deal und bezeichnete Trumps Handeln als Zeichen der Schwäche.",
+          "bedeutung": "Das Ende der direkten US-iranischen Konfrontation könnte die Stabilität im Nahen Osten neu ordnen – birgt aber erhebliche Risiken, falls beide Seiten den Kompromiss innenpolitisch nicht halten können.",
+          "hintergrund": "Nach wochenlangen militärischen Spannungen und einer US-Seeblockade der iranischen Küstengewässer einigten sich Washington und Teheran auf ein Abkommen, dessen genaue Bedingungen weiter umstritten sind. Beide Seiten reklamieren den Ausgang als eigenen Sieg.\n\nIrans geistliches Oberhaupt Ali Khamenei machte jedoch deutlich, dass er dem Deal ablehnend gegenübersteht. Analysten warnen, dass die innenpolitische Opposition auf beiden Seiten die Umsetzung des Abkommens erheblich erschweren könnte.",
+          "tag": "US-Iran-Deal",
           "emoji": "🕊️",
           "quelle": "BBC",
-          "quelle_url": "https://www.bbc.com/news/articles/cvgmqzr6p9mo?at_medium=RSS&at_campaign=rss"
+          "quelle_url": "https://www.bbc.com/news/articles/c8r2eejdd35o?at_medium=RSS&at_campaign=rss"
         },
         {
           "id": "politik-1",
-          "titel": "Trump kündigt Indien-Besuch an – Beziehungen zu Modi tauen auf",
-          "zusammenfassung": "US-Präsident Donald Trump hat überraschend angekündigt, Indien in naher Zukunft besuchen zu wollen, und signalisierte dabei uneingeschränkte Unterstützung für New Delhi. Das Verhältnis zwischen beiden Ländern war zuletzt durch Zollstreitigkeiten und Differenzen in der Handelspolitik erheblich belastet.",
-          "bedeutung": "Eine Annäherung zwischen Washington und New Delhi hätte weitreichende Folgen für die geopolitische Balance in Asien, insbesondere gegenüber China.",
-          "hintergrund": "Trumps Ankündigung überraschte Beobachter, da beide Regierungen noch bis vor Kurzem über gegenseitige Strafzölle und Technologiefragen stritten. Experten werten den Vorstoß als strategisches Signal, Indien stärker an den Westen zu binden.\n\nPremier Modi hatte zuletzt ebenfalls moderatere Töne gegenüber Washington angeschlagen. Ein erfolgreicher Staatsbesuch könnte den Rahmen für ein umfassendes bilaterales Handels- und Verteidigungsabkommen legen.",
-          "tag": "Geopolitik",
-          "emoji": "🤝",
+          "titel": "Ukrainische Drohnen treffen Raffinerie nahe Moskau",
+          "zusammenfassung": "In einem der bislang größten ukrainischen Drohnenangriffe auf russisches Territorium schlugen knapp 200 Drohnen in einem Vorort südöstlich von Moskau ein. Eine Ölraffinerie und ein Einkaufszentrum gerieten in Brand, Anwohner berichteten von schwarzem Regen über der Stadt.",
+          "bedeutung": "Der Angriff demonstriert die wachsende ukrainische Fähigkeit, strategisch wichtige Infrastruktur tief im russischen Kernland zu treffen, und erhöht den Druck auf Moskau erheblich.",
+          "hintergrund": "Die Ukraine hat in den vergangenen Monaten ihre Drohnenkapazitäten massiv ausgebaut und richtet Angriffe zunehmend gegen Energieinfrastruktur weit hinter der Front. Der Angriff auf die Moskauer Umgebung stellt eine neue Eskalationsstufe dar.\n\nSchwarzer Ruß-Regen über Wohngebieten löste unter der Moskauer Bevölkerung Bestürzung aus. Russische Behörden bestätigten die Schäden, machten aber zunächst keine Angaben zur Zahl der Opfer.",
+          "tag": "Ukraine-Krieg",
+          "emoji": "💥",
           "quelle": "BBC",
-          "quelle_url": "https://www.bbc.com/news/articles/c621glv9vnqo?at_medium=RSS&at_campaign=rss"
+          "quelle_url": "https://www.bbc.com/news/articles/c98291g5rr1o?at_medium=RSS&at_campaign=rss"
         },
         {
           "id": "politik-2",
-          "titel": "Japans Verteidigungsminister: Aufrüstung unabdingbar für Frieden",
-          "zusammenfassung": "Verteidigungsminister Shinjiro Koizumi hat im BBC-Interview erklärt, Japan müsse seine pazifistische Nachkriegsdoktrin grundlegend überdenken, um Krieg in der Region zu verhindern. Er betonte, die sicherheitspolitische Lage in Ostasien habe sich dramatisch verändert.",
-          "bedeutung": "Japans schleichende Abkehr vom Pazifismus verändert das strategische Gleichgewicht in Ostasien und zieht enge Verbündete wie die USA, Südkorea und Australien in eine neue Sicherheitskalkulation.",
-          "hintergrund": "Die japanische Verfassung beschränkt seit 1947 die Streitkräfte des Landes auf reine Selbstverteidigung. Angesichts wachsender chinesischer Militärpräsenz im Pazifik und nordkoreanischer Raketentests hat Tokyo seine Verteidigungsausgaben in den vergangenen Jahren bereits erheblich erhöht.\n\nKoizumis Aussagen gehen weiter als bisherige offizielle Formulierungen und dürften innenpolitisch kontrovers aufgenommen werden. Oppositionsparteien und Teile der Zivilgesellschaft sehen in der Neuausrichtung eine Gefährdung des verfassungsmäßigen Friedensgebots.",
-          "tag": "Sicherheitspolitik",
-          "emoji": "🛡️",
+          "titel": "35 Tote bei Anschlag auf Nigers größten Flughafen",
+          "zusammenfassung": "Bewaffnete Angreifer überfielen den wichtigsten Flughafen Nigers und töteten dabei mindestens 35 Menschen. Der Anschlag reiht sich in eine seit einem Jahrzehnt andauernde dschihadistische Insurgenz in der Sahelzone ein.",
+          "bedeutung": "Der Terroranschlag auf einen zivilen Flughafen verdeutlicht die weiterhin destabilisierende Lage in der Sahelregion und die Grenzen der Sicherheitskontrolle durch die neuen Militärregierungen der Region.",
+          "hintergrund": "Niger zählt seit Jahren zu den am stärksten von islamistischen Milizen betroffenen Ländern der Sahelzone. Seit dem Militärputsch 2023 haben sich westliche Sicherheitspartnerschaften weitgehend aufgelöst, was dschihadistischen Gruppen wie dem Islamischen Staat in der Großen Sahara neue Spielräume eröffnet hat.\n\nBereits im Januar hatte ein ähnlicher Angriff auf denselben Flughafen stattgefunden. Die erneute Attacke wirft Fragen über die Effektivität der Sicherheitsvorkehrungen und die Stabilität des Landes auf.",
+          "tag": "Sahelzone",
+          "emoji": "🔫",
           "quelle": "BBC",
-          "quelle_url": "https://www.bbc.com/news/articles/cly8qd4595eo?at_medium=RSS&at_campaign=rss"
+          "quelle_url": "https://www.bbc.com/news/articles/cdx7krkdqeno?at_medium=RSS&at_campaign=rss"
         }
       ]
     },
@@ -49,36 +49,36 @@
       "stories": [
         {
           "id": "wirtschaft-0",
-          "titel": "Fed lässt Zinsen unverändert – Iran-Unsicherheit bremst Entscheidung",
-          "zusammenfassung": "Die US-Notenbank Federal Reserve hat die Leitzinsen bei ihrer ersten Sitzung unter dem neuen Vorsitzenden Kevin Warsh unverändert in einer Spanne von 3,5 bis 3,75 Prozent belassen. Als wesentlicher Grund gilt die anhaltende Unsicherheit über wirtschaftliche Folgen des Iran-Deals.",
-          "bedeutung": "Die Haltung der Fed prägt Kreditkosten und Investitionsklima weltweit – jede Signalverschiebung durch den neuen Vorsitzenden wird von Märkten und Regierungen genau beobachtet.",
-          "hintergrund": "Kevin Warsh gilt als überzeugter Verfechter der Preisstabilität und hatte bereits im Vorfeld signalisiert, er werde keine vorschnellen Lockerungen vornehmen. Der Schritt enttäuscht Teile des Marktes, die auf eine baldige Zinssenkung spekuliert hatten.\n\nGleichzeitig sendete das geldpolitische Komitee Signale, dass einzelne Mitglieder sogar eine Erhöhung für 2026 in Betracht ziehen. Die mittlere Projektion sieht den Leitzins Ende 2026 leicht über dem aktuellen Niveau.",
-          "tag": "Geldpolitik",
-          "emoji": "🏦",
+          "titel": "Brexit kostete Großbritannien sechs Prozent Wirtschaftsleistung",
+          "zusammenfassung": "Eine Auswertung von Unternehmensdaten der Bank of England legt nahe, dass die britische Wirtschaft durch den EU-Austritt rund sechs Prozent ihres Wachstumspotenzials eingebüßt hat. Die Analyse vergleicht die tatsächliche Entwicklung mit einem Szenario, in dem das Vereinigte Königreich in der EU verblieben wäre.",
+          "bedeutung": "Die Studie liefert die bislang belastbarsten Belege für den langfristigen wirtschaftlichen Schaden des Brexit und dürfte die politische Debatte über eine Annäherung an die EU neu entfachen.",
+          "hintergrund": "Seit dem Brexit 2020 streiten Ökonomen über das tatsächliche Ausmaß der wirtschaftlichen Folgen. Frühere Schätzungen variierten erheblich und wurden politisch stark instrumentalisiert. Die neuen Daten der Zentralbank gelten als methodisch besonders belastbar, da sie auf realen Unternehmensdaten basieren.\n\nFür die britische Regierung erhöht die Veröffentlichung den Druck, über engere Handels- und Regulierungsbeziehungen mit Brüssel zu verhandeln, ohne dabei die politisch sensible Frage einer EU-Mitgliedschaft direkt anzusprechen.",
+          "tag": "Brexit",
+          "emoji": "📉",
           "quelle": "BBC",
-          "quelle_url": "https://www.bbc.com/news/articles/cdjkl78vd7lo?at_medium=RSS&at_campaign=rss"
+          "quelle_url": "https://www.bbc.com/news/articles/cvg75npqkq4o?at_medium=RSS&at_campaign=rss"
         },
         {
           "id": "wirtschaft-1",
-          "titel": "Apple kündigt Preiserhöhungen wegen steigender KI-Chipkosten an",
-          "zusammenfassung": "Apple-Chef Tim Cook hat bestätigt, dass das Unternehmen seine Produktpreise angesichts stark gestiegener Kosten für KI-Chips anheben wird. Konkrete Zeitpunkte und betroffene Produktlinien wurden noch nicht kommuniziert.",
-          "bedeutung": "Als weltweit wertvollstes Unternehmen setzt Apple Preissignale, die gesamte Lieferketten und Konsumgütermärkte beeinflussen.",
-          "hintergrund": "Der KI-Boom treibt weltweit die Nachfrage nach Hochleistungschips in die Höhe und hat bei führenden Halbleiterherstellern wie TSMC und NVIDIA zu massiven Kapazitätsengpässen geführt. Apple, das eigene Chips entwickelt, spürt den Kostendruck dennoch, da Fertigungskapazitäten knapper und teurer werden.\n\nDie Ankündigung kommt in einer Phase, in der Verbraucher in vielen Märkten bereits unter erhöhten Lebenshaltungskosten leiden. Analysten erwarten, dass andere Technologiekonzerne dem Schritt folgen könnten.",
-          "tag": "Tech-Inflation",
-          "emoji": "📱",
+          "titel": "Bank of England lässt Zinsen angesichts Energiepreisen unverändert",
+          "zusammenfassung": "Die Bank of England hat ihren Leitzins auf dem aktuellen Niveau belassen und begründet dies mit den anhaltend hohen Energiepreisen infolge des Nahost-Krieges. Die letzte Zinssenkung hatte im Dezember stattgefunden; weitere Schritte wurden auf unbestimmte Zeit verschoben.",
+          "bedeutung": "Die Entscheidung bremst Hoffnungen auf baldige Erleichterungen für Verbraucher und Unternehmen in Großbritannien und zeigt, wie geopolitische Konflikte direkt geldpolitische Spielräume einengen.",
+          "hintergrund": "Trotz rückläufiger Inflationstendenz sieht sich die britische Zentralbank durch die Volatilität auf den globalen Energiemärkten zu einem vorsichtigen Kurs gezwungen. Die Nahost-Krise hatte Öl- und Gaspreise in die Höhe getrieben und die Inflationsprognosen erschwert.\n\nMit dem nun geschlossenen US-Iran-Abkommen könnten die Energiepreise mittelfristig nachgeben, was der Bank of England wieder mehr geldpolitischen Spielraum verschaffen würde. Analysten rechnen frühestens im Herbst mit einem erneuten Zinssenkungsschritt.",
+          "tag": "Geldpolitik",
+          "emoji": "🏦",
           "quelle": "BBC",
-          "quelle_url": "https://www.bbc.com/news/articles/c3wyxvqdx1zo?at_medium=RSS&at_campaign=rss"
+          "quelle_url": "https://www.bbc.com/news/articles/c33yzm5mdjpo?at_medium=RSS&at_campaign=rss"
         },
         {
           "id": "wirtschaft-2",
-          "titel": "Mondelez verteidigt Russland-Präsenz trotz Kriegs in der Ukraine",
-          "zusammenfassung": "Der Cadbury-Mutterkonzern Mondelez hält an seinem Russland-Geschäft fest und sieht darin nach Angaben von Konzernchef Dirk Van de Put die richtige unternehmerische Entscheidung. Das Unternehmen steht deswegen erneut unter Druck von Investoren und NGOs.",
-          "bedeutung": "Der Fall Mondelez steht exemplarisch für das ungelöste Dilemma westlicher Konzerne zwischen wirtschaftlichen Interessen und ethischem Druck in Kriegszeiten.",
-          "hintergrund": "Seit dem russischen Angriff auf die Ukraine haben Hunderte westlicher Unternehmen den Markt verlassen, doch eine Reihe von Konsumgüterherstellern ist geblieben. Mondelez begründet den Verbleib unter anderem mit Verantwortung gegenüber lokalen Mitarbeitern und laufenden Vertragsverpflichtungen.\n\nKritiker werfen dem Konzern vor, durch Steuerzahlungen und Aktivitäten indirekt den russischen Staatshaushalt zu stützen. Der Druck auf verbliebene Unternehmen dürfte mit jeder neuen Kriegseskalation zunehmen.",
-          "tag": "Unternehmensethik",
-          "emoji": "🍫",
+          "titel": "Offene Stellen in Großbritannien auf Fünfjahrestief",
+          "zusammenfassung": "Die Zahl der offenen Stellen auf dem britischen Arbeitsmarkt ist auf den niedrigsten Stand seit fünf Jahren gesunken. Die Daten deuten darauf hin, dass Unternehmen angesichts wirtschaftlicher Unsicherheit deutlich zurückhaltender bei Neueinstellungen werden.",
+          "bedeutung": "Ein schrumpfender Stellenmarkt ist ein früher Indikator für eine konjunkturelle Abschwächung und könnte den Druck auf die Regierung erhöhen, wachstumsfördernde Maßnahmen zu ergreifen.",
+          "hintergrund": "Der britische Arbeitsmarkt galt lange als erstaunlich robust gegenüber Konjunkturturbulenzen. Der nun deutliche Rückgang der Vakanzen signalisiert jedoch, dass Unternehmen ihre Einstellungsplanungen angesichts hoher Zinsen, gestiegener Energiekosten und globaler Unsicherheiten revidieren.\n\nÖkonomen betonen, dass ein rückläufiger Stellenmarkt bei gleichzeitig hoher Kerninflation die Aufgabe der Zentralbank weiter verkompliziert, da klassische geldpolitische Rezepte gegen Inflation die Konjunktur zusätzlich belasten könnten.",
+          "tag": "Arbeitsmarkt",
+          "emoji": "📊",
           "quelle": "BBC",
-          "quelle_url": "https://www.bbc.com/news/articles/cy06d00jpn0o?at_medium=RSS&at_campaign=rss"
+          "quelle_url": "https://www.bbc.com/news/articles/cm203nn7lzro?at_medium=RSS&at_campaign=rss"
         }
       ]
     },
@@ -89,33 +89,33 @@
       "stories": [
         {
           "id": "boerse-0",
-          "titel": "Fed-Mitglieder signalisieren mögliche Zinserhöhung noch 2026",
-          "zusammenfassung": "Mehrere Mitglieder des geldpolitischen Ausschusses der US-Notenbank haben in ihren Projektionen eine Leitzinserhöhung für das laufende Jahr in Aussicht gestellt, während Vorsitzender Warsh auf eine eigene Prognose verzichtete. Die mittlere Erwartung des Komitees liegt nun bei 3,8 Prozent zum Jahresende.",
-          "bedeutung": "Eine mögliche Zinserhöhung in den USA würde Anleihe- und Aktienmärkte weltweit unter Druck setzen und die Refinanzierungskosten für Schwellenländer erhöhen.",
-          "hintergrund": "Warsh hatte mit seiner Enthaltung bei der Zinsprognose gezielt Signale gesetzt, die Markterwartungen nicht unnötig zu lenken. Anleger interpretierten die Zurückhaltung als Ausdruck einer pragmatisch-datengetriebenen Haltung, die Flexibilität in beide Richtungen offenhält.\n\nBond-Stratege Jeffrey Gundlach kommentierte, Warsh werde entgegen früherer Hoffnungen kein Vorsitzender des billigen Geldes werden. Das drückte am Mittwoch die Kurse langlaufender US-Staatsanleihen leicht.",
-          "tag": "Fed-Zinsen",
-          "emoji": "📈",
+          "titel": "Bank of England hält Zinsen bei 3,75 Prozent stabil",
+          "zusammenfassung": "Das geldpolitische Komitee der Bank of England votierte mit sieben zu zwei Stimmen für eine Beibehaltung des Leitzinses von 3,75 Prozent. Als Hauptgründe nannte die Zentralbank die noch unklaren wirtschaftlichen Folgen des nahenden Iran-Friedensabkommens und die anhaltend erhöhten Energiepreise.",
+          "bedeutung": "Die Entscheidung sendet ein hawkishes Signal an die Märkte und dämpft Erwartungen einer baldigen geldpolitischen Lockerung in Großbritannien.",
+          "hintergrund": "Investoren hatten im Vorfeld der Sitzung auf eine mögliche Zinssenkung spekuliert, da der Ölpreis infolge der Nahost-Entspannung bereits spürbar nachgegeben hatte. Die Zentralbank signalisierte jedoch, dass sie erst eine nachhaltige Stabilisierung der Energiepreise und der Inflation abwarten will.\n\nDas Votum von 7:2 spiegelt eine deutliche Mehrheit für Vorsicht wider. Die beiden abweichenden Stimmen plädierten für eine sofortige Senkung um 25 Basispunkte, um dem konjunkturellen Gegenwind entgegenzuwirken.",
+          "tag": "Zinsentscheid",
+          "emoji": "🏛️",
           "quelle": "CNBC",
-          "quelle_url": "https://www.cnbc.com/2026/06/17/fed-projections-call-for-a-rate-hike-in-2026-but-chairman-warsh-likely-abstained.html"
+          "quelle_url": "https://www.cnbc.com/2026/06/18/inflation-interest-rates-uk-bank-of-england-iran-deal.html"
         },
         {
           "id": "boerse-1",
-          "titel": "Britische Inflation stagniert bei 2,8 Prozent – BoE unter Zugzwang",
-          "zusammenfassung": "Die Teuerungsrate in Großbritannien verharrte im Mai bei 2,8 Prozent und übertraf damit leicht die Erwartungen der Analysten. Die Bank of England, die am Donnerstag über ihren Leitzins entscheidet, steht damit vor einer heiklen Abwägung.",
-          "bedeutung": "Hartnäckige Inflation in einer der größten europäischen Volkswirtschaften dämpft Hoffnungen auf rasche Zinssenkungen und strahlt auf andere Zentralbanken aus.",
-          "hintergrund": "Während Lebensmittelpreise, insbesondere für Fleisch und Milchprodukte, ihren Anstieg verlangsamten, trieben höhere Benzinpreise die Gesamtrate auf stabilem Niveau. Ökonomen hatten mit einem leichten Rückgang gerechnet.\n\nDie anhaltende Unsicherheit durch die Lage im Nahen Osten nach dem Iran-Abkommen und schwankende Ölpreise machen eine verlässliche Inflationsprognose schwieriger. Märkte preisen eine Zinspause der Bank of England für diese Woche mit hoher Wahrscheinlichkeit ein.",
-          "tag": "Inflation UK",
-          "emoji": "💷",
+          "titel": "Fed-Chef Warsh überrascht Märkte mit harter Inflationsrhetorik",
+          "zusammenfassung": "US-Notenbankchef Kevin Warsh sendete bei seiner ersten geldpolitischen Sitzung als Fed-Vorsitzender überraschend restriktive Signale aus und ließ einen möglichen Zinsanstieg im Jahr 2026 offen. Die Märkte reagierten mit Kursverlusten, da viele Investoren auf eine lockerere Linie gehofft hatten.",
+          "bedeutung": "Ein hawkisher Fed-Chef könnte die Erwartungen an globale Zinssenkungszyklen grundlegend verschieben und weltweit Druck auf Aktienbewertungen und Anleihekurse ausüben.",
+          "hintergrund": "Kevin Warsh, der von der Trump-Administration als Fed-Vorsitzender eingesetzt wurde, galt zunächst vielen Marktteilnehmern als potenziell konzilianter gegenüber Zinssenkungswünschen des Weißen Hauses. Seine erste Sitzungsaussage zeichnete jedoch ein anderes Bild: Warsh betonte die Notwendigkeit, Inflationserwartungen langfristig zu verankern.\n\nRenommierte Anleihestrategen wie Jeffrey Gundlach lobten den Kurs als geeignet, eine Rückkehr der Inflation zu verhindern. Für Schwellenländer und hoch verschuldete Volkswirtschaften könnte eine anhaltend restriktive Fed jedoch erhebliche Kapitalabflüsse bedeuten.",
+          "tag": "Fed-Politik",
+          "emoji": "📈",
           "quelle": "CNBC",
-          "quelle_url": "https://www.cnbc.com/2026/06/17/inflation-uk-cpi-interest-rates-bank-of-england.html"
+          "quelle_url": "https://www.cnbc.com/2026/06/18/markets-are-set-for-a-much-more-hawkish-warsh-fed-than-expected.html"
         },
         {
           "id": "boerse-2",
-          "titel": "Iranische Öltanker durchbrechen erstmals US-Marine-Blockade",
-          "zusammenfassung": "Mindestens drei iranische Tanker mit zusammen knapp fünf Millionen Barrel Rohöl haben die seit Monaten bestehende US-Seeblockade im Golf von Oman durchbrochen. Schiffseigentümer und Ölhändler verfolgen die Entwicklung nach eigenen Angaben mit ungläubigem Staunen.",
-          "bedeutung": "Der Vorfall könnte einen raschen Anstieg des iranischen Ölexports einleiten und den Rohölpreis an den Weltmärkten spürbar bewegen.",
-          "hintergrund": "Die US-Blockade war ein zentrales Druckmittel gegenüber Teheran und hatte den iranischen Ölexport auf ein Minimum reduziert. Mit dem neu unterzeichneten Abkommen scheinen die Rahmenbedingungen für eine Lockerung der Sanktionen in Bewegung geraten zu sein.\n\nAnalysten des Energiemarkts warnen vor erheblicher kurzfristiger Volatilität beim Brent-Preis, sollte der Iran seine Förder- und Exportkapazitäten schnell hochfahren. OPEC+-Länder dürften ihre Produktionsstrategie neu bewerten müssen.",
-          "tag": "Öl & Energie",
+          "titel": "Iranische Öltanker verlassen erstmals seit Monaten US-Blockade",
+          "zusammenfassung": "Mindestens drei iranische Rohöltanker mit einer Gesamtladung von rund fünf Millionen Barrel haben die US-Seeblockade nach Abschluss des Friedensabkommens erstmals wieder verlassen. Reeder und Marktteilnehmer verfolgen die Öffnung der Straße von Hormus mit ungläubigem Staunen.",
+          "bedeutung": "Die Wiederöffnung der Straße von Hormus für iranische Exporte könnte das globale Ölangebot signifikant erhöhen und die Energiepreise weiter unter Druck setzen.",
+          "hintergrund": "Die US-Seeblockade hatte den iranischen Ölexport seit Beginn der Konfrontation nahezu vollständig zum Erliegen gebracht und maßgeblich zu den globalen Energiepreisanstiegen der vergangenen Monate beigetragen. Die Wiederaufnahme der Lieferungen gilt als erstes konkretes Zeichen einer Entspannung.\n\nAuf den Rohstoffmärkten sanken die Ölpreise bereits im Vorfeld der Tankerabfahrt. Analysten erwarten, dass eine vollständige Normalisierung des iranischen Exports den Brent-Preis mittelfristig um mehrere Dollar je Barrel drücken könnte, was Verbrauchern und energieintensiven Industrien weltweit zugutekäme.",
+          "tag": "Ölmarkt",
           "emoji": "🛢️",
           "quelle": "CNBC",
           "quelle_url": "https://www.cnbc.com/2026/06/17/iranian-tankers-oil-shipment-us-iran-deal-strait-of-hormuz-.html"
