@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-19T06:06:07.441213+00:00",
-  "datum": "Freitag, 19. Juni 2026",
+  "generated_at": "2026-06-21T19:32:11.060026+00:00",
+  "datum": "Sonntag, 21. Juni 2026",
   "ressorts": [
     {
       "id": "politik",
@@ -9,36 +9,36 @@
       "stories": [
         {
           "id": "politik-0",
-          "titel": "USA heben Seeblockade auf – Khamenei kritisiert Abkommen",
-          "zusammenfassung": "Washington und Teheran haben ein Abkommen geschlossen, das die US-Marine dazu veranlasste, die Seeblockade gegen den Iran aufzuheben. Irans Oberster Führer distanzierte sich öffentlich von dem Deal und bezeichnete Trumps Handeln als Zeichen der Schwäche.",
-          "bedeutung": "Das Ende der direkten US-iranischen Konfrontation könnte die Stabilität im Nahen Osten neu ordnen – birgt aber erhebliche Risiken, falls beide Seiten den Kompromiss innenpolitisch nicht halten können.",
-          "hintergrund": "Nach wochenlangen militärischen Spannungen und einer US-Seeblockade der iranischen Küstengewässer einigten sich Washington und Teheran auf ein Abkommen, dessen genaue Bedingungen weiter umstritten sind. Beide Seiten reklamieren den Ausgang als eigenen Sieg.\n\nIrans geistliches Oberhaupt Ali Khamenei machte jedoch deutlich, dass er dem Deal ablehnend gegenübersteht. Analysten warnen, dass die innenpolitische Opposition auf beiden Seiten die Umsetzung des Abkommens erheblich erschweren könnte.",
-          "tag": "US-Iran-Deal",
+          "titel": "USA und Iran verhandeln erstmals direkt über Friedensdeal",
+          "zusammenfassung": "In der Schweiz haben Vertreter der USA und des Iran direkte Gespräche über ein erstes Friedensabkommen aufgenommen. Die Verhandlungen finden vor dem Hintergrund anhaltender Kämpfe im Libanon und iranischer Behauptungen über eine Sperrung der Straße von Hormus statt.",
+          "bedeutung": "Direkte US-iranische Gespräche sind selten und könnten die geopolitische Lage im gesamten Nahen Osten sowie die globalen Energiemärkte grundlegend verändern.",
+          "hintergrund": "Die Verhandlungen in der Schweiz markieren einen seltenen Moment direkter Diplomatie zwischen Washington und Teheran, nachdem jahrelange Spannungen, Sanktionen und Stellvertreterkriege die Beziehungen nahezu eingefroren hatten. Beide Seiten brachten unterschiedliche Positionen zur Lage in der Meerenge mit.\n\nBesonders brisant ist die iranische Behauptung, die Straße von Hormus – eine der wichtigsten Schiffsrouten für den globalen Ölhandel – gesperrt zu haben. Die USA widersprechen dem. Eine Eskalation in dieser Region hätte unmittelbare Folgen für Energiepreise und Weltwirtschaft.",
+          "tag": "Nahost-Diplomatie",
           "emoji": "🕊️",
           "quelle": "BBC",
-          "quelle_url": "https://www.bbc.com/news/articles/c8r2eejdd35o?at_medium=RSS&at_campaign=rss"
+          "quelle_url": "https://www.bbc.com/news/articles/cwy0q41v1lzo?at_medium=RSS&at_campaign=rss"
         },
         {
           "id": "politik-1",
-          "titel": "Ukrainische Drohnen treffen Raffinerie nahe Moskau",
-          "zusammenfassung": "In einem der bislang größten ukrainischen Drohnenangriffe auf russisches Territorium schlugen knapp 200 Drohnen in einem Vorort südöstlich von Moskau ein. Eine Ölraffinerie und ein Einkaufszentrum gerieten in Brand, Anwohner berichteten von schwarzem Regen über der Stadt.",
-          "bedeutung": "Der Angriff demonstriert die wachsende ukrainische Fähigkeit, strategisch wichtige Infrastruktur tief im russischen Kernland zu treffen, und erhöht den Druck auf Moskau erheblich.",
-          "hintergrund": "Die Ukraine hat in den vergangenen Monaten ihre Drohnenkapazitäten massiv ausgebaut und richtet Angriffe zunehmend gegen Energieinfrastruktur weit hinter der Front. Der Angriff auf die Moskauer Umgebung stellt eine neue Eskalationsstufe dar.\n\nSchwarzer Ruß-Regen über Wohngebieten löste unter der Moskauer Bevölkerung Bestürzung aus. Russische Behörden bestätigten die Schäden, machten aber zunächst keine Angaben zur Zahl der Opfer.",
-          "tag": "Ukraine-Krieg",
-          "emoji": "💥",
+          "titel": "Israelische Angriffe in Gaza töten Kameramann von Al Jazeera",
+          "zusammenfassung": "Bei israelischen Luftangriffen in Gaza wurden sechs Menschen getötet, darunter ein Kameramann des Nachrichtensenders Al Jazeera. Das israelische Militär bezeichnete den Getöteten als Hamas-Scharfschützen, legte dafür jedoch keine Belege vor.",
+          "bedeutung": "Der Tod eines Medienschaffenden ohne Beweisvorlage verschärft die internationale Debatte über den Schutz von Journalisten in Konfliktzonen und die Glaubwürdigkeit militärischer Begründungen.",
+          "hintergrund": "Ahmed Wishah war für Al Jazeera in Gaza tätig, als er bei einem israelischen Angriff ums Leben kam. Der Sender und Menschenrechtsorganisationen forderten eine unabhängige Untersuchung. Die Vorwürfe des israelischen Militärs blieben bislang unbelegt.\n\nPresseschutzorganisationen verzeichnen seit Beginn des Gaza-Krieges eine erschreckend hohe Zahl getöteter Journalisten. Der Fall reiht sich in eine Debatte ein, die Fragen nach gezielten Angriffen auf Medienvertreter und deren Straflosigkeit aufwirft.",
+          "tag": "Gaza-Krieg",
+          "emoji": "📷",
           "quelle": "BBC",
-          "quelle_url": "https://www.bbc.com/news/articles/c98291g5rr1o?at_medium=RSS&at_campaign=rss"
+          "quelle_url": "https://www.bbc.com/news/articles/c4gy26p6pwzo?at_medium=RSS&at_campaign=rss"
         },
         {
           "id": "politik-2",
-          "titel": "35 Tote bei Anschlag auf Nigers größten Flughafen",
-          "zusammenfassung": "Bewaffnete Angreifer überfielen den wichtigsten Flughafen Nigers und töteten dabei mindestens 35 Menschen. Der Anschlag reiht sich in eine seit einem Jahrzehnt andauernde dschihadistische Insurgenz in der Sahelzone ein.",
-          "bedeutung": "Der Terroranschlag auf einen zivilen Flughafen verdeutlicht die weiterhin destabilisierende Lage in der Sahelregion und die Grenzen der Sicherheitskontrolle durch die neuen Militärregierungen der Region.",
-          "hintergrund": "Niger zählt seit Jahren zu den am stärksten von islamistischen Milizen betroffenen Ländern der Sahelzone. Seit dem Militärputsch 2023 haben sich westliche Sicherheitspartnerschaften weitgehend aufgelöst, was dschihadistischen Gruppen wie dem Islamischen Staat in der Großen Sahara neue Spielräume eröffnet hat.\n\nBereits im Januar hatte ein ähnlicher Angriff auf denselben Flughafen stattgefunden. Die erneute Attacke wirft Fragen über die Effektivität der Sicherheitsvorkehrungen und die Stabilität des Landes auf.",
-          "tag": "Sahelzone",
-          "emoji": "🔫",
+          "titel": "Frankreich: Extremhitze trifft halbes Land mit Rekordalarm",
+          "zusammenfassung": "Die Hälfte Frankreichs steht unter der höchsten Hitzewarnungsstufe, während die Temperaturen am Montag historische Rekordmarken erreichen könnten. Behörden verhängten beim Straßenmusikfestival Fête de la Musique ein Alkoholverbot.",
+          "bedeutung": "Die Hitzewelle zeigt einmal mehr die wachsende Bedrohung durch Extremwetterereignisse in Europa und stellt Gesundheitssysteme sowie öffentliche Verwaltungen vor akute Herausforderungen.",
+          "hintergrund": "Die Behörden riefen die Bevölkerung zur besonderen Vorsicht auf und richteten Kühllager ein. Der Zeitpunkt ist heikel: Die Fête de la Musique, die traditionell am 21. Juni stattfindet, lockt Millionen Menschen ins Freie.\n\nKlimaexperten ordnen die Häufung solcher Extremereignisse in Mitteleuropa in den Kontext des fortschreitenden Klimawandels ein. Frankreich erlebte bereits 2019 und 2022 Rekordtemperaturen, die tausende Todesopfer forderten.",
+          "tag": "Hitzewelle",
+          "emoji": "🌡️",
           "quelle": "BBC",
-          "quelle_url": "https://www.bbc.com/news/articles/cdx7krkdqeno?at_medium=RSS&at_campaign=rss"
+          "quelle_url": "https://www.bbc.com/news/articles/cgmdw4vn7y2o?at_medium=RSS&at_campaign=rss"
         }
       ]
     },
@@ -49,36 +49,36 @@
       "stories": [
         {
           "id": "wirtschaft-0",
-          "titel": "Brexit kostete Großbritannien sechs Prozent Wirtschaftsleistung",
-          "zusammenfassung": "Eine Auswertung von Unternehmensdaten der Bank of England legt nahe, dass die britische Wirtschaft durch den EU-Austritt rund sechs Prozent ihres Wachstumspotenzials eingebüßt hat. Die Analyse vergleicht die tatsächliche Entwicklung mit einem Szenario, in dem das Vereinigte Königreich in der EU verblieben wäre.",
-          "bedeutung": "Die Studie liefert die bislang belastbarsten Belege für den langfristigen wirtschaftlichen Schaden des Brexit und dürfte die politische Debatte über eine Annäherung an die EU neu entfachen.",
-          "hintergrund": "Seit dem Brexit 2020 streiten Ökonomen über das tatsächliche Ausmaß der wirtschaftlichen Folgen. Frühere Schätzungen variierten erheblich und wurden politisch stark instrumentalisiert. Die neuen Daten der Zentralbank gelten als methodisch besonders belastbar, da sie auf realen Unternehmensdaten basieren.\n\nFür die britische Regierung erhöht die Veröffentlichung den Druck, über engere Handels- und Regulierungsbeziehungen mit Brüssel zu verhandeln, ohne dabei die politisch sensible Frage einer EU-Mitgliedschaft direkt anzusprechen.",
-          "tag": "Brexit",
-          "emoji": "📉",
-          "quelle": "BBC",
-          "quelle_url": "https://www.bbc.com/news/articles/cvg75npqkq4o?at_medium=RSS&at_campaign=rss"
+          "titel": "EU will Wasserrecht für Bergbau-Boom aufweichen",
+          "zusammenfassung": "Die Europäische Kommission plant eine weitreichende Änderung des EU-Wasserschutzgesetzes, um den Abbau kritischer Rohstoffe zu beschleunigen. Viele der geplanten Minen liegen in Regionen, die bereits unter Wasserstress leiden.",
+          "bedeutung": "Der Schritt verdeutlicht das Spannungsfeld zwischen Europas strategischer Rohstoffunabhängigkeit und dem Schutz natürlicher Ressourcen – ein Zielkonflikt mit weitreichenden Folgen für Umwelt und Gesellschaft.",
+          "hintergrund": "Kritische Mineralien wie Lithium, Kobalt und seltene Erden gelten als unverzichtbar für die Energie- und Verkehrswende. Die EU will ihre Abhängigkeit von China reduzieren und setzt dabei verstärkt auf heimische Förderung.\n\nUmweltverbände und Wasserexperten warnen jedoch, dass die geplanten Eingriffe in das Wasserrahmenrichtlinie-Gesetz das hart erkämpfte Schutzniveau untergraben. In bereits trockenheitsgeplagten Ländern wie Spanien oder Portugal könnte der wasserintensive Bergbau bestehende Krisen verschärfen.",
+          "tag": "Rohstoffe",
+          "emoji": "⛏️",
+          "quelle": "The Guardian",
+          "quelle_url": "https://www.theguardian.com/environment/2026/jun/20/europe-backs-critical-minerals-mines-water-stressed-regions"
         },
         {
           "id": "wirtschaft-1",
-          "titel": "Bank of England lässt Zinsen angesichts Energiepreisen unverändert",
-          "zusammenfassung": "Die Bank of England hat ihren Leitzins auf dem aktuellen Niveau belassen und begründet dies mit den anhaltend hohen Energiepreisen infolge des Nahost-Krieges. Die letzte Zinssenkung hatte im Dezember stattgefunden; weitere Schritte wurden auf unbestimmte Zeit verschoben.",
-          "bedeutung": "Die Entscheidung bremst Hoffnungen auf baldige Erleichterungen für Verbraucher und Unternehmen in Großbritannien und zeigt, wie geopolitische Konflikte direkt geldpolitische Spielräume einengen.",
-          "hintergrund": "Trotz rückläufiger Inflationstendenz sieht sich die britische Zentralbank durch die Volatilität auf den globalen Energiemärkten zu einem vorsichtigen Kurs gezwungen. Die Nahost-Krise hatte Öl- und Gaspreise in die Höhe getrieben und die Inflationsprognosen erschwert.\n\nMit dem nun geschlossenen US-Iran-Abkommen könnten die Energiepreise mittelfristig nachgeben, was der Bank of England wieder mehr geldpolitischen Spielraum verschaffen würde. Analysten rechnen frühestens im Herbst mit einem erneuten Zinssenkungsschritt.",
-          "tag": "Geldpolitik",
-          "emoji": "🏦",
-          "quelle": "BBC",
-          "quelle_url": "https://www.bbc.com/news/articles/c33yzm5mdjpo?at_medium=RSS&at_campaign=rss"
+          "titel": "Wett-Boom in den USA überfordert Suchthilfe-Strukturen",
+          "zusammenfassung": "Online-Prognosemärkte wie Kalshi und Polymarket wachsen rasant, während die öffentliche Gesundheitsversorgung für Spielsüchtige mit dieser Entwicklung nicht Schritt hält. Gesundheitsexperten schlagen Alarm und fordern dringend staatliche Unterstützung.",
+          "bedeutung": "Die unkontrollierte Expansion des digitalen Wettmarktes – begünstigt durch politische Rückendeckung auf höchster Ebene – schafft soziale Risiken, die bislang kaum regulatorisch adressiert werden.",
+          "hintergrund": "Präsident Trump hatte prominente Online-Wettplattformen öffentlich befürwortet, was deren Wachstum zusätzlich befeuerte. Inzwischen können US-Bürger auf nahezu jedes politische, wirtschaftliche oder gesellschaftliche Ereignis setzen.\n\nSuchtmediziner berichten von einem deutlichen Anstieg problematischer Nutzungsmuster, während Beratungsangebote chronisch unterfinanziert bleiben. Kritiker sehen darin ein strukturelles Versagen an der Schnittstelle von Technologie, Politik und öffentlicher Gesundheit.",
+          "tag": "Glücksspiel",
+          "emoji": "🎲",
+          "quelle": "The Guardian",
+          "quelle_url": "https://www.theguardian.com/us-news/2026/jun/21/prediction-markets-health-advocates-on-gambling"
         },
         {
           "id": "wirtschaft-2",
-          "titel": "Offene Stellen in Großbritannien auf Fünfjahrestief",
-          "zusammenfassung": "Die Zahl der offenen Stellen auf dem britischen Arbeitsmarkt ist auf den niedrigsten Stand seit fünf Jahren gesunken. Die Daten deuten darauf hin, dass Unternehmen angesichts wirtschaftlicher Unsicherheit deutlich zurückhaltender bei Neueinstellungen werden.",
-          "bedeutung": "Ein schrumpfender Stellenmarkt ist ein früher Indikator für eine konjunkturelle Abschwächung und könnte den Druck auf die Regierung erhöhen, wachstumsfördernde Maßnahmen zu ergreifen.",
-          "hintergrund": "Der britische Arbeitsmarkt galt lange als erstaunlich robust gegenüber Konjunkturturbulenzen. Der nun deutliche Rückgang der Vakanzen signalisiert jedoch, dass Unternehmen ihre Einstellungsplanungen angesichts hoher Zinsen, gestiegener Energiekosten und globaler Unsicherheiten revidieren.\n\nÖkonomen betonen, dass ein rückläufiger Stellenmarkt bei gleichzeitig hoher Kerninflation die Aufgabe der Zentralbank weiter verkompliziert, da klassische geldpolitische Rezepte gegen Inflation die Konjunktur zusätzlich belasten könnten.",
-          "tag": "Arbeitsmarkt",
-          "emoji": "📊",
-          "quelle": "BBC",
-          "quelle_url": "https://www.bbc.com/news/articles/cm203nn7lzro?at_medium=RSS&at_campaign=rss"
+          "titel": "Wachsende Ungleichheit: Droht Amerika die Plutokratie?",
+          "zusammenfassung": "Eine neue Analyse beleuchtet die rasant wachsende Vermögenskluft in den USA und fragt, ob das Land noch den politischen Willen zur Umverteilung aufbringt. Superreiche wie Elon Musk gelten dabei als Symbol einer zunehmend schieflastigen Prosperität.",
+          "bedeutung": "Die Frage nach Vermögenskonzentration und demokratischer Kontrolle ist nicht nur ein US-Phänomen, sondern berührt die politische Stabilität westlicher Gesellschaften insgesamt.",
+          "hintergrund": "Seit Jahrzehnten wächst in den USA der Abstand zwischen den obersten ein Prozent und dem Rest der Bevölkerung. Steuersenkungen, der Aufstieg technologischer Monopole und schwache Gewerkschaften haben diese Entwicklung beschleunigt.\n\nÖkonomen warnen, dass extreme Ungleichheit nicht nur sozialen Zusammenhalt gefährdet, sondern auch wirtschaftliches Wachstum bremst, da Kaufkraft und Chancengleichheit schwinden. Die politische Blockade gegen Umverteilungsmaßnahmen gilt vielen als Symptom des Problems selbst.",
+          "tag": "Ungleichheit",
+          "emoji": "⚖️",
+          "quelle": "The Guardian",
+          "quelle_url": "https://www.theguardian.com/us-news/2026/jun/21/us-inequality-plutocracy"
         }
       ]
     },
@@ -89,36 +89,36 @@
       "stories": [
         {
           "id": "boerse-0",
-          "titel": "Bank of England hält Zinsen bei 3,75 Prozent stabil",
-          "zusammenfassung": "Das geldpolitische Komitee der Bank of England votierte mit sieben zu zwei Stimmen für eine Beibehaltung des Leitzinses von 3,75 Prozent. Als Hauptgründe nannte die Zentralbank die noch unklaren wirtschaftlichen Folgen des nahenden Iran-Friedensabkommens und die anhaltend erhöhten Energiepreise.",
-          "bedeutung": "Die Entscheidung sendet ein hawkishes Signal an die Märkte und dämpft Erwartungen einer baldigen geldpolitischen Lockerung in Großbritannien.",
-          "hintergrund": "Investoren hatten im Vorfeld der Sitzung auf eine mögliche Zinssenkung spekuliert, da der Ölpreis infolge der Nahost-Entspannung bereits spürbar nachgegeben hatte. Die Zentralbank signalisierte jedoch, dass sie erst eine nachhaltige Stabilisierung der Energiepreise und der Inflation abwarten will.\n\nDas Votum von 7:2 spiegelt eine deutliche Mehrheit für Vorsicht wider. Die beiden abweichenden Stimmen plädierten für eine sofortige Senkung um 25 Basispunkte, um dem konjunkturellen Gegenwind entgegenzuwirken.",
-          "tag": "Zinsentscheid",
-          "emoji": "🏛️",
+          "titel": "Fed-Umbau: Neuer Chef Warsh leitet stille Revolution ein",
+          "zusammenfassung": "Kevin Warsh, der neue Vorsitzende der US-Notenbank Federal Reserve, hat erste strukturelle Veränderungen angestoßen, die auf eine umfassende Neuausrichtung der Institution hindeuten. Interne Arbeitsgruppen überprüfen nahezu alle zentralen Abläufe und Strategien der Fed.",
+          "bedeutung": "Veränderungen an der Spitze und im Inneren der Federal Reserve haben direkte Auswirkungen auf globale Zinspolitik, Währungen und Kapitalmärkte weltweit.",
+          "hintergrund": "Warsh gilt als Kritiker der unter seinem Vorgänger etablierten geldpolitischen Orthodoxie. Beobachter sprechen von einem Regimewechsel im Samthandschuh – tiefgreifend in der Substanz, aber bewusst zurückhaltend in der Kommunikation nach außen.\n\nAn den Märkten werden die Signale aufmerksam verfolgt. Jede Abkehr von bisherigen Inflationszielen, Kommunikationsstandards oder regulatorischen Ansätzen der Fed kann Kapitalströme, Anleihemärkte und den Dollarkurs erheblich bewegen.",
+          "tag": "Geldpolitik",
+          "emoji": "🏦",
           "quelle": "CNBC",
-          "quelle_url": "https://www.cnbc.com/2026/06/18/inflation-interest-rates-uk-bank-of-england-iran-deal.html"
+          "quelle_url": "https://www.cnbc.com/2026/06/21/how-kevin-warsh-has-set-out-to-remake-the-fed.html"
         },
         {
           "id": "boerse-1",
-          "titel": "Fed-Chef Warsh überrascht Märkte mit harter Inflationsrhetorik",
-          "zusammenfassung": "US-Notenbankchef Kevin Warsh sendete bei seiner ersten geldpolitischen Sitzung als Fed-Vorsitzender überraschend restriktive Signale aus und ließ einen möglichen Zinsanstieg im Jahr 2026 offen. Die Märkte reagierten mit Kursverlusten, da viele Investoren auf eine lockerere Linie gehofft hatten.",
-          "bedeutung": "Ein hawkisher Fed-Chef könnte die Erwartungen an globale Zinssenkungszyklen grundlegend verschieben und weltweit Druck auf Aktienbewertungen und Anleihekurse ausüben.",
-          "hintergrund": "Kevin Warsh, der von der Trump-Administration als Fed-Vorsitzender eingesetzt wurde, galt zunächst vielen Marktteilnehmern als potenziell konzilianter gegenüber Zinssenkungswünschen des Weißen Hauses. Seine erste Sitzungsaussage zeichnete jedoch ein anderes Bild: Warsh betonte die Notwendigkeit, Inflationserwartungen langfristig zu verankern.\n\nRenommierte Anleihestrategen wie Jeffrey Gundlach lobten den Kurs als geeignet, eine Rückkehr der Inflation zu verhindern. Für Schwellenländer und hoch verschuldete Volkswirtschaften könnte eine anhaltend restriktive Fed jedoch erhebliche Kapitalabflüsse bedeuten.",
-          "tag": "Fed-Politik",
-          "emoji": "📈",
-          "quelle": "CNBC",
-          "quelle_url": "https://www.cnbc.com/2026/06/18/markets-are-set-for-a-much-more-hawkish-warsh-fed-than-expected.html"
-        },
-        {
-          "id": "boerse-2",
-          "titel": "Iranische Öltanker verlassen erstmals seit Monaten US-Blockade",
-          "zusammenfassung": "Mindestens drei iranische Rohöltanker mit einer Gesamtladung von rund fünf Millionen Barrel haben die US-Seeblockade nach Abschluss des Friedensabkommens erstmals wieder verlassen. Reeder und Marktteilnehmer verfolgen die Öffnung der Straße von Hormus mit ungläubigem Staunen.",
-          "bedeutung": "Die Wiederöffnung der Straße von Hormus für iranische Exporte könnte das globale Ölangebot signifikant erhöhen und die Energiepreise weiter unter Druck setzen.",
-          "hintergrund": "Die US-Seeblockade hatte den iranischen Ölexport seit Beginn der Konfrontation nahezu vollständig zum Erliegen gebracht und maßgeblich zu den globalen Energiepreisanstiegen der vergangenen Monate beigetragen. Die Wiederaufnahme der Lieferungen gilt als erstes konkretes Zeichen einer Entspannung.\n\nAuf den Rohstoffmärkten sanken die Ölpreise bereits im Vorfeld der Tankerabfahrt. Analysten erwarten, dass eine vollständige Normalisierung des iranischen Exports den Brent-Preis mittelfristig um mehrere Dollar je Barrel drücken könnte, was Verbrauchern und energieintensiven Industrien weltweit zugutekäme.",
+          "titel": "Hormus-Krise treibt Ölmärkte in höchste Alarmbereitschaft",
+          "zusammenfassung": "Der Beginn direkter US-iranischer Friedensgespräche fällt mit widersprüchlichen Angaben zur Straße von Hormus zusammen: Iran behauptet die Meerenge gesperrt zu haben, Washington widerspricht. Die Unsicherheit lässt die Energiemärkte aufhorchen.",
+          "bedeutung": "Die Straße von Hormus ist eine der kritischsten Engstellen für den globalen Öltransport – jede glaubhafte Bedrohung dieser Route hat unmittelbare Auswirkungen auf Rohstoffpreise und Weltwirtschaft.",
+          "hintergrund": "Rund 20 Prozent des weltweit gehandelten Erdöls passieren die Straße von Hormus täglich. Eine tatsächliche oder auch nur befürchtete Schließung würde Ölpreise schlagartig nach oben treiben und Lieferketten unter Druck setzen.\n\nDie gegensätzlichen Darstellungen der Lage durch Teheran und Washington schaffen an den Terminmärkten erhebliche Unsicherheit. Händler setzen auf Volatilität, während Energieversorger und Fluggesellschaften ihre Absicherungsstrategien überprüfen.",
           "tag": "Ölmarkt",
           "emoji": "🛢️",
           "quelle": "CNBC",
-          "quelle_url": "https://www.cnbc.com/2026/06/17/iranian-tankers-oil-shipment-us-iran-deal-strait-of-hormuz-.html"
+          "quelle_url": "https://www.cnbc.com/2026/06/20/iran-reportedly-closes-strait-of-hormuz-again-raising-doubt-over-talks.html"
+        },
+        {
+          "id": "boerse-2",
+          "titel": "Bitcoin-Boom: Kryptowährung wie einst das Smartphone?",
+          "zusammenfassung": "Führende Stimmen aus der Kryptoindustrie vergleichen die transformative Kraft von Bitcoin mit der des Smartphones und rufen Investoren dazu auf, das Potenzial der Währung nicht zu unterschätzen. Der Vergleich befeuert die Debatte über die langfristige Rolle von Krypto im Finanzsystem.",
+          "bedeutung": "Die zunehmende Institutionalisierung dieser Argumentation signalisiert, dass Bitcoin sich von einem Spekulationsobjekt zu einem ernst genommenen Bestandteil globaler Anlagestrategien entwickelt.",
+          "hintergrund": "Nach mehreren Boom-und-Bust-Zyklen befindet sich Bitcoin erneut in einer Phase steigender Aufmerksamkeit institutioneller Anleger. Der Vergleich mit dem Smartphone-Paradigma zielt darauf ab, skeptische Großinvestoren von der strukturellen Bedeutung des Assets zu überzeugen.\n\nKritiker verweisen weiterhin auf Volatilität, Regulierungsrisiken und den hohen Energieverbrauch des Bitcoin-Netzwerks. Die Debatte spiegelt eine breitere Auseinandersetzung darüber wider, welche Rolle dezentrale digitale Währungen im zukünftigen globalen Finanzsystem spielen werden.",
+          "tag": "Krypto",
+          "emoji": "₿",
+          "quelle": "CNBC",
+          "quelle_url": "https://www.cnbc.com/2026/06/20/bitcoin-as-revolutionary-as-smartphone-according-to-coindesk.html"
         }
       ]
     }
