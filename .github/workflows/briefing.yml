@@ -2,8 +2,11 @@ name: Morgenlage Briefing
 
 on:
   schedule:
-    - cron: "0 4 * * *"   # 06:00 Sommerzeit
-    - cron: "0 5 * * *"   # 06:00 Winterzeit
+    # Krumme Minute (:23) statt :00 -> deutlich weniger Scheduler-Verzögerung.
+    # Zwei Zeiten decken Sommer- und Winterzeit ab; das Datums-Gate sorgt dafür,
+    # dass der eigentliche Lauf trotzdem nur EINMAL pro Tag passiert.
+    - cron: "23 4 * * *"
+    - cron: "23 5 * * *"
   workflow_dispatch: {}
 
 permissions:
@@ -19,13 +22,25 @@ jobs:
     outputs:
       run: ${{ steps.check.outputs.run }}
     steps:
-      - id: check
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Heute schon erzeugt?
+        id: check
         run: |
-          if [ "${{ github.event_name }}" = "workflow_dispatch" ] || [ "$(TZ=Europe/Berlin date +%H)" = "06" ]; then
+          if [ "${{ github.event_name }}" = "workflow_dispatch" ]; then
+            echo "Manuell ausgelöst – läuft."
             echo "run=true" >> "$GITHUB_OUTPUT"
-          else
-            echo "run=false (lokal $(TZ=Europe/Berlin date +%H) Uhr)" >> "$GITHUB_OUTPUT"
+            exit 0
+          fi
+          today="$(date -u +%F)"
+          gen="$(python3 -c "import json; print((json.load(open('docs/briefing.json')).get('generated_at') or '')[:10])" 2>/dev/null || echo '')"
+          if [ "$gen" = "$today" ]; then
+            echo "Heute ($today) bereits erzeugt – überspringe."
             echo "run=false" >> "$GITHUB_OUTPUT"
+          else
+            echo "Heute noch nicht erzeugt (zuletzt: ${gen:-nie}) – läuft."
+            echo "run=true" >> "$GITHUB_OUTPUT"
           fi
 
   build:
