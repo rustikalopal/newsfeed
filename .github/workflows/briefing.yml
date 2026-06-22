@@ -64,7 +64,7 @@ jobs:
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
           MORGENLAGE_MODEL: ${{ vars.MORGENLAGE_MODEL || 'claude-sonnet-4-6' }}
         run: python briefing.py
-
+        
       - name: Ergebnis committen
         run: |
           git config user.name "github-actions[bot]"
@@ -72,7 +72,14 @@ jobs:
           git add docs/briefing.json
           if git diff --staged --quiet; then
             echo "Keine Änderung – nichts zu committen."
-          else
-            git commit -m "Briefing $(date -u +%Y-%m-%d)"
-            git push
+            exit 0
           fi
+          git commit -m "Briefing $(date -u +%Y-%m-%d)"
+          # Bis zu 3 Versuche: neueste Remote-Änderungen holen, dann pushen
+          for i in 1 2 3; do
+            git pull --rebase origin "${GITHUB_REF_NAME}" && git push origin "HEAD:${GITHUB_REF_NAME}" && exit 0
+            echo "Push-Versuch $i fehlgeschlagen, neuer Versuch …"
+            sleep 3
+          done
+          echo "Push nach mehreren Versuchen fehlgeschlagen."
+          exit 1
