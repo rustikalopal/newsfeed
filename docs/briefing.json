@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-22T08:01:20.483514+00:00",
-  "datum": "Montag, 22. Juni 2026",
+  "generated_at": "2026-06-23T07:29:28.118853+00:00",
+  "datum": "Dienstag, 23. Juni 2026",
   "ressorts": [
     {
       "id": "politik",
@@ -9,36 +9,36 @@
       "stories": [
         {
           "id": "politik-0",
-          "titel": "US-Iran-Gespräche beginnen vielversprechend in der Schweiz",
-          "zusammenfassung": "Erste Verhandlungsrunde zwischen den USA und dem Iran in der Schweiz wurde von Vermittlern als ermutigend bewertet. Beide Seiten hatten sich zuvor auf ein 60-Tage-Fenster für eine endgültige Einigung geeinigt.",
-          "bedeutung": "Ein Durchbruch könnte die atomare Bedrohungslage im Nahen Osten grundlegend verändern und globale Energiemärkte stabilisieren.",
-          "hintergrund": "Die Verhandlungen starteten am Sonntag in der Schweiz – einem traditionellen Ort für heikle Diplomatie – und gelten als bedeutsamster Gesprächsversuch zwischen Washington und Teheran seit Jahren. Hintergrund sind anhaltende Spannungen um das iranische Atomprogramm sowie Sanktionen, die die iranische Wirtschaft schwer belasten.\n\nDie vereinbarte 60-Tage-Frist für ein endgültiges Abkommen setzt beide Seiten unter erheblichen Zeitdruck. Gleichzeitig streitet man sich über die Kontrolle der Meerenge von Hormus – Teheran behauptet, sie geschlossen zu haben, Washington widerspricht. Das Ergebnis dieser Gespräche dürfte Ölpreise, regionale Sicherheit und das Verhältnis des Irans zu Israel maßgeblich beeinflussen.",
+          "titel": "Iran weist neue Atominspektions-Zusagen zurück",
+          "zusammenfassung": "Teheran erklärte nach Gesprächen in der Schweiz, keinerlei neue Verpflichtungen hinsichtlich nuklearer Inspektionen eingegangen zu sein. US-Vizepräsident Vance hatte zuvor behauptet, Iran werde Inspektoren wieder ins Land lassen.",
+          "bedeutung": "Die widersprüchlichen Aussagen gefährden die fragile Diplomatie rund um das iranische Atomprogramm und erhöhen die Spannungen in der Region.",
+          "hintergrund": "Die Verhandlungen zwischen Washington und Teheran befinden sich in einer entscheidenden Phase, nachdem frühere Gespräche über eine Begrenzung des iranischen Urananreicherungsprogramms mehrfach gescheitert waren. Eine Einigung gilt als Voraussetzung für eine Lockerung der internationalen Sanktionen gegen den Iran.\n\nDas iranische Außenministerium widersprach ausdrücklich der Darstellung amerikanischer Regierungsvertreter und betonte, die Souveränität des Landes über seine nuklearen Anlagen bleibe unangetastet. Beobachter werten die öffentliche Gegendarstellung als Zeichen zunehmender Verhandlungshärte auf beiden Seiten.",
           "tag": "Atomdiplomatie",
-          "emoji": "🕊️",
+          "emoji": "☢️",
           "quelle": "BBC",
-          "quelle_url": "https://www.bbc.com/news/articles/cwy0q41v1lzo?at_medium=RSS&at_campaign=rss"
+          "quelle_url": "https://www.bbc.com/news/articles/c3vy3nr63gxo?at_medium=RSS&at_campaign=rss"
         },
         {
           "id": "politik-1",
-          "titel": "Russland bedroht Schlüsselstadt im ukrainischen Donbas",
-          "zusammenfassung": "Russische Truppen bauen ihre Kräfte rund um Kostjantyniwka aus, einer Stadt mit strategischer Bedeutung für den gesamten Osten der Ukraine. Ein Fall der Stadt würde Moskau den Weg zu den letzten ukrainischen Hochburgen in der Region öffnen.",
-          "bedeutung": "Der mögliche Verlust von Kostjantyniwka wäre ein schwerer strategischer Rückschlag für die Ukraine und könnte das Kräfteverhältnis im gesamten Osten des Landes verschieben.",
-          "hintergrund": "Kostjantyniwka gilt als logistisches Rückgrat der ukrainischen Verteidigung im Donbas. Die Stadt liegt an wichtigen Versorgungsrouten und ist ein zentraler Knotenpunkt, von dem aus die ukrainischen Streitkräfte mehrere Frontabschnitte koordinieren. Ein russischer Durchbruch dort hätte weitreichende Folgen für die gesamte Ostfront.\n\nNach mehr als zwei Jahren Krieg versucht Russland offenbar, in einer Phase westlicher Verhandlungsmüdigkeit entscheidende territoriale Fakten zu schaffen. Internationale Beobachter warnen, dass ein Zusammenbrechen der Frontlinie im Donbas den Druck auf Kiew erheblich verstärken und Waffenlieferungen der Verbündeten neu auf den Prüfstand stellen würde.",
+          "titel": "Russland bedroht strategische Stadt im Donbas",
+          "zusammenfassung": "Russische Truppen verdichten ihre Kräfte rund um Kostyantynivka, das als Schlüssel zum verbleibenden ukrainischen Territorium im Osten des Landes gilt. Ein Fallen der Stadt würde den Weg zu den letzten ukrainischen Bastionen im Donbas freimachen.",
+          "bedeutung": "Der mögliche Verlust von Kostyantynivka könnte die ukrainische Verteidigungslinie im Osten zum Einsturz bringen und die Kriegsdynamik grundlegend verschieben.",
+          "hintergrund": "Seit Monaten versuchen russische Streitkräfte, die verbliebenen ukrainischen Stellungen im Donbas systematisch zu isolieren. Kostyantynivka besitzt dabei besondere logistische Bedeutung, da die Stadt wichtige Versorgungsrouten für mehrere ukrainische Einheiten bündelt.\n\nDie ukrainische Armee steht unter erheblichem Druck, die Verteidigungslinien trotz anhaltender Munitionsengpässe zu halten. Westliche Partner beraten derzeit über weitere Waffenlieferungen, während die russische Offensive an mehreren Frontabschnitten gleichzeitig vorangetrieben wird.",
           "tag": "Ukraine-Krieg",
-          "emoji": "⚔️",
+          "emoji": "🪖",
           "quelle": "BBC",
           "quelle_url": "https://www.bbc.com/news/articles/c9w2g0ewk95o?at_medium=RSS&at_campaign=rss"
         },
         {
           "id": "politik-2",
-          "titel": "Frankreich leidet unter extremer Hitzewelle",
-          "zusammenfassung": "Mehr als die Hälfte der französischen Departements steht unter roter Hitzewarnung, da die Temperaturen am Montag ihren Höchststand erreichen sollen. Die Gesundheitsbehörden warnen vor erheblichen Belastungen für die Bevölkerung.",
-          "bedeutung": "Die Hitzewelle trifft einen Großteil Westeuropas und verdeutlicht einmal mehr die wachsenden Risiken des Klimawandels für dicht besiedelte Regionen.",
-          "hintergrund": "Frankreich erlebt eine der intensivsten Hitzephasen seit Jahren, die Teile der Bevölkerung – insbesondere Ältere und Vorerkrankte – akut gefährdet. Der französische Gesundheitsminister rief die Bevölkerung zur Vorsicht auf und verwies auf die Kapazitätsgrenzen des Gesundheitssystems bei extremer Hitze.\n\nDie aktuelle Wetterlage ist Teil eines breiteren europäischen Musters: Mehrere Länder melden gleichzeitig Rekordtemperaturen, was Experten auf den fortschreitenden Klimawandel zurückführen. Behörden in Frankreich haben Krisenstäbe aktiviert und Kühlzentren für vulnerable Gruppen eingerichtet.",
-          "tag": "Hitzewelle",
-          "emoji": "🌡️",
+          "titel": "UN: Myanmars Militär tötete 700 Zivilisten in sechs Monaten",
+          "zusammenfassung": "Ein neuer UN-Bericht dokumentiert, dass das myanmarische Militär innerhalb von nur sechs Monaten mehr als 700 Zivilisten getötet hat, darunter 153 Kinder. Die Zahlen belegen das anhaltende Ausmaß der Gewalt gegen die Zivilbevölkerung seit dem Militärputsch.",
+          "bedeutung": "Die erschreckenden Zahlen verstärken den internationalen Druck auf die Militärjunta und werfen erneut Fragen nach wirksamen Schutzmaßnahmen für die Zivilbevölkerung auf.",
+          "hintergrund": "Seit dem Putsch von 2021 herrscht in Myanmar ein brutaler Bürgerkrieg zwischen der Militärjunta und verschiedenen Widerstandsgruppen. Internationale Bemühungen, die Gewalt einzudämmen, sind bisher weitgehend wirkungslos geblieben, während Millionen Menschen innerhalb des Landes auf der Flucht sind.\n\nDie Vereinten Nationen mahnen seit Jahren eine stärkere internationale Reaktion auf die Lage in Myanmar an. Der neue Bericht kommt zu einem Zeitpunkt, an dem die Junta trotz wachsender militärischer Rückschläge an ihrer Gewaltstrategie festhält.",
+          "tag": "Myanmar",
+          "emoji": "🕊️",
           "quelle": "BBC",
-          "quelle_url": "https://www.bbc.com/news/articles/c0jy9g96086o?at_medium=RSS&at_campaign=rss"
+          "quelle_url": "https://www.bbc.com/news/articles/cnv97e42r7yo?at_medium=RSS&at_campaign=rss"
         }
       ]
     },
@@ -49,36 +49,36 @@
       "stories": [
         {
           "id": "wirtschaft-0",
-          "titel": "EasyJet lehnt Milliarden-Übernahmeofferte aus den USA ab",
-          "zusammenfassung": "Die britische Billigfluglinie EasyJet hat ein Übernahmeangebot des US-Investmentunternehmens Castlelake im Wert von 4,7 Milliarden Pfund zurückgewiesen. Der Vorstand bezeichnete das Angebot als opportunistisch und nicht den wahren Unternehmenswert widerspiegelnd.",
-          "bedeutung": "Das Angebot zeigt das anhaltende Interesse amerikanischer Finanzinvestoren an europäischen Luftfahrtunternehmen und könnte eine längere Übernahmeschlacht auslösen.",
-          "hintergrund": "Castlelake, ein auf alternative Investments spezialisiertes Unternehmen, hat EasyJet mit dem Angebot überrascht, das eine deutliche Prämie auf den aktuellen Aktienkurs enthielt. EasyJets Führung sieht das Unternehmen jedoch als strukturell unterbewertet und will die Eigenständigkeit wahren.\n\nDie europäische Luftfahrtbranche steht seit der Pandemie unter erheblichem Konsolidierungsdruck. Steigende Betriebskosten, Konkurrenz durch Billiganbieter und Kapazitätsengpässe an Flughäfen machen die Branche für Finanzinvestoren attraktiv, die auf langfristige Erholung setzen. Marktbeobachter schließen ein verbessertes Folgeangebot nicht aus.",
-          "tag": "Luftfahrt",
-          "emoji": "✈️",
+          "titel": "Oracle streicht 21.000 Stellen wegen KI-Umbau",
+          "zusammenfassung": "Der US-Technologiekonzern Oracle baut weltweit rund 21.000 Arbeitsplätze ab, um Ressourcen gezielt in den Ausbau seiner Künstlichen-Intelligenz-Infrastruktur umzulenken. Der Schritt reiht sich in eine branchenweite Welle von Stellenstreichungen bei gleichzeitig massiven KI-Investitionen ein.",
+          "bedeutung": "Der Abbau verdeutlicht, wie der KI-Boom traditionelle IT-Berufsbilder verdrängt und die Umstrukturierung ganzer Konzernstrukturen erzwingt.",
+          "hintergrund": "Große Technologieunternehmen investieren derzeit Hunderte Milliarden Dollar in KI-Rechenzentren, Sprachmodelle und Automatisierungssysteme. Gleichzeitig rationalisieren sie ihre herkömmliche Softwareentwicklung und administrative Bereiche, was zu einem massiven Stellenabbau führt, der weltweit Hunderttausende Beschäftigte betrifft.\n\nOracle begründet den Schritt mit dem Wandel hin zu KI-gestützten Datenbankdiensten und Cloud-Infrastrukturen. Kritiker warnen, dass die sozialen Kosten des technologischen Umbaus bislang von der Politik kaum adressiert werden.",
+          "tag": "KI-Jobabbau",
+          "emoji": "🤖",
           "quelle": "BBC",
-          "quelle_url": "https://www.bbc.com/news/articles/c30yz76834yo?at_medium=RSS&at_campaign=rss"
+          "quelle_url": "https://www.bbc.com/news/articles/c4gy0x0j5deo?at_medium=RSS&at_campaign=rss"
         },
         {
           "id": "wirtschaft-1",
-          "titel": "US-Ungleichheit wächst trotz Wohlstandsrekorden",
-          "zusammenfassung": "Eine neue Analyse zeigt, wie die wirtschaftliche Ungleichheit in den Vereinigten Staaten ungebrochen zunimmt, während Superreiche wie Elon Musk immer größere Vermögensanteile auf sich vereinen. Umverteilungsmaßnahmen stoßen politisch auf kaum Rückhalt.",
-          "bedeutung": "Wachsende Vermögenskonzentration untergräbt soziale Mobilität und demokratische Stabilität – mit Auswirkungen, die weit über die USA hinausgehen.",
-          "hintergrund": "Ökonomen beobachten seit Jahrzehnten eine zunehmende Spreizung der Einkommens- und Vermögensverteilung in den USA. Trotz zeitweise sinkender Armutsquoten unter verschiedenen Regierungen bleibt der Anteil der obersten ein Prozent am Gesamtvermögen auf historisch hohem Niveau und wächst weiter.\n\nDer politische Wille zur Umverteilung ist in den USA strukturell begrenzt: Steuerreformen zugunsten hoher Einkommen, schwache Gewerkschaften und eine fragmentierte Sozialpolitik begünstigen die Konzentration von Kapital. Experten warnen, dass eine Plutokratisierung der Gesellschaft langfristig auch das Vertrauen in demokratische Institutionen erodiert.",
-          "tag": "Ungleichheit",
-          "emoji": "⚖️",
-          "quelle": "The Guardian",
-          "quelle_url": "https://www.theguardian.com/us-news/2026/jun/21/us-inequality-plutocracy"
+          "titel": "Tesla-Unfall mit Todesfolge: US-Bundesbehörden ermitteln",
+          "zusammenfassung": "Nach einem tödlichen Unfall in Texas, bei dem ein Tesla-Fahrer nach eigenen Angaben das Autopilot-System nutzte, haben US-Bundesbehörden eine formelle Untersuchung eingeleitet. Das Fahrzeug soll mit hoher Geschwindigkeit in ein Wohngebäude gefahren sein.",
+          "bedeutung": "Der Fall schürt die wachsende Debatte über Sicherheitsstandards und Haftungsfragen bei autonomen Fahrsystemen weltweit.",
+          "hintergrund": "Tesla steht seit Jahren unter Beobachtung der US-Verkehrssicherheitsbehörde NHTSA, nachdem mehrere schwere Unfälle im Zusammenhang mit dem als Autopilot oder Full Self-Driving vermarkteten System gemeldet wurden. Die Frage, inwieweit Fahrer das System überwachen müssen, ist rechtlich und regulatorisch noch nicht abschließend geklärt.\n\nDer jüngste Vorfall dürfte den Druck auf Gesetzgeber erhöhen, verbindliche Sicherheitsstandards für teilautonome Fahrsysteme festzulegen. Parallel dazu laufen weltweit ähnliche Debatten, etwa in der Europäischen Union und in China.",
+          "tag": "Autonomes Fahren",
+          "emoji": "🚗",
+          "quelle": "BBC",
+          "quelle_url": "https://www.bbc.com/news/articles/c07yp02mxyjo?at_medium=RSS&at_campaign=rss"
         },
         {
           "id": "wirtschaft-2",
-          "titel": "Boom der US-Wettplattformen überfordert Suchtberatung",
-          "zusammenfassung": "Online-Prognosemärkte wie Kalshi und Polymarket wachsen rasant in den USA, befeuert durch politische Rückendeckung. Experten aus dem Gesundheitswesen warnen, dass Beratungsangebote für Glücksspielsüchtige nicht mit dieser Entwicklung Schritt halten können.",
-          "bedeutung": "Die unkontrollierte Ausbreitung digitaler Wettmärkte schafft ein wachsendes öffentliches Gesundheitsproblem in einem Land mit bereits hoher Suchtbelastung.",
-          "hintergrund": "Prognosemärkte erlauben es Nutzern, auf politische Ereignisse, Wahlergebnisse oder andere Entwicklungen zu wetten – ein Bereich, der in den USA zuletzt stark dereguliert wurde. Die Plattformen verzeichnen explosionsartiges Wachstum und genießen Unterstützung aus dem politischen Umfeld der Trump-Administration.\n\nGleichzeitig fehlen in vielen US-Bundesstaaten spezialisierte Anlaufstellen für Menschen, die von diesen neuartigen digitalen Glücksspielprodukten abhängig werden. Suchtfachleute fordern regulatorische Schutzmaßnahmen und eine Zweckbindung von Plattformeinnahmen für Präventionsprogramme.",
-          "tag": "Glücksspiel",
-          "emoji": "🎲",
-          "quelle": "The Guardian",
-          "quelle_url": "https://www.theguardian.com/us-news/2026/jun/21/prediction-markets-health-advocates-on-gambling"
+          "titel": "EasyJet lehnt 4,7-Milliarden-Übernahmeofferte ab",
+          "zusammenfassung": "Die britische Fluggesellschaft EasyJet hat ein Übernahmeangebot des US-amerikanischen Investors Castlelake in Höhe von umgerechnet rund 4,7 Milliarden Pfund als zu niedrig und opportunistisch zurückgewiesen. Das Management betonte, das Angebot spiegele den wahren Unternehmenswert nicht wider.",
+          "bedeutung": "Der Vorfall zeigt, wie europäische Fluggesellschaften zunehmend ins Visier von US-Finanzinvestoren geraten, und könnte eine Konsolidierungswelle im europäischen Luftfahrtsektor anstoßen.",
+          "hintergrund": "EasyJet hat sich nach den pandemiebedingten Einbrüchen operativ erholt und verzeichnet wieder wachsende Passagierzahlen. Die Airline gilt als attraktives Ziel für Investoren, die auf eine Erholung des europäischen Kurzstreckenmarkts setzen.\n\nCastlelake ist ein auf Sachwerte spezialisierter Vermögensverwalter, der zuletzt verstärkt im Transportsektor aktiv war. Branchenbeobachter schließen nicht aus, dass weitere Angebote folgen oder andere Bieter auf den Plan treten könnten.",
+          "tag": "Luftfahrt M&A",
+          "emoji": "✈️",
+          "quelle": "BBC",
+          "quelle_url": "https://www.bbc.com/news/articles/c30yz76834yo?at_medium=RSS&at_campaign=rss"
         }
       ]
     },
@@ -89,36 +89,36 @@
       "stories": [
         {
           "id": "boerse-0",
-          "titel": "Fed-Chef Warsh leitet leise Revolution bei der Zentralbank ein",
-          "zusammenfassung": "Der neue US-Notenbankchef Kevin Warsh hat bereits kurz nach Amtsantritt interne Arbeitsgruppen eingesetzt, die nahezu alle Kernbereiche der Federal Reserve auf den Prüfstand stellen sollen. Beobachter sprechen von einem grundlegenden Strategiewechsel unter ruhiger Oberfläche.",
-          "bedeutung": "Strukturelle Reformen bei der mächtigsten Zentralbank der Welt haben unmittelbare Auswirkungen auf globale Zinserwartungen, Märkte und die Unabhängigkeit der Geldpolitik.",
-          "hintergrund": "Warsh, der als geldpolitischer Falke gilt, signalisiert mit den Reformschritten eine Abkehr vom Kurs seines Vorgängers Jerome Powell. Die Arbeitsgruppen sollen Themen wie Kommunikationsstrategie, Bilanzpolitik und regulatorische Rahmenbedingungen neu bewerten – ein Prozess, der Monate in Anspruch nehmen dürfte.\n\nFinanzmärkte beobachten die Neuausrichtung genau, da Veränderungen in der Fed-Strategie direkte Folgen für Zinssätze, Anleihemärkte und den US-Dollar haben. Kritiker warnen vor einem Verlust institutioneller Kontinuität; Befürworter sehen in Warsh einen überfälligen Reformer.",
-          "tag": "Geldpolitik",
+          "titel": "Ex-Fed-Chef Alan Greenspan stirbt mit 100 Jahren",
+          "zusammenfassung": "Alan Greenspan, der die US-Notenbank Federal Reserve fast zwei Jahrzehnte lang führte und die globale Finanzpolitik maßgeblich prägte, ist im Alter von 100 Jahren gestorben. Greenspan stand der Fed von 1987 bis 2006 vor und begleitete die Amtszeiten von vier US-Präsidenten.",
+          "bedeutung": "Greenspans Tod markiert das Ende einer Ära der Zentralbankpolitik, deren Erbe – von der Niedrigzinspolitik bis zur Dot-com-Blase – bis heute die finanzpolitische Debatte beeinflusst.",
+          "hintergrund": "Greenspan wurde für seine kryptisch-mehrdeutigen Formulierungen berühmt, die als sogenanntes Fedspeak in die Geschichte eingingen. Er steuerte die US-Wirtschaft durch mehrere Krisen, darunter den Schwarzen Montag 1987 und die Dotcom-Krise der frühen 2000er Jahre, und wurde sowohl für sein krisenmanagement als auch für die Mitverantwortung an der Immobilienblase kritisiert.\n\nSein Tod fällt in eine Zeit, in der die Fed unter neuem Führungspersonal einen grundlegenden institutionellen Wandel durchläuft. Greenspans geldpolitisches Erbe bleibt unter Ökonomen umstritten, beeinflusst aber noch immer die Debatte über Zentralbankunabhängigkeit und Inflationssteuerung.",
+          "tag": "Federal Reserve",
           "emoji": "🏦",
+          "quelle": "CNBC",
+          "quelle_url": "https://www.cnbc.com/2026/06/22/alan-greenspan-former-chairman-of-the-fed-dies-at-age-100.html"
+        },
+        {
+          "id": "boerse-1",
+          "titel": "Fed-Umbau unter Warsh: stille Revolution in Washington",
+          "zusammenfassung": "Der neue Fed-Vorsitzende Kevin Warsh leitet eine umfassende interne Neuausrichtung der US-Notenbank ein, ohne dabei öffentlich laut Aufhebens zu machen. Taskforces sollen nahezu alle Arbeitsbereiche der Zentralbank überdenken.",
+          "bedeutung": "Eine veränderte Fed-Strategie hätte direkte Auswirkungen auf globale Zinsen, Anleiherenditen und die Kapitalmärkte weltweit.",
+          "hintergrund": "Warsh, der als geldpolitischer Falke gilt, hat seit seinem Amtsantritt begonnen, sowohl die Kommunikationsstrategie als auch die institutionellen Strukturen der Federal Reserve zu überprüfen. Beobachter sprechen von einem Kurswechsel, der möglicherweise auf eine straffere Geldpolitik und weniger Transparenz hinausläuft.\n\nDie Finanzmärkte beobachten die Entwicklung mit Spannung, da jede Neuausrichtung der Fed unmittelbar die Erwartungen an Zinssenkungen oder -erhöhungen beeinflusst. Institutionelle Investoren positionieren sich entsprechend neu.",
+          "tag": "Geldpolitik",
+          "emoji": "📊",
           "quelle": "CNBC",
           "quelle_url": "https://www.cnbc.com/2026/06/21/how-kevin-warsh-has-set-out-to-remake-the-fed.html"
         },
         {
-          "id": "boerse-1",
-          "titel": "Hormus-Streit überschattet US-Iran-Verhandlungen",
-          "zusammenfassung": "Während Diplomaten in der Schweiz verhandeln, sorgen widersprüchliche Aussagen über den Status der Straße von Hormus für Nervosität an den Energiemärkten. Iran behauptet, die Meerenge gesperrt zu haben; Washington bestreitet das.",
-          "bedeutung": "Die Straße von Hormus ist der wichtigste Ölkorridor der Welt – jede Eskalation dort trifft sofort die globalen Energiepreise.",
-          "hintergrund": "Täglich passieren rund 20 Prozent des weltweit gehandelten Öls die Straße von Hormus. Eine auch nur vorübergehende Unterbrechung oder Beeinträchtigung des Schiffsverkehrs hätte unmittelbare Folgen für Rohölpreise und die Versorgungssicherheit in Europa und Asien.\n\nDie gegensätzlichen Darstellungen über den Zustand der Meerenge zeigen, wie fragil die laufenden Diplomatiebemühungen trotz erster positiver Signale sind. Rohstoffhändler preisen erhöhte Risikoprämien ein, solange keine Klarheit über die tatsächliche Lage herrscht.",
-          "tag": "Energiemarkt",
-          "emoji": "🛢️",
-          "quelle": "CNBC",
-          "quelle_url": "https://www.cnbc.com/2026/06/20/iran-reportedly-closes-strait-of-hormuz-again-raising-doubt-over-talks.html"
-        },
-        {
           "id": "boerse-2",
-          "titel": "KI-Rechenleistung wird zur handelbaren Rohstoffklasse",
-          "zusammenfassung": "Finanzinnovatoren arbeiten daran, künstliche Intelligenz-Rechenkapazität ähnlich wie Öl oder Gold an Terminmärkten handelbar zu machen. Experten sehen das Potenzial, einen der größten neuen Rohstoffmärkte der Geschichte zu schaffen.",
-          "bedeutung": "Die Kommodifizierung von KI-Rechenleistung könnte die Finanzierung und Preisgestaltung im gesamten KI-Sektor fundamental verändern.",
-          "hintergrund": "Das Unternehmen Silicon Data und ähnliche Akteure entwickeln Futures-Kontrakte auf sogenannte Compute-Kapazitäten – also die Rechenleistung, die für das Training und den Betrieb großer KI-Modelle benötigt wird. Bislang ist dieser Markt intransparent und wird von wenigen Tech-Konzernen dominiert.\n\nBefürworter argumentieren, standardisierte Compute-Märkte könnten kleineren KI-Unternehmen den Zugang zu Rechenressourcen erleichtern und Preisvolatilität absichern. Skeptiker hingegen warnen vor Spekulationsblasen in einem Bereich, dessen Bewertungsgrundlagen noch weitgehend unklar sind.",
-          "tag": "KI-Märkte",
-          "emoji": "💻",
+          "titel": "Chinas Shopping-Festival 618: Konsumschwäche setzt sich fort",
+          "zusammenfassung": "Das chinesische Online-Shopping-Festival 618 verzeichnete deutlich langsameres Wachstum als in den Vorjahren, was die anhaltende Kaufzurückhaltung chinesischer Verbraucher unterstreicht. Die Daten signalisieren, dass die Binnennachfrage in der zweitgrößten Volkswirtschaft der Welt weiterhin schwächelt.",
+          "bedeutung": "Schwache Konsumzahlen aus China belasten die Gewinnaussichten globaler Marken und Rohstoffproduzenten und verstärken Deflationssorgen in der Weltwirtschaft.",
+          "hintergrund": "Das jährliche 618-Festival gilt neben dem Singles Day im November als einer der wichtigsten Gradmesser für den chinesischen Konsummarkt. Sinkende Wachstumsraten deuten darauf hin, dass staatliche Konjunkturmaßnahmen bislang nicht ausreichen, um das Verbrauchervertrauen nachhaltig zu stärken.\n\nFür internationale Unternehmen, die stark auf den chinesischen Markt setzen – von Luxusgüterherstellern bis zu Elektronikkonzernen – ist die anhaltende Konsumflaute ein ernstes Signal. Analysten erwarten, dass Peking weitere Stimulierungsmaßnahmen prüfen wird.",
+          "tag": "China Konsum",
+          "emoji": "🛒",
           "quelle": "CNBC",
-          "quelle_url": "https://www.cnbc.com/2026/06/16/the-new-oil-inside-the-effort-to-turn-ai-computing-power-into-a-tradeable-commodity.html"
+          "quelle_url": "https://www.cnbc.com/2026/06/23/china-618-shopping-festival-sales-growth-consumer-spending-slowdown-syntun.html"
         }
       ]
     }
