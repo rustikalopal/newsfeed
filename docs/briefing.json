@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-23T07:29:28.118853+00:00",
-  "datum": "Dienstag, 23. Juni 2026",
+  "generated_at": "2026-06-24T06:05:25.473317+00:00",
+  "datum": "Mittwoch, 24. Juni 2026",
   "ressorts": [
     {
       "id": "politik",
@@ -9,36 +9,36 @@
       "stories": [
         {
           "id": "politik-0",
-          "titel": "Iran weist neue Atominspektions-Zusagen zurück",
-          "zusammenfassung": "Teheran erklärte nach Gesprächen in der Schweiz, keinerlei neue Verpflichtungen hinsichtlich nuklearer Inspektionen eingegangen zu sein. US-Vizepräsident Vance hatte zuvor behauptet, Iran werde Inspektoren wieder ins Land lassen.",
-          "bedeutung": "Die widersprüchlichen Aussagen gefährden die fragile Diplomatie rund um das iranische Atomprogramm und erhöhen die Spannungen in der Region.",
-          "hintergrund": "Die Verhandlungen zwischen Washington und Teheran befinden sich in einer entscheidenden Phase, nachdem frühere Gespräche über eine Begrenzung des iranischen Urananreicherungsprogramms mehrfach gescheitert waren. Eine Einigung gilt als Voraussetzung für eine Lockerung der internationalen Sanktionen gegen den Iran.\n\nDas iranische Außenministerium widersprach ausdrücklich der Darstellung amerikanischer Regierungsvertreter und betonte, die Souveränität des Landes über seine nuklearen Anlagen bleibe unangetastet. Beobachter werten die öffentliche Gegendarstellung als Zeichen zunehmender Verhandlungshärte auf beiden Seiten.",
-          "tag": "Atomdiplomatie",
-          "emoji": "☢️",
+          "titel": "Kongress rügt Trump mit historischer Kriegsvollmachten-Abstimmung",
+          "zusammenfassung": "Das US-Parlament verabschiedete erstmals seit Jahrzehnten eine Resolution zu den Kriegsvollmachten und stellte sich damit gegen Trumps Militäreinsatz gegen Iran. Der Schritt ist zwar rechtlich nicht bindend, sendet aber ein starkes politisches Signal an das Weiße Haus.",
+          "bedeutung": "Eine parteiübergreifende Mehrheit im Kongress fordert erstmals konkret ein Ende des Iran-Konflikts und stellt damit Trumps Alleingangsstrategie in der Außenpolitik offen in Frage.",
+          "hintergrund": "Die Resolution wurde verabschiedet, obwohl sie den Präsidenten formal nicht zum Rückzug zwingen kann – die Kriegsvollmachten-Gesetzgebung aus dem Jahr 1973 setzt der Durchsetzbarkeit Grenzen. Dennoch markiert die Abstimmung einen seltenen Moment kongressionaler Gegenwehr gegen eine laufende Militäroperation.\n\nDer Konflikt mit Iran hatte zuletzt durch diplomatische Gespräche an Intensität verloren, doch die innenpolitischen Spannungen in den USA über Sinn und Dauer des Engagements wachsen weiter. Der Kongress nutzt den symbolischen Druck als Hebel, um die Verhandlungen zu beschleunigen.",
+          "tag": "US-Iran-Krieg",
+          "emoji": "🏛️",
           "quelle": "BBC",
-          "quelle_url": "https://www.bbc.com/news/articles/c3vy3nr63gxo?at_medium=RSS&at_campaign=rss"
+          "quelle_url": "https://www.bbc.co.uk/news/articles/ce8j6g3v3r4o?at_medium=RSS&at_campaign=rss"
         },
         {
           "id": "politik-1",
-          "titel": "Russland bedroht strategische Stadt im Donbas",
-          "zusammenfassung": "Russische Truppen verdichten ihre Kräfte rund um Kostyantynivka, das als Schlüssel zum verbleibenden ukrainischen Territorium im Osten des Landes gilt. Ein Fallen der Stadt würde den Weg zu den letzten ukrainischen Bastionen im Donbas freimachen.",
-          "bedeutung": "Der mögliche Verlust von Kostyantynivka könnte die ukrainische Verteidigungslinie im Osten zum Einsturz bringen und die Kriegsdynamik grundlegend verschieben.",
-          "hintergrund": "Seit Monaten versuchen russische Streitkräfte, die verbliebenen ukrainischen Stellungen im Donbas systematisch zu isolieren. Kostyantynivka besitzt dabei besondere logistische Bedeutung, da die Stadt wichtige Versorgungsrouten für mehrere ukrainische Einheiten bündelt.\n\nDie ukrainische Armee steht unter erheblichem Druck, die Verteidigungslinien trotz anhaltender Munitionsengpässe zu halten. Westliche Partner beraten derzeit über weitere Waffenlieferungen, während die russische Offensive an mehreren Frontabschnitten gleichzeitig vorangetrieben wird.",
-          "tag": "Ukraine-Krieg",
-          "emoji": "🪖",
+          "titel": "UN evakuiert Seeleute aus der Straße von Hormus",
+          "zusammenfassung": "Die Vereinten Nationen koordinieren die Evakuierung von Seeleuten, die in der Straße von Hormus festgesessen hatten, während US-Außenminister Rubio Iran vor der Erhebung von Durchfahrtsgebühren warnte. Washington besteht auf dem Grundsatz der freien Schifffahrt in dem strategisch bedeutsamen Seeweg.",
+          "bedeutung": "Die Straße von Hormus ist eine der wichtigsten Schifffahrtsrouten der Welt – jede Einschränkung des freien Durchgangs hätte unmittelbare Folgen für die globalen Energiemärkte und den Welthandel.",
+          "hintergrund": "Seit dem US-Iran-Deal hat der Schiffsverkehr durch die Meerenge wieder deutlich zugenommen, zuletzt passierten an einem einzigen Samstag 42 Schiffe die Straße. Dennoch bestehen Unsicherheiten über die künftigen Rahmenbedingungen der Durchfahrt.\n\nRubios Warnung richtet sich gegen iranische Überlegungen, Transitgebühren zu erheben – ein Schritt, den Washington als Verstoß gegen internationales Seerecht wertet. Die UN-Evakuierungsoperation soll zugleich Vertrauen für eine dauerhafte Stabilisierung der Region schaffen.",
+          "tag": "Hormus-Straße",
+          "emoji": "🚢",
           "quelle": "BBC",
-          "quelle_url": "https://www.bbc.com/news/articles/c9w2g0ewk95o?at_medium=RSS&at_campaign=rss"
+          "quelle_url": "https://www.bbc.co.uk/news/articles/c24yr796emzo?at_medium=RSS&at_campaign=rss"
         },
         {
           "id": "politik-2",
-          "titel": "UN: Myanmars Militär tötete 700 Zivilisten in sechs Monaten",
-          "zusammenfassung": "Ein neuer UN-Bericht dokumentiert, dass das myanmarische Militär innerhalb von nur sechs Monaten mehr als 700 Zivilisten getötet hat, darunter 153 Kinder. Die Zahlen belegen das anhaltende Ausmaß der Gewalt gegen die Zivilbevölkerung seit dem Militärputsch.",
-          "bedeutung": "Die erschreckenden Zahlen verstärken den internationalen Druck auf die Militärjunta und werfen erneut Fragen nach wirksamen Schutzmaßnahmen für die Zivilbevölkerung auf.",
-          "hintergrund": "Seit dem Putsch von 2021 herrscht in Myanmar ein brutaler Bürgerkrieg zwischen der Militärjunta und verschiedenen Widerstandsgruppen. Internationale Bemühungen, die Gewalt einzudämmen, sind bisher weitgehend wirkungslos geblieben, während Millionen Menschen innerhalb des Landes auf der Flucht sind.\n\nDie Vereinten Nationen mahnen seit Jahren eine stärkere internationale Reaktion auf die Lage in Myanmar an. Der neue Bericht kommt zu einem Zeitpunkt, an dem die Junta trotz wachsender militärischer Rückschläge an ihrer Gewaltstrategie festhält.",
-          "tag": "Myanmar",
-          "emoji": "🕊️",
+          "titel": "Israelische Armee tötet zwei Männer im Südlibanon",
+          "zusammenfassung": "Israelische Streitkräfte töteten im südlichen Libanon zwei Personen, die das Militär als Hisbollah-Kämpfer identifiziert. Die Schiitenmiliz wertete den Vorfall als Verletzung des geltenden Waffenstillstandsabkommens.",
+          "bedeutung": "Der Zwischenfall zeigt, wie fragil der Waffenstillstand zwischen Israel und der Hisbollah bleibt und wie schnell lokale Eskalationen die regionalen Spannungen neu entfachen können.",
+          "hintergrund": "Nach einer Phase relativer Ruhe entlang der israelisch-libanesischen Grenze markiert der Vorfall eine neuerliche Verschärfung der Lage. Beide Seiten behalten sich das Recht auf Reaktion vor, was das Risiko einer Eskalationsspirale erhöht.\n\nDer Konflikt im Libanon ist eng mit der Gesamtlage im Nahen Osten verknüpft, insbesondere mit dem Waffengang in Gaza und dem geschwächten Einfluss des iranischen Regimes nach dem US-Deal. Beobachter warnen, dass gerade solche Zwischenfälle den brüchigen Frieden gefährden könnten.",
+          "tag": "Nahost-Konflikt",
+          "emoji": "⚔️",
           "quelle": "BBC",
-          "quelle_url": "https://www.bbc.com/news/articles/cnv97e42r7yo?at_medium=RSS&at_campaign=rss"
+          "quelle_url": "https://www.bbc.co.uk/news/articles/c36ykpw0yego?at_medium=RSS&at_campaign=rss"
         }
       ]
     },
@@ -49,36 +49,36 @@
       "stories": [
         {
           "id": "wirtschaft-0",
-          "titel": "Oracle streicht 21.000 Stellen wegen KI-Umbau",
-          "zusammenfassung": "Der US-Technologiekonzern Oracle baut weltweit rund 21.000 Arbeitsplätze ab, um Ressourcen gezielt in den Ausbau seiner Künstlichen-Intelligenz-Infrastruktur umzulenken. Der Schritt reiht sich in eine branchenweite Welle von Stellenstreichungen bei gleichzeitig massiven KI-Investitionen ein.",
-          "bedeutung": "Der Abbau verdeutlicht, wie der KI-Boom traditionelle IT-Berufsbilder verdrängt und die Umstrukturierung ganzer Konzernstrukturen erzwingt.",
-          "hintergrund": "Große Technologieunternehmen investieren derzeit Hunderte Milliarden Dollar in KI-Rechenzentren, Sprachmodelle und Automatisierungssysteme. Gleichzeitig rationalisieren sie ihre herkömmliche Softwareentwicklung und administrative Bereiche, was zu einem massiven Stellenabbau führt, der weltweit Hunderttausende Beschäftigte betrifft.\n\nOracle begründet den Schritt mit dem Wandel hin zu KI-gestützten Datenbankdiensten und Cloud-Infrastrukturen. Kritiker warnen, dass die sozialen Kosten des technologischen Umbaus bislang von der Politik kaum adressiert werden.",
-          "tag": "KI-Jobabbau",
-          "emoji": "🤖",
+          "titel": "Technologieaktien brechen wegen KI-Ausgaben ein",
+          "zusammenfassung": "An den globalen Börsen kam es zu einem massiven Ausverkauf von Technologiewerten, ausgelöst durch wachsende Zweifel an der wirtschaftlichen Tragfähigkeit der enormen Investitionen in Künstliche Intelligenz. Anleger hinterfragen zunehmend, ob die erhofften Erträge die milliardenschweren Ausgaben rechtfertigen.",
+          "bedeutung": "Der Einbruch bei Tech-Titeln signalisiert eine mögliche Stimmungswende an den Märkten gegenüber dem KI-Boom und könnte Milliarden an Marktkapitalisierung vernichten sowie Investitionspläne bremsen.",
+          "hintergrund": "Über Monate hatten Unternehmen wie Microsoft, Google und Meta astronomische Summen in KI-Infrastruktur gepumpt, was Aktienkurse auf Rekordniveaus trieb. Nun mehren sich Stimmen von Analysten, die Rentabilität und Zeitplan dieser Investitionen kritisch bewerten.\n\nDie Korrektur erinnert an frühere Technologieblasen, wenngleich die fundamentale Nachfrage nach KI-Diensten weiterhin real ist. Entscheidend wird sein, ob die Unternehmen in den kommenden Quartalsberichten messbare Umsatzeffekte aus ihren KI-Ausgaben nachweisen können.",
+          "tag": "KI-Boom",
+          "emoji": "📉",
           "quelle": "BBC",
-          "quelle_url": "https://www.bbc.com/news/articles/c4gy0x0j5deo?at_medium=RSS&at_campaign=rss"
+          "quelle_url": "https://www.bbc.co.uk/news/articles/c802gvxpyxzo?at_medium=RSS&at_campaign=rss"
         },
         {
           "id": "wirtschaft-1",
-          "titel": "Tesla-Unfall mit Todesfolge: US-Bundesbehörden ermitteln",
-          "zusammenfassung": "Nach einem tödlichen Unfall in Texas, bei dem ein Tesla-Fahrer nach eigenen Angaben das Autopilot-System nutzte, haben US-Bundesbehörden eine formelle Untersuchung eingeleitet. Das Fahrzeug soll mit hoher Geschwindigkeit in ein Wohngebäude gefahren sein.",
-          "bedeutung": "Der Fall schürt die wachsende Debatte über Sicherheitsstandards und Haftungsfragen bei autonomen Fahrsystemen weltweit.",
-          "hintergrund": "Tesla steht seit Jahren unter Beobachtung der US-Verkehrssicherheitsbehörde NHTSA, nachdem mehrere schwere Unfälle im Zusammenhang mit dem als Autopilot oder Full Self-Driving vermarkteten System gemeldet wurden. Die Frage, inwieweit Fahrer das System überwachen müssen, ist rechtlich und regulatorisch noch nicht abschließend geklärt.\n\nDer jüngste Vorfall dürfte den Druck auf Gesetzgeber erhöhen, verbindliche Sicherheitsstandards für teilautonome Fahrsysteme festzulegen. Parallel dazu laufen weltweit ähnliche Debatten, etwa in der Europäischen Union und in China.",
-          "tag": "Autonomes Fahren",
-          "emoji": "🚗",
+          "titel": "EU-Grenzprojekt EES droht Flughäfen zu überlasten",
+          "zusammenfassung": "Der Chef des europäischen Flughafenverbands warnt eindringlich, dass das neue Ein- und Ausreisesystem der EU in seiner aktuellen Form die Airports im Sommer an den Rand des Kollapses bringen könnte. Er fordert ein Eingeständnis, dass das System bisher nicht funktioniere.",
+          "bedeutung": "Das EES-System betrifft Hunderte Millionen Reisender pro Jahr und könnte bei einem Scheitern zu massiven Staus und Reisechaos an den europäischen Außengrenzen führen.",
+          "hintergrund": "Das Einreise- und Ausreisesystem der Europäischen Union wurde als Modernisierung der Grenzkontrolle angekündigt und soll Pässe durch biometrische Daten ersetzen. Die Einführung wurde bereits mehrfach verschoben, und die technische Umsetzung gilt als fehleranfällig.\n\nMit dem bevorstehenden Hochsommer und einem erwarteten Reiserekord steigt der Druck auf die EU-Behörden erheblich. Flughafenbetreiber beklagen mangelnde Vorbereitung und fehlende klare Kommunikation seitens der Kommission.",
+          "tag": "EU-Reisepolitik",
+          "emoji": "✈️",
           "quelle": "BBC",
-          "quelle_url": "https://www.bbc.com/news/articles/c07yp02mxyjo?at_medium=RSS&at_campaign=rss"
+          "quelle_url": "https://www.bbc.co.uk/news/articles/cn4rlzrdj14o?at_medium=RSS&at_campaign=rss"
         },
         {
           "id": "wirtschaft-2",
-          "titel": "EasyJet lehnt 4,7-Milliarden-Übernahmeofferte ab",
-          "zusammenfassung": "Die britische Fluggesellschaft EasyJet hat ein Übernahmeangebot des US-amerikanischen Investors Castlelake in Höhe von umgerechnet rund 4,7 Milliarden Pfund als zu niedrig und opportunistisch zurückgewiesen. Das Management betonte, das Angebot spiegele den wahren Unternehmenswert nicht wider.",
-          "bedeutung": "Der Vorfall zeigt, wie europäische Fluggesellschaften zunehmend ins Visier von US-Finanzinvestoren geraten, und könnte eine Konsolidierungswelle im europäischen Luftfahrtsektor anstoßen.",
-          "hintergrund": "EasyJet hat sich nach den pandemiebedingten Einbrüchen operativ erholt und verzeichnet wieder wachsende Passagierzahlen. Die Airline gilt als attraktives Ziel für Investoren, die auf eine Erholung des europäischen Kurzstreckenmarkts setzen.\n\nCastlelake ist ein auf Sachwerte spezialisierter Vermögensverwalter, der zuletzt verstärkt im Transportsektor aktiv war. Branchenbeobachter schließen nicht aus, dass weitere Angebote folgen oder andere Bieter auf den Plan treten könnten.",
-          "tag": "Luftfahrt M&A",
-          "emoji": "✈️",
+          "titel": "Zehn Jahre Brexit: Was blieb von den Warnungen?",
+          "zusammenfassung": "Ein Jahrzehnt nach dem Brexit-Referendum zieht die Wirtschaftswissenschaft Bilanz über die tatsächlichen Folgen des EU-Austritts Großbritanniens. Die Analyse zeigt ein differenziertes Bild zwischen eingetretenen Schäden und übertriebenen Pessimismus-Szenarien.",
+          "bedeutung": "Die Auswertung liefert wichtige Erkenntnisse für künftige handelspolitische Weichenstellungen weltweit und beeinflusst die laufende Debatte über eine mögliche Annäherung Londons an Brüssel.",
+          "hintergrund": "Viele Ökonomen hatten vor dem Referendum vor dauerhaften Wachstumsverlusten, einem Rückgang ausländischer Investitionen und Handelshemmnissen gewarnt. Die Realität ist komplexer: Einige Vorhersagen trafen ein, andere blieben aus oder wurden durch andere Faktoren überlagert.\n\nDie Debatte ist auch deshalb aktuell, weil Großbritannien derzeit politisch im Umbruch ist und ein neuer Premierminister die Außenwirtschaftspolitik neu gestalten wird. Die Lehren aus dem Brexit-Jahrzehnt dürften dabei eine zentrale Rolle spielen.",
+          "tag": "Brexit-Bilanz",
+          "emoji": "🇬🇧",
           "quelle": "BBC",
-          "quelle_url": "https://www.bbc.com/news/articles/c30yz76834yo?at_medium=RSS&at_campaign=rss"
+          "quelle_url": "https://www.bbc.co.uk/news/articles/cyv0m164m84o?at_medium=RSS&at_campaign=rss"
         }
       ]
     },
@@ -89,36 +89,36 @@
       "stories": [
         {
           "id": "boerse-0",
-          "titel": "Ex-Fed-Chef Alan Greenspan stirbt mit 100 Jahren",
-          "zusammenfassung": "Alan Greenspan, der die US-Notenbank Federal Reserve fast zwei Jahrzehnte lang führte und die globale Finanzpolitik maßgeblich prägte, ist im Alter von 100 Jahren gestorben. Greenspan stand der Fed von 1987 bis 2006 vor und begleitete die Amtszeiten von vier US-Präsidenten.",
-          "bedeutung": "Greenspans Tod markiert das Ende einer Ära der Zentralbankpolitik, deren Erbe – von der Niedrigzinspolitik bis zur Dot-com-Blase – bis heute die finanzpolitische Debatte beeinflusst.",
-          "hintergrund": "Greenspan wurde für seine kryptisch-mehrdeutigen Formulierungen berühmt, die als sogenanntes Fedspeak in die Geschichte eingingen. Er steuerte die US-Wirtschaft durch mehrere Krisen, darunter den Schwarzen Montag 1987 und die Dotcom-Krise der frühen 2000er Jahre, und wurde sowohl für sein krisenmanagement als auch für die Mitverantwortung an der Immobilienblase kritisiert.\n\nSein Tod fällt in eine Zeit, in der die Fed unter neuem Führungspersonal einen grundlegenden institutionellen Wandel durchläuft. Greenspans geldpolitisches Erbe bleibt unter Ökonomen umstritten, beeinflusst aber noch immer die Debatte über Zentralbankunabhängigkeit und Inflationssteuerung.",
-          "tag": "Federal Reserve",
+          "titel": "Fed-Legende Alan Greenspan im Alter von 100 gestorben",
+          "zusammenfassung": "Alan Greenspan, der die US-Notenbank Federal Reserve fast zwei Jahrzehnte lang prägte, ist im Alter von 100 Jahren gestorben. Unter vier Präsidenten leitete er die Geldpolitik der weltgrößten Volkswirtschaft in Boom- und Krisenzeiten gleichermaßen.",
+          "bedeutung": "Greenspans Tod markiert das Ende einer Ära der Zentralbankgeschichte – sein Erbe, seine Fehler und seine Erfolge werden die Debatte über die Rolle der Notenbanken noch lange prägen.",
+          "hintergrund": "Greenspan leitete die Fed von 1987 bis 2006 und navigierte die USA durch den Schwarzen Montag, die Dotcom-Blase und die Folgen der Terroranschläge vom 11. September. Sein Stil der bewusst mehrdeutigen Aussagen – bekannt als Fedspeak – wurde legendär und von Nachfolgern imitiert.\n\nKritiker werfen ihm vor, mit seiner lockeren Geldpolitik der 2000er Jahre die Grundlagen für die Immobilienblase und die Finanzkrise 2008 gelegt zu haben. Befürworter sehen in ihm hingegen einen Architekten des längsten Aufschwungs der US-Wirtschaftsgeschichte.",
+          "tag": "Notenbank-Geschichte",
           "emoji": "🏦",
           "quelle": "CNBC",
           "quelle_url": "https://www.cnbc.com/2026/06/22/alan-greenspan-former-chairman-of-the-fed-dies-at-age-100.html"
         },
         {
           "id": "boerse-1",
-          "titel": "Fed-Umbau unter Warsh: stille Revolution in Washington",
-          "zusammenfassung": "Der neue Fed-Vorsitzende Kevin Warsh leitet eine umfassende interne Neuausrichtung der US-Notenbank ein, ohne dabei öffentlich laut Aufhebens zu machen. Taskforces sollen nahezu alle Arbeitsbereiche der Zentralbank überdenken.",
-          "bedeutung": "Eine veränderte Fed-Strategie hätte direkte Auswirkungen auf globale Zinsen, Anleiherenditen und die Kapitalmärkte weltweit.",
-          "hintergrund": "Warsh, der als geldpolitischer Falke gilt, hat seit seinem Amtsantritt begonnen, sowohl die Kommunikationsstrategie als auch die institutionellen Strukturen der Federal Reserve zu überprüfen. Beobachter sprechen von einem Kurswechsel, der möglicherweise auf eine straffere Geldpolitik und weniger Transparenz hinausläuft.\n\nDie Finanzmärkte beobachten die Entwicklung mit Spannung, da jede Neuausrichtung der Fed unmittelbar die Erwartungen an Zinssenkungen oder -erhöhungen beeinflusst. Institutionelle Investoren positionieren sich entsprechend neu.",
-          "tag": "Geldpolitik",
-          "emoji": "📊",
+          "titel": "USA heben Iran-Ölsanktionen weitreichend auf",
+          "zusammenfassung": "Die US-Regierung hat umfangreiche Sanktionserleichterungen für iranisches Öl erlassen und öffnet damit Teheran erhebliche neue Einnahmequellen. Der Schritt erfolgt im Rahmen der laufenden Friedensverhandlungen und verändert das globale Ölmarktgefüge spürbar.",
+          "bedeutung": "Die Rückkehr iranischen Öls auf den Weltmarkt in größerem Umfang dürfte den Ölpreis unter Druck setzen und das geopolitische Gleichgewicht im Energiesektor neu justieren.",
+          "hintergrund": "Irans Ölexporte waren durch jahrelange US-Sanktionen massiv eingeschränkt worden, was das Land wirtschaftlich schwer belastet hatte. Die neue Erlaubnis signalisiert einen ernsthaften politischen Willen Washingtons, den Konflikt dauerhaft zu beenden.\n\nFür die Energiemärkte bedeutet dies ein potenziell erhöhtes Angebot zu einem Zeitpunkt, an dem die OPEC+-Länder ohnehin über ihre Förderpolitik streiten. Händler und Analysten beobachten die Entwicklung mit Blick auf mögliche Preiskorrekturen genau.",
+          "tag": "Ölmarkt",
+          "emoji": "🛢️",
           "quelle": "CNBC",
-          "quelle_url": "https://www.cnbc.com/2026/06/21/how-kevin-warsh-has-set-out-to-remake-the-fed.html"
+          "quelle_url": "https://www.cnbc.com/2026/06/23/us-iran-oil-sanction-relief-strait-of-hormuz-peace-deal-.html"
         },
         {
           "id": "boerse-2",
-          "titel": "Chinas Shopping-Festival 618: Konsumschwäche setzt sich fort",
-          "zusammenfassung": "Das chinesische Online-Shopping-Festival 618 verzeichnete deutlich langsameres Wachstum als in den Vorjahren, was die anhaltende Kaufzurückhaltung chinesischer Verbraucher unterstreicht. Die Daten signalisieren, dass die Binnennachfrage in der zweitgrößten Volkswirtschaft der Welt weiterhin schwächelt.",
-          "bedeutung": "Schwache Konsumzahlen aus China belasten die Gewinnaussichten globaler Marken und Rohstoffproduzenten und verstärken Deflationssorgen in der Weltwirtschaft.",
-          "hintergrund": "Das jährliche 618-Festival gilt neben dem Singles Day im November als einer der wichtigsten Gradmesser für den chinesischen Konsummarkt. Sinkende Wachstumsraten deuten darauf hin, dass staatliche Konjunkturmaßnahmen bislang nicht ausreichen, um das Verbrauchervertrauen nachhaltig zu stärken.\n\nFür internationale Unternehmen, die stark auf den chinesischen Markt setzen – von Luxusgüterherstellern bis zu Elektronikkonzernen – ist die anhaltende Konsumflaute ein ernstes Signal. Analysten erwarten, dass Peking weitere Stimulierungsmaßnahmen prüfen wird.",
-          "tag": "China Konsum",
-          "emoji": "🛒",
+          "titel": "Stellenabbau in der Industrie auf Krisenrekordniveau",
+          "zusammenfassung": "Der S&P-Einkaufsmanagerindex für das verarbeitende Gewerbe verzeichnet im Juni Jobverluste in einer Größenordnung, die zuletzt während der Finanzkrise 2008 und der Covid-Pandemie erreicht wurde. Trotz besser als erwarteter Gesamtzahlen trübt der drastische Beschäftigungsrückgang das Bild erheblich.",
+          "bedeutung": "Massive Stellenstreichungen im Industriesektor sind ein Frühindikator für eine breiter werdende Konjunkturschwäche und könnten die Zinsentscheidungen der Notenbanken in den kommenden Monaten beeinflussen.",
+          "hintergrund": "Der überraschend gute Gesamtindex täuschte über die Schwäche hinweg: Das bessere Ergebnis wurde vor allem durch Lageraufbau getrieben, nicht durch echte Nachfragesteigerung. Das deutet darauf hin, dass Unternehmen auf Vorrat produzieren, während sie gleichzeitig Personal abbauen.\n\nFür Investoren ist der Widerspruch zwischen stabilem Index und einbrechendem Arbeitsmarkt ein Warnsignal. Sollte sich der Trend im dritten Quartal fortsetzen, dürfte der Druck auf die Federal Reserve wachsen, die Zinsen schneller zu senken als bisher geplant.",
+          "tag": "Industriekonjunktur",
+          "emoji": "🏭",
           "quelle": "CNBC",
-          "quelle_url": "https://www.cnbc.com/2026/06/23/china-618-shopping-festival-sales-growth-consumer-spending-slowdown-syntun.html"
+          "quelle_url": "https://www.cnbc.com/2026/06/23/factory-job-cuts-reported-around-financial-crisis-and-covid-levels-for-june-sp-says.html"
         }
       ]
     }
