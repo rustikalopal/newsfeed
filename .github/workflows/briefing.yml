@@ -2,11 +2,8 @@ name: Morgenlage Briefing
 
 on:
   schedule:
-    # Krumme Minute (:23) statt :00 -> deutlich weniger Scheduler-Verzögerung.
-    # Zwei Zeiten decken Sommer- und Winterzeit ab; das Datums-Gate sorgt dafür,
-    # dass der eigentliche Lauf trotzdem nur EINMAL pro Tag passiert.
-    - cron: "23 4 * * *"
-    - cron: "23 5 * * *"
+    - cron: "23 23 * * *"   # ~01:23 deutsche Sommerzeit (Soll) -> mit Verzug grob morgens
+    - cron: "23 0 * * *"    # ~01:23 deutsche Winterzeit (Soll)
   workflow_dispatch: {}
 
 permissions:
