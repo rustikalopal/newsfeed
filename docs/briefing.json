@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-24T06:05:25.473317+00:00",
-  "datum": "Mittwoch, 24. Juni 2026",
+  "generated_at": "2026-06-25T01:30:24.142037+00:00",
+  "datum": "Donnerstag, 25. Juni 2026",
   "ressorts": [
     {
       "id": "politik",
@@ -9,36 +9,36 @@
       "stories": [
         {
           "id": "politik-0",
-          "titel": "Kongress rügt Trump mit historischer Kriegsvollmachten-Abstimmung",
-          "zusammenfassung": "Das US-Parlament verabschiedete erstmals seit Jahrzehnten eine Resolution zu den Kriegsvollmachten und stellte sich damit gegen Trumps Militäreinsatz gegen Iran. Der Schritt ist zwar rechtlich nicht bindend, sendet aber ein starkes politisches Signal an das Weiße Haus.",
-          "bedeutung": "Eine parteiübergreifende Mehrheit im Kongress fordert erstmals konkret ein Ende des Iran-Konflikts und stellt damit Trumps Alleingangsstrategie in der Außenpolitik offen in Frage.",
-          "hintergrund": "Die Resolution wurde verabschiedet, obwohl sie den Präsidenten formal nicht zum Rückzug zwingen kann – die Kriegsvollmachten-Gesetzgebung aus dem Jahr 1973 setzt der Durchsetzbarkeit Grenzen. Dennoch markiert die Abstimmung einen seltenen Moment kongressionaler Gegenwehr gegen eine laufende Militäroperation.\n\nDer Konflikt mit Iran hatte zuletzt durch diplomatische Gespräche an Intensität verloren, doch die innenpolitischen Spannungen in den USA über Sinn und Dauer des Engagements wachsen weiter. Der Kongress nutzt den symbolischen Druck als Hebel, um die Verhandlungen zu beschleunigen.",
-          "tag": "US-Iran-Krieg",
-          "emoji": "🏛️",
+          "titel": "Rekordhitze trifft Westeuropa: Rote Alarmstufen aktiviert",
+          "zusammenfassung": "Frankreich, Großbritannien und Spanien verzeichnen historische Temperaturrekorde, Millionen Menschen sind von der extremen Hitzewelle betroffen. Behörden haben landesweit die höchsten Warnstufen ausgerufen und rufen zur Vorsicht auf.",
+          "bedeutung": "Die Hitzewelle verdeutlicht einmal mehr die wachsende Bedrohung durch den Klimawandel für dicht besiedelte Industrienationen.",
+          "hintergrund": "Westeuropa stöhnt unter einer außergewöhnlichen Hitzewelle, die in mehreren Ländern gleichzeitig neue Temperaturrekorde bricht. Besonders Frankreich, Spanien und Großbritannien sind betroffen, wo die Behörden rote Hitzewarnungen ausgegeben haben.\n\nExperten sehen in der Häufung solcher Extremereignisse ein klares Signal des Klimawandels. Krankenhäuser und Notfalldienste berichten von einem deutlichen Anstieg hitzebedingter Notfälle, während Städte und Gemeinden ihre Bevölkerung auffordern, ausreichend Wasser zu trinken und die Mittagshitze zu meiden.",
+          "tag": "Klimakrise",
+          "emoji": "🌡️",
           "quelle": "BBC",
-          "quelle_url": "https://www.bbc.co.uk/news/articles/ce8j6g3v3r4o?at_medium=RSS&at_campaign=rss"
+          "quelle_url": "https://www.bbc.co.uk/news/articles/c78y4102n1zo?at_medium=RSS&at_campaign=rss"
         },
         {
           "id": "politik-1",
-          "titel": "UN evakuiert Seeleute aus der Straße von Hormus",
-          "zusammenfassung": "Die Vereinten Nationen koordinieren die Evakuierung von Seeleuten, die in der Straße von Hormus festgesessen hatten, während US-Außenminister Rubio Iran vor der Erhebung von Durchfahrtsgebühren warnte. Washington besteht auf dem Grundsatz der freien Schifffahrt in dem strategisch bedeutsamen Seeweg.",
-          "bedeutung": "Die Straße von Hormus ist eine der wichtigsten Schifffahrtsrouten der Welt – jede Einschränkung des freien Durchgangs hätte unmittelbare Folgen für die globalen Energiemärkte und den Welthandel.",
-          "hintergrund": "Seit dem US-Iran-Deal hat der Schiffsverkehr durch die Meerenge wieder deutlich zugenommen, zuletzt passierten an einem einzigen Samstag 42 Schiffe die Straße. Dennoch bestehen Unsicherheiten über die künftigen Rahmenbedingungen der Durchfahrt.\n\nRubios Warnung richtet sich gegen iranische Überlegungen, Transitgebühren zu erheben – ein Schritt, den Washington als Verstoß gegen internationales Seerecht wertet. Die UN-Evakuierungsoperation soll zugleich Vertrauen für eine dauerhafte Stabilisierung der Region schaffen.",
-          "tag": "Hormus-Straße",
-          "emoji": "🚢",
+          "titel": "IAEA-Chef kündigt Inspektionen iranischer Atomanlagen an",
+          "zusammenfassung": "IAEA-Generaldirektor Rafael Grossi bestätigte, dass Inspektoren im Rahmen eines möglichen Friedensabkommens Zugang zu iranischen Nuklearstandorten erhalten sollen. Teheran schränkt jedoch ein, dass ein solcher Zugang nur Teil einer abschließenden Vereinbarung mit Washington sein könne.",
+          "bedeutung": "Der Streit um Inspektionsmodalitäten könnte zum entscheidenden Stolperstein auf dem Weg zu einem tragfähigen Atomdeal mit dem Iran werden.",
+          "hintergrund": "Die Internationale Atomenergiebehörde und der Iran ringen weiterhin um die konkreten Bedingungen für eine Wiederaufnahme unabhängiger Vor-Ort-Kontrollen. Während die IAEA bereits an logistischen Modalitäten arbeitet, besteht Teheran darauf, dass Inspektionen nur im Kontext eines umfassenden Deals mit den USA akzeptabel seien.\n\nDer Disput spiegelt die grundlegende Spannung zwischen westlichem Misstrauen gegenüber dem iranischen Nuklearprogramm und dem Wunsch Teherans, Zugeständnisse nur gegen handfeste Gegenleistungen zu machen. Die kommenden Verhandlungsrunden gelten als wegweisend für die regionale Sicherheitslage.",
+          "tag": "Atomdiplomatie",
+          "emoji": "☢️",
           "quelle": "BBC",
-          "quelle_url": "https://www.bbc.co.uk/news/articles/c24yr796emzo?at_medium=RSS&at_campaign=rss"
+          "quelle_url": "https://www.bbc.co.uk/news/articles/cpd395zv81vo?at_medium=RSS&at_campaign=rss"
         },
         {
           "id": "politik-2",
-          "titel": "Israelische Armee tötet zwei Männer im Südlibanon",
-          "zusammenfassung": "Israelische Streitkräfte töteten im südlichen Libanon zwei Personen, die das Militär als Hisbollah-Kämpfer identifiziert. Die Schiitenmiliz wertete den Vorfall als Verletzung des geltenden Waffenstillstandsabkommens.",
-          "bedeutung": "Der Zwischenfall zeigt, wie fragil der Waffenstillstand zwischen Israel und der Hisbollah bleibt und wie schnell lokale Eskalationen die regionalen Spannungen neu entfachen können.",
-          "hintergrund": "Nach einer Phase relativer Ruhe entlang der israelisch-libanesischen Grenze markiert der Vorfall eine neuerliche Verschärfung der Lage. Beide Seiten behalten sich das Recht auf Reaktion vor, was das Risiko einer Eskalationsspirale erhöht.\n\nDer Konflikt im Libanon ist eng mit der Gesamtlage im Nahen Osten verknüpft, insbesondere mit dem Waffengang in Gaza und dem geschwächten Einfluss des iranischen Regimes nach dem US-Deal. Beobachter warnen, dass gerade solche Zwischenfälle den brüchigen Frieden gefährden könnten.",
-          "tag": "Nahost-Konflikt",
-          "emoji": "⚔️",
+          "titel": "Frankreich meldet ersten Ebola-Fall im Land",
+          "zusammenfassung": "Ein französischer Arzt, der zuvor in der Demokratischen Republik Kongo im Einsatz war, ist positiv auf das Ebola-Virus getestet worden. In der DR Kongo sind bislang mehr als 260 Todesfälle im Zusammenhang mit dem laufenden Ausbruch registriert worden.",
+          "bedeutung": "Ein bestätigter Ebola-Fall auf westeuropäischem Boden löst erhöhte Alarmbereitschaft aus und testet die Kapazitäten internationaler Gesundheitsbehörden.",
+          "hintergrund": "Frankreich hat erstmals einen bestätigten Ebola-Fall gemeldet. Der betroffene Mediziner wurde nach seiner Rückkehr aus der Demokratischen Republik Kongo isoliert, wo er humanitäre Hilfe geleistet hatte. Die französischen Gesundheitsbehörden haben umgehend Kontaktnachverfolgung eingeleitet.\n\nDer Ausbruch in der DR Kongo dauert bereits seit Wochen an und forderte Hunderte Menschenleben. Internationale Gesundheitsorganisationen beobachten die Situation genau, da Ebola bei unzureichenden Schutzmaßnahmen auch in westlichen Ländern zu einer ernsthaften Herausforderung für das Gesundheitssystem werden kann.",
+          "tag": "Ebola",
+          "emoji": "🦠",
           "quelle": "BBC",
-          "quelle_url": "https://www.bbc.co.uk/news/articles/c36ykpw0yego?at_medium=RSS&at_campaign=rss"
+          "quelle_url": "https://www.bbc.co.uk/news/articles/cj9gzr9rdjlo?at_medium=RSS&at_campaign=rss"
         }
       ]
     },
@@ -49,36 +49,36 @@
       "stories": [
         {
           "id": "wirtschaft-0",
-          "titel": "Technologieaktien brechen wegen KI-Ausgaben ein",
-          "zusammenfassung": "An den globalen Börsen kam es zu einem massiven Ausverkauf von Technologiewerten, ausgelöst durch wachsende Zweifel an der wirtschaftlichen Tragfähigkeit der enormen Investitionen in Künstliche Intelligenz. Anleger hinterfragen zunehmend, ob die erhofften Erträge die milliardenschweren Ausgaben rechtfertigen.",
-          "bedeutung": "Der Einbruch bei Tech-Titeln signalisiert eine mögliche Stimmungswende an den Märkten gegenüber dem KI-Boom und könnte Milliarden an Marktkapitalisierung vernichten sowie Investitionspläne bremsen.",
-          "hintergrund": "Über Monate hatten Unternehmen wie Microsoft, Google und Meta astronomische Summen in KI-Infrastruktur gepumpt, was Aktienkurse auf Rekordniveaus trieb. Nun mehren sich Stimmen von Analysten, die Rentabilität und Zeitplan dieser Investitionen kritisch bewerten.\n\nDie Korrektur erinnert an frühere Technologieblasen, wenngleich die fundamentale Nachfrage nach KI-Diensten weiterhin real ist. Entscheidend wird sein, ob die Unternehmen in den kommenden Quartalsberichten messbare Umsatzeffekte aus ihren KI-Ausgaben nachweisen können.",
-          "tag": "KI-Boom",
+          "titel": "Musks Vermögen schrumpft: Kein Trillionär mehr nach Tech-Kurssturz",
+          "zusammenfassung": "Elon Musk hat seinen Status als erster Trillionär der Geschichte wieder verloren, nachdem ein massiver globaler Ausverkauf von Technologieaktien seinen Reichtum drastisch reduzierte. Haupttreiber war der erhebliche Wertverlust bei SpaceX, dessen nicht börsennotierte Anteile dennoch öffentlich bewertet werden.",
+          "bedeutung": "Der Vermögensschwund Musks ist ein Symptom einer breiteren Korrektur im globalen Technologiesektor, die Milliarden an Börsenwert vernichtet hat.",
+          "hintergrund": "Nur wenige Monate, nachdem Elon Musk als erster Mensch die symbolische Marke von einer Billion US-Dollar persönlichen Vermögens überschritten hatte, ist er durch den globalen Tech-Ausverkauf wieder darunter gefallen. SpaceX, das nicht öffentlich gehandelt wird, verlor auf dem Sekundärmarkt erheblich an Bewertung.\n\nDer Rückgang steht exemplarisch für eine breitere Neubewertung hochbewerteter Technologieunternehmen. Investoren zeigen sich zunehmend nervös angesichts steigender Zinsen, geopolitischer Risiken und Fragen zur langfristigen Profitabilität der Branche.",
+          "tag": "Tech-Krise",
           "emoji": "📉",
           "quelle": "BBC",
-          "quelle_url": "https://www.bbc.co.uk/news/articles/c802gvxpyxzo?at_medium=RSS&at_campaign=rss"
+          "quelle_url": "https://www.bbc.co.uk/news/articles/c8j2m2p8dgmo?at_medium=RSS&at_campaign=rss"
         },
         {
           "id": "wirtschaft-1",
-          "titel": "EU-Grenzprojekt EES droht Flughäfen zu überlasten",
-          "zusammenfassung": "Der Chef des europäischen Flughafenverbands warnt eindringlich, dass das neue Ein- und Ausreisesystem der EU in seiner aktuellen Form die Airports im Sommer an den Rand des Kollapses bringen könnte. Er fordert ein Eingeständnis, dass das System bisher nicht funktioniere.",
-          "bedeutung": "Das EES-System betrifft Hunderte Millionen Reisender pro Jahr und könnte bei einem Scheitern zu massiven Staus und Reisechaos an den europäischen Außengrenzen führen.",
-          "hintergrund": "Das Einreise- und Ausreisesystem der Europäischen Union wurde als Modernisierung der Grenzkontrolle angekündigt und soll Pässe durch biometrische Daten ersetzen. Die Einführung wurde bereits mehrfach verschoben, und die technische Umsetzung gilt als fehleranfällig.\n\nMit dem bevorstehenden Hochsommer und einem erwarteten Reiserekord steigt der Druck auf die EU-Behörden erheblich. Flughafenbetreiber beklagen mangelnde Vorbereitung und fehlende klare Kommunikation seitens der Kommission.",
-          "tag": "EU-Reisepolitik",
-          "emoji": "✈️",
+          "titel": "Trump beschuldigt Ölkonzerne der Preistreiberei an Tankstellen",
+          "zusammenfassung": "US-Präsident Donald Trump warf Shell, ExxonMobil, BP und Chevron vor, Verbraucher bei den Kraftstoffpreisen auszunehmen, und kündigte eine offizielle Untersuchung an. Die Anschuldigungen richten sich gegen einige der weltweit größten Energiekonzerne.",
+          "bedeutung": "Trumps Vorstoß könnte weitreichende Folgen für die internationale Energieindustrie und die Beziehungen der USA zu westlichen Ölmultis haben.",
+          "hintergrund": "In einer überraschenden Wendung seiner Energie- und Wirtschaftspolitik nahm Präsident Trump führende westliche Ölkonzerne ins Visier. Er warf ihnen vor, trotz gesunkener Rohölpreise die Benzinpreise für amerikanische Autofahrer künstlich hochzuhalten.\n\nDie genannten Unternehmen gehören zu den einflussreichsten Konzernen der Weltwirtschaft. Eine formale Untersuchung könnte regulatorischen Druck erzeugen und die Beziehungen zwischen der Trump-Administration und der Ölbranche, die bislang als eng galten, erheblich belasten.",
+          "tag": "Energiepolitik",
+          "emoji": "⛽",
           "quelle": "BBC",
-          "quelle_url": "https://www.bbc.co.uk/news/articles/cn4rlzrdj14o?at_medium=RSS&at_campaign=rss"
+          "quelle_url": "https://www.bbc.co.uk/news/articles/cly790j1j6ro?at_medium=RSS&at_campaign=rss"
         },
         {
           "id": "wirtschaft-2",
-          "titel": "Zehn Jahre Brexit: Was blieb von den Warnungen?",
-          "zusammenfassung": "Ein Jahrzehnt nach dem Brexit-Referendum zieht die Wirtschaftswissenschaft Bilanz über die tatsächlichen Folgen des EU-Austritts Großbritanniens. Die Analyse zeigt ein differenziertes Bild zwischen eingetretenen Schäden und übertriebenen Pessimismus-Szenarien.",
-          "bedeutung": "Die Auswertung liefert wichtige Erkenntnisse für künftige handelspolitische Weichenstellungen weltweit und beeinflusst die laufende Debatte über eine mögliche Annäherung Londons an Brüssel.",
-          "hintergrund": "Viele Ökonomen hatten vor dem Referendum vor dauerhaften Wachstumsverlusten, einem Rückgang ausländischer Investitionen und Handelshemmnissen gewarnt. Die Realität ist komplexer: Einige Vorhersagen trafen ein, andere blieben aus oder wurden durch andere Faktoren überlagert.\n\nDie Debatte ist auch deshalb aktuell, weil Großbritannien derzeit politisch im Umbruch ist und ein neuer Premierminister die Außenwirtschaftspolitik neu gestalten wird. Die Lehren aus dem Brexit-Jahrzehnt dürften dabei eine zentrale Rolle spielen.",
-          "tag": "Brexit-Bilanz",
-          "emoji": "🇬🇧",
+          "titel": "Deutschland: Kampf um Mindestlohn für Beschäftigte in Werkstätten",
+          "zusammenfassung": "Ein juristischer Musterfall soll rund 300.000 behinderten Arbeitnehmerinnen und Arbeitnehmern in deutschen Werkstätten den gesetzlichen Mindestlohn sichern. Derzeit erhalten sie häufig nur einen Bruchteil des allgemeinen Mindestlohns.",
+          "bedeutung": "Das Verfahren könnte die Entlohnung von Hunderttausenden Menschen mit Behinderung grundlegend verändern und hat Signalwirkung für ganz Europa.",
+          "hintergrund": "In Deutschland arbeiten rund 300.000 Menschen mit Behinderungen in sogenannten anerkannten Werkstätten – Einrichtungen, die zwischen Sozialeinrichtung und Betrieb angesiedelt sind. Ihr Entgelt liegt meist weit unter dem gesetzlichen Mindestlohn, da sie rechtlich nicht als reguläre Arbeitnehmer gelten.\n\nEin aktueller Musterprozess stellt diese Praxis grundsätzlich in Frage und argumentiert, dass die geleistete Arbeit eine reguläre Vergütung rechtfertige. Menschenrechtsorganisationen und Behindertenverbände sehen in dem Verfahren einen historischen Schritt hin zu echter wirtschaftlicher Teilhabe.",
+          "tag": "Behindertenrechte",
+          "emoji": "⚖️",
           "quelle": "BBC",
-          "quelle_url": "https://www.bbc.co.uk/news/articles/cyv0m164m84o?at_medium=RSS&at_campaign=rss"
+          "quelle_url": "https://www.bbc.co.uk/news/articles/cwy0v1d24elo?at_medium=RSS&at_campaign=rss"
         }
       ]
     },
@@ -89,21 +89,21 @@
       "stories": [
         {
           "id": "boerse-0",
-          "titel": "Fed-Legende Alan Greenspan im Alter von 100 gestorben",
-          "zusammenfassung": "Alan Greenspan, der die US-Notenbank Federal Reserve fast zwei Jahrzehnte lang prägte, ist im Alter von 100 Jahren gestorben. Unter vier Präsidenten leitete er die Geldpolitik der weltgrößten Volkswirtschaft in Boom- und Krisenzeiten gleichermaßen.",
-          "bedeutung": "Greenspans Tod markiert das Ende einer Ära der Zentralbankgeschichte – sein Erbe, seine Fehler und seine Erfolge werden die Debatte über die Rolle der Notenbanken noch lange prägen.",
-          "hintergrund": "Greenspan leitete die Fed von 1987 bis 2006 und navigierte die USA durch den Schwarzen Montag, die Dotcom-Blase und die Folgen der Terroranschläge vom 11. September. Sein Stil der bewusst mehrdeutigen Aussagen – bekannt als Fedspeak – wurde legendär und von Nachfolgern imitiert.\n\nKritiker werfen ihm vor, mit seiner lockeren Geldpolitik der 2000er Jahre die Grundlagen für die Immobilienblase und die Finanzkrise 2008 gelegt zu haben. Befürworter sehen in ihm hingegen einen Architekten des längsten Aufschwungs der US-Wirtschaftsgeschichte.",
-          "tag": "Notenbank-Geschichte",
+          "titel": "JPMorgan startet 50-Milliarden-Rückkauf nach Fed-Stresstest",
+          "zusammenfassung": "JPMorgan Chase kündigte ein Aktienrückkaufprogramm im Volumen von 50 Milliarden US-Dollar an, Goldman Sachs erhöhte seine Dividende – beide Schritte erfolgten unmittelbar nach dem bestandenen jährlichen Stresstest der US-Notenbank. Alle 32 geprüften Großbanken bestanden das simulierte Rezessionsszenario.",
+          "bedeutung": "Die Kapitalmaßnahmen der Banken signalisieren Stärke und Zuversicht im Finanzsektor und dürften Bankaktien kurzfristig Auftrieb geben.",
+          "hintergrund": "Die Federal Reserve veröffentlichte die Ergebnisse ihres jährlichen Banken-Stresstests, bei dem 32 der größten US-Geldhäuser einem hypothetischen schweren Wirtschaftsabschwung standhalten mussten. Das Ergebnis: Alle Institute erwiesen sich als widerstandsfähig gegenüber kombinierten Verlusten von bis zu 708 Milliarden US-Dollar.\n\nBesonders JPMorgan Chase nutzte das positive Ergebnis umgehend für eine spektakuläre Kapitalrückgabe an Aktionäre. Derartige Rückkaufprogramme in dieser Größenordnung gelten als starkes Vertrauenssignal des Managements in die eigene Bilanzstärke und sorgen typischerweise für Kursgewinne.",
+          "tag": "Bankensektor",
           "emoji": "🏦",
           "quelle": "CNBC",
-          "quelle_url": "https://www.cnbc.com/2026/06/22/alan-greenspan-former-chairman-of-the-fed-dies-at-age-100.html"
+          "quelle_url": "https://www.cnbc.com/2026/06/24/jpmorgan-goldman-sachs-fed-stress-test.html"
         },
         {
           "id": "boerse-1",
-          "titel": "USA heben Iran-Ölsanktionen weitreichend auf",
-          "zusammenfassung": "Die US-Regierung hat umfangreiche Sanktionserleichterungen für iranisches Öl erlassen und öffnet damit Teheran erhebliche neue Einnahmequellen. Der Schritt erfolgt im Rahmen der laufenden Friedensverhandlungen und verändert das globale Ölmarktgefüge spürbar.",
-          "bedeutung": "Die Rückkehr iranischen Öls auf den Weltmarkt in größerem Umfang dürfte den Ölpreis unter Druck setzen und das geopolitische Gleichgewicht im Energiesektor neu justieren.",
-          "hintergrund": "Irans Ölexporte waren durch jahrelange US-Sanktionen massiv eingeschränkt worden, was das Land wirtschaftlich schwer belastet hatte. Die neue Erlaubnis signalisiert einen ernsthaften politischen Willen Washingtons, den Konflikt dauerhaft zu beenden.\n\nFür die Energiemärkte bedeutet dies ein potenziell erhöhtes Angebot zu einem Zeitpunkt, an dem die OPEC+-Länder ohnehin über ihre Förderpolitik streiten. Händler und Analysten beobachten die Entwicklung mit Blick auf mögliche Preiskorrekturen genau.",
+          "titel": "USA lockern Iran-Ölsanktionen: Milliarden für Teheran freigegeben",
+          "zusammenfassung": "Die US-Regierung hat umfassende Ausnahmegenehmigungen von den Ölsanktionen gegen den Iran erteilt und damit den Weg für erhebliche Exporteinnahmen Teherans freigemacht. Der Schritt erfolgt im Kontext laufender Verhandlungen über ein mögliches Friedensabkommen.",
+          "bedeutung": "Eine substanzielle Lockerung der Iran-Sanktionen verändert die globalen Ölmarktdynamiken und könnte den Rohölpreis merklich unter Druck setzen.",
+          "hintergrund": "Washington hat in einem unerwarteten Schritt weitreichende Ausnahmeregelungen von den bestehenden Iran-Sanktionen gewährt, die dem Land Milliarden an Einnahmen aus Ölexporten ermöglichen. Dies stellt eine signifikante Kehrtwende in der bisherigen Druckstrategie gegenüber Teheran dar.\n\nAm Ölmarkt könnte das iranische Zusatzangebot zu einem Überangebot beitragen und die Preise dämpfen – eine Entwicklung, die Energieimporteure erfreut, aber Förderländer und Ölfirmen belastet. Analysten beobachten genau, ob die Geste Teheran zu weiteren Zugeständnissen am Verhandlungstisch bewegen wird.",
           "tag": "Ölmarkt",
           "emoji": "🛢️",
           "quelle": "CNBC",
@@ -111,11 +111,11 @@
         },
         {
           "id": "boerse-2",
-          "titel": "Stellenabbau in der Industrie auf Krisenrekordniveau",
-          "zusammenfassung": "Der S&P-Einkaufsmanagerindex für das verarbeitende Gewerbe verzeichnet im Juni Jobverluste in einer Größenordnung, die zuletzt während der Finanzkrise 2008 und der Covid-Pandemie erreicht wurde. Trotz besser als erwarteter Gesamtzahlen trübt der drastische Beschäftigungsrückgang das Bild erheblich.",
-          "bedeutung": "Massive Stellenstreichungen im Industriesektor sind ein Frühindikator für eine breiter werdende Konjunkturschwäche und könnten die Zinsentscheidungen der Notenbanken in den kommenden Monaten beeinflussen.",
-          "hintergrund": "Der überraschend gute Gesamtindex täuschte über die Schwäche hinweg: Das bessere Ergebnis wurde vor allem durch Lageraufbau getrieben, nicht durch echte Nachfragesteigerung. Das deutet darauf hin, dass Unternehmen auf Vorrat produzieren, während sie gleichzeitig Personal abbauen.\n\nFür Investoren ist der Widerspruch zwischen stabilem Index und einbrechendem Arbeitsmarkt ein Warnsignal. Sollte sich der Trend im dritten Quartal fortsetzen, dürfte der Druck auf die Federal Reserve wachsen, die Zinsen schneller zu senken als bisher geplant.",
-          "tag": "Industriekonjunktur",
+          "titel": "Fabrikjobs in USA brechen auf Krisenniveau ein",
+          "zusammenfassung": "Im Juni wurden in der US-amerikanischen Fertigungsindustrie so viele Stellen gestrichen wie zuletzt während der Finanzkrise 2008 und der Covid-Pandemie, wie der Einkaufsmanagerindex von S&P zeigt. Trotz eines insgesamt besser als erwarteten Gesamtwerts für den Sektor trübt der Stellenabbau das Bild erheblich.",
+          "bedeutung": "Massenentlassungen in der Industrie auf historischem Niveau sind ein Frühindikator für eine mögliche konjunkturelle Abkühlung in den USA.",
+          "hintergrund": "Der jüngste S&P-Einkaufsmanagerindex für das verarbeitende Gewerbe überraschte auf den ersten Blick positiv – doch ein genauerer Blick offenbart Schwäche: Der bessere Gesamtwert geht hauptsächlich auf einen Lageraufbau zurück, nicht auf echte Nachfragebelebung.\n\nGleichzeitig erreichte der Stellenabbau in Fabriken ein Ausmaß, das zuletzt in den schwersten Wirtschaftskrisen der letzten Jahrzehnte beobachtet wurde. Das legt nahe, dass Unternehmen trotz oberflächlicher Stabilisierung erhebliche Unsicherheiten über die künftige Auftragslage einpreisen.",
+          "tag": "Konjunktur",
           "emoji": "🏭",
           "quelle": "CNBC",
           "quelle_url": "https://www.cnbc.com/2026/06/23/factory-job-cuts-reported-around-financial-crisis-and-covid-levels-for-june-sp-says.html"
