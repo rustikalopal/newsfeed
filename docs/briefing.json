@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-25T01:30:24.142037+00:00",
-  "datum": "Donnerstag, 25. Juni 2026",
+  "generated_at": "2026-06-26T01:34:11.796510+00:00",
+  "datum": "Freitag, 26. Juni 2026",
   "ressorts": [
     {
       "id": "politik",
@@ -9,36 +9,36 @@
       "stories": [
         {
           "id": "politik-0",
-          "titel": "Rekordhitze trifft Westeuropa: Rote Alarmstufen aktiviert",
-          "zusammenfassung": "Frankreich, Großbritannien und Spanien verzeichnen historische Temperaturrekorde, Millionen Menschen sind von der extremen Hitzewelle betroffen. Behörden haben landesweit die höchsten Warnstufen ausgerufen und rufen zur Vorsicht auf.",
-          "bedeutung": "Die Hitzewelle verdeutlicht einmal mehr die wachsende Bedrohung durch den Klimawandel für dicht besiedelte Industrienationen.",
-          "hintergrund": "Westeuropa stöhnt unter einer außergewöhnlichen Hitzewelle, die in mehreren Ländern gleichzeitig neue Temperaturrekorde bricht. Besonders Frankreich, Spanien und Großbritannien sind betroffen, wo die Behörden rote Hitzewarnungen ausgegeben haben.\n\nExperten sehen in der Häufung solcher Extremereignisse ein klares Signal des Klimawandels. Krankenhäuser und Notfalldienste berichten von einem deutlichen Anstieg hitzebedingter Notfälle, während Städte und Gemeinden ihre Bevölkerung auffordern, ausreichend Wasser zu trinken und die Mittagshitze zu meiden.",
-          "tag": "Klimakrise",
-          "emoji": "🌡️",
+          "titel": "Erdbeben in Venezuela: Mindestens 235 Tote",
+          "zusammenfassung": "Zwei schwere Erdbeben der Stärken 7,2 und 7,5 erschütterten Venezuela innerhalb von Sekunden und hinterließen eine Spur der Verwüstung. Mindestens 235 Menschen kamen ums Leben, knapp 1.500 wurden verletzt.",
+          "bedeutung": "Die Naturkatastrophe trifft ein Land, das sich nach dem Sturz von Nicolás Maduro in einem fragilen politischen Übergangsprozess befindet.",
+          "hintergrund": "Die beiden flachen Beben ereigneten sich in rascher Folge und verursachten schwere Schäden vor allem rund um die Hauptstadt Caracas, wo Gebäude einstürzten und Zehntausende Menschen in Panik auf die Straßen flüchteten. Rettungskräfte durchsuchen seither Trümmer nach Überlebenden.\n\nVenezuela steckt seit Monaten in einer politischen Transformation: Erst wenige Monate zuvor war Ex-Präsident Maduro von US-Kräften festgenommen worden. Die neue Übergangsregierung steht nun vor der doppelten Herausforderung, staatliche Institutionen aufzubauen und gleichzeitig eine der schwersten Naturkatastrophen der jüngeren Geschichte des Landes zu bewältigen.",
+          "tag": "Naturkatastrophe",
+          "emoji": "🏚️",
           "quelle": "BBC",
-          "quelle_url": "https://www.bbc.co.uk/news/articles/c78y4102n1zo?at_medium=RSS&at_campaign=rss"
+          "quelle_url": "https://www.bbc.co.uk/news/articles/cjegdqw5d3yo?at_medium=RSS&at_campaign=rss"
         },
         {
           "id": "politik-1",
-          "titel": "IAEA-Chef kündigt Inspektionen iranischer Atomanlagen an",
-          "zusammenfassung": "IAEA-Generaldirektor Rafael Grossi bestätigte, dass Inspektoren im Rahmen eines möglichen Friedensabkommens Zugang zu iranischen Nuklearstandorten erhalten sollen. Teheran schränkt jedoch ein, dass ein solcher Zugang nur Teil einer abschließenden Vereinbarung mit Washington sein könne.",
-          "bedeutung": "Der Streit um Inspektionsmodalitäten könnte zum entscheidenden Stolperstein auf dem Weg zu einem tragfähigen Atomdeal mit dem Iran werden.",
-          "hintergrund": "Die Internationale Atomenergiebehörde und der Iran ringen weiterhin um die konkreten Bedingungen für eine Wiederaufnahme unabhängiger Vor-Ort-Kontrollen. Während die IAEA bereits an logistischen Modalitäten arbeitet, besteht Teheran darauf, dass Inspektionen nur im Kontext eines umfassenden Deals mit den USA akzeptabel seien.\n\nDer Disput spiegelt die grundlegende Spannung zwischen westlichem Misstrauen gegenüber dem iranischen Nuklearprogramm und dem Wunsch Teherans, Zugeständnisse nur gegen handfeste Gegenleistungen zu machen. Die kommenden Verhandlungsrunden gelten als wegweisend für die regionale Sicherheitslage.",
-          "tag": "Atomdiplomatie",
-          "emoji": "☢️",
+          "titel": "US-Gericht erlaubt Ende des Schutzstatus für Haitianer und Syrer",
+          "zusammenfassung": "Der Oberste Gerichtshof der USA hat grünes Licht gegeben, den temporären Schutzstatus für haitianische und syrische Migranten aufzuheben. Damit droht Hunderttausenden Menschen, die seit Jahren legal in den USA leben, die Abschiebung.",
+          "bedeutung": "Das Urteil ist ein weichenstellender Erfolg für die Einwanderungspolitik der Trump-Administration und betrifft das Schicksal von Migranten aus zwei der weltweit krisengeschüttelsten Länder.",
+          "hintergrund": "Der Temporäre Schutzstatus – im US-Recht als TPS bekannt – war ursprünglich eingeführt worden, um Menschen aus Ländern zu schützen, die von Krieg, Katastrophen oder politischem Chaos zerrissen sind. Viele der Betroffenen leben seit mehr als einem Jahrzehnt in den Vereinigten Staaten, haben Familien gegründet und Arbeit gefunden.\n\nDas Urteil dürfte international scharfe Kritik auslösen, insbesondere von Menschenrechtsorganisationen und Regierungen in der Karibik und im Nahen Osten. Es markiert zugleich einen weiteren Schritt in der systematischen Verschärfung der US-Einwanderungspolitik unter Präsident Trump.",
+          "tag": "Migration",
+          "emoji": "⚖️",
           "quelle": "BBC",
-          "quelle_url": "https://www.bbc.co.uk/news/articles/cpd395zv81vo?at_medium=RSS&at_campaign=rss"
+          "quelle_url": "https://www.bbc.co.uk/news/articles/c4g8ym422lko?at_medium=RSS&at_campaign=rss"
         },
         {
           "id": "politik-2",
-          "titel": "Frankreich meldet ersten Ebola-Fall im Land",
-          "zusammenfassung": "Ein französischer Arzt, der zuvor in der Demokratischen Republik Kongo im Einsatz war, ist positiv auf das Ebola-Virus getestet worden. In der DR Kongo sind bislang mehr als 260 Todesfälle im Zusammenhang mit dem laufenden Ausbruch registriert worden.",
-          "bedeutung": "Ein bestätigter Ebola-Fall auf westeuropäischem Boden löst erhöhte Alarmbereitschaft aus und testet die Kapazitäten internationaler Gesundheitsbehörden.",
-          "hintergrund": "Frankreich hat erstmals einen bestätigten Ebola-Fall gemeldet. Der betroffene Mediziner wurde nach seiner Rückkehr aus der Demokratischen Republik Kongo isoliert, wo er humanitäre Hilfe geleistet hatte. Die französischen Gesundheitsbehörden haben umgehend Kontaktnachverfolgung eingeleitet.\n\nDer Ausbruch in der DR Kongo dauert bereits seit Wochen an und forderte Hunderte Menschenleben. Internationale Gesundheitsorganisationen beobachten die Situation genau, da Ebola bei unzureichenden Schutzmaßnahmen auch in westlichen Ländern zu einer ernsthaften Herausforderung für das Gesundheitssystem werden kann.",
-          "tag": "Ebola",
-          "emoji": "🦠",
+          "titel": "UN stoppen Hormuz-Evakuierungsplan nach Schiffsangriff",
+          "zusammenfassung": "Die Vereinten Nationen haben einen laufenden Evakuierungsplan für die Straße von Hormus nach einem Angriff auf ein Frachtschiff in der Nähe Omans vorübergehend ausgesetzt. Der Ursprung des Geschosses ist bislang ungeklärt, Opfer wurden nicht gemeldet.",
+          "bedeutung": "Der Vorfall befeuert die Spannungen rund um eine der wichtigsten Schifffahrtsrouten der Welt, durch die ein erheblicher Teil der globalen Ölversorgung fließt.",
+          "hintergrund": "Die Straße von Hormus gilt als neuralgischer Punkt der globalen Energieversorgung. Iran hatte zuletzt deutlich gemacht, dass Durchfahrten ohne seine Billigung inakzeptabel seien – eine Warnung, die internationale Schifffahrtsunternehmen und Militärplaner gleichermaßen alarmiert.\n\nDer Angriff auf das Frachtschiff, dessen Hintergrund noch ermittelt wird, kommt zu einem Zeitpunkt erhöhter Spannungen im Persischen Golf und könnte die ohnehin fragilen Verhandlungen über Schifffahrtssicherheit in der Region weiter erschweren.",
+          "tag": "Hormus",
+          "emoji": "🚢",
           "quelle": "BBC",
-          "quelle_url": "https://www.bbc.co.uk/news/articles/cj9gzr9rdjlo?at_medium=RSS&at_campaign=rss"
+          "quelle_url": "https://www.bbc.co.uk/news/articles/cjwg9np904qo?at_medium=RSS&at_campaign=rss"
         }
       ]
     },
@@ -49,36 +49,36 @@
       "stories": [
         {
           "id": "wirtschaft-0",
-          "titel": "Musks Vermögen schrumpft: Kein Trillionär mehr nach Tech-Kurssturz",
-          "zusammenfassung": "Elon Musk hat seinen Status als erster Trillionär der Geschichte wieder verloren, nachdem ein massiver globaler Ausverkauf von Technologieaktien seinen Reichtum drastisch reduzierte. Haupttreiber war der erhebliche Wertverlust bei SpaceX, dessen nicht börsennotierte Anteile dennoch öffentlich bewertet werden.",
-          "bedeutung": "Der Vermögensschwund Musks ist ein Symptom einer breiteren Korrektur im globalen Technologiesektor, die Milliarden an Börsenwert vernichtet hat.",
-          "hintergrund": "Nur wenige Monate, nachdem Elon Musk als erster Mensch die symbolische Marke von einer Billion US-Dollar persönlichen Vermögens überschritten hatte, ist er durch den globalen Tech-Ausverkauf wieder darunter gefallen. SpaceX, das nicht öffentlich gehandelt wird, verlor auf dem Sekundärmarkt erheblich an Bewertung.\n\nDer Rückgang steht exemplarisch für eine breitere Neubewertung hochbewerteter Technologieunternehmen. Investoren zeigen sich zunehmend nervös angesichts steigender Zinsen, geopolitischer Risiken und Fragen zur langfristigen Profitabilität der Branche.",
-          "tag": "Tech-Krise",
-          "emoji": "📉",
+          "titel": "Apple und Xbox erhöhen Preise spürbar",
+          "zusammenfassung": "Apple hat die Preise für mehrere Produkte um bis zu 20 Prozent angehoben und begründet dies mit einem beispiellosen Anstieg der Komponentenkosten. Microsoft zieht mit einer Preiserhöhung für Xbox-Konsolen nach.",
+          "bedeutung": "Die Preisaufschläge zweier Technologieriesen signalisieren, dass sich gestiegene Produktionskosten nun in vollem Umfang auf Endverbraucher weltweit auswirken.",
+          "hintergrund": "Apple sprach intern davon, noch nie einen so rasanten und massiven Anstieg bei Bauteilpreisen erlebt zu haben. Branchenexperten sehen darin die Nachwirkungen gestörter Lieferketten, erhöhter Zölle im Rahmen der US-Handelspolitik sowie anhaltender Rohstoffknappheit.\n\nDass zwei so unterschiedliche Konzerne wie Apple und Microsoft gleichzeitig an der Preisschraube drehen, gilt als Indikator für einen breiteren Trend: Die Elektronikindustrie gibt strukturelle Kostensteigerungen zunehmend an die Kundschaft weiter, was die Konsumlaune in einem ohnehin angespannten wirtschaftlichen Umfeld weiter belasten könnte.",
+          "tag": "Techpreise",
+          "emoji": "📱",
           "quelle": "BBC",
-          "quelle_url": "https://www.bbc.co.uk/news/articles/c8j2m2p8dgmo?at_medium=RSS&at_campaign=rss"
+          "quelle_url": "https://www.bbc.co.uk/news/articles/c3ryj81ywlro?at_medium=RSS&at_campaign=rss"
         },
         {
           "id": "wirtschaft-1",
-          "titel": "Trump beschuldigt Ölkonzerne der Preistreiberei an Tankstellen",
-          "zusammenfassung": "US-Präsident Donald Trump warf Shell, ExxonMobil, BP und Chevron vor, Verbraucher bei den Kraftstoffpreisen auszunehmen, und kündigte eine offizielle Untersuchung an. Die Anschuldigungen richten sich gegen einige der weltweit größten Energiekonzerne.",
-          "bedeutung": "Trumps Vorstoß könnte weitreichende Folgen für die internationale Energieindustrie und die Beziehungen der USA zu westlichen Ölmultis haben.",
-          "hintergrund": "In einer überraschenden Wendung seiner Energie- und Wirtschaftspolitik nahm Präsident Trump führende westliche Ölkonzerne ins Visier. Er warf ihnen vor, trotz gesunkener Rohölpreise die Benzinpreise für amerikanische Autofahrer künstlich hochzuhalten.\n\nDie genannten Unternehmen gehören zu den einflussreichsten Konzernen der Weltwirtschaft. Eine formale Untersuchung könnte regulatorischen Druck erzeugen und die Beziehungen zwischen der Trump-Administration und der Ölbranche, die bislang als eng galten, erheblich belasten.",
-          "tag": "Energiepolitik",
-          "emoji": "⛽",
+          "titel": "EasyJet weist vierten Übernahmeversuch zurück",
+          "zusammenfassung": "Die britische Billigfluggesellschaft EasyJet hat ein viertes Kaufangebot abgelehnt und Zweifel an der Umsetzbarkeit des Vorschlags geäußert. Wer hinter dem Angebot steckt, wurde offiziell nicht bestätigt.",
+          "bedeutung": "Die anhaltenden Übernahmeversuche verdeutlichen, wie attraktiv konsolidierte Marktpositionen im europäischen Luftfahrtsektor nach Jahren turbulenter Wirtschaftslage geworden sind.",
+          "hintergrund": "Der europäische Luftverkehrsmarkt befindet sich in einer Phase der Neuordnung: Steigende Treibstoffkosten, Kapazitätsengpässe und ein verändertes Reiseverhalten nach der Pandemie zwingen Airlines dazu, ihre strategische Aufstellung zu überdenken. Fusionen und Übernahmen gelten dabei als probates Mittel zur Kostensenkung und Marktbehauptung.\n\nEasyJet hat sich trotz des Drucks bislang als unabhängiges Unternehmen behauptet. Analysten beobachten die Situation genau, da ein Zusammenschluss im Niedrigpreissegment erhebliche Auswirkungen auf den Wettbewerb und die Ticketpreise für Millionen europäischer Flugreisender hätte.",
+          "tag": "Luftfahrt",
+          "emoji": "✈️",
           "quelle": "BBC",
-          "quelle_url": "https://www.bbc.co.uk/news/articles/cly790j1j6ro?at_medium=RSS&at_campaign=rss"
+          "quelle_url": "https://www.bbc.co.uk/news/articles/c8d2r9przvno?at_medium=RSS&at_campaign=rss"
         },
         {
           "id": "wirtschaft-2",
-          "titel": "Deutschland: Kampf um Mindestlohn für Beschäftigte in Werkstätten",
-          "zusammenfassung": "Ein juristischer Musterfall soll rund 300.000 behinderten Arbeitnehmerinnen und Arbeitnehmern in deutschen Werkstätten den gesetzlichen Mindestlohn sichern. Derzeit erhalten sie häufig nur einen Bruchteil des allgemeinen Mindestlohns.",
-          "bedeutung": "Das Verfahren könnte die Entlohnung von Hunderttausenden Menschen mit Behinderung grundlegend verändern und hat Signalwirkung für ganz Europa.",
-          "hintergrund": "In Deutschland arbeiten rund 300.000 Menschen mit Behinderungen in sogenannten anerkannten Werkstätten – Einrichtungen, die zwischen Sozialeinrichtung und Betrieb angesiedelt sind. Ihr Entgelt liegt meist weit unter dem gesetzlichen Mindestlohn, da sie rechtlich nicht als reguläre Arbeitnehmer gelten.\n\nEin aktueller Musterprozess stellt diese Praxis grundsätzlich in Frage und argumentiert, dass die geleistete Arbeit eine reguläre Vergütung rechtfertige. Menschenrechtsorganisationen und Behindertenverbände sehen in dem Verfahren einen historischen Schritt hin zu echter wirtschaftlicher Teilhabe.",
-          "tag": "Behindertenrechte",
-          "emoji": "⚖️",
+          "titel": "Ferrari-Marketingchef tritt nach EV-Backlash zurück",
+          "zusammenfassung": "Der Marketingleiter des italienischen Luxusautobauers Ferrari hat das Unternehmen verlassen, nachdem das Design des ersten vollelektrischen Ferrari-Modells, der Luce, heftige Kritik ausgelöst hatte. Der Rücktritt kommt nur wenige Wochen nach der umstrittenen Präsentation.",
+          "bedeutung": "Der Vorfall zeigt, wie riskant der Spagat zwischen Markentradition und Elektromobilität für Luxusmarken mit loyaler Stammkundschaft sein kann.",
+          "hintergrund": "Ferrari hatte mit der Luce sein erstes vollständig elektrisches Fahrzeug vorgestellt – ein Schritt, der die Marke in die Zukunft führen sollte, aber massive Ablehnung unter Enthusiasten und in der Fachpresse auslöste. Kritiker bemängelten, das Design weiche zu stark von Ferraris unverwechselbarer Ästhetik ab.\n\nDer personelle Konsequenz folgt nun eine strategische Debatte: Wie weit darf sich eine Ikone der Automobilgeschichte von ihrer Identität entfernen, ohne ihre Kernzielgruppe zu verlieren? Andere Premiumhersteller dürften die Entwicklungen bei Ferrari mit großem Interesse verfolgen.",
+          "tag": "Elektromobilität",
+          "emoji": "🏎️",
           "quelle": "BBC",
-          "quelle_url": "https://www.bbc.co.uk/news/articles/cwy0v1d24elo?at_medium=RSS&at_campaign=rss"
+          "quelle_url": "https://www.bbc.co.uk/news/articles/cnv9edrjjn4o?at_medium=RSS&at_campaign=rss"
         }
       ]
     },
@@ -89,36 +89,36 @@
       "stories": [
         {
           "id": "boerse-0",
-          "titel": "JPMorgan startet 50-Milliarden-Rückkauf nach Fed-Stresstest",
-          "zusammenfassung": "JPMorgan Chase kündigte ein Aktienrückkaufprogramm im Volumen von 50 Milliarden US-Dollar an, Goldman Sachs erhöhte seine Dividende – beide Schritte erfolgten unmittelbar nach dem bestandenen jährlichen Stresstest der US-Notenbank. Alle 32 geprüften Großbanken bestanden das simulierte Rezessionsszenario.",
-          "bedeutung": "Die Kapitalmaßnahmen der Banken signalisieren Stärke und Zuversicht im Finanzsektor und dürften Bankaktien kurzfristig Auftrieb geben.",
-          "hintergrund": "Die Federal Reserve veröffentlichte die Ergebnisse ihres jährlichen Banken-Stresstests, bei dem 32 der größten US-Geldhäuser einem hypothetischen schweren Wirtschaftsabschwung standhalten mussten. Das Ergebnis: Alle Institute erwiesen sich als widerstandsfähig gegenüber kombinierten Verlusten von bis zu 708 Milliarden US-Dollar.\n\nBesonders JPMorgan Chase nutzte das positive Ergebnis umgehend für eine spektakuläre Kapitalrückgabe an Aktionäre. Derartige Rückkaufprogramme in dieser Größenordnung gelten als starkes Vertrauenssignal des Managements in die eigene Bilanzstärke und sorgen typischerweise für Kursgewinne.",
-          "tag": "Bankensektor",
+          "titel": "JPMorgan kündigt 50-Milliarden-Rückkauf an, Goldman erhöht Dividende",
+          "zusammenfassung": "Nach erfolgreich bestandenem Fed-Stresstest haben JPMorgan Chase ein Aktienrückkaufprogramm über 50 Milliarden Dollar und Goldman Sachs eine Dividendenerhöhung bekanntgegeben. Die US-Notenbank hatte zuvor allen 32 geprüften Großbanken Krisenresistenz bescheinigt.",
+          "bedeutung": "Die großzügigen Kapitalausschüttungen signalisieren den Märkten, dass die amerikanischen Banken trotz wirtschaftlicher Unsicherheiten in robuster Verfassung sind.",
+          "hintergrund": "Der jährliche Stresstest der Federal Reserve simuliert ein schweres Rezessionsszenario und prüft, ob Banken dabei genügend Kapital vorhalten. Dass alle 32 Institute das hypothetische Verlustpotenzial von rund 708 Milliarden Dollar überstehen würden, gilt als starkes Signal für die Stabilität des US-Finanzsystems.\n\nBesonders bemerkenswert ist in diesem Jahr, dass die Testergebnisse erstmals keine direkten Auswirkungen auf die Kapitalanforderungen haben werden – ein Zeichen des regulatorischen Wandels unter der aktuellen Regierung. Anleger reagierten positiv auf die Nachrichten, da Rückkäufe und Dividendenerhöhungen typischerweise als Vertrauenssignal des Managements gewertet werden.",
+          "tag": "Bankenstabilität",
           "emoji": "🏦",
           "quelle": "CNBC",
           "quelle_url": "https://www.cnbc.com/2026/06/24/jpmorgan-goldman-sachs-fed-stress-test.html"
         },
         {
           "id": "boerse-1",
-          "titel": "USA lockern Iran-Ölsanktionen: Milliarden für Teheran freigegeben",
-          "zusammenfassung": "Die US-Regierung hat umfassende Ausnahmegenehmigungen von den Ölsanktionen gegen den Iran erteilt und damit den Weg für erhebliche Exporteinnahmen Teherans freigemacht. Der Schritt erfolgt im Kontext laufender Verhandlungen über ein mögliches Friedensabkommen.",
-          "bedeutung": "Eine substanzielle Lockerung der Iran-Sanktionen verändert die globalen Ölmarktdynamiken und könnte den Rohölpreis merklich unter Druck setzen.",
-          "hintergrund": "Washington hat in einem unerwarteten Schritt weitreichende Ausnahmeregelungen von den bestehenden Iran-Sanktionen gewährt, die dem Land Milliarden an Einnahmen aus Ölexporten ermöglichen. Dies stellt eine signifikante Kehrtwende in der bisherigen Druckstrategie gegenüber Teheran dar.\n\nAm Ölmarkt könnte das iranische Zusatzangebot zu einem Überangebot beitragen und die Preise dämpfen – eine Entwicklung, die Energieimporteure erfreut, aber Förderländer und Ölfirmen belastet. Analysten beobachten genau, ob die Geste Teheran zu weiteren Zugeständnissen am Verhandlungstisch bewegen wird.",
-          "tag": "Ölmarkt",
-          "emoji": "🛢️",
+          "titel": "US-Kerninflation höher als erwartet – Fed unter Druck",
+          "zusammenfassung": "Der von der US-Notenbank bevorzugte Inflationsindikator, der PCE-Preisindex, zeigte im Mai eine Kerninflationsrate von 3,4 Prozent – der höchste Wert seit Oktober 2023. Analysten hatten einen geringeren Anstieg erwartet.",
+          "bedeutung": "Die überraschend hartnäckige Inflation verringert den Spielraum der Fed für baldige Zinssenkungen und belastet die Erwartungen an die Geldpolitik weltweit.",
+          "hintergrund": "Der PCE-Index gilt unter Ökonomen als aussagekräftiger als der besser bekannte Verbraucherpreisindex, weil er das tatsächliche Konsumverhalten breiter abbildet. Ein Wert von 3,4 Prozent liegt deutlich über dem Fed-Ziel von zwei Prozent und dürfte die Debatte innerhalb des Offenmarktausschusses weiter befeuern.\n\nFed-Vertreter sendeten zuletzt gemischte Signale: Während der Präsident der Chicago Fed den Inflationsdruck als zu hoch einstufte, zeigte sich sein New Yorker Kollege John Williams zuversichtlicher, dass sich die Preisentwicklung bald abschwächen werde. Die Märkte reagierten mit erhöhter Volatilität auf die unklare Zinsperspektive.",
+          "tag": "Inflation",
+          "emoji": "📈",
           "quelle": "CNBC",
-          "quelle_url": "https://www.cnbc.com/2026/06/23/us-iran-oil-sanction-relief-strait-of-hormuz-peace-deal-.html"
+          "quelle_url": "https://www.cnbc.com/2026/06/25/pce-inflation-report-may-2026-.html"
         },
         {
           "id": "boerse-2",
-          "titel": "Fabrikjobs in USA brechen auf Krisenniveau ein",
-          "zusammenfassung": "Im Juni wurden in der US-amerikanischen Fertigungsindustrie so viele Stellen gestrichen wie zuletzt während der Finanzkrise 2008 und der Covid-Pandemie, wie der Einkaufsmanagerindex von S&P zeigt. Trotz eines insgesamt besser als erwarteten Gesamtwerts für den Sektor trübt der Stellenabbau das Bild erheblich.",
-          "bedeutung": "Massenentlassungen in der Industrie auf historischem Niveau sind ein Frühindikator für eine mögliche konjunkturelle Abkühlung in den USA.",
-          "hintergrund": "Der jüngste S&P-Einkaufsmanagerindex für das verarbeitende Gewerbe überraschte auf den ersten Blick positiv – doch ein genauerer Blick offenbart Schwäche: Der bessere Gesamtwert geht hauptsächlich auf einen Lageraufbau zurück, nicht auf echte Nachfragebelebung.\n\nGleichzeitig erreichte der Stellenabbau in Fabriken ein Ausmaß, das zuletzt in den schwersten Wirtschaftskrisen der letzten Jahrzehnte beobachtet wurde. Das legt nahe, dass Unternehmen trotz oberflächlicher Stabilisierung erhebliche Unsicherheiten über die künftige Auftragslage einpreisen.",
-          "tag": "Konjunktur",
-          "emoji": "🏭",
+          "titel": "Bond-ETFs boomen: Anleger flüchten aus Aktienmarkt",
+          "zusammenfassung": "Laut einem hochrangigen BlackRock-Manager verzeichnen börsengehandelte Rentenfonds derzeit außergewöhnliche Mittelzuflüsse. Investoren setzen auf ein breites Spektrum festverzinslicher Wertpapiere, um Rendite bei erhöhtem Aktienmarktrisiko zu sichern.",
+          "bedeutung": "Die Hinwendung zu Anleihe-ETFs deutet auf eine tiefgreifende Verschiebung in der globalen Anlegerstimmung hin und könnte Indikator für eine bevorstehende Marktkorrektur sein.",
+          "hintergrund": "Professionelle Investoren und Privatanleger diversifizieren ihre Portfolios zunehmend weg von herkömmlichen Aktienindizes hin zu einer Mischung aus Unternehmens-, Staats- und hochverzinslichen Anleihen. Der Trend spiegelt sowohl das gestiegene Zinsniveau als auch die Unsicherheit über die weitere Konjunkturentwicklung wider.\n\nBlackRock, weltweit größter Vermögensverwalter, sieht in den Zuflüssen ein Signal, dass die Märkte eine mögliche Trendwende antizipieren. Anlageexperten warnen jedoch, dass eine breite Flucht in Anleihen auch selbstverstärkende Dynamiken auslösen kann, die Aktienmärkte zusätzlich unter Druck setzen.",
+          "tag": "Anleihemarkt",
+          "emoji": "💹",
           "quelle": "CNBC",
-          "quelle_url": "https://www.cnbc.com/2026/06/23/factory-job-cuts-reported-around-financial-crisis-and-covid-levels-for-june-sp-says.html"
+          "quelle_url": "https://www.cnbc.com/2026/06/25/inflation-fed-bond-etf-flows-surge-blackrock.html"
         }
       ]
     }
