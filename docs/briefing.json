@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-27T01:26:12.865310+00:00",
-  "datum": "Samstag, 27. Juni 2026",
+  "generated_at": "2026-06-28T00:18:59.908600+00:00",
+  "datum": "Sonntag, 28. Juni 2026",
   "ressorts": [
     {
       "id": "politik",
@@ -9,10 +9,10 @@
       "stories": [
         {
           "id": "politik-0",
-          "titel": "Venezuela-Beben: Über 920 Tote, Suche dauert an",
-          "zusammenfassung": "Bei schweren Erdbeben in Venezuela kamen mindestens 920 Menschen ums Leben, Hunderte werden noch unter Trümmern vermutet. Internationale Rettungsteams trafen ein, während verzweifelte Familien auf Nachrichten über ihre Angehörigen warten.",
-          "bedeutung": "Das Erdbeben gehört zu den tödlichsten Naturkatastrophen Südamerikas der jüngeren Geschichte und zieht internationale Hilfsmaßnahmen in einer geopolitisch sensiblen Region nach sich.",
-          "hintergrund": "Die Erdstöße trafen Venezuela in einer ohnehin angespannten humanitären Lage. Infrastruktur und Rettungskapazitäten des Landes sind durch jahrelange wirtschaftliche Krise stark geschwächt, was die Bergungsarbeiten erheblich erschwert.\n\nMehrere Länder und internationale Organisationen entsandten Rettungsteams und Hilfsgüter. Die genaue Zahl der Opfer dürfte noch steigen, da viele Gebiete schwer zugänglich sind und die Trümmersuche andauert.",
+          "titel": "Erdbeben in Venezuela: Mindestens 920 Tote",
+          "zusammenfassung": "Schwere Erdbeben haben in Venezuela mindestens 920 Menschen das Leben gekostet. Internationale Rettungsteams sind eingetroffen, während Hunderte noch unter den Trümmern vermutet werden.",
+          "bedeutung": "Die Katastrophe stellt Venezuela – das bereits unter wirtschaftlicher und politischer Instabilität leidet – vor eine humanitäre Ausnahmesituation von internationalem Ausmaß.",
+          "hintergrund": "Die Erdbebenserie traf mehrere Regionen des Landes und hinterließ weitflächige Zerstörung. Angehörige halten verzweifelt Ausschau nach Überlebenden, während schwere Trümmer den Einsatz der Retter erheblich erschweren.\n\nInternationale Hilfsorganisationen koordinieren sich mit lokalen Behörden, doch die ohnehin marode Infrastruktur des Landes bremst die Reaktion. Die Zahl der Todesopfer dürfte nach Einschätzung von Experten weiter steigen.",
           "tag": "Naturkatastrophe",
           "emoji": "🆘",
           "quelle": "BBC",
@@ -20,25 +20,25 @@
         },
         {
           "id": "politik-1",
-          "titel": "USA greifen nach Frachtschiff-Angriff Iran-Stellungen an",
-          "zusammenfassung": "Das US-Zentralkommando meldete gezielte Schläge gegen iranische Raketen- und Drohnenlager sowie Küstenradaranlagen. Auslöser war ein Angriff auf ein Handelsschiff, für den US-Behörden den Iran verantwortlich machen.",
-          "bedeutung": "Die direkte militärische Konfrontation zwischen den USA und dem Iran eskaliert die Spannungen im Persischen Golf und bedroht eine der wichtigsten Schifffahrtsrouten der Welt.",
-          "hintergrund": "Der Angriff auf das Frachtschiff ereignete sich in der Nähe der Straße von Hormus, durch die ein erheblicher Teil des globalen Ölhandels verläuft. Trotz eines erst kürzlich geschlossenen vorläufigen Friedensabkommens zwischen Washington und Teheran bleibt die Lage brisant.\n\nDie US-Reaktion unterstreicht, dass Washington militärische Optionen nicht ausschließt, selbst wenn diplomatische Kanäle parallel offengehalten werden. Analysten warnen vor einem Flächenbrand, der Energiemärkte und Welthandel destabilisieren könnte.",
-          "tag": "Nahost-Konflikt",
+          "titel": "USA greifen Iran an – neuer Eskalationsschub im Nahen Osten",
+          "zusammenfassung": "Amerikanische Streitkräfte haben iranische Ziele nach einem Angriff auf ein Frachtschiff attackiert. Teheran warf Washington daraufhin einen Vertragsbruch vor und kündigte Vergeltungsmaßnahmen an.",
+          "bedeutung": "Der Schlagabtausch gefährdet das gerade erst geschlossene vorläufige Friedensabkommen und droht, den gesamten Nahen Osten erneut in eine militärische Spirale zu ziehen.",
+          "hintergrund": "Erst eine Woche zuvor hatten die USA und Iran eine Übergangsvereinbarung unterzeichnet, die Hoffnungen auf eine Deeskalation geweckt hatte. Der Beschuss eines Frachters nahe der omanischen Küste – den US-Stellen dem Iran zuschreiben – brachte das fragile Konstrukt bereits ins Wanken.\n\nWashington sieht die Schläge als legitime Schutzmaßnahme, Teheran hingegen als eklatanten Bruch der Abmachung. Beide Seiten stehen nun unter Druck, während Partner und Verbündete zur Zurückhaltung mahnen.",
+          "tag": "Naher Osten",
           "emoji": "⚔️",
           "quelle": "BBC",
           "quelle_url": "https://www.bbc.co.uk/news/articles/ckg590wqxwpo?at_medium=RSS&at_campaign=rss"
         },
         {
           "id": "politik-2",
-          "titel": "Hitzerekord: Deutschland meldet 41,3 Grad in Saarbrücken",
-          "zusammenfassung": "Deutschland verzeichnete mit vorläufig 41,3 Grad Celsius in Saarbrücken die höchste je gemessene Temperatur seiner Geschichte. Die europaweite Hitzewelle fordert Todesopfer und zwingt Veranstalter zur Absage öffentlicher Ereignisse.",
-          "bedeutung": "Neue Temperaturrekorde in Mitteleuropa belegen den fortschreitenden Klimawandel und stellen Gesundheitssysteme sowie kritische Infrastruktur vor akute Belastungsproben.",
-          "hintergrund": "Die aktuelle Hitzewelle erfasst weite Teile Europas und trifft Länder, deren Bevölkerung und Infrastruktur traditionell wenig auf extreme Hitze ausgerichtet sind. Krankenhäuser berichten von steigenden Einweisungszahlen, besonders bei älteren Menschen.\n\nKlimaexperten ordnen die Häufung solcher Extremereignisse in den Kontext der globalen Erwärmung ein. Regierungen stehen unter Druck, Hitzeaktionspläne zu verschärfen und langfristig in klimaresistente Stadtplanung zu investieren.",
+          "titel": "Rekordhitze trifft Europa: 150 Millionen betroffen",
+          "zusammenfassung": "Deutschland, Dänemark und Tschechien verzeichnen neue Temperaturrekorde inmitten einer ausgedehnten Hitzewelle. Rund 150 Millionen Europäer sind derzeit Temperaturen von über 35 Grad Celsius ausgesetzt.",
+          "bedeutung": "Die Extremhitze verdeutlicht erneut die wachsende Bedrohung durch den Klimawandel und belastet Gesundheitssysteme sowie Infrastruktur in ganz Europa.",
+          "hintergrund": "Meteorologen stufen die aktuelle Hitzewelle als eine der intensivsten seit Beginn der Aufzeichnungen ein. Besonders gefährdet sind ältere Menschen, Kleinkinder und Menschen mit Vorerkrankungen, weshalb mehrere Länder Hitzeschutzpläne aktiviert haben.\n\nEnergienetz-Betreiber warnen vor Überlastungen durch den sprunghaft gestiegenen Kühlbedarf. Klimaforscher sehen in der Häufung solcher Extremereignisse ein klares Signal, das politischen Handlungsdruck auf die europäischen Regierungen erhöht.",
           "tag": "Klimakrise",
           "emoji": "🌡️",
           "quelle": "BBC",
-          "quelle_url": "https://www.bbc.co.uk/news/articles/cx2knzzwprgo?at_medium=RSS&at_campaign=rss"
+          "quelle_url": "https://www.bbc.co.uk/news/articles/cx2vdydz31no?at_medium=RSS&at_campaign=rss"
         }
       ]
     },
@@ -49,36 +49,36 @@
       "stories": [
         {
           "id": "wirtschaft-0",
-          "titel": "Trump droht Europa mit 100-Prozent-Zoll auf Tech-Steuer",
-          "zusammenfassung": "US-Präsident Trump kündigte drastische Strafzölle von 100 Prozent gegen europäische Staaten an, die eine Digitalsteuer auf US-Technologiekonzerne einführen wollen. Die Drohung verschärft die Handelsspannungen zwischen den USA und der EU erheblich.",
-          "bedeutung": "Ein transatlantischer Handelskrieg rund um die Besteuerung von Tech-Giganten könnte globale Lieferketten, Investitionsströme und das Verhältnis der wichtigsten Wirtschaftsblöcke dauerhaft beschädigen.",
-          "hintergrund": "Mehrere europäische Länder planen oder diskutieren Digitalabgaben, die vor allem US-Unternehmen wie Google, Apple, Meta und Amazon treffen würden. Washington betrachtet solche Steuern seit Jahren als diskriminierend gegenüber amerikanischen Firmen.\n\nTrumps Ankündigung folgt einem Muster, das er bereits in früheren Handelsstreitigkeiten angewandt hat: maximaler öffentlicher Druck, um Verhandlungen zu erzwingen. Die EU-Kommission hat bislang betont, an ihren Digitalplänen festhalten zu wollen.",
-          "tag": "Handelsstreit",
-          "emoji": "💻",
+          "titel": "Trump droht Europa mit 100-Prozent-Zoll wegen Digitalsteuer",
+          "zusammenfassung": "US-Präsident Trump hat mehreren europäischen Staaten mit einem Strafzoll von 100 Prozent gedroht, sollten sie eine Digitalsteuer auf amerikanische Technologiekonzerne einführen. Der Vorstoß schürt neue transatlantische Handelsspannungen.",
+          "bedeutung": "Ein solcher Zoll würde den ohnehin angespannten Wirtschaftsbeziehungen zwischen den USA und der EU einen schweren Schlag versetzen und globale Lieferketten erneut unter Druck setzen.",
+          "hintergrund": "Die Digitalsteuer-Debatte schwelt seit Jahren: Europäische Regierungen wollen Technologieriesen wie Google, Amazon und Meta stärker an nationalen Steuereinnahmen beteiligen. Washington sieht darin eine gezielte Diskriminierung amerikanischer Unternehmen.\n\nTrumps Drohung kommt zu einem Zeitpunkt, an dem die EU-Kommission noch nach einer gemeinsamen Position sucht. Ökonomen warnen, dass eine Eskalation zum Zollkrieg das globale Wachstum empfindlich dämpfen könnte.",
+          "tag": "Handelspolitik",
+          "emoji": "🔖",
           "quelle": "BBC",
           "quelle_url": "https://www.bbc.co.uk/news/articles/cn4rd71411ko?at_medium=RSS&at_campaign=rss"
         },
         {
           "id": "wirtschaft-1",
-          "titel": "Apple erhöht Preise um 20 Prozent, Xbox zieht nach",
-          "zusammenfassung": "Apple hat die Preise für mehrere Produkte um bis zu 20 Prozent angehoben und verweist auf noch nie dagewesene Steigerungen bei Komponentenkosten. Der Gaming-Konzern Microsoft erhöhte parallel die Preise seiner Xbox-Konsolen.",
-          "bedeutung": "Preiserhöhungen bei Technologiegütern durch führende Konzerne signalisieren eine neue Welle inflationären Drucks auf Verbraucher und könnten Kaufzurückhaltung in der gesamten Elektronikindustrie auslösen.",
-          "hintergrund": "Die Kostenexplosion bei Halbleitern und anderen elektronischen Bauteilen ist teils auf geopolitische Spannungen, Zölle und Lieferkettenprobleme zurückzuführen. Apple-Vertreter sprachen intern von einer beispiellosen Geschwindigkeit des Preisanstiegs bei Komponenten.\n\nAnalysten beobachten, ob andere Hersteller dem Trend folgen werden. Für Verbraucher bedeutet dies, dass Smartphones, Computer und Spielkonsolen mittelfristig teurer bleiben dürften – ein zusätzlicher Belastungsfaktor in einem ohnehin angespannten Inflationsumfeld.",
-          "tag": "Tech-Inflation",
-          "emoji": "📱",
-          "quelle": "BBC",
-          "quelle_url": "https://www.bbc.co.uk/news/articles/c3ryj81ywlro?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "id": "wirtschaft-2",
-          "titel": "Ölpreise fallen – was bedeutet das für Benzinkosten?",
-          "zusammenfassung": "Seit dem Ausbruch des Iran-Konflikts Ende Februar stiegen die Treibstoffpreise deutlich, doch der Ölpreis hat inzwischen wieder das Niveau vor Kriegsbeginn erreicht. Verbraucher und Analysten fragen, wann und ob sich das an der Zapfsäule bemerkbar macht.",
-          "bedeutung": "Energiepreise beeinflussen direkt die Kaufkraft von Millionen Haushalten und die Produktionskosten der gesamten Weltwirtschaft, weshalb ihre Entwicklung globale Bedeutung besitzt.",
-          "hintergrund": "Der kurze, aber heftige Preisanstieg nach Ausbruch der Kampfhandlungen im Persischen Golf zeigte, wie empfindlich Energiemärkte auf geopolitische Erschütterungen reagieren. Raffineriemargen, Steuern und Vertriebskosten sorgen jedoch dafür, dass sinkende Rohölpreise nur verzögert beim Endkunden ankommen.\n\nExperten warnen zudem, dass die Situation im Persischen Golf weiterhin fragil ist. Neue Zwischenfälle an der Straße von Hormus könnten Erholungsgewinne schnell zunichtemachen und die Preise erneut nach oben treiben.",
+          "titel": "Benzinpreise nach Nahost-Konflikt: Wohin geht die Kurve?",
+          "zusammenfassung": "Seit Beginn des Konflikts im Nahen Osten am 28. Februar waren die Energiepreise stark gestiegen, doch das Öl hat inzwischen wieder das Vorkriegsniveau erreicht. Verbraucher fragen sich, ob und wann sich die Entlastung auch an der Zapfsäule bemerkbar macht.",
+          "bedeutung": "Die Entwicklung der Treibstoffpreise ist ein direkter Indikator für die wirtschaftliche Erholung nach der Nahostkrise und spiegelt die Glaubwürdigkeit des US-Iran-Abkommens wider.",
+          "hintergrund": "Die Unterbrechung von Produktion und Transport im Mittleren Osten trieb die Rohölpreise zeitweise auf Mehrjahreshöchststände. Mit der Entspannung sind die Futures spürbar zurückgegangen, doch Raffinerie-Margen und Steuern dämpfen die Weitergabe an Endkunden.\n\nExperten mahnen zur Vorsicht: Angesichts der neuerlichen militärischen Zwischenfälle zwischen den USA und Iran könnten die Preise schnell wieder anziehen, sollte sich die Lage in der Straße von Hormus erneut verschlechtern.",
           "tag": "Energiepreise",
           "emoji": "⛽",
           "quelle": "BBC",
           "quelle_url": "https://www.bbc.co.uk/news/articles/c20zgjzz0e4o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "id": "wirtschaft-2",
+          "titel": "Hitzewelle befeuert Klimaanlagen-Boom in Europa",
+          "zusammenfassung": "Europäische Hersteller und Händler von Klimageräten melden einen massiven Anstieg der Nachfrage infolge der anhaltenden Rekordhitze. Unternehmen sprechen von einem historischen Auftragsschub.",
+          "bedeutung": "Der Trend zeigt, wie Klimaextreme konsumverhalten und Unternehmensstrategien dauerhaft verändern und welche wirtschaftlichen Gewinner der Klimawandel hervorbringt.",
+          "hintergrund": "In Ländern wie Deutschland, wo Klimaanlagen in Privathaushalten lange unüblich waren, schlägt die Nachfrage besonders stark durch. Lieferketten geraten unter Druck, da Komponentenhersteller in Asien mit den Bestellungen kaum Schritt halten können.\n\nÖkonomen sehen darin einen strukturellen Wandel: Wer bislang ohne Kühlung auskam, investiert nun dauerhaft. Das befeuert zwar kurzfristig das Wirtschaftswachstum, erhöht aber langfristig den Energieverbrauch und die CO₂-Emissionen – ein Widerspruch, den die Klimapolitik adressieren muss.",
+          "tag": "Hitzewirtschaft",
+          "emoji": "❄️",
+          "quelle": "BBC",
+          "quelle_url": "https://www.bbc.co.uk/news/articles/c1wyl2glg93o?at_medium=RSS&at_campaign=rss"
         }
       ]
     },
@@ -89,36 +89,36 @@
       "stories": [
         {
           "id": "boerse-0",
-          "titel": "US-Notenbanker Kashkari erwartet Zinserhöhung noch 2026",
-          "zusammenfassung": "Der Präsident der Minneapolis Fed, Neel Kashkari, signalisierte, dass er in diesem Jahr mit einer Anhebung des Leitzinses rechnet. Hintergrund ist die anhaltend hohe Inflation, die die US-Wirtschaft weiter belastet.",
-          "bedeutung": "Eine überraschende Zinserhöhung der Fed würde globale Anleihe- und Aktienmärkte unmittelbar unter Druck setzen und Kapitalflüsse weltweit umlenken.",
-          "hintergrund": "Kashkaris Äußerungen stehen im Widerspruch zur verbreiteten Markterwartung, dass die Fed die Zinsen in der zweiten Jahreshälfte 2026 stabil halten oder sogar senken könnte. Seine Aussagen sorgten umgehend für Bewegung an den Terminmärkten.\n\nDie Kerninflation liegt laut jüngsten PCE-Daten weiterhin deutlich über dem Fed-Ziel von zwei Prozent. Die Diskussion innerhalb der Notenbank spiegelt eine tiefe Unsicherheit darüber wider, wie stark Zölle und Energiepreise die Preisstabilität langfristig gefährden.",
+          "titel": "Fed-Notenbanker Kashkari signalisiert Zinserhöhung 2026",
+          "zusammenfassung": "Neel Kashkari, Präsident der Minneapolis Federal Reserve, erwartet noch in diesem Jahr eine Erhöhung des US-Leitzinses. Anhaltend hohe Inflation infolge der Zölle und geopolitischer Verwerfungen treibe die Entscheidung.",
+          "bedeutung": "Eine Zinserhöhung würde Anleihen, Aktien und den Dollar weltweit neu bewerten und hätte weitreichende Konsequenzen für globale Kapitalflüsse.",
+          "hintergrund": "Die Fed hatte zuletzt eine abwartende Haltung eingenommen, während die Inflation durch Importzölle und Energiepreisschocks wieder anzog. Kashkaris Aussage ist das bisher deutlichste Signal aus dem Offenmarktausschuss, dass eine Straffung näher rückt.\n\nMärkte reagierten nervös: Staatsanleiherenditen zogen an, und Technologieaktien gaben nach. Investoren kalkulieren nun neu, welche Sektoren bei höheren Zinsen standhalten können.",
           "tag": "Geldpolitik",
-          "emoji": "🏦",
+          "emoji": "📈",
           "quelle": "CNBC",
           "quelle_url": "https://www.cnbc.com/2026/06/26/minneapolis-fed-president-neel-kashkari-says-he-expects-a-rate-hike-this-year.html"
         },
         {
           "id": "boerse-1",
-          "titel": "US-Kerninflation auf höchstem Stand seit Oktober 2023",
-          "zusammenfassung": "Der von der US-Notenbank bevorzugte Inflationsindikator, der PCE-Preisindex, wies im Mai eine Kernrate von 3,4 Prozent aus – der höchste Wert seit über zwei Jahren. Die Daten übertrafen die Erwartungen der Analysten deutlich.",
-          "bedeutung": "Hartnäckig hohe Kerninflation begrenzt den Spielraum der Fed für Zinssenkungen und schürt Sorgen vor einer anhaltenden Stagflation in der weltgrößten Volkswirtschaft.",
-          "hintergrund": "Ökonomen hatten für Mai mit einem Anstieg von 4,1 Prozent beim Gesamt-PCE gerechnet; die Kerninflation, die volatile Energie- und Lebensmittelpreise ausklammert, blieb mit 3,4 Prozent zwar darunter, übertraf aber frühere Schätzungen.\n\nDie Daten nähren Debatten darüber, ob die Inflationswelle durch Zölle und Lieferkettenprobleme struktureller Natur ist oder vorübergehend bleibt. Für Finanzmärkte bedeutet jedes weitere inflationäre Signal eine neue Belastungsprobe.",
-          "tag": "Inflation",
-          "emoji": "📊",
+          "titel": "SpaceX soll in den Nasdaq-100 aufgenommen werden",
+          "zusammenfassung": "SpaceX steht kurz vor der Aufnahme in den Nasdaq-100-Index, nachdem die Nasdaq ein beschleunigtes Verfahren zur Indexinklusion eingeführt hat. Die Entscheidung dürfte massive ETF-Käufe auslösen.",
+          "bedeutung": "Die Aufnahme des weltgrößten privaten Raumfahrtunternehmens in einen der meistbeobachteten Börsenindizes wäre ein historischer Schritt, der Milliarden an passivem Kapital in das Unternehmen lenken würde.",
+          "hintergrund": "Nasdaq hat kürzlich einen neuen Fast-Track-Mechanismus verabschiedet, der die Aufnahme prominenter Unternehmen auch außerhalb der regulären Überprüfungszyklen ermöglicht. SpaceX wäre einer der ersten Nutznießer dieses Verfahrens.\n\nPassive Indexfonds und ETFs, die den Nasdaq-100 abbilden, müssen die Aktie automatisch kaufen – Analysten schätzen den daraus resultierenden Kaufbedarf auf mehrere Milliarden Dollar. Für Elon Musk wäre es ein weiterer strategischer Coup, sein Unternehmen tiefer in die institutionelle Kapitalmarktstruktur zu verankern.",
+          "tag": "Indexaufnahme",
+          "emoji": "🚀",
           "quelle": "CNBC",
-          "quelle_url": "https://www.cnbc.com/2026/06/25/pce-inflation-report-may-2026-.html"
+          "quelle_url": "https://www.cnbc.com/2026/06/26/spacex-added-to-nasdaq-100.html"
         },
         {
           "id": "boerse-2",
-          "titel": "SpaceX soll in den Nasdaq-100 aufgenommen werden",
-          "zusammenfassung": "Elon Musks Raumfahrtkonzern SpaceX steht vor der Aufnahme in den Nasdaq-100-Index und wäre damit eines der ersten Unternehmen, das vom neu eingeführten Schnellaufnahmeverfahren der Börse profitiert. Der Schritt würde Milliarden an passiven Investitionen in das Unternehmen lenken.",
-          "bedeutung": "Die Indexaufnahme von SpaceX markiert einen Wendepunkt für den Zugang privater Hochtechnologieunternehmen zu öffentlichen Kapitalmärkten und könnte weitere Unicorns ermutigen, ähnliche Wege zu gehen.",
-          "hintergrund": "Der Nasdaq hat kürzlich ein beschleunigtes Aufnahmeverfahren eingeführt, das Unternehmen unter bestimmten Voraussetzungen schneller in Leitindizes aufnehmen kann. SpaceX gilt als Testfall für dieses neue Modell.\n\nFür Indexfonds und ETFs, die den Nasdaq-100 abbilden, entstünde unmittelbarer Kaufdruck auf SpaceX-Anteile. Zugleich rückt die Frage eines möglichen Börsengangs des Unternehmens wieder in den Fokus, nachdem Berichte über eine Verzögerung des IPO kursierten.",
-          "tag": "Kapitalmarkt",
-          "emoji": "🚀",
+          "titel": "Schifffahrt durch Straße von Hormus erholt sich langsam",
+          "zusammenfassung": "Der Schiffsverkehr durch die strategisch bedeutsame Straße von Hormus nimmt nach dem US-Iran-Abkommen wieder zu, doch der jüngste Angriff auf ein Frachtschiff hat das Vertrauen erschüttert. Eine UN-Agentur pausierte ihr Evakuierungsprogramm für Handelsschiffe.",
+          "bedeutung": "Die Meerenge ist eine der wichtigsten Energiearterien der Welt – jede Störung beeinflusst direkt die globalen Öl- und Gaspreise sowie die Stabilität der internationalen Lieferketten.",
+          "hintergrund": "Seit dem Inkrafttreten des vorläufigen Friedensabkommens zwischen Washington und Teheran vor einer Woche waren die Reedereien vorsichtig optimistisch zurückgekehrt. Der Beschuss eines Containerschiffs nahe Oman – den US-Stellen dem Iran anlasten – hat diese Erholung jäh gebremst.\n\nVersicherungsprämien für die Durchfahrt bleiben auf erhöhtem Niveau, und mehrere Großreedereien prüfen weiterhin Alternativrouten um das Kap der Guten Hoffnung. Solange keine dauerhafte Sicherheitsgarantie besteht, bleibt die maritime Normalität fragil.",
+          "tag": "Rohstoffhandel",
+          "emoji": "🛢️",
           "quelle": "CNBC",
-          "quelle_url": "https://www.cnbc.com/2026/06/26/spacex-added-to-nasdaq-100-on-hold-on-hold-on-hold.html"
+          "quelle_url": "https://www.cnbc.com/2026/06/26/strait-of-hormuz-shipping-oil-us-iran.html"
         }
       ]
     }
