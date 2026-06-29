@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-28T00:18:59.908600+00:00",
-  "datum": "Sonntag, 28. Juni 2026",
+  "generated_at": "2026-06-29T01:35:16.286320+00:00",
+  "datum": "Montag, 29. Juni 2026",
   "ressorts": [
     {
       "id": "politik",
@@ -9,36 +9,36 @@
       "stories": [
         {
           "id": "politik-0",
-          "titel": "Erdbeben in Venezuela: Mindestens 920 Tote",
-          "zusammenfassung": "Schwere Erdbeben haben in Venezuela mindestens 920 Menschen das Leben gekostet. Internationale Rettungsteams sind eingetroffen, während Hunderte noch unter den Trümmern vermutet werden.",
-          "bedeutung": "Die Katastrophe stellt Venezuela – das bereits unter wirtschaftlicher und politischer Instabilität leidet – vor eine humanitäre Ausnahmesituation von internationalem Ausmaß.",
-          "hintergrund": "Die Erdbebenserie traf mehrere Regionen des Landes und hinterließ weitflächige Zerstörung. Angehörige halten verzweifelt Ausschau nach Überlebenden, während schwere Trümmer den Einsatz der Retter erheblich erschweren.\n\nInternationale Hilfsorganisationen koordinieren sich mit lokalen Behörden, doch die ohnehin marode Infrastruktur des Landes bremst die Reaktion. Die Zahl der Todesopfer dürfte nach Einschätzung von Experten weiter steigen.",
-          "tag": "Naturkatastrophe",
-          "emoji": "🆘",
+          "titel": "USA und Iran beschießen sich trotz Waffenstillstand gegenseitig",
+          "zusammenfassung": "Die USA meldeten Angriffe auf mehrere Ziele im Iran, woraufhin Teheran Gegenschläge auf amerikanische Infrastruktur in Kuwait und Bahrain ankündigte. Beide Seiten beschuldigen die jeweils andere Seite, den bestehenden Waffenstillstand gebrochen zu haben.",
+          "bedeutung": "Eine erneute militärische Eskalation zwischen Washington und Teheran bedroht die regionale Stabilität im Nahen Osten und könnte globale Energiemärkte sowie westliche Militärbasen in der Golfregion gefährden.",
+          "hintergrund": "Der jüngste Schlagabtausch stellt eine gefährliche Zuspitzung in einem Konflikt dar, der zuletzt durch eine fragile Waffenruhe eingedämmt schien. Die gegenseitigen Schuldzuweisungen machen eine diplomatische Deeskalation erheblich schwieriger.\n\nMehrere Verbündete der USA in der Region, darunter Kuwait und Bahrain, sind nun direkt in den Konflikt hineingezogen worden, was die geopolitische Lage am Golf auf eine neue Eskalationsstufe hebt. Internationale Vermittler dringen auf sofortige Gespräche.",
+          "tag": "Naher Osten",
+          "emoji": "💥",
           "quelle": "BBC",
-          "quelle_url": "https://www.bbc.co.uk/news/articles/c39y79g7gzko?at_medium=RSS&at_campaign=rss"
+          "quelle_url": "https://www.bbc.co.uk/news/articles/cdxdwkgqgq0o?at_medium=RSS&at_campaign=rss"
         },
         {
           "id": "politik-1",
-          "titel": "USA greifen Iran an – neuer Eskalationsschub im Nahen Osten",
-          "zusammenfassung": "Amerikanische Streitkräfte haben iranische Ziele nach einem Angriff auf ein Frachtschiff attackiert. Teheran warf Washington daraufhin einen Vertragsbruch vor und kündigte Vergeltungsmaßnahmen an.",
-          "bedeutung": "Der Schlagabtausch gefährdet das gerade erst geschlossene vorläufige Friedensabkommen und droht, den gesamten Nahen Osten erneut in eine militärische Spirale zu ziehen.",
-          "hintergrund": "Erst eine Woche zuvor hatten die USA und Iran eine Übergangsvereinbarung unterzeichnet, die Hoffnungen auf eine Deeskalation geweckt hatte. Der Beschuss eines Frachters nahe der omanischen Küste – den US-Stellen dem Iran zuschreiben – brachte das fragile Konstrukt bereits ins Wanken.\n\nWashington sieht die Schläge als legitime Schutzmaßnahme, Teheran hingegen als eklatanten Bruch der Abmachung. Beide Seiten stehen nun unter Druck, während Partner und Verbündete zur Zurückhaltung mahnen.",
-          "tag": "Naher Osten",
-          "emoji": "⚔️",
-          "quelle": "BBC",
-          "quelle_url": "https://www.bbc.co.uk/news/articles/ckg590wqxwpo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "id": "politik-2",
-          "titel": "Rekordhitze trifft Europa: 150 Millionen betroffen",
-          "zusammenfassung": "Deutschland, Dänemark und Tschechien verzeichnen neue Temperaturrekorde inmitten einer ausgedehnten Hitzewelle. Rund 150 Millionen Europäer sind derzeit Temperaturen von über 35 Grad Celsius ausgesetzt.",
-          "bedeutung": "Die Extremhitze verdeutlicht erneut die wachsende Bedrohung durch den Klimawandel und belastet Gesundheitssysteme sowie Infrastruktur in ganz Europa.",
-          "hintergrund": "Meteorologen stufen die aktuelle Hitzewelle als eine der intensivsten seit Beginn der Aufzeichnungen ein. Besonders gefährdet sind ältere Menschen, Kleinkinder und Menschen mit Vorerkrankungen, weshalb mehrere Länder Hitzeschutzpläne aktiviert haben.\n\nEnergienetz-Betreiber warnen vor Überlastungen durch den sprunghaft gestiegenen Kühlbedarf. Klimaforscher sehen in der Häufung solcher Extremereignisse ein klares Signal, das politischen Handlungsdruck auf die europäischen Regierungen erhöht.",
+          "titel": "Europas Hitzewelle fordert über 1.300 Todesopfer",
+          "zusammenfassung": "Die Weltgesundheitsorganisation hat die aktuelle Hitzewelle in Europa mit mindestens 1.300 Todesfällen in Verbindung gebracht. Deutschland verzeichnete dabei einen neuen Temperaturrekord von 41,7 Grad Celsius.",
+          "bedeutung": "Die dramatische Opferzahl belegt, dass Europa strukturell unzureichend auf extreme Hitzeereignisse vorbereitet ist, was den Handlungsdruck auf Politik und Gesundheitssysteme massiv erhöht.",
+          "hintergrund": "WHO-Generaldirektor Tedros Adhanom Ghebreyesus mahnte eindringlich, Europa müsse seine Resilienz gegenüber Extremtemperaturen grundlegend verbessern. Besonders ältere und sozial benachteiligte Bevölkerungsgruppen sind überproportional betroffen.\n\nDer neue deutsche Temperaturrekord steht symptomatisch für einen kontinentweiten Trend: Hitzewellen werden häufiger, intensiver und langanhaltender. Experten fordern dringend Investitionen in hitzeresistente Stadtplanung, erweiterte Frühwarnsysteme und bessere medizinische Notfallversorgung.",
           "tag": "Klimakrise",
           "emoji": "🌡️",
           "quelle": "BBC",
-          "quelle_url": "https://www.bbc.co.uk/news/articles/cx2vdydz31no?at_medium=RSS&at_campaign=rss"
+          "quelle_url": "https://www.bbc.co.uk/news/articles/cn4d2vv935lo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "id": "politik-2",
+          "titel": "Venezuela: Hoffnung auf Überlebende nach Erdbeben schwindet",
+          "zusammenfassung": "Über das Wochenende wurden 33 Menschen aus den Trümmern des venezolanischen Erdbebens gerettet, darunter zwei Kinder. Angesichts zehntausender Vermisster läuft das entscheidende Zeitfenster für die Rettung weiterer Überlebender ab.",
+          "bedeutung": "Das Erdbeben stellt Venezuela vor eine humanitäre Katastrophe, die ein bereits von politischer und wirtschaftlicher Krise zerrüttetes Land an den Rand seiner Kapazitäten treibt.",
+          "hintergrund": "Die Rettungsteams arbeiten unter extremem Zeitdruck, da die Überlebenschancen Verschütteter mit jeder Stunde drastisch sinken. Angehörige harren vor den Trümmern aus, während Wut und Verzweiflung in der Bevölkerung zunehmen.\n\nVenezuela leidet seit Jahren unter einer schweren wirtschaftlichen und politischen Krise, die Infrastruktur und Katastrophenschutz nachhaltig geschwächt hat. Internationale Hilfsorganisationen bemühen sich um Zugang, stoßen dabei jedoch auf logistische und bürokratische Hürden.",
+          "tag": "Naturkatastrophe",
+          "emoji": "🆘",
+          "quelle": "BBC",
+          "quelle_url": "https://www.bbc.co.uk/news/articles/cr47dvywvy5o?at_medium=RSS&at_campaign=rss"
         }
       ]
     },
@@ -49,36 +49,36 @@
       "stories": [
         {
           "id": "wirtschaft-0",
-          "titel": "Trump droht Europa mit 100-Prozent-Zoll wegen Digitalsteuer",
-          "zusammenfassung": "US-Präsident Trump hat mehreren europäischen Staaten mit einem Strafzoll von 100 Prozent gedroht, sollten sie eine Digitalsteuer auf amerikanische Technologiekonzerne einführen. Der Vorstoß schürt neue transatlantische Handelsspannungen.",
-          "bedeutung": "Ein solcher Zoll würde den ohnehin angespannten Wirtschaftsbeziehungen zwischen den USA und der EU einen schweren Schlag versetzen und globale Lieferketten erneut unter Druck setzen.",
-          "hintergrund": "Die Digitalsteuer-Debatte schwelt seit Jahren: Europäische Regierungen wollen Technologieriesen wie Google, Amazon und Meta stärker an nationalen Steuereinnahmen beteiligen. Washington sieht darin eine gezielte Diskriminierung amerikanischer Unternehmen.\n\nTrumps Drohung kommt zu einem Zeitpunkt, an dem die EU-Kommission noch nach einer gemeinsamen Position sucht. Ökonomen warnen, dass eine Eskalation zum Zollkrieg das globale Wachstum empfindlich dämpfen könnte.",
-          "tag": "Handelspolitik",
-          "emoji": "🔖",
+          "titel": "Trump droht Europa mit 100-Prozent-Zoll bei Digitalsteuer",
+          "zusammenfassung": "US-Präsident Donald Trump hat mehreren europäischen Ländern mit sofortigen Strafzöllen von 100 Prozent gedroht, sollten diese eine Steuer auf digitale Dienstleistungen amerikanischer Unternehmen einführen. Die angedrohten Maßnahmen würden bestehende Handelsabkommen außer Kraft setzen.",
+          "bedeutung": "Die Drohung verschärft den transatlantischen Handelsstreit erheblich und könnte weitreichende Folgen für den Welthandel sowie für US-Tech-Konzerne und europäische Exporteure haben.",
+          "hintergrund": "Hintergrund ist der seit Jahren schwelende Konflikt über die steuerliche Behandlung globaler Digitalkonzerne wie Google, Apple oder Meta, die in Europa hohe Umsätze erzielen, dort aber vergleichsweise wenig Steuern zahlen. Mehrere EU-Länder hatten nationale Digitalsteuern eingeführt oder deren Einführung angekündigt.\n\nTrumps Ankündigung via Truth Social setzt die europäischen Regierungen unter erheblichen Druck und dürfte die laufenden Handelsgespräche zwischen Washington und Brüssel deutlich belasten. Ökonomen warnen vor einer neuen Runde gegenseitiger Strafzölle, die globale Lieferketten destabilisieren könnten.",
+          "tag": "Handelskrieg",
+          "emoji": "🔟0",
           "quelle": "BBC",
           "quelle_url": "https://www.bbc.co.uk/news/articles/cn4rd71411ko?at_medium=RSS&at_campaign=rss"
         },
         {
           "id": "wirtschaft-1",
-          "titel": "Benzinpreise nach Nahost-Konflikt: Wohin geht die Kurve?",
-          "zusammenfassung": "Seit Beginn des Konflikts im Nahen Osten am 28. Februar waren die Energiepreise stark gestiegen, doch das Öl hat inzwischen wieder das Vorkriegsniveau erreicht. Verbraucher fragen sich, ob und wann sich die Entlastung auch an der Zapfsäule bemerkbar macht.",
-          "bedeutung": "Die Entwicklung der Treibstoffpreise ist ein direkter Indikator für die wirtschaftliche Erholung nach der Nahostkrise und spiegelt die Glaubwürdigkeit des US-Iran-Abkommens wider.",
-          "hintergrund": "Die Unterbrechung von Produktion und Transport im Mittleren Osten trieb die Rohölpreise zeitweise auf Mehrjahreshöchststände. Mit der Entspannung sind die Futures spürbar zurückgegangen, doch Raffinerie-Margen und Steuern dämpfen die Weitergabe an Endkunden.\n\nExperten mahnen zur Vorsicht: Angesichts der neuerlichen militärischen Zwischenfälle zwischen den USA und Iran könnten die Preise schnell wieder anziehen, sollte sich die Lage in der Straße von Hormus erneut verschlechtern.",
-          "tag": "Energiepreise",
-          "emoji": "⛽",
-          "quelle": "BBC",
-          "quelle_url": "https://www.bbc.co.uk/news/articles/c20zgjzz0e4o?at_medium=RSS&at_campaign=rss"
+          "titel": "StubHub-Chaos überschattet FIFA-WM-Ticketverkauf",
+          "zusammenfassung": "Zahlreiche Fußballfans, die WM-Tickets über den Wiederverkaufsplattform StubHub erworben hatten, wurden kurz vor den Spielen über die Stornierung ihrer Buchungen informiert. Der Fall offenbart gravierende Schwächen im Verbraucherschutz auf dem US-amerikanischen Ticketmarkt.",
+          "bedeutung": "Das Massenversagen eines der weltgrößten Tickethändler während eines globalen Sportgroßereignisses zeigt den dringenden Regulierungsbedarf im digitalen Wiederverkaufsmarkt.",
+          "hintergrund": "Betroffene Fans erhielten teils nur Stunden vor Spielbeginn Stornierungsmitteilungen, ohne dass klare Entschädigungsregelungen griffen. Verbraucherschützer kritisieren, dass US-amerikanische Plattformen bei internationalen Großveranstaltungen kaum rechenschaftspflichtig sind.\n\nDer Vorfall steht stellvertretend für ein strukturelles Problem: Der globale Markt für Ticketwiederverkäufe wächst rasant, während gesetzliche Schutzstandards für Käufer weit hinter der Marktentwicklung zurückbleiben.",
+          "tag": "Verbraucherschutz",
+          "emoji": "🎟️",
+          "quelle": "The Guardian",
+          "quelle_url": "https://www.theguardian.com/us-news/2026/jun/27/stubhub-world-cup-resale-ticket"
         },
         {
           "id": "wirtschaft-2",
-          "titel": "Hitzewelle befeuert Klimaanlagen-Boom in Europa",
-          "zusammenfassung": "Europäische Hersteller und Händler von Klimageräten melden einen massiven Anstieg der Nachfrage infolge der anhaltenden Rekordhitze. Unternehmen sprechen von einem historischen Auftragsschub.",
-          "bedeutung": "Der Trend zeigt, wie Klimaextreme konsumverhalten und Unternehmensstrategien dauerhaft verändern und welche wirtschaftlichen Gewinner der Klimawandel hervorbringt.",
-          "hintergrund": "In Ländern wie Deutschland, wo Klimaanlagen in Privathaushalten lange unüblich waren, schlägt die Nachfrage besonders stark durch. Lieferketten geraten unter Druck, da Komponentenhersteller in Asien mit den Bestellungen kaum Schritt halten können.\n\nÖkonomen sehen darin einen strukturellen Wandel: Wer bislang ohne Kühlung auskam, investiert nun dauerhaft. Das befeuert zwar kurzfristig das Wirtschaftswachstum, erhöht aber langfristig den Energieverbrauch und die CO₂-Emissionen – ein Widerspruch, den die Klimapolitik adressieren muss.",
-          "tag": "Hitzewirtschaft",
-          "emoji": "❄️",
-          "quelle": "BBC",
-          "quelle_url": "https://www.bbc.co.uk/news/articles/c1wyl2glg93o?at_medium=RSS&at_campaign=rss"
+          "titel": "Millionärssteuer: Warum Schlupflöcher das Vorhaben aushöhlen",
+          "zusammenfassung": "Experten warnen, dass eine neue Vermögenssteuer auf Superreiche kaum nennenswerte Einnahmen generieren wird, solange bestehende Ausnahmen und Steuerlücken nicht konsequent geschlossen werden. Die Debatte gewinnt angesichts rasant wachsender Milliardärsvermögen an Schärfe.",
+          "bedeutung": "Die Frage einer effektiven Besteuerung extremer Reichtümer ist von globaler wirtschaftspolitischer Relevanz und bestimmt zunehmend die Haushaltsdiskussionen westlicher Demokratien.",
+          "hintergrund": "Während Regierungen in den USA und Europa unter dem Druck wachsender Ungleichheit über neue Abgaben auf große Vermögen diskutieren, zeigt die Erfahrung vergangener Reformen, dass ohne die Schließung bestehender Schlupflöcher die tatsächlichen Steuereinnahmen minimal bleiben.\n\nOligarchische Strukturen und globale Steuervermeidungsstrategien machen eine national begrenzte Reichensteuer besonders schwierig. Internationale Koordination, wie sie die OECD mit der globalen Mindeststeuer für Unternehmen vorangetrieben hat, gilt als mögliches Vorbild für künftige Maßnahmen.",
+          "tag": "Steuerpolitik",
+          "emoji": "💰",
+          "quelle": "The Guardian",
+          "quelle_url": "https://www.theguardian.com/us-news/2026/jun/28/wealth-tax-super-rich"
         }
       ]
     },
@@ -89,21 +89,21 @@
       "stories": [
         {
           "id": "boerse-0",
-          "titel": "Fed-Notenbanker Kashkari signalisiert Zinserhöhung 2026",
-          "zusammenfassung": "Neel Kashkari, Präsident der Minneapolis Federal Reserve, erwartet noch in diesem Jahr eine Erhöhung des US-Leitzinses. Anhaltend hohe Inflation infolge der Zölle und geopolitischer Verwerfungen treibe die Entscheidung.",
-          "bedeutung": "Eine Zinserhöhung würde Anleihen, Aktien und den Dollar weltweit neu bewerten und hätte weitreichende Konsequenzen für globale Kapitalflüsse.",
-          "hintergrund": "Die Fed hatte zuletzt eine abwartende Haltung eingenommen, während die Inflation durch Importzölle und Energiepreisschocks wieder anzog. Kashkaris Aussage ist das bisher deutlichste Signal aus dem Offenmarktausschuss, dass eine Straffung näher rückt.\n\nMärkte reagierten nervös: Staatsanleiherenditen zogen an, und Technologieaktien gaben nach. Investoren kalkulieren nun neu, welche Sektoren bei höheren Zinsen standhalten können.",
-          "tag": "Geldpolitik",
-          "emoji": "📈",
+          "titel": "Grantham warnt: US-Börse ist so teuer wie nie zuvor",
+          "zusammenfassung": "Starinvestor Jeremy Grantham bezeichnet den amerikanischen Aktienmarkt als den teuersten in der gesamten US-Geschichte. Ausschlaggebend seien die extrem aufgeblähten Bewertungen rund um das Thema Künstliche Intelligenz.",
+          "bedeutung": "Eine Warnung des für seine präzisen Blasen-Prognosen bekannten Investors verdient besondere Aufmerksamkeit und könnte das Anlegerverhalten auf breiter Ebene beeinflussen.",
+          "hintergrund": "Grantham, der bereits die Dotcom-Blase und die Finanzkrise 2008 frühzeitig vorhergesagt hatte, sieht in der aktuellen KI-Euphorie die Ursache für ein gefährliches Übermaß an Spekulation. Zahlreiche Tech-Titel weisen Kurs-Gewinn-Verhältnisse auf, die historische Hochs deutlich übertreffen.\n\nDie Mahnung fällt in eine Phase, in der globale Investoren zunehmend auf Anleihen außerhalb der USA ausweichen. Ob der Markt tatsächlich vor einer Korrektur steht oder die KI-Revolution die hohen Bewertungen rechtfertigt, bleibt unter Analysten hochumstritten.",
+          "tag": "Aktienblase",
+          "emoji": "📉",
           "quelle": "CNBC",
-          "quelle_url": "https://www.cnbc.com/2026/06/26/minneapolis-fed-president-neel-kashkari-says-he-expects-a-rate-hike-this-year.html"
+          "quelle_url": "https://www.cnbc.com/2026/06/26/jeremy-grantham-says-this-is-the-most-expensive-market-in-american-history.html"
         },
         {
           "id": "boerse-1",
           "titel": "SpaceX soll in den Nasdaq-100 aufgenommen werden",
-          "zusammenfassung": "SpaceX steht kurz vor der Aufnahme in den Nasdaq-100-Index, nachdem die Nasdaq ein beschleunigtes Verfahren zur Indexinklusion eingeführt hat. Die Entscheidung dürfte massive ETF-Käufe auslösen.",
-          "bedeutung": "Die Aufnahme des weltgrößten privaten Raumfahrtunternehmens in einen der meistbeobachteten Börsenindizes wäre ein historischer Schritt, der Milliarden an passivem Kapital in das Unternehmen lenken würde.",
-          "hintergrund": "Nasdaq hat kürzlich einen neuen Fast-Track-Mechanismus verabschiedet, der die Aufnahme prominenter Unternehmen auch außerhalb der regulären Überprüfungszyklen ermöglicht. SpaceX wäre einer der ersten Nutznießer dieses Verfahrens.\n\nPassive Indexfonds und ETFs, die den Nasdaq-100 abbilden, müssen die Aktie automatisch kaufen – Analysten schätzen den daraus resultierenden Kaufbedarf auf mehrere Milliarden Dollar. Für Elon Musk wäre es ein weiterer strategischer Coup, sein Unternehmen tiefer in die institutionelle Kapitalmarktstruktur zu verankern.",
+          "zusammenfassung": "Elon Musks Raumfahrtunternehmen SpaceX soll im Rahmen eines beschleunigten Verfahrens in den Nasdaq-100-Index aufgenommen werden. Die Aufnahme würde massive Kaufwellen bei ETFs auslösen, die den Index abbilden.",
+          "bedeutung": "Die Indexaufnahme von SpaceX wäre ein historischer Moment für den privaten Raumfahrtsektor und hätte durch automatische ETF-Käufe unmittelbare Auswirkungen auf Milliarden von Anlegerportfolios weltweit.",
+          "hintergrund": "Der Nasdaq hat ein neues Fast-Track-Verfahren eingeführt, das es ermöglicht, außergewöhnlich bedeutsame Unternehmen schneller in den Index zu integrieren. SpaceX wäre eines der ersten Unternehmen, das von dieser neuen Regelung profitiert.\n\nDie Aufnahme eines nicht börsennotierten Privatunternehmens in einen der bedeutendsten Aktienindizes der Welt wäre ein Novum und dürfte weitreichende Debatten über Indexzusammensetzung, Transparenz und den Einfluss von Elon Musk auf Finanzmärkte anstoßen.",
           "tag": "Indexaufnahme",
           "emoji": "🚀",
           "quelle": "CNBC",
@@ -111,14 +111,14 @@
         },
         {
           "id": "boerse-2",
-          "titel": "Schifffahrt durch Straße von Hormus erholt sich langsam",
-          "zusammenfassung": "Der Schiffsverkehr durch die strategisch bedeutsame Straße von Hormus nimmt nach dem US-Iran-Abkommen wieder zu, doch der jüngste Angriff auf ein Frachtschiff hat das Vertrauen erschüttert. Eine UN-Agentur pausierte ihr Evakuierungsprogramm für Handelsschiffe.",
-          "bedeutung": "Die Meerenge ist eine der wichtigsten Energiearterien der Welt – jede Störung beeinflusst direkt die globalen Öl- und Gaspreise sowie die Stabilität der internationalen Lieferketten.",
-          "hintergrund": "Seit dem Inkrafttreten des vorläufigen Friedensabkommens zwischen Washington und Teheran vor einer Woche waren die Reedereien vorsichtig optimistisch zurückgekehrt. Der Beschuss eines Containerschiffs nahe Oman – den US-Stellen dem Iran anlasten – hat diese Erholung jäh gebremst.\n\nVersicherungsprämien für die Durchfahrt bleiben auf erhöhtem Niveau, und mehrere Großreedereien prüfen weiterhin Alternativrouten um das Kap der Guten Hoffnung. Solange keine dauerhafte Sicherheitsgarantie besteht, bleibt die maritime Normalität fragil.",
-          "tag": "Rohstoffhandel",
-          "emoji": "🛢️",
+          "titel": "Investoren weichen bei Anleihen aus dem US-Markt aus",
+          "zusammenfassung": "Der Vermögensverwalter Allspring Global Investments empfiehlt seinen Kunden, verstärkt auf Staatsanleihen außerhalb der USA zu setzen. Attraktiv seien vor allem Länder, deren Zentralbanken die Zinsen anheben oder andere Inflationsdynamiken aufweisen.",
+          "bedeutung": "Eine strukturelle Umschichtung großer Investoren weg von US-Anleihen hätte weitreichende Folgen für den Dollar-Kurs, die amerikanischen Zinsen und die globale Kapitalallokation.",
+          "hintergrund": "Der Rat kommt zu einem Zeitpunkt, an dem die Glaubwürdigkeit der US-Haushaltspolitik unter Druck steht und internationale Anleihen für institutionelle Investoren relativ attraktiver werden. Steigende Zinsen in bestimmten Schwellenländern und Europa bieten im Vergleich zu US-Treasuries teils höhere Realrenditen.\n\nDie Empfehlung spiegelt einen breiteren Trend wider: Mehrere große Vermögensverwalter diversifizieren ihre Anleiheportfolios geografisch stärker als in den vergangenen Jahren, was die Dominanz des US-Anleihemarktes langfristig herausfordern könnte.",
+          "tag": "Anleihen",
+          "emoji": "🌍",
           "quelle": "CNBC",
-          "quelle_url": "https://www.cnbc.com/2026/06/26/strait-of-hormuz-shipping-oil-us-iran.html"
+          "quelle_url": "https://www.cnbc.com/2026/06/27/inflation-as-major-reason-to-invest-in-global-bond-markets.html"
         }
       ]
     }
