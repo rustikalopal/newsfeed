@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-29T01:35:16.286320+00:00",
-  "datum": "Montag, 29. Juni 2026",
+  "generated_at": "2026-06-30T01:29:03.907290+00:00",
+  "datum": "Dienstag, 30. Juni 2026",
   "ressorts": [
     {
       "id": "politik",
@@ -9,36 +9,36 @@
       "stories": [
         {
           "id": "politik-0",
-          "titel": "USA und Iran beschießen sich trotz Waffenstillstand gegenseitig",
-          "zusammenfassung": "Die USA meldeten Angriffe auf mehrere Ziele im Iran, woraufhin Teheran Gegenschläge auf amerikanische Infrastruktur in Kuwait und Bahrain ankündigte. Beide Seiten beschuldigen die jeweils andere Seite, den bestehenden Waffenstillstand gebrochen zu haben.",
-          "bedeutung": "Eine erneute militärische Eskalation zwischen Washington und Teheran bedroht die regionale Stabilität im Nahen Osten und könnte globale Energiemärkte sowie westliche Militärbasen in der Golfregion gefährden.",
-          "hintergrund": "Der jüngste Schlagabtausch stellt eine gefährliche Zuspitzung in einem Konflikt dar, der zuletzt durch eine fragile Waffenruhe eingedämmt schien. Die gegenseitigen Schuldzuweisungen machen eine diplomatische Deeskalation erheblich schwieriger.\n\nMehrere Verbündete der USA in der Region, darunter Kuwait und Bahrain, sind nun direkt in den Konflikt hineingezogen worden, was die geopolitische Lage am Golf auf eine neue Eskalationsstufe hebt. Internationale Vermittler dringen auf sofortige Gespräche.",
-          "tag": "Naher Osten",
-          "emoji": "💥",
+          "titel": "Venezuela: Erdbeben-Opfer graben mit bloßen Händen",
+          "zusammenfassung": "Nach den verheerenden Doppelbeben in Venezuela kämpfen Überlebende und Helfer mit primitivsten Mitteln um jedes Leben in den Trümmern. Zehntausende Menschen gelten weiterhin als vermisst, während staatliche Hilfe in vielen Gebieten ausbleibt.",
+          "bedeutung": "Die humanitäre Katastrophe offenbart die strukturelle Schwäche des venezolanischen Staates und ruft internationale Hilfsorganisationen auf den Plan.",
+          "hintergrund": "Die Doppelbeben haben weite Teile Venezuelas verwüstet und eine Bevölkerung getroffen, die bereits durch jahrelange Wirtschaftskrise geschwächt ist. In zahlreichen betroffenen Regionen sind Rettungskräfte kaum präsent, sodass Angehörige selbst zur Schaufel oder zum Brecheisen greifen.\n\nDie Suche nach Überlebenden gestaltet sich dabei als nervenzerreibendes Warten: Einsatzkräfte, die eingetroffen sind, verhängen Schweigebefehle, um kleinste Lebenszeichen unter dem Schutt hören zu können. Internationale Hilfe läuft an, doch die Zugangswege in entlegene Katastrophengebiete sind vielerorts noch zerstört.",
+          "tag": "Erdbebenkatastrophe",
+          "emoji": "🆘",
           "quelle": "BBC",
-          "quelle_url": "https://www.bbc.co.uk/news/articles/cdxdwkgqgq0o?at_medium=RSS&at_campaign=rss"
+          "quelle_url": "https://www.bbc.co.uk/news/articles/cqj1210rj0yo?at_medium=RSS&at_campaign=rss"
         },
         {
           "id": "politik-1",
-          "titel": "Europas Hitzewelle fordert über 1.300 Todesopfer",
-          "zusammenfassung": "Die Weltgesundheitsorganisation hat die aktuelle Hitzewelle in Europa mit mindestens 1.300 Todesfällen in Verbindung gebracht. Deutschland verzeichnete dabei einen neuen Temperaturrekord von 41,7 Grad Celsius.",
-          "bedeutung": "Die dramatische Opferzahl belegt, dass Europa strukturell unzureichend auf extreme Hitzeereignisse vorbereitet ist, was den Handlungsdruck auf Politik und Gesundheitssysteme massiv erhöht.",
-          "hintergrund": "WHO-Generaldirektor Tedros Adhanom Ghebreyesus mahnte eindringlich, Europa müsse seine Resilienz gegenüber Extremtemperaturen grundlegend verbessern. Besonders ältere und sozial benachteiligte Bevölkerungsgruppen sind überproportional betroffen.\n\nDer neue deutsche Temperaturrekord steht symptomatisch für einen kontinentweiten Trend: Hitzewellen werden häufiger, intensiver und langanhaltender. Experten fordern dringend Investitionen in hitzeresistente Stadtplanung, erweiterte Frühwarnsysteme und bessere medizinische Notfallversorgung.",
-          "tag": "Klimakrise",
-          "emoji": "🌡️",
+          "titel": "USA und Iran einigen sich auf Waffenstillstand",
+          "zusammenfassung": "Washington und Teheran haben sich nach gegenseitigen Angriffen am Wochenende auf ein Abkommen geeinigt, das beide Seiten zur Zurückhaltung verpflichtet. Zuvor hatten sich die USA und Iran gegenseitig vorgeworfen, eine bestehende Waffenruhe gebrochen zu haben.",
+          "bedeutung": "Eine Eskalation zwischen den beiden Atommächten hätte die gesamte Region destabilisieren und globale Energiemärkte erschüttern können.",
+          "hintergrund": "Das jüngste Kräftemessen folgte auf eine Abfolge von Schlägen, bei der beide Seiten die Schuld dem jeweils anderen zuwiesen. Die diplomatische Einigung kommt zu einem Zeitpunkt, an dem die ohnehin fragile Sicherheitslage im Nahen Osten unter erheblichem Druck steht.\n\nDas nun vereinbarte Stillhalteabkommen dürfte die unmittelbare Gefahr eines offenen Krieges vorerst bannen, hinterlässt jedoch viele grundlegende Streitpunkte ungelöst. Beobachter warnen, dass ohne ein umfassendes diplomatisches Rahmenwerk weitere Eskalationen jederzeit möglich bleiben.",
+          "tag": "USA–Iran",
+          "emoji": "🕊️",
           "quelle": "BBC",
-          "quelle_url": "https://www.bbc.co.uk/news/articles/cn4d2vv935lo?at_medium=RSS&at_campaign=rss"
+          "quelle_url": "https://www.bbc.co.uk/news/articles/c872rjw17qpo?at_medium=RSS&at_campaign=rss"
         },
         {
           "id": "politik-2",
-          "titel": "Venezuela: Hoffnung auf Überlebende nach Erdbeben schwindet",
-          "zusammenfassung": "Über das Wochenende wurden 33 Menschen aus den Trümmern des venezolanischen Erdbebens gerettet, darunter zwei Kinder. Angesichts zehntausender Vermisster läuft das entscheidende Zeitfenster für die Rettung weiterer Überlebender ab.",
-          "bedeutung": "Das Erdbeben stellt Venezuela vor eine humanitäre Katastrophe, die ein bereits von politischer und wirtschaftlicher Krise zerrüttetes Land an den Rand seiner Kapazitäten treibt.",
-          "hintergrund": "Die Rettungsteams arbeiten unter extremem Zeitdruck, da die Überlebenschancen Verschütteter mit jeder Stunde drastisch sinken. Angehörige harren vor den Trümmern aus, während Wut und Verzweiflung in der Bevölkerung zunehmen.\n\nVenezuela leidet seit Jahren unter einer schweren wirtschaftlichen und politischen Krise, die Infrastruktur und Katastrophenschutz nachhaltig geschwächt hat. Internationale Hilfsorganisationen bemühen sich um Zugang, stoßen dabei jedoch auf logistische und bürokratische Hürden.",
-          "tag": "Naturkatastrophe",
-          "emoji": "🆘",
+          "titel": "Pakistan tötet 28 Zivilisten bei Afghanistan-Angriff",
+          "zusammenfassung": "Pakistanische Luftangriffe auf afghanisches Territorium haben laut UN-Angaben mindestens 28 Zivilisten das Leben gekostet. Islamabad rechtfertigt die Schläge als Antiterroroperation nahe der gemeinsamen Grenze, während die Taliban-Regierung die Angriffe als Kriegsverbrechen bezeichnen.",
+          "bedeutung": "Der Vorfall verschärft die ohnehin angespannten Beziehungen zwischen Pakistan und Afghanistan und rückt die Zivilbevölkerung in der Grenzregion erneut in den Fokus eines eskalierenden Konflikts.",
+          "hintergrund": "Pakistan steht seit Jahren unter dem Druck grenzüberschreitender Anschläge, die es militanten Gruppen zuschreibt, die auf afghanischem Boden operieren. Die Taliban-Regierung in Kabul weist solche Vorwürfe regelmäßig zurück und betrachtet pakistanische Angriffe als Verletzung ihrer Souveränität.\n\nDer jüngste Zwischenfall ereignet sich zu einem Zeitpunkt, an dem internationale Akteure um einen stabilen Umgang mit dem Taliban-Regime ringen. Kommt es zu keiner diplomatischen Deeskalation, droht die Region in einen offenen Grenzkonflikt abzugleiten, der humanitäre Folgen weit über die Angriffsorte hinaus hätte.",
+          "tag": "Pakistan–Afghanistan",
+          "emoji": "💥",
           "quelle": "BBC",
-          "quelle_url": "https://www.bbc.co.uk/news/articles/cr47dvywvy5o?at_medium=RSS&at_campaign=rss"
+          "quelle_url": "https://www.bbc.co.uk/news/articles/cy8wygyed0wo?at_medium=RSS&at_campaign=rss"
         }
       ]
     },
@@ -49,36 +49,36 @@
       "stories": [
         {
           "id": "wirtschaft-0",
-          "titel": "Trump droht Europa mit 100-Prozent-Zoll bei Digitalsteuer",
-          "zusammenfassung": "US-Präsident Donald Trump hat mehreren europäischen Ländern mit sofortigen Strafzöllen von 100 Prozent gedroht, sollten diese eine Steuer auf digitale Dienstleistungen amerikanischer Unternehmen einführen. Die angedrohten Maßnahmen würden bestehende Handelsabkommen außer Kraft setzen.",
-          "bedeutung": "Die Drohung verschärft den transatlantischen Handelsstreit erheblich und könnte weitreichende Folgen für den Welthandel sowie für US-Tech-Konzerne und europäische Exporteure haben.",
-          "hintergrund": "Hintergrund ist der seit Jahren schwelende Konflikt über die steuerliche Behandlung globaler Digitalkonzerne wie Google, Apple oder Meta, die in Europa hohe Umsätze erzielen, dort aber vergleichsweise wenig Steuern zahlen. Mehrere EU-Länder hatten nationale Digitalsteuern eingeführt oder deren Einführung angekündigt.\n\nTrumps Ankündigung via Truth Social setzt die europäischen Regierungen unter erheblichen Druck und dürfte die laufenden Handelsgespräche zwischen Washington und Brüssel deutlich belasten. Ökonomen warnen vor einer neuen Runde gegenseitiger Strafzölle, die globale Lieferketten destabilisieren könnten.",
-          "tag": "Handelskrieg",
-          "emoji": "🔟0",
+          "titel": "Südkorea investiert 880 Milliarden in Chips und KI",
+          "zusammenfassung": "Seoul hat ein massives staatlich gefördertes Investitionsprogramm in Höhe von umgerechnet rund 880 Milliarden US-Dollar für die Halbleiter- und Künstliche-Intelligenz-Industrie angekündigt. Das Paket soll Südkoreas Position im globalen Technologiewettbewerb gegen Rivalen wie Taiwan, China und Japan sichern.",
+          "bedeutung": "Das Programm ist eines der größten nationalen Technologieinvestments weltweit und dürfte die Dynamik im globalen Chipmarkt erheblich verschieben.",
+          "hintergrund": "Der globale Wettlauf um Halbleiterkapazitäten hat sich in den vergangenen Jahren dramatisch beschleunigt, angetrieben durch den KI-Boom und geopolitische Spannungen rund um die Lieferketten. Regierungen von Washington bis Tokio subventionieren den Aufbau heimischer Chipindustrien mit historisch beispiellosen Summen.\n\nSüdkorea, das mit Konzernen wie Samsung und SK Hynix bereits eine der weltweiten Kernpositionen im Speicherchipmarkt hält, will mit dem neuen Paket auch im Bereich KI-Beschleuniger und Hochleistungslogikchips konkurrenzfähig werden. Analysten sehen darin ein Signal, dass Seoul den Technologiewettbewerb als strategische Priorität auf Augenhöhe mit der nationalen Sicherheit behandelt.",
+          "tag": "Chipindustrie",
+          "emoji": "🇰🇷",
           "quelle": "BBC",
-          "quelle_url": "https://www.bbc.co.uk/news/articles/cn4rd71411ko?at_medium=RSS&at_campaign=rss"
+          "quelle_url": "https://www.bbc.co.uk/news/articles/c9q2pwzngjqo?at_medium=RSS&at_campaign=rss"
         },
         {
           "id": "wirtschaft-1",
-          "titel": "StubHub-Chaos überschattet FIFA-WM-Ticketverkauf",
-          "zusammenfassung": "Zahlreiche Fußballfans, die WM-Tickets über den Wiederverkaufsplattform StubHub erworben hatten, wurden kurz vor den Spielen über die Stornierung ihrer Buchungen informiert. Der Fall offenbart gravierende Schwächen im Verbraucherschutz auf dem US-amerikanischen Ticketmarkt.",
-          "bedeutung": "Das Massenversagen eines der weltgrößten Tickethändler während eines globalen Sportgroßereignisses zeigt den dringenden Regulierungsbedarf im digitalen Wiederverkaufsmarkt.",
-          "hintergrund": "Betroffene Fans erhielten teils nur Stunden vor Spielbeginn Stornierungsmitteilungen, ohne dass klare Entschädigungsregelungen griffen. Verbraucherschützer kritisieren, dass US-amerikanische Plattformen bei internationalen Großveranstaltungen kaum rechenschaftspflichtig sind.\n\nDer Vorfall steht stellvertretend für ein strukturelles Problem: Der globale Markt für Ticketwiederverkäufe wächst rasant, während gesetzliche Schutzstandards für Käufer weit hinter der Marktentwicklung zurückbleiben.",
-          "tag": "Verbraucherschutz",
-          "emoji": "🎟️",
-          "quelle": "The Guardian",
-          "quelle_url": "https://www.theguardian.com/us-news/2026/jun/27/stubhub-world-cup-resale-ticket"
+          "titel": "Ford stellt Ingenieure wieder ein: KI versagt bei Qualitätskontrolle",
+          "zusammenfassung": "Der US-Autobauer Ford hat erfahrene menschliche Qualitätsprüfer zurückgeholt, nachdem Systeme auf Basis Künstlicher Intelligenz bei der Fertigungskontrolle deutlich hinter der Leistung der Fachkräfte zurückblieben. Der Fall gilt als seltenes öffentliches Eingeständnis der Grenzen aktueller KI-Anwendungen in der Industrieproduktion.",
+          "bedeutung": "Das Beispiel Ford liefert einen konkreten Präzedenzfall für die Grenzen des KI-Einsatzes in sicherheitskritischen Fertigungsprozessen und stärkt das Argument für Mensch-Maschine-Kooperation.",
+          "hintergrund": "Der Einsatz von KI in der Qualitätssicherung galt lange als Paradebeispiel für Effizienzgewinne durch Automatisierung. Ford hatte entsprechende Systeme eingeführt, musste jedoch feststellen, dass langjährige Techniker subtile Fehler erkennen, die maschinellen Systemen entgehen.\n\nDer Rückzieher des Konzerns dürfte branchenübergreifend Diskussionen auslösen, in welchen Bereichen der Mensch trotz KI-Fortschritts unverzichtbar bleibt. Für die betroffenen Arbeitnehmer bedeutet die Entscheidung eine unerwartete Rehabilitierung in einem Umfeld, das von Rationalisierungsängsten geprägt ist.",
+          "tag": "KI-Grenzen",
+          "emoji": "🤖",
+          "quelle": "BBC",
+          "quelle_url": "https://www.bbc.co.uk/news/articles/cgrkd41n2v9o?at_medium=RSS&at_campaign=rss"
         },
         {
           "id": "wirtschaft-2",
-          "titel": "Millionärssteuer: Warum Schlupflöcher das Vorhaben aushöhlen",
-          "zusammenfassung": "Experten warnen, dass eine neue Vermögenssteuer auf Superreiche kaum nennenswerte Einnahmen generieren wird, solange bestehende Ausnahmen und Steuerlücken nicht konsequent geschlossen werden. Die Debatte gewinnt angesichts rasant wachsender Milliardärsvermögen an Schärfe.",
-          "bedeutung": "Die Frage einer effektiven Besteuerung extremer Reichtümer ist von globaler wirtschaftspolitischer Relevanz und bestimmt zunehmend die Haushaltsdiskussionen westlicher Demokratien.",
-          "hintergrund": "Während Regierungen in den USA und Europa unter dem Druck wachsender Ungleichheit über neue Abgaben auf große Vermögen diskutieren, zeigt die Erfahrung vergangener Reformen, dass ohne die Schließung bestehender Schlupflöcher die tatsächlichen Steuereinnahmen minimal bleiben.\n\nOligarchische Strukturen und globale Steuervermeidungsstrategien machen eine national begrenzte Reichensteuer besonders schwierig. Internationale Koordination, wie sie die OECD mit der globalen Mindeststeuer für Unternehmen vorangetrieben hat, gilt als mögliches Vorbild für künftige Maßnahmen.",
-          "tag": "Steuerpolitik",
-          "emoji": "💰",
-          "quelle": "The Guardian",
-          "quelle_url": "https://www.theguardian.com/us-news/2026/jun/28/wealth-tax-super-rich"
+          "titel": "British American Tobacco streicht 9.000 Stellen weltweit",
+          "zusammenfassung": "Der Tabakkonzern British American Tobacco hat den Abbau von rund 9.000 Arbeitsplätzen angekündigt, um sich stärker auf digitale Geschäftsmodelle und Künstliche Intelligenz auszurichten. Das Unternehmen ist damit einer der größten Arbeitgeber weltweit, der in diesem Jahr einen solchen Stellenabbau bekanntgibt.",
+          "bedeutung": "Die Entscheidung illustriert den tiefgreifenden Strukturwandel in klassischen Konsumgüterkonzernen, die unter Margendruck und Regulierung gleichzeitig in neue Technologien investieren müssen.",
+          "hintergrund": "BAT steht wie die gesamte Tabakindustrie vor einem doppelten Transformationsdruck: Rückläufige Absatzzahlen bei Zigaretten in westlichen Märkten zwingen zu Kosteneinsparungen, während der Aufbau von Alternativprodukten wie E-Zigaretten und Tabakerhitzern massive Investitionen erfordert.\n\nDer Konzern begründet den Stellenabbau mit einer Neuausrichtung hin zu schlankeren, technologiegetriebenen Strukturen. Kritiker sehen darin jedoch vor allem eine Sparmaßnahme, die unter dem Deckmantel der Digitalisierung verborgen wird.",
+          "tag": "Stellenabbau",
+          "emoji": "🚬",
+          "quelle": "BBC",
+          "quelle_url": "https://www.bbc.co.uk/news/articles/c3vyen243dno?at_medium=RSS&at_campaign=rss"
         }
       ]
     },
@@ -89,36 +89,36 @@
       "stories": [
         {
           "id": "boerse-0",
-          "titel": "Grantham warnt: US-Börse ist so teuer wie nie zuvor",
-          "zusammenfassung": "Starinvestor Jeremy Grantham bezeichnet den amerikanischen Aktienmarkt als den teuersten in der gesamten US-Geschichte. Ausschlaggebend seien die extrem aufgeblähten Bewertungen rund um das Thema Künstliche Intelligenz.",
-          "bedeutung": "Eine Warnung des für seine präzisen Blasen-Prognosen bekannten Investors verdient besondere Aufmerksamkeit und könnte das Anlegerverhalten auf breiter Ebene beeinflussen.",
-          "hintergrund": "Grantham, der bereits die Dotcom-Blase und die Finanzkrise 2008 frühzeitig vorhergesagt hatte, sieht in der aktuellen KI-Euphorie die Ursache für ein gefährliches Übermaß an Spekulation. Zahlreiche Tech-Titel weisen Kurs-Gewinn-Verhältnisse auf, die historische Hochs deutlich übertreffen.\n\nDie Mahnung fällt in eine Phase, in der globale Investoren zunehmend auf Anleihen außerhalb der USA ausweichen. Ob der Markt tatsächlich vor einer Korrektur steht oder die KI-Revolution die hohen Bewertungen rechtfertigt, bleibt unter Analysten hochumstritten.",
-          "tag": "Aktienblase",
-          "emoji": "📉",
-          "quelle": "CNBC",
-          "quelle_url": "https://www.cnbc.com/2026/06/26/jeremy-grantham-says-this-is-the-most-expensive-market-in-american-history.html"
-        },
-        {
-          "id": "boerse-1",
-          "titel": "SpaceX soll in den Nasdaq-100 aufgenommen werden",
-          "zusammenfassung": "Elon Musks Raumfahrtunternehmen SpaceX soll im Rahmen eines beschleunigten Verfahrens in den Nasdaq-100-Index aufgenommen werden. Die Aufnahme würde massive Kaufwellen bei ETFs auslösen, die den Index abbilden.",
-          "bedeutung": "Die Indexaufnahme von SpaceX wäre ein historischer Moment für den privaten Raumfahrtsektor und hätte durch automatische ETF-Käufe unmittelbare Auswirkungen auf Milliarden von Anlegerportfolios weltweit.",
-          "hintergrund": "Der Nasdaq hat ein neues Fast-Track-Verfahren eingeführt, das es ermöglicht, außergewöhnlich bedeutsame Unternehmen schneller in den Index zu integrieren. SpaceX wäre eines der ersten Unternehmen, das von dieser neuen Regelung profitiert.\n\nDie Aufnahme eines nicht börsennotierten Privatunternehmens in einen der bedeutendsten Aktienindizes der Welt wäre ein Novum und dürfte weitreichende Debatten über Indexzusammensetzung, Transparenz und den Einfluss von Elon Musk auf Finanzmärkte anstoßen.",
-          "tag": "Indexaufnahme",
+          "titel": "SpaceX drängt in den Nasdaq-100-Index",
+          "zusammenfassung": "Das Raumfahrtunternehmen SpaceX von Elon Musk soll über ein neu eingeführtes Schnellaufnahmeverfahren in den Nasdaq-100 aufgenommen werden. Die Aufnahme würde massive Kaufzwänge bei ETFs und Indexfonds auslösen, da diese den Index mechanisch nachbilden müssen.",
+          "bedeutung": "Die SpaceX-Aufnahme wäre ein Meilenstein für private Technologieunternehmen an den Kapitalmärkten und könnte Milliarden an passivem Kapital in das Unternehmen lenken.",
+          "hintergrund": "Der Nasdaq hat kürzlich ein beschleunigtes Aufnahmeverfahren eingeführt, das es ermöglicht, bedeutende Unternehmen schneller in den Index zu integrieren als bisher. SpaceX wäre eines der ersten Unternehmen, das von dieser neuen Regelung profitiert.\n\nFür Indexfonds und ETFs, die den Nasdaq-100 abbilden, entsteht dadurch automatischer Kaufdruck in Milliardenhöhe. Anleger und Marktbeobachter beobachten die Entwicklung genau, da SpaceX trotz seiner privatwirtschaftlichen Struktur zu den am höchsten bewerteten Unternehmen der Welt zählt.",
+          "tag": "SpaceX",
           "emoji": "🚀",
           "quelle": "CNBC",
           "quelle_url": "https://www.cnbc.com/2026/06/26/spacex-added-to-nasdaq-100.html"
         },
         {
-          "id": "boerse-2",
-          "titel": "Investoren weichen bei Anleihen aus dem US-Markt aus",
-          "zusammenfassung": "Der Vermögensverwalter Allspring Global Investments empfiehlt seinen Kunden, verstärkt auf Staatsanleihen außerhalb der USA zu setzen. Attraktiv seien vor allem Länder, deren Zentralbanken die Zinsen anheben oder andere Inflationsdynamiken aufweisen.",
-          "bedeutung": "Eine strukturelle Umschichtung großer Investoren weg von US-Anleihen hätte weitreichende Folgen für den Dollar-Kurs, die amerikanischen Zinsen und die globale Kapitalallokation.",
-          "hintergrund": "Der Rat kommt zu einem Zeitpunkt, an dem die Glaubwürdigkeit der US-Haushaltspolitik unter Druck steht und internationale Anleihen für institutionelle Investoren relativ attraktiver werden. Steigende Zinsen in bestimmten Schwellenländern und Europa bieten im Vergleich zu US-Treasuries teils höhere Realrenditen.\n\nDie Empfehlung spiegelt einen breiteren Trend wider: Mehrere große Vermögensverwalter diversifizieren ihre Anleiheportfolios geografisch stärker als in den vergangenen Jahren, was die Dominanz des US-Anleihemarktes langfristig herausfordern könnte.",
-          "tag": "Anleihen",
-          "emoji": "🌍",
+          "id": "boerse-1",
+          "titel": "Chinas Wirtschaft erholt sich dank US-Exportrebound",
+          "zusammenfassung": "Neue Daten deuten darauf hin, dass die chinesische Wirtschaft im Juni wieder Fahrt aufnimmt, nachdem die Exporte in die USA nach einer Schwächephase merklich angezogen haben. Analysten sehen darin ein erstes Zeichen der Erholung nach einem zähen ersten Halbjahr.",
+          "bedeutung": "Eine nachhaltige Erholung der chinesischen Exportdynamik hätte direkte Auswirkungen auf globale Lieferketten, Rohstoffmärkte und das Wachstum wichtiger Handelspartner.",
+          "hintergrund": "Die chinesische Wirtschaft hatte in den vergangenen Monaten mit schwacher Binnennachfrage, anhaltendem Druck auf den Immobilienmarkt und den Folgen von US-Handelsbeschränkungen zu kämpfen. Der neuerliche Aufwärtstrend bei den US-Exporten signalisiert möglicherweise eine vorübergehende Entspannung im Handelsstreit.\n\nWirtschaftsexperten mahnen jedoch zur Vorsicht: Die Erholung könnte teilweise auf vorgezogene Käufe amerikanischer Importeure zurückzuführen sein, die sich vor neuen Zollanpassungen absichern wollen. Eine belastbare Trendwende lässt sich erst nach weiteren Monaten ablesen.",
+          "tag": "China-Wirtschaft",
+          "emoji": "📦",
           "quelle": "CNBC",
-          "quelle_url": "https://www.cnbc.com/2026/06/27/inflation-as-major-reason-to-invest-in-global-bond-markets.html"
+          "quelle_url": "https://www.cnbc.com/2026/06/29/china-economy-june-trade-exports-manufacturing-tariffs-iran-war-consumption-ai-technology-.html"
+        },
+        {
+          "id": "boerse-2",
+          "titel": "China verschärft Exportkontrollen gegen Japan drastisch",
+          "zusammenfassung": "Peking hat seine Exportbeschränkungen gegenüber Japan erheblich ausgeweitet und gezielt Verteidigungsforschungsinstitute sowie Drohnenhersteller und Nuklearunternehmen auf eine Sperrliste gesetzt. Der Schritt eskaliert die wirtschaftliche Rivalität zwischen den beiden Großmächten Asiens.",
+          "bedeutung": "Der Schritt erhöht den Druck auf globale Hochtechnologie-Lieferketten und signalisiert, dass Peking Exportkontrollen zunehmend als geopolitisches Machtinstrument einsetzt.",
+          "hintergrund": "China hatte bereits zuvor Exportbeschränkungen für strategisch wichtige Materialien wie Seltene Erden und Gallium verhängt. Die jüngste Ausweitung auf japanische Rüstungsforschungseinrichtungen und verteidigungsnahe Industriebetriebe stellt jedoch eine neue Qualität dar.\n\nTokio und seine westlichen Verbündeten dürften die Maßnahme als weiteren Beleg für Pekings Bereitschaft werten, Handel als geopolitisches Druckmittel einzusetzen. Für betroffene Branchen erhöht sich damit der Druck, Lieferketten zu diversifizieren und Abhängigkeiten von chinesischen Vorprodukten zu reduzieren.",
+          "tag": "Exportkontrollen",
+          "emoji": "🇨🇳",
+          "quelle": "CNBC",
+          "quelle_url": "https://www.cnbc.com/2026/06/29/china-japan-export-controls-watch-list-defense-entities.html"
         }
       ]
     }
