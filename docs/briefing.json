@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-30T01:29:03.907290+00:00",
-  "datum": "Dienstag, 30. Juni 2026",
+  "generated_at": "2026-07-01T01:36:15.849363+00:00",
+  "datum": "Mittwoch, 1. Juli 2026",
   "ressorts": [
     {
       "id": "politik",
@@ -9,36 +9,36 @@
       "stories": [
         {
           "id": "politik-0",
-          "titel": "Venezuela: Erdbeben-Opfer graben mit bloßen Händen",
-          "zusammenfassung": "Nach den verheerenden Doppelbeben in Venezuela kämpfen Überlebende und Helfer mit primitivsten Mitteln um jedes Leben in den Trümmern. Zehntausende Menschen gelten weiterhin als vermisst, während staatliche Hilfe in vielen Gebieten ausbleibt.",
-          "bedeutung": "Die humanitäre Katastrophe offenbart die strukturelle Schwäche des venezolanischen Staates und ruft internationale Hilfsorganisationen auf den Plan.",
-          "hintergrund": "Die Doppelbeben haben weite Teile Venezuelas verwüstet und eine Bevölkerung getroffen, die bereits durch jahrelange Wirtschaftskrise geschwächt ist. In zahlreichen betroffenen Regionen sind Rettungskräfte kaum präsent, sodass Angehörige selbst zur Schaufel oder zum Brecheisen greifen.\n\nDie Suche nach Überlebenden gestaltet sich dabei als nervenzerreibendes Warten: Einsatzkräfte, die eingetroffen sind, verhängen Schweigebefehle, um kleinste Lebenszeichen unter dem Schutt hören zu können. Internationale Hilfe läuft an, doch die Zugangswege in entlegene Katastrophengebiete sind vielerorts noch zerstört.",
-          "tag": "Erdbebenkatastrophe",
-          "emoji": "🆘",
+          "titel": "US-Gericht stoppt Trumps Angriff auf Geburtsrecht",
+          "zusammenfassung": "Der Oberste Gerichtshof der USA hat Trumps Vorhaben, das Geburtsortsprinzip für die Staatsbürgerschaft abzuschaffen, für verfassungswidrig erklärt. Bürgerrechtsorganisationen begrüßten das Urteil als wichtigen Schutz für Millionen Menschen.",
+          "bedeutung": "Das Urteil blockiert einen zentralen Pfeiler von Trumps Migrationspolitik und stärkt den Schutz verfassungsmäßig verankerter Bürgerrechte in den USA.",
+          "hintergrund": "Das Geburtsortsprinzip – verankert im 14. Zusatzartikel der US-Verfassung – garantiert seit dem Bürgerkrieg jedem auf amerikanischem Boden geborenen Kind automatisch die Staatsbürgerschaft. Trump hatte per Dekret versucht, dieses Recht für Kinder undokumentierter Einwanderer auszuhebeln.\n\nDer Supreme Court-Term 2025/26 war insgesamt ein gemischtes Ergebnis für die Trump-Administration: Während der Präsident in einigen Machtfragen Siege errang, erlitt seine Einwanderungsagenda mit diesem Urteil eine empfindliche Niederlage, die weitreichende politische Konsequenzen haben dürfte.",
+          "tag": "Verfassungsrecht",
+          "emoji": "⚖️",
           "quelle": "BBC",
-          "quelle_url": "https://www.bbc.co.uk/news/articles/cqj1210rj0yo?at_medium=RSS&at_campaign=rss"
+          "quelle_url": "https://www.bbc.co.uk/news/articles/cgmepnx1wzzo?at_medium=RSS&at_campaign=rss"
         },
         {
           "id": "politik-1",
-          "titel": "USA und Iran einigen sich auf Waffenstillstand",
-          "zusammenfassung": "Washington und Teheran haben sich nach gegenseitigen Angriffen am Wochenende auf ein Abkommen geeinigt, das beide Seiten zur Zurückhaltung verpflichtet. Zuvor hatten sich die USA und Iran gegenseitig vorgeworfen, eine bestehende Waffenruhe gebrochen zu haben.",
-          "bedeutung": "Eine Eskalation zwischen den beiden Atommächten hätte die gesamte Region destabilisieren und globale Energiemärkte erschüttern können.",
-          "hintergrund": "Das jüngste Kräftemessen folgte auf eine Abfolge von Schlägen, bei der beide Seiten die Schuld dem jeweils anderen zuwiesen. Die diplomatische Einigung kommt zu einem Zeitpunkt, an dem die ohnehin fragile Sicherheitslage im Nahen Osten unter erheblichem Druck steht.\n\nDas nun vereinbarte Stillhalteabkommen dürfte die unmittelbare Gefahr eines offenen Krieges vorerst bannen, hinterlässt jedoch viele grundlegende Streitpunkte ungelöst. Beobachter warnen, dass ohne ein umfassendes diplomatisches Rahmenwerk weitere Eskalationen jederzeit möglich bleiben.",
-          "tag": "USA–Iran",
-          "emoji": "🕊️",
+          "titel": "Taliban und Pakistan: Drohnen und Grenzschüsse eskalieren",
+          "zusammenfassung": "Die afghanischen Taliban haben Angriffe entlang der pakistanischen Grenze gestartet, woraufhin das pakistanische Militär nach eigenen Angaben vier einfache Drohnen abschoss. Islamabad kündigte an, auf weitere Provokationen zu reagieren.",
+          "bedeutung": "Die wachsenden Spannungen zwischen Afghanistan und Pakistan destabilisieren eine der sicherheitspolitisch ohnehin fragilen Regionen der Welt.",
+          "hintergrund": "Die Beziehungen zwischen Islamabad und Kabul haben sich seit der Rückkehr der Taliban an die Macht 2021 zunehmend verschlechtert. Strittige Grenzabschnitte, Angriffe militanter Gruppen auf pakistanischem Territorium sowie gegenseitige Schuldzuweisungen haben das Verhältnis schwer belastet.\n\nDer Einsatz von Drohnen durch die Taliban markiert dabei eine neue Eskalationsstufe. Pakistan steht innenpolitisch unter Druck, eine klare Antwort zu zeigen, ohne eine offene militärische Konfrontation auszulösen, was die Lage zusätzlich unberechenbar macht.",
+          "tag": "Grenzkonflikt",
+          "emoji": "🚨",
           "quelle": "BBC",
-          "quelle_url": "https://www.bbc.co.uk/news/articles/c872rjw17qpo?at_medium=RSS&at_campaign=rss"
+          "quelle_url": "https://www.bbc.co.uk/news/articles/c621g086ek4o?at_medium=RSS&at_campaign=rss"
         },
         {
           "id": "politik-2",
-          "titel": "Pakistan tötet 28 Zivilisten bei Afghanistan-Angriff",
-          "zusammenfassung": "Pakistanische Luftangriffe auf afghanisches Territorium haben laut UN-Angaben mindestens 28 Zivilisten das Leben gekostet. Islamabad rechtfertigt die Schläge als Antiterroroperation nahe der gemeinsamen Grenze, während die Taliban-Regierung die Angriffe als Kriegsverbrechen bezeichnen.",
-          "bedeutung": "Der Vorfall verschärft die ohnehin angespannten Beziehungen zwischen Pakistan und Afghanistan und rückt die Zivilbevölkerung in der Grenzregion erneut in den Fokus eines eskalierenden Konflikts.",
-          "hintergrund": "Pakistan steht seit Jahren unter dem Druck grenzüberschreitender Anschläge, die es militanten Gruppen zuschreibt, die auf afghanischem Boden operieren. Die Taliban-Regierung in Kabul weist solche Vorwürfe regelmäßig zurück und betrachtet pakistanische Angriffe als Verletzung ihrer Souveränität.\n\nDer jüngste Zwischenfall ereignet sich zu einem Zeitpunkt, an dem internationale Akteure um einen stabilen Umgang mit dem Taliban-Regime ringen. Kommt es zu keiner diplomatischen Deeskalation, droht die Region in einen offenen Grenzkonflikt abzugleiten, der humanitäre Folgen weit über die Angriffsorte hinaus hätte.",
-          "tag": "Pakistan–Afghanistan",
-          "emoji": "💥",
+          "titel": "Flugzeug rammt Hochhaus in Peking – Behörden schweigen",
+          "zusammenfassung": "Ein Flugzeug ist in der chinesischen Hauptstadt mit einem Büroturm kollidiert und hinterließ sichtbare Einschlaglöcher in der Fassade. Die Pekinger Behörden haben Informationen zu dem Vorfall weitgehend unterdrückt und Spuren beseitigt.",
+          "bedeutung": "Der Umgang der chinesischen Regierung mit dem Vorfall wirft erneut grundlegende Fragen über Transparenz und Informationsfreiheit in der Volksrepublik auf.",
+          "hintergrund": "Bilder und Videos des Einschlags kursierten kurzzeitig in sozialen Netzwerken, bevor sie von chinesischen Zensurbehörden systematisch entfernt wurden. Offizielle Stellen machten weder Angaben zur Ursache noch zu möglichen Opfern.\n\nChina hat in der Vergangenheit wiederholt Informationen über Unglücke und Sicherheitsvorfälle verzögert oder zurückgehalten – ein Muster, das international immer wieder Kritik auf sich zieht und das Vertrauen in chinesische Behördenkommunikation belastet.",
+          "tag": "Informationsfreiheit",
+          "emoji": "✈️",
           "quelle": "BBC",
-          "quelle_url": "https://www.bbc.co.uk/news/articles/cy8wygyed0wo?at_medium=RSS&at_campaign=rss"
+          "quelle_url": "https://www.bbc.co.uk/news/articles/crlwe28dz44o?at_medium=RSS&at_campaign=rss"
         }
       ]
     },
@@ -49,36 +49,36 @@
       "stories": [
         {
           "id": "wirtschaft-0",
-          "titel": "Südkorea investiert 880 Milliarden in Chips und KI",
-          "zusammenfassung": "Seoul hat ein massives staatlich gefördertes Investitionsprogramm in Höhe von umgerechnet rund 880 Milliarden US-Dollar für die Halbleiter- und Künstliche-Intelligenz-Industrie angekündigt. Das Paket soll Südkoreas Position im globalen Technologiewettbewerb gegen Rivalen wie Taiwan, China und Japan sichern.",
-          "bedeutung": "Das Programm ist eines der größten nationalen Technologieinvestments weltweit und dürfte die Dynamik im globalen Chipmarkt erheblich verschieben.",
-          "hintergrund": "Der globale Wettlauf um Halbleiterkapazitäten hat sich in den vergangenen Jahren dramatisch beschleunigt, angetrieben durch den KI-Boom und geopolitische Spannungen rund um die Lieferketten. Regierungen von Washington bis Tokio subventionieren den Aufbau heimischer Chipindustrien mit historisch beispiellosen Summen.\n\nSüdkorea, das mit Konzernen wie Samsung und SK Hynix bereits eine der weltweiten Kernpositionen im Speicherchipmarkt hält, will mit dem neuen Paket auch im Bereich KI-Beschleuniger und Hochleistungslogikchips konkurrenzfähig werden. Analysten sehen darin ein Signal, dass Seoul den Technologiewettbewerb als strategische Priorität auf Augenhöhe mit der nationalen Sicherheit behandelt.",
-          "tag": "Chipindustrie",
-          "emoji": "🇰🇷",
+          "titel": "Chinesischer Milliardär in den USA zu 30 Jahren verurteilt",
+          "zusammenfassung": "Guo Wengui, ein chinesischer Unternehmer, der sich in den USA als regierungskritischer Dissident inszenierte, ist wegen eines umfangreichen Betrugsskandals zu 30 Jahren Haft verurteilt worden. Er hatte Anhänger um Hunderte Millionen Dollar geprellt.",
+          "bedeutung": "Das Urteil ist eines der härtesten Strafmaße in einem US-Wirtschaftsbetrugsfall und sendet ein Signal gegen die Instrumentalisierung politischer Narrative für kriminelle Zwecke.",
+          "hintergrund": "Guo Wengui baute über Jahre eine treue Online-Gefolgschaft auf, indem er sich als Enthüller von Korruption innerhalb der Kommunistischen Partei Chinas präsentierte. Dieses Vertrauen nutzte er systematisch aus, um Anhänger in betrügerische Investitionssysteme und gefälschte Kryptowährungsprojekte zu locken.\n\nDer Fall beleuchtet, wie politische Identität und Oppositionsrhetorik als Deckmantel für Finanzkriminalität missbraucht werden können – ein Phänomen, das Strafverfolgungsbehörden weltweit zunehmend beschäftigt.",
+          "tag": "Wirtschaftsbetrug",
+          "emoji": "🏛️",
           "quelle": "BBC",
-          "quelle_url": "https://www.bbc.co.uk/news/articles/c9q2pwzngjqo?at_medium=RSS&at_campaign=rss"
+          "quelle_url": "https://www.bbc.co.uk/news/articles/cjeg15vw3z9o?at_medium=RSS&at_campaign=rss"
         },
         {
           "id": "wirtschaft-1",
-          "titel": "Ford stellt Ingenieure wieder ein: KI versagt bei Qualitätskontrolle",
-          "zusammenfassung": "Der US-Autobauer Ford hat erfahrene menschliche Qualitätsprüfer zurückgeholt, nachdem Systeme auf Basis Künstlicher Intelligenz bei der Fertigungskontrolle deutlich hinter der Leistung der Fachkräfte zurückblieben. Der Fall gilt als seltenes öffentliches Eingeständnis der Grenzen aktueller KI-Anwendungen in der Industrieproduktion.",
-          "bedeutung": "Das Beispiel Ford liefert einen konkreten Präzedenzfall für die Grenzen des KI-Einsatzes in sicherheitskritischen Fertigungsprozessen und stärkt das Argument für Mensch-Maschine-Kooperation.",
-          "hintergrund": "Der Einsatz von KI in der Qualitätssicherung galt lange als Paradebeispiel für Effizienzgewinne durch Automatisierung. Ford hatte entsprechende Systeme eingeführt, musste jedoch feststellen, dass langjährige Techniker subtile Fehler erkennen, die maschinellen Systemen entgehen.\n\nDer Rückzieher des Konzerns dürfte branchenübergreifend Diskussionen auslösen, in welchen Bereichen der Mensch trotz KI-Fortschritts unverzichtbar bleibt. Für die betroffenen Arbeitnehmer bedeutet die Entscheidung eine unerwartete Rehabilitierung in einem Umfeld, das von Rationalisierungsängsten geprägt ist.",
-          "tag": "KI-Grenzen",
-          "emoji": "🤖",
+          "titel": "Indiens Börsengiganten spiegeln digitalen Wandel eines Landes",
+          "zusammenfassung": "Die geplanten Mega-Börsengänge der Nationalen Wertpapierbörse Indiens und von Jio Platforms gelten als Meilensteine für den Kapitalmarkt des Landes. Sie stehen exemplarisch für Indiens rasanten Wandel zu einer digital vernetzten Wirtschaft.",
+          "bedeutung": "India positioniert sich mit diesen Emissionen als aufstrebende Finanzmacht, die globale Investoren zunehmend anzieht und die wirtschaftliche Führungsrolle Asiens neu verhandelt.",
+          "hintergrund": "Die Nationale Wertpapierbörse NSE ist gemessen am Derivatehandel eine der größten Börsen der Welt, war aber bislang selbst nicht börsennotiert. Jio Platforms, das digitale Herzstück des Reliance-Konzerns, hat in wenigen Jahren Hunderte Millionen Mobilfunkkunden gewonnen und eine landesweite Infrastruktur für digitale Dienste aufgebaut.\n\nBeide Unternehmen verkörpern, wie sich Indien in den vergangenen zehn Jahren vom Bargeldland zur digitalen Volkswirtschaft transformiert hat – von mobilem Bezahlen über günstige Datentarife bis hin zur wachsenden Beteiligung der Mittelschicht an den Kapitalmärkten.",
+          "tag": "Indien Digital",
+          "emoji": "📱",
           "quelle": "BBC",
-          "quelle_url": "https://www.bbc.co.uk/news/articles/cgrkd41n2v9o?at_medium=RSS&at_campaign=rss"
+          "quelle_url": "https://www.bbc.co.uk/news/articles/cdej6ej7w4go?at_medium=RSS&at_campaign=rss"
         },
         {
           "id": "wirtschaft-2",
-          "titel": "British American Tobacco streicht 9.000 Stellen weltweit",
-          "zusammenfassung": "Der Tabakkonzern British American Tobacco hat den Abbau von rund 9.000 Arbeitsplätzen angekündigt, um sich stärker auf digitale Geschäftsmodelle und Künstliche Intelligenz auszurichten. Das Unternehmen ist damit einer der größten Arbeitgeber weltweit, der in diesem Jahr einen solchen Stellenabbau bekanntgibt.",
-          "bedeutung": "Die Entscheidung illustriert den tiefgreifenden Strukturwandel in klassischen Konsumgüterkonzernen, die unter Margendruck und Regulierung gleichzeitig in neue Technologien investieren müssen.",
-          "hintergrund": "BAT steht wie die gesamte Tabakindustrie vor einem doppelten Transformationsdruck: Rückläufige Absatzzahlen bei Zigaretten in westlichen Märkten zwingen zu Kosteneinsparungen, während der Aufbau von Alternativprodukten wie E-Zigaretten und Tabakerhitzern massive Investitionen erfordert.\n\nDer Konzern begründet den Stellenabbau mit einer Neuausrichtung hin zu schlankeren, technologiegetriebenen Strukturen. Kritiker sehen darin jedoch vor allem eine Sparmaßnahme, die unter dem Deckmantel der Digitalisierung verborgen wird.",
-          "tag": "Stellenabbau",
-          "emoji": "🚬",
+          "titel": "Hohe Zinsen lähmen Immobilienmärkte weltweit",
+          "zusammenfassung": "Drei von fünf seit Jahresbeginn angebotenen Immobilien in Großbritannien sind laut Marktanalysen noch unverkauft. Hohe Hypothekenzinsen schrecken potenzielle Käufer ab und sorgen für eine Stagnation auf den Wohnungsmärkten.",
+          "bedeutung": "Die anhaltende Kaufzurückhaltung signalisiert, dass die geldpolitische Straffung der vergangenen Jahre die Immobilienmärkte noch lange belasten wird.",
+          "hintergrund": "Nach Jahren des Booms stehen Immobilienmärkte in zahlreichen westlichen Ländern vor einer Korrektur. In Großbritannien liegt der durchschnittliche Hypothekenzins trotz leichter Entspannung weiterhin auf einem Niveau, das viele Haushalte von einem Kauf abhält.\n\nDie Lage illustriert ein globales Dilemma: Notenbanken haben die Zinsen als Reaktion auf die Inflation angehoben, doch die Nebenwirkungen treffen den Wohnungsmarkt besonders hart – mit Folgen für Bauwirtschaft, Altersvorsorge und soziale Mobilität.",
+          "tag": "Immobilienmarkt",
+          "emoji": "🏠",
           "quelle": "BBC",
-          "quelle_url": "https://www.bbc.co.uk/news/articles/c3vyen243dno?at_medium=RSS&at_campaign=rss"
+          "quelle_url": "https://www.bbc.co.uk/news/articles/cdr4env2v14o?at_medium=RSS&at_campaign=rss"
         }
       ]
     },
@@ -89,36 +89,36 @@
       "stories": [
         {
           "id": "boerse-0",
-          "titel": "SpaceX drängt in den Nasdaq-100-Index",
-          "zusammenfassung": "Das Raumfahrtunternehmen SpaceX von Elon Musk soll über ein neu eingeführtes Schnellaufnahmeverfahren in den Nasdaq-100 aufgenommen werden. Die Aufnahme würde massive Kaufzwänge bei ETFs und Indexfonds auslösen, da diese den Index mechanisch nachbilden müssen.",
-          "bedeutung": "Die SpaceX-Aufnahme wäre ein Meilenstein für private Technologieunternehmen an den Kapitalmärkten und könnte Milliarden an passivem Kapital in das Unternehmen lenken.",
-          "hintergrund": "Der Nasdaq hat kürzlich ein beschleunigtes Aufnahmeverfahren eingeführt, das es ermöglicht, bedeutende Unternehmen schneller in den Index zu integrieren als bisher. SpaceX wäre eines der ersten Unternehmen, das von dieser neuen Regelung profitiert.\n\nFür Indexfonds und ETFs, die den Nasdaq-100 abbilden, entsteht dadurch automatischer Kaufdruck in Milliardenhöhe. Anleger und Marktbeobachter beobachten die Entwicklung genau, da SpaceX trotz seiner privatwirtschaftlichen Struktur zu den am höchsten bewerteten Unternehmen der Welt zählt.",
-          "tag": "SpaceX",
-          "emoji": "🚀",
+          "titel": "Fed-Bankerin warnt: KI könnte Inflation und Zinsen treiben",
+          "zusammenfassung": "Beth Hammack, Präsidentin der Cleveland Federal Reserve, hat davor gewarnt, dass der KI-Boom die Inflation anheizen und weitere Zinserhöhungen notwendig machen könnte. Die Notenbanken hätten die Teuerung noch immer nicht vollständig unter Kontrolle.",
+          "bedeutung": "Eine solche Warnung aus dem Inneren der US-Notenbank könnte die Erwartungen an baldige Zinssenkungen erneut dämpfen und die Märkte belasten.",
+          "hintergrund": "Der Aufschwung bei künstlicher Intelligenz treibt massive Investitionen in Rechenzentren, Energieinfrastruktur und Halbleiter. Ökonomen diskutieren zunehmend, ob dieser Nachfrageschub – ähnlich früherer Investitionswellen – inflationäre Effekte haben könnte, bevor Produktivitätsgewinne sichtbar werden.\n\nHammack gehört zu jenen Fed-Vertretern, die einem vorsichtigen Kurs das Wort reden. Ihre Aussagen sind ein Signal, dass die Diskussion über Zinspolitik innerhalb der US-Notenbank noch keineswegs abgeschlossen ist – mit potenziell großen Auswirkungen auf globale Kapitalströme.",
+          "tag": "Zinspolitik KI",
+          "emoji": "🤖",
           "quelle": "CNBC",
-          "quelle_url": "https://www.cnbc.com/2026/06/26/spacex-added-to-nasdaq-100.html"
+          "quelle_url": "https://www.cnbc.com/2026/06/30/cleveland-fed-president-hammack-sees-ai-fueling-inflation-says-rate-hikes-may-be-necessary.html"
         },
         {
           "id": "boerse-1",
-          "titel": "Chinas Wirtschaft erholt sich dank US-Exportrebound",
-          "zusammenfassung": "Neue Daten deuten darauf hin, dass die chinesische Wirtschaft im Juni wieder Fahrt aufnimmt, nachdem die Exporte in die USA nach einer Schwächephase merklich angezogen haben. Analysten sehen darin ein erstes Zeichen der Erholung nach einem zähen ersten Halbjahr.",
-          "bedeutung": "Eine nachhaltige Erholung der chinesischen Exportdynamik hätte direkte Auswirkungen auf globale Lieferketten, Rohstoffmärkte und das Wachstum wichtiger Handelspartner.",
-          "hintergrund": "Die chinesische Wirtschaft hatte in den vergangenen Monaten mit schwacher Binnennachfrage, anhaltendem Druck auf den Immobilienmarkt und den Folgen von US-Handelsbeschränkungen zu kämpfen. Der neuerliche Aufwärtstrend bei den US-Exporten signalisiert möglicherweise eine vorübergehende Entspannung im Handelsstreit.\n\nWirtschaftsexperten mahnen jedoch zur Vorsicht: Die Erholung könnte teilweise auf vorgezogene Käufe amerikanischer Importeure zurückzuführen sein, die sich vor neuen Zollanpassungen absichern wollen. Eine belastbare Trendwende lässt sich erst nach weiteren Monaten ablesen.",
-          "tag": "China-Wirtschaft",
-          "emoji": "📦",
+          "titel": "Small Caps feiern bestes erstes Halbjahr seit 35 Jahren",
+          "zusammenfassung": "Kleinere börsennotierte Unternehmen haben in der ersten Jahreshälfte 2026 so stark zugelegt wie zuletzt Anfang der 1990er Jahre. Der Aufschwung markiert eine deutliche Trendwende nach Jahren der Underperformance gegenüber Großkonzernen.",
+          "bedeutung": "Die Rotation in Small Caps deutet auf eine Verbreiterung der Marktrallye hin – ein oft als positives Signal für die Gesamtwirtschaft gewertetes Phänomen.",
+          "hintergrund": "Über viele Jahre hatten Mega-Cap-Technologiekonzerne den Aktienmarkt dominiert, während kleinere Unternehmen zurückblieben. Die Aufholjagd der Small Caps wird unter anderem auf sinkende Rezessionsängste, verbesserte Kreditbedingungen für kleine und mittlere Unternehmen sowie die Erwartung binnenwirtschaftlicher Impulse zurückgeführt.\n\nHistorisch gilt eine breite Marktpartizipation als robusteres Fundament für nachhaltige Kursgewinne als eine Rally, die von wenigen Schwergewichten getragen wird. Beobachter beobachten die Entwicklung deshalb als Indikator für die allgemeine Wirtschaftsstimmung.",
+          "tag": "Small Caps",
+          "emoji": "📈",
           "quelle": "CNBC",
-          "quelle_url": "https://www.cnbc.com/2026/06/29/china-economy-june-trade-exports-manufacturing-tariffs-iran-war-consumption-ai-technology-.html"
+          "quelle_url": "https://www.cnbc.com/2026/06/30/small-cap-stocks-enjoy-best-first-half-since-1991-as-ai-trade-expands.html"
         },
         {
           "id": "boerse-2",
-          "titel": "China verschärft Exportkontrollen gegen Japan drastisch",
-          "zusammenfassung": "Peking hat seine Exportbeschränkungen gegenüber Japan erheblich ausgeweitet und gezielt Verteidigungsforschungsinstitute sowie Drohnenhersteller und Nuklearunternehmen auf eine Sperrliste gesetzt. Der Schritt eskaliert die wirtschaftliche Rivalität zwischen den beiden Großmächten Asiens.",
-          "bedeutung": "Der Schritt erhöht den Druck auf globale Hochtechnologie-Lieferketten und signalisiert, dass Peking Exportkontrollen zunehmend als geopolitisches Machtinstrument einsetzt.",
-          "hintergrund": "China hatte bereits zuvor Exportbeschränkungen für strategisch wichtige Materialien wie Seltene Erden und Gallium verhängt. Die jüngste Ausweitung auf japanische Rüstungsforschungseinrichtungen und verteidigungsnahe Industriebetriebe stellt jedoch eine neue Qualität dar.\n\nTokio und seine westlichen Verbündeten dürften die Maßnahme als weiteren Beleg für Pekings Bereitschaft werten, Handel als geopolitisches Druckmittel einzusetzen. Für betroffene Branchen erhöht sich damit der Druck, Lieferketten zu diversifizieren und Abhängigkeiten von chinesischen Vorprodukten zu reduzieren.",
-          "tag": "Exportkontrollen",
-          "emoji": "🇨🇳",
+          "titel": "SpaceX soll in den Nasdaq-100 aufgenommen werden",
+          "zusammenfassung": "Elon Musks Raumfahrtkonzern SpaceX soll über ein neues Schnellaufnahmeverfahren in den Nasdaq-100-Index aufgenommen werden. Der Schritt dürfte massive Käufe durch ETFs und Indexfonds auslösen.",
+          "bedeutung": "Die SpaceX-Aufnahme wäre ein historischer Moment für die Raumfahrtbranche und ein Präzedenzfall für die Öffnung des Kapitalmarkts gegenüber bislang privat gehaltenen Technologieriesen.",
+          "hintergrund": "SpaceX ist trotz seines enormen Wertes und seiner zentralen Rolle in der globalen Raumfahrt- und Satellitenindustrie bislang nicht börsennotiert. Die Aufnahme in den Nasdaq-100 über das neu eingeführte Fast-Track-Verfahren würde das Unternehmen jedoch erstmals für Millionen von Kleinanlegern über Indexprodukte zugänglich machen.\n\nDer Zug zu passiven Anlageprodukten bedeutet, dass jede Indexaufnahme automatisch Milliarden an Kaufvolumen generiert. Für SpaceX und Musk wäre es zudem ein weiterer Schritt zur finanziellen Verflechtung seiner Unternehmensimperien mit dem breiten Markt.",
+          "tag": "SpaceX Nasdaq",
+          "emoji": "🚀",
           "quelle": "CNBC",
-          "quelle_url": "https://www.cnbc.com/2026/06/29/china-japan-export-controls-watch-list-defense-entities.html"
+          "quelle_url": "https://www.cnbc.com/2026/06/26/spacex-added-to-nasdaq-100.html"
         }
       ]
     }
