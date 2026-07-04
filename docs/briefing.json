@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-03T01:06:46.347925+00:00",
-  "datum": "Freitag, 3. Juli 2026",
+  "generated_at": "2026-07-04T01:03:21.912324+00:00",
+  "datum": "Samstag, 4. Juli 2026",
   "ressorts": [
     {
       "id": "politik",
@@ -9,36 +9,36 @@
       "stories": [
         {
           "id": "politik-0",
-          "titel": "Massiver russischer Raketenangriff auf Kiew fordert 27 Tote",
-          "zusammenfassung": "Russland hat die ukrainische Hauptstadt Kiew mit dem bisher größten Waffenarsenal in einem Einzelangriff beschossen. Zahlreiche Stadtteile wurden getroffen, mindestens 27 Menschen kamen ums Leben.",
-          "bedeutung": "Der Angriff markiert eine weitere Eskalation im Krieg und zeigt, dass Russland trotz internationalen Drucks die Intensität seiner Offensiven gegen Zivilgebiete erhöht.",
-          "hintergrund": "Der Beschuss auf Kiew war nach ukrainischen Angaben der umfangreichste seit Kriegsbeginn – sowohl gemessen an der Anzahl der eingesetzten Waffen als auch an der geographischen Streuung der Einschläge über das Stadtgebiet. Wohnhäuser, Infrastruktur und öffentliche Gebäude wurden beschädigt.\n\nDer Angriff erfolgt zu einem Zeitpunkt, an dem internationale Vermittlungsbemühungen stocken und westliche Verbündete der Ukraine über weitere Waffenlieferungen beraten. Humanitäre Organisationen warnen vor der wachsenden Belastung für die Zivilbevölkerung.",
-          "tag": "Ukraine-Krieg",
-          "emoji": "💥",
+          "titel": "Monaco-Bombenanschlag: Ukrainischer Verdächtiger auf der Flucht",
+          "zusammenfassung": "Nach einem Bombenanschlag in Monaco fahnden die Behörden nach einem ukrainischen Verdächtigen, der sich offenbar als Mann verkleidet hatte. Die Ermittler gehen davon aus, dass die Person nicht allein handelte und das Ziel tagelang ausspioniert hatte.",
+          "bedeutung": "Ein Terroranschlag im Herzen Westeuropas mit internationaler Verwicklung alarmiert die Sicherheitsbehörden auf dem gesamten Kontinent.",
+          "hintergrund": "Die monegassische Polizei und internationale Partner haben eine großangelegte Fahndung eingeleitet. Die Tarnung des Verdächtigen sowie die offenkundig sorgfältige Vorbereitung deuten auf einen koordinierten Anschlag hin.\n\nDer Vorfall wirft Fragen zur Sicherheitslage in Europa auf und könnte diplomatische Spannungen nach sich ziehen – zumal ein ukrainischer Staatsbürger im Mittelpunkt der Ermittlungen steht.",
+          "tag": "Terrorismus",
+          "emoji": "💣",
           "quelle": "BBC",
-          "quelle_url": "https://www.bbc.co.uk/news/articles/c4gyv05gk4do?at_medium=RSS&at_campaign=rss"
+          "quelle_url": "https://www.bbc.co.uk/news/articles/c4gy603z2qlo?at_medium=RSS&at_campaign=rss"
         },
         {
           "id": "politik-1",
-          "titel": "Erster Ebola-Behandlungsversuch im Kongo gestartet",
-          "zusammenfassung": "Im Osten der Demokratischen Republik Kongo hat ein klinischer Versuch zur Erprobung neuer Ebola-Therapien begonnen. Die WHO verzeichnet dort bereits über 1.400 bestätigte Fälle und fast 440 Todesfälle.",
-          "bedeutung": "Ein wirksames Behandlungsprotokoll könnte den Verlauf des anhaltenden Ausbruchs entscheidend beeinflussen und als Blaupause für künftige Ebola-Epidemien dienen.",
-          "hintergrund": "Der aktuelle Ausbruch im Kongo gehört zu den schwersten der vergangenen Jahre. Trotz vorhandener Impfstoffe erschweren bewaffnete Konflikte, schlechte Infrastruktur und Misstrauen in der Bevölkerung die Eindämmung erheblich.\n\nDer neue Behandlungsversuch soll systematisch vergleichen, welche therapeutischen Ansätze bei schweren Verläufen am wirksamsten sind. Globale Gesundheitsbehörden beobachten den Versuch genau, da der Kongo als Epizentrum wiederkehrender Ebola-Ausbrüche gilt.",
-          "tag": "Ebola",
-          "emoji": "🦠",
+          "titel": "Polen warnt: Kritische Monate angesichts russischer Bedrohung",
+          "zusammenfassung": "Polens Ministerpräsident Donald Tusk hat seine Bevölkerung auf möglicherweise schwierige Monate eingestimmt und erklärt, das Land bereite sich auf verschiedene Szenarien vor. Hintergrund sind Medienberichte über einen möglichen russischen Angriffplan.",
+          "bedeutung": "Warnungen eines NATO-Frontstaats vor einem russischen Angriff erhöhen die Alarmbereitschaft in der gesamten Allianz.",
+          "hintergrund": "Tusk äußerte sich in ungewöhnlich deutlicher Form über die Sicherheitslage an Polens Ostflanke. Die Aussagen folgen auf Geheimdienstberichte, die in europäischen Medien zirkulieren und auf konkrete russische Planungen hindeuten sollen.\n\nPolen investiert seit dem russischen Angriff auf die Ukraine massiv in seine Verteidigung und gehört zu den Ländern mit den höchsten Rüstungsausgaben innerhalb der NATO. Tusks Worte dürften die Debatte über westliche Abschreckungsmaßnahmen erneut anfachen.",
+          "tag": "NATO-Ostflanke",
+          "emoji": "🛡️",
           "quelle": "BBC",
-          "quelle_url": "https://www.bbc.co.uk/news/articles/c75ykve4zzxo?at_medium=RSS&at_campaign=rss"
+          "quelle_url": "https://www.bbc.co.uk/news/articles/cj0gp88q4l4o?at_medium=RSS&at_campaign=rss"
         },
         {
           "id": "politik-2",
-          "titel": "Bombenanschlag auf Damaskus-Café tötet sechs Menschen",
-          "zusammenfassung": "In der syrischen Hauptstadt Damaskus explodierte in einem Café nahe dem Justizpalast eine Bombe und tötete mindestens sechs Personen. Ein Bekenntnis zu dem Anschlag liegt bislang nicht vor.",
-          "bedeutung": "Der Anschlag verdeutlicht, dass Syrien trotz veränderter politischer Lage weiterhin mit erheblicher innerer Instabilität und Sicherheitsbedrohungen kämpft.",
-          "hintergrund": "Das Café befand sich in unmittelbarer Nähe eines der wichtigsten Regierungsgebäude der syrischen Hauptstadt, was auf eine gezielte Botschaft an staatliche Institutionen hindeutet. Die Behörden haben Ermittlungen eingeleitet, jedoch noch keine Tätergruppe identifiziert.\n\nSyrien befindet sich nach Jahren des Bürgerkriegs in einem fragilen Übergangsprozess. Wiederkehrende Anschläge zeigen, dass verschiedene bewaffnete Akteure nach wie vor in der Lage sind, Angriffe in Stadtzentren durchzuführen.",
-          "tag": "Syrien",
-          "emoji": "💣",
+          "titel": "Iran betrauert getöteten Ayatollah mit mehrtägiger Staatstrauer",
+          "zusammenfassung": "Der Iran hat mit öffentlichen Trauerfeierlichkeiten für einen im Februar getöteten Ayatollah begonnen. Der Leichnam des Geistlichen wird in der Großen Moschee in Teheran aufgebahrt, bevor mehrere Tage Staatstrauer folgen.",
+          "bedeutung": "Der Tod einer hochrangigen Geistlichen Persönlichkeit im Iran könnte die innenpolitische Machtbalance und die regionale Stabilität beeinflussen.",
+          "hintergrund": "Der verstorbene Ayatollah gehörte zum inneren Zirkel des religiösen Establishments der Islamischen Republik. Sein gewaltsamer Tod im Februar hatte bereits international Aufmerksamkeit erregt.\n\nDie aufwendigen Begräbnisrituale unterstreichen die politische Bedeutung des Verstorbenen. Beobachter verfolgen genau, wie das Regime die Trauerfeierlichkeiten nutzt, um innenpolitisch Geschlossenheit zu demonstrieren.",
+          "tag": "Iran",
+          "emoji": "🕌",
           "quelle": "BBC",
-          "quelle_url": "https://www.bbc.co.uk/news/articles/cn0vwxyz40zo?at_medium=RSS&at_campaign=rss"
+          "quelle_url": "https://www.bbc.co.uk/news/articles/cx2k4k7jqeno?at_medium=RSS&at_campaign=rss"
         }
       ]
     },
@@ -49,33 +49,33 @@
       "stories": [
         {
           "id": "wirtschaft-0",
-          "titel": "Google muss 4,1-Milliarden-Euro-Strafe an EU zahlen",
-          "zusammenfassung": "Ein europäisches Gericht hat Googles Berufung gegen eine Rekordstrafe der EU-Kommission abgewiesen und das Bußgeld wegen Wettbewerbsmissbrauchs durch das Android-Betriebssystem bestätigt. Google soll Konkurrenten durch vorinstallierte Dienste systematisch benachteiligt haben.",
-          "bedeutung": "Das Urteil setzt einen starken Präzedenzfall für die Regulierung von Tech-Plattformen und könnte weitere Verfahren gegen digitale Marktdominanz in Europa beschleunigen.",
-          "hintergrund": "Die EU-Kommission hatte das ursprüngliche Bußgeld verhängt, weil Google Smartphone-Hersteller dazu verpflichtet hatte, neben Android automatisch auch Google-eigene Apps zu installieren und so alternative Suchdienste und Browser verdrängte. Google argumentierte stets, das System sei offen und für Verbraucher vorteilhaft.\n\nDas Urteil fällt in eine Zeit, in der die EU mit dem Digital Markets Act ohnehin schärfere Regeln für sogenannte Gatekeeper eingeführt hat. Beobachter sehen darin ein Signal, dass Europa entschlossen bleibt, das Verhalten großer Technologiekonzerne auf dem Binnenmarkt zu kontrollieren.",
-          "tag": "Tech-Regulierung",
-          "emoji": "⚖️",
+          "titel": "KI-Pionier LeCun: Aktuelle Systeme noch nicht wirklich intelligent",
+          "zusammenfassung": "Der renommierte KI-Forscher Yann LeCun hält die derzeitigen Systeme der Künstlichen Intelligenz für grundlegend begrenzt und arbeitet mit seinem Start-up an flexibleren Alternativen. Er sieht in der heutigen KI noch keine echte Intelligenz.",
+          "bedeutung": "Kritik aus dem Inneren der KI-Forschung an den dominierenden Systemen könnte die Richtung milliardenschwerer Investitionen neu beeinflussen.",
+          "hintergrund": "LeCun, einer der Wegbereiter moderner KI und Träger des Turing-Preises, distanziert sich von der verbreiteten Euphorie rund um große Sprachmodelle. Er argumentiert, dass diese Systeme zwar beeindruckende Ergebnisse liefern, aber kein echtes Verständnis der Welt besitzen.\n\nSein Start-up verfolgt einen anderen Ansatz, der auf anpassungsfähigere und robustere Architekturen setzt. Die Debatte über die Grenzen aktueller KI gewinnt gerade dann an Bedeutung, wenn Regierungen und Unternehmen weltweit Milliarden in die Technologie pumpen.",
+          "tag": "Künstliche Intelligenz",
+          "emoji": "🤖",
           "quelle": "BBC",
-          "quelle_url": "https://www.bbc.co.uk/news/articles/cvgj0pp5p62o?at_medium=RSS&at_campaign=rss"
+          "quelle_url": "https://www.bbc.co.uk/news/articles/cj6gr0xkyr3o?at_medium=RSS&at_campaign=rss"
         },
         {
           "id": "wirtschaft-1",
-          "titel": "Dieselpreise verzeichnen stärksten Monatsrückgang seit 26 Jahren",
-          "zusammenfassung": "Die Kraftstoffpreise sind im Juni so stark gefallen wie seit 1999 nicht mehr, nachdem Hoffnungen auf eine dauerhafte Waffenruhe im Nahen Osten die Märkte beruhigt hatten. Zuvor hatten militärische Auseinandersetzungen zwischen den USA, Israel und dem Iran die Preise in die Höhe getrieben.",
-          "bedeutung": "Deutlich günstigere Kraftstoffpreise könnten die Inflation in vielen Ländern dämpfen und Konsumenten sowie Unternehmen spürbar entlasten.",
-          "hintergrund": "Als der Konflikt zwischen den USA, Israel und dem Iran eskalierte, schoss der Ölpreis in die Höhe und trieb die Spritpreise weltweit auf Rekordhöhen. Mit dem Einsetzen diplomatischer Signale drehte sich die Stimmung an den Rohstoffmärkten abrupt.\n\nÖkonomen warnen jedoch, dass die Preiserholung fragil ist: Eine erneute Eskalation im Nahen Osten oder Förderkürzungen der OPEC+ könnten die Entwicklung rasch umkehren. Für Verbraucher und Logistikunternehmen bleibt die Lage daher schwer planbar.",
-          "tag": "Energiepreise",
-          "emoji": "⛽",
+          "titel": "Ryanair warnt vor Chaos durch neues EU-Grenzsystem",
+          "zusammenfassung": "Die Billigfluggesellschaft Ryanair fordert europäische Regierungen auf, die Einführung des neuen EU-Einreise- und Ausreisesystems auf nach dem Sommer zu verschieben. Das Unternehmen befürchtet massive Warteschlangen an den Grenzen.",
+          "bedeutung": "Sollte das neue System wie geplant in Betrieb gehen, könnte es den europäischen Sommerreiseverkehr für Millionen Passagiere erheblich stören.",
+          "hintergrund": "Das sogenannte Entry-Exit-System der EU sieht vor, dass Reisende aus Drittstaaten künftig an jedem Grenzübergang biometrisch erfasst werden. Die Umstellung erfordert neue Infrastruktur und Abläufe an Flughäfen und Grenzstationen.\n\nKritiker aus der Reisebranche warnen seit Monaten, dass die Kapazitäten für eine reibungslose Abwicklung in der Hauptreisesaison nicht ausreichen. Ryanair ist nicht die erste Airline, die eine Verschiebung verlangt – die Forderung wird nun kurz vor dem Sommerstart lauter.",
+          "tag": "EU-Grenzpolitik",
+          "emoji": "✈️",
           "quelle": "BBC",
-          "quelle_url": "https://www.bbc.co.uk/news/articles/c20zgjzz0e4o?at_medium=RSS&at_campaign=rss"
+          "quelle_url": "https://www.bbc.co.uk/news/articles/c8x2y74wp9eo?at_medium=RSS&at_campaign=rss"
         },
         {
           "id": "wirtschaft-2",
-          "titel": "WM-Euphorie verpufft: US-Gaststättenbranche verliert Jobs",
-          "zusammenfassung": "Trotz der Fußball-Weltmeisterschaft im eigenen Land ist die Zahl der Beschäftigten im amerikanischen Gastgewerbe im Juni zurückgegangen. Frühe Erwartungen an einen Jobaufschwung durch das Turnier haben sich damit nicht erfüllt.",
-          "bedeutung": "Das überraschende Minus im Gastgewerbe trübt das Bild vom erhofften wirtschaftlichen Schub durch die Weltmeisterschaft und wirft Fragen zur Konsumstärke der US-Bevölkerung auf.",
-          "hintergrund": "Wirtschaftsanalysten hatten erwartet, dass Hotels, Restaurants und Bars von den Millionen in- und ausländischen Besuchern der WM profitieren und kräftig Stellen aufbauen würden. Der tatsächliche Rückgang deutet darauf hin, dass der Ansturm entweder geografisch zu konzentriert war oder Verbraucher angesichts hoher Lebenshaltungskosten zurückhaltender blieben.\n\nDer schwache Jobaufbau im Dienstleistungssektor passt zu einem breiteren Bild nachlassender Arbeitsnachfrage in den USA und dürfte die Diskussion über eine mögliche Zinssenkung der US-Notenbank Fed neu befeuern.",
-          "tag": "Arbeitsmarkt",
+          "titel": "WM-Boom bleibt aus: US-Gastgewerbe verliert Jobs im Juni",
+          "zusammenfassung": "Trotz der Fußball-Weltmeisterschaft in den USA sind die Beschäftigtenzahlen im amerikanischen Gastgewerbe im Juni zurückgegangen. Frühe Hoffnungen auf einen WM-bedingten Jobaufschwung haben sich damit nicht erfüllt.",
+          "bedeutung": "Der ausbleibende Beschäftigungsschub aus dem Großereignis verstärkt die Sorgen über die Abkühlung des US-Arbeitsmarkts.",
+          "hintergrund": "Ökonomen und die Tourismusbranche hatten erwartet, dass das weltgrößte Sportereignis einen spürbaren Impuls für Hotels, Restaurants und den Einzelhandel liefern würde. Die Junizahlen zeichnen jedoch ein ernüchterndes Bild.\n\nDer Rückgang fällt in eine Phase, in der der gesamte US-Arbeitsmarkt schwächelt. Gemeinsam mit dem insgesamt enttäuschenden Jobsbericht für Juni dürfte dies den Druck auf die US-Notenbank erhöhen, ihre Geldpolitik zu überdenken.",
+          "tag": "US-Arbeitsmarkt",
           "emoji": "⚽",
           "quelle": "BBC",
           "quelle_url": "https://www.bbc.co.uk/news/articles/cr471w6ykxno?at_medium=RSS&at_campaign=rss"
@@ -90,35 +90,35 @@
         {
           "id": "boerse-0",
           "titel": "US-Jobwachstum bricht ein: Nur 57.000 neue Stellen im Juni",
-          "zusammenfassung": "Die amerikanische Wirtschaft schuf im Juni lediglich 57.000 neue Stellen außerhalb der Landwirtschaft – weniger als halb so viele wie erwartet. Die Arbeitslosenquote stieg leicht auf 4,2 Prozent.",
-          "bedeutung": "Der schwache Arbeitsmarktbericht erhöht den Druck auf die Federal Reserve, früher als bislang geplant mit Zinssenkungen zu beginnen, und könnte die Märkte neu ausrichten.",
-          "hintergrund": "Analysten hatten mit rund 115.000 neuen Stellen gerechnet. Das tatsächliche Ergebnis liegt so weit darunter, dass Ökonomen von einer spürbaren Abkühlung des Arbeitsmarkts sprechen. Besonders der Dienstleistungssektor enttäuschte, während Gesundheitsberufe die einzige robuste Wachstumsbranche blieben.\n\nFür die Finanzmärkte bedeutet der Bericht eine erhöhte Wahrscheinlichkeit baldiger Zinssenkungen, was Anleihen stützen und Aktienindizes bewegen dürfte. Gleichzeitig wächst die Sorge, dass die Abkühlung nicht nur zinsbedingt ist, sondern strukturelle Schwächen widerspiegelt.",
-          "tag": "US-Arbeitsmarkt",
+          "zusammenfassung": "Der amerikanische Arbeitsmarkt hat im Juni mit lediglich 57.000 neuen Stellen deutlich schwächer abgeschnitten als erwartet. Analysten hatten mit gut doppelt so vielen neuen Jobs gerechnet.",
+          "bedeutung": "Der schwache Jobsbericht erhöht den Erwartungsdruck auf die US-Notenbank Fed, die Zinsen früher als geplant zu senken.",
+          "hintergrund": "Die sogenannten Nonfarm Payrolls, der wichtigste monatliche Indikator für den US-Arbeitsmarkt, verfehlten die Konsenserwartung von rund 115.000 neuen Stellen deutlich. Die Arbeitslosenquote lag bei 4,2 Prozent.\n\nFür die Finanzmärkte ist der Bericht ein zweischneidiges Signal: Einerseits steigt die Wahrscheinlichkeit von Fed-Zinssenkungen, andererseits nähren schwache Beschäftigungsdaten Rezessionsängste, die Aktien und risikobehaftete Anlagen belasten könnten.",
+          "tag": "Fed & Arbeitsmarkt",
           "emoji": "📉",
           "quelle": "CNBC",
           "quelle_url": "https://www.cnbc.com/2026/07/02/jobs-report-june-2026-.html"
         },
         {
           "id": "boerse-1",
-          "titel": "Erwerbsbeteiligung auf 50-Jahres-Tief: Jobsuche aufgegeben",
-          "zusammenfassung": "Die Erwerbsbeteiligungsquote in den USA ist auf den niedrigsten Stand seit fünfzig Jahren gefallen – abgesehen von der Covid-Pandemiezeit. Immer mehr Menschen haben sich vollständig vom Arbeitsmarkt zurückgezogen.",
-          "bedeutung": "Ein sinkender Anteil aktiver Arbeitskräfte verzerrt die offiziellen Arbeitslosenzahlen und signalisiert eine tiefgreifendere Schwäche am US-Arbeitsmarkt als auf den ersten Blick erkennbar.",
-          "hintergrund": "Die gesunkene Arbeitslosenquote auf 4,2 Prozent klingt zunächst positiv, entpuppt sich aber als trügerisch: Der Rückgang ist vor allem darauf zurückzuführen, dass weniger Menschen aktiv Arbeit suchen und damit statistisch aus der Berechnung herausfallen.\n\nExperten sehen darin ein Warnsignal für die mittelfristige Leistungsfähigkeit der US-Wirtschaft. Weniger Erwerbstätige bedeuten geringeres Wachstumspotenzial und sinkende Steuereinnahmen – ein Szenario, das die Fiskalpolitik zusätzlich unter Druck setzt.",
-          "tag": "Erwerbsquote",
-          "emoji": "👥",
+          "titel": "US-Erwerbsbeteiligung auf 50-Jahres-Tief: Viele geben Jobsuche auf",
+          "zusammenfassung": "Die Erwerbsbeteiligungsquote in den USA ist auf den niedrigsten Stand seit 50 Jahren außerhalb der Corona-Periode gefallen. Hinter dem leichten Rückgang der Arbeitslosenquote verbirgt sich damit eine besorgniserregende Entwicklung.",
+          "bedeutung": "Wenn immer mehr Menschen aufhören, aktiv nach Arbeit zu suchen, spiegelt eine sinkende Arbeitslosenquote keine echte Erholung wider – ein Warnsignal für die Wirtschaftslage.",
+          "hintergrund": "Ökonomen betonen, dass ein Rückgang der offiziellen Arbeitslosenquote trügerisch sein kann, wenn er hauptsächlich dadurch zustande kommt, dass Erwerbslose die Suche gänzlich aufgeben. Genau dieses Muster scheint sich im Juni wiederholt zu haben.\n\nDie Kombination aus schwachem Jobwachstum, niedriger Erwerbsbeteiligung und steigender Frustration unter Stellensuchenden dürfte die Debatte über die tatsächliche Stärke der US-Wirtschaft neu entfachen und die Märkte weiter verunsichern.",
+          "tag": "US-Konjunktur",
+          "emoji": "📊",
           "quelle": "CNBC",
           "quelle_url": "https://www.cnbc.com/2026/07/02/job-seekers-giving-up-labor-force-participation-rate-falls-to-lowest-in-50-years-outside-of-covid-era.html"
         },
         {
           "id": "boerse-2",
-          "titel": "Hitzewelle treibt Europa in die Arme chinesischer Klimaanlagen",
-          "zusammenfassung": "Eine historische Hitzewelle hat in Europa die Nachfrage nach Klimaanlagen auf ein Rekordniveau getrieben – und damit chinesische Hersteller zu den großen Gewinnern gemacht. Brüssel steht damit vor einem Dilemma zwischen Klimaschutz, Versorgungssicherheit und Handelspolitik.",
-          "bedeutung": "Die Abhängigkeit Europas von chinesischen Konsumgütern zeigt sich erneut in einer Krisensituation und unterstreicht, wie schwierig die angestrebte Neuausrichtung der Handelsbeziehungen mit Peking in der Praxis ist.",
-          "hintergrund": "Die EU versucht seit Jahren, ihre strategischen Abhängigkeiten von China zu reduzieren. In der Theorie klingt Diversifizierung überzeugend – doch in einer Hitzewelle greifen Verbraucher und Händler schlicht zu dem, was verfügbar und bezahlbar ist: und das sind derzeit vor allem chinesische Geräte.\n\nDer Boom illustriert, dass geopolitisch motivierte Handelsstrategien in Echtzeit an ihre Grenzen stoßen. Analysten erwarten, dass die EU die Debatte über Importzölle auf chinesische Klimageräte neu aufrollt – während gleichzeitig die Hitzesommer durch den Klimawandel häufiger werden dürften.",
-          "tag": "EU-China-Handel",
-          "emoji": "🌡️",
+          "titel": "Lagarde lässt EZB-Abgang offen – Frankreich lockt",
+          "zusammenfassung": "EZB-Präsidentin Christine Lagarde hat nicht ausgeschlossen, ihr Amt vor dem offiziellen Mandatsende aufzugeben, um in die französische Politik einzusteigen. Die Andeutung sorgt für Spekulationen über die künftige Führung der europäischen Geldpolitik.",
+          "bedeutung": "Unsicherheit über die Führung der Europäischen Zentralbank in einem konjunkturell heiklen Moment könnte die Finanzmärkte und den Euro unter Druck setzen.",
+          "hintergrund": "Lagarde gilt als eine der einflussreichsten Zentralbankerinnen weltweit. Ihr möglicher vorzeitiger Abgang würde eine komplexe Nachfolgedebatte auslösen, bei der geopolitische Interessen verschiedener EU-Staaten aufeinanderprallen dürften.\n\nGleichzeitig steht die EZB vor schwierigen zinspolitischen Entscheidungen angesichts konjunktureller Abkühlungstendenzen in der Eurozone. Ein Führungswechsel zum falschen Zeitpunkt könnte die Handlungsfähigkeit der Institution vorübergehend einschränken.",
+          "tag": "EZB-Führung",
+          "emoji": "🏦",
           "quelle": "CNBC",
-          "quelle_url": "https://www.cnbc.com/2026/07/02/european-union-china-meeting-summer-heatwave-trade-imbalance-tariffs-.html"
+          "quelle_url": "https://www.cnbc.com/2026/07/03/christine-lagarde-ecb-france-election.html"
         }
       ]
     }
