@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-04T01:03:21.912324+00:00",
-  "datum": "Samstag, 4. Juli 2026",
+  "generated_at": "2026-07-05T00:17:31.482249+00:00",
+  "datum": "Sonntag, 5. Juli 2026",
   "ressorts": [
     {
       "id": "politik",
@@ -9,36 +9,36 @@
       "stories": [
         {
           "id": "politik-0",
-          "titel": "Monaco-Bombenanschlag: Ukrainischer Verdächtiger auf der Flucht",
-          "zusammenfassung": "Nach einem Bombenanschlag in Monaco fahnden die Behörden nach einem ukrainischen Verdächtigen, der sich offenbar als Mann verkleidet hatte. Die Ermittler gehen davon aus, dass die Person nicht allein handelte und das Ziel tagelang ausspioniert hatte.",
-          "bedeutung": "Ein Terroranschlag im Herzen Westeuropas mit internationaler Verwicklung alarmiert die Sicherheitsbehörden auf dem gesamten Kontinent.",
-          "hintergrund": "Die monegassische Polizei und internationale Partner haben eine großangelegte Fahndung eingeleitet. Die Tarnung des Verdächtigen sowie die offenkundig sorgfältige Vorbereitung deuten auf einen koordinierten Anschlag hin.\n\nDer Vorfall wirft Fragen zur Sicherheitslage in Europa auf und könnte diplomatische Spannungen nach sich ziehen – zumal ein ukrainischer Staatsbürger im Mittelpunkt der Ermittlungen steht.",
-          "tag": "Terrorismus",
-          "emoji": "💣",
+          "titel": "Extremhitze lähmt Unabhängigkeitstag-Feiern in den USA",
+          "zusammenfassung": "Über 165 Millionen Menschen im Osten und Süden der Vereinigten Staaten leiden unter einer gefährlichen Hitzewelle mit Temperaturen von bis zu 38 Grad Celsius. Zahlreiche Festlichkeiten zum amerikanischen Unabhängigkeitstag wurden abgesagt oder eingeschränkt.",
+          "bedeutung": "Die Hitzewelle verdeutlicht erneut die wachsende Bedrohung durch extreme Wetterereignisse für das öffentliche Leben in westlichen Metropolen.",
+          "hintergrund": "Washington D.C. und Philadelphia gehören zu den am stärksten betroffenen Städten, wo Behörden Kühlzentren öffneten und die Bevölkerung zu Vorsicht mahnten. Meteorologen warnen, dass die Temperaturen noch mehrere Tage auf diesem gefährlichen Niveau verharren könnten.\n\nKlimaexperten ordnen solche Ereignisse in ein globales Muster ein: Hitzewellen dieser Intensität treten in Nordamerika deutlich häufiger auf als noch vor zwei Jahrzehnten, was wachsenden Druck auf Gesundheitssysteme und Infrastruktur erzeugt.",
+          "tag": "Klimakrise",
+          "emoji": "🌡️",
           "quelle": "BBC",
-          "quelle_url": "https://www.bbc.co.uk/news/articles/c4gy603z2qlo?at_medium=RSS&at_campaign=rss"
+          "quelle_url": "https://www.bbc.co.uk/news/articles/cevlkzer7vdo?at_medium=RSS&at_campaign=rss"
         },
         {
           "id": "politik-1",
-          "titel": "Polen warnt: Kritische Monate angesichts russischer Bedrohung",
-          "zusammenfassung": "Polens Ministerpräsident Donald Tusk hat seine Bevölkerung auf möglicherweise schwierige Monate eingestimmt und erklärt, das Land bereite sich auf verschiedene Szenarien vor. Hintergrund sind Medienberichte über einen möglichen russischen Angriffplan.",
-          "bedeutung": "Warnungen eines NATO-Frontstaats vor einem russischen Angriff erhöhen die Alarmbereitschaft in der gesamten Allianz.",
-          "hintergrund": "Tusk äußerte sich in ungewöhnlich deutlicher Form über die Sicherheitslage an Polens Ostflanke. Die Aussagen folgen auf Geheimdienstberichte, die in europäischen Medien zirkulieren und auf konkrete russische Planungen hindeuten sollen.\n\nPolen investiert seit dem russischen Angriff auf die Ukraine massiv in seine Verteidigung und gehört zu den Ländern mit den höchsten Rüstungsausgaben innerhalb der NATO. Tusks Worte dürften die Debatte über westliche Abschreckungsmaßnahmen erneut anfachen.",
-          "tag": "NATO-Ostflanke",
-          "emoji": "🛡️",
+          "titel": "Ukraine greift Ölterminal nahe St. Petersburg an",
+          "zusammenfassung": "Die ukrainische Armee hat nach Angaben von Präsident Wolodymyr Selenskyj einen bedeutenden Ölterminal in der Nähe von St. Petersburg attackiert. Das Ziel gilt als wichtige Einnahmequelle zur Finanzierung des russischen Krieges.",
+          "bedeutung": "Der Angriff auf strategische Energieinfrastruktur im russischen Kernland markiert eine signifikante Eskalation und zeigt die wachsende Reichweite ukrainischer Operationen.",
+          "hintergrund": "Mit dem Angriff setzt die Ukraine ihre Strategie fort, russische Wirtschaftskapazitäten zu treffen, die den Kriegsapparat finanzieren. Energieexporte gehören zu den wichtigsten Devisenquellen Russlands, und Angriffe auf entsprechende Infrastruktur sollen den finanziellen Spielraum Moskaus einengen.\n\nDer Angriff in der Nähe der zweitgrößten russischen Stadt dürfte international erhebliche Aufmerksamkeit erregen, da er unterstreicht, dass der Konflikt sich nicht auf die unmittelbaren Frontgebiete beschränkt.",
+          "tag": "Ukraine-Krieg",
+          "emoji": "⚔️",
           "quelle": "BBC",
-          "quelle_url": "https://www.bbc.co.uk/news/articles/cj0gp88q4l4o?at_medium=RSS&at_campaign=rss"
+          "quelle_url": "https://www.bbc.co.uk/news/articles/c8j2vmzxezro?at_medium=RSS&at_campaign=rss"
         },
         {
           "id": "politik-2",
-          "titel": "Iran betrauert getöteten Ayatollah mit mehrtägiger Staatstrauer",
-          "zusammenfassung": "Der Iran hat mit öffentlichen Trauerfeierlichkeiten für einen im Februar getöteten Ayatollah begonnen. Der Leichnam des Geistlichen wird in der Großen Moschee in Teheran aufgebahrt, bevor mehrere Tage Staatstrauer folgen.",
-          "bedeutung": "Der Tod einer hochrangigen Geistlichen Persönlichkeit im Iran könnte die innenpolitische Machtbalance und die regionale Stabilität beeinflussen.",
-          "hintergrund": "Der verstorbene Ayatollah gehörte zum inneren Zirkel des religiösen Establishments der Islamischen Republik. Sein gewaltsamer Tod im Februar hatte bereits international Aufmerksamkeit erregt.\n\nDie aufwendigen Begräbnisrituale unterstreichen die politische Bedeutung des Verstorbenen. Beobachter verfolgen genau, wie das Regime die Trauerfeierlichkeiten nutzt, um innenpolitisch Geschlossenheit zu demonstrieren.",
+          "titel": "Millionen trauern in Teheran um Ajatollah Chamenei",
+          "zusammenfassung": "Riesige Menschenmassen haben sich in der iranischen Hauptstadt Teheran versammelt, um vom verstorbenen Obersten Führer Ali Chamenei Abschied zu nehmen. Der Leichnam soll bis Montag aufgebahrt bleiben, bevor ein Trauerzug durch den Iran und in den Irak führt.",
+          "bedeutung": "Der Tod Chameneis stellt die bedeutendste politische Zäsur im Iran seit Jahrzehnten dar und wirft weitreichende Fragen über die künftige Führung und geopolitische Ausrichtung des Landes auf.",
+          "hintergrund": "Chamenei war seit 1989 Oberster Führer des Iran und prägte maßgeblich die innen- wie außenpolitische Agenda des Landes. Sein Tod hinterlässt ein Machtvakuum, dessen Ausfüllung innerhalb des klerikalen Establishments noch offen ist.\n\nDie internationale Gemeinschaft beobachtet die Nachfolgediskussion genau, da sie Auswirkungen auf das iranische Atomprogramm, die Beziehungen zu arabischen Nachbarn sowie auf regionale Stellvertreterkonflikte haben dürfte.",
           "tag": "Iran",
           "emoji": "🕌",
           "quelle": "BBC",
-          "quelle_url": "https://www.bbc.co.uk/news/articles/cx2k4k7jqeno?at_medium=RSS&at_campaign=rss"
+          "quelle_url": "https://www.bbc.co.uk/news/articles/c0ky2zen1kgo?at_medium=RSS&at_campaign=rss"
         }
       ]
     },
@@ -49,36 +49,36 @@
       "stories": [
         {
           "id": "wirtschaft-0",
-          "titel": "KI-Pionier LeCun: Aktuelle Systeme noch nicht wirklich intelligent",
-          "zusammenfassung": "Der renommierte KI-Forscher Yann LeCun hält die derzeitigen Systeme der Künstlichen Intelligenz für grundlegend begrenzt und arbeitet mit seinem Start-up an flexibleren Alternativen. Er sieht in der heutigen KI noch keine echte Intelligenz.",
-          "bedeutung": "Kritik aus dem Inneren der KI-Forschung an den dominierenden Systemen könnte die Richtung milliardenschwerer Investitionen neu beeinflussen.",
-          "hintergrund": "LeCun, einer der Wegbereiter moderner KI und Träger des Turing-Preises, distanziert sich von der verbreiteten Euphorie rund um große Sprachmodelle. Er argumentiert, dass diese Systeme zwar beeindruckende Ergebnisse liefern, aber kein echtes Verständnis der Welt besitzen.\n\nSein Start-up verfolgt einen anderen Ansatz, der auf anpassungsfähigere und robustere Architekturen setzt. Die Debatte über die Grenzen aktueller KI gewinnt gerade dann an Bedeutung, wenn Regierungen und Unternehmen weltweit Milliarden in die Technologie pumpen.",
-          "tag": "Künstliche Intelligenz",
-          "emoji": "🤖",
+          "titel": "Instagram schaltet in Indien Werbung für Kindesmissbrauch",
+          "zusammenfassung": "Recherchen der BBC haben ergeben, dass auf Instagram in Indien Anzeigen geschaltet wurden, die sexuellen Missbrauch von Kindern bewerben. Die Werbung verwendete explizite Suchbegriffe und leitete Nutzer zu entsprechenden Inhalten auf dem Messenger-Dienst Telegram weiter.",
+          "bedeutung": "Der Fall legt systemische Versäumnisse bei der Inhaltsmoderation eines der weltweit größten sozialen Netzwerke offen und erhöht den Druck auf regulatorische Eingriffe.",
+          "hintergrund": "Meta, das Mutterunternehmen von Instagram, steht seit Jahren in der Kritik, unzureichend gegen die Verbreitung schädlicher Inhalte vorzugehen. Der konkrete Nachweis bezahlter Werbung für illegale Inhalte stellt eine neue Eskalationsstufe dar.\n\nInsbesondere in Indien, wo Instagram Hunderte Millionen Nutzer zählt, sind die Konsequenzen gravierend. Die indischen Behörden haben in der Vergangenheit bereits mit Plattformsperren auf ähnliche Vorfälle reagiert, was erneute regulatorische Schritte wahrscheinlicher macht.",
+          "tag": "Kinderschutz",
+          "emoji": "🚨",
           "quelle": "BBC",
-          "quelle_url": "https://www.bbc.co.uk/news/articles/cj6gr0xkyr3o?at_medium=RSS&at_campaign=rss"
+          "quelle_url": "https://www.bbc.co.uk/news/articles/cvgm4e0316zo?at_medium=RSS&at_campaign=rss"
         },
         {
           "id": "wirtschaft-1",
-          "titel": "Ryanair warnt vor Chaos durch neues EU-Grenzsystem",
-          "zusammenfassung": "Die Billigfluggesellschaft Ryanair fordert europäische Regierungen auf, die Einführung des neuen EU-Einreise- und Ausreisesystems auf nach dem Sommer zu verschieben. Das Unternehmen befürchtet massive Warteschlangen an den Grenzen.",
-          "bedeutung": "Sollte das neue System wie geplant in Betrieb gehen, könnte es den europäischen Sommerreiseverkehr für Millionen Passagiere erheblich stören.",
-          "hintergrund": "Das sogenannte Entry-Exit-System der EU sieht vor, dass Reisende aus Drittstaaten künftig an jedem Grenzübergang biometrisch erfasst werden. Die Umstellung erfordert neue Infrastruktur und Abläufe an Flughäfen und Grenzstationen.\n\nKritiker aus der Reisebranche warnen seit Monaten, dass die Kapazitäten für eine reibungslose Abwicklung in der Hauptreisesaison nicht ausreichen. Ryanair ist nicht die erste Airline, die eine Verschiebung verlangt – die Forderung wird nun kurz vor dem Sommerstart lauter.",
-          "tag": "EU-Grenzpolitik",
-          "emoji": "✈️",
+          "titel": "Britische Großunternehmen kämpfen gemeinsam gegen Fehlzeiten",
+          "zusammenfassung": "Mehr als 250 der größten britischen Arbeitgeber haben sich einer Taskforce angeschlossen, die krankheitsbedingte Ausfälle am Arbeitsplatz reduzieren soll. Initiiert wurde das Bündnis von einem früheren Vorstandschef des Warenhauskonzerns John Lewis.",
+          "bedeutung": "Die Initiative adressiert ein strukturelles Problem, das nach Ansicht von Experten erhebliches ungenutztes Wachstumspotenzial in der britischen Volkswirtschaft bindet.",
+          "hintergrund": "Großbritannien verzeichnet im internationalen Vergleich überdurchschnittlich hohe Fehlzeiten, insbesondere infolge psychischer Erkrankungen und Langzeiterkrankungen nach der Covid-Pandemie. Dies belastet sowohl Unternehmen als auch staatliche Sozialkassen erheblich.\n\nDie Taskforce setzt auf betriebliche Prävention, flexible Arbeitsmodelle und frühzeitige Interventionen, um Arbeitnehmer länger im Erwerbsleben zu halten. Das Programm wird als Teil einer breiteren Debatte über Produktivität und Beschäftigung in Großbritannien diskutiert.",
+          "tag": "Arbeitswelt",
+          "emoji": "🏭",
           "quelle": "BBC",
-          "quelle_url": "https://www.bbc.co.uk/news/articles/c8x2y74wp9eo?at_medium=RSS&at_campaign=rss"
+          "quelle_url": "https://www.bbc.co.uk/news/articles/cq61j11r577o?at_medium=RSS&at_campaign=rss"
         },
         {
           "id": "wirtschaft-2",
-          "titel": "WM-Boom bleibt aus: US-Gastgewerbe verliert Jobs im Juni",
-          "zusammenfassung": "Trotz der Fußball-Weltmeisterschaft in den USA sind die Beschäftigtenzahlen im amerikanischen Gastgewerbe im Juni zurückgegangen. Frühe Hoffnungen auf einen WM-bedingten Jobaufschwung haben sich damit nicht erfüllt.",
-          "bedeutung": "Der ausbleibende Beschäftigungsschub aus dem Großereignis verstärkt die Sorgen über die Abkühlung des US-Arbeitsmarkts.",
-          "hintergrund": "Ökonomen und die Tourismusbranche hatten erwartet, dass das weltgrößte Sportereignis einen spürbaren Impuls für Hotels, Restaurants und den Einzelhandel liefern würde. Die Junizahlen zeichnen jedoch ein ernüchterndes Bild.\n\nDer Rückgang fällt in eine Phase, in der der gesamte US-Arbeitsmarkt schwächelt. Gemeinsam mit dem insgesamt enttäuschenden Jobsbericht für Juni dürfte dies den Druck auf die US-Notenbank erhöhen, ihre Geldpolitik zu überdenken.",
-          "tag": "US-Arbeitsmarkt",
-          "emoji": "⚽",
+          "titel": "Generation Z zweifelt an der staatlichen Rente",
+          "zusammenfassung": "Junge Menschen in Großbritannien bringen dem staatlichen Rentensystem zunehmend wenig Vertrauen entgegen. Viele der unter 30-Jährigen bezweifeln, im Alter tatsächlich von staatlichen Leistungen profitieren zu können.",
+          "bedeutung": "Das schwindende Vertrauen einer ganzen Generation in staatliche Alterssicherung hat langfristige Konsequenzen für Sozialpolitik und private Altersvorsorge weit über Großbritannien hinaus.",
+          "hintergrund": "Hintergrund des Misstrauens sind Sorgen über die langfristige Finanzierbarkeit der Rente angesichts einer alternden Bevölkerung, steigender Lebenshaltungskosten und unsicherer Beschäftigungsverhältnisse in der Gig-Economy. Viele junge Menschen sehen sich außerstande, ausreichend privat vorzusorgen.\n\nDas Phänomen ist keineswegs auf Großbritannien beschränkt: Ähnliche Umfragewerte werden aus Deutschland, Frankreich und anderen europäischen Ländern gemeldet, was den rentenpolitischen Reformdruck in vielen westlichen Demokratien verstärkt.",
+          "tag": "Altersvorsorge",
+          "emoji": "👥",
           "quelle": "BBC",
-          "quelle_url": "https://www.bbc.co.uk/news/articles/cr471w6ykxno?at_medium=RSS&at_campaign=rss"
+          "quelle_url": "https://www.bbc.co.uk/news/videos/clyxedeykzro?at_medium=RSS&at_campaign=rss"
         }
       ]
     },
@@ -89,36 +89,25 @@
       "stories": [
         {
           "id": "boerse-0",
-          "titel": "US-Jobwachstum bricht ein: Nur 57.000 neue Stellen im Juni",
-          "zusammenfassung": "Der amerikanische Arbeitsmarkt hat im Juni mit lediglich 57.000 neuen Stellen deutlich schwächer abgeschnitten als erwartet. Analysten hatten mit gut doppelt so vielen neuen Jobs gerechnet.",
-          "bedeutung": "Der schwache Jobsbericht erhöht den Erwartungsdruck auf die US-Notenbank Fed, die Zinsen früher als geplant zu senken.",
-          "hintergrund": "Die sogenannten Nonfarm Payrolls, der wichtigste monatliche Indikator für den US-Arbeitsmarkt, verfehlten die Konsenserwartung von rund 115.000 neuen Stellen deutlich. Die Arbeitslosenquote lag bei 4,2 Prozent.\n\nFür die Finanzmärkte ist der Bericht ein zweischneidiges Signal: Einerseits steigt die Wahrscheinlichkeit von Fed-Zinssenkungen, andererseits nähren schwache Beschäftigungsdaten Rezessionsängste, die Aktien und risikobehaftete Anlagen belasten könnten.",
-          "tag": "Fed & Arbeitsmarkt",
-          "emoji": "📉",
-          "quelle": "CNBC",
-          "quelle_url": "https://www.cnbc.com/2026/07/02/jobs-report-june-2026-.html"
-        },
-        {
-          "id": "boerse-1",
-          "titel": "US-Erwerbsbeteiligung auf 50-Jahres-Tief: Viele geben Jobsuche auf",
-          "zusammenfassung": "Die Erwerbsbeteiligungsquote in den USA ist auf den niedrigsten Stand seit 50 Jahren außerhalb der Corona-Periode gefallen. Hinter dem leichten Rückgang der Arbeitslosenquote verbirgt sich damit eine besorgniserregende Entwicklung.",
-          "bedeutung": "Wenn immer mehr Menschen aufhören, aktiv nach Arbeit zu suchen, spiegelt eine sinkende Arbeitslosenquote keine echte Erholung wider – ein Warnsignal für die Wirtschaftslage.",
-          "hintergrund": "Ökonomen betonen, dass ein Rückgang der offiziellen Arbeitslosenquote trügerisch sein kann, wenn er hauptsächlich dadurch zustande kommt, dass Erwerbslose die Suche gänzlich aufgeben. Genau dieses Muster scheint sich im Juni wiederholt zu haben.\n\nDie Kombination aus schwachem Jobwachstum, niedriger Erwerbsbeteiligung und steigender Frustration unter Stellensuchenden dürfte die Debatte über die tatsächliche Stärke der US-Wirtschaft neu entfachen und die Märkte weiter verunsichern.",
-          "tag": "US-Konjunktur",
-          "emoji": "📊",
-          "quelle": "CNBC",
-          "quelle_url": "https://www.cnbc.com/2026/07/02/job-seekers-giving-up-labor-force-participation-rate-falls-to-lowest-in-50-years-outside-of-covid-era.html"
-        },
-        {
-          "id": "boerse-2",
-          "titel": "Lagarde lässt EZB-Abgang offen – Frankreich lockt",
-          "zusammenfassung": "EZB-Präsidentin Christine Lagarde hat nicht ausgeschlossen, ihr Amt vor dem offiziellen Mandatsende aufzugeben, um in die französische Politik einzusteigen. Die Andeutung sorgt für Spekulationen über die künftige Führung der europäischen Geldpolitik.",
-          "bedeutung": "Unsicherheit über die Führung der Europäischen Zentralbank in einem konjunkturell heiklen Moment könnte die Finanzmärkte und den Euro unter Druck setzen.",
-          "hintergrund": "Lagarde gilt als eine der einflussreichsten Zentralbankerinnen weltweit. Ihr möglicher vorzeitiger Abgang würde eine komplexe Nachfolgedebatte auslösen, bei der geopolitische Interessen verschiedener EU-Staaten aufeinanderprallen dürften.\n\nGleichzeitig steht die EZB vor schwierigen zinspolitischen Entscheidungen angesichts konjunktureller Abkühlungstendenzen in der Eurozone. Ein Führungswechsel zum falschen Zeitpunkt könnte die Handlungsfähigkeit der Institution vorübergehend einschränken.",
-          "tag": "EZB-Führung",
+          "titel": "Lagarde lässt frühzeitigen EZB-Abgang offen",
+          "zusammenfassung": "EZB-Präsidentin Christine Lagarde hat es in einem öffentlichen Auftritt nicht ausgeschlossen, ihr Amt vor dem regulären Ende ihrer Amtszeit niederzulegen. Hintergrund sind Spekulationen über ein mögliches politisches Engagement in Frankreich.",
+          "bedeutung": "Jede Unsicherheit über die Führung der Europäischen Zentralbank hat unmittelbare Auswirkungen auf die Erwartungen der Finanzmärkte zu Zinsentscheidungen und geldpolitischem Kurs.",
+          "hintergrund": "Lagardes Amtszeit als EZB-Präsidentin läuft regulär noch bis Ende 2027. Ein vorzeitiger Abgang würde in einer Phase besonderer geldpolitischer Herausforderungen eine Nachfolgediskussion auslösen, die die Märkte verunsichern könnte.\n\nIn Frankreich wird Lagarde seit Jahren als potenzielle Präsidentschaftskandidatin gehandelt. Die Parlamentswahlen und der politische Umbruch der vergangenen Monate haben die Spekulationen über ihre Ambitionen erneut befeuert, was nun erstmals auch von ihr selbst nicht explizit dementiert wurde.",
+          "tag": "EZB",
           "emoji": "🏦",
           "quelle": "CNBC",
           "quelle_url": "https://www.cnbc.com/2026/07/03/christine-lagarde-ecb-france-election.html"
+        },
+        {
+          "id": "boerse-1",
+          "titel": "Fußball-WM treibt Handelsvolumen auf Prediction-Märkten",
+          "zusammenfassung": "Die laufende Fußballweltmeisterschaft hat auf Wettbörsen und Prognosemärkten zu Rekordvolumina geführt. Plattformen wie Kalshi und Polymarket verzeichneten im Juni historische Umsätze, während ein neuer Anbieter bereits zwei Milliarden Dollar umsetzte.",
+          "bedeutung": "Der Boom zeigt das rasant wachsende Interesse an Prognosemärkten als neue Finanzinstrumente, die zunehmend als Frühindikator für Ereigniswahrscheinlichkeiten wahrgenommen werden.",
+          "hintergrund": "Prognosemärkte, auf denen Nutzer auf den Ausgang realer Ereignisse wetten, haben sich von einer Nischenerscheinung zu ernsthaften Finanzplattformen entwickelt. Regulierungsbehörden in den USA und Europa beobachten den Sektor mit wachsender Aufmerksamkeit.\n\nDer WM-getriebene Anstieg verdeutlicht, wie Sportgroßereignisse als Katalysator für neue Finanzprodukte wirken können. Analysten sehen in den Prognosemärkten zunehmend ein Instrument zur Einschätzung politischer und wirtschaftlicher Risiken neben traditionellen Finanzkennzahlen.",
+          "tag": "Finanzmärkte",
+          "emoji": "📈",
+          "quelle": "CNBC",
+          "quelle_url": "https://www.cnbc.com/2026/07/04/2026-fifa-world-cup-boosts-prediction-market-volumes.html"
         }
       ]
     }
