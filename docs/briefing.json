@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-05T00:17:31.482249+00:00",
-  "datum": "Sonntag, 5. Juli 2026",
+  "generated_at": "2026-07-06T01:12:03.598183+00:00",
+  "datum": "Montag, 6. Juli 2026",
   "ressorts": [
     {
       "id": "politik",
@@ -9,36 +9,36 @@
       "stories": [
         {
           "id": "politik-0",
-          "titel": "Extremhitze lähmt Unabhängigkeitstag-Feiern in den USA",
-          "zusammenfassung": "Über 165 Millionen Menschen im Osten und Süden der Vereinigten Staaten leiden unter einer gefährlichen Hitzewelle mit Temperaturen von bis zu 38 Grad Celsius. Zahlreiche Festlichkeiten zum amerikanischen Unabhängigkeitstag wurden abgesagt oder eingeschränkt.",
-          "bedeutung": "Die Hitzewelle verdeutlicht erneut die wachsende Bedrohung durch extreme Wetterereignisse für das öffentliche Leben in westlichen Metropolen.",
-          "hintergrund": "Washington D.C. und Philadelphia gehören zu den am stärksten betroffenen Städten, wo Behörden Kühlzentren öffneten und die Bevölkerung zu Vorsicht mahnten. Meteorologen warnen, dass die Temperaturen noch mehrere Tage auf diesem gefährlichen Niveau verharren könnten.\n\nKlimaexperten ordnen solche Ereignisse in ein globales Muster ein: Hitzewellen dieser Intensität treten in Nordamerika deutlich häufiger auf als noch vor zwei Jahrzehnten, was wachsenden Druck auf Gesundheitssysteme und Infrastruktur erzeugt.",
-          "tag": "Klimakrise",
-          "emoji": "🌡️",
+          "titel": "Irans neuer Machthaber bleibt nach Vaters Tod unsichtbar",
+          "zusammenfassung": "Mojtaba Khamenei ist seit dem US-israelischen Angriff, bei dem sein Vater Ali Khamenei getötet wurde, nicht mehr öffentlich in Erscheinung getreten. Hochrangige Staatsvertreter nahmen an den Beerdigungsfeierlichkeiten in Teheran teil – ohne den designierten Nachfolger.",
+          "bedeutung": "Das Schweigen des neuen Obersten Führers nährt Spekulationen über Instabilität an der Spitze des iranischen Regimes in einer historisch kritischen Phase.",
+          "hintergrund": "Der Tod von Ayatollah Ali Khamenei infolge des US-israelischen Militärangriffs markiert einen tektonischen Einschnitt in der Geschichte der Islamischen Republik. Sein Sohn Mojtaba, der als Nachfolger gehandelt wird, hat sich seit dem Angriff vollständig aus der Öffentlichkeit zurückgezogen.\n\nDies wirft grundlegende Fragen über die Handlungsfähigkeit der iranischen Führung auf. In einer Phase, in der das Land militärisch unter Druck steht und innenpolitisch nach Orientierung sucht, könnte ein Machtvakuum an der Spitze weitreichende regionale und globale Folgen haben.",
+          "tag": "Iran Nachfolge",
+          "emoji": "🕌",
           "quelle": "BBC",
-          "quelle_url": "https://www.bbc.co.uk/news/articles/cevlkzer7vdo?at_medium=RSS&at_campaign=rss"
+          "quelle_url": "https://www.bbc.co.uk/news/articles/cevllyj9vv3o?at_medium=RSS&at_campaign=rss"
         },
         {
           "id": "politik-1",
-          "titel": "Ukraine greift Ölterminal nahe St. Petersburg an",
-          "zusammenfassung": "Die ukrainische Armee hat nach Angaben von Präsident Wolodymyr Selenskyj einen bedeutenden Ölterminal in der Nähe von St. Petersburg attackiert. Das Ziel gilt als wichtige Einnahmequelle zur Finanzierung des russischen Krieges.",
-          "bedeutung": "Der Angriff auf strategische Energieinfrastruktur im russischen Kernland markiert eine signifikante Eskalation und zeigt die wachsende Reichweite ukrainischer Operationen.",
-          "hintergrund": "Mit dem Angriff setzt die Ukraine ihre Strategie fort, russische Wirtschaftskapazitäten zu treffen, die den Kriegsapparat finanzieren. Energieexporte gehören zu den wichtigsten Devisenquellen Russlands, und Angriffe auf entsprechende Infrastruktur sollen den finanziellen Spielraum Moskaus einengen.\n\nDer Angriff in der Nähe der zweitgrößten russischen Stadt dürfte international erhebliche Aufmerksamkeit erregen, da er unterstreicht, dass der Konflikt sich nicht auf die unmittelbaren Frontgebiete beschränkt.",
-          "tag": "Ukraine-Krieg",
-          "emoji": "⚔️",
+          "titel": "Le-Pen-Urteil entscheidet über Frankreichs politische Zukunft",
+          "zusammenfassung": "Ein französisches Berufungsgericht verkündet sein Urteil im Fall Marine Le Pen, das darüber entscheidet, ob die Rechtspopulistin bei der Präsidentschaftswahl 2027 kandidieren darf. Le Pen führt derzeit alle Meinungsumfragen an.",
+          "bedeutung": "Das Verfahren könnte die Machtbalance in Frankreich fundamental verschieben und den Aufstieg des Rassemblement National zur Regierungspartei entweder besiegeln oder blockieren.",
+          "hintergrund": "Marine Le Pen war wegen Veruntreuung von EU-Mitteln erstinstanzlich verurteilt und mit einem vorläufigen Ämterverbot belegt worden. Das Berufungsverfahren gilt als eines der politisch folgenreichsten Gerichtsverfahren der jüngeren französischen Geschichte.\n\nSollte das Verbot bestätigt werden, stünde die Partei vor der Frage, wer als Kandidat an ihrer Stelle antritt. Wird Le Pen hingegen zugelassen, dürfte der Wahlkampf 2027 zu einer direkten Konfrontation zwischen der Rechtspopulistin und dem geschwächten politischen Establishment werden.",
+          "tag": "Frankreich Wahl",
+          "emoji": "⚖️",
           "quelle": "BBC",
-          "quelle_url": "https://www.bbc.co.uk/news/articles/c8j2vmzxezro?at_medium=RSS&at_campaign=rss"
+          "quelle_url": "https://www.bbc.co.uk/news/articles/clyeele4leeo?at_medium=RSS&at_campaign=rss"
         },
         {
           "id": "politik-2",
-          "titel": "Millionen trauern in Teheran um Ajatollah Chamenei",
-          "zusammenfassung": "Riesige Menschenmassen haben sich in der iranischen Hauptstadt Teheran versammelt, um vom verstorbenen Obersten Führer Ali Chamenei Abschied zu nehmen. Der Leichnam soll bis Montag aufgebahrt bleiben, bevor ein Trauerzug durch den Iran und in den Irak führt.",
-          "bedeutung": "Der Tod Chameneis stellt die bedeutendste politische Zäsur im Iran seit Jahrzehnten dar und wirft weitreichende Fragen über die künftige Führung und geopolitische Ausrichtung des Landes auf.",
-          "hintergrund": "Chamenei war seit 1989 Oberster Führer des Iran und prägte maßgeblich die innen- wie außenpolitische Agenda des Landes. Sein Tod hinterlässt ein Machtvakuum, dessen Ausfüllung innerhalb des klerikalen Establishments noch offen ist.\n\nDie internationale Gemeinschaft beobachtet die Nachfolgediskussion genau, da sie Auswirkungen auf das iranische Atomprogramm, die Beziehungen zu arabischen Nachbarn sowie auf regionale Stellvertreterkonflikte haben dürfte.",
-          "tag": "Iran",
-          "emoji": "🕌",
+          "titel": "Supertaifun Bavi trifft US-Pazifikinseln mit extremer Wucht",
+          "zusammenfassung": "Taifun Bavi ist mit Windgeschwindigkeiten von fast 290 km/h und Böen bis zu 350 km/h auf der US-Pazifikinsel Rota auf Land getroffen. Der Sturm gehört zu den stärksten, die die Region je erlebt hat.",
+          "bedeutung": "Extremwetterereignisse dieser Magnitude bedrohen nicht nur Menschenleben, sondern gefährden auch die strategisch wichtige US-Infrastruktur im Pazifik.",
+          "hintergrund": "Die Marianen-Inseln, zu denen Rota gehört, sind als nicht inkorporiertes US-Territorium auf Katastrophenschutz durch Bundesbehörden angewiesen. Taifune dieser Stärke können ganze Inseln verwüsten und die Wiederherstellung der Infrastruktur Jahre in Anspruch nehmen.\n\nDer Sturm trifft in eine Phase beschleunigten Klimawandels, in der Meteorologen weltweit eine Zunahme der Intensität tropischer Wirbelstürme dokumentieren. Für die dünn besiedelten Pazifikinseln bedeutet jedes solche Ereignis eine existenzielle Belastung.",
+          "tag": "Naturkatastrophe",
+          "emoji": "🌀",
           "quelle": "BBC",
-          "quelle_url": "https://www.bbc.co.uk/news/articles/c0ky2zen1kgo?at_medium=RSS&at_campaign=rss"
+          "quelle_url": "https://www.bbc.co.uk/news/articles/cr7xpgx50jxo?at_medium=RSS&at_campaign=rss"
         }
       ]
     },
@@ -49,36 +49,36 @@
       "stories": [
         {
           "id": "wirtschaft-0",
-          "titel": "Instagram schaltet in Indien Werbung für Kindesmissbrauch",
-          "zusammenfassung": "Recherchen der BBC haben ergeben, dass auf Instagram in Indien Anzeigen geschaltet wurden, die sexuellen Missbrauch von Kindern bewerben. Die Werbung verwendete explizite Suchbegriffe und leitete Nutzer zu entsprechenden Inhalten auf dem Messenger-Dienst Telegram weiter.",
-          "bedeutung": "Der Fall legt systemische Versäumnisse bei der Inhaltsmoderation eines der weltweit größten sozialen Netzwerke offen und erhöht den Druck auf regulatorische Eingriffe.",
-          "hintergrund": "Meta, das Mutterunternehmen von Instagram, steht seit Jahren in der Kritik, unzureichend gegen die Verbreitung schädlicher Inhalte vorzugehen. Der konkrete Nachweis bezahlter Werbung für illegale Inhalte stellt eine neue Eskalationsstufe dar.\n\nInsbesondere in Indien, wo Instagram Hunderte Millionen Nutzer zählt, sind die Konsequenzen gravierend. Die indischen Behörden haben in der Vergangenheit bereits mit Plattformsperren auf ähnliche Vorfälle reagiert, was erneute regulatorische Schritte wahrscheinlicher macht.",
-          "tag": "Kinderschutz",
-          "emoji": "🚨",
+          "titel": "EasyJet vor Übernahme: Einigung mit US-Investor in Sicht",
+          "zusammenfassung": "Die britische Billigfluggesellschaft EasyJet hat eine grundsätzliche Einigung mit dem US-Investmentfonds Castlelake über eine mögliche Übernahme erzielt, nachdem sie zuvor vier Angebote abgelehnt hatte. Details der Transaktion wurden noch nicht bekanntgegeben.",
+          "bedeutung": "Eine Übernahme durch einen amerikanischen Finanzinvestor würde die Eigentümerstruktur des europäischen Billigflugmarkts erheblich verändern.",
+          "hintergrund": "EasyJet ist einer der größten Billigfluganbieter Europas und ein zentraler Akteur im innereuropäischen Reiseverkehr. Die wiederholten Übernahmeversuche durch Castlelake spiegeln das wachsende Interesse von US-Kapitalgebern an europäischen Infrastruktur- und Mobilitätsunternehmen wider.\n\nDie Luftfahrtbranche steht unter dem Druck steigender Betriebskosten, neuer Umweltauflagen und einem sich wandelnden Reiseverhalten nach der Pandemie. Ob eine Übernahme strategische Vorteile bringt oder das Geschäftsmodell der Airline gefährdet, dürfte in den kommenden Wochen intensiv diskutiert werden.",
+          "tag": "Luftfahrt Übernahme",
+          "emoji": "✈️",
           "quelle": "BBC",
-          "quelle_url": "https://www.bbc.co.uk/news/articles/cvgm4e0316zo?at_medium=RSS&at_campaign=rss"
+          "quelle_url": "https://www.bbc.co.uk/news/articles/cgjxx7ngz51o?at_medium=RSS&at_campaign=rss"
         },
         {
           "id": "wirtschaft-1",
-          "titel": "Britische Großunternehmen kämpfen gemeinsam gegen Fehlzeiten",
-          "zusammenfassung": "Mehr als 250 der größten britischen Arbeitgeber haben sich einer Taskforce angeschlossen, die krankheitsbedingte Ausfälle am Arbeitsplatz reduzieren soll. Initiiert wurde das Bündnis von einem früheren Vorstandschef des Warenhauskonzerns John Lewis.",
-          "bedeutung": "Die Initiative adressiert ein strukturelles Problem, das nach Ansicht von Experten erhebliches ungenutztes Wachstumspotenzial in der britischen Volkswirtschaft bindet.",
-          "hintergrund": "Großbritannien verzeichnet im internationalen Vergleich überdurchschnittlich hohe Fehlzeiten, insbesondere infolge psychischer Erkrankungen und Langzeiterkrankungen nach der Covid-Pandemie. Dies belastet sowohl Unternehmen als auch staatliche Sozialkassen erheblich.\n\nDie Taskforce setzt auf betriebliche Prävention, flexible Arbeitsmodelle und frühzeitige Interventionen, um Arbeitnehmer länger im Erwerbsleben zu halten. Das Programm wird als Teil einer breiteren Debatte über Produktivität und Beschäftigung in Großbritannien diskutiert.",
-          "tag": "Arbeitswelt",
-          "emoji": "🏭",
-          "quelle": "BBC",
-          "quelle_url": "https://www.bbc.co.uk/news/articles/cq61j11r577o?at_medium=RSS&at_campaign=rss"
+          "titel": "US-Elektroautobranche zwischen Aufbruch und globalem Druck",
+          "zusammenfassung": "Steigende Fahrzeugkosten, politischer Gegenwind und aggressive Konkurrenz durch günstige chinesische Elektroautos stellen die US-amerikanische E-Auto-Industrie vor eine Zerreißprobe. Newcomer wie das von Jeff Bezos finanzierte Startup Slate Auto versuchen dennoch, den Markt neu zu definieren.",
+          "bedeutung": "Die Wettbewerbsfähigkeit der amerikanischen Elektroindustrie entscheidet mit darüber, ob die USA oder China die globale Mobilität der Zukunft prägen werden.",
+          "hintergrund": "Während die Biden-Ära großzügige Subventionen für Elektrofahrzeuge bereitgestellt hatte, hat die Trump-Regierung einen wirtschaftsnationalistischen Kurs eingeschlagen, der zwar Zölle auf chinesische Autos erhebt, aber gleichzeitig Förderprogramme für heimische Hersteller beschneidet. Das hinterlässt die Branche in einem strategischen Niemandsland.\n\nChinesische Hersteller wie BYD produzieren Elektrofahrzeuge zu Preisen, die für US-Unternehmen kaum erreichbar sind. Die Frage, ob Amerika den Anschluss an die globale Elektromobilitätswende findet oder ihn verpasst, ist nicht nur wirtschaftlicher, sondern auch geopolitischer Natur.",
+          "tag": "Elektromobilität",
+          "emoji": "🔋",
+          "quelle": "The Guardian",
+          "quelle_url": "https://www.theguardian.com/us-news/2026/jul/04/electric-cars-vehicles-united-states"
         },
         {
           "id": "wirtschaft-2",
-          "titel": "Generation Z zweifelt an der staatlichen Rente",
-          "zusammenfassung": "Junge Menschen in Großbritannien bringen dem staatlichen Rentensystem zunehmend wenig Vertrauen entgegen. Viele der unter 30-Jährigen bezweifeln, im Alter tatsächlich von staatlichen Leistungen profitieren zu können.",
-          "bedeutung": "Das schwindende Vertrauen einer ganzen Generation in staatliche Alterssicherung hat langfristige Konsequenzen für Sozialpolitik und private Altersvorsorge weit über Großbritannien hinaus.",
-          "hintergrund": "Hintergrund des Misstrauens sind Sorgen über die langfristige Finanzierbarkeit der Rente angesichts einer alternden Bevölkerung, steigender Lebenshaltungskosten und unsicherer Beschäftigungsverhältnisse in der Gig-Economy. Viele junge Menschen sehen sich außerstande, ausreichend privat vorzusorgen.\n\nDas Phänomen ist keineswegs auf Großbritannien beschränkt: Ähnliche Umfragewerte werden aus Deutschland, Frankreich und anderen europäischen Ländern gemeldet, was den rentenpolitischen Reformdruck in vielen westlichen Demokratien verstärkt.",
-          "tag": "Altersvorsorge",
-          "emoji": "👥",
+          "titel": "Wegovy als Pille: Gewichtsmedikament neu auf dem Markt",
+          "zusammenfassung": "Novo Nordisk bringt Wegovy erstmals als tägliche Tablette auf den britischen Markt, nachdem das Mittel bislang nur als Spritze erhältlich war. Das Medikament kann nun rezeptfrei in Privatapotheken erworben werden.",
+          "bedeutung": "Die Verfügbarkeit des Wirkstoffs als Pille könnte die globale Nachfrage nach Abnehmmitteln der neuen Generation erheblich ausweiten und den Pharmasektor weiter aufwerten.",
+          "hintergrund": "Die GLP-1-Rezeptoragonisten wie Semaglutid, der Wirkstoff in Wegovy, haben den Markt für Gewichtsmanagement in den letzten Jahren revolutioniert und Novo Nordisk zu einem der wertvollsten Unternehmen der Welt gemacht. Die bisherige Notwendigkeit von Injektionen stellte jedoch für viele Patienten eine Hürde dar.\n\nDie Einführung der oralen Variante in Großbritannien dürfte als Testmarkt für eine breitere internationale Einführung gelten. Gesundheitssysteme weltweit beobachten die Entwicklung genau, da Fragen der Kostenübernahme und der langfristigen Nebenwirkungen noch nicht abschließend geklärt sind.",
+          "tag": "Pharmaindustrie",
+          "emoji": "💊",
           "quelle": "BBC",
-          "quelle_url": "https://www.bbc.co.uk/news/videos/clyxedeykzro?at_medium=RSS&at_campaign=rss"
+          "quelle_url": "https://www.bbc.co.uk/news/articles/czj8w4pjd4yo?at_medium=RSS&at_campaign=rss"
         }
       ]
     },
@@ -89,23 +89,12 @@
       "stories": [
         {
           "id": "boerse-0",
-          "titel": "Lagarde lässt frühzeitigen EZB-Abgang offen",
-          "zusammenfassung": "EZB-Präsidentin Christine Lagarde hat es in einem öffentlichen Auftritt nicht ausgeschlossen, ihr Amt vor dem regulären Ende ihrer Amtszeit niederzulegen. Hintergrund sind Spekulationen über ein mögliches politisches Engagement in Frankreich.",
-          "bedeutung": "Jede Unsicherheit über die Führung der Europäischen Zentralbank hat unmittelbare Auswirkungen auf die Erwartungen der Finanzmärkte zu Zinsentscheidungen und geldpolitischem Kurs.",
-          "hintergrund": "Lagardes Amtszeit als EZB-Präsidentin läuft regulär noch bis Ende 2027. Ein vorzeitiger Abgang würde in einer Phase besonderer geldpolitischer Herausforderungen eine Nachfolgediskussion auslösen, die die Märkte verunsichern könnte.\n\nIn Frankreich wird Lagarde seit Jahren als potenzielle Präsidentschaftskandidatin gehandelt. Die Parlamentswahlen und der politische Umbruch der vergangenen Monate haben die Spekulationen über ihre Ambitionen erneut befeuert, was nun erstmals auch von ihr selbst nicht explizit dementiert wurde.",
-          "tag": "EZB",
-          "emoji": "🏦",
-          "quelle": "CNBC",
-          "quelle_url": "https://www.cnbc.com/2026/07/03/christine-lagarde-ecb-france-election.html"
-        },
-        {
-          "id": "boerse-1",
-          "titel": "Fußball-WM treibt Handelsvolumen auf Prediction-Märkten",
-          "zusammenfassung": "Die laufende Fußballweltmeisterschaft hat auf Wettbörsen und Prognosemärkten zu Rekordvolumina geführt. Plattformen wie Kalshi und Polymarket verzeichneten im Juni historische Umsätze, während ein neuer Anbieter bereits zwei Milliarden Dollar umsetzte.",
-          "bedeutung": "Der Boom zeigt das rasant wachsende Interesse an Prognosemärkten als neue Finanzinstrumente, die zunehmend als Frühindikator für Ereigniswahrscheinlichkeiten wahrgenommen werden.",
-          "hintergrund": "Prognosemärkte, auf denen Nutzer auf den Ausgang realer Ereignisse wetten, haben sich von einer Nischenerscheinung zu ernsthaften Finanzplattformen entwickelt. Regulierungsbehörden in den USA und Europa beobachten den Sektor mit wachsender Aufmerksamkeit.\n\nDer WM-getriebene Anstieg verdeutlicht, wie Sportgroßereignisse als Katalysator für neue Finanzprodukte wirken können. Analysten sehen in den Prognosemärkten zunehmend ein Instrument zur Einschätzung politischer und wirtschaftlicher Risiken neben traditionellen Finanzkennzahlen.",
-          "tag": "Finanzmärkte",
-          "emoji": "📈",
+          "titel": "Fußball-WM treibt Prognose-Märkte auf Rekordvolumen",
+          "zusammenfassung": "Die laufende Fußball-Weltmeisterschaft hat auf Prognoseplattformen wie Kalshi und Polymarket im Juni Handelsvolumina auf Rekordhöhe getrieben. Auch die neue Plattform Rothera verzeichnete allein zwei Milliarden US-Dollar Umsatz.",
+          "bedeutung": "Das explosionsartige Wachstum der Prediction Markets zeigt, dass diese als neue Anlageklasse zunehmend institutionelles und privates Kapital anziehen.",
+          "hintergrund": "Prediction Markets, auf denen Nutzer auf Ereignisse aus Sport, Politik oder Wirtschaft wetten, haben sich von Nischenprodukten zu ernstzunehmenden Finanzplattformen entwickelt. Die regulatorische Grauzone, in der viele dieser Anbieter operieren, ist dabei ein wachsendes Thema für Aufsichtsbehörden in den USA und Europa.\n\nDas Rekordvolumen während der WM belegt die Fähigkeit globaler Sportereignisse, Finanzströme zu mobilisieren, die traditionellen Wettmärkten zunehmend Konkurrenz machen. Analysten beobachten, ob dieser Trend nach dem Turnier anhält oder es sich um einen temporären Hype handelt.",
+          "tag": "Prediction Markets",
+          "emoji": "📊",
           "quelle": "CNBC",
           "quelle_url": "https://www.cnbc.com/2026/07/04/2026-fifa-world-cup-boosts-prediction-market-volumes.html"
         }
