@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-07T01:12:04.920770+00:00",
-  "datum": "Dienstag, 7. Juli 2026",
+  "generated_at": "2026-07-08T00:16:17.661435+00:00",
+  "datum": "Mittwoch, 8. Juli 2026",
   "ressorts": [
     {
       "id": "politik",
@@ -9,36 +9,36 @@
       "stories": [
         {
           "id": "politik-0",
-          "titel": "Ukraine meldet Raketenmangel nach massivem Angriff",
-          "zusammenfassung": "Russland feuerte 68 Raketen und 351 Drohnen auf die Region Kiew ab, bei dem Angriff kamen 23 Menschen ums Leben. Präsident Selenskyj warnt öffentlich vor einem kritischen Engpass bei Abfangraketen.",
-          "bedeutung": "Der Mangel an Abwehrmunition gefährdet die ukrainische Zivilbevölkerung unmittelbar und erhöht den Druck auf westliche Verbündete, die Lieferungen zu beschleunigen.",
-          "hintergrund": "Der Angriff vom Sonntag gehört zu den massivsten seit Kriegsbeginn und zeigt, dass Russland seine Drohnen- und Raketenstrategie gegen zivile Infrastruktur konsequent intensiviert. Die schiere Zahl der eingesetzten Geschosse soll die ukrainische Luftabwehr überlasten und Ressourcen erschöpfen.\n\nSelenskyjs offene Warnung vor einem Interceptor-Engpass ist ein ungewöhnlich direktes Signal an die NATO-Partner. Hinter den Kulissen läuft seit Wochen ein diplomatisches Ringen um zusätzliche Patriot-Systeme und Munition, während westliche Rüstungskapazitäten mit der Nachfrage kaum Schritt halten können.",
-          "tag": "Ukraine-Krieg",
-          "emoji": "🚀",
+          "titel": "USA greifen Iran nach Tanker-Angriff im Hormuz an",
+          "zusammenfassung": "Nach Angriffen auf Öltanker in der Straße von Hormuz haben die USA militärische Schläge gegen den Iran geflogen. Washington spricht von einer notwendigen Reaktion, Teheran droht mit entschlossenen Gegenmassnahmen.",
+          "bedeutung": "Eine direkte militärische Konfrontation zwischen den USA und dem Iran bedroht die globale Energieversorgung und könnte die geopolitische Stabilität im gesamten Nahen Osten erschüttern.",
+          "hintergrund": "Die Straße von Hormuz gilt als eine der wichtigsten Schifffahrtsrouten der Welt – rund ein Fünftel des global gehandelten Erdöls passiert täglich diesen engen Meeresarm zwischen dem Persischen Golf und dem Arabischen Meer. Angriffe auf Tanker dort haben unmittelbare Auswirkungen auf die Weltenergiepreise.\n\nDie Spannungen zwischen Washington und Teheran haben sich in den vergangenen Monaten kontinuierlich verschärft. Der jetzige Militärschlag markiert eine neue Eskalationsstufe, die internationale Beobachter mit wachsender Sorge verfolgen – nicht zuletzt angesichts der möglichen Ausweitung des Konflikts auf Verbündete beider Seiten.",
+          "tag": "Nahost-Konflikt",
+          "emoji": "⚔️",
           "quelle": "BBC",
-          "quelle_url": "https://www.bbc.co.uk/news/articles/cewqqnd7zdwo?at_medium=RSS&at_campaign=rss"
+          "quelle_url": "https://www.bbc.co.uk/news/articles/cwykq59jwpvo?at_medium=RSS&at_campaign=rss"
         },
         {
           "id": "politik-1",
-          "titel": "BBC enthüllt Identitäten russischer Foltergefängnis-Wächter",
-          "zusammenfassung": "Die BBC hat konkrete Namen von Gefängniswärtern und Beamten veröffentlicht, die in russisch kontrollierten Hafteinrichtungen in der Ukraine Gefangene misshandelt haben sollen. Ehemalige Häftlinge fordern strafrechtliche Konsequenzen.",
-          "bedeutung": "Die namentliche Identifizierung mutmaßlicher Täter schafft eine Grundlage für spätere internationale Strafverfolgung und erhöht den Druck auf Kriegsverbrechertribunale.",
-          "hintergrund": "Seit Beginn der russischen Besatzung ukrainischer Gebiete häufen sich Berichte über systematische Misshandlungen in improvisierten Haftlagern. Menschenrechtsorganisationen haben Hunderte Zeugenaussagen gesammelt, die auf koordinierte Folter und erniedrigende Behandlung hindeuten.\n\nDie Veröffentlichung konkreter Namen durch ein großes internationales Medium ist ein bedeutsamer Schritt, weil sie abstrakte Kriegsverbrechensvorwürfe an individuelle Verantwortung knüpft. Der Internationale Strafgerichtshof sowie nationale Gerichte in mehreren EU-Ländern führen bereits Ermittlungen zu ähnlichen Fällen.",
-          "tag": "Kriegsverbrechen",
-          "emoji": "⚖️",
+          "titel": "Ungarns Staatsfernsehen sendet nach Propaganda-Schock",
+          "zusammenfassung": "Das ungarische Staatsfernsehen wurde vorübergehend abgeschaltet, nachdem es sich öffentlich für jahrelange Falschinformationen entschuldigt hatte. Der Schritt gilt als Symbol für einen möglichen Bruch mit dem medienpolitischen Erbe Viktor Orbáns.",
+          "bedeutung": "Der beispiellose öffentliche Schuldeingeständnis des staatlichen Rundfunks könnte einen Wendepunkt im Kampf um Pressefreiheit und Demokratie in Ungarn markieren.",
+          "hintergrund": "Unter Viktor Orbáns jahrelanger Regierung wurde der öffentlich-rechtliche Rundfunk Ungarns zu einem Sprachrohr der Regierungspolitik ausgebaut. Kritiker und internationale Medienorganisationen dokumentierten systematisch, wie Nachrichtensendungen zu Propagandazwecken genutzt wurden.\n\nDie plötzliche Sendepause und die öffentliche Entschuldigung deuten auf tiefgreifende interne Veränderungen hin – möglicherweise ausgelöst durch politischen Druck nach Orbáns geschwächter Machtstellung. Beobachter werten dies als eines der sichtbarsten Zeichen eines gesellschaftlichen Umbruchs in Budapest.",
+          "tag": "Medienfreiheit",
+          "emoji": "📺",
           "quelle": "BBC",
-          "quelle_url": "https://www.bbc.co.uk/news/articles/cx2kkrx8jeno?at_medium=RSS&at_campaign=rss"
+          "quelle_url": "https://www.bbc.co.uk/news/articles/cgevwq1pndgo?at_medium=RSS&at_campaign=rss"
         },
         {
           "id": "politik-2",
-          "titel": "Interpol verhaftet über 1.000 Menschenhändler weltweit",
-          "zusammenfassung": "Im Rahmen einer koordinierten globalen Razzia nahm Interpol mehr als tausend Verdächtige fest und identifizierte über 2.000 Opfer oder potenzielle Opfer. Die überwiegende Mehrheit der Betroffenen sind Frauen, die zur Prostitution gezwungen wurden.",
-          "bedeutung": "Die Operation demonstriert die Reichweite transnationaler Strafverfolgung und lenkt erneut die Aufmerksamkeit auf Menschenhandel als eine der profitabelsten kriminellen Industrien weltweit.",
-          "hintergrund": "Menschenhandel gilt laut UN als das am schnellsten wachsende internationale Verbrechen und generiert jährlich Milliarden Dollar. Besonders betroffen sind Frauen und Mädchen aus wirtschaftlich schwachen Regionen Asiens, Afrikas und Lateinamerikas, die mit falschen Versprechen gelockt und dann zur Sexarbeit gezwungen werden.\n\nDie Interpol-Operation lief über mehrere Monate und umfasste Behörden aus Dutzenden Ländern. Kritiker weisen jedoch darauf hin, dass Verhaftungen allein die strukturellen Ursachen des Menschenhandels nicht bekämpfen und ein nachhaltiger Erfolg umfassendere politische Maßnahmen erfordert.",
-          "tag": "Menschenhandel",
-          "emoji": "🌐",
+          "titel": "Marine Le Pen kandidiert wieder ums französische Präsidentenamt",
+          "zusammenfassung": "Die Chefin des Rassemblement National hat offiziell ihre Kandidatur für die Präsidentschaftswahl angekündigt und will gleichzeitig ihr Urteil vor dem höchsten Gericht anfechten. Ein Gericht hatte ihr die Kandidatur unter Auflagen erlaubt.",
+          "bedeutung": "Le Pens Rückkehr auf die politische Bühne Frankreichs könnte das europäische Kräfteverhältnis erneut verschieben und rechtspopulistischen Bewegungen im gesamten Kontinent Auftrieb geben.",
+          "hintergrund": "Marine Le Pen war nach ihrer Verurteilung wegen Veruntreuung europäischer Parlamentsgelder zunächst von politischen Ämtern ausgeschlossen worden – ein Urteil, das monatelang für Unsicherheit über ihre politische Zukunft sorgte. Ein Gericht entschied nun, dass sie kandidieren darf, jedoch unter besonderen Bedingungen.\n\nFrankreich steht damit vor einem erneuten Aufeinandertreffen der politischen Lager, das weit über die Landesgrenzen hinaus Aufmerksamkeit auf sich zieht. Europa beobachtet gespannt, ob das Land den Rechtspopulismus an die Macht lässt oder eine demokratische Mehrheit dagegen formiert.",
+          "tag": "Frankreich-Wahl",
+          "emoji": "🗳️",
           "quelle": "BBC",
-          "quelle_url": "https://www.bbc.co.uk/news/articles/c5yzzzdwqjko?at_medium=RSS&at_campaign=rss"
+          "quelle_url": "https://www.bbc.co.uk/news/articles/c7vygl3zymjo?at_medium=RSS&at_campaign=rss"
         }
       ]
     },
@@ -49,36 +49,25 @@
       "stories": [
         {
           "id": "wirtschaft-0",
-          "titel": "KI-Chip-Boom katapultiert Samsungs Gewinn um 1.800 Prozent",
-          "zusammenfassung": "Der südkoreanische Technologieriese Samsung verzeichnet einen dramatischen Gewinnanstieg, der direkt auf die explodierende Nachfrage nach Halbleitern für KI-Anwendungen zurückzuführen ist. Das Angebot hinkt der Nachfrage weiter hinterher, was die Preise treibt.",
-          "bedeutung": "Die Zahlen belegen, wie der globale KI-Investitionsboom die gesamte Halbleiterbranche fundamental umstrukturiert und einzelne Konzerne zu zentralen Profiteuren macht.",
-          "hintergrund": "Seit dem Durchbruch großer Sprachmodelle und dem weltweiten Ausbau von Rechenzentren hat sich die Nachfrage nach Hochleistungs-Chips vervielfacht. Anbieter wie Samsung, TSMC und SK Hynix investieren massiv in neue Produktionskapazitäten, doch der Aufbau moderner Chipfabriken dauert Jahre.\n\nDer Engpass hat geopolitische Dimensionen: Westliche Regierungen subventionieren heimische Produktion, um Abhängigkeiten von asiatischen Lieferketten zu reduzieren. Samsungs Rekordgewinn dürfte den Druck auf Konkurrenten erhöhen und weitere Milliarden in Forschung und Kapazitätsausbau lenken.",
-          "tag": "Halbleiter",
-          "emoji": "💡",
+          "titel": "Samsungs Gewinn steigt um 1800 Prozent dank KI-Chips",
+          "zusammenfassung": "Der südkoreanische Technologiekonzern Samsung verzeichnet einen historischen Gewinnanstieg, angetrieben durch den boomenden Markt für Künstliche-Intelligenz-Halbleiter. Trotz der Rekordzahlen gaben die Aktien nach, da manche Investoren noch mehr erwartet hatten.",
+          "bedeutung": "Samsungs Zahlen belegen, wie stark der weltweite KI-Boom die Halbleiterbranche verändert – mit weitreichenden Folgen für Technologieinvestitionen und globale Lieferketten.",
+          "hintergrund": "Der Markt für spezialisierte KI-Chips ist in den vergangenen Jahren explodiert, angetrieben durch den rasanten Ausbau von Rechenzentren und großen Sprachmodellen weltweit. Samsung gehört neben dem US-Konzern Nvidia und dem taiwanischen Hersteller TSMC zu den Schlüsselakteuren in diesem Milliardenmarkt.\n\nDer Kursrückgang trotz Rekordgewinns zeigt, wie hoch die Erwartungen der Märkte mittlerweile geschraubt sind. Für Anleger und Analysten ist dies ein Warnsignal, dass die Bewertungen im Technologiesektor zunehmend unter Druck geraten könnten.",
+          "tag": "KI-Chips",
+          "emoji": "💹",
           "quelle": "BBC",
           "quelle_url": "https://www.bbc.co.uk/news/articles/c1kyy8yrpxdo?at_medium=RSS&at_campaign=rss"
         },
         {
           "id": "wirtschaft-1",
-          "titel": "Microsoft streicht 4.800 Stellen und schrumpft Xbox-Sparte",
-          "zusammenfassung": "Im Zuge einer umfassenden Umstrukturierung baut Microsoft weltweit 4.800 Arbeitsplätze ab, rund 2,1 Prozent der Belegschaft. Besonders hart trifft es die Xbox-Division, wo 1.600 Stellen sofort entfallen.",
-          "bedeutung": "Der Stellenabbau bei einem der wertvollsten Unternehmen der Welt signalisiert einen Strategieschwenk hin zu KI-Investitionen auf Kosten traditioneller Produktbereiche.",
-          "hintergrund": "Microsoft hat in den vergangenen Jahren massiv in künstliche Intelligenz investiert, darunter Milliardenzahlungen an OpenAI und die Integration von KI-Funktionen in nahezu alle Produkte. Der Umbau erfordert offenbar eine Neuverteilung interner Ressourcen.\n\nDie Xbox-Kürzungen kommen zu einem ungünstigen Zeitpunkt für die Spielesparte: Nach der teuren Aktivision-Blizzard-Übernahme kämpft Microsoft damit, die Gaming-Investitionen profitabel zu machen. Branchenbeobachter sehen in den Einschnitten ein Zeichen, dass der Konzern die Spielesparte langfristig neu positionieren will.",
-          "tag": "Tech-Stellenabbau",
-          "emoji": "📉",
+          "titel": "23andMe-Datenskandal: 47 Millionen Dollar für Betroffene",
+          "zusammenfassung": "Ein US-Gericht hat entschieden, dass der Gentest-Anbieter 23andMe rund 47 Millionen Dollar an Opfer des Datenhacks von 2023 auszahlen muss. Das Unternehmen war scharf kritisiert worden, weil genetische Profile von Millionen Nutzern in fremde Hände gerieten.",
+          "bedeutung": "Das Urteil setzt einen weitreichenden Präzedenzfall für den Umgang von Unternehmen mit hochsensiblen biometrischen und genetischen Daten ihrer Kunden.",
+          "hintergrund": "Der Hack bei 23andMe im Jahr 2023 legte offen, wie verwundbar kommerzielle DNA-Datenbanken gegenüber Cyberangriffen sind. Betroffen waren genetische Profile, die Aufschluss über Abstammung, Verwandtschaftsverhältnisse und gesundheitliche Dispositionen geben – Informationen, die als besonders schützenswert gelten.\n\nDer Fall hat eine breite Debatte über Datenschutzstandards in der Biotech- und Gesundheitsbranche ausgelöst. Regulatoren in mehreren Ländern prüfen seither, ob bestehende Gesetze ausreichen, um genetische Daten angemessen zu schützen.",
+          "tag": "Datenschutz",
+          "emoji": "🧬",
           "quelle": "BBC",
-          "quelle_url": "https://www.bbc.co.uk/news/articles/c36yy27rnpeo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "id": "wirtschaft-2",
-          "titel": "Abnehmmedikament Wegovy jetzt als Pille erhältlich",
-          "zusammenfassung": "Die Tabletten-Version des bekannten Abnehmwirkstoffs Semaglutid ist nun in britischen Apotheken ohne Rezept erhältlich. Der Hersteller des Wegovy-Injektionsstifts bringt damit eine zugänglichere Alternative auf den Markt.",
-          "bedeutung": "Die Verfügbarkeit als Pille könnte die weltweite Verbreitung von GLP-1-Medikamenten massiv beschleunigen und den ohnehin boomenden Markt für Adipositas-Therapien weiter aufheizen.",
-          "hintergrund": "Semaglutid-basierte Medikamente haben die Behandlung von Übergewicht revolutioniert und gelten als einer der bedeutendsten Pharmadurchbrüche der jüngsten Zeit. Bisher war die Anwendung jedoch auf Injektionen beschränkt, was für viele Patienten eine Hürde darstellte.\n\nDie Einführung einer oralen Form dürfte die Patientenzahlen erheblich steigern und die Lieferketten erneut belasten. Für Pharmaunternehmen wie Novo Nordisk eröffnen sich damit neue Milliardenmärkte, während Krankenkassen und Gesundheitssysteme weltweit über die Kostenübernahme debattieren.",
-          "tag": "Pharmainnovation",
-          "emoji": "💊",
-          "quelle": "BBC",
-          "quelle_url": "https://www.bbc.co.uk/news/articles/czj8w4pjd4yo?at_medium=RSS&at_campaign=rss"
+          "quelle_url": "https://www.bbc.co.uk/news/articles/cn0vnx2192vo?at_medium=RSS&at_campaign=rss"
         }
       ]
     },
@@ -89,23 +78,34 @@
       "stories": [
         {
           "id": "boerse-0",
+          "titel": "Händler wetten auf Nasdaq-100 über 30.000 Punkte",
+          "zusammenfassung": "Auf der Prognoseplattform Kalshi setzen Spekulanten mehrheitlich darauf, dass der Nasdaq-100 das Jahr 2026 oberhalb der Marke von 30.000 Punkten beendet. Die Erwartung: Nach der starken Erholung infolge des US-Iran-Konflikts dürfte das zweite Halbjahr ruhiger verlaufen.",
+          "bedeutung": "Die Markterwartungen spiegeln sowohl das wiedergewonnene Anlegervertrauen als auch die Unsicherheit über geopolitische Risiken wider, die das zweite Halbjahr prägen werden.",
+          "hintergrund": "Der Nasdaq-100 hatte nach dem Ausbruch des US-Iran-Konflikts zunächst deutlich nachgegeben, sich dann aber kräftig erholt – getrieben von starken Unternehmensergebnissen im Technologiesektor und der anhaltenden KI-Euphorie. Händler sehen im weiteren Jahresverlauf weniger Aufwärtspotenzial.\n\nPrognosemärkte wie Kalshi gewinnen als Stimmungsindikator an Bedeutung, weil dort echtes Geld auf Einschätzungen gesetzt wird. Ihre Signale werden von professionellen Investoren zunehmend als Ergänzung klassischer Marktanalysen herangezogen.",
+          "tag": "Nasdaq",
+          "emoji": "📈",
+          "quelle": "CNBC",
+          "quelle_url": "https://www.cnbc.com/2026/07/07/traders-on-kalshi-think-the-nasdaq-100-will-end-2026-above-30000.html"
+        },
+        {
+          "id": "boerse-1",
           "titel": "Bitcoin erholt sich nach Trumps Bekenntnis zu Krypto",
-          "zusammenfassung": "Nach einem kurzzeitigen Kursrückgang in Richtung 60.000 Dollar legte Bitcoin wieder zu, nachdem US-Präsident Trump sich öffentlich als überzeugter Krypto-Anhänger bezeichnete. Auslöser des Rückgangs war die Bekanntgabe von Anteilsverkäufen durch den Großinvestor Strategy.",
-          "bedeutung": "Trumps Äußerungen zeigen, wie stark politische Signale aus dem Weißen Haus die Kryptomärkte unmittelbar bewegen können.",
-          "hintergrund": "Der Bitcoin-Kurs reagiert seit Monaten besonders sensibel auf regulatorische und politische Signale aus Washington. Unter der Trump-Administration haben sich die Rahmenbedingungen für die Kryptobranche spürbar entspannt, was institutionelle Investoren ermutigt hat.\n\nDer Verkauf von Bitcoin-Beständen durch Strategy, das frühere MicroStrategy, hatte kurzfristig Sorgen über einen möglichen Ausverkauf ausgelöst. Trumps Kommentar wirkte als Gegengewicht und verdeutlicht, dass die politische Unterstützung für Kryptowährungen inzwischen ein wesentlicher Kursfaktor ist.",
-          "tag": "Kryptomärkte",
+          "zusammenfassung": "Nach einem Kursrückgang in Richtung 60.000 Dollar hat sich Bitcoin wieder stabilisiert, nachdem US-Präsident Trump sich öffentlich als überzeugten Befürworter von Kryptowährungen bezeichnete. Zuvor hatte ein Teilverkauf von Bitcoin-Beständen durch das Unternehmen Strategy für Unruhe gesorgt.",
+          "bedeutung": "Trumps Aussagen belegen einmal mehr, wie stark politische Signale aus Washington die hochvolatilen Kryptomärkte kurzfristig bewegen können.",
+          "hintergrund": "Bitcoin und andere Kryptowährungen reagieren seit Jahren sensibel auf politische Aussagen, regulatorische Ankündigungen und institutionelle Kauf- oder Verkaufsentscheidungen. Der jüngste Kursausschlag zeigt, dass der Markt trotz gewachsener Reife weiterhin anfällig für externe Impulse ist.\n\nDie Haltung der US-Regierung unter Trump gilt als entscheidend für die weitere regulatorische Entwicklung des Kryptomarkts. Ein wohlwollendes Signal aus dem Weißen Haus kann Milliarden an Kapital mobilisieren – oder bremsen.",
+          "tag": "Krypto",
           "emoji": "₿",
           "quelle": "CNBC",
           "quelle_url": "https://www.cnbc.com/2026/07/06/bitcoin-rebounds-after-trump-says-hes-become-a-big-crypto-guy.html"
         },
         {
-          "id": "boerse-1",
-          "titel": "Klarna beantragt US-Banklizenz und greift Banken an",
-          "zusammenfassung": "Der schwedische Zahlungsdienstleister Klarna hat in den USA eine Banklizenz beantragt und folgt damit einer wachsenden Welle von Fintech- und Kryptounternehmen, die ins klassische Bankgeschäft vordringen. Der Schritt gilt als strategische Erweiterung über das Ratenzahlungsmodell hinaus.",
-          "bedeutung": "Klarnas Lizenzantrag ist ein Zeichen dafür, dass die Grenze zwischen Technologieunternehmen und Finanzinstituten zunehmend verschwimmt und traditionelle Banken unter Druck geraten.",
-          "hintergrund": "Klarna hat sich durch sein Kauf-jetzt-zahl-später-Modell international einen Namen gemacht und war zuletzt mit einem Börsengang in New York in Erscheinung getreten. Eine US-Banklizenz würde dem Unternehmen erlauben, Einlagen entgegenzunehmen, Kredite zu vergeben und von staatlichen Einlagensicherungen zu profitieren.\n\nDer Vorstoß reiht sich in eine breitere Bewegung ein: Mehrere Krypto- und Fintech-Firmen versuchen derzeit, unter dem günstigeren regulatorischen Klima der Trump-Ära Banklizenzen zu erwerben. Für die etablierte Bankenbranche bedeutet dies verschärften Wettbewerb um Privatkunden und Einlagen.",
+          "id": "boerse-2",
+          "titel": "Klarna beantragt US-Banklizenz – Fintech drängt ins Kerngeschäft",
+          "zusammenfassung": "Klarna hat in den USA offiziell eine Banklizenz beantragt und folgt damit einem wachsenden Trend unter Fintech- und Kryptounternehmen. Der Schritt öffnet dem schwedischen Konzern den Zugang zu günstigeren Refinanzierungsmöglichkeiten und neuen Produktfeldern.",
+          "bedeutung": "Der Vorstoß zeigt, wie digitale Finanzanbieter klassische Bankgrenzen aufbrechen und traditionelle Kreditinstitute unter Druck setzen.",
+          "hintergrund": "Klarna hat mit seinem Ratenzahlungsmodell den europäischen und zunehmend auch den US-amerikanischen Markt geprägt. Eine vollständige Banklizenz würde dem Unternehmen ermöglichen, Einlagen entgegenzunehmen und sich unabhängiger von externen Kreditgebern zu finanzieren.\n\nDer Trend zur Banklizenz im Fintech-Sektor beschleunigt sich weltweit. Regulatoren stehen vor der Herausforderung, gleiche Wettbewerbsbedingungen zwischen etablierten Banken und neuen digitalen Akteuren zu schaffen, ohne Innovationen zu bremsen.",
           "tag": "Fintech-Banking",
-          "emoji": "🏦",
+          "emoji": "💳",
           "quelle": "CNBC",
           "quelle_url": "https://www.cnbc.com/2026/07/06/klarna-seeks-us-bank-charter-in-push-beyond-buy-now-pay-later.html"
         }
