@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-08T00:16:17.661435+00:00",
-  "datum": "Mittwoch, 8. Juli 2026",
+  "generated_at": "2026-07-09T01:06:10.176201+00:00",
+  "datum": "Donnerstag, 9. Juli 2026",
   "ressorts": [
     {
       "id": "politik",
@@ -9,36 +9,36 @@
       "stories": [
         {
           "id": "politik-0",
-          "titel": "USA greifen Iran nach Tanker-Angriff im Hormuz an",
-          "zusammenfassung": "Nach Angriffen auf Öltanker in der Straße von Hormuz haben die USA militärische Schläge gegen den Iran geflogen. Washington spricht von einer notwendigen Reaktion, Teheran droht mit entschlossenen Gegenmassnahmen.",
-          "bedeutung": "Eine direkte militärische Konfrontation zwischen den USA und dem Iran bedroht die globale Energieversorgung und könnte die geopolitische Stabilität im gesamten Nahen Osten erschüttern.",
-          "hintergrund": "Die Straße von Hormuz gilt als eine der wichtigsten Schifffahrtsrouten der Welt – rund ein Fünftel des global gehandelten Erdöls passiert täglich diesen engen Meeresarm zwischen dem Persischen Golf und dem Arabischen Meer. Angriffe auf Tanker dort haben unmittelbare Auswirkungen auf die Weltenergiepreise.\n\nDie Spannungen zwischen Washington und Teheran haben sich in den vergangenen Monaten kontinuierlich verschärft. Der jetzige Militärschlag markiert eine neue Eskalationsstufe, die internationale Beobachter mit wachsender Sorge verfolgen – nicht zuletzt angesichts der möglichen Ausweitung des Konflikts auf Verbündete beider Seiten.",
-          "tag": "Nahost-Konflikt",
-          "emoji": "⚔️",
+          "titel": "Ukraine darf Patriot-Raketen künftig selbst produzieren",
+          "zusammenfassung": "US-Präsident Trump hat angekündigt, der Ukraine eine Lizenz zur eigenständigen Herstellung von Patriot-Flugabwehrraketen zu erteilen. Das System gilt als besonders wirksam gegen russische Raketenangriffe, leidet aber unter langen Produktionsvorlaufzeiten.",
+          "bedeutung": "Die Lizenzerteilung könnte die ukrainische Luftverteidigung langfristig stärken und die Abhängigkeit von westlichen Lieferungen reduzieren.",
+          "hintergrund": "Patriot-Systeme zählen zu den effektivsten Abwehrwaffen gegen ballistische Raketen und sind für die Ukraine ein zentraler Schutzschild. Bislang war das Land vollständig auf Lieferungen aus westlichen Partnerländern angewiesen.\n\nMit einer eigenen Produktionslizenz würde die Ukraine ein Maß an Rüstungsautonomie erlangen, das strategisch weit über den aktuellen Konflikt hinausreicht. Experten betonen jedoch, dass der Aufbau entsprechender Fertigungskapazitäten Jahre in Anspruch nehmen dürfte.",
+          "tag": "Rüstung Ukraine",
+          "emoji": "🛡️",
           "quelle": "BBC",
-          "quelle_url": "https://www.bbc.co.uk/news/articles/cwykq59jwpvo?at_medium=RSS&at_campaign=rss"
+          "quelle_url": "https://www.bbc.co.uk/news/articles/ce8klree690o?at_medium=RSS&at_campaign=rss"
         },
         {
           "id": "politik-1",
-          "titel": "Ungarns Staatsfernsehen sendet nach Propaganda-Schock",
-          "zusammenfassung": "Das ungarische Staatsfernsehen wurde vorübergehend abgeschaltet, nachdem es sich öffentlich für jahrelange Falschinformationen entschuldigt hatte. Der Schritt gilt als Symbol für einen möglichen Bruch mit dem medienpolitischen Erbe Viktor Orbáns.",
-          "bedeutung": "Der beispiellose öffentliche Schuldeingeständnis des staatlichen Rundfunks könnte einen Wendepunkt im Kampf um Pressefreiheit und Demokratie in Ungarn markieren.",
-          "hintergrund": "Unter Viktor Orbáns jahrelanger Regierung wurde der öffentlich-rechtliche Rundfunk Ungarns zu einem Sprachrohr der Regierungspolitik ausgebaut. Kritiker und internationale Medienorganisationen dokumentierten systematisch, wie Nachrichtensendungen zu Propagandazwecken genutzt wurden.\n\nDie plötzliche Sendepause und die öffentliche Entschuldigung deuten auf tiefgreifende interne Veränderungen hin – möglicherweise ausgelöst durch politischen Druck nach Orbáns geschwächter Machtstellung. Beobachter werten dies als eines der sichtbarsten Zeichen eines gesellschaftlichen Umbruchs in Budapest.",
-          "tag": "Medienfreiheit",
-          "emoji": "📺",
+          "titel": "Nato-Staaten investieren 37 Milliarden in neues Raketenprogramm",
+          "zusammenfassung": "Rund ein Dutzend Nato-Mitglieder haben sich auf ein gemeinsames Raketenrüstungsprojekt im Volumen von 37 Milliarden Pfund verständigt. Großbritanniens Premierminister Starmer lud die beteiligten Staats- und Regierungschefs zu Beratungen nach Ankara ein.",
+          "bedeutung": "Das Großprojekt markiert einen weiteren Schritt der Nato hin zu einer deutlich ausgebauten kollektiven Verteidigungsarchitektur.",
+          "hintergrund": "Inmitten anhaltender Spannungen an der Ostflanke der Allianz bündeln mehrere Nato-Staaten ihre Ressourcen für ein ambitioniertes Raketenprogramm. Das Vorhaben soll sowohl die Abschreckungs- als auch die Reaktionsfähigkeit des Bündnisses erhöhen.\n\nDas Treffen in Ankara unterstreicht die wachsende Rolle der Türkei als Gastgeber sicherheitspolitischer Schlüsselgespräche innerhalb der Nato. Einzelheiten zur technischen Ausgestaltung des Programms wurden noch nicht öffentlich gemacht.",
+          "tag": "Nato Rüstung",
+          "emoji": "🪖",
           "quelle": "BBC",
-          "quelle_url": "https://www.bbc.co.uk/news/articles/cgevwq1pndgo?at_medium=RSS&at_campaign=rss"
+          "quelle_url": "https://www.bbc.co.uk/news/articles/ckg4e3lwzqzo?at_medium=RSS&at_campaign=rss"
         },
         {
           "id": "politik-2",
-          "titel": "Marine Le Pen kandidiert wieder ums französische Präsidentenamt",
-          "zusammenfassung": "Die Chefin des Rassemblement National hat offiziell ihre Kandidatur für die Präsidentschaftswahl angekündigt und will gleichzeitig ihr Urteil vor dem höchsten Gericht anfechten. Ein Gericht hatte ihr die Kandidatur unter Auflagen erlaubt.",
-          "bedeutung": "Le Pens Rückkehr auf die politische Bühne Frankreichs könnte das europäische Kräfteverhältnis erneut verschieben und rechtspopulistischen Bewegungen im gesamten Kontinent Auftrieb geben.",
-          "hintergrund": "Marine Le Pen war nach ihrer Verurteilung wegen Veruntreuung europäischer Parlamentsgelder zunächst von politischen Ämtern ausgeschlossen worden – ein Urteil, das monatelang für Unsicherheit über ihre politische Zukunft sorgte. Ein Gericht entschied nun, dass sie kandidieren darf, jedoch unter besonderen Bedingungen.\n\nFrankreich steht damit vor einem erneuten Aufeinandertreffen der politischen Lager, das weit über die Landesgrenzen hinaus Aufmerksamkeit auf sich zieht. Europa beobachtet gespannt, ob das Land den Rechtspopulismus an die Macht lässt oder eine demokratische Mehrheit dagegen formiert.",
-          "tag": "Frankreich-Wahl",
-          "emoji": "🗳️",
+          "titel": "Acht Tote nach Erdrutsch an Mädchenschule in Bangladesch",
+          "zusammenfassung": "Schwere Monsunregenfälle haben im Südosten Bangladeschs einen Erdrutsch ausgelöst, der eine Mädchenschule verschüttete und mindestens acht Menschenleben forderte. Rettungskräfte bargen Leichen aus den Schlammassen und suchten weiter nach Überlebenden.",
+          "bedeutung": "Die Katastrophe verdeutlicht die akute Verwundbarkeit dicht besiedelter Monsunregionen gegenüber klimabedingten Extremereignissen.",
+          "hintergrund": "Bangladesch gehört zu den Ländern, die am stärksten von den Folgen des Klimawandels betroffen sind. Jährlich wiederkehrende Überschwemmungen und Erdrutsche fordern zahlreiche Todesopfer, insbesondere in den Hügelregionen des Südostens.\n\nDie Schule war zum Zeitpunkt des Unglücks in Betrieb, was die Opferzahl unter den Schülerinnen besonders tragisch macht. Hilfsorganisationen und Behörden koordinieren laufende Rettungsmaßnahmen unter schwierigen Wetterbedingungen.",
+          "tag": "Naturkatastrophe",
+          "emoji": "🌧️",
           "quelle": "BBC",
-          "quelle_url": "https://www.bbc.co.uk/news/articles/c7vygl3zymjo?at_medium=RSS&at_campaign=rss"
+          "quelle_url": "https://www.bbc.co.uk/news/articles/cx2wkzww20ro?at_medium=RSS&at_campaign=rss"
         }
       ]
     },
@@ -49,22 +49,33 @@
       "stories": [
         {
           "id": "wirtschaft-0",
-          "titel": "Samsungs Gewinn steigt um 1800 Prozent dank KI-Chips",
-          "zusammenfassung": "Der südkoreanische Technologiekonzern Samsung verzeichnet einen historischen Gewinnanstieg, angetrieben durch den boomenden Markt für Künstliche-Intelligenz-Halbleiter. Trotz der Rekordzahlen gaben die Aktien nach, da manche Investoren noch mehr erwartet hatten.",
-          "bedeutung": "Samsungs Zahlen belegen, wie stark der weltweite KI-Boom die Halbleiterbranche verändert – mit weitreichenden Folgen für Technologieinvestitionen und globale Lieferketten.",
-          "hintergrund": "Der Markt für spezialisierte KI-Chips ist in den vergangenen Jahren explodiert, angetrieben durch den rasanten Ausbau von Rechenzentren und großen Sprachmodellen weltweit. Samsung gehört neben dem US-Konzern Nvidia und dem taiwanischen Hersteller TSMC zu den Schlüsselakteuren in diesem Milliardenmarkt.\n\nDer Kursrückgang trotz Rekordgewinns zeigt, wie hoch die Erwartungen der Märkte mittlerweile geschraubt sind. Für Anleger und Analysten ist dies ein Warnsignal, dass die Bewertungen im Technologiesektor zunehmend unter Druck geraten könnten.",
-          "tag": "KI-Chips",
-          "emoji": "💹",
+          "titel": "KI-Boom treibt San Franciscos Immobilienpreise auf Rekordhöhe",
+          "zusammenfassung": "Der Zuzug hochbezahlter Arbeitnehmerinnen und Arbeitnehmer aus der KI-Branche hat die Immobilienpreise in San Francisco auf einen historischen Höchststand getrieben. Der Medianpreis für ein Haus liegt laut aktuellen Zahlen bei 1,7 Millionen US-Dollar.",
+          "bedeutung": "Die Entwicklung zeigt exemplarisch, wie der KI-Boom soziale Ungleichgewichte in urbanen Zentren verschärft.",
+          "hintergrund": "San Francisco war in den vergangenen Jahren von einer Abwanderungswelle geprägt, die durch die Corona-Pandemie und steigende Kriminalitätsraten befeuert wurde. Der rapide Aufschwung der KI-Industrie kehrt diesen Trend nun offenbar um und beschleunigt eine neue Gentrifizierungswelle.\n\nKritikerinnen und Kritiker warnen, dass der Preisanstieg breite Bevölkerungsschichten aus der Stadt verdrängt und soziale Spannungen weiter verschärft. Stadtplaner stehen vor der Herausforderung, bezahlbaren Wohnraum zu schaffen, ohne den wirtschaftlichen Schwung zu bremsen.",
+          "tag": "KI Immobilien",
+          "emoji": "🏠",
           "quelle": "BBC",
-          "quelle_url": "https://www.bbc.co.uk/news/articles/c1kyy8yrpxdo?at_medium=RSS&at_campaign=rss"
+          "quelle_url": "https://www.bbc.co.uk/news/articles/c9q29j47v9ro?at_medium=RSS&at_campaign=rss"
         },
         {
           "id": "wirtschaft-1",
-          "titel": "23andMe-Datenskandal: 47 Millionen Dollar für Betroffene",
-          "zusammenfassung": "Ein US-Gericht hat entschieden, dass der Gentest-Anbieter 23andMe rund 47 Millionen Dollar an Opfer des Datenhacks von 2023 auszahlen muss. Das Unternehmen war scharf kritisiert worden, weil genetische Profile von Millionen Nutzern in fremde Hände gerieten.",
-          "bedeutung": "Das Urteil setzt einen weitreichenden Präzedenzfall für den Umgang von Unternehmen mit hochsensiblen biometrischen und genetischen Daten ihrer Kunden.",
-          "hintergrund": "Der Hack bei 23andMe im Jahr 2023 legte offen, wie verwundbar kommerzielle DNA-Datenbanken gegenüber Cyberangriffen sind. Betroffen waren genetische Profile, die Aufschluss über Abstammung, Verwandtschaftsverhältnisse und gesundheitliche Dispositionen geben – Informationen, die als besonders schützenswert gelten.\n\nDer Fall hat eine breite Debatte über Datenschutzstandards in der Biotech- und Gesundheitsbranche ausgelöst. Regulatoren in mehreren Ländern prüfen seither, ob bestehende Gesetze ausreichen, um genetische Daten angemessen zu schützen.",
-          "tag": "Datenschutz",
+          "titel": "Meta nutzt öffentliche Instagram-Fotos für KI-Training",
+          "zusammenfassung": "Meta hat angekündigt, öffentlich zugängliche Profilbilder auf Instagram für die Erstellung von KI-generierten Bildern zu verwenden. Nutzerinnen und Nutzer können zwar widersprechen, doch Datenschützer kritisieren das Vorgehen als grundlegend problematisch.",
+          "bedeutung": "Der Schritt setzt einen weitreichenden Präzedenzfall für den Umgang von Plattformen mit nutzergenerierten Inhalten im KI-Zeitalter.",
+          "hintergrund": "Die Entscheidung des Konzerns reiht sich in eine wachsende Debatte über die ethischen und rechtlichen Grenzen beim Einsatz öffentlicher Daten für das Training von KI-Modellen ein. Datenschutzorganisationen bezeichnen das Opt-out-Modell als unzureichend.\n\nDie Reaktion der Regulierungsbehörden, insbesondere in der Europäischen Union, bleibt abzuwarten. Meta hat in der Vergangenheit bereits mehrfach mit europäischen Datenschutzbehörden in Konflikt geraten und empfindliche Bußgelder zahlen müssen.",
+          "tag": "Datenschutz KI",
+          "emoji": "📸",
+          "quelle": "BBC",
+          "quelle_url": "https://www.bbc.co.uk/news/articles/cp9lee19y1yo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "id": "wirtschaft-2",
+          "titel": "23andMe-Datenpanne: Opfer erhalten 47-Millionen-Dollar-Vergleich",
+          "zusammenfassung": "Ein US-Gericht hat eine Entschädigungszahlung von 47 Millionen Dollar für die Opfer des massiven Datenhacks bei dem Gentest-Unternehmen 23andMe aus dem Jahr 2023 genehmigt. Der Angriff hatte genetische und persönliche Daten von Millionen Nutzern kompromittiert.",
+          "bedeutung": "Das Urteil setzt ein Signal für den Umgang mit dem Missbrauch hochsensibler Gesundheits- und Biodaten und könnte Maßstäbe für künftige Fälle setzen.",
+          "hintergrund": "Der Hack bei 23andMe galt als einer der folgenreichsten Datensicherheitsvorfälle im Bereich der Gesundheitstechnologie, da genetische Informationen zu den sensibelsten persönlichen Daten überhaupt zählen. Millionen von Kundinnen und Kunden weltweit waren betroffen.\n\nDas Unternehmen hatte im Nachgang der Attacke erhebliche Kritik für unzureichende Sicherheitsmaßnahmen einstecken müssen. Der nun genehmigte Vergleich schließt ein mehrstufiges Klageverfahren betroffener Nutzgruppen ab, lässt aber regulatorische Nachfolgefragen offen.",
+          "tag": "Datensicherheit",
           "emoji": "🧬",
           "quelle": "BBC",
           "quelle_url": "https://www.bbc.co.uk/news/articles/cn0vnx2192vo?at_medium=RSS&at_campaign=rss"
@@ -78,36 +89,36 @@
       "stories": [
         {
           "id": "boerse-0",
-          "titel": "Händler wetten auf Nasdaq-100 über 30.000 Punkte",
-          "zusammenfassung": "Auf der Prognoseplattform Kalshi setzen Spekulanten mehrheitlich darauf, dass der Nasdaq-100 das Jahr 2026 oberhalb der Marke von 30.000 Punkten beendet. Die Erwartung: Nach der starken Erholung infolge des US-Iran-Konflikts dürfte das zweite Halbjahr ruhiger verlaufen.",
-          "bedeutung": "Die Markterwartungen spiegeln sowohl das wiedergewonnene Anlegervertrauen als auch die Unsicherheit über geopolitische Risiken wider, die das zweite Halbjahr prägen werden.",
-          "hintergrund": "Der Nasdaq-100 hatte nach dem Ausbruch des US-Iran-Konflikts zunächst deutlich nachgegeben, sich dann aber kräftig erholt – getrieben von starken Unternehmensergebnissen im Technologiesektor und der anhaltenden KI-Euphorie. Händler sehen im weiteren Jahresverlauf weniger Aufwärtspotenzial.\n\nPrognosemärkte wie Kalshi gewinnen als Stimmungsindikator an Bedeutung, weil dort echtes Geld auf Einschätzungen gesetzt wird. Ihre Signale werden von professionellen Investoren zunehmend als Ergänzung klassischer Marktanalysen herangezogen.",
-          "tag": "Nasdaq",
-          "emoji": "📈",
+          "titel": "Fed-Protokoll zeigt Uneinigkeit über künftigen Zinskurs",
+          "zusammenfassung": "Die veröffentlichten Sitzungsminuten der US-Notenbank vom Juni zeigen, dass die Mitglieder des Offenmarktausschusses tief gespalten über die weitere Richtung der Geldpolitik sind. Einige Vertreter plädierten für baldige Zinssenkungen, andere für anhaltende Vorsicht.",
+          "bedeutung": "Die Uneinigkeit im Fed-Gremium schürt Unsicherheit an den Märkten und macht den geldpolitischen Ausblick für Investoren schwer kalkulierbar.",
+          "hintergrund": "Die Notenbank befindet sich in einem Dilemma: Einerseits drücken hartnäckige Inflationstendenzen auf weitere Zinssenkungen, andererseits signalisieren Konjunkturdaten eine robustere Wirtschaft als erwartet. Historisch gesehen hat die Fed selten nur eine einzelne Zinsänderung vorgenommen, bevor sie die Richtung wieder korrigierte.\n\nMarktbeobachter werten die Protokolle als Hinweis darauf, dass eine klare geldpolitische Kursänderung frühestens im Herbst zu erwarten ist. Die Unsicherheit dürfte die Volatilität an Anleihe- und Aktienmärkten in den kommenden Wochen erhöhen.",
+          "tag": "Fed Zinspolitik",
+          "emoji": "🏦",
           "quelle": "CNBC",
-          "quelle_url": "https://www.cnbc.com/2026/07/07/traders-on-kalshi-think-the-nasdaq-100-will-end-2026-above-30000.html"
+          "quelle_url": "https://www.cnbc.com/2026/07/08/fed-minutes-june-2026-.html"
         },
         {
           "id": "boerse-1",
-          "titel": "Bitcoin erholt sich nach Trumps Bekenntnis zu Krypto",
-          "zusammenfassung": "Nach einem Kursrückgang in Richtung 60.000 Dollar hat sich Bitcoin wieder stabilisiert, nachdem US-Präsident Trump sich öffentlich als überzeugten Befürworter von Kryptowährungen bezeichnete. Zuvor hatte ein Teilverkauf von Bitcoin-Beständen durch das Unternehmen Strategy für Unruhe gesorgt.",
-          "bedeutung": "Trumps Aussagen belegen einmal mehr, wie stark politische Signale aus Washington die hochvolatilen Kryptomärkte kurzfristig bewegen können.",
-          "hintergrund": "Bitcoin und andere Kryptowährungen reagieren seit Jahren sensibel auf politische Aussagen, regulatorische Ankündigungen und institutionelle Kauf- oder Verkaufsentscheidungen. Der jüngste Kursausschlag zeigt, dass der Markt trotz gewachsener Reife weiterhin anfällig für externe Impulse ist.\n\nDie Haltung der US-Regierung unter Trump gilt als entscheidend für die weitere regulatorische Entwicklung des Kryptomarkts. Ein wohlwollendes Signal aus dem Weißen Haus kann Milliarden an Kapital mobilisieren – oder bremsen.",
-          "tag": "Krypto",
-          "emoji": "₿",
+          "titel": "Hormuzstraße: Normalisierung des Schiffsverkehrs erst 2027",
+          "zusammenfassung": "Händler auf der Prognoseplattform Kalshi gehen davon aus, dass der Schiffsverkehr durch die strategisch wichtige Straße von Hormuz frühestens 2027 wieder normale Ausmaße erreichen wird. Die Wahrscheinlichkeit einer Normalisierung bis Dezember 2026 wird nur noch mit 43 Prozent beziffert.",
+          "bedeutung": "Die anhaltende Störung einer der bedeutendsten Schifffahrtsrouten der Welt birgt erhebliche Risiken für globale Energielieferketten und Rohstoffpreise.",
+          "hintergrund": "Die Straße von Hormuz ist eine der meistbefahrenen Seerouten weltweit und ein zentraler Korridor für den Transport von Öl und Flüssiggas aus dem Persischen Golf. Seit den Spannungen im Zuge des US-Iran-Konflikts ist das Verkehrsaufkommen deutlich eingeschränkt.\n\nDie Einschätzungen von Prognosemärkten wie Kalshi gelten als Frühindikator für kollektive Markterwartungen. Ein bis 2027 anhaltend reduzierter Durchsatz dürfte die Energiemärkte weiterhin belasten und Importnationen in Europa sowie Asien vor erhebliche Versorgungsherausforderungen stellen.",
+          "tag": "Rohstoffe Energie",
+          "emoji": "🛢️",
           "quelle": "CNBC",
-          "quelle_url": "https://www.cnbc.com/2026/07/06/bitcoin-rebounds-after-trump-says-hes-become-a-big-crypto-guy.html"
+          "quelle_url": "https://www.cnbc.com/2026/07/08/kalshi-traders-think-hormuz-traffic-wont-return-to-normal-this-year.html"
         },
         {
           "id": "boerse-2",
-          "titel": "Klarna beantragt US-Banklizenz – Fintech drängt ins Kerngeschäft",
-          "zusammenfassung": "Klarna hat in den USA offiziell eine Banklizenz beantragt und folgt damit einem wachsenden Trend unter Fintech- und Kryptounternehmen. Der Schritt öffnet dem schwedischen Konzern den Zugang zu günstigeren Refinanzierungsmöglichkeiten und neuen Produktfeldern.",
-          "bedeutung": "Der Vorstoß zeigt, wie digitale Finanzanbieter klassische Bankgrenzen aufbrechen und traditionelle Kreditinstitute unter Druck setzen.",
-          "hintergrund": "Klarna hat mit seinem Ratenzahlungsmodell den europäischen und zunehmend auch den US-amerikanischen Markt geprägt. Eine vollständige Banklizenz würde dem Unternehmen ermöglichen, Einlagen entgegenzunehmen und sich unabhängiger von externen Kreditgebern zu finanzieren.\n\nDer Trend zur Banklizenz im Fintech-Sektor beschleunigt sich weltweit. Regulatoren stehen vor der Herausforderung, gleiche Wettbewerbsbedingungen zwischen etablierten Banken und neuen digitalen Akteuren zu schaffen, ohne Innovationen zu bremsen.",
-          "tag": "Fintech-Banking",
-          "emoji": "💳",
+          "titel": "Nasdaq-100 soll 2026 über 30.000 Punkte schließen",
+          "zusammenfassung": "Spekulanten auf der Prognoseplattform Kalshi erwarten mehrheitlich, dass der Nasdaq-100 das Jahr 2026 oberhalb der Marke von 30.000 Punkten beenden wird. Gleichzeitig rechnen Händler damit, dass die Rally im zweiten Halbjahr an Schwung verliert.",
+          "bedeutung": "Die Markteinschätzungen signalisieren anhaltenden Optimismus für Technologiewerte, jedoch mit deutlich gedämpften Erwartungen nach dem starken ersten Halbjahr.",
+          "hintergrund": "Der Nasdaq-100 hatte nach dem vorübergehenden Einbruch im Zuge des US-Iran-Konflikts eine bemerkenswerte Erholung hingelegt, getrieben vor allem durch starke Gewinne im KI- und Technologiesektor. Die Indexstände bewegen sich aktuell auf historisch hohem Niveau.\n\nAnalysten warnen jedoch vor Bewertungsrisiken, sollten die Unternehmensgewinne im zweiten Halbjahr hinter den hohen Erwartungen zurückbleiben. Die Debatte über eine mögliche Überhitzung des KI-Segments bleibt ein zentrales Thema an den Finanzmärkten.",
+          "tag": "Nasdaq Technologie",
+          "emoji": "📈",
           "quelle": "CNBC",
-          "quelle_url": "https://www.cnbc.com/2026/07/06/klarna-seeks-us-bank-charter-in-push-beyond-buy-now-pay-later.html"
+          "quelle_url": "https://www.cnbc.com/2026/07/07/traders-on-kalshi-think-the-nasdaq-100-will-end-2026-above-30000.html"
         }
       ]
     }
