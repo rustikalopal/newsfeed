@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-09T01:06:10.176201+00:00",
-  "datum": "Donnerstag, 9. Juli 2026",
+  "generated_at": "2026-07-10T01:03:27.222212+00:00",
+  "datum": "Freitag, 10. Juli 2026",
   "ressorts": [
     {
       "id": "politik",
@@ -9,36 +9,36 @@
       "stories": [
         {
           "id": "politik-0",
-          "titel": "Ukraine darf Patriot-Raketen künftig selbst produzieren",
-          "zusammenfassung": "US-Präsident Trump hat angekündigt, der Ukraine eine Lizenz zur eigenständigen Herstellung von Patriot-Flugabwehrraketen zu erteilen. Das System gilt als besonders wirksam gegen russische Raketenangriffe, leidet aber unter langen Produktionsvorlaufzeiten.",
-          "bedeutung": "Die Lizenzerteilung könnte die ukrainische Luftverteidigung langfristig stärken und die Abhängigkeit von westlichen Lieferungen reduzieren.",
-          "hintergrund": "Patriot-Systeme zählen zu den effektivsten Abwehrwaffen gegen ballistische Raketen und sind für die Ukraine ein zentraler Schutzschild. Bislang war das Land vollständig auf Lieferungen aus westlichen Partnerländern angewiesen.\n\nMit einer eigenen Produktionslizenz würde die Ukraine ein Maß an Rüstungsautonomie erlangen, das strategisch weit über den aktuellen Konflikt hinausreicht. Experten betonen jedoch, dass der Aufbau entsprechender Fertigungskapazitäten Jahre in Anspruch nehmen dürfte.",
-          "tag": "Rüstung Ukraine",
-          "emoji": "🛡️",
+          "titel": "USA und Iran liefern sich Schlagabtausch nach Khameneis Beerdigung",
+          "zusammenfassung": "Das US-Zentralkommando meldete Angriffe auf rund 90 iranische Ziele, während Teheran 14 Todesopfer seit Dienstag beklagte. Die Eskalation fällt in eine Phase höchster innenpolitischer Instabilität im Iran.",
+          "bedeutung": "Ein militärischer Flächenbrand zwischen den USA und dem Iran hätte unmittelbare Folgen für die globale Energieversorgung und die Sicherheitsarchitektur des gesamten Nahen Ostens.",
+          "hintergrund": "Nach dem Tod des Obersten Führers Ali Khamenei befindet sich der Iran in einer historisch einmaligen Übergangsphase. Washingtons Entscheidung, in dieser Situation militärisch zu eskalieren, wird international als kalkuliertes Druckmittel gewertet, das die Nachfolgediskussion in Teheran direkt beeinflusst.\n\nDie Angriffsserie markiert eine neue Qualität der Konfrontation: Anstelle punktueller Vergeltungsschläge spricht Centcom von einem systematischen Kampagnenmuster. Diplomatische Kanäle gelten als weitgehend eingefroren, was das Risiko einer unkontrollierten Eskalation erhöht.",
+          "tag": "US-Iran-Konflikt",
+          "emoji": "💥",
           "quelle": "BBC",
-          "quelle_url": "https://www.bbc.co.uk/news/articles/ce8klree690o?at_medium=RSS&at_campaign=rss"
+          "quelle_url": "https://www.bbc.co.uk/news/articles/cz75zjj5wp8o?at_medium=RSS&at_campaign=rss"
         },
         {
           "id": "politik-1",
-          "titel": "Nato-Staaten investieren 37 Milliarden in neues Raketenprogramm",
-          "zusammenfassung": "Rund ein Dutzend Nato-Mitglieder haben sich auf ein gemeinsames Raketenrüstungsprojekt im Volumen von 37 Milliarden Pfund verständigt. Großbritanniens Premierminister Starmer lud die beteiligten Staats- und Regierungschefs zu Beratungen nach Ankara ein.",
-          "bedeutung": "Das Großprojekt markiert einen weiteren Schritt der Nato hin zu einer deutlich ausgebauten kollektiven Verteidigungsarchitektur.",
-          "hintergrund": "Inmitten anhaltender Spannungen an der Ostflanke der Allianz bündeln mehrere Nato-Staaten ihre Ressourcen für ein ambitioniertes Raketenprogramm. Das Vorhaben soll sowohl die Abschreckungs- als auch die Reaktionsfähigkeit des Bündnisses erhöhen.\n\nDas Treffen in Ankara unterstreicht die wachsende Rolle der Türkei als Gastgeber sicherheitspolitischer Schlüsselgespräche innerhalb der Nato. Einzelheiten zur technischen Ausgestaltung des Programms wurden noch nicht öffentlich gemacht.",
-          "tag": "Nato Rüstung",
-          "emoji": "🪖",
+          "titel": "Ukraine greift russische Schiffe vor Krim an",
+          "zusammenfassung": "Ukrainische Streitkräfte attackierten mehrere russische Schiffe in der Nähe der Krim und zielten dabei gezielt auf Treibstofflieferungen und Versorgungsrouten. Der Angriff gilt als Teil einer breiteren Strategie, die besetzte Halbinsel wirtschaftlich und logistisch auszuhungern.",
+          "bedeutung": "Gelingt es der Ukraine, die Versorgungskorridore zur Krim dauerhaft zu unterbrechen, könnte das die Kampffähigkeit russischer Truppen im Süden des Landes spürbar schwächen.",
+          "hintergrund": "Die ukrainische Marine und ihre Drohneneinheiten haben in den vergangenen Monaten zunehmend maritime Ziele im Schwarzen Meer ins Visier genommen. Die Angriffe auf Treibstoffrouten folgen einer Logik der indirekten Kriegführung: Statt teurer Frontalangriffe sollen kritische Infrastrukturverbindungen zermürbt werden.\n\nRussland reagierte mit verstärkter Luftabwehr im Küstenbereich, doch die ukrainische Seite nutzt günstige, schwer abzufangende Seadrohnen. Westliche Militäranalysten sehen in der neuen Angriffsstrategie einen Hinweis darauf, dass Kiew die Initiative im maritimen Raum zurückgewinnen will.",
+          "tag": "Ukraine-Krieg",
+          "emoji": "🚢",
           "quelle": "BBC",
-          "quelle_url": "https://www.bbc.co.uk/news/articles/ckg4e3lwzqzo?at_medium=RSS&at_campaign=rss"
+          "quelle_url": "https://www.bbc.co.uk/news/articles/c70yd1g67z5o?at_medium=RSS&at_campaign=rss"
         },
         {
           "id": "politik-2",
-          "titel": "Acht Tote nach Erdrutsch an Mädchenschule in Bangladesch",
-          "zusammenfassung": "Schwere Monsunregenfälle haben im Südosten Bangladeschs einen Erdrutsch ausgelöst, der eine Mädchenschule verschüttete und mindestens acht Menschenleben forderte. Rettungskräfte bargen Leichen aus den Schlammassen und suchten weiter nach Überlebenden.",
-          "bedeutung": "Die Katastrophe verdeutlicht die akute Verwundbarkeit dicht besiedelter Monsunregionen gegenüber klimabedingten Extremereignissen.",
-          "hintergrund": "Bangladesch gehört zu den Ländern, die am stärksten von den Folgen des Klimawandels betroffen sind. Jährlich wiederkehrende Überschwemmungen und Erdrutsche fordern zahlreiche Todesopfer, insbesondere in den Hügelregionen des Südostens.\n\nDie Schule war zum Zeitpunkt des Unglücks in Betrieb, was die Opferzahl unter den Schülerinnen besonders tragisch macht. Hilfsorganisationen und Behörden koordinieren laufende Rettungsmaßnahmen unter schwierigen Wetterbedingungen.",
-          "tag": "Naturkatastrophe",
-          "emoji": "🌧️",
+          "titel": "Hormuz-Route: Öl- und Gastanker weichen nach Angriffen aus",
+          "zusammenfassung": "Schiffsverkehrsdaten zeigen einen deutlichen Rückgang von Tankern und Frachtschiffen auf der von den USA unterstützten Alternativroute durch die Straße von Hormuz. Die jüngsten Angriffe haben die ohnehin angespannte Lage im Persischen Golf weiter verschärft.",
+          "bedeutung": "Die Straße von Hormuz ist eine der wichtigsten Engstellen der globalen Energieversorgung – jede nachhaltige Störung des Transitverkehrs treibt die Öl- und Gaspreise weltweit in die Höhe.",
+          "hintergrund": "Rund 20 Prozent des weltweit gehandelten Rohöls passieren täglich die Straße von Hormuz. Schon kurzfristige Unterbrechungen schlagen sich unmittelbar in den Energiepreisen auf den Weltmärkten nieder und belasten besonders importabhängige Volkswirtschaften in Europa und Asien.\n\nHandelsplattformen für Vorhersagemärkte taxieren die Wahrscheinlichkeit einer vollständigen Normalisierung des Schiffsverkehrs bis Ende 2026 inzwischen nur noch auf rund 43 Prozent. Analysten warnen, dass anhaltende Sicherheitsrisiken Reedereien dauerhaft zu Umwegen via Kap der Guten Hoffnung zwingen könnten – mit erheblichen Folgekosten für den globalen Handel.",
+          "tag": "Hormuz-Krise",
+          "emoji": "🛢️",
           "quelle": "BBC",
-          "quelle_url": "https://www.bbc.co.uk/news/articles/cx2wkzww20ro?at_medium=RSS&at_campaign=rss"
+          "quelle_url": "https://www.bbc.co.uk/news/articles/c621k5r8764o?at_medium=RSS&at_campaign=rss"
         }
       ]
     },
@@ -49,36 +49,36 @@
       "stories": [
         {
           "id": "wirtschaft-0",
-          "titel": "KI-Boom treibt San Franciscos Immobilienpreise auf Rekordhöhe",
-          "zusammenfassung": "Der Zuzug hochbezahlter Arbeitnehmerinnen und Arbeitnehmer aus der KI-Branche hat die Immobilienpreise in San Francisco auf einen historischen Höchststand getrieben. Der Medianpreis für ein Haus liegt laut aktuellen Zahlen bei 1,7 Millionen US-Dollar.",
-          "bedeutung": "Die Entwicklung zeigt exemplarisch, wie der KI-Boom soziale Ungleichgewichte in urbanen Zentren verschärft.",
-          "hintergrund": "San Francisco war in den vergangenen Jahren von einer Abwanderungswelle geprägt, die durch die Corona-Pandemie und steigende Kriminalitätsraten befeuert wurde. Der rapide Aufschwung der KI-Industrie kehrt diesen Trend nun offenbar um und beschleunigt eine neue Gentrifizierungswelle.\n\nKritikerinnen und Kritiker warnen, dass der Preisanstieg breite Bevölkerungsschichten aus der Stadt verdrängt und soziale Spannungen weiter verschärft. Stadtplaner stehen vor der Herausforderung, bezahlbaren Wohnraum zu schaffen, ohne den wirtschaftlichen Schwung zu bremsen.",
-          "tag": "KI Immobilien",
-          "emoji": "🏠",
+          "titel": "Bank of England: Chefvolkswirt hält Zinserhöhung für nötig",
+          "zusammenfassung": "Der Chefvolkswirt der Bank of England hat sich überraschend für eine Zinserhöhung noch in diesem Jahr ausgesprochen. Er begründete dies mit hartnäckigem Inflationsdruck und einem gleichzeitig verlangsamten Wirtschaftswachstum.",
+          "bedeutung": "Ein Kurswechsel der Bank of England würde britische Verbraucher und Unternehmen nach langer Hochzinsphase erneut belasten und könnte andere Zentralbanken zu einer Neubewertung ihrer eigenen geldpolitischen Pläne veranlassen.",
+          "hintergrund": "Großbritannien kämpft seit Monaten mit einer Inflation, die zäher ist als in vergleichbaren europäischen Volkswirtschaften. Lohnwachstum im Dienstleistungssektor und steigende Energiekosten – nicht zuletzt durch die Hormuz-Spannungen befeuert – erschweren der Notenbank die erhoffte geldpolitische Entspannung.\n\nDass sich ausgerechnet der Chefvolkswirt – traditionell eine prägende Stimme für die Mehrheitsentscheidung des geldpolitischen Ausschusses – öffentlich für eine Erhöhung ausspricht, gilt als starkes Signal. Marktbeobachter rechnen nun mit einem intensivierten Ringen innerhalb des Ausschusses bei der nächsten Sitzung.",
+          "tag": "Geldpolitik",
+          "emoji": "🏦",
           "quelle": "BBC",
-          "quelle_url": "https://www.bbc.co.uk/news/articles/c9q29j47v9ro?at_medium=RSS&at_campaign=rss"
+          "quelle_url": "https://www.bbc.co.uk/news/articles/c932ed8nv75o?at_medium=RSS&at_campaign=rss"
         },
         {
           "id": "wirtschaft-1",
-          "titel": "Meta nutzt öffentliche Instagram-Fotos für KI-Training",
-          "zusammenfassung": "Meta hat angekündigt, öffentlich zugängliche Profilbilder auf Instagram für die Erstellung von KI-generierten Bildern zu verwenden. Nutzerinnen und Nutzer können zwar widersprechen, doch Datenschützer kritisieren das Vorgehen als grundlegend problematisch.",
-          "bedeutung": "Der Schritt setzt einen weitreichenden Präzedenzfall für den Umgang von Plattformen mit nutzergenerierten Inhalten im KI-Zeitalter.",
-          "hintergrund": "Die Entscheidung des Konzerns reiht sich in eine wachsende Debatte über die ethischen und rechtlichen Grenzen beim Einsatz öffentlicher Daten für das Training von KI-Modellen ein. Datenschutzorganisationen bezeichnen das Opt-out-Modell als unzureichend.\n\nDie Reaktion der Regulierungsbehörden, insbesondere in der Europäischen Union, bleibt abzuwarten. Meta hat in der Vergangenheit bereits mehrfach mit europäischen Datenschutzbehörden in Konflikt geraten und empfindliche Bußgelder zahlen müssen.",
-          "tag": "Datenschutz KI",
-          "emoji": "📸",
+          "titel": "Sizewell-B-Kernkraftwerk läuft 20 Jahre länger",
+          "zusammenfassung": "Großbritannien hat die Laufzeit des Atomkraftwerks Sizewell B um zwei Jahrzehnte verlängert, sodass es nun bis 2055 Strom erzeugen soll. Die Entscheidung ist Teil einer breiteren Energiestrategie, um die Versorgungssicherheit langfristig zu sichern.",
+          "bedeutung": "In einer Zeit steigender Energiepreise und geopolitisch angespannter Lieferketten sendet Großbritannien damit ein klares Signal zugunsten einer Renaissance der Kernkraft als Brückentechnologie.",
+          "hintergrund": "Sizewell B ist das einzige aktive Druckwasserreaktorkraftwerk Großbritanniens und liefert Strom für rund zwei Millionen Haushalte. Die Verlängerung seiner Betriebserlaubnis wurde von Sicherheitsbehörden genehmigt und setzt umfangreiche Modernisierungsinvestitionen voraus.\n\nDie Entscheidung fällt in eine europäische Debatte über die Rolle der Atomkraft bei der Dekarbonisierung. Während Länder wie Deutschland endgültig aus der Kernenergie ausgestiegen sind, setzen Frankreich, Polen und nun auch Großbritannien auf deren Ausbau, um Abhängigkeiten von fossilen Brennstoffen zu reduzieren.",
+          "tag": "Energiepolitik",
+          "emoji": "⚛️",
           "quelle": "BBC",
-          "quelle_url": "https://www.bbc.co.uk/news/articles/cp9lee19y1yo?at_medium=RSS&at_campaign=rss"
+          "quelle_url": "https://www.bbc.co.uk/news/articles/c1dy1rdv17lo?at_medium=RSS&at_campaign=rss"
         },
         {
           "id": "wirtschaft-2",
-          "titel": "23andMe-Datenpanne: Opfer erhalten 47-Millionen-Dollar-Vergleich",
-          "zusammenfassung": "Ein US-Gericht hat eine Entschädigungszahlung von 47 Millionen Dollar für die Opfer des massiven Datenhacks bei dem Gentest-Unternehmen 23andMe aus dem Jahr 2023 genehmigt. Der Angriff hatte genetische und persönliche Daten von Millionen Nutzern kompromittiert.",
-          "bedeutung": "Das Urteil setzt ein Signal für den Umgang mit dem Missbrauch hochsensibler Gesundheits- und Biodaten und könnte Maßstäbe für künftige Fälle setzen.",
-          "hintergrund": "Der Hack bei 23andMe galt als einer der folgenreichsten Datensicherheitsvorfälle im Bereich der Gesundheitstechnologie, da genetische Informationen zu den sensibelsten persönlichen Daten überhaupt zählen. Millionen von Kundinnen und Kunden weltweit waren betroffen.\n\nDas Unternehmen hatte im Nachgang der Attacke erhebliche Kritik für unzureichende Sicherheitsmaßnahmen einstecken müssen. Der nun genehmigte Vergleich schließt ein mehrstufiges Klageverfahren betroffener Nutzgruppen ab, lässt aber regulatorische Nachfolgefragen offen.",
-          "tag": "Datensicherheit",
-          "emoji": "🧬",
+          "titel": "Energiewarnung: Jackdaw-Chef fürchtet Gasmangel im Winter",
+          "zusammenfassung": "Der Chef des Gasfeldbetreibers Adura warnte die britische Regierung, ohne rasche Genehmigung der Jackdaw-Gasförderung drohe im kommenden Winter ein gefährlicher Versorgungsengpass. Das Unternehmen verweist auf sinkende inländische Fördermengen und volatile Importpreise.",
+          "bedeutung": "Eine mögliche Gasmangellage in Großbritannien hätte direkte Konsequenzen für Millionen Haushalte und Industriebetriebe und käme inmitten geopolitisch angespannter Energiemärkte.",
+          "hintergrund": "Das Jackdaw-Gasfeld in der britischen Nordsee galt lange als genehmigungsreif, wurde jedoch aus Umweltschutzgründen mehrfach blockiert. Angesichts des anhaltenden Förderrückgangs britischer Nordseefelder und der durch die Hormuz-Krise erhöhten Gaspreise gewinnt die Debatte an Dringlichkeit.\n\nDie Regierung steht unter Druck, Versorgungssicherheit und Klimaschutzversprechen miteinander zu vereinbaren. Kritiker argumentieren, neue Gaslizenzen untergraben die britischen Netto-null-Ziele; Befürworter sehen sie als unumgänglich, solange erneuerbare Kapazitäten noch nicht ausreichen.",
+          "tag": "Energieversorgung",
+          "emoji": "🔥",
           "quelle": "BBC",
-          "quelle_url": "https://www.bbc.co.uk/news/articles/cn0vnx2192vo?at_medium=RSS&at_campaign=rss"
+          "quelle_url": "https://www.bbc.co.uk/news/articles/cdx78n4nkvyo?at_medium=RSS&at_campaign=rss"
         }
       ]
     },
@@ -89,36 +89,36 @@
       "stories": [
         {
           "id": "boerse-0",
-          "titel": "Fed-Protokoll zeigt Uneinigkeit über künftigen Zinskurs",
-          "zusammenfassung": "Die veröffentlichten Sitzungsminuten der US-Notenbank vom Juni zeigen, dass die Mitglieder des Offenmarktausschusses tief gespalten über die weitere Richtung der Geldpolitik sind. Einige Vertreter plädierten für baldige Zinssenkungen, andere für anhaltende Vorsicht.",
-          "bedeutung": "Die Uneinigkeit im Fed-Gremium schürt Unsicherheit an den Märkten und macht den geldpolitischen Ausblick für Investoren schwer kalkulierbar.",
-          "hintergrund": "Die Notenbank befindet sich in einem Dilemma: Einerseits drücken hartnäckige Inflationstendenzen auf weitere Zinssenkungen, andererseits signalisieren Konjunkturdaten eine robustere Wirtschaft als erwartet. Historisch gesehen hat die Fed selten nur eine einzelne Zinsänderung vorgenommen, bevor sie die Richtung wieder korrigierte.\n\nMarktbeobachter werten die Protokolle als Hinweis darauf, dass eine klare geldpolitische Kursänderung frühestens im Herbst zu erwarten ist. Die Unsicherheit dürfte die Volatilität an Anleihe- und Aktienmärkten in den kommenden Wochen erhöhen.",
-          "tag": "Fed Zinspolitik",
-          "emoji": "🏦",
+          "titel": "US-Arbeitsmarkt: Erwerbsquote auf 50-Jahres-Tief",
+          "zusammenfassung": "Die Erwerbsbeteiligungsquote in den USA ist auf den niedrigsten Stand seit fünfzig Jahren gefallen – außerhalb der Covid-Ausnahmezeit. Ein sinkender Wert bei der Arbeitslosenquote täuscht über die eigentliche Schwäche hinweg, weil immer mehr Menschen die Jobsuche aufgeben.",
+          "bedeutung": "Zieht sich die Bevölkerung im arbeitsfähigen Alter massenweise vom Arbeitsmarkt zurück, schwächt das das langfristige Wachstumspotenzial der größten Volkswirtschaft der Welt erheblich.",
+          "hintergrund": "Ökonomen warnen, dass ein sinkender Wert bei der Arbeitslosenquote kein verlässliches Konjunktursignal ist, wenn er vor allem durch den Rückzug entmutigter Arbeitssuchender zustande kommt. Der aktuelle Bericht zeigt genau dieses Muster: Weniger Menschen suchen aktiv eine Stelle, was statistisch die Quote drückt, ohne dass tatsächlich mehr Jobs entstanden sind.\n\nFür die Geldpolitik der US-Notenbank ist das ein zweischneidiges Signal: Einerseits sinkt der Lohndruck, was gegen weitere Zinserhöhungen spricht. Andererseits belastet eine strukturell schwächere Erwerbsbevölkerung das Wachstum und damit mittelfristig die Steuereinnahmen und Sozialsysteme.",
+          "tag": "Arbeitsmarkt",
+          "emoji": "📉",
+          "quelle": "CNBC",
+          "quelle_url": "https://www.cnbc.com/2026/07/02/job-seekers-giving-up-labor-force-participation-rate-falls-to-lowest-in-50-years-outside-of-covid-era.html"
+        },
+        {
+          "id": "boerse-1",
+          "titel": "Fed-Protokoll zeigt tiefen Graben in Zinsfrage",
+          "zusammenfassung": "Die Minuten der US-Notenbanksitzung vom Juni offenbaren erhebliche Meinungsverschiedenheiten unter den Ratsmitgliedern über die künftige Richtung der Geldpolitik. Während ein Teil der Mitglieder für baldige Zinssenkungen plädiert, hält ein anderer an einer restriktiven Haltung fest.",
+          "bedeutung": "Interne Uneinigkeit bei der wichtigsten Notenbank der Welt erhöht die Unsicherheit an den Kapitalmärkten und erschwert die Planbarkeit für Unternehmen und Investoren global.",
+          "hintergrund": "Die Fed befindet sich in einem geldpolitischen Dilemma: Inflation und Arbeitsmarktdaten senden widersprüchliche Signale, während der neu installierte Vorsitzende Kevin Warsh strukturelle Reformen des Hauses anschiebt. Historisch selten war die interne Debatte so unentschieden wie derzeit.\n\nMarktbeobachter gehen davon aus, dass der Streit noch mehrere Sitzungszyklen andauern dürfte. Für internationale Schwellenländer, die ihre Währungen am Dollar ausrichten, erzeugt die Fed-Ungewissheit erhöhten Anpassungsdruck auf eigene Zinsentscheidungen und Kapitalflüsse.",
+          "tag": "Geldpolitik USA",
+          "emoji": "🏛️",
           "quelle": "CNBC",
           "quelle_url": "https://www.cnbc.com/2026/07/08/fed-minutes-june-2026-.html"
         },
         {
-          "id": "boerse-1",
-          "titel": "Hormuzstraße: Normalisierung des Schiffsverkehrs erst 2027",
-          "zusammenfassung": "Händler auf der Prognoseplattform Kalshi gehen davon aus, dass der Schiffsverkehr durch die strategisch wichtige Straße von Hormuz frühestens 2027 wieder normale Ausmaße erreichen wird. Die Wahrscheinlichkeit einer Normalisierung bis Dezember 2026 wird nur noch mit 43 Prozent beziffert.",
-          "bedeutung": "Die anhaltende Störung einer der bedeutendsten Schifffahrtsrouten der Welt birgt erhebliche Risiken für globale Energielieferketten und Rohstoffpreise.",
-          "hintergrund": "Die Straße von Hormuz ist eine der meistbefahrenen Seerouten weltweit und ein zentraler Korridor für den Transport von Öl und Flüssiggas aus dem Persischen Golf. Seit den Spannungen im Zuge des US-Iran-Konflikts ist das Verkehrsaufkommen deutlich eingeschränkt.\n\nDie Einschätzungen von Prognosemärkten wie Kalshi gelten als Frühindikator für kollektive Markterwartungen. Ein bis 2027 anhaltend reduzierter Durchsatz dürfte die Energiemärkte weiterhin belasten und Importnationen in Europa sowie Asien vor erhebliche Versorgungsherausforderungen stellen.",
-          "tag": "Rohstoffe Energie",
-          "emoji": "🛢️",
-          "quelle": "CNBC",
-          "quelle_url": "https://www.cnbc.com/2026/07/08/kalshi-traders-think-hormuz-traffic-wont-return-to-normal-this-year.html"
-        },
-        {
           "id": "boerse-2",
-          "titel": "Nasdaq-100 soll 2026 über 30.000 Punkte schließen",
-          "zusammenfassung": "Spekulanten auf der Prognoseplattform Kalshi erwarten mehrheitlich, dass der Nasdaq-100 das Jahr 2026 oberhalb der Marke von 30.000 Punkten beenden wird. Gleichzeitig rechnen Händler damit, dass die Rally im zweiten Halbjahr an Schwung verliert.",
-          "bedeutung": "Die Markteinschätzungen signalisieren anhaltenden Optimismus für Technologiewerte, jedoch mit deutlich gedämpften Erwartungen nach dem starken ersten Halbjahr.",
-          "hintergrund": "Der Nasdaq-100 hatte nach dem vorübergehenden Einbruch im Zuge des US-Iran-Konflikts eine bemerkenswerte Erholung hingelegt, getrieben vor allem durch starke Gewinne im KI- und Technologiesektor. Die Indexstände bewegen sich aktuell auf historisch hohem Niveau.\n\nAnalysten warnen jedoch vor Bewertungsrisiken, sollten die Unternehmensgewinne im zweiten Halbjahr hinter den hohen Erwartungen zurückbleiben. Die Debatte über eine mögliche Überhitzung des KI-Segments bleibt ein zentrales Thema an den Finanzmärkten.",
-          "tag": "Nasdaq Technologie",
-          "emoji": "📈",
+          "titel": "Chinas Preisschere: Deflation innen, Inflation außen",
+          "zusammenfassung": "Während die Verbraucherpreise in China im Juni erneut schwächer ausfielen, erklommen die Erzeugerpreise den höchsten Stand seit fast vier Jahren. Die gegenläufige Entwicklung spiegelt eine Wirtschaft wider, die im Exportgeschäft boomt, aber im Inland mit schwacher Binnennachfrage kämpft.",
+          "bedeutung": "Das chinesische Zwei-Tempo-Wachstum prägt zunehmend die Welthandelsströme und den Preisdruck in den Ländern, die chinesische Exportgüter abnehmen.",
+          "hintergrund": "Steigende Erzeugerpreise in China könnten sich mittelfristig in höheren Exportpreisen niederschlagen und damit Inflationsdruck in Europa und Nordamerika exportieren – genau in dem Moment, in dem westliche Notenbanken die Inflation als besiegt betrachten wollten.\n\nGleichzeitig zeigt die anhaltend schwache Binnennachfrage, dass staatliche Konjunkturprogramme bislang nicht die erhoffte Konsumwelle ausgelöst haben. Für die globalen Kapitalmärkte bleibt China damit ein Unsicherheitsfaktor: stark genug, um die Weltwirtschaft zu bewegen, aber strukturell fragil genug, um selbst eine Quelle von Risiken zu sein.",
+          "tag": "China-Wirtschaft",
+          "emoji": "🇨🇳",
           "quelle": "CNBC",
-          "quelle_url": "https://www.cnbc.com/2026/07/07/traders-on-kalshi-think-the-nasdaq-100-will-end-2026-above-30000.html"
+          "quelle_url": "https://www.cnbc.com/2026/07/09/china-cpi-ppi-june-inflation-iran-war-.html"
         }
       ]
     }
