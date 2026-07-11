@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-10T01:03:27.222212+00:00",
-  "datum": "Freitag, 10. Juli 2026",
+  "generated_at": "2026-07-11T00:14:24.954578+00:00",
+  "datum": "Samstag, 11. Juli 2026",
   "ressorts": [
     {
       "id": "politik",
@@ -9,36 +9,36 @@
       "stories": [
         {
           "id": "politik-0",
-          "titel": "USA und Iran liefern sich Schlagabtausch nach Khameneis Beerdigung",
-          "zusammenfassung": "Das US-Zentralkommando meldete Angriffe auf rund 90 iranische Ziele, während Teheran 14 Todesopfer seit Dienstag beklagte. Die Eskalation fällt in eine Phase höchster innenpolitischer Instabilität im Iran.",
-          "bedeutung": "Ein militärischer Flächenbrand zwischen den USA und dem Iran hätte unmittelbare Folgen für die globale Energieversorgung und die Sicherheitsarchitektur des gesamten Nahen Ostens.",
-          "hintergrund": "Nach dem Tod des Obersten Führers Ali Khamenei befindet sich der Iran in einer historisch einmaligen Übergangsphase. Washingtons Entscheidung, in dieser Situation militärisch zu eskalieren, wird international als kalkuliertes Druckmittel gewertet, das die Nachfolgediskussion in Teheran direkt beeinflusst.\n\nDie Angriffsserie markiert eine neue Qualität der Konfrontation: Anstelle punktueller Vergeltungsschläge spricht Centcom von einem systematischen Kampagnenmuster. Diplomatische Kanäle gelten als weitgehend eingefroren, was das Risiko einer unkontrollierten Eskalation erhöht.",
-          "tag": "US-Iran-Konflikt",
-          "emoji": "💥",
+          "titel": "Supertaifun Bavi bedroht Taiwan und Südchina",
+          "zusammenfassung": "Der rund 1.000 Kilometer breite Taifun Bavi bewegt sich auf Taiwan und die südchinesische Küste zu und gilt als einer der stärksten Stürme seit Jahrzehnten. Auf den Philippinen forderten bereits Erdrutsche im Vorfeld des Sturms mindestens 15 Menschenleben.",
+          "bedeutung": "Ein Sturm dieser Ausmaße kann Millionen Menschen gefährden, ganze Küstenregionen verwüsten und globale Lieferketten empfindlich stören.",
+          "hintergrund": "Taifun Bavi hat sich im westlichen Pazifik zu einem außergewöhnlich mächtigen Wirbelsturm entwickelt. Meteorologen warnen vor extremen Windgeschwindigkeiten, heftigem Starkregen und gefährlichen Sturmfluten entlang der betroffenen Küsten Taiwans und der chinesischen Provinz Guangdong.\n\nDie Region gilt als eines der wirtschaftlich bedeutendsten Gebiete Asiens. Neben der humanitären Bedrohung für Millionen Küstenbewohner könnten Häfen, Halbleiterwerke und Industriezentren in Taiwan und Südchina erhebliche Schäden nehmen, was internationale Aufmerksamkeit auf sich zieht.",
+          "tag": "Naturkatastrophe",
+          "emoji": "🌀",
           "quelle": "BBC",
-          "quelle_url": "https://www.bbc.co.uk/news/articles/cz75zjj5wp8o?at_medium=RSS&at_campaign=rss"
+          "quelle_url": "https://www.bbc.co.uk/news/articles/c04y6wr03gxo?at_medium=RSS&at_campaign=rss"
         },
         {
           "id": "politik-1",
-          "titel": "Ukraine greift russische Schiffe vor Krim an",
-          "zusammenfassung": "Ukrainische Streitkräfte attackierten mehrere russische Schiffe in der Nähe der Krim und zielten dabei gezielt auf Treibstofflieferungen und Versorgungsrouten. Der Angriff gilt als Teil einer breiteren Strategie, die besetzte Halbinsel wirtschaftlich und logistisch auszuhungern.",
-          "bedeutung": "Gelingt es der Ukraine, die Versorgungskorridore zur Krim dauerhaft zu unterbrechen, könnte das die Kampffähigkeit russischer Truppen im Süden des Landes spürbar schwächen.",
-          "hintergrund": "Die ukrainische Marine und ihre Drohneneinheiten haben in den vergangenen Monaten zunehmend maritime Ziele im Schwarzen Meer ins Visier genommen. Die Angriffe auf Treibstoffrouten folgen einer Logik der indirekten Kriegführung: Statt teurer Frontalangriffe sollen kritische Infrastrukturverbindungen zermürbt werden.\n\nRussland reagierte mit verstärkter Luftabwehr im Küstenbereich, doch die ukrainische Seite nutzt günstige, schwer abzufangende Seadrohnen. Westliche Militäranalysten sehen in der neuen Angriffsstrategie einen Hinweis darauf, dass Kiew die Initiative im maritimen Raum zurückgewinnen will.",
-          "tag": "Ukraine-Krieg",
-          "emoji": "🚢",
+          "titel": "China landet erstmals wiederverwendbare Rakete erfolgreich",
+          "zusammenfassung": "Chinesische Staatsmedien berichten, dass es der Volksrepublik erstmals gelungen ist, eine wiederverwendbare Trägerrakete sicher zu landen. Damit schließt China zu Pionieren wie SpaceX und Blue Origin auf, die diese Technologie bereits etabliert haben.",
+          "bedeutung": "Der erfolgreiche Test markiert einen strategischen Meilenstein im globalen Wettlauf um kostengünstige Raumfahrttechnologie und verschiebt das geopolitische Kräfteverhältnis im All.",
+          "hintergrund": "Die Fähigkeit, Raketen wiederverwendbar zu machen, gilt als Schlüssel zur drastischen Senkung von Startkosten und ist damit entscheidend für kommerzielle wie militärische Raumfahrtambitionen. SpaceX hat mit seiner Falcon-9-Rakete gezeigt, wie transformativ diese Technologie sein kann.\n\nChina investiert seit Jahren massiv in sein Raumfahrtprogramm und hat zuletzt mit einer eigenen Raumstation und Mondmissionen internationale Aufmerksamkeit erregt. Die gelungene Raketenlandung sendet ein klares Signal: Peking will in der Raumfahrt nicht nur Mitbewerber, sondern Konkurrent auf Augenhöhe sein.",
+          "tag": "Raumfahrt",
+          "emoji": "🚀",
           "quelle": "BBC",
-          "quelle_url": "https://www.bbc.co.uk/news/articles/c70yd1g67z5o?at_medium=RSS&at_campaign=rss"
+          "quelle_url": "https://www.bbc.co.uk/news/articles/cm2rmmx86pdo?at_medium=RSS&at_campaign=rss"
         },
         {
           "id": "politik-2",
-          "titel": "Hormuz-Route: Öl- und Gastanker weichen nach Angriffen aus",
-          "zusammenfassung": "Schiffsverkehrsdaten zeigen einen deutlichen Rückgang von Tankern und Frachtschiffen auf der von den USA unterstützten Alternativroute durch die Straße von Hormuz. Die jüngsten Angriffe haben die ohnehin angespannte Lage im Persischen Golf weiter verschärft.",
-          "bedeutung": "Die Straße von Hormuz ist eine der wichtigsten Engstellen der globalen Energieversorgung – jede nachhaltige Störung des Transitverkehrs treibt die Öl- und Gaspreise weltweit in die Höhe.",
-          "hintergrund": "Rund 20 Prozent des weltweit gehandelten Rohöls passieren täglich die Straße von Hormuz. Schon kurzfristige Unterbrechungen schlagen sich unmittelbar in den Energiepreisen auf den Weltmärkten nieder und belasten besonders importabhängige Volkswirtschaften in Europa und Asien.\n\nHandelsplattformen für Vorhersagemärkte taxieren die Wahrscheinlichkeit einer vollständigen Normalisierung des Schiffsverkehrs bis Ende 2026 inzwischen nur noch auf rund 43 Prozent. Analysten warnen, dass anhaltende Sicherheitsrisiken Reedereien dauerhaft zu Umwegen via Kap der Guten Hoffnung zwingen könnten – mit erheblichen Folgekosten für den globalen Handel.",
-          "tag": "Hormuz-Krise",
-          "emoji": "🛢️",
+          "titel": "Apple verklagt OpenAI wegen Diebstahls von Geschäftsgeheimnissen",
+          "zusammenfassung": "Apple hat OpenAI verklagt und wirft dem KI-Unternehmen vor, Betriebsgeheimnisse gestohlen zu haben, um ein eigenes Hardwaregeschäft aufzubauen. Im Mittelpunkt des Streits stehen offenbar ehemalige Apple-Mitarbeiter, die zu OpenAI gewechselt sind.",
+          "bedeutung": "Die Klage zweier Technologiegiganten könnte weitreichende Konsequenzen für den gesamten KI-Sektor haben und zeigt, wie scharf der Wettbewerb um Talente und Patente im Bereich künstlicher Intelligenz geworden ist.",
+          "hintergrund": "Apple und OpenAI pflegten zuletzt eine Partnerschaft rund um KI-Funktionen für iPhone und iOS – umso überraschender kommt die juristische Auseinandersetzung. Apple wirft OpenAI vor, sein aufstrebendes Hardwareprojekt auf der Grundlage unrechtmäßig angeeigneter interner Kenntnisse aufzubauen.\n\nDer Fall beleuchtet eine systemische Spannung im Silicon Valley: Der rasante Aufstieg von KI-Startups lockt hochspezialisierte Ingenieure aus etablierten Konzernen ab – und damit oft auch sensibles Wissen. Gerichte in den USA werden zunehmend zum Austragungsort dieses Machtkampfs.",
+          "tag": "Tech & KI",
+          "emoji": "⚖️",
           "quelle": "BBC",
-          "quelle_url": "https://www.bbc.co.uk/news/articles/c621k5r8764o?at_medium=RSS&at_campaign=rss"
+          "quelle_url": "https://www.bbc.co.uk/news/articles/cy8w379e091o?at_medium=RSS&at_campaign=rss"
         }
       ]
     },
@@ -49,36 +49,36 @@
       "stories": [
         {
           "id": "wirtschaft-0",
-          "titel": "Bank of England: Chefvolkswirt hält Zinserhöhung für nötig",
-          "zusammenfassung": "Der Chefvolkswirt der Bank of England hat sich überraschend für eine Zinserhöhung noch in diesem Jahr ausgesprochen. Er begründete dies mit hartnäckigem Inflationsdruck und einem gleichzeitig verlangsamten Wirtschaftswachstum.",
-          "bedeutung": "Ein Kurswechsel der Bank of England würde britische Verbraucher und Unternehmen nach langer Hochzinsphase erneut belasten und könnte andere Zentralbanken zu einer Neubewertung ihrer eigenen geldpolitischen Pläne veranlassen.",
-          "hintergrund": "Großbritannien kämpft seit Monaten mit einer Inflation, die zäher ist als in vergleichbaren europäischen Volkswirtschaften. Lohnwachstum im Dienstleistungssektor und steigende Energiekosten – nicht zuletzt durch die Hormuz-Spannungen befeuert – erschweren der Notenbank die erhoffte geldpolitische Entspannung.\n\nDass sich ausgerechnet der Chefvolkswirt – traditionell eine prägende Stimme für die Mehrheitsentscheidung des geldpolitischen Ausschusses – öffentlich für eine Erhöhung ausspricht, gilt als starkes Signal. Marktbeobachter rechnen nun mit einem intensivierten Ringen innerhalb des Ausschusses bei der nächsten Sitzung.",
-          "tag": "Geldpolitik",
-          "emoji": "🏦",
+          "titel": "SK Hynix feiert Rekord-Börsengang an der Nasdaq",
+          "zusammenfassung": "Der südkoreanische Chiphersteller SK Hynix hat mit einem Nasdaq-Listing 26,5 Milliarden US-Dollar eingesammelt und dabei einen der größten Börsengänge eines ausländischen Unternehmens in den USA erzielt. Die Aktie legte am ersten Handelstag um bis zu 17 Prozent zu.",
+          "bedeutung": "Das enorme Investoreninteresse unterstreicht die ungebrochene globale Nachfrage nach Halbleitern und zeigt, wie sehr KI-Anwendungen weiterhin den Chip-Boom antreiben.",
+          "hintergrund": "SK Hynix ist neben Samsung und Micron einer der weltweit führenden Hersteller von DRAM- und HBM-Speicherchips, die für KI-Server unverzichtbar sind. Das starke Debüt an der Nasdaq signalisiert, dass institutionelle Investoren trotz geopolitischer Risiken weiter massiv auf den Halbleitersektor setzen.\n\nDer Börsengang ist auch ein geopolitisches Statement: Indem SK Hynix den US-Kapitalmarkt wählt, positioniert sich das Unternehmen als zuverlässiger Partner für westliche Technologieunternehmen – ein Schritt, der angesichts der anhaltenden Chip-Rivalität zwischen den USA und China strategische Bedeutung hat.",
+          "tag": "Halbleiter",
+          "emoji": "💾",
           "quelle": "BBC",
-          "quelle_url": "https://www.bbc.co.uk/news/articles/c932ed8nv75o?at_medium=RSS&at_campaign=rss"
+          "quelle_url": "https://www.bbc.co.uk/news/articles/c4gym70r0y4o?at_medium=RSS&at_campaign=rss"
         },
         {
           "id": "wirtschaft-1",
-          "titel": "Sizewell-B-Kernkraftwerk läuft 20 Jahre länger",
-          "zusammenfassung": "Großbritannien hat die Laufzeit des Atomkraftwerks Sizewell B um zwei Jahrzehnte verlängert, sodass es nun bis 2055 Strom erzeugen soll. Die Entscheidung ist Teil einer breiteren Energiestrategie, um die Versorgungssicherheit langfristig zu sichern.",
-          "bedeutung": "In einer Zeit steigender Energiepreise und geopolitisch angespannter Lieferketten sendet Großbritannien damit ein klares Signal zugunsten einer Renaissance der Kernkraft als Brückentechnologie.",
-          "hintergrund": "Sizewell B ist das einzige aktive Druckwasserreaktorkraftwerk Großbritanniens und liefert Strom für rund zwei Millionen Haushalte. Die Verlängerung seiner Betriebserlaubnis wurde von Sicherheitsbehörden genehmigt und setzt umfangreiche Modernisierungsinvestitionen voraus.\n\nDie Entscheidung fällt in eine europäische Debatte über die Rolle der Atomkraft bei der Dekarbonisierung. Während Länder wie Deutschland endgültig aus der Kernenergie ausgestiegen sind, setzen Frankreich, Polen und nun auch Großbritannien auf deren Ausbau, um Abhängigkeiten von fossilen Brennstoffen zu reduzieren.",
-          "tag": "Energiepolitik",
-          "emoji": "⚛️",
+          "titel": "EU droht Meta mit Milliardenstrafen wegen Suchtdesign",
+          "zusammenfassung": "Die Europäische Union hat Meta formell vorgeworfen, Facebook und Instagram durch Funktionen wie den Endlosscroll bewusst so gestaltet zu haben, dass sie bei Nutzern zwanghaftes Verhalten fördern. Es drohen erhebliche Geldstrafen nach dem Digital Services Act.",
+          "bedeutung": "Das Verfahren könnte einen Präzedenzfall für die gesamte Plattformwirtschaft schaffen und die Art und Weise, wie soziale Netzwerke gestaltet werden dürfen, grundlegend verändern.",
+          "hintergrund": "Die EU-Regulierer stützen sich auf den seit 2024 vollständig anwendbaren Digital Services Act, der sehr großen Plattformen strenge Pflichten zum Schutz der Nutzer auferlegt. Erstmals rückt dabei nicht nur der Inhalt, sondern das Design selbst in den Fokus: Algorithmen und Interface-Elemente, die auf maximale Verweildauer ausgelegt sind, sollen als systemisches Risiko eingestuft werden.\n\nMeta weist die Vorwürfe zurück und argumentiert, Nutzer hätten jederzeit die Kontrolle über ihre Erfahrungen. Branchenbeobachter erwarten dennoch, dass das Verfahren Signalwirkung auf andere Plattformen wie TikTok oder YouTube haben wird.",
+          "tag": "Digitalregulierung",
+          "emoji": "📵",
           "quelle": "BBC",
-          "quelle_url": "https://www.bbc.co.uk/news/articles/c1dy1rdv17lo?at_medium=RSS&at_campaign=rss"
+          "quelle_url": "https://www.bbc.co.uk/news/articles/c8j2dje3pldo?at_medium=RSS&at_campaign=rss"
         },
         {
           "id": "wirtschaft-2",
-          "titel": "Energiewarnung: Jackdaw-Chef fürchtet Gasmangel im Winter",
-          "zusammenfassung": "Der Chef des Gasfeldbetreibers Adura warnte die britische Regierung, ohne rasche Genehmigung der Jackdaw-Gasförderung drohe im kommenden Winter ein gefährlicher Versorgungsengpass. Das Unternehmen verweist auf sinkende inländische Fördermengen und volatile Importpreise.",
-          "bedeutung": "Eine mögliche Gasmangellage in Großbritannien hätte direkte Konsequenzen für Millionen Haushalte und Industriebetriebe und käme inmitten geopolitisch angespannter Energiemärkte.",
-          "hintergrund": "Das Jackdaw-Gasfeld in der britischen Nordsee galt lange als genehmigungsreif, wurde jedoch aus Umweltschutzgründen mehrfach blockiert. Angesichts des anhaltenden Förderrückgangs britischer Nordseefelder und der durch die Hormuz-Krise erhöhten Gaspreise gewinnt die Debatte an Dringlichkeit.\n\nDie Regierung steht unter Druck, Versorgungssicherheit und Klimaschutzversprechen miteinander zu vereinbaren. Kritiker argumentieren, neue Gaslizenzen untergraben die britischen Netto-null-Ziele; Befürworter sehen sie als unumgänglich, solange erneuerbare Kapazitäten noch nicht ausreichen.",
+          "titel": "Hormuz-Schifffahrt bricht nach neuen Angriffen ein",
+          "zusammenfassung": "Nach erneuten Angriffen auf Schiffe in der Straße von Hormuz ist die Zahl der die Wasserstraße passierenden Öl-, Gas- und Frachtschiffe auf einer von den USA unterstützten Route deutlich gesunken. Die Daten deuten auf einen erheblichen Rückgang des Transitverkehrs hin.",
+          "bedeutung": "Die Straße von Hormuz ist eine der wichtigsten Energierouten der Welt – anhaltende Störungen können die globalen Energiepreise treiben und die Versorgungssicherheit mehrerer Kontinente gefährden.",
+          "hintergrund": "Rund ein Fünftel des weltweit gehandelten Erdöls passiert die Straße von Hormuz. Bereits frühere Eskalationen in der Region – etwa der Konflikt mit dem Iran – haben gezeigt, wie empfindlich die globalen Energiemärkte auf Unsicherheiten in dieser Meerenge reagieren.\n\nDie jüngsten Angriffe haben Reeder dazu veranlasst, Routen zu meiden oder deutlich längere Alternativwege in Kauf zu nehmen. Das treibt Transportkosten und Versicherungsprämien in die Höhe und dürfte sich zeitnah in den Preisen für Energie und Güter niederschlagen.",
           "tag": "Energieversorgung",
-          "emoji": "🔥",
+          "emoji": "🛢️",
           "quelle": "BBC",
-          "quelle_url": "https://www.bbc.co.uk/news/articles/cdx78n4nkvyo?at_medium=RSS&at_campaign=rss"
+          "quelle_url": "https://www.bbc.co.uk/news/articles/c621k5r8764o?at_medium=RSS&at_campaign=rss"
         }
       ]
     },
@@ -89,36 +89,36 @@
       "stories": [
         {
           "id": "boerse-0",
-          "titel": "US-Arbeitsmarkt: Erwerbsquote auf 50-Jahres-Tief",
-          "zusammenfassung": "Die Erwerbsbeteiligungsquote in den USA ist auf den niedrigsten Stand seit fünfzig Jahren gefallen – außerhalb der Covid-Ausnahmezeit. Ein sinkender Wert bei der Arbeitslosenquote täuscht über die eigentliche Schwäche hinweg, weil immer mehr Menschen die Jobsuche aufgeben.",
-          "bedeutung": "Zieht sich die Bevölkerung im arbeitsfähigen Alter massenweise vom Arbeitsmarkt zurück, schwächt das das langfristige Wachstumspotenzial der größten Volkswirtschaft der Welt erheblich.",
-          "hintergrund": "Ökonomen warnen, dass ein sinkender Wert bei der Arbeitslosenquote kein verlässliches Konjunktursignal ist, wenn er vor allem durch den Rückzug entmutigter Arbeitssuchender zustande kommt. Der aktuelle Bericht zeigt genau dieses Muster: Weniger Menschen suchen aktiv eine Stelle, was statistisch die Quote drückt, ohne dass tatsächlich mehr Jobs entstanden sind.\n\nFür die Geldpolitik der US-Notenbank ist das ein zweischneidiges Signal: Einerseits sinkt der Lohndruck, was gegen weitere Zinserhöhungen spricht. Andererseits belastet eine strukturell schwächere Erwerbsbevölkerung das Wachstum und damit mittelfristig die Steuereinnahmen und Sozialsysteme.",
-          "tag": "Arbeitsmarkt",
+          "titel": "US-Arbeitsmarkt: Erwerbsbeteiligung auf 50-Jahres-Tief",
+          "zusammenfassung": "Die Erwerbsbeteiligungsquote in den USA ist auf den niedrigsten Stand seit 50 Jahren gefallen, wenn man die Covid-Ausnahmejahre außer Acht lässt. Die sinkende Arbeitslosenquote täuscht dabei über ein grundlegendes Problem hinweg: Immer mehr Menschen suchen schlicht keine Arbeit mehr.",
+          "bedeutung": "Ein strukturell schrumpfendes Arbeitskräfteangebot setzt die US-Wirtschaft unter Inflationsdruck und verengt den Spielraum der Notenbank für Zinssenkungen.",
+          "hintergrund": "Der jüngste US-Arbeitsmarktbericht sendete gemischte Signale. Die offiziell gemeldene Arbeitslosenquote sank, doch der Grund ist wenig ermutigend: Ein signifikanter Teil der Bevölkerung hat sich vollständig aus der Jobsuche zurückgezogen und gilt daher statistisch nicht mehr als arbeitslos.\n\nÖkonomen warnen, dass diese Entwicklung die strukturellen Schwächen des US-Arbeitsmarkts verschleiert. Für die Federal Reserve unter Chairman Kevin Warsh bedeutet die Kombination aus nachlassendem Wachstum und einem angespannten Arbeitsmarkt einen schwierigen Balanceakt bei der Zinspolitik.",
+          "tag": "US-Arbeitsmarkt",
           "emoji": "📉",
           "quelle": "CNBC",
           "quelle_url": "https://www.cnbc.com/2026/07/02/job-seekers-giving-up-labor-force-participation-rate-falls-to-lowest-in-50-years-outside-of-covid-era.html"
         },
         {
           "id": "boerse-1",
-          "titel": "Fed-Protokoll zeigt tiefen Graben in Zinsfrage",
-          "zusammenfassung": "Die Minuten der US-Notenbanksitzung vom Juni offenbaren erhebliche Meinungsverschiedenheiten unter den Ratsmitgliedern über die künftige Richtung der Geldpolitik. Während ein Teil der Mitglieder für baldige Zinssenkungen plädiert, hält ein anderer an einer restriktiven Haltung fest.",
-          "bedeutung": "Interne Uneinigkeit bei der wichtigsten Notenbank der Welt erhöht die Unsicherheit an den Kapitalmärkten und erschwert die Planbarkeit für Unternehmen und Investoren global.",
-          "hintergrund": "Die Fed befindet sich in einem geldpolitischen Dilemma: Inflation und Arbeitsmarktdaten senden widersprüchliche Signale, während der neu installierte Vorsitzende Kevin Warsh strukturelle Reformen des Hauses anschiebt. Historisch selten war die interne Debatte so unentschieden wie derzeit.\n\nMarktbeobachter gehen davon aus, dass der Streit noch mehrere Sitzungszyklen andauern dürfte. Für internationale Schwellenländer, die ihre Währungen am Dollar ausrichten, erzeugt die Fed-Ungewissheit erhöhten Anpassungsdruck auf eigene Zinsentscheidungen und Kapitalflüsse.",
-          "tag": "Geldpolitik USA",
-          "emoji": "🏛️",
-          "quelle": "CNBC",
-          "quelle_url": "https://www.cnbc.com/2026/07/08/fed-minutes-june-2026-.html"
-        },
-        {
-          "id": "boerse-2",
-          "titel": "Chinas Preisschere: Deflation innen, Inflation außen",
-          "zusammenfassung": "Während die Verbraucherpreise in China im Juni erneut schwächer ausfielen, erklommen die Erzeugerpreise den höchsten Stand seit fast vier Jahren. Die gegenläufige Entwicklung spiegelt eine Wirtschaft wider, die im Exportgeschäft boomt, aber im Inland mit schwacher Binnennachfrage kämpft.",
-          "bedeutung": "Das chinesische Zwei-Tempo-Wachstum prägt zunehmend die Welthandelsströme und den Preisdruck in den Ländern, die chinesische Exportgüter abnehmen.",
-          "hintergrund": "Steigende Erzeugerpreise in China könnten sich mittelfristig in höheren Exportpreisen niederschlagen und damit Inflationsdruck in Europa und Nordamerika exportieren – genau in dem Moment, in dem westliche Notenbanken die Inflation als besiegt betrachten wollten.\n\nGleichzeitig zeigt die anhaltend schwache Binnennachfrage, dass staatliche Konjunkturprogramme bislang nicht die erhoffte Konsumwelle ausgelöst haben. Für die globalen Kapitalmärkte bleibt China damit ein Unsicherheitsfaktor: stark genug, um die Weltwirtschaft zu bewegen, aber strukturell fragil genug, um selbst eine Quelle von Risiken zu sein.",
-          "tag": "China-Wirtschaft",
+          "titel": "Chinas Wirtschaft: Verbraucherpreise schwach, Erzeugerpreise steigen",
+          "zusammenfassung": "In China ist das Wachstum der Verbraucherpreise im Juni weiter gesunken, während die Erzeugerpreise auf den höchsten Stand seit fast vier Jahren geklettert sind. Das Muster zeigt eine gespaltene Volkswirtschaft mit starkem Export, aber schwacher Binnennachfrage.",
+          "bedeutung": "Chinas wirtschaftliche Zweiteilung hat direkte Auswirkungen auf globale Lieferketten, Rohstoffmärkte und den Außenhandelsdruck auf westliche Industrien.",
+          "hintergrund": "Steigende Erzeugerpreise bei gleichzeitig gedämpfter Konsuminflation deuten darauf hin, dass chinesische Hersteller ihre Kostensteigerungen nicht an heimische Verbraucher weitergeben können, sondern auf Exportmärkten absorbieren. Das nährt international Sorgen vor einem erneuten Deflationsexport aus China.\n\nInvestoren stufen dieses Muster zunehmend als langfristiges Strukturmerkmal der chinesischen Wirtschaft ein. Für Schwellenländer, die mit China im Export konkurrieren, und für westliche Unternehmen, die auf den chinesischen Binnenmarkt setzen, sind das gleichermaßen beunruhigende Signale.",
+          "tag": "China-Konjunktur",
           "emoji": "🇨🇳",
           "quelle": "CNBC",
           "quelle_url": "https://www.cnbc.com/2026/07/09/china-cpi-ppi-june-inflation-iran-war-.html"
+        },
+        {
+          "id": "boerse-2",
+          "titel": "Bank of England signalisiert mögliche Zinserhöhung noch 2026",
+          "zusammenfassung": "Der Chefvolkswirt der Bank of England hat angedeutet, dass angesichts hartnäckiger Inflation und verlangsamten Wirtschaftswachstums eine Anhebung der Leitzinsen in diesem Jahr notwendig werden könnte. Die Aussage überraschte Märkte, die zuletzt eher auf Zinssenkungen gesetzt hatten.",
+          "bedeutung": "Eine Kehrtwende in der britischen Geldpolitik hätte Rückwirkungen auf europäische Zinsmärkte, den Pfund-Kurs und die Refinanzierungskosten von Unternehmen und Staaten weltweit.",
+          "hintergrund": "Großbritannien kämpft weiterhin mit einer Inflationsrate, die hartnäckig über dem Zwei-Prozent-Ziel der Notenbank liegt, während die Wirtschaftsleistung ins Stocken geraten ist. Das sogenannte Stagflationsszenario stellt Notenbanker vor ein klassisches Dilemma: Zinserhöhungen bekämpfen die Inflation, bremsen aber gleichzeitig das Wachstum weiter.\n\nDie Aussagen des Chefvolkswirts werden als klares Signal an die Märkte gewertet, nicht vorschnell auf eine geldpolitische Lockerung zu setzen. Anleihemärkte reagierten mit leichten Kursverlusten, der Pfund Sterling legte gegenüber Euro und Dollar zu.",
+          "tag": "Zinspolitik",
+          "emoji": "🏦",
+          "quelle": "BBC",
+          "quelle_url": "https://www.bbc.co.uk/news/articles/c932ed8nv75o?at_medium=RSS&at_campaign=rss"
         }
       ]
     }
