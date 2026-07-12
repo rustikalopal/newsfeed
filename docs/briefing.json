@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-11T00:14:24.954578+00:00",
-  "datum": "Samstag, 11. Juli 2026",
+  "generated_at": "2026-07-12T00:14:31.733020+00:00",
+  "datum": "Sonntag, 12. Juli 2026",
   "ressorts": [
     {
       "id": "politik",
@@ -9,36 +9,36 @@
       "stories": [
         {
           "id": "politik-0",
-          "titel": "Supertaifun Bavi bedroht Taiwan und Südchina",
-          "zusammenfassung": "Der rund 1.000 Kilometer breite Taifun Bavi bewegt sich auf Taiwan und die südchinesische Küste zu und gilt als einer der stärksten Stürme seit Jahrzehnten. Auf den Philippinen forderten bereits Erdrutsche im Vorfeld des Sturms mindestens 15 Menschenleben.",
-          "bedeutung": "Ein Sturm dieser Ausmaße kann Millionen Menschen gefährden, ganze Küstenregionen verwüsten und globale Lieferketten empfindlich stören.",
-          "hintergrund": "Taifun Bavi hat sich im westlichen Pazifik zu einem außergewöhnlich mächtigen Wirbelsturm entwickelt. Meteorologen warnen vor extremen Windgeschwindigkeiten, heftigem Starkregen und gefährlichen Sturmfluten entlang der betroffenen Küsten Taiwans und der chinesischen Provinz Guangdong.\n\nDie Region gilt als eines der wirtschaftlich bedeutendsten Gebiete Asiens. Neben der humanitären Bedrohung für Millionen Küstenbewohner könnten Häfen, Halbleiterwerke und Industriezentren in Taiwan und Südchina erhebliche Schäden nehmen, was internationale Aufmerksamkeit auf sich zieht.",
-          "tag": "Naturkatastrophe",
-          "emoji": "🌀",
+          "titel": "Iran sperrt Straße von Hormuz auf unbestimmte Zeit",
+          "zusammenfassung": "Die Iranischen Revolutionsgarden haben die Straße von Hormuz für den Schiffsverkehr gesperrt und einen Warnschuss auf ein Schiff abgefeuert. Washington wurde vor einer militärischen Reaktion eindringlich gewarnt.",
+          "bedeutung": "Die Straße von Hormuz ist eine der wichtigsten Öl-Transitrouten der Welt – eine Sperrung bedroht die globale Energieversorgung unmittelbar.",
+          "hintergrund": "Rund ein Fünftel des weltweiten Erdölhandels passiert täglich die schmale Meerenge zwischen dem Iran und der arabischen Halbinsel. Eine Blockade, selbst eine temporäre, kann die Ölpreise schlagartig in die Höhe treiben und Lieferketten in Europa, Asien und Amerika erschüttern.\n\nDie Eskalation erfolgt vor dem Hintergrund anhaltender Spannungen zwischen Teheran und Washington über das iranische Atomprogramm sowie über US-Sanktionen. Beobachter warnen, dass jede militärische Gegenbewegung der USA die Lage in einen offenen Konflikt kippen könnte.",
+          "tag": "Naher Osten",
+          "emoji": "⚓",
           "quelle": "BBC",
-          "quelle_url": "https://www.bbc.co.uk/news/articles/c04y6wr03gxo?at_medium=RSS&at_campaign=rss"
+          "quelle_url": "https://www.bbc.co.uk/news/articles/cj9gkpp0dkeo?at_medium=RSS&at_campaign=rss"
         },
         {
           "id": "politik-1",
-          "titel": "China landet erstmals wiederverwendbare Rakete erfolgreich",
-          "zusammenfassung": "Chinesische Staatsmedien berichten, dass es der Volksrepublik erstmals gelungen ist, eine wiederverwendbare Trägerrakete sicher zu landen. Damit schließt China zu Pionieren wie SpaceX und Blue Origin auf, die diese Technologie bereits etabliert haben.",
-          "bedeutung": "Der erfolgreiche Test markiert einen strategischen Meilenstein im globalen Wettlauf um kostengünstige Raumfahrttechnologie und verschiebt das geopolitische Kräfteverhältnis im All.",
-          "hintergrund": "Die Fähigkeit, Raketen wiederverwendbar zu machen, gilt als Schlüssel zur drastischen Senkung von Startkosten und ist damit entscheidend für kommerzielle wie militärische Raumfahrtambitionen. SpaceX hat mit seiner Falcon-9-Rakete gezeigt, wie transformativ diese Technologie sein kann.\n\nChina investiert seit Jahren massiv in sein Raumfahrtprogramm und hat zuletzt mit einer eigenen Raumstation und Mondmissionen internationale Aufmerksamkeit erregt. Die gelungene Raketenlandung sendet ein klares Signal: Peking will in der Raumfahrt nicht nur Mitbewerber, sondern Konkurrent auf Augenhöhe sein.",
-          "tag": "Raumfahrt",
-          "emoji": "🚀",
+          "titel": "Zweiter Taifun trifft China – Millionen evakuiert",
+          "zusammenfassung": "Innerhalb einer Woche hat ein zweiter Taifun die ostchinesische Provinz Zhejiang getroffen und nahezu zwei Millionen Menschen zur Flucht gezwungen. Die Küstenstadt Wenzhou liegt nahe dem Zentrum des Sturms.",
+          "bedeutung": "Die ungewöhnliche Häufung schwerer Taifune in kurzer Zeit verdeutlicht die wachsende Bedrohung durch extreme Wetterereignisse für eine der bevölkerungsreichsten Regionen der Welt.",
+          "hintergrund": "Zhejiang gehört zu den wirtschaftlich stärksten Provinzen Chinas und beherbergt bedeutende Industrie- und Hafenkapazitäten. Wiederholte Sturmschäden in rascher Folge können Lieferketten und Exportstrukturen empfindlich stören.\n\nKlimaforschende beobachten seit Jahren eine Intensivierung tropischer Wirbelstürme im westlichen Pazifik. Zwei verheerende Taifune innerhalb von sieben Tagen gelten als außergewöhnliches Ereignis und nähren Debatten über den Einfluss des Klimawandels auf die Häufigkeit solcher Katastrophen.",
+          "tag": "Naturkatastrophe",
+          "emoji": "🌀",
           "quelle": "BBC",
-          "quelle_url": "https://www.bbc.co.uk/news/articles/cm2rmmx86pdo?at_medium=RSS&at_campaign=rss"
+          "quelle_url": "https://www.bbc.co.uk/news/articles/cdxd3wkp2rzo?at_medium=RSS&at_campaign=rss"
         },
         {
           "id": "politik-2",
-          "titel": "Apple verklagt OpenAI wegen Diebstahls von Geschäftsgeheimnissen",
-          "zusammenfassung": "Apple hat OpenAI verklagt und wirft dem KI-Unternehmen vor, Betriebsgeheimnisse gestohlen zu haben, um ein eigenes Hardwaregeschäft aufzubauen. Im Mittelpunkt des Streits stehen offenbar ehemalige Apple-Mitarbeiter, die zu OpenAI gewechselt sind.",
-          "bedeutung": "Die Klage zweier Technologiegiganten könnte weitreichende Konsequenzen für den gesamten KI-Sektor haben und zeigt, wie scharf der Wettbewerb um Talente und Patente im Bereich künstlicher Intelligenz geworden ist.",
-          "hintergrund": "Apple und OpenAI pflegten zuletzt eine Partnerschaft rund um KI-Funktionen für iPhone und iOS – umso überraschender kommt die juristische Auseinandersetzung. Apple wirft OpenAI vor, sein aufstrebendes Hardwareprojekt auf der Grundlage unrechtmäßig angeeigneter interner Kenntnisse aufzubauen.\n\nDer Fall beleuchtet eine systemische Spannung im Silicon Valley: Der rasante Aufstieg von KI-Startups lockt hochspezialisierte Ingenieure aus etablierten Konzernen ab – und damit oft auch sensibles Wissen. Gerichte in den USA werden zunehmend zum Austragungsort dieses Machtkampfs.",
-          "tag": "Tech & KI",
-          "emoji": "⚖️",
+          "titel": "Trump-Regierung zieht NYT-Journalisten vor Gericht",
+          "zusammenfassung": "Das Weiße Haus hat Journalisten der New York Times mit Vorladungen belegt, nachdem diese über mutmaßliche Sicherheitsmängel an Trumps neuem Air Force One berichtet hatten. Das Flugzeug war zuvor als Geschenk von Katar angenommen worden.",
+          "bedeutung": "Das Vorgehen gegen Redaktionsmitglieder einer der weltweit führenden Tageszeitungen sendet ein alarmierendes Signal für die Pressefreiheit in den USA.",
+          "hintergrund": "Die Berichterstattung der Times hatte kritische Fragen über Sicherheitsstandards und diplomatische Interessenkonflikte rund um das Staatsgeschenk aus Katar aufgeworfen. Die Nutzung juristischer Mittel gegen Medienschaffende, die über Regierungsangelegenheiten berichten, war in der amerikanischen Pressepolitik lange als rote Linie betrachtet worden.\n\nPressefreiheitsorganisationen sehen in dem Schritt einen gezielten Versuch, investigativen Journalismus einzuschüchtern. Kritiker aus beiden politischen Lagern warnen vor einem Präzedenzfall, der künftige Berichterstattung über Regierungshandeln hemmen könnte.",
+          "tag": "Pressefreiheit",
+          "emoji": "📰",
           "quelle": "BBC",
-          "quelle_url": "https://www.bbc.co.uk/news/articles/cy8w379e091o?at_medium=RSS&at_campaign=rss"
+          "quelle_url": "https://www.bbc.co.uk/news/articles/cpd3g8q51g7o?at_medium=RSS&at_campaign=rss"
         }
       ]
     },
@@ -49,10 +49,10 @@
       "stories": [
         {
           "id": "wirtschaft-0",
-          "titel": "SK Hynix feiert Rekord-Börsengang an der Nasdaq",
-          "zusammenfassung": "Der südkoreanische Chiphersteller SK Hynix hat mit einem Nasdaq-Listing 26,5 Milliarden US-Dollar eingesammelt und dabei einen der größten Börsengänge eines ausländischen Unternehmens in den USA erzielt. Die Aktie legte am ersten Handelstag um bis zu 17 Prozent zu.",
-          "bedeutung": "Das enorme Investoreninteresse unterstreicht die ungebrochene globale Nachfrage nach Halbleitern und zeigt, wie sehr KI-Anwendungen weiterhin den Chip-Boom antreiben.",
-          "hintergrund": "SK Hynix ist neben Samsung und Micron einer der weltweit führenden Hersteller von DRAM- und HBM-Speicherchips, die für KI-Server unverzichtbar sind. Das starke Debüt an der Nasdaq signalisiert, dass institutionelle Investoren trotz geopolitischer Risiken weiter massiv auf den Halbleitersektor setzen.\n\nDer Börsengang ist auch ein geopolitisches Statement: Indem SK Hynix den US-Kapitalmarkt wählt, positioniert sich das Unternehmen als zuverlässiger Partner für westliche Technologieunternehmen – ein Schritt, der angesichts der anhaltenden Chip-Rivalität zwischen den USA und China strategische Bedeutung hat.",
+          "titel": "SK Hynix feiert Rekordstart an der Nasdaq",
+          "zusammenfassung": "Der südkoreanische Chiphersteller SK Hynix hat 26,5 Milliarden Dollar durch sein Börsendebüt an der Nasdaq eingesammelt und verzeichnete am ersten Handelstag einen Kursanstieg von bis zu 17 Prozent. Es handelt sich um das bislang größte US-Listing eines ausländischen Unternehmens.",
+          "bedeutung": "Das außergewöhnliche Börsendebüt unterstreicht den ungebrochenen Hunger der Märkte nach KI-Infrastruktur und festigt SK Hynix als globalen Schlüsselakteur in der Halbleiterindustrie.",
+          "hintergrund": "SK Hynix gilt neben Samsung als weltgrößter Produzent von Hochleistungs-Speicherchips, die insbesondere für KI-Anwendungen und Rechenzentren unverzichtbar sind. Die enorme Nachfrage nach solchen Chips hat den Konzern in den vergangenen Jahren zu einem der am stärksten wachsenden Technologieunternehmen Asiens gemacht.\n\nDer Rekord-Börsengang signalisiert, dass internationale Investoren trotz geopolitischer Spannungen und Handelskonflikten bereit sind, massiv in Halbleitertechnologie zu investieren. Für den globalen Chipmarkt könnte der Schritt den Wettbewerb mit US-Konkurrenten wie Micron Technology weiter verschärfen.",
           "tag": "Halbleiter",
           "emoji": "💾",
           "quelle": "BBC",
@@ -60,10 +60,10 @@
         },
         {
           "id": "wirtschaft-1",
-          "titel": "EU droht Meta mit Milliardenstrafen wegen Suchtdesign",
-          "zusammenfassung": "Die Europäische Union hat Meta formell vorgeworfen, Facebook und Instagram durch Funktionen wie den Endlosscroll bewusst so gestaltet zu haben, dass sie bei Nutzern zwanghaftes Verhalten fördern. Es drohen erhebliche Geldstrafen nach dem Digital Services Act.",
-          "bedeutung": "Das Verfahren könnte einen Präzedenzfall für die gesamte Plattformwirtschaft schaffen und die Art und Weise, wie soziale Netzwerke gestaltet werden dürfen, grundlegend verändern.",
-          "hintergrund": "Die EU-Regulierer stützen sich auf den seit 2024 vollständig anwendbaren Digital Services Act, der sehr großen Plattformen strenge Pflichten zum Schutz der Nutzer auferlegt. Erstmals rückt dabei nicht nur der Inhalt, sondern das Design selbst in den Fokus: Algorithmen und Interface-Elemente, die auf maximale Verweildauer ausgelegt sind, sollen als systemisches Risiko eingestuft werden.\n\nMeta weist die Vorwürfe zurück und argumentiert, Nutzer hätten jederzeit die Kontrolle über ihre Erfahrungen. Branchenbeobachter erwarten dennoch, dass das Verfahren Signalwirkung auf andere Plattformen wie TikTok oder YouTube haben wird.",
+          "titel": "EU droht Meta mit Milliardenstrafe wegen Suchtdesign",
+          "zusammenfassung": "Europäische Regulierungsbehörden werfen Meta vor, mit Funktionen wie dem endlosen Scrollen bewusst süchtig machende Nutzungsmuster auf Facebook und Instagram zu fördern. Sollte Meta keine Änderungen vornehmen, drohen erhebliche Geldbußen.",
+          "bedeutung": "Das Verfahren könnte Maßstäbe für die Regulierung von Plattformdesign weltweit setzen und Milliarden Nutzerinnen und Nutzer direkt betreffen.",
+          "hintergrund": "Die EU-Kommission stützt sich auf den Digital Services Act, der Plattformen mit über 45 Millionen Nutzern in Europa zu strengerer Rechenschaftspflicht verpflichtet. Im Visier der Behörden stehen algorithmisch gesteuerte Feeds, Autoplay-Funktionen und andere Mechanismen, die Nutzende möglichst lange auf der Plattform halten sollen.\n\nMeta weist die Vorwürfe zurück und argumentiert, die Nutzerinnen und Nutzer hätten jederzeit die Kontrolle über ihr Nutzungsverhalten. Beobachter sehen in dem Fall jedoch einen möglichen Wendepunkt: Erstmals könnte eine Regulierungsbehörde das grundlegende Geschäftsmodell sozialer Netzwerke – maximale Verweildauer um jeden Preis – juristisch in Frage stellen.",
           "tag": "Digitalregulierung",
           "emoji": "📵",
           "quelle": "BBC",
@@ -71,14 +71,14 @@
         },
         {
           "id": "wirtschaft-2",
-          "titel": "Hormuz-Schifffahrt bricht nach neuen Angriffen ein",
-          "zusammenfassung": "Nach erneuten Angriffen auf Schiffe in der Straße von Hormuz ist die Zahl der die Wasserstraße passierenden Öl-, Gas- und Frachtschiffe auf einer von den USA unterstützten Route deutlich gesunken. Die Daten deuten auf einen erheblichen Rückgang des Transitverkehrs hin.",
-          "bedeutung": "Die Straße von Hormuz ist eine der wichtigsten Energierouten der Welt – anhaltende Störungen können die globalen Energiepreise treiben und die Versorgungssicherheit mehrerer Kontinente gefährden.",
-          "hintergrund": "Rund ein Fünftel des weltweit gehandelten Erdöls passiert die Straße von Hormuz. Bereits frühere Eskalationen in der Region – etwa der Konflikt mit dem Iran – haben gezeigt, wie empfindlich die globalen Energiemärkte auf Unsicherheiten in dieser Meerenge reagieren.\n\nDie jüngsten Angriffe haben Reeder dazu veranlasst, Routen zu meiden oder deutlich längere Alternativwege in Kauf zu nehmen. Das treibt Transportkosten und Versicherungsprämien in die Höhe und dürfte sich zeitnah in den Preisen für Energie und Güter niederschlagen.",
-          "tag": "Energieversorgung",
-          "emoji": "🛢️",
+          "titel": "EasyJet nimmt überraschende Übernahme durch Apollo an",
+          "zusammenfassung": "Die britische Billigfluggesellschaft EasyJet hat ein Übernahmeangebot des US-Finanzinvestors Apollo angenommen, das ein früheres Angebot des Konkurrenten Castlelake übertraf. Der Deal gilt als einer der bedeutendsten in der europäischen Luftfahrtbranche seit Jahren.",
+          "bedeutung": "Die Übernahme einer der größten europäischen Billigfluglinien durch einen US-Investor könnte die Wettbewerbsdynamik im europäischen Kurzstreckenmarkt grundlegend verändern.",
+          "hintergrund": "EasyJet kämpft seit der Pandemie mit strukturellen Herausforderungen – steigenden Kosten, Pilotenmangel und wachsendem Wettbewerb durch Ryanair und Wizz Air. Eine Übernahme durch Apollo, einen der mächtigsten privaten Investmentfonds weltweit, dürfte erhebliche Restrukturierungsmaßnahmen nach sich ziehen.\n\nFür Millionen europäische Flugreisende stellt sich die Frage, ob ein neuer Eigentümer den Niedrigpreiskurs beibehält oder auf Renditeoptimierung setzt. Gewerkschaften haben bereits angekündigt, die Entwicklung der Arbeitsbedingungen nach dem Eigentümerwechsel genau zu verfolgen.",
+          "tag": "Luftfahrt",
+          "emoji": "✈️",
           "quelle": "BBC",
-          "quelle_url": "https://www.bbc.co.uk/news/articles/c621k5r8764o?at_medium=RSS&at_campaign=rss"
+          "quelle_url": "https://www.bbc.co.uk/news/articles/cgjxqq9jg8yo?at_medium=RSS&at_campaign=rss"
         }
       ]
     },
@@ -89,36 +89,25 @@
       "stories": [
         {
           "id": "boerse-0",
-          "titel": "US-Arbeitsmarkt: Erwerbsbeteiligung auf 50-Jahres-Tief",
-          "zusammenfassung": "Die Erwerbsbeteiligungsquote in den USA ist auf den niedrigsten Stand seit 50 Jahren gefallen, wenn man die Covid-Ausnahmejahre außer Acht lässt. Die sinkende Arbeitslosenquote täuscht dabei über ein grundlegendes Problem hinweg: Immer mehr Menschen suchen schlicht keine Arbeit mehr.",
-          "bedeutung": "Ein strukturell schrumpfendes Arbeitskräfteangebot setzt die US-Wirtschaft unter Inflationsdruck und verengt den Spielraum der Notenbank für Zinssenkungen.",
-          "hintergrund": "Der jüngste US-Arbeitsmarktbericht sendete gemischte Signale. Die offiziell gemeldene Arbeitslosenquote sank, doch der Grund ist wenig ermutigend: Ein signifikanter Teil der Bevölkerung hat sich vollständig aus der Jobsuche zurückgezogen und gilt daher statistisch nicht mehr als arbeitslos.\n\nÖkonomen warnen, dass diese Entwicklung die strukturellen Schwächen des US-Arbeitsmarkts verschleiert. Für die Federal Reserve unter Chairman Kevin Warsh bedeutet die Kombination aus nachlassendem Wachstum und einem angespannten Arbeitsmarkt einen schwierigen Balanceakt bei der Zinspolitik.",
-          "tag": "US-Arbeitsmarkt",
-          "emoji": "📉",
+          "titel": "Analysten empfehlen Umschwenken von KI-Aktien",
+          "zusammenfassung": "Der ETF-Experte Mike Akins rät Anlegerinnen und Anlegern, in den kommenden sechs Monaten verstärkt auf bisher schwach gelaufene Marktsegmente zu setzen, die gegenüber KI-Schwergewichten zurückgeblieben sind. Dort sieht er das größte Aufholpotenzial.",
+          "bedeutung": "Empfehlungen zum Umschichten aus überhitzten KI-Aktien könnten Kapitalflüsse in breiteren Marktbereichen auslösen und die Kursentwicklung der zweiten Börsenhälfte prägen.",
+          "hintergrund": "Seit Monaten dominieren wenige große KI-Konzerne wie Nvidia, Microsoft und Alphabet die Kursgewinne an den US-Börsen, während klassische Sektoren wie Industrie, Energie oder Small Caps hinter den Erwartungen zurückblieben. Diese Divergenz hat zu historisch ungewöhnlichen Bewertungsunterschieden geführt.\n\nStrategisch denkende Investoren beginnen nun, Gewinne aus dem KI-Hype mitzunehmen und in günstigere Segmente umzuschichten. Ob dieser sogenannte Catch-up-Trade gelingt, hängt wesentlich davon ab, ob die Notenbanken die Zinsen im Herbst tatsächlich weiter senken und so das Umfeld für wachstumsschwächere Unternehmen verbessern.",
+          "tag": "Anlagestrategie",
+          "emoji": "📊",
           "quelle": "CNBC",
-          "quelle_url": "https://www.cnbc.com/2026/07/02/job-seekers-giving-up-labor-force-participation-rate-falls-to-lowest-in-50-years-outside-of-covid-era.html"
+          "quelle_url": "https://www.cnbc.com/2026/07/11/mag-7-and-software-could-boost-portfolio-in-second-half-etf-action.html"
         },
         {
           "id": "boerse-1",
-          "titel": "Chinas Wirtschaft: Verbraucherpreise schwach, Erzeugerpreise steigen",
-          "zusammenfassung": "In China ist das Wachstum der Verbraucherpreise im Juni weiter gesunken, während die Erzeugerpreise auf den höchsten Stand seit fast vier Jahren geklettert sind. Das Muster zeigt eine gespaltene Volkswirtschaft mit starkem Export, aber schwacher Binnennachfrage.",
-          "bedeutung": "Chinas wirtschaftliche Zweiteilung hat direkte Auswirkungen auf globale Lieferketten, Rohstoffmärkte und den Außenhandelsdruck auf westliche Industrien.",
-          "hintergrund": "Steigende Erzeugerpreise bei gleichzeitig gedämpfter Konsuminflation deuten darauf hin, dass chinesische Hersteller ihre Kostensteigerungen nicht an heimische Verbraucher weitergeben können, sondern auf Exportmärkten absorbieren. Das nährt international Sorgen vor einem erneuten Deflationsexport aus China.\n\nInvestoren stufen dieses Muster zunehmend als langfristiges Strukturmerkmal der chinesischen Wirtschaft ein. Für Schwellenländer, die mit China im Export konkurrieren, und für westliche Unternehmen, die auf den chinesischen Binnenmarkt setzen, sind das gleichermaßen beunruhigende Signale.",
-          "tag": "China-Konjunktur",
-          "emoji": "🇨🇳",
+          "titel": "Vorhersagemärkte lösen Insiderhandel-Debatten aus",
+          "zusammenfassung": "Die wachsende Beliebtheit von Prediction Markets – Plattformen, auf denen auf den Ausgang politischer oder wirtschaftlicher Ereignisse gewettet wird – ruft Regulierungsbehörden und Unternehmen auf den Plan. Viele Firmen haben noch keine klaren Handelsrichtlinien für Mitarbeitende.",
+          "bedeutung": "Ohne klare Regeln könnten Insiderinformationen aus Unternehmen in diese unregulierten Märkte fließen und systemische Integritätsprobleme verursachen.",
+          "hintergrund": "Plattformen wie Kalshi oder Polymarket haben in den vergangenen Jahren massiv an Volumen gewonnen und ermöglichen Wetten auf Zinsentscheidungen, Wahlergebnisse oder Wirtschaftsdaten. Da viele Unternehmensangestellte Zugang zu kursrelevanten Informationen haben, wächst die Sorge vor systematischem Missbrauch.\n\nEine Umfrage unter 50 Großunternehmen ergab, dass nur eine Handvoll überhaupt Richtlinien zu Vorhersagemärkten etabliert hat. Die US-Wertpapieraufsicht SEC beobachtet die Entwicklung, hat aber noch keine verbindlichen Regeln erlassen – ein regulatorisches Vakuum, das Experten als zunehmend riskant einstufen.",
+          "tag": "Marktintegrität",
+          "emoji": "🎯",
           "quelle": "CNBC",
-          "quelle_url": "https://www.cnbc.com/2026/07/09/china-cpi-ppi-june-inflation-iran-war-.html"
-        },
-        {
-          "id": "boerse-2",
-          "titel": "Bank of England signalisiert mögliche Zinserhöhung noch 2026",
-          "zusammenfassung": "Der Chefvolkswirt der Bank of England hat angedeutet, dass angesichts hartnäckiger Inflation und verlangsamten Wirtschaftswachstums eine Anhebung der Leitzinsen in diesem Jahr notwendig werden könnte. Die Aussage überraschte Märkte, die zuletzt eher auf Zinssenkungen gesetzt hatten.",
-          "bedeutung": "Eine Kehrtwende in der britischen Geldpolitik hätte Rückwirkungen auf europäische Zinsmärkte, den Pfund-Kurs und die Refinanzierungskosten von Unternehmen und Staaten weltweit.",
-          "hintergrund": "Großbritannien kämpft weiterhin mit einer Inflationsrate, die hartnäckig über dem Zwei-Prozent-Ziel der Notenbank liegt, während die Wirtschaftsleistung ins Stocken geraten ist. Das sogenannte Stagflationsszenario stellt Notenbanker vor ein klassisches Dilemma: Zinserhöhungen bekämpfen die Inflation, bremsen aber gleichzeitig das Wachstum weiter.\n\nDie Aussagen des Chefvolkswirts werden als klares Signal an die Märkte gewertet, nicht vorschnell auf eine geldpolitische Lockerung zu setzen. Anleihemärkte reagierten mit leichten Kursverlusten, der Pfund Sterling legte gegenüber Euro und Dollar zu.",
-          "tag": "Zinspolitik",
-          "emoji": "🏦",
-          "quelle": "BBC",
-          "quelle_url": "https://www.bbc.co.uk/news/articles/c932ed8nv75o?at_medium=RSS&at_campaign=rss"
+          "quelle_url": "https://www.cnbc.com/2026/07/09/prediction-markets-spark-insider-trading-fears-how-firms-are-responding.html"
         }
       ]
     }
