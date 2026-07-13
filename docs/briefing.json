@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-12T00:14:31.733020+00:00",
-  "datum": "Sonntag, 12. Juli 2026",
+  "generated_at": "2026-07-13T00:14:51.344326+00:00",
+  "datum": "Montag, 13. Juli 2026",
   "ressorts": [
     {
       "id": "politik",
@@ -9,36 +9,36 @@
       "stories": [
         {
           "id": "politik-0",
-          "titel": "Iran sperrt Straße von Hormuz auf unbestimmte Zeit",
-          "zusammenfassung": "Die Iranischen Revolutionsgarden haben die Straße von Hormuz für den Schiffsverkehr gesperrt und einen Warnschuss auf ein Schiff abgefeuert. Washington wurde vor einer militärischen Reaktion eindringlich gewarnt.",
-          "bedeutung": "Die Straße von Hormuz ist eine der wichtigsten Öl-Transitrouten der Welt – eine Sperrung bedroht die globale Energieversorgung unmittelbar.",
-          "hintergrund": "Rund ein Fünftel des weltweiten Erdölhandels passiert täglich die schmale Meerenge zwischen dem Iran und der arabischen Halbinsel. Eine Blockade, selbst eine temporäre, kann die Ölpreise schlagartig in die Höhe treiben und Lieferketten in Europa, Asien und Amerika erschüttern.\n\nDie Eskalation erfolgt vor dem Hintergrund anhaltender Spannungen zwischen Teheran und Washington über das iranische Atomprogramm sowie über US-Sanktionen. Beobachter warnen, dass jede militärische Gegenbewegung der USA die Lage in einen offenen Konflikt kippen könnte.",
-          "tag": "Naher Osten",
-          "emoji": "⚓",
+          "titel": "USA und Iran tauschen Angriffe aus – Hormusstraße umkämpft",
+          "zusammenfassung": "Die USA bestehen darauf, dass die Straße von Hormus für den Schiffsverkehr offen bleibt, nachdem iranische Kräfte behauptet hatten, sie zu schließen, und Angriffe auf amerikanische Verbündete und Stützpunkte in der Region gestartet hatten. Amerikanische und iranische Streitkräfte lieferten sich in der Folge direkte Gefechte.",
+          "bedeutung": "Eine Eskalation in der Straße von Hormus – durch die rund ein Fünftel des weltweiten Ölhandels fließt – könnte globale Energiemärkte und die gesamte Weltwirtschaft erschüttern.",
+          "hintergrund": "Die Straße von Hormus zwischen dem Iran und der Arabischen Halbinsel gilt als eine der strategisch bedeutsamsten Meerengen der Welt. Ihre Sperrung würde den Öl- und Gastransport aus dem Persischen Golf massiv beeinträchtigen und hätte unmittelbare Folgen für die globale Energieversorgung.\n\nDer Zwischenfall stellt eine der gefährlichsten direkten Konfrontationen zwischen Washington und Teheran seit Jahren dar. Internationale Beobachter warnen vor einer unkontrollierten Eskalationsspirale, während die US-Marine die Durchfahrtsfreiheit militärisch zu sichern versucht.",
+          "tag": "Nahost-Konflikt",
+          "emoji": "⚔️",
           "quelle": "BBC",
           "quelle_url": "https://www.bbc.co.uk/news/articles/cj9gkpp0dkeo?at_medium=RSS&at_campaign=rss"
         },
         {
           "id": "politik-1",
-          "titel": "Zweiter Taifun trifft China – Millionen evakuiert",
-          "zusammenfassung": "Innerhalb einer Woche hat ein zweiter Taifun die ostchinesische Provinz Zhejiang getroffen und nahezu zwei Millionen Menschen zur Flucht gezwungen. Die Küstenstadt Wenzhou liegt nahe dem Zentrum des Sturms.",
-          "bedeutung": "Die ungewöhnliche Häufung schwerer Taifune in kurzer Zeit verdeutlicht die wachsende Bedrohung durch extreme Wetterereignisse für eine der bevölkerungsreichsten Regionen der Welt.",
-          "hintergrund": "Zhejiang gehört zu den wirtschaftlich stärksten Provinzen Chinas und beherbergt bedeutende Industrie- und Hafenkapazitäten. Wiederholte Sturmschäden in rascher Folge können Lieferketten und Exportstrukturen empfindlich stören.\n\nKlimaforschende beobachten seit Jahren eine Intensivierung tropischer Wirbelstürme im westlichen Pazifik. Zwei verheerende Taifune innerhalb von sieben Tagen gelten als außergewöhnliches Ereignis und nähren Debatten über den Einfluss des Klimawandels auf die Häufigkeit solcher Katastrophen.",
+          "titel": "US-Senator Lindsey Graham überraschend gestorben",
+          "zusammenfassung": "Der republikanische Senator aus South Carolina, Lindsey Graham, ist im Alter von 71 Jahren nach kurzer und plötzlicher Erkrankung gestorben. Ersten Erkenntnissen zufolge war ein Herzleiden die Todesursache.",
+          "bedeutung": "Graham war einer der einflussreichsten Senatoren der USA und enger Vertrauter von Präsident Trump – sein Tod verändert die politischen Kräfteverhältnisse im US-Senat.",
+          "hintergrund": "Lindsey Graham galt über Jahrzehnte als einer der profiliertesten außenpolitischen Stimmen im US-Senat und war unter anderem Mitglied im Streitkräfte- und Justizausschuss. Seine Wandlung vom scharfen Trump-Kritiker zum engen Verbündeten machte ihn zu einer der schillerndsten Figuren der republikanischen Partei.\n\nSein plötzlicher Tod hinterlässt eine Lücke im Senat, in dem Republikaner derzeit eine knappe Mehrheit halten. Der Gouverneur von South Carolina wird nun einen Nachfolger berufen müssen – eine Entscheidung mit potenziell weitreichenden Folgen für laufende Gesetzgebungsvorhaben.",
+          "tag": "US-Politik",
+          "emoji": "🇺🇸",
+          "quelle": "BBC",
+          "quelle_url": "https://www.bbc.co.uk/news/articles/cvgj25j6nmeo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "id": "politik-2",
+          "titel": "Mächtiger Taifun trifft China – fast zwei Millionen evakuiert",
+          "zusammenfassung": "In der chinesischen Provinz Zhejiang wurden knapp zwei Millionen Menschen in Sicherheit gebracht, bevor ein schwerer Taifun auf Land traf. Schulen, Betriebe und Verkehrsverbindungen wurden vorsorglich eingestellt.",
+          "bedeutung": "Massenevakuierungen dieser Größenordnung verdeutlichen die wachsende Bedrohung durch Extremwetterereignisse in dicht besiedelten Küstenregionen Asiens.",
+          "hintergrund": "Die Provinz Zhejiang an der chinesischen Ostküste zählt zu den wirtschaftlich dynamischsten Regionen des Landes und beherbergt bedeutende Industrie- und Hafenstandorte. Schwere Taifune können dort nicht nur Menschenleben gefährden, sondern auch globale Lieferketten empfindlich stören.\n\nChina hat in den vergangenen Jahren erheblich in Frühwarnsysteme und Katastrophenschutz investiert, was großflächige Evakuierungen wie diese überhaupt erst ermöglicht. Dennoch drohen je nach Intensität des Sturms schwere Schäden an Infrastruktur und Landwirtschaft.",
           "tag": "Naturkatastrophe",
           "emoji": "🌀",
           "quelle": "BBC",
           "quelle_url": "https://www.bbc.co.uk/news/articles/cdxd3wkp2rzo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "id": "politik-2",
-          "titel": "Trump-Regierung zieht NYT-Journalisten vor Gericht",
-          "zusammenfassung": "Das Weiße Haus hat Journalisten der New York Times mit Vorladungen belegt, nachdem diese über mutmaßliche Sicherheitsmängel an Trumps neuem Air Force One berichtet hatten. Das Flugzeug war zuvor als Geschenk von Katar angenommen worden.",
-          "bedeutung": "Das Vorgehen gegen Redaktionsmitglieder einer der weltweit führenden Tageszeitungen sendet ein alarmierendes Signal für die Pressefreiheit in den USA.",
-          "hintergrund": "Die Berichterstattung der Times hatte kritische Fragen über Sicherheitsstandards und diplomatische Interessenkonflikte rund um das Staatsgeschenk aus Katar aufgeworfen. Die Nutzung juristischer Mittel gegen Medienschaffende, die über Regierungsangelegenheiten berichten, war in der amerikanischen Pressepolitik lange als rote Linie betrachtet worden.\n\nPressefreiheitsorganisationen sehen in dem Schritt einen gezielten Versuch, investigativen Journalismus einzuschüchtern. Kritiker aus beiden politischen Lagern warnen vor einem Präzedenzfall, der künftige Berichterstattung über Regierungshandeln hemmen könnte.",
-          "tag": "Pressefreiheit",
-          "emoji": "📰",
-          "quelle": "BBC",
-          "quelle_url": "https://www.bbc.co.uk/news/articles/cpd3g8q51g7o?at_medium=RSS&at_campaign=rss"
         }
       ]
     },
@@ -49,36 +49,14 @@
       "stories": [
         {
           "id": "wirtschaft-0",
-          "titel": "SK Hynix feiert Rekordstart an der Nasdaq",
-          "zusammenfassung": "Der südkoreanische Chiphersteller SK Hynix hat 26,5 Milliarden Dollar durch sein Börsendebüt an der Nasdaq eingesammelt und verzeichnete am ersten Handelstag einen Kursanstieg von bis zu 17 Prozent. Es handelt sich um das bislang größte US-Listing eines ausländischen Unternehmens.",
-          "bedeutung": "Das außergewöhnliche Börsendebüt unterstreicht den ungebrochenen Hunger der Märkte nach KI-Infrastruktur und festigt SK Hynix als globalen Schlüsselakteur in der Halbleiterindustrie.",
-          "hintergrund": "SK Hynix gilt neben Samsung als weltgrößter Produzent von Hochleistungs-Speicherchips, die insbesondere für KI-Anwendungen und Rechenzentren unverzichtbar sind. Die enorme Nachfrage nach solchen Chips hat den Konzern in den vergangenen Jahren zu einem der am stärksten wachsenden Technologieunternehmen Asiens gemacht.\n\nDer Rekord-Börsengang signalisiert, dass internationale Investoren trotz geopolitischer Spannungen und Handelskonflikten bereit sind, massiv in Halbleitertechnologie zu investieren. Für den globalen Chipmarkt könnte der Schritt den Wettbewerb mit US-Konkurrenten wie Micron Technology weiter verschärfen.",
-          "tag": "Halbleiter",
-          "emoji": "💾",
+          "titel": "Gibraltar öffnet Grenze zu Spanien nach 118 Jahren",
+          "zusammenfassung": "Nach mehr als einem Jahrhundert wurden die Grenzkontrollen zwischen dem britischen Territorium Gibraltar und Spanien aufgehoben. Der freie Personenverkehr soll der Wirtschaft beider Seiten neuen Auftrieb geben.",
+          "bedeutung": "Die Öffnung markiert das Ende eines jahrzehntelangen politischen Streits und könnte als Modell für die künftigen Beziehungen zwischen Großbritannien und der Europäischen Union dienen.",
+          "hintergrund": "Die Grenze zwischen Gibraltar und der spanischen Provinz Cádiz war seit 1908 durch formelle Kontrollen geprägt und wurde zwischenzeitlich sogar vollständig geschlossen. Für Pendler und Unternehmen auf beiden Seiten bedeuteten die Warteschlangen und bürokratischen Hürden jahrelang erhebliche wirtschaftliche Einbußen.\n\nDie Einigung ist das Ergebnis langwieriger Verhandlungen zwischen London, Madrid und Brüssel im Rahmen des Post-Brexit-Abkommens. Beobachter sehen darin ein seltenes Beispiel pragmatischer Zusammenarbeit zwischen dem Vereinigten Königreich und der EU nach dem Austritt.",
+          "tag": "Brexit-Folgen",
+          "emoji": "🤝",
           "quelle": "BBC",
-          "quelle_url": "https://www.bbc.co.uk/news/articles/c4gym70r0y4o?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "id": "wirtschaft-1",
-          "titel": "EU droht Meta mit Milliardenstrafe wegen Suchtdesign",
-          "zusammenfassung": "Europäische Regulierungsbehörden werfen Meta vor, mit Funktionen wie dem endlosen Scrollen bewusst süchtig machende Nutzungsmuster auf Facebook und Instagram zu fördern. Sollte Meta keine Änderungen vornehmen, drohen erhebliche Geldbußen.",
-          "bedeutung": "Das Verfahren könnte Maßstäbe für die Regulierung von Plattformdesign weltweit setzen und Milliarden Nutzerinnen und Nutzer direkt betreffen.",
-          "hintergrund": "Die EU-Kommission stützt sich auf den Digital Services Act, der Plattformen mit über 45 Millionen Nutzern in Europa zu strengerer Rechenschaftspflicht verpflichtet. Im Visier der Behörden stehen algorithmisch gesteuerte Feeds, Autoplay-Funktionen und andere Mechanismen, die Nutzende möglichst lange auf der Plattform halten sollen.\n\nMeta weist die Vorwürfe zurück und argumentiert, die Nutzerinnen und Nutzer hätten jederzeit die Kontrolle über ihr Nutzungsverhalten. Beobachter sehen in dem Fall jedoch einen möglichen Wendepunkt: Erstmals könnte eine Regulierungsbehörde das grundlegende Geschäftsmodell sozialer Netzwerke – maximale Verweildauer um jeden Preis – juristisch in Frage stellen.",
-          "tag": "Digitalregulierung",
-          "emoji": "📵",
-          "quelle": "BBC",
-          "quelle_url": "https://www.bbc.co.uk/news/articles/c8j2dje3pldo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "id": "wirtschaft-2",
-          "titel": "EasyJet nimmt überraschende Übernahme durch Apollo an",
-          "zusammenfassung": "Die britische Billigfluggesellschaft EasyJet hat ein Übernahmeangebot des US-Finanzinvestors Apollo angenommen, das ein früheres Angebot des Konkurrenten Castlelake übertraf. Der Deal gilt als einer der bedeutendsten in der europäischen Luftfahrtbranche seit Jahren.",
-          "bedeutung": "Die Übernahme einer der größten europäischen Billigfluglinien durch einen US-Investor könnte die Wettbewerbsdynamik im europäischen Kurzstreckenmarkt grundlegend verändern.",
-          "hintergrund": "EasyJet kämpft seit der Pandemie mit strukturellen Herausforderungen – steigenden Kosten, Pilotenmangel und wachsendem Wettbewerb durch Ryanair und Wizz Air. Eine Übernahme durch Apollo, einen der mächtigsten privaten Investmentfonds weltweit, dürfte erhebliche Restrukturierungsmaßnahmen nach sich ziehen.\n\nFür Millionen europäische Flugreisende stellt sich die Frage, ob ein neuer Eigentümer den Niedrigpreiskurs beibehält oder auf Renditeoptimierung setzt. Gewerkschaften haben bereits angekündigt, die Entwicklung der Arbeitsbedingungen nach dem Eigentümerwechsel genau zu verfolgen.",
-          "tag": "Luftfahrt",
-          "emoji": "✈️",
-          "quelle": "BBC",
-          "quelle_url": "https://www.bbc.co.uk/news/articles/cgjxqq9jg8yo?at_medium=RSS&at_campaign=rss"
+          "quelle_url": "https://www.bbc.co.uk/news/articles/cwydz60j3eno?at_medium=RSS&at_campaign=rss"
         }
       ]
     },
@@ -89,25 +67,14 @@
       "stories": [
         {
           "id": "boerse-0",
-          "titel": "Analysten empfehlen Umschwenken von KI-Aktien",
-          "zusammenfassung": "Der ETF-Experte Mike Akins rät Anlegerinnen und Anlegern, in den kommenden sechs Monaten verstärkt auf bisher schwach gelaufene Marktsegmente zu setzen, die gegenüber KI-Schwergewichten zurückgeblieben sind. Dort sieht er das größte Aufholpotenzial.",
-          "bedeutung": "Empfehlungen zum Umschichten aus überhitzten KI-Aktien könnten Kapitalflüsse in breiteren Marktbereichen auslösen und die Kursentwicklung der zweiten Börsenhälfte prägen.",
-          "hintergrund": "Seit Monaten dominieren wenige große KI-Konzerne wie Nvidia, Microsoft und Alphabet die Kursgewinne an den US-Börsen, während klassische Sektoren wie Industrie, Energie oder Small Caps hinter den Erwartungen zurückblieben. Diese Divergenz hat zu historisch ungewöhnlichen Bewertungsunterschieden geführt.\n\nStrategisch denkende Investoren beginnen nun, Gewinne aus dem KI-Hype mitzunehmen und in günstigere Segmente umzuschichten. Ob dieser sogenannte Catch-up-Trade gelingt, hängt wesentlich davon ab, ob die Notenbanken die Zinsen im Herbst tatsächlich weiter senken und so das Umfeld für wachstumsschwächere Unternehmen verbessern.",
-          "tag": "Anlagestrategie",
-          "emoji": "📊",
+          "titel": "Analysten: Nachhinkende ETFs könnten bald aufholen",
+          "zusammenfassung": "Marktexperten raten Anlegern, den Blick auf Sektoren zu lenken, die in den vergangenen Monaten hinter den großen KI-Aktien zurückgeblieben sind. In den kommenden sechs Monaten könnten genau dort überdurchschnittliche Renditen entstehen.",
+          "bedeutung": "Ein möglicher Stimmungsumschwung an den Märkten weg von KI-Mega-Caps hin zu vernachlässigten Sektoren könnte die Portfoliostrategien vieler institutioneller und privater Anleger neu ausrichten.",
+          "hintergrund": "Die Rally der vergangenen Jahre wurde maßgeblich von einer Handvoll großer Technologie- und KI-Unternehmen getragen, während weite Teile des Marktes vergleichsweise stagnierten. Historisch folgt auf solche Phasen ausgeprägter Konzentration häufig eine Rotation in bislang vernachlässigte Segmente.\n\nETF-Strategen empfehlen derzeit verstärkt Engagements in Bereichen wie Industrie, Energie und Small Caps, die fundamental solide bewertet seien, aber vom allgemeinen KI-Hype kaum profitiert hätten. Voraussetzung für den Aufholeffekt sei allerdings eine anhaltende Stabilisierung der Zinsen.",
+          "tag": "Marktrotation",
+          "emoji": "📈",
           "quelle": "CNBC",
           "quelle_url": "https://www.cnbc.com/2026/07/11/mag-7-and-software-could-boost-portfolio-in-second-half-etf-action.html"
-        },
-        {
-          "id": "boerse-1",
-          "titel": "Vorhersagemärkte lösen Insiderhandel-Debatten aus",
-          "zusammenfassung": "Die wachsende Beliebtheit von Prediction Markets – Plattformen, auf denen auf den Ausgang politischer oder wirtschaftlicher Ereignisse gewettet wird – ruft Regulierungsbehörden und Unternehmen auf den Plan. Viele Firmen haben noch keine klaren Handelsrichtlinien für Mitarbeitende.",
-          "bedeutung": "Ohne klare Regeln könnten Insiderinformationen aus Unternehmen in diese unregulierten Märkte fließen und systemische Integritätsprobleme verursachen.",
-          "hintergrund": "Plattformen wie Kalshi oder Polymarket haben in den vergangenen Jahren massiv an Volumen gewonnen und ermöglichen Wetten auf Zinsentscheidungen, Wahlergebnisse oder Wirtschaftsdaten. Da viele Unternehmensangestellte Zugang zu kursrelevanten Informationen haben, wächst die Sorge vor systematischem Missbrauch.\n\nEine Umfrage unter 50 Großunternehmen ergab, dass nur eine Handvoll überhaupt Richtlinien zu Vorhersagemärkten etabliert hat. Die US-Wertpapieraufsicht SEC beobachtet die Entwicklung, hat aber noch keine verbindlichen Regeln erlassen – ein regulatorisches Vakuum, das Experten als zunehmend riskant einstufen.",
-          "tag": "Marktintegrität",
-          "emoji": "🎯",
-          "quelle": "CNBC",
-          "quelle_url": "https://www.cnbc.com/2026/07/09/prediction-markets-spark-insider-trading-fears-how-firms-are-responding.html"
         }
       ]
     }
