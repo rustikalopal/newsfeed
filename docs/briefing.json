@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-13T00:14:51.344326+00:00",
-  "datum": "Montag, 13. Juli 2026",
+  "generated_at": "2026-07-14T00:11:07.507081+00:00",
+  "datum": "Dienstag, 14. Juli 2026",
   "ressorts": [
     {
       "id": "politik",
@@ -9,36 +9,36 @@
       "stories": [
         {
           "id": "politik-0",
-          "titel": "USA und Iran tauschen Angriffe aus – Hormusstraße umkämpft",
-          "zusammenfassung": "Die USA bestehen darauf, dass die Straße von Hormus für den Schiffsverkehr offen bleibt, nachdem iranische Kräfte behauptet hatten, sie zu schließen, und Angriffe auf amerikanische Verbündete und Stützpunkte in der Region gestartet hatten. Amerikanische und iranische Streitkräfte lieferten sich in der Folge direkte Gefechte.",
-          "bedeutung": "Eine Eskalation in der Straße von Hormus – durch die rund ein Fünftel des weltweiten Ölhandels fließt – könnte globale Energiemärkte und die gesamte Weltwirtschaft erschüttern.",
-          "hintergrund": "Die Straße von Hormus zwischen dem Iran und der Arabischen Halbinsel gilt als eine der strategisch bedeutsamsten Meerengen der Welt. Ihre Sperrung würde den Öl- und Gastransport aus dem Persischen Golf massiv beeinträchtigen und hätte unmittelbare Folgen für die globale Energieversorgung.\n\nDer Zwischenfall stellt eine der gefährlichsten direkten Konfrontationen zwischen Washington und Teheran seit Jahren dar. Internationale Beobachter warnen vor einer unkontrollierten Eskalationsspirale, während die US-Marine die Durchfahrtsfreiheit militärisch zu sichern versucht.",
-          "tag": "Nahost-Konflikt",
-          "emoji": "⚔️",
+          "titel": "USA bomben Iran zum dritten Mal in Folge",
+          "zusammenfassung": "Die Vereinigten Staaten haben in der dritten aufeinanderfolgenden Nacht Luftangriffe auf den Iran durchgeführt. Gleichzeitig kündigte Präsident Trump eine zwanzigprozentige Abgabe im Rahmen einer neuen Blockade der Straße von Hormus an.",
+          "bedeutung": "Eine eskalierte US-Militärkampagne gegen den Iran kombiniert mit einer Seeblockade bedroht die globale Energieversorgung und könnte einen regionalen Flächenbrand auslösen.",
+          "hintergrund": "Die Angriffe folgen auf iranische Attacken auf Tankschiffe in der Straße von Hormus, die die Vereinigten Arabischen Emirate als unverfroren verurteilten. Die Golf-Region, durch die rund ein Fünftel des weltweiten Ölhandels fließt, steht damit vor einer gefährlichen Zuspitzung.\n\nTrumps angekündigte Blockade mit einem Aufschlag von zwanzig Prozent auf Durchfahrten markiert eine neue Eskalationsstufe in der US-Iran-Konfrontation. Internationale Verbündete zeigen sich alarmiert, während die Ölpreise an den Märkten deutlich anzogen.",
+          "tag": "Iran-Krieg",
+          "emoji": "💥",
           "quelle": "BBC",
-          "quelle_url": "https://www.bbc.co.uk/news/articles/cj9gkpp0dkeo?at_medium=RSS&at_campaign=rss"
+          "quelle_url": "https://www.bbc.co.uk/news/articles/c8d2vn38dy1o?at_medium=RSS&at_campaign=rss"
         },
         {
           "id": "politik-1",
-          "titel": "US-Senator Lindsey Graham überraschend gestorben",
-          "zusammenfassung": "Der republikanische Senator aus South Carolina, Lindsey Graham, ist im Alter von 71 Jahren nach kurzer und plötzlicher Erkrankung gestorben. Ersten Erkenntnissen zufolge war ein Herzleiden die Todesursache.",
-          "bedeutung": "Graham war einer der einflussreichsten Senatoren der USA und enger Vertrauter von Präsident Trump – sein Tod verändert die politischen Kräfteverhältnisse im US-Senat.",
-          "hintergrund": "Lindsey Graham galt über Jahrzehnte als einer der profiliertesten außenpolitischen Stimmen im US-Senat und war unter anderem Mitglied im Streitkräfte- und Justizausschuss. Seine Wandlung vom scharfen Trump-Kritiker zum engen Verbündeten machte ihn zu einer der schillerndsten Figuren der republikanischen Partei.\n\nSein plötzlicher Tod hinterlässt eine Lücke im Senat, in dem Republikaner derzeit eine knappe Mehrheit halten. Der Gouverneur von South Carolina wird nun einen Nachfolger berufen müssen – eine Entscheidung mit potenziell weitreichenden Folgen für laufende Gesetzgebungsvorhaben.",
-          "tag": "US-Politik",
-          "emoji": "🇺🇸",
+          "titel": "Sudan: RSF-Chef in Abwesenheit zum Tod verurteilt",
+          "zusammenfassung": "Ein Gericht hat den Anführer der sudanesischen Schnellen Unterstützungskräfte, Mohamed Hamdan Dagalo, wegen Kriegsverbrechen in Abwesenheit zum Tod verurteilt. Gemeinsam mit ihm wurden fünfzehn weitere RSF-Kommandeure und Verbündete schuldig gesprochen.",
+          "bedeutung": "Das Urteil ist ein seltenes juristisches Signal gegen paramilitärische Führer in einem der blutigsten laufenden Konflikte der Welt.",
+          "hintergrund": "Der Sudan befindet sich seit April 2023 in einem verheerenden Bürgerkrieg zwischen der regulären Armee und den RSF. Schätzungen zufolge kamen dabei Zehntausende Menschen ums Leben, Millionen wurden vertrieben.\n\nDa Dagalo sich nicht in sudanesischer Gewalt befindet, bleibt die praktische Vollstreckbarkeit des Urteils offen. Beobachter werten den Schuldspruch dennoch als wichtigen Schritt zur Dokumentation von Kriegsverbrechen und als Signal an internationale Strafverfolgungsbehörden.",
+          "tag": "Sudan",
+          "emoji": "⚖️",
           "quelle": "BBC",
-          "quelle_url": "https://www.bbc.co.uk/news/articles/cvgj25j6nmeo?at_medium=RSS&at_campaign=rss"
+          "quelle_url": "https://www.bbc.co.uk/news/articles/cn4dk3kl0l4o?at_medium=RSS&at_campaign=rss"
         },
         {
           "id": "politik-2",
-          "titel": "Mächtiger Taifun trifft China – fast zwei Millionen evakuiert",
-          "zusammenfassung": "In der chinesischen Provinz Zhejiang wurden knapp zwei Millionen Menschen in Sicherheit gebracht, bevor ein schwerer Taifun auf Land traf. Schulen, Betriebe und Verkehrsverbindungen wurden vorsorglich eingestellt.",
-          "bedeutung": "Massenevakuierungen dieser Größenordnung verdeutlichen die wachsende Bedrohung durch Extremwetterereignisse in dicht besiedelten Küstenregionen Asiens.",
-          "hintergrund": "Die Provinz Zhejiang an der chinesischen Ostküste zählt zu den wirtschaftlich dynamischsten Regionen des Landes und beherbergt bedeutende Industrie- und Hafenstandorte. Schwere Taifune können dort nicht nur Menschenleben gefährden, sondern auch globale Lieferketten empfindlich stören.\n\nChina hat in den vergangenen Jahren erheblich in Frühwarnsysteme und Katastrophenschutz investiert, was großflächige Evakuierungen wie diese überhaupt erst ermöglicht. Dennoch drohen je nach Intensität des Sturms schwere Schäden an Infrastruktur und Landwirtschaft.",
-          "tag": "Naturkatastrophe",
-          "emoji": "🌀",
+          "titel": "Ungarns Parlament enthält Staatspräsident des Amtes",
+          "zusammenfassung": "Das ungarische Parlament hat Tamás Sulyok mit einer Mehrheit aus dem Amt des Staatspräsidenten entfernt. Sulyok galt als enger Vertrauter des im April nach sechzehn Jahren abgewählten Ex-Premiers Viktor Orbán.",
+          "bedeutung": "Die Absetzung symbolisiert den politischen Bruch mit der Orbán-Ära und markiert einen weiteren Schritt des neuen ungarischen Machtblocks, institutionelle Schlüsselpositionen umzubesetzen.",
+          "hintergrund": "Orbáns überraschende Wahlniederlage im April 2026 hatte nach eineinhalb Jahrzehnten autoritär geprägter Regierung eine politische Zäsur in Ungarn eingeleitet. Seitdem arbeitet die neue Regierungsmehrheit daran, Orbán-loyale Amtsträger in zentralen Institutionen abzulösen.\n\nDie Absetzung des Staatspräsidenten ist in der ungarischen Verfassung ein außerordentlicher Schritt und dürfte die innenpolitischen Spannungen zwischen dem neuen Lager und Orbán-treuen Netzwerken weiter verschärfen.",
+          "tag": "Ungarn",
+          "emoji": "🏛️",
           "quelle": "BBC",
-          "quelle_url": "https://www.bbc.co.uk/news/articles/cdxd3wkp2rzo?at_medium=RSS&at_campaign=rss"
+          "quelle_url": "https://www.bbc.co.uk/news/articles/cp8r002gdevo?at_medium=RSS&at_campaign=rss"
         }
       ]
     },
@@ -49,14 +49,36 @@
       "stories": [
         {
           "id": "wirtschaft-0",
-          "titel": "Gibraltar öffnet Grenze zu Spanien nach 118 Jahren",
-          "zusammenfassung": "Nach mehr als einem Jahrhundert wurden die Grenzkontrollen zwischen dem britischen Territorium Gibraltar und Spanien aufgehoben. Der freie Personenverkehr soll der Wirtschaft beider Seiten neuen Auftrieb geben.",
-          "bedeutung": "Die Öffnung markiert das Ende eines jahrzehntelangen politischen Streits und könnte als Modell für die künftigen Beziehungen zwischen Großbritannien und der Europäischen Union dienen.",
-          "hintergrund": "Die Grenze zwischen Gibraltar und der spanischen Provinz Cádiz war seit 1908 durch formelle Kontrollen geprägt und wurde zwischenzeitlich sogar vollständig geschlossen. Für Pendler und Unternehmen auf beiden Seiten bedeuteten die Warteschlangen und bürokratischen Hürden jahrelang erhebliche wirtschaftliche Einbußen.\n\nDie Einigung ist das Ergebnis langwieriger Verhandlungen zwischen London, Madrid und Brüssel im Rahmen des Post-Brexit-Abkommens. Beobachter sehen darin ein seltenes Beispiel pragmatischer Zusammenarbeit zwischen dem Vereinigten Königreich und der EU nach dem Austritt.",
-          "tag": "Brexit-Folgen",
-          "emoji": "🤝",
+          "titel": "Volkswagen plant weltweiten Abbau von 100.000 Stellen",
+          "zusammenfassung": "Der Volkswagenkonzern, zu dem auch Marken wie Porsche und Audi gehören, plant den Abbau von bis zu hunderttausend Arbeitsplätzen weltweit. Hintergrund sind drastisch gesunkene Gewinne und der zunehmende Wettbewerbsdruck durch chinesische Hersteller.",
+          "bedeutung": "Ein Stellenabbau dieser Größenordnung wäre einer der massivsten in der Geschichte der europäischen Automobilindustrie und hätte weitreichende Folgen für Zulieferer, Regionen und den Industriestandort Europa.",
+          "hintergrund": "Volkswagen kämpft seit Monaten mit rückläufigen Verkaufszahlen in China, dem wichtigsten Einzelmarkt des Konzerns, wo heimische Elektrofahrzeughersteller wie BYD rasant Marktanteile gewinnen. Gleichzeitig lastet der teure Umbau zur Elektromobilität auf den Bilanzen.\n\nDer geplante Personalabbau dürfte massive Auseinandersetzungen mit dem mächtigen Betriebsrat und der deutschen Gewerkschaft IG Metall nach sich ziehen. Auch politisch steht der Konzern unter Druck, da zahlreiche Standorte in strukturschwachen Regionen liegen.",
+          "tag": "Automobilindustrie",
+          "emoji": "🏭",
           "quelle": "BBC",
-          "quelle_url": "https://www.bbc.co.uk/news/articles/cwydz60j3eno?at_medium=RSS&at_campaign=rss"
+          "quelle_url": "https://www.bbc.co.uk/news/articles/cx2wzpwn51lo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "id": "wirtschaft-1",
+          "titel": "US-Staatsanwälte klagen gegen Paramount-Warner-Mega-Fusion",
+          "zusammenfassung": "Zwölf US-Generalstaatsanwälte haben Klage eingereicht, um die geplante 110-Milliarden-Dollar-Fusion von Paramount Skydance und Warner Bros. Discovery zu blockieren. Die parteiübergreifende Gruppe argumentiert, der Zusammenschluss schade dem Wettbewerb und koste Tausende Arbeitsplätze.",
+          "bedeutung": "Eine erfolgreiche Blockade würde den globalen Medienmarkt erheblich umformen und die Frage regulieren, wie weit Konsolidierung im Streamingzeitalter gehen darf.",
+          "hintergrund": "Die geplante Fusion würde zwei der größten Hollywood-Studios unter einem Dach vereinen und einen der mächtigsten Medienkonzerne der Welt entstehen lassen. Kritiker befürchten neben Jobverlusten auch eine Einschränkung inhaltlicher Vielfalt.\n\nDass sich Generalstaatsanwälte beider großen Parteien gemeinsam gegen den Deal stellen, ist politisch bemerkenswert und erhöht den juristischen Druck auf die beteiligten Unternehmen erheblich. Auch die Bundesbehörde FTC prüft den Vorgang.",
+          "tag": "Medienfusion",
+          "emoji": "🎬",
+          "quelle": "The Guardian",
+          "quelle_url": "https://www.theguardian.com/media/2026/jul/13/paramount-warner-bros-merger-lawsuit"
+        },
+        {
+          "id": "wirtschaft-2",
+          "titel": "Kalifornien führt Sammelklage gegen Hollywood-Megafusion",
+          "zusammenfassung": "Kalifornien hat sich als Sitzstaat beider Filmstudios einer Klage gegen die Fusion von Paramount und Warner Bros. angeschlossen. Insgesamt zwölf Bundesstaaten wollen den Zusammenschluss vor Gericht stoppen.",
+          "bedeutung": "Das Eingreifen des wirtschaftsstärksten US-Bundesstaates verleiht dem juristischen Widerstand gegen den Deal besonderes Gewicht.",
+          "hintergrund": "Die Klage Kaliforniens ist insbesondere symbolisch bedeutsam, da sowohl Paramount als auch Warner Bros. ihren Hauptsitz in Los Angeles haben. Der Staat argumentiert, die Fusion schade lokalen Arbeitnehmern und dem Medienökosystem direkt vor Ort.\n\nBeobachter sehen in der Beteiligung Kaliforniens ein klares politisches Signal, dass selbst wirtschaftsfreundliche Bundesstaaten bereit sind, gegen industrielle Konzentration vorzugehen, wenn Arbeitsplätze und Wettbewerb auf dem Spiel stehen.",
+          "tag": "Kartellrecht",
+          "emoji": "⚖️",
+          "quelle": "BBC",
+          "quelle_url": "https://www.bbc.co.uk/news/articles/cgev34lvgp4o?at_medium=RSS&at_campaign=rss"
         }
       ]
     },
@@ -67,14 +89,36 @@
       "stories": [
         {
           "id": "boerse-0",
-          "titel": "Analysten: Nachhinkende ETFs könnten bald aufholen",
-          "zusammenfassung": "Marktexperten raten Anlegern, den Blick auf Sektoren zu lenken, die in den vergangenen Monaten hinter den großen KI-Aktien zurückgeblieben sind. In den kommenden sechs Monaten könnten genau dort überdurchschnittliche Renditen entstehen.",
-          "bedeutung": "Ein möglicher Stimmungsumschwung an den Märkten weg von KI-Mega-Caps hin zu vernachlässigten Sektoren könnte die Portfoliostrategien vieler institutioneller und privater Anleger neu ausrichten.",
-          "hintergrund": "Die Rally der vergangenen Jahre wurde maßgeblich von einer Handvoll großer Technologie- und KI-Unternehmen getragen, während weite Teile des Marktes vergleichsweise stagnierten. Historisch folgt auf solche Phasen ausgeprägter Konzentration häufig eine Rotation in bislang vernachlässigte Segmente.\n\nETF-Strategen empfehlen derzeit verstärkt Engagements in Bereichen wie Industrie, Energie und Small Caps, die fundamental solide bewertet seien, aber vom allgemeinen KI-Hype kaum profitiert hätten. Voraussetzung für den Aufholeffekt sei allerdings eine anhaltende Stabilisierung der Zinsen.",
-          "tag": "Marktrotation",
+          "titel": "Fed-Zinserhöhung im Juli wird wahrscheinlicher",
+          "zusammenfassung": "Die Wahrscheinlichkeit einer Zinserhöhung durch die US-Notenbank Federal Reserve im Juli ist deutlich gestiegen, nachdem die Ölpreise infolge der Eskalation in der Straße von Hormus kräftig anzogen. Händler beginnen, ein weiteres Straffungsszenario in ihre Erwartungen einzupreisen.",
+          "bedeutung": "Eine unerwartete Zinserhöhung der Fed hätte unmittelbare Auswirkungen auf globale Aktienmärkte, Anleiherenditen und Wechselkurse weltweit.",
+          "hintergrund": "Die Fed hatte zuletzt Signale ausgesendet, die Zinsen stabil zu halten. Doch der Ölpreisschock durch die Iran-Krise befeuert nun erneut die Inflationssorgen, die die Notenbank eigentlich schon unter Kontrolle geglaubt hatte.\n\nFed-Gouverneur Christopher Waller warnte zudem, die Notenbank dürfe nicht ausschließlich auf vergangene Inflationstreiber fokussiert bleiben. Er schloss weitere Zinsschritte explizit nicht aus, falls sich der Preisdruck als breiter als erwartet erweist.",
+          "tag": "Geldpolitik",
           "emoji": "📈",
           "quelle": "CNBC",
-          "quelle_url": "https://www.cnbc.com/2026/07/11/mag-7-and-software-could-boost-portfolio-in-second-half-etf-action.html"
+          "quelle_url": "https://www.cnbc.com/2026/07/13/-a-july-rate-hike-from-the-fed-the-odds-are-rising.html"
+        },
+        {
+          "id": "boerse-1",
+          "titel": "Großbanken erwarten Rekordumsätze dank SpaceX-Börsengang",
+          "zusammenfassung": "Amerikanische Großbanken stehen vor der Bekanntgabe außergewöhnlich starker Quartalsergebnisse, angetrieben durch den milliardenschweren SpaceX-Börsengang, die Volatilität an den Märkten durch den Iran-Konflikt und eine Erholung im Firmenkundengeschäft. Wall Street befindet sich nach Einschätzung von Analysten in einer idealen Gewinnsituation.",
+          "bedeutung": "Boomende Bankergebnisse signalisieren die Robustheit des US-Finanzsystems trotz geopolitischer Turbulenzen, werfen jedoch auch Fragen zur wachsenden Ungleichheit zwischen Finanzsektor und Realwirtschaft auf.",
+          "hintergrund": "Der lang erwartete Börsengang von SpaceX hat im zweiten Quartal enorme Gebühreneinnahmen im Investment-Banking generiert. Gleichzeitig trieb die Volatilität durch den Iran-Krieg das Handelsgeschäft der Banken auf Hochtouren.\n\nAnalysten rechnen damit, dass Institute wie JPMorgan, Goldman Sachs und Morgan Stanley bei ihren Quartalspräsentationen neue Rekordmarken melden werden. Das steht im starken Kontrast zu schwächelnden Industrie- und Konsumentenzahlen in anderen Teilen der US-Wirtschaft.",
+          "tag": "Bankensektor",
+          "emoji": "🏦",
+          "quelle": "CNBC",
+          "quelle_url": "https://www.cnbc.com/2026/07/13/bank-earnings-jpmorgan-chase-goldman-sachs-bank-of-america.html"
+        },
+        {
+          "id": "boerse-2",
+          "titel": "Indiens Inflation steigt auf 4,38 Prozent – achter Monat in Folge",
+          "zusammenfassung": "Die Verbraucherpreise in Indien sind im Juni auf 4,38 Prozent gestiegen und haben damit die Marktprognosen übertroffen. Als Haupttreiber gelten steigende Energie- und Lebensmittelpreise, bedingt durch den Iran-Krieg und unterdurchschnittliche Monsunregenfälle.",
+          "bedeutung": "Anhaltende Inflation in der bevölkerungsreichsten Volkswirtschaft der Welt erhöht den Druck auf die Reserve Bank of India und dämpft die Kaufkraft von Hunderten Millionen Konsumenten.",
+          "hintergrund": "Indien ist als großer Rohölimporteur besonders anfällig für Preisschocks, die aus dem Nahen Osten stammen. Der Iran-Konflikt und die Störungen in der Straße von Hormus treiben die Energiekosten im Land direkt in die Höhe.\n\nZusätzlich belastet ein schwächerer Monsun die Lebensmittelproduktion, was die Nahrungsmittelpreise weiter anheizt. Ökonomen sehen die Reserve Bank of India nun in einem Dilemma zwischen Wachstumsunterstützung und Inflationsbekämpfung.",
+          "tag": "Schwellenländer",
+          "emoji": "🌡️",
+          "quelle": "CNBC",
+          "quelle_url": "https://www.cnbc.com/2026/07/13/india-june-inflation-oil-food-iran-war.html"
         }
       ]
     }
