@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-14T00:11:07.507081+00:00",
-  "datum": "Dienstag, 14. Juli 2026",
+  "generated_at": "2026-07-15T00:10:00.981178+00:00",
+  "datum": "Mittwoch, 15. Juli 2026",
   "ressorts": [
     {
       "id": "politik",
@@ -9,36 +9,36 @@
       "stories": [
         {
           "id": "politik-0",
-          "titel": "USA bomben Iran zum dritten Mal in Folge",
-          "zusammenfassung": "Die Vereinigten Staaten haben in der dritten aufeinanderfolgenden Nacht Luftangriffe auf den Iran durchgeführt. Gleichzeitig kündigte Präsident Trump eine zwanzigprozentige Abgabe im Rahmen einer neuen Blockade der Straße von Hormus an.",
-          "bedeutung": "Eine eskalierte US-Militärkampagne gegen den Iran kombiniert mit einer Seeblockade bedroht die globale Energieversorgung und könnte einen regionalen Flächenbrand auslösen.",
-          "hintergrund": "Die Angriffe folgen auf iranische Attacken auf Tankschiffe in der Straße von Hormus, die die Vereinigten Arabischen Emirate als unverfroren verurteilten. Die Golf-Region, durch die rund ein Fünftel des weltweiten Ölhandels fließt, steht damit vor einer gefährlichen Zuspitzung.\n\nTrumps angekündigte Blockade mit einem Aufschlag von zwanzig Prozent auf Durchfahrten markiert eine neue Eskalationsstufe in der US-Iran-Konfrontation. Internationale Verbündete zeigen sich alarmiert, während die Ölpreise an den Märkten deutlich anzogen.",
-          "tag": "Iran-Krieg",
-          "emoji": "💥",
+          "titel": "Trump kippt Hormuz-Gebühr nach nur einem Tag",
+          "zusammenfassung": "US-Präsident Trump hat seine wenige Stunden alte Ankündigung zurückgezogen, Frachtschiffe für die Durchfahrt durch die Straße von Hormuz zur Kasse zu bitten. Gleichzeitig setzt Washington seine Seeblockade iranischer Häfen unvermindert fort.",
+          "bedeutung": "Die abrupte Kehrtwende unterstreicht die Instabilität der US-Iran-Politik und erhöht die Unsicherheit auf einem der wichtigsten Rohstoffkorridore der Welt.",
+          "hintergrund": "Die Straße von Hormuz ist eine der bedeutendsten Schifffahrtsrouten weltweit – rund ein Fünftel des global gehandelten Öls passiert das enge Nadelöhr zwischen dem Persischen Golf und dem Arabischen Meer. Jede Eskalation dort trifft Energiemärkte, Lieferketten und Verbraucher rund um den Globus.\n\nDer kurzlebige Vorstoß, eine Durchfahrtgebühr zu erheben, wurde von Reedereien und Verbündeten umgehend als impraktikabel kritisiert. Dass Trump ihn binnen 24 Stunden fallen ließ, gilt Beobachtern als Zeichen dafür, dass die übergeordnete Hormuz-Strategie der USA noch nicht ausdefiniert ist.",
+          "tag": "Hormuz-Krise",
+          "emoji": "🚢",
           "quelle": "BBC",
-          "quelle_url": "https://www.bbc.co.uk/news/articles/c8d2vn38dy1o?at_medium=RSS&at_campaign=rss"
+          "quelle_url": "https://www.bbc.co.uk/news/articles/cy0608wy8pro?at_medium=RSS&at_campaign=rss"
         },
         {
           "id": "politik-1",
-          "titel": "Sudan: RSF-Chef in Abwesenheit zum Tod verurteilt",
-          "zusammenfassung": "Ein Gericht hat den Anführer der sudanesischen Schnellen Unterstützungskräfte, Mohamed Hamdan Dagalo, wegen Kriegsverbrechen in Abwesenheit zum Tod verurteilt. Gemeinsam mit ihm wurden fünfzehn weitere RSF-Kommandeure und Verbündete schuldig gesprochen.",
-          "bedeutung": "Das Urteil ist ein seltenes juristisches Signal gegen paramilitärische Führer in einem der blutigsten laufenden Konflikte der Welt.",
-          "hintergrund": "Der Sudan befindet sich seit April 2023 in einem verheerenden Bürgerkrieg zwischen der regulären Armee und den RSF. Schätzungen zufolge kamen dabei Zehntausende Menschen ums Leben, Millionen wurden vertrieben.\n\nDa Dagalo sich nicht in sudanesischer Gewalt befindet, bleibt die praktische Vollstreckbarkeit des Urteils offen. Beobachter werten den Schuldspruch dennoch als wichtigen Schritt zur Dokumentation von Kriegsverbrechen und als Signal an internationale Strafverfolgungsbehörden.",
-          "tag": "Sudan",
-          "emoji": "⚖️",
+          "titel": "Hormuz-Streit lässt US-Iran-Waffenruhe wanken",
+          "zusammenfassung": "Die Kontrolle über die Straße von Hormuz entwickelt sich zum entscheidenden Streitpunkt, der den fragilen Waffenstillstand zwischen den USA und Iran zu zerreißen droht. Beide Seiten beanspruchen Hoheitsrechte über den Korridor, durch den ein Großteil des weltweiten Öltransits läuft.",
+          "bedeutung": "Ein Scheitern des Waffenstillstands würde die Energiepreise erneut in die Höhe treiben und die geopolitische Lage im gesamten Nahen Osten destabilisieren.",
+          "hintergrund": "Der jüngste Konflikt zwischen den USA, Israel und Iran hatte die Ölpreise bereits erheblich steigen lassen. Der nun ausgehandelte Waffenstillstand gilt als äußerst brüchig, weil grundlegende Fragen über Seegrenzen und Kontrollrechte am Hormuz ungeklärt geblieben sind.\n\nExperten warnen, dass gerade die Straße von Hormuz als 'tektonischer Bruchpunkt' fungiert: Selbst kleine Zwischenfälle können dort Eskalationsketten auslösen, die weit über die Region hinaus spürbar werden.",
+          "tag": "Iran-Konflikt",
+          "emoji": "⚠️",
           "quelle": "BBC",
-          "quelle_url": "https://www.bbc.co.uk/news/articles/cn4dk3kl0l4o?at_medium=RSS&at_campaign=rss"
+          "quelle_url": "https://www.bbc.co.uk/news/articles/cwy0ydn033yo?at_medium=RSS&at_campaign=rss"
         },
         {
           "id": "politik-2",
-          "titel": "Ungarns Parlament enthält Staatspräsident des Amtes",
-          "zusammenfassung": "Das ungarische Parlament hat Tamás Sulyok mit einer Mehrheit aus dem Amt des Staatspräsidenten entfernt. Sulyok galt als enger Vertrauter des im April nach sechzehn Jahren abgewählten Ex-Premiers Viktor Orbán.",
-          "bedeutung": "Die Absetzung symbolisiert den politischen Bruch mit der Orbán-Ära und markiert einen weiteren Schritt des neuen ungarischen Machtblocks, institutionelle Schlüsselpositionen umzubesetzen.",
-          "hintergrund": "Orbáns überraschende Wahlniederlage im April 2026 hatte nach eineinhalb Jahrzehnten autoritär geprägter Regierung eine politische Zäsur in Ungarn eingeleitet. Seitdem arbeitet die neue Regierungsmehrheit daran, Orbán-loyale Amtsträger in zentralen Institutionen abzulösen.\n\nDie Absetzung des Staatspräsidenten ist in der ungarischen Verfassung ein außerordentlicher Schritt und dürfte die innenpolitischen Spannungen zwischen dem neuen Lager und Orbán-treuen Netzwerken weiter verschärfen.",
-          "tag": "Ungarn",
-          "emoji": "🏛️",
+          "titel": "Bangkok-Brandkatastrophe: Tote steigen auf 30",
+          "zusammenfassung": "Bei der Untersuchung des verheerenden Brandes in Bangkok haben Ermittler versperrte Notausgänge und brennbare Dekorationsmaterialien als wesentliche Brandursachen identifiziert. Die Opferzahl ist inzwischen auf mindestens 30 Tote gestiegen.",
+          "bedeutung": "Der Fall wirft ein Schlaglicht auf eklatante Sicherheitsmängel in der Veranstaltungsbranche und könnte weitreichende regulatorische Konsequenzen für ganz Südostasien haben.",
+          "hintergrund": "Überlebende und Einsatzkräfte schilderten chaotische Verhältnisse: Türen, die sich im Ernstfall nicht öffnen ließen, und fehlende Hinweisschilder auf Notausgänge hätten viele Menschen in der Todesfalle gehalten. Das Gebäude soll zahlreiche Brandschutzauflagen nicht erfüllt haben.\n\nGroßbrände mit hohen Opferzahlen in asiatischen Vergnügungsstätten haben in der Vergangenheit immer wieder internationale Diskussionen über Bauvorschriften und deren Durchsetzung angestoßen. Behörden in Thailand stehen nun unter Druck, die Kontrollen drastisch zu verschärfen.",
+          "tag": "Brandkatastrophe",
+          "emoji": "🔥",
           "quelle": "BBC",
-          "quelle_url": "https://www.bbc.co.uk/news/articles/cp8r002gdevo?at_medium=RSS&at_campaign=rss"
+          "quelle_url": "https://www.bbc.co.uk/news/articles/clyxyzlp9p2o?at_medium=RSS&at_campaign=rss"
         }
       ]
     },
@@ -49,36 +49,36 @@
       "stories": [
         {
           "id": "wirtschaft-0",
-          "titel": "Volkswagen plant weltweiten Abbau von 100.000 Stellen",
-          "zusammenfassung": "Der Volkswagenkonzern, zu dem auch Marken wie Porsche und Audi gehören, plant den Abbau von bis zu hunderttausend Arbeitsplätzen weltweit. Hintergrund sind drastisch gesunkene Gewinne und der zunehmende Wettbewerbsdruck durch chinesische Hersteller.",
-          "bedeutung": "Ein Stellenabbau dieser Größenordnung wäre einer der massivsten in der Geschichte der europäischen Automobilindustrie und hätte weitreichende Folgen für Zulieferer, Regionen und den Industriestandort Europa.",
-          "hintergrund": "Volkswagen kämpft seit Monaten mit rückläufigen Verkaufszahlen in China, dem wichtigsten Einzelmarkt des Konzerns, wo heimische Elektrofahrzeughersteller wie BYD rasant Marktanteile gewinnen. Gleichzeitig lastet der teure Umbau zur Elektromobilität auf den Bilanzen.\n\nDer geplante Personalabbau dürfte massive Auseinandersetzungen mit dem mächtigen Betriebsrat und der deutschen Gewerkschaft IG Metall nach sich ziehen. Auch politisch steht der Konzern unter Druck, da zahlreiche Standorte in strukturschwachen Regionen liegen.",
-          "tag": "Automobilindustrie",
-          "emoji": "🏭",
+          "titel": "US-Inflation sinkt dank Benzinpreisen – vorerst",
+          "zusammenfassung": "Die Inflationsrate in den USA ist im Juni zurückgegangen, weil die Energiepreise nachließen. Ökonomen warnen jedoch, dass der eskalierende Konflikt im Nahen Osten die Teuerung bald wieder anheizen könnte.",
+          "bedeutung": "Die Entwicklung beeinflusst unmittelbar den geldpolitischen Kurs der US-Notenbank und damit Finanzierungskosten für Unternehmen und Verbraucher weltweit.",
+          "hintergrund": "Sinkende Benzinpreise haben den Hauptteil des Rückgangs bei den US-Verbraucherpreisen erklärt. Analysten betonen jedoch, dass dieser Entlastungseffekt temporärer Natur sein dürfte, solange die Lage an der Straße von Hormuz ungelöst bleibt und die Ölversorgung unter Druck steht.\n\nGleichzeitig bleibt die Kerninflation – also ohne Energie und Lebensmittel – hartnäckig erhöht, was der Fed wenig Spielraum für schnelle Zinssenkungen lässt. Die nächste Sitzung des Offenmarktausschusses wird von Märkten deshalb mit besonderer Spannung erwartet.",
+          "tag": "US-Inflation",
+          "emoji": "📉",
           "quelle": "BBC",
-          "quelle_url": "https://www.bbc.co.uk/news/articles/cx2wzpwn51lo?at_medium=RSS&at_campaign=rss"
+          "quelle_url": "https://www.bbc.co.uk/news/articles/c98289j7lg7o?at_medium=RSS&at_campaign=rss"
         },
         {
           "id": "wirtschaft-1",
-          "titel": "US-Staatsanwälte klagen gegen Paramount-Warner-Mega-Fusion",
-          "zusammenfassung": "Zwölf US-Generalstaatsanwälte haben Klage eingereicht, um die geplante 110-Milliarden-Dollar-Fusion von Paramount Skydance und Warner Bros. Discovery zu blockieren. Die parteiübergreifende Gruppe argumentiert, der Zusammenschluss schade dem Wettbewerb und koste Tausende Arbeitsplätze.",
-          "bedeutung": "Eine erfolgreiche Blockade würde den globalen Medienmarkt erheblich umformen und die Frage regulieren, wie weit Konsolidierung im Streamingzeitalter gehen darf.",
-          "hintergrund": "Die geplante Fusion würde zwei der größten Hollywood-Studios unter einem Dach vereinen und einen der mächtigsten Medienkonzerne der Welt entstehen lassen. Kritiker befürchten neben Jobverlusten auch eine Einschränkung inhaltlicher Vielfalt.\n\nDass sich Generalstaatsanwälte beider großen Parteien gemeinsam gegen den Deal stellen, ist politisch bemerkenswert und erhöht den juristischen Druck auf die beteiligten Unternehmen erheblich. Auch die Bundesbehörde FTC prüft den Vorgang.",
-          "tag": "Medienfusion",
-          "emoji": "🎬",
-          "quelle": "The Guardian",
-          "quelle_url": "https://www.theguardian.com/media/2026/jul/13/paramount-warner-bros-merger-lawsuit"
+          "titel": "Buffett streicht Gates-Stiftung von Spendenliste",
+          "zusammenfassung": "Investorenlegende Warren Buffett hat die Bill-und-Melinda-Gates-Stiftung bei seiner jährlichen Schenkung von Berkshire-Hathaway-Aktien übergangen. Der Schritt erfolgt kurz nachdem Gates vor dem US-Kongress wegen seiner Verbindungen zu Jeffrey Epstein ausgesagt hatte.",
+          "bedeutung": "Buffetts öffentlich sichtbarer Rückzug könnte erhebliche finanzielle und reputationsbezogene Folgen für eine der größten Wohltätigkeitsorganisationen der Welt haben.",
+          "hintergrund": "Über Jahrzehnte war Buffett einer der größten Einzelgeldgeber der Gates-Stiftung und hatte zugesagt, den Großteil seines Vermögens für wohltätige Zwecke zu stiften. Das demonstrative Auslassen der Stiftung bei der jüngsten Schenkungsrunde gilt daher als schwerwiegendes Zeichen einer Entfremdung.\n\nDie Stiftung verwaltet ein Vermögen von rund 70 Milliarden Dollar und finanziert weltweit Projekte in den Bereichen Gesundheit, Bildung und Armutsbekämpfung. Ausbleibende Zuwendungen in dieser Größenordnung könnten mittelfristig den Spielraum für laufende Programme empfindlich einschränken.",
+          "tag": "Philanthropie",
+          "emoji": "💰",
+          "quelle": "BBC",
+          "quelle_url": "https://www.bbc.co.uk/news/articles/c8x2x549vgdo?at_medium=RSS&at_campaign=rss"
         },
         {
           "id": "wirtschaft-2",
-          "titel": "Kalifornien führt Sammelklage gegen Hollywood-Megafusion",
-          "zusammenfassung": "Kalifornien hat sich als Sitzstaat beider Filmstudios einer Klage gegen die Fusion von Paramount und Warner Bros. angeschlossen. Insgesamt zwölf Bundesstaaten wollen den Zusammenschluss vor Gericht stoppen.",
-          "bedeutung": "Das Eingreifen des wirtschaftsstärksten US-Bundesstaates verleiht dem juristischen Widerstand gegen den Deal besonderes Gewicht.",
-          "hintergrund": "Die Klage Kaliforniens ist insbesondere symbolisch bedeutsam, da sowohl Paramount als auch Warner Bros. ihren Hauptsitz in Los Angeles haben. Der Staat argumentiert, die Fusion schade lokalen Arbeitnehmern und dem Medienökosystem direkt vor Ort.\n\nBeobachter sehen in der Beteiligung Kaliforniens ein klares politisches Signal, dass selbst wirtschaftsfreundliche Bundesstaaten bereit sind, gegen industrielle Konzentration vorzugehen, wenn Arbeitsplätze und Wettbewerb auf dem Spiel stehen.",
-          "tag": "Kartellrecht",
-          "emoji": "⚖️",
-          "quelle": "BBC",
-          "quelle_url": "https://www.bbc.co.uk/news/articles/cgev34lvgp4o?at_medium=RSS&at_campaign=rss"
+          "titel": "Chinas Humanoiden-Startups drängen an die Börse",
+          "zusammenfassung": "Chinesische Hersteller humanoider Roboter bereiten sich in rasantem Tempo auf Börsengänge vor, um den wachsenden Investorenhunger nach KI-Hardwarefirmen zu bedienen. Das Shenzhen-Unternehmen LimX Dynamics ist nur das jüngste Beispiel einer ganzen Welle von IPO-Kandidaten.",
+          "bedeutung": "Der Hype um humanoide Roboter könnte die globale Technologielandschaft nachhaltig verändern und einen neuen Wettrüsten-Moment zwischen China und dem Westen einläuten.",
+          "hintergrund": "Investoren sehen in humanoiden Robotern die nächste große Plattformtechnologie nach dem Smartphone – und chinesische Firmen nutzen den Kapitalmarktrausch, um sich frühzeitig zu positionieren. Mehrere Unternehmen haben in den vergangenen Wochen Finanzierungsrunden in Milliardenhöhe abgeschlossen.\n\nBeobachter vergleichen die aktuelle Entwicklung mit dem E-Auto-Boom der frühen 2020er-Jahre, als chinesische Anbieter den globalen Markt mit einer Flut von Börsengängen überschwemmten. Regulatorische Fragen zur Datensicherheit und zum Technologietransfer dürften den Prozess allerdings begleiten.",
+          "tag": "Robotik-IPO",
+          "emoji": "🤖",
+          "quelle": "CNBC",
+          "quelle_url": "https://www.cnbc.com/2026/07/13/chinese-humanoid-startups-ipo-limx-unitree.html"
         }
       ]
     },
@@ -89,36 +89,36 @@
       "stories": [
         {
           "id": "boerse-0",
-          "titel": "Fed-Zinserhöhung im Juli wird wahrscheinlicher",
-          "zusammenfassung": "Die Wahrscheinlichkeit einer Zinserhöhung durch die US-Notenbank Federal Reserve im Juli ist deutlich gestiegen, nachdem die Ölpreise infolge der Eskalation in der Straße von Hormus kräftig anzogen. Händler beginnen, ein weiteres Straffungsszenario in ihre Erwartungen einzupreisen.",
-          "bedeutung": "Eine unerwartete Zinserhöhung der Fed hätte unmittelbare Auswirkungen auf globale Aktienmärkte, Anleiherenditen und Wechselkurse weltweit.",
-          "hintergrund": "Die Fed hatte zuletzt Signale ausgesendet, die Zinsen stabil zu halten. Doch der Ölpreisschock durch die Iran-Krise befeuert nun erneut die Inflationssorgen, die die Notenbank eigentlich schon unter Kontrolle geglaubt hatte.\n\nFed-Gouverneur Christopher Waller warnte zudem, die Notenbank dürfe nicht ausschließlich auf vergangene Inflationstreiber fokussiert bleiben. Er schloss weitere Zinsschritte explizit nicht aus, falls sich der Preisdruck als breiter als erwartet erweist.",
-          "tag": "Geldpolitik",
-          "emoji": "📈",
+          "titel": "Fed-Chef Warsh kündigt geldpolitischen Kurswechsel an",
+          "zusammenfassung": "Der neue US-Notenbankchef Kevin Warsh hat vor dem Kongress einen grundlegenden Strategiewechsel der Federal Reserve angekündigt, um die hartnäckig hohe Inflation zu bekämpfen. Er bezeichnete die Teuerung als eine Art versteckte Steuer, die das Vertrauen der Bevölkerung in die Zentralbank erschüttere.",
+          "bedeutung": "Worte und Signale des Fed-Vorsitzenden bewegen Märkte weltweit – ein angekündigter Regimewechsel dürfte Zinserwartungen und damit Anleihe-, Aktien- und Devisenmärkte neu kalibrieren.",
+          "hintergrund": "Warsh gilt als hawkischer als sein Vorgänger und hat seit seiner Amtsübernahme den Kampf gegen die Inflation zu seiner zentralen Aufgabe erklärt. Sein Kongress-Auftritt wurde an den Märkten genau verfolgt, weil er Hinweise auf den künftigen Zinskurs geben sollte.\n\nDie Aussagen lösten unmittelbar Bewegung an den Rentenmärkten aus: Die Renditen kurz laufender US-Staatsanleihen zogen an, da Händler die Wahrscheinlichkeit einer weiteren Zinserhöhung bereits im Juli höher gewichteten.",
+          "tag": "Fed-Zinspolitik",
+          "emoji": "🏦",
+          "quelle": "CNBC",
+          "quelle_url": "https://www.cnbc.com/2026/07/14/warsh-promises-inflation-will-be-a-thing-of-the-past-cites-benefits-of-ai-investment-boom.html"
+        },
+        {
+          "id": "boerse-1",
+          "titel": "Märkte preisen Juli-Zinserhöhung der Fed ein",
+          "zusammenfassung": "Die Wahrscheinlichkeit, dass die US-Notenbank bereits im Juli die Leitzinsen erhöht, ist nach dem jüngsten Ölpreisanstieg infolge der Hormuz-Spannungen deutlich gestiegen. Terminmärkte spiegeln die veränderten Erwartungen der Investoren wider.",
+          "bedeutung": "Eine unerwartete Zinserhöhung im Juli würde Kredite teurer machen, Währungen und Aktienmärkte weltweit erschüttern und die Rezessionsrisiken erhöhen.",
+          "hintergrund": "Noch vor wenigen Wochen galt ein weiterer Zinsschritt nach oben als unwahrscheinlich, nachdem mehrere Inflationsdaten leichte Entspannung signalisiert hatten. Doch die Eskalation im Persischen Golf hat die Energiepreise wieder angetrieben und die Inflationserwartungen nach oben verschoben.\n\nBesonders Schwellenländer mit hohen Dollarschulden reagieren empfindlich auf US-Zinserhöhungen. Anleger in Asien und Lateinamerika beobachten die Fed-Signale deshalb mit wachsender Nervosität.",
+          "tag": "Zinsentscheid",
+          "emoji": "📊",
           "quelle": "CNBC",
           "quelle_url": "https://www.cnbc.com/2026/07/13/-a-july-rate-hike-from-the-fed-the-odds-are-rising.html"
         },
         {
-          "id": "boerse-1",
-          "titel": "Großbanken erwarten Rekordumsätze dank SpaceX-Börsengang",
-          "zusammenfassung": "Amerikanische Großbanken stehen vor der Bekanntgabe außergewöhnlich starker Quartalsergebnisse, angetrieben durch den milliardenschweren SpaceX-Börsengang, die Volatilität an den Märkten durch den Iran-Konflikt und eine Erholung im Firmenkundengeschäft. Wall Street befindet sich nach Einschätzung von Analysten in einer idealen Gewinnsituation.",
-          "bedeutung": "Boomende Bankergebnisse signalisieren die Robustheit des US-Finanzsystems trotz geopolitischer Turbulenzen, werfen jedoch auch Fragen zur wachsenden Ungleichheit zwischen Finanzsektor und Realwirtschaft auf.",
-          "hintergrund": "Der lang erwartete Börsengang von SpaceX hat im zweiten Quartal enorme Gebühreneinnahmen im Investment-Banking generiert. Gleichzeitig trieb die Volatilität durch den Iran-Krieg das Handelsgeschäft der Banken auf Hochtouren.\n\nAnalysten rechnen damit, dass Institute wie JPMorgan, Goldman Sachs und Morgan Stanley bei ihren Quartalspräsentationen neue Rekordmarken melden werden. Das steht im starken Kontrast zu schwächelnden Industrie- und Konsumentenzahlen in anderen Teilen der US-Wirtschaft.",
-          "tag": "Bankensektor",
-          "emoji": "🏦",
-          "quelle": "CNBC",
-          "quelle_url": "https://www.cnbc.com/2026/07/13/bank-earnings-jpmorgan-chase-goldman-sachs-bank-of-america.html"
-        },
-        {
           "id": "boerse-2",
-          "titel": "Indiens Inflation steigt auf 4,38 Prozent – achter Monat in Folge",
-          "zusammenfassung": "Die Verbraucherpreise in Indien sind im Juni auf 4,38 Prozent gestiegen und haben damit die Marktprognosen übertroffen. Als Haupttreiber gelten steigende Energie- und Lebensmittelpreise, bedingt durch den Iran-Krieg und unterdurchschnittliche Monsunregenfälle.",
-          "bedeutung": "Anhaltende Inflation in der bevölkerungsreichsten Volkswirtschaft der Welt erhöht den Druck auf die Reserve Bank of India und dämpft die Kaufkraft von Hunderten Millionen Konsumenten.",
-          "hintergrund": "Indien ist als großer Rohölimporteur besonders anfällig für Preisschocks, die aus dem Nahen Osten stammen. Der Iran-Konflikt und die Störungen in der Straße von Hormus treiben die Energiekosten im Land direkt in die Höhe.\n\nZusätzlich belastet ein schwächerer Monsun die Lebensmittelproduktion, was die Nahrungsmittelpreise weiter anheizt. Ökonomen sehen die Reserve Bank of India nun in einem Dilemma zwischen Wachstumsunterstützung und Inflationsbekämpfung.",
-          "tag": "Schwellenländer",
-          "emoji": "🌡️",
+          "titel": "KI-Boom beschert Goldman und JPMorgan Rekorderlöse",
+          "zusammenfassung": "Goldman Sachs und JPMorgan Chase haben für das zweite Quartal 2026 Rekordeinnahmen gemeldet, die maßgeblich durch den KI-getriebenen Boom im Handels- und Investmentbanking angetrieben wurden. Die Wall Street positioniert sich damit als einer der größten Profiteure der Künstlichen-Intelligenz-Welle.",
+          "bedeutung": "Wenn Großbanken vom KI-Boom profitieren, signalisiert das eine neue Reifephase der Technologie – mit Auswirkungen auf Kapitalallokation und Marktstruktur weltweit.",
+          "hintergrund": "Beide Institute verzeichneten besonders starke Ergebnisse in den Bereichen Aktienhandel und Beratung bei Fusionen und Übernahmen, die durch KI-Investitionen und -Transaktionen angekurbelt wurden. Analysten werten dies als Beweis dafür, dass die KI-Investitionswelle nun vollständig in den Bilanzen der Finanzbranche ankommt.\n\nDie Quartalszahlen dürften auch den laufenden Berichtssaison-Ton setzen: Weitere Großbanken legen in den kommenden Tagen ihre Ergebnisse vor, und Investoren werden genau prüfen, ob der KI-Rückenwind branchenübergreifend anhält oder sich auf einige wenige Institute konzentriert.",
+          "tag": "Bankengewinne",
+          "emoji": "💹",
           "quelle": "CNBC",
-          "quelle_url": "https://www.cnbc.com/2026/07/13/india-june-inflation-oil-food-iran-war.html"
+          "quelle_url": "https://www.cnbc.com/2026/07/14/goldman-sachs-and-jpmorgan-chase-are-emerging-as-ai-winners.html"
         }
       ]
     }
