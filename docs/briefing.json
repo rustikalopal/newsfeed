@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-15T00:10:00.981178+00:00",
-  "datum": "Mittwoch, 15. Juli 2026",
+  "generated_at": "2026-07-16T00:14:00.509212+00:00",
+  "datum": "Donnerstag, 16. Juli 2026",
   "ressorts": [
     {
       "id": "politik",
@@ -9,36 +9,36 @@
       "stories": [
         {
           "id": "politik-0",
-          "titel": "Trump kippt Hormuz-Gebühr nach nur einem Tag",
-          "zusammenfassung": "US-Präsident Trump hat seine wenige Stunden alte Ankündigung zurückgezogen, Frachtschiffe für die Durchfahrt durch die Straße von Hormuz zur Kasse zu bitten. Gleichzeitig setzt Washington seine Seeblockade iranischer Häfen unvermindert fort.",
-          "bedeutung": "Die abrupte Kehrtwende unterstreicht die Instabilität der US-Iran-Politik und erhöht die Unsicherheit auf einem der wichtigsten Rohstoffkorridore der Welt.",
-          "hintergrund": "Die Straße von Hormuz ist eine der bedeutendsten Schifffahrtsrouten weltweit – rund ein Fünftel des global gehandelten Öls passiert das enge Nadelöhr zwischen dem Persischen Golf und dem Arabischen Meer. Jede Eskalation dort trifft Energiemärkte, Lieferketten und Verbraucher rund um den Globus.\n\nDer kurzlebige Vorstoß, eine Durchfahrtgebühr zu erheben, wurde von Reedereien und Verbündeten umgehend als impraktikabel kritisiert. Dass Trump ihn binnen 24 Stunden fallen ließ, gilt Beobachtern als Zeichen dafür, dass die übergeordnete Hormuz-Strategie der USA noch nicht ausdefiniert ist.",
-          "tag": "Hormuz-Krise",
-          "emoji": "🚢",
+          "titel": "USA greifen Iran erneut an – Trump droht offen",
+          "zusammenfassung": "Die US-Streitkräfte haben weitere Angriffe auf iranische Ziele durchgeführt. Präsident Trump ließ offen, ob er einen noch umfassenderen militärischen Schlag gegen Teheran anordnen werde.",
+          "bedeutung": "Ein eskalierender US-Iran-Konflikt bedroht die regionale Stabilität im Nahen Osten und hat unmittelbare Folgen für Ölversorgung und globale Sicherheitslage.",
+          "hintergrund": "Die jüngsten amerikanischen Luftangriffe markieren eine neue Eskalationsstufe in der seit Monaten schwelenden Konfrontation zwischen Washington und Teheran. Trump signalisierte, dass die militärische Option eines umfassenden Schlages gegen den Iran weiterhin auf dem Tisch liegt.\n\nDie Spannungen rund um die Straße von Hormus treiben die Energiepreise weltweit in die Höhe und zwingen Verbündete wie die EU, ihre außenpolitischen Kalkulationen neu auszurichten. Mehrere europäische Regierungen riefen beide Seiten zur Deeskalation auf.",
+          "tag": "US-Iran-Krieg",
+          "emoji": "💥",
           "quelle": "BBC",
-          "quelle_url": "https://www.bbc.co.uk/news/articles/cy0608wy8pro?at_medium=RSS&at_campaign=rss"
+          "quelle_url": "https://www.bbc.co.uk/news/articles/c9323zgq6wvo?at_medium=RSS&at_campaign=rss"
         },
         {
           "id": "politik-1",
-          "titel": "Hormuz-Streit lässt US-Iran-Waffenruhe wanken",
-          "zusammenfassung": "Die Kontrolle über die Straße von Hormuz entwickelt sich zum entscheidenden Streitpunkt, der den fragilen Waffenstillstand zwischen den USA und Iran zu zerreißen droht. Beide Seiten beanspruchen Hoheitsrechte über den Korridor, durch den ein Großteil des weltweiten Öltransits läuft.",
-          "bedeutung": "Ein Scheitern des Waffenstillstands würde die Energiepreise erneut in die Höhe treiben und die geopolitische Lage im gesamten Nahen Osten destabilisieren.",
-          "hintergrund": "Der jüngste Konflikt zwischen den USA, Israel und Iran hatte die Ölpreise bereits erheblich steigen lassen. Der nun ausgehandelte Waffenstillstand gilt als äußerst brüchig, weil grundlegende Fragen über Seegrenzen und Kontrollrechte am Hormuz ungeklärt geblieben sind.\n\nExperten warnen, dass gerade die Straße von Hormuz als 'tektonischer Bruchpunkt' fungiert: Selbst kleine Zwischenfälle können dort Eskalationsketten auslösen, die weit über die Region hinaus spürbar werden.",
-          "tag": "Iran-Konflikt",
-          "emoji": "⚠️",
+          "titel": "Ukraine trifft russische Tanker im Schwarzen Meer",
+          "zusammenfassung": "Russische Angriffe forderten in mehreren ukrainischen Regionen mindestens 14 Todesopfer unter der Zivilbevölkerung. Die ukrainische Armee reagierte mit Angriffen auf rund 20 russische Schiffe im Schwarzen Meer.",
+          "bedeutung": "Der simultane Angriff auf russische Öltanker zeigt eine neue maritime Dimension des Krieges und könnte Energielieferungen aus der Region weiter destabilisieren.",
+          "hintergrund": "Die ukrainischen Streitkräfte intensivieren ihre Operationen gegen russische Flottenverbände im Schwarzen Meer, um wirtschaftlichen Druck auf Moskau auszuüben und eigene Versorgungsrouten zu schützen. Ziel waren offenbar Schiffe, die russisches Öl unter Umgehung westlicher Sanktionen transportierten.\n\nGleichzeitig setzt Russland seine Raketen- und Drohnenangriffe auf ukrainische Städte und Infrastruktur unvermindert fort. Humanitäre Organisationen warnen vor der wachsenden Zahl ziviler Opfer in den betroffenen Regionen.",
+          "tag": "Ukraine-Krieg",
+          "emoji": "🚢",
           "quelle": "BBC",
-          "quelle_url": "https://www.bbc.co.uk/news/articles/cwy0ydn033yo?at_medium=RSS&at_campaign=rss"
+          "quelle_url": "https://www.bbc.co.uk/news/articles/c8929jv8kdzo?at_medium=RSS&at_campaign=rss"
         },
         {
           "id": "politik-2",
-          "titel": "Bangkok-Brandkatastrophe: Tote steigen auf 30",
-          "zusammenfassung": "Bei der Untersuchung des verheerenden Brandes in Bangkok haben Ermittler versperrte Notausgänge und brennbare Dekorationsmaterialien als wesentliche Brandursachen identifiziert. Die Opferzahl ist inzwischen auf mindestens 30 Tote gestiegen.",
-          "bedeutung": "Der Fall wirft ein Schlaglicht auf eklatante Sicherheitsmängel in der Veranstaltungsbranche und könnte weitreichende regulatorische Konsequenzen für ganz Südostasien haben.",
-          "hintergrund": "Überlebende und Einsatzkräfte schilderten chaotische Verhältnisse: Türen, die sich im Ernstfall nicht öffnen ließen, und fehlende Hinweisschilder auf Notausgänge hätten viele Menschen in der Todesfalle gehalten. Das Gebäude soll zahlreiche Brandschutzauflagen nicht erfüllt haben.\n\nGroßbrände mit hohen Opferzahlen in asiatischen Vergnügungsstätten haben in der Vergangenheit immer wieder internationale Diskussionen über Bauvorschriften und deren Durchsetzung angestoßen. Behörden in Thailand stehen nun unter Druck, die Kontrollen drastisch zu verschärfen.",
-          "tag": "Brandkatastrophe",
-          "emoji": "🔥",
+          "titel": "Weltweites Vertrauen: China überholt USA in Umfrage",
+          "zusammenfassung": "Eine neue Pew-Studie zeigt, dass weltweit mehr Menschen China gegenüber den USA positiv eingestellt sind. Zudem genießt Staats- und Parteichef Xi Jinping in der globalen Wahrnehmung mehr Vertrauen als US-Präsident Donald Trump.",
+          "bedeutung": "Die Verschiebung des globalen Ansehens weg von den USA hin zu China hat weitreichende Konsequenzen für Bündnispolitik, Handelsnetzwerke und den geopolitischen Einfluss des Westens.",
+          "hintergrund": "Das renommierte Pew Research Center befragte Menschen in Dutzenden Ländern zu ihren Einstellungen gegenüber den beiden Großmächten. Besonders in Teilen Afrikas, Lateinamerikas und Südostasiens fiel das Ergebnis deutlich zugunsten Chinas aus – ein Trend, der sich laut Forschern seit mehreren Jahren verstärkt.\n\nAnalysten sehen in Trumps America-First-Kurs und dem Rückzug der USA aus multilateralen Institutionen einen wesentlichen Treiber dieser Entwicklung. Peking wiederum profitiert von seiner Investitionspolitik und einer als berechenbarer empfundenen Außenpolitik.",
+          "tag": "Geopolitik",
+          "emoji": "🌏",
           "quelle": "BBC",
-          "quelle_url": "https://www.bbc.co.uk/news/articles/clyxyzlp9p2o?at_medium=RSS&at_campaign=rss"
+          "quelle_url": "https://www.bbc.co.uk/news/articles/cd959q11g54o?at_medium=RSS&at_campaign=rss"
         }
       ]
     },
@@ -49,36 +49,36 @@
       "stories": [
         {
           "id": "wirtschaft-0",
-          "titel": "US-Inflation sinkt dank Benzinpreisen – vorerst",
-          "zusammenfassung": "Die Inflationsrate in den USA ist im Juni zurückgegangen, weil die Energiepreise nachließen. Ökonomen warnen jedoch, dass der eskalierende Konflikt im Nahen Osten die Teuerung bald wieder anheizen könnte.",
-          "bedeutung": "Die Entwicklung beeinflusst unmittelbar den geldpolitischen Kurs der US-Notenbank und damit Finanzierungskosten für Unternehmen und Verbraucher weltweit.",
-          "hintergrund": "Sinkende Benzinpreise haben den Hauptteil des Rückgangs bei den US-Verbraucherpreisen erklärt. Analysten betonen jedoch, dass dieser Entlastungseffekt temporärer Natur sein dürfte, solange die Lage an der Straße von Hormuz ungelöst bleibt und die Ölversorgung unter Druck steht.\n\nGleichzeitig bleibt die Kerninflation – also ohne Energie und Lebensmittel – hartnäckig erhöht, was der Fed wenig Spielraum für schnelle Zinssenkungen lässt. Die nächste Sitzung des Offenmarktausschusses wird von Märkten deshalb mit besonderer Spannung erwartet.",
-          "tag": "US-Inflation",
-          "emoji": "📉",
+          "titel": "SpaceX-Aktie fällt unter Börsendebütkurs",
+          "zusammenfassung": "Die Aktie von Elon Musks Raumfahrtunternehmen SpaceX ist seit dem Börsengang vor etwa einem Monat stark unter Druck geraten und notiert inzwischen unterhalb des Ausgabepreises. Volatile Handelstage haben Investoren verunsichert.",
+          "bedeutung": "Der Kursverfall des hochprofilierten Tech-Debüts dämpft die Stimmung am IPO-Markt und stellt Fragen zur Bewertung von Raumfahrt- und Technologieunternehmen.",
+          "hintergrund": "SpaceX hatte seinen Börsengang unter großem medialem Interesse vollzogen und war zunächst mit einer Rekordbewertung gestartet. Seitdem belastet eine Kombination aus geopolitischen Unsicherheiten, steigenden Zinsen und spezifischen Unternehmensrisiken den Kurs.\n\nMarktbeobachter verweisen zudem auf die enge Verknüpfung des Unternehmensimages mit der polarisierenden öffentlichen Person Elon Musks als zusätzlichen Belastungsfaktor für die Kursentwicklung.",
+          "tag": "Tech-IPO",
+          "emoji": "🚀",
           "quelle": "BBC",
-          "quelle_url": "https://www.bbc.co.uk/news/articles/c98289j7lg7o?at_medium=RSS&at_campaign=rss"
+          "quelle_url": "https://www.bbc.co.uk/news/articles/clyl33q0yl0o?at_medium=RSS&at_campaign=rss"
         },
         {
           "id": "wirtschaft-1",
-          "titel": "Buffett streicht Gates-Stiftung von Spendenliste",
-          "zusammenfassung": "Investorenlegende Warren Buffett hat die Bill-und-Melinda-Gates-Stiftung bei seiner jährlichen Schenkung von Berkshire-Hathaway-Aktien übergangen. Der Schritt erfolgt kurz nachdem Gates vor dem US-Kongress wegen seiner Verbindungen zu Jeffrey Epstein ausgesagt hatte.",
-          "bedeutung": "Buffetts öffentlich sichtbarer Rückzug könnte erhebliche finanzielle und reputationsbezogene Folgen für eine der größten Wohltätigkeitsorganisationen der Welt haben.",
-          "hintergrund": "Über Jahrzehnte war Buffett einer der größten Einzelgeldgeber der Gates-Stiftung und hatte zugesagt, den Großteil seines Vermögens für wohltätige Zwecke zu stiften. Das demonstrative Auslassen der Stiftung bei der jüngsten Schenkungsrunde gilt daher als schwerwiegendes Zeichen einer Entfremdung.\n\nDie Stiftung verwaltet ein Vermögen von rund 70 Milliarden Dollar und finanziert weltweit Projekte in den Bereichen Gesundheit, Bildung und Armutsbekämpfung. Ausbleibende Zuwendungen in dieser Größenordnung könnten mittelfristig den Spielraum für laufende Programme empfindlich einschränken.",
-          "tag": "Philanthropie",
-          "emoji": "💰",
+          "titel": "Heizölkunden erhalten Entschädigung nach Preisschock",
+          "zusammenfassung": "Haushalte, die Heizöl beziehen, sollen Kompensationszahlungen erhalten, nachdem die Preise infolge des US-Iran-Konflikts drastisch gestiegen waren. Der Anstieg der Rohölpreise hatte die Kosten für Verbraucher massiv in die Höhe getrieben.",
+          "bedeutung": "Die Entschädigungsregelung setzt ein politisches Signal für den Umgang mit Energiepreisschocks, die durch geopolitische Konflikte ausgelöst werden, und könnte als Präzedenzfall dienen.",
+          "hintergrund": "Der Ausbruch direkter Kampfhandlungen zwischen den USA und dem Iran ließ die internationalen Ölpreise innerhalb kurzer Zeit stark ansteigen. Besonders Haushalte, die auf Heizöl angewiesen sind, wurden unverhältnismäßig hart getroffen, da sie keine langfristigen Verträge zu fixen Preisen abgeschlossen hatten.\n\nDie Entschädigungsregelung soll über Energieversorger abgewickelt werden und richtet sich vorrangig an einkommensschwache Haushalte. Verbraucherschützer begrüßen die Maßnahme, fordern aber gleichzeitig strukturelle Reformen zur Reduzierung der Abhängigkeit von fossilen Brennstoffen.",
+          "tag": "Energiepreise",
+          "emoji": "🛢️",
           "quelle": "BBC",
-          "quelle_url": "https://www.bbc.co.uk/news/articles/c8x2x549vgdo?at_medium=RSS&at_campaign=rss"
+          "quelle_url": "https://www.bbc.co.uk/news/articles/cy494yypnv3o?at_medium=RSS&at_campaign=rss"
         },
         {
           "id": "wirtschaft-2",
-          "titel": "Chinas Humanoiden-Startups drängen an die Börse",
-          "zusammenfassung": "Chinesische Hersteller humanoider Roboter bereiten sich in rasantem Tempo auf Börsengänge vor, um den wachsenden Investorenhunger nach KI-Hardwarefirmen zu bedienen. Das Shenzhen-Unternehmen LimX Dynamics ist nur das jüngste Beispiel einer ganzen Welle von IPO-Kandidaten.",
-          "bedeutung": "Der Hype um humanoide Roboter könnte die globale Technologielandschaft nachhaltig verändern und einen neuen Wettrüsten-Moment zwischen China und dem Westen einläuten.",
-          "hintergrund": "Investoren sehen in humanoiden Robotern die nächste große Plattformtechnologie nach dem Smartphone – und chinesische Firmen nutzen den Kapitalmarktrausch, um sich frühzeitig zu positionieren. Mehrere Unternehmen haben in den vergangenen Wochen Finanzierungsrunden in Milliardenhöhe abgeschlossen.\n\nBeobachter vergleichen die aktuelle Entwicklung mit dem E-Auto-Boom der frühen 2020er-Jahre, als chinesische Anbieter den globalen Markt mit einer Flut von Börsengängen überschwemmten. Regulatorische Fragen zur Datensicherheit und zum Technologietransfer dürften den Prozess allerdings begleiten.",
-          "tag": "Robotik-IPO",
-          "emoji": "🤖",
+          "titel": "Chinas Wirtschaft wächst so langsam wie seit 2022 nicht",
+          "zusammenfassung": "Die chinesische Volkswirtschaft verzeichnete im zweiten Quartal 2026 das schwächste Wachstum seit dem Jahr 2022. Das Ergebnis blieb unterhalb der von Peking selbst gesetzten Jahresziele und schürt Forderungen nach zusätzlichen Konjunkturmaßnahmen.",
+          "bedeutung": "Chinas Wachstumsschwäche sendet Warnsignale für die Weltkonjunktur, da das Land als bedeutender Nachfrager für Rohstoffe, Güter und Investitionsgüter gilt.",
+          "hintergrund": "Rückläufige Investitionen im Inland, eine anhaltend schwache Binnennachfrage und der globale Handelsdruck durch US-Zölle haben die chinesische Wirtschaftsleistung im zweiten Quartal spürbar gebremst. Ökonomen hatten zwar eine Verlangsamung erwartet, das tatsächliche Ausmaß überraschte jedoch viele Analysten.\n\nDie Regierung in Peking steht vor einem Dilemma: Zu aggressive Stimulusmaßnahmen könnten die Verschuldung weiter aufblähen, während zu zögerliches Handeln das Verfehlen der Jahresziele riskiert. Mehrere Zentralbankbeobachter rechnen nun mit einer baldigen Lockerung der Geldpolitik durch die Volksbank Chinas.",
+          "tag": "China-Konjunktur",
+          "emoji": "📉",
           "quelle": "CNBC",
-          "quelle_url": "https://www.cnbc.com/2026/07/13/chinese-humanoid-startups-ipo-limx-unitree.html"
+          "quelle_url": "https://www.cnbc.com/2026/07/15/china-gdp-retail-sales-investment-june-.html"
         }
       ]
     },
@@ -89,36 +89,36 @@
       "stories": [
         {
           "id": "boerse-0",
-          "titel": "Fed-Chef Warsh kündigt geldpolitischen Kurswechsel an",
-          "zusammenfassung": "Der neue US-Notenbankchef Kevin Warsh hat vor dem Kongress einen grundlegenden Strategiewechsel der Federal Reserve angekündigt, um die hartnäckig hohe Inflation zu bekämpfen. Er bezeichnete die Teuerung als eine Art versteckte Steuer, die das Vertrauen der Bevölkerung in die Zentralbank erschüttere.",
-          "bedeutung": "Worte und Signale des Fed-Vorsitzenden bewegen Märkte weltweit – ein angekündigter Regimewechsel dürfte Zinserwartungen und damit Anleihe-, Aktien- und Devisenmärkte neu kalibrieren.",
-          "hintergrund": "Warsh gilt als hawkischer als sein Vorgänger und hat seit seiner Amtsübernahme den Kampf gegen die Inflation zu seiner zentralen Aufgabe erklärt. Sein Kongress-Auftritt wurde an den Märkten genau verfolgt, weil er Hinweise auf den künftigen Zinskurs geben sollte.\n\nDie Aussagen lösten unmittelbar Bewegung an den Rentenmärkten aus: Die Renditen kurz laufender US-Staatsanleihen zogen an, da Händler die Wahrscheinlichkeit einer weiteren Zinserhöhung bereits im Juli höher gewichteten.",
-          "tag": "Fed-Zinspolitik",
+          "titel": "Hormuz-Eskalation zwingt EZB zur Zinsstrategie-Revision",
+          "zusammenfassung": "Die wiederaufgeflammten Spannungen in der Straße von Hormus infolge des US-Iran-Konflikts versetzen die Europäische Zentralbank in Unsicherheit über ihre geldpolitische Strategie. Mehrere aufeinanderfolgende Angriffe haben die Prognosen für die EZB-Sitzung der kommenden Woche durcheinandergeworfen.",
+          "bedeutung": "Ändert die EZB ihren Zinskurs, beeinflusst das unmittelbar Hypotheken, Unternehmensfinanzierungen und Wechselkurse im gesamten Euroraum und darüber hinaus.",
+          "hintergrund": "Steigende Ölpreise infolge der Hormuzkrise drohen, die Inflation in der Eurozone erneut anzufachen, gerade als die EZB eine vorsichtige Normalisierung ihrer Zinspolitik anstrebte. Ratsmitglieder sollen nun intern intensiv über das weitere Vorgehen diskutieren.\n\nDie Situation erinnert an frühere Energiepreisschocks, als die Notenbank zwischen dem Ziel der Preisstabilität und der Unterstützung des konjunkturellen Wachstums abwägen musste. Marktakteure in Frankfurt und Paris berichten von erhöhter Volatilität bei europäischen Staatsanleihen.",
+          "tag": "EZB-Zinsen",
           "emoji": "🏦",
           "quelle": "CNBC",
-          "quelle_url": "https://www.cnbc.com/2026/07/14/warsh-promises-inflation-will-be-a-thing-of-the-past-cites-benefits-of-ai-investment-boom.html"
+          "quelle_url": "https://www.cnbc.com/2026/07/15/ecb-interest-rates-outlook-iran-war-hormuz.html"
         },
         {
           "id": "boerse-1",
-          "titel": "Märkte preisen Juli-Zinserhöhung der Fed ein",
-          "zusammenfassung": "Die Wahrscheinlichkeit, dass die US-Notenbank bereits im Juli die Leitzinsen erhöht, ist nach dem jüngsten Ölpreisanstieg infolge der Hormuz-Spannungen deutlich gestiegen. Terminmärkte spiegeln die veränderten Erwartungen der Investoren wider.",
-          "bedeutung": "Eine unerwartete Zinserhöhung im Juli würde Kredite teurer machen, Währungen und Aktienmärkte weltweit erschüttern und die Rezessionsrisiken erhöhen.",
-          "hintergrund": "Noch vor wenigen Wochen galt ein weiterer Zinsschritt nach oben als unwahrscheinlich, nachdem mehrere Inflationsdaten leichte Entspannung signalisiert hatten. Doch die Eskalation im Persischen Golf hat die Energiepreise wieder angetrieben und die Inflationserwartungen nach oben verschoben.\n\nBesonders Schwellenländer mit hohen Dollarschulden reagieren empfindlich auf US-Zinserhöhungen. Anleger in Asien und Lateinamerika beobachten die Fed-Signale deshalb mit wachsender Nervosität.",
-          "tag": "Zinsentscheid",
-          "emoji": "📊",
+          "titel": "US-Erzeugerpreise fallen überraschend – Energie entlastet",
+          "zusammenfassung": "Die amerikanischen Großhandelspreise sind im Juni unerwartet um 0,3 Prozent gesunken, angetrieben vor allem durch einen starken Rückgang der Benzinpreise. Als Auslöser gilt die kurzzeitige Entspannung im US-Iran-Konflikt, die den Ölpreis gedrückt hatte.",
+          "bedeutung": "Sinkende Erzeugerpreise verringern den Preisdruck in der Lieferkette und könnten der US-Notenbank Fed mehr Spielraum für eine Zinssenkung verschaffen.",
+          "hintergrund": "Der Producer Price Index (PPI) gilt als Frühindikator für die Verbraucherpreisinflation, da fallende Herstellerpreise häufig mit einer zeitlichen Verzögerung an die Endverbraucher weitergegeben werden. Der überraschende Rückgang im Juni wird von Ökonomen daher als positives Signal gewertet.\n\nAllerdings warnen Analysten vor voreiligem Optimismus: Die erneute Eskalation zwischen Washington und Teheran lässt die Energiepreise bereits wieder ansteigen, was die positive Wirkung des Juni-Rückgangs schon bald wieder zunichtemachen könnte.",
+          "tag": "US-Inflation",
+          "emoji": "⛽",
           "quelle": "CNBC",
-          "quelle_url": "https://www.cnbc.com/2026/07/13/-a-july-rate-hike-from-the-fed-the-odds-are-rising.html"
+          "quelle_url": "https://www.cnbc.com/2026/07/15/wholesale-inflation-june-2026-.html"
         },
         {
           "id": "boerse-2",
-          "titel": "KI-Boom beschert Goldman und JPMorgan Rekorderlöse",
-          "zusammenfassung": "Goldman Sachs und JPMorgan Chase haben für das zweite Quartal 2026 Rekordeinnahmen gemeldet, die maßgeblich durch den KI-getriebenen Boom im Handels- und Investmentbanking angetrieben wurden. Die Wall Street positioniert sich damit als einer der größten Profiteure der Künstlichen-Intelligenz-Welle.",
-          "bedeutung": "Wenn Großbanken vom KI-Boom profitieren, signalisiert das eine neue Reifephase der Technologie – mit Auswirkungen auf Kapitalallokation und Marktstruktur weltweit.",
-          "hintergrund": "Beide Institute verzeichneten besonders starke Ergebnisse in den Bereichen Aktienhandel und Beratung bei Fusionen und Übernahmen, die durch KI-Investitionen und -Transaktionen angekurbelt wurden. Analysten werten dies als Beweis dafür, dass die KI-Investitionswelle nun vollständig in den Bilanzen der Finanzbranche ankommt.\n\nDie Quartalszahlen dürften auch den laufenden Berichtssaison-Ton setzen: Weitere Großbanken legen in den kommenden Tagen ihre Ergebnisse vor, und Investoren werden genau prüfen, ob der KI-Rückenwind branchenübergreifend anhält oder sich auf einige wenige Institute konzentriert.",
-          "tag": "Bankengewinne",
-          "emoji": "💹",
+          "titel": "New Yorker Fed: Inflation auf dem Höhepunkt, Zinsen gut positioniert",
+          "zusammenfassung": "New Yorks Fed-Präsident John Williams sieht die jüngste Inflationswelle als abgeebbt an und bewertet das aktuelle Zinsniveau als angemessen. Er nannte fünf konkrete Faktoren, die für eine Stabilisierung der Preisentwicklung sprechen.",
+          "bedeutung": "Aussagen eines hochrangigen Fed-Vertreters zur Zinspolitik bewegen Anleihemärkte, den Dollar-Kurs und die Erwartungen für zukünftige Notenbanksitzungen weltweit.",
+          "hintergrund": "Williams äußerte sich zu einem Zeitpunkt, an dem Marktteilnehmer intensiv darüber spekulieren, wann und in welchem Ausmaß die US-Notenbank ihren Leitzins senken wird. Seine vergleichsweise optimistische Einschätzung zur Inflationsentwicklung wurde an den Rentenmärkten positiv aufgenommen.\n\nGleichzeitig steht Fed-Chef Kevin Warsh unter politischem Druck, da Trump-nahe Kreise schnellere Zinssenkungen fordern. Williams' Aussagen gelten als Signal, dass die Fed ihren datenabhängigen Kurs beibehalten und voreiligen Schritten widerstehen wird.",
+          "tag": "Fed-Geldpolitik",
+          "emoji": "📊",
           "quelle": "CNBC",
-          "quelle_url": "https://www.cnbc.com/2026/07/14/goldman-sachs-and-jpmorgan-chase-are-emerging-as-ai-winners.html"
+          "quelle_url": "https://www.cnbc.com/2026/07/15/new-york-fed-president-williams-says-inflation-has-peaked-rates-well-positioned.html"
         }
       ]
     }
