@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-17T00:16:14.238998+00:00",
-  "datum": "Freitag, 17. Juli 2026",
+  "generated_at": "2026-07-18T00:13:49.296657+00:00",
+  "datum": "Samstag, 18. Juli 2026",
   "ressorts": [
     {
       "id": "politik",
@@ -9,36 +9,36 @@
       "stories": [
         {
           "id": "politik-0",
-          "titel": "USA weiten Angriffe auf Iran aus – Eskalation am Hormuz",
-          "zusammenfassung": "Amerikanische Streitkräfte haben eine neue Angriffswelle gegen iranisches Territorium geflogen und dabei Berichten zufolge Brücken getroffen. Parallel dazu kaperten US-Kräfte im Strait of Hormuz ein Schiff, was die Spannungen weiter anheizt.",
-          "bedeutung": "Eine militärische Eskalation zwischen den USA und Iran bedroht die globale Energieversorgung und könnte die gesamte Golfregion destabilisieren.",
-          "hintergrund": "Die jüngsten Angriffe markieren eine neue Qualitätsstufe im Konflikt zwischen Washington und Teheran. Während frühere Schläge vor allem Militärinfrastruktur zum Ziel hatten, deuten Treffer auf zivile Brücken auf eine bewusste Ausweitung der Druckstrategie hin.\n\nGleichzeitig sendet die Aktion im Strait of Hormuz ein klares Signal: Die USA sind bereit, die für den Weltölhandel kritische Meerenge aktiv zu kontrollieren. Rund 20 Prozent des global gehandelten Erdöls passieren diese Wasserstraße.",
-          "tag": "US-Iran-Krieg",
-          "emoji": "💥",
+          "titel": "USA bestreiten Angriffe auf zivile Ziele im Iran",
+          "zusammenfassung": "Das US-Militär wies iranische Vorwürfe zurück, bei jüngsten Luftangriffen zivile Infrastruktur getroffen zu haben. Washington besteht darauf, ausschließlich militärische Kapazitäten des Iran ins Visier genommen zu haben.",
+          "bedeutung": "Der Schlagabtausch zwischen Washington und Teheran erhöht die Gefahr einer weiteren Eskalation im Nahen Osten und belastet die fragile regionale Sicherheitslage.",
+          "hintergrund": "Die US-Streitkräfte führten erneut Angriffe gegen iranische Militäranlagen durch und begründeten dies mit dem Ziel, die Verteidigungskapazitäten des Irans dauerhaft zu schwächen. Teheran hingegen machte geltend, dass auch Wohngebiete und versorgungsrelevante Einrichtungen getroffen worden seien.\n\nDer Konflikt zwischen den USA und dem Iran hat sich in den vergangenen Wochen merklich verschärft. Gescheiterte Friedensgespräche haben nicht nur die diplomatischen Kanäle verstopft, sondern laut britischen Medienberichten auch die Treibstoffpreise in Europa ansteigen lassen – ein Zeichen dafür, wie weit die Auswirkungen des Konflikts über die Region hinausreichen.",
+          "tag": "USA–Iran",
+          "emoji": "💣",
           "quelle": "BBC",
           "quelle_url": "https://www.bbc.co.uk/news/articles/c151gdjwd10o?at_medium=RSS&at_campaign=rss"
         },
         {
           "id": "politik-1",
-          "titel": "Vance wirft Israel Manipulation der US-Öffentlichkeit vor",
-          "zusammenfassung": "US-Vizepräsident JD Vance äußerte öffentlich den Verdacht, dass israelische Politiker gezielt versuchen, die amerikanische Bevölkerungsmeinung zu beeinflussen, um einen Waffenstillstand mit Iran zu verhindern. Dies ist eine der schärfsten öffentlichen Kritiken eines hochrangigen US-Vertreters an einem engsten Verbündeten seit Jahren.",
-          "bedeutung": "Öffentliche Dissonanz innerhalb des westlichen Bündnisses über die Iran-Strategie könnte die geopolitische Koordination erheblich erschweren.",
-          "hintergrund": "Seit Beginn der direkten US-Militäraktion gegen Iran war die Einheit zwischen Washington und Tel Aviv nach außen hin gewahrt worden. Vances Vorstoß bricht mit dieser Linie und deutet auf interne Differenzen innerhalb der Trump-Administration über die Kriegsziele hin.\n\nIsrael hat ein strategisches Interesse daran, dass der Konflikt das iranische Nuklearprogramm dauerhaft neutralisiert. Washington hingegen zeigt laut Vance zunehmend Interesse an einer kontrollierten Deeskalation – ein Zielkonflikt mit erheblichen Folgen für die Nahost-Politik.",
-          "tag": "USA–Israel",
-          "emoji": "🇺🇸",
+          "titel": "Ukrainische Soldaten kritisieren Entlassung des Verteidigungsministers",
+          "zusammenfassung": "Nach der überraschenden Abberufung von Verteidigungsminister Mychajlo Fedorow protestierten nicht nur Zivilisten, sondern inzwischen äußern auch aktive Soldaten an der Front offen ihren Unmut. Die Entscheidung von Präsident Selensky stößt innerhalb der Streitkräfte auf erheblichen Widerstand.",
+          "bedeutung": "Innenpolitische Spannungen in der Ukraine gefährden den militärischen Zusammenhalt zu einem kritischen Zeitpunkt des Krieges gegen Russland.",
+          "hintergrund": "Fedorow hatte sich als treibende Kraft hinter der Digitalisierung des ukrainischen Militärs und der Drohnenrüstung einen Namen gemacht und galt in der Truppe als populäre Figur. Seine plötzliche Ablösung löste zunächst Demonstrationen in Kiew aus, bevor auch Berichte von der Front über Unmut unter Soldaten die Runde machten.\n\nDie Personalie fällt in eine Phase, in der die Ukraine unter hohem Druck steht, westliche Unterstützung zu sichern und gleichzeitig die eigene Verteidigungslinie zu halten. Interne Konflikte über die Führungsriege können die operative Effektivität beeinträchtigen und das Vertrauen der Verbündeten in die Stabilität Kyjiws erschüttern.",
+          "tag": "Ukraine-Krieg",
+          "emoji": "🪖",
           "quelle": "BBC",
-          "quelle_url": "https://www.bbc.co.uk/news/articles/c1m107yj327o?at_medium=RSS&at_campaign=rss"
+          "quelle_url": "https://www.bbc.co.uk/news/articles/cvg8w4dpjkwo?at_medium=RSS&at_campaign=rss"
         },
         {
           "id": "politik-2",
-          "titel": "Selenskyj entlässt Verteidigungsminister – Proteste in Kiew",
-          "zusammenfassung": "Der ukrainische Präsident Wolodymyr Selenskyj hat den populären Verteidigungsminister abgesetzt, was landesweit Proteste ausgelöst hat. Hintergrund soll ein tiefer Konflikt zwischen dem Minister und Oberbefehlshaber Oleksandr Syrskyj sein.",
-          "bedeutung": "Personalstreitigkeiten an der Spitze der ukrainischen Kriegsführung können die militärische Schlagkraft und das Vertrauen der Bevölkerung in die Führung schwächen.",
-          "hintergrund": "Die Entlassung kommt zu einem militärisch angespannten Zeitpunkt, in dem die Ukraine auf anhaltende westliche Unterstützung angewiesen ist. Der abgesetzte Minister galt als Vertrauensfigur sowohl in der Bevölkerung als auch bei westlichen Partnern.\n\nDer Bruch mit Syrskyj offenbart Führungsrisse, die im Kriegsalltag bislang verdeckt blieben. Beobachter warnen, dass solche öffentlich sichtbaren Machtkämpfe das Bild einer geschlossenen Ukraine gegenüber Russland und den Verbündeten beschädigen könnten.",
-          "tag": "Ukraine-Krieg",
-          "emoji": "🇺🇦",
+          "titel": "Erneute Schiffsentführung vor Jemen: Piraterie kehrt zurück",
+          "zusammenfassung": "Zum zweiten Mal innerhalb von drei Monaten wurde ein Öltanker im Gebiet vor der jemenitischen Küste von mutmaßlich somalischen Piraten gekapert. Experten beobachten in der Region eine besorgniserregende Wiederbelebung der Seepiraterie.",
+          "bedeutung": "Die Rückkehr organisierter Piraterie in einem der wichtigsten Schifffahrtskorridore der Welt bedroht die globale Lieferkettensicherheit und internationale Handelswege.",
+          "hintergrund": "Der Indische Ozean und der Golf von Aden gelten als Nadelöhr für den Welthandel: Ein erheblicher Teil des globalen Rohöl- und Gütertransports passiert diese Gewässer. Nachdem die internationale Anti-Piraterie-Mission der vergangenen Jahrzehnte die Übergriffe somalischer Piraten weitgehend zurückgedrängt hatte, mehren sich nun erneut Vorfälle.\n\nBeobachter sehen einen Zusammenhang zwischen der anhaltenden Instabilität im Jemen, dem Rückzug internationaler Patrouillenkapazitäten und der Wiederbelebung krimineller Netzwerke in der Region. Mehrere Angriffe blieben zuletzt zwar erfolglos, doch die Häufung der Vorfälle lässt auf eine Neuorganisation der Piratengruppen schließen.",
+          "tag": "Seepiraterie",
+          "emoji": "🚢",
           "quelle": "BBC",
-          "quelle_url": "https://www.bbc.co.uk/news/articles/cdx76069n3do?at_medium=RSS&at_campaign=rss"
+          "quelle_url": "https://www.bbc.co.uk/news/articles/c7vg6dml34vo?at_medium=RSS&at_campaign=rss"
         }
       ]
     },
@@ -49,36 +49,36 @@
       "stories": [
         {
           "id": "wirtschaft-0",
-          "titel": "Großbritannien verstaatlicht British Steel zum Schutz der Industrie",
-          "zusammenfassung": "Die Scunthorpe-Stahlwerke von British Steel wurden offiziell in staatliches Eigentum überführt, nachdem das britische Parlament kurzfristig neue Rechtsgrundlagen dafür geschaffen hatte. Die Regierung begründet den Schritt mit der strategischen Bedeutung einer eigenständigen Stahlproduktion für die nationale Versorgungssicherheit.",
-          "bedeutung": "Die Verstaatlichung signalisiert eine industriepolitische Kehrtwende in Großbritannien und könnte Maßstäbe für den Umgang mit systemrelevanten Industrien in Europa setzen.",
-          "hintergrund": "British Steel kämpfte seit Jahren mit Überkapazitäten auf dem Weltmarkt und günstigeren Importen, vor allem aus China. Private Investoren waren nicht bereit, das defizitäre Werk ohne staatliche Garantien weiterzuführen.\n\nDie Labour-Regierung unter dem neuen Premierminister Andy Burnham setzt damit ein deutliches Zeichen für eine aktive Industriepolitik. Kritiker warnen vor Präzedenzwirkung und fiskalischen Risiken, während Befürworter auf die Bedeutung für tausende Arbeitsplätze im Norden Englands verweisen.",
-          "tag": "Verstaatlichung",
-          "emoji": "🏭",
+          "titel": "Chinas Moonshot AI fordert OpenAI und Anthropic heraus",
+          "zusammenfassung": "Das chinesische Unternehmen Moonshot AI hat mit Kimi K3 ein neues Großsprachmodell vorgestellt, das nach eigenen Angaben mit den führenden Systemen amerikanischer KI-Firmen mithalten kann. Die Ankündigung verdeutlicht den wachsenden globalen Wettbewerb im KI-Sektor.",
+          "bedeutung": "Der Vorstoß chinesischer KI-Unternehmen in die Spitzengruppe verschärft den technologischen Systemwettbewerb zwischen den USA und China und könnte Kräfteverhältnisse in der Branche verschieben.",
+          "hintergrund": "Moonshot AI ist eines von mehreren chinesischen Start-ups, die trotz US-amerikanischer Exportrestriktionen für Hochleistungschips zuletzt bemerkenswerte Fortschritte erzielt haben. Mit Kimi K3 beansprucht das Unternehmen erstmals, auf Augenhöhe mit Modellen wie GPT-4 oder Claude zu operieren – eine Aussage, die in der Fachwelt noch zu verifizieren ist.\n\nDer globale KI-Wettlauf hat sich in den vergangenen Monaten dramatisch beschleunigt. Für westliche Regulierer und Unternehmen bedeutet der Aufstieg chinesischer Modelle zusätzlichen Druck, eigene Standards und Marktpositionen zu verteidigen, während geopolitische Spannungen die Frage nach KI-Sicherheit und Datensouveränität weiter komplizieren.",
+          "tag": "KI-Wettbewerb",
+          "emoji": "🤖",
           "quelle": "BBC",
-          "quelle_url": "https://www.bbc.co.uk/news/articles/c5y680w62wno?at_medium=RSS&at_campaign=rss"
+          "quelle_url": "https://www.bbc.co.uk/news/articles/cy9w4q8pgp0o?at_medium=RSS&at_campaign=rss"
         },
         {
           "id": "wirtschaft-1",
-          "titel": "Chinas Wachstum fällt hinter Jahresziel – Stimulus gefordert",
-          "zusammenfassung": "Die chinesische Wirtschaft wuchs im zweiten Quartal 2026 so langsam wie seit 2022 nicht mehr und verfehlte Pekings ohnehin wenig ambitioniertes Jahresziel von 4,5 bis 5 Prozent. Einbrechende Investitionen gelten als Haupttreiber der Schwäche, was den Ruf nach staatlichen Konjunkturprogrammen lauter werden lässt.",
-          "bedeutung": "Als zweitgrößte Volkswirtschaft der Welt beeinflusst Chinas Wachstumsschwäche globale Lieferketten, Rohstoffnachfrage und das Exportwachstum vieler Länder direkt.",
-          "hintergrund": "Die schwachen Zahlen kommen zu einem ungünstigen Zeitpunkt: Gleichzeitig belasten der anhaltende US-China-Handelskonflikt und sinkende Immobilieninvestitionen die Binnennachfrage. Ausländische Direktinvestitionen verharren auf niedrigem Niveau.\n\nÖkonomen und Märkte spekulieren nun darauf, dass Peking kurzfristig zu fiskalpolitischen Maßnahmen greifen wird. Historisch hat China in solchen Momenten auf Infrastrukturprogramme und Steuererleichterungen gesetzt – mit globalen Ausstrahlungseffekten auf Rohstoff- und Finanzmärkte.",
-          "tag": "China-Konjunktur",
-          "emoji": "📉",
-          "quelle": "CNBC",
-          "quelle_url": "https://www.cnbc.com/2026/07/15/china-gdp-retail-sales-investment-june-.html"
+          "titel": "Kraftstoffpreise in Großbritannien steigen wegen Iran-Konflikt",
+          "zusammenfassung": "Britische Verbraucher zahlen nach dem Scheitern der Friedensverhandlungen zwischen den USA, Israel und dem Iran erneut mehr an der Zapfsäule. Der Konflikt schlägt direkt auf die Energiemärkte durch.",
+          "bedeutung": "Steigende Spritpreise als Folge geopolitischer Spannungen zeigen exemplarisch, wie unmittelbar Krisen im Nahen Osten Haushalte weltweit belasten.",
+          "hintergrund": "Bereits vor dem Zusammenbruch der Verhandlungen hatten die Rohölpreise auf die eskalierende Lage reagiert. Mit dem Ausbleiben einer diplomatischen Lösung fehlt dem Markt nun die Aussicht auf eine Entspannung, was Händler zu Risikoaufschlägen veranlasst.\n\nFür die britische Wirtschaft kommt der Preisanstieg zu einem ungünstigen Zeitpunkt: Die Inflationsrate hat sich zuletzt nur langsam abgekühlt, und höhere Energiepreise könnten die Kaufkraft der Haushalte erneut unter Druck setzen – mit entsprechenden Folgen für den Konsum und die wirtschaftspolitische Agenda der neuen Regierung unter Andy Burnham.",
+          "tag": "Energiepreise",
+          "emoji": "⛽",
+          "quelle": "BBC",
+          "quelle_url": "https://www.bbc.co.uk/news/articles/c20zgjzz0e4o?at_medium=RSS&at_campaign=rss"
         },
         {
           "id": "wirtschaft-2",
-          "titel": "Buffett distanziert sich von Bill Gates wegen Epstein-Verbindung",
-          "zusammenfassung": "Warren Buffett hat die Beziehung von Microsoft-Gründer Bill Gates zum verurteilten Sexualstraftäter Jeffrey Epstein öffentlich als abstößend bezeichnet. Buffetts Unternehmen Berkshire Hathaway hat gleichzeitig seine Spenden an die Bill-und-Melinda-Gates-Stiftung eingestellt.",
-          "bedeutung": "Wenn zwei der einflussreichsten Philanthropen der Welt öffentlich brechen, hat das weitreichende Folgen für globale Hilfsorganisationen, die auf ihre Mittel angewiesen sind.",
-          "hintergrund": "Die Gates-Stiftung zählt zu den größten privaten Geldgebern in den Bereichen globale Gesundheit, Bildung und Armutsbekämpfung. Berkshire Hathaways Rückzug ist nicht nur ein finanzieller, sondern vor allem ein Reputationsschlag.\n\nDie Affäre rund um Epsteins Netzwerk holt erneut prominente Namen ein und zeigt, dass die politischen und gesellschaftlichen Nachwehen des Skandals noch längst nicht abgeklungen sind. Gates selbst hatte frühere Treffen mit Epstein als Fehler bezeichnet.",
-          "tag": "Epstein-Netzwerk",
-          "emoji": "💼",
+          "titel": "Britischer Stahlsektor: Regierung übernimmt letzte Hochofenanlage",
+          "zusammenfassung": "Großbritannien hat seinen letzten Hersteller von Primärstahl in staatliche Hand überführt, um die industrielle Grundversorgung des Landes zu sichern. Der Schritt beendet jahrelange Unsicherheit über die Zukunft des Werks.",
+          "bedeutung": "Die Verstaatlichung signalisiert eine Renaissance industriepolitischen Denkens in westlichen Demokratien und dürfte die Debatte über staatliche Eingriffe in strategische Schlüsselbranchen neu entfachen.",
+          "hintergrund": "Das betroffene Stahlwerk – das einzige in Großbritannien, das noch Roheisen aus Erzen verhüttet – war zuletzt unter chinesischer Eigentümerschaft in wirtschaftliche Schwierigkeiten geraten. Peking reagierte auf die Verstaatlichung mit scharfer Kritik und sieht darin einen protektionistischen Akt gegenüber chinesischen Investoren.\n\nDie Entscheidung reiht sich in einen internationalen Trend ein: Immer mehr Regierungen definieren Stahl, Halbleiter und andere Grundstoffe als sicherheitsrelevant und schützen sie vor ausländischem Zugriff. Für die britische Industrie- und Handelspolitik setzt die Maßnahme ein deutliches Signal – auch wenn Kritiker die langfristigen Kosten für den Steuerzahler in Frage stellen.",
+          "tag": "Industriepolitik",
+          "emoji": "🏭",
           "quelle": "BBC",
-          "quelle_url": "https://www.bbc.co.uk/news/articles/cz97wx2zj78o?at_medium=RSS&at_campaign=rss"
+          "quelle_url": "https://www.bbc.co.uk/news/articles/c5y66y40kgpo?at_medium=RSS&at_campaign=rss"
         }
       ]
     },
@@ -89,36 +89,36 @@
       "stories": [
         {
           "id": "boerse-0",
-          "titel": "Hormuz-Eskalation zwingt EZB zur Zinsstrategie-Überprüfung",
-          "zusammenfassung": "Die anhaltenden Militärschläge zwischen den USA und Iran haben an den Finanzmärkten erhebliche Unsicherheit ausgelöst und die Europäische Zentralbank unter Druck gesetzt, ihre geplante Zinspolitik zu überdenken. Händler rechnen nun mit einer deutlich vorsichtigeren Haltung der EZB bei ihrer Sitzung nächste Woche.",
-          "bedeutung": "Geopolitische Schocks im Energiesektor können die Inflationserwartungen schnell umkehren und geldpolitische Spielräume weltweit einengen.",
-          "hintergrund": "Die EZB hatte zuletzt auf einen moderaten Zinssenkungspfad eingeschwenkt, gestützt durch rückläufige Energiepreise. Ein erneuter Ölpreisanstieg infolge der Hormuz-Krise würde diese Kalkulationen grundlegend verändern.\n\nEuropäische Anleiherenditen zogen in den vergangenen Tagen wieder an, während der Euro gegenüber dem Dollar leicht nachgab. Marktteilnehmer wetten zunehmend darauf, dass die erwartete Zinssenkung verschoben oder ganz gestrichen wird.",
-          "tag": "EZB-Zinsen",
-          "emoji": "🏦",
+          "titel": "US-Importpreise überraschen: China-Waren so teuer wie seit 2008 nicht",
+          "zusammenfassung": "Die US-Importpreise sind im Monatsvergleich unerwartet gestiegen, getrieben vor allem durch deutlich teurere Waren aus China. Der Anstieg erreicht den höchsten Stand seit 18 Jahren und schürt neue Inflationssorgen.",
+          "bedeutung": "Steigende Importkosten aus China deuten darauf hin, dass Zölle und Lieferkettenspannungen die US-Inflation hartnäckiger machen als erhofft – mit direkten Folgen für die Geldpolitik der Federal Reserve.",
+          "hintergrund": "Ökonomen hatten einen Rückgang oder zumindest eine Stagnation der Importpreise erwartet. Tatsächlich stiegen sie um 0,3 Prozent, wobei günstigere Energieimporte durch verteuerte Industriegüter mehr als ausgeglichen wurden. Der Befund passt zu einem Umfeld, in dem US-Zölle auf chinesische Waren die Importkosten strukturell in die Höhe treiben.\n\nFür die Finanzmärkte ist der Datenpunkt brisant: Mehrere Fed-Vertreter hatten zuletzt vorsichtig optimistische Signale zur Inflationsentwicklung gesendet. Neue Preisdaten in die falsche Richtung könnten Zinssenkungshoffnungen erneut dämpfen und Anleiherenditen unter Druck setzen.",
+          "tag": "Inflation/Zölle",
+          "emoji": "📦",
           "quelle": "CNBC",
-          "quelle_url": "https://www.cnbc.com/2026/07/15/ecb-interest-rates-outlook-iran-war-hormuz.html"
+          "quelle_url": "https://www.cnbc.com/2026/07/17/import-prices-post-surprise-gain-as-costs-of-goods-from-china-hit-highest-since-2008.html"
         },
         {
           "id": "boerse-1",
-          "titel": "US-Erzeugerpreise fallen überraschend – Energie als Treiber",
-          "zusammenfassung": "Der amerikanische Erzeugerpreisindex sank im Juni um 0,3 Prozent, getragen von einem deutlichen Rückgang der Energiekosten, insbesondere bei Benzin. Ökonomen hatten eine stabile Entwicklung erwartet; die Zahlen nähren Hoffnungen auf anhaltend sinkende Inflation.",
-          "bedeutung": "Rückläufige Erzeugerpreise signalisieren nachlassenden Preisdruck in der Lieferkette und könnten die Fed-Zinsdebatte zugunsten einer baldigen Lockerung verschieben.",
-          "hintergrund": "Der Rückgang spiegelt das kurzzeitige Nachlassen der Iran-Spannungen wider, als eine Feuerpause die Ölpreise nach unten drückte. Mittlerweile hat die erneute Eskalation diese Entspannung jedoch wieder teilweise umgekehrt.\n\nFür die US-Notenbank Fed sind die Daten willkommen, kommen aber mit einem Vorbehalt: Sollten die Energiepreise im Juli wieder anziehen, könnten die günstigen Juni-Zahlen rasch überholt sein. Fed-Chef Kevin Warsh hatte zuletzt Zurückhaltung bei Zinssenkungen signalisiert.",
-          "tag": "Inflation USA",
-          "emoji": "⛽",
+          "titel": "Fed-Notenbanker fordert moderat höhere Leitzinsen",
+          "zusammenfassung": "Der Präsident der Dallas Fed, Lorie Logan, sprach sich trotz jüngster Fortschritte bei der Inflationsbekämpfung für weitere Zinserhöhungen aus. Die guten Neuigkeiten der Woche reichten ihr nicht aus, um den Kurs zu ändern.",
+          "bedeutung": "Hawkische Signale aus der Federal Reserve können Aktienmärkte belasten und Erwartungen an baldige Zinssenkungen dämpfen – ein Schlüsselfaktor für globale Kapitalflüsse.",
+          "hintergrund": "Logan gehört zu den einflussreicheren Stimmen im Offenmarktausschuss der US-Notenbank. Ihre Aussage, dass die jüngsten Inflationsdaten noch nicht ausreichten, um den geldpolitischen Kurs zu lockern, kontrastiert mit den Hoffnungen vieler Marktteilnehmer auf ein baldiges Ende des Hochzinsregimes.\n\nDie Diskussion innerhalb der Fed spiegelt ein grundlegendes Dilemma wider: Einerseits kühlt sich die Wirtschaft ab, andererseits bleiben Preisdruck und Arbeitsmarkt robuster als erwartet. Wie die Notenbank diesen Zielkonflikt auflöst, wird die Märkte in den kommenden Wochen maßgeblich bewegen.",
+          "tag": "Fed/Zinsen",
+          "emoji": "🏦",
           "quelle": "CNBC",
-          "quelle_url": "https://www.cnbc.com/2026/07/15/wholesale-inflation-june-2026-.html"
+          "quelle_url": "https://www.cnbc.com/2026/07/16/dallas-fed-president-logan-calls-for-modestly-higher-interest-rates.html"
         },
         {
           "id": "boerse-2",
-          "titel": "Anthropic peilt Mega-IPO noch vor OpenAI an",
-          "zusammenfassung": "Das KI-Unternehmen Anthropic bereitet Investorengespräche für einen möglichen Börsengang bereits im Oktober vor und will damit den Rivalen OpenAI beim Schritt an die Börse überholen. Investmentbanken stehen bereits Schlange, um das Mandat für einen der größten Tech-Börsengänge seit Jahren zu ergattern.",
-          "bedeutung": "Ein Anthropic-IPO würde den KI-Sektor als Anlageklasse weiter etablieren und Vergleichswerte für die Bewertung von KI-Unternehmen weltweit schaffen.",
-          "hintergrund": "Anthropic, Entwickler des KI-Assistenten Claude, gilt als einer der wertvollsten privaten Tech-Konzerne und wird zuletzt mit über 60 Milliarden US-Dollar bewertet. Großinvestoren wie Amazon und Google haben bereits Milliarden in das Unternehmen gepumpt.\n\nDer geplante Börsengang fällt in eine Phase, in der die KI-Euphorie an den Märkten zwar etwas abgekühlt ist, institutionelle Investoren aber weiterhin nach Einstiegsmöglichkeiten suchen. Ein erfolgreicher IPO könnte eine neue Bewertungsrunde für die gesamte Branche einläuten.",
-          "tag": "KI-Börsengang",
-          "emoji": "🤖",
+          "titel": "Indiens größter Börsengang des Jahres zieht 31 Milliarden Dollar an",
+          "zusammenfassung": "Das Börsendebüt des größten indischen Vermögensverwalters war ein spektakulärer Erfolg: Institutionelle Investoren zeichneten Anteile im Volumen von umgerechnet rund 31 Milliarden US-Dollar. Der IPO gilt als Gradmesser für die Attraktivität des indischen Kapitalmarkts.",
+          "bedeutung": "Die gewaltige Nachfrage unterstreicht Indiens Aufstieg zu einem der attraktivsten Investitionsziele weltweit und sendet ein starkes Signal an globale Anleger.",
+          "hintergrund": "Indiens Aktienmarkt hat sich in den vergangenen Jahren zu einer der dynamischsten Börsenlandschaften der Welt entwickelt. Wachsende Mittelschicht, steigende Sparquoten und ein boomender Fondsmarkt befeuern die Nachfrage nach Finanzprodukten – und machen Asset-Management-Unternehmen zu besonders begehrten Börsenkandidaten.\n\nDer überzeichnete IPO dürfte weitere Unternehmen ermutigen, den Schritt an die Börse zu wagen, und könnte den indischen Leitindex Sensex zusätzlichen Auftrieb verleihen. Für internationale Investoren bestätigt er die These, dass Indien als Gegengewicht zu China im globalen Portfoliodenken weiter an Bedeutung gewinnt.",
+          "tag": "IPO/Indien",
+          "emoji": "📈",
           "quelle": "CNBC",
-          "quelle_url": "https://www.cnbc.com/2026/07/15/anthropic-ipo-banks-investor-meetings.html"
+          "quelle_url": "https://www.cnbc.com/2026/07/17/indias-biggest-ipo-this-year-rakes-in-bids-worth-31-billion-powered-by-institutional-frenzy.html"
         }
       ]
     }
