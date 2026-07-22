@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-21T00:15:10.370238+00:00",
-  "datum": "Dienstag, 21. Juli 2026",
+  "generated_at": "2026-07-22T00:11:53.685493+00:00",
+  "datum": "Mittwoch, 22. Juli 2026",
   "ressorts": [
     {
       "id": "politik",
@@ -9,36 +9,36 @@
       "stories": [
         {
           "id": "politik-0",
-          "titel": "USA verhängen 50-Prozent-Zoll auf kanadische Waren",
-          "zusammenfassung": "Die Vereinigten Staaten haben massive neue Strafzölle auf Importe aus Kanada angekündigt, was die Handelsspannungen zwischen den beiden Nachbarländern auf ein neues Niveau treibt. Es handelt sich um die bislang schärfste wirtschaftliche Eskalation im Verhältnis der nordamerikanischen Partner.",
-          "bedeutung": "Der Schritt erschüttert die Grundlagen des nordamerikanischen Freihandels und dürfte globale Lieferketten sowie die Weltwirtschaft spürbar belasten.",
-          "hintergrund": "Die Zollankündigung stellt einen dramatischen Bruch mit Jahrzehnten enger Handelsintegration zwischen den USA und Kanada dar. Beide Länder sind durch das Freihandelsabkommen USMCA miteinander verbunden, dessen Zukunft nun offen infrage steht.\n\nKanada reagierte umgehend mit der Ankündigung von Gegenzöllen auf US-amerikanische Produkte. Wirtschaftsexperten warnen vor einer Rezessionsgefahr in beiden Ländern, da die Handelsbeziehungen zwischen Washington und Ottawa zu den dichtesten der Welt zählen.",
+          "titel": "USA greifen erneut Iran an – Straße von Hormuz in Gefahr",
+          "zusammenfassung": "Die US-Streitkräfte haben neue Angriffe auf iranische Ziele durchgeführt, nachdem Teheran amerikanische Soldaten getötet hatte. Der Iran reagierte mit Attacken auf Schiffe in der Straße von Hormuz sowie auf Ziele in Bahrain und Jordanien.",
+          "bedeutung": "Eine direkte militärische Konfrontation zwischen den USA und dem Iran mit Angriffen auf globale Schifffahrtsrouten bedroht die internationale Energieversorgung und riskiert eine massive Eskalation im Nahen Osten.",
+          "hintergrund": "Die neueste Runde gegenseitiger Angriffe markiert eine gefährliche Zuspitzung der seit Monaten schwelenden Spannungen zwischen Washington und Teheran. Präsident Trump hatte nach dem Tod amerikanischer Soldaten unmissverständlich Vergeltung angekündigt.\n\nBesonders brisant sind die iranischen Angriffe auf die Straße von Hormuz, durch die rund ein Fünftel des weltweit gehandelten Erdöls transportiert wird. Eine Sperrung oder dauerhafte Destabilisierung dieser Meerenge hätte unmittelbare Folgen für die globalen Energiemärkte und die wirtschaftliche Stabilität vieler Länder.",
+          "tag": "US-Iran-Krieg",
+          "emoji": "⚔️",
+          "quelle": "BBC",
+          "quelle_url": "https://www.bbc.co.uk/news/articles/cx25wg2x26do?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "id": "politik-1",
+          "titel": "Trump verhängt 50-Prozent-Zölle auf Kanada",
+          "zusammenfassung": "US-Präsident Donald Trump hat Strafzölle in Höhe von 50 Prozent auf kanadische Waren angekündigt und damit den Handelsstreit mit dem Nachbarland dramatisch verschärft. Kanadas Premierminister Mark Carney erklärte, alle Optionen zur Reaktion stünden auf dem Tisch.",
+          "bedeutung": "Die eskalierende Handelsfehde zwischen den engsten Handelspartnern Nordamerikas gefährdet Lieferketten, Arbeitsplätze und die wirtschaftliche Stabilität beider Länder sowie die gesamte USMCA-Handelsordnung.",
+          "hintergrund": "Die neuen Zölle stellen eine massive Eskalation gegenüber früheren Maßnahmen dar und treffen Kanada als einen der wichtigsten Handelspartner der Vereinigten Staaten besonders hart. Für viele Branchen beiderseits der Grenze – von der Automobilindustrie bis zur Landwirtschaft – drohen gravierende Verwerfungen.\n\nOttawa steht unter erheblichem Druck, glaubwürdige Gegenmaßnahmen zu ergreifen, ohne eine weitere Eskalationsspirale auszulösen. Carney, der erst seit wenigen Monaten im Amt ist, muss nun seinen ersten großen außenpolitischen Belastungstest bestehen.",
           "tag": "Handelskrieg",
           "emoji": "🇨🇦",
           "quelle": "BBC",
           "quelle_url": "https://www.bbc.co.uk/news/articles/cg4dzq3x3e1o?at_medium=RSS&at_campaign=rss"
         },
         {
-          "id": "politik-1",
-          "titel": "USA greifen Iran erneut an – Straße von Hormus im Fokus",
-          "zusammenfassung": "Das US-Militär hat neue Luftangriffe auf iranische Stellungen ausgeführt und begründet dies mit der Notwendigkeit, Irans Fähigkeit zur Bedrohung der Schifffahrt in der Straße von Hormus zu schwächen. Präsident Trump warnte Teheran vor weiteren Konsequenzen nach dem Tod amerikanischer Soldaten.",
-          "bedeutung": "Angriffe auf eine der wichtigsten Meerengen der Welt gefährden den globalen Energiehandel und riskieren eine weitere militärische Eskalation im Nahen Osten.",
-          "hintergrund": "Die Straße von Hormus ist einer der bedeutendsten Nadelöhre der globalen Ölversorgung – rund ein Fünftel des weltweiten Erdölhandels passiert diesen Korridor täglich. Störungen dort hätten unmittelbare Auswirkungen auf die Energiepreise weltweit.\n\nDie jüngsten Angriffe folgen auf eine Serie von Zwischenfällen, bei denen iranisch gestützte Kräfte amerikanische Truppen in der Region angegriffen haben sollen. Die Lage im Persischen Golf gilt als gefährlichste militärische Konfrontation zwischen Washington und Teheran seit Jahren.",
-          "tag": "Nahost-Konflikt",
-          "emoji": "⚔️",
-          "quelle": "BBC",
-          "quelle_url": "https://www.bbc.co.uk/news/articles/cx25wg2x26do?at_medium=RSS&at_campaign=rss"
-        },
-        {
           "id": "politik-2",
-          "titel": "Russland intensiviert Angriffe auf Schwarzmeer-Handelsschiffe",
-          "zusammenfassung": "Russische Streitkräfte haben ihre Attacken auf Handelsschiffe und die Region Odessa deutlich verstärkt, wobei allein im Juli 28 Menschen ums Leben kamen. Zehn weitere Todesopfer sind durch jüngste Angriffe auf Frachtschiffe zu beklagen.",
-          "bedeutung": "Die Eskalation bedroht nicht nur ukrainische Exportrouten für Getreide, sondern destabilisiert einen für die globale Lebensmittelversorgung kritischen Seeweg.",
-          "hintergrund": "Das Schwarze Meer ist ein zentraler Korridor für den Export von ukrainischem Getreide, Sonnenblumenöl und anderen Agrargütern in Länder des Nahen Ostens und Afrikas. Angriffe auf die Handelsschifffahrt dort haben in der Vergangenheit bereits zu Preissteigerungen auf den globalen Lebensmittelmärkten geführt.\n\nDie Ukraine und westliche Verbündete verurteilten die Angriffe als gezielte Strategie, die Wirtschaft des Landes zu zermürben. Russland hingegen bestreitet, zivile Schiffe anzugreifen.",
-          "tag": "Ukraine-Krieg",
-          "emoji": "🚢",
+          "titel": "Libanesische Armee rückt in israelisches Rückzugsgebiet vor",
+          "zusammenfassung": "Im Rahmen eines von den USA vermittelten Abkommens beginnt die libanesische Armee, in einem ersten Pilotgebiet Stellung zu beziehen, das israelische Truppen im Zuge des Konflikts mit der Hisbollah besetzt hatten. Der schrittweise Rückzug gilt als erster konkreter Schritt zur Stabilisierung der südlibanesischen Grenzregion.",
+          "bedeutung": "Die Vereinbarung könnte den Beginn einer dauerhaften Waffenruhe im Libanon markieren und hätte weitreichende Auswirkungen auf die regionale Sicherheitsarchitektur im ohnehin hochgradig instabilen Nahen Osten.",
+          "hintergrund": "Seit dem bewaffneten Konflikt zwischen Israel und der Hisbollah hält Israel Teile des südlichen Libanon besetzt, was die libanesische Souveränität stark einschränkt und die Spannungen in der Region aufrechterhalten hat. Die jetzt eingeleitete Stationierung der libanesischen Armee in einem Pilotgebiet soll das Vertrauen beider Seiten schrittweise aufbauen.\n\nWashington hatte intensiv auf eine Vereinbarung hingewirkt, da eine dauerhafte Stabilisierung des Libanon als Voraussetzung für breitere diplomatische Fortschritte in der Region gilt. Kritiker bezweifeln jedoch, ob die fragile libanesische Armee in der Lage ist, die Hisbollah dauerhaft aus den betreffenden Gebieten fernzuhalten.",
+          "tag": "Nahost-Diplomatie",
+          "emoji": "🕊️",
           "quelle": "BBC",
-          "quelle_url": "https://www.bbc.co.uk/news/articles/c4gvpv3ewv2o?at_medium=RSS&at_campaign=rss"
+          "quelle_url": "https://www.bbc.co.uk/news/articles/cy8mynlmn55o?at_medium=RSS&at_campaign=rss"
         }
       ]
     },
@@ -49,36 +49,36 @@
       "stories": [
         {
           "id": "wirtschaft-0",
-          "titel": "EU verhängt Rekordstrafe von 550 Millionen Euro gegen AliExpress",
-          "zusammenfassung": "Die Europäische Union hat gegen den chinesischen Online-Handelsriesen AliExpress eine Geldbuße in Rekordhöhe verhängt, weil die Plattform den Verkauf gefährlicher Spielzeuge und gefälschter Kleidung zugelassen hat. Es ist die höchste je von der EU gegen eine E-Commerce-Plattform verhängte Strafe.",
-          "bedeutung": "Das Urteil markiert einen Wendepunkt in der europäischen Regulierung chinesischer Online-Marktplätze und sendet ein Signal an alle großen Digitalkonzerne weltweit.",
-          "hintergrund": "Die EU hatte AliExpress bereits seit Monaten unter dem Digital Services Act (DSA) unter Beobachtung gestellt, der Plattformen mit großer Reichweite zu verschärften Kontrollpflichten verpflichtet. Die Behörden stellten fest, dass das Unternehmen trotz Warnungen systematisch versäumt hatte, illegale Angebote zu entfernen.\n\nDer Fall dürfte weitreichende Konsequenzen für andere chinesische Plattformen wie Temu oder Shein haben, die ebenfalls unter wachsendem regulatorischen Druck in Europa stehen.",
-          "tag": "EU-Regulierung",
-          "emoji": "🛒",
+          "titel": "KI ersetzt Arbeitsplätze: Was die Daten wirklich zeigen",
+          "zusammenfassung": "Künstliche-Intelligenz-Unternehmen werben mit weitreichenden Versprechen über den Ersatz menschlicher Arbeitskraft durch ihre Systeme. Eine neue Datenanalyse liefert nun ein differenziertes Bild davon, was tatsächlich am Arbeitsmarkt geschieht.",
+          "bedeutung": "Die Frage, ob und wie schnell KI menschliche Arbeit verdrängt, ist eine der folgenreichsten wirtschafts- und sozialpolitischen Fragen unserer Zeit und betrifft Millionen Beschäftigte weltweit.",
+          "hintergrund": "Technologiekonzerne und KI-Startups überbieten sich mit Prognosen über die Automatisierung von Wissensarbeit, während Gewerkschaften und Beschäftigte mit wachsender Unsicherheit auf diese Entwicklungen reagieren. Die tatsächlichen Auswirkungen auf den Arbeitsmarkt sind bislang jedoch ungleichmäßig und schwer zu messen.\n\nEmpirische Daten zeigen ein komplexes Bild: In einigen Branchen und Berufsfeldern übernimmt KI tatsächlich Aufgaben, die bisher Menschen erledigten, während in anderen Bereichen die Technologie bislang vor allem als unterstützendes Werkzeug eingesetzt wird. Ökonomen streiten darüber, ob per Saldo mehr Jobs vernichtet oder neue geschaffen werden.",
+          "tag": "KI & Arbeit",
+          "emoji": "🤖",
           "quelle": "BBC",
-          "quelle_url": "https://www.bbc.co.uk/news/articles/cp8714286dpo?at_medium=RSS&at_campaign=rss"
+          "quelle_url": "https://www.bbc.co.uk/news/articles/cn7nllr4vd6o?at_medium=RSS&at_campaign=rss"
         },
         {
           "id": "wirtschaft-1",
-          "titel": "Westafrika beschließt 25-Milliarden-Dollar-Gaspipeline",
-          "zusammenfassung": "Vierzehn westafrikanische Staaten haben grünes Licht für den Bau einer rund 6.000 Kilometer langen Gaspipeline entlang der Atlantikküste des Kontinents gegeben. Das Megaprojekt soll 2028 beginnen und gilt als eines der größten Infrastrukturvorhaben Afrikas.",
-          "bedeutung": "Die Pipeline könnte Westafrika als Energielieferanten für Europa und andere Weltregionen positionieren und Millionen Menschen in der Region Zugang zu Energie verschaffen.",
-          "hintergrund": "Das Projekt verbindet gasreiche Länder wie Nigeria mit kleineren westafrikanischen Staaten und soll langfristig auch nach Europa exportieren. Angesichts des globalen Wettbewerbs um alternative Gasquellen nach dem Russland-Ukraine-Konflikt stößt das Vorhaben auf großes internationales Interesse.\n\nKritiker mahnen jedoch, dass Investitionen in fossile Infrastruktur mit den Klimazielen des Kontinents in Konflikt geraten könnten. Befürworter verweisen darauf, dass viele westafrikanische Staaten aktuell noch auf teurere und schmutzigere Energieträger angewiesen sind.",
-          "tag": "Energie-Afrika",
-          "emoji": "🔋",
+          "titel": "Ozempic-Hersteller klagt gegen Eli Lilly wegen Irreführung",
+          "zusammenfassung": "Der dänische Pharmariese Novo Nordisk hat seinen Konkurrenten Eli Lilly verklagt und wirft dem US-Unternehmen vor, irreführende Werbung für sein konkurrierendes Adipositas-Medikament zu schalten. Eli Lilly weist die Vorwürfe zurück.",
+          "bedeutung": "Der Rechtsstreit zweier der wertvollsten Pharmaunternehmen der Welt beleuchtet den rasant wachsenden und milliardenstarken Markt für Abnehmmittel, der die globale Gesundheitsversorgung neu gestaltet.",
+          "hintergrund": "Der Markt für GLP-1-basierte Abnehmmittel wie Ozempic und dessen Konkurrenzprodukte gehört zu den am schnellsten wachsenden Segmenten der Pharmaindustrie weltweit. Novo Nordisk und Eli Lilly befinden sich in einem intensiven Wettbewerb um Marktanteile, Verschreibungsvolumen und das Vertrauen der Ärzte.\n\nDer Rechtsstreit dürfte nicht nur juristische, sondern auch marketingstrategische Konsequenzen haben und könnte regulatorische Behörden veranlassen, die Werbestandards in diesem boomenden Markt stärker unter die Lupe zu nehmen.",
+          "tag": "Pharmaindustrie",
+          "emoji": "💊",
           "quelle": "BBC",
-          "quelle_url": "https://www.bbc.co.uk/news/articles/cwyr5rpglngo?at_medium=RSS&at_campaign=rss"
+          "quelle_url": "https://www.bbc.co.uk/news/articles/c3v0rzd2l17o?at_medium=RSS&at_campaign=rss"
         },
         {
           "id": "wirtschaft-2",
-          "titel": "Chinas Automarkt steuert auf schlechtestes Jahr seit 2021",
-          "zusammenfassung": "Der chinesische Pkw-Markt erlebt einen dramatischen Einbruch: Die Verkaufszahlen sind im Vergleich zum Rekordjahr 2025 um rund 20 Prozent gefallen. Analysten sprechen vom schwächsten Jahr des weltgrößten Automobilmarkts seit 2021.",
-          "bedeutung": "Ein anhaltender Nachfragerückgang in China trifft nicht nur chinesische Hersteller, sondern auch europäische und amerikanische Automobilkonzerne mit starker China-Präsenz.",
-          "hintergrund": "Nach dem Verkaufsrekord von 23,7 Millionen Fahrzeugen im Jahr 2025 hat sich die Stimmung unter chinesischen Konsumenten spürbar abgekühlt. Wirtschaftliche Unsicherheit, eine anhaltende Immobilienkrise und ein gesättigter Markt für Elektrofahrzeuge gelten als Hauptursachen.\n\nBesonders unter Druck stehen internationale Marken, die in China zunehmend von heimischen Herstellern wie BYD, SAIC oder Geely verdrängt werden. Der Rückgang dürfte die laufenden Restrukturierungspläne mehrerer westlicher Autokonzerne weiter verschärfen.",
-          "tag": "Automarkt China",
-          "emoji": "🚗",
-          "quelle": "CNBC",
-          "quelle_url": "https://www.cnbc.com/2026/07/20/china-automotive-car-worst-year-sales-fall-20percent.html"
+          "titel": "Lindt spürt Preiserhöhungen: Schokoladenverkäufe rückläufig",
+          "zusammenfassung": "Der Schweizer Schokoladenhersteller Lindt meldet sinkende Absatzzahlen bei Osterprodukten, nachdem das Unternehmen seine Preise deutlich angehoben hatte. Lindt reagiert nun mit einer Anpassung seiner Vertriebsstrategie.",
+          "bedeutung": "Der Fall Lindt illustriert exemplarisch das Dilemma vieler Konsumgüterhersteller, die zwischen gestiegenen Rohstoffkosten und zunehmend preissensiblen Verbrauchern gefangen sind.",
+          "hintergrund": "Wie zahlreiche andere Lebensmittelunternehmen hatte Lindt die stark gestiegenen Kakaopreise an die Endverbraucher weitergegeben. Doch die Nachfrage reagiert sensibler als erwartet – ein Muster, das in der gesamten Konsumgüterbranche zu beobachten ist und Fragen über die Grenzen der Preissetzungsmacht aufwirft.\n\nFür die Branche ist dies ein wichtiges Signal: Konsumenten sind zunehmend bereit, bei als entbehrlich empfundenen Premiumartikeln zu sparen oder auf günstigere Alternativen auszuweichen, was die Margen hochwertiger Markenprodukte unter Druck setzt.",
+          "tag": "Konsumgüter",
+          "emoji": "🍫",
+          "quelle": "BBC",
+          "quelle_url": "https://www.bbc.co.uk/news/articles/c74gxj937mmo?at_medium=RSS&at_campaign=rss"
         }
       ]
     },
@@ -89,36 +89,36 @@
       "stories": [
         {
           "id": "boerse-0",
-          "titel": "Dimon warnt: Märkte unterschätzen globale Risiken massiv",
-          "zusammenfassung": "JPMorgan-Chef Jamie Dimon hat öffentlich davor gewarnt, dass Finanzmärkte die aktuellen geopolitischen und wirtschaftlichen Risiken erheblich unterschätzen. Er selbst würde weder Aktien noch US-Staatsanleihen zu den gegenwärtigen Preisen kaufen.",
-          "bedeutung": "Wenn der Chef der größten US-Bank weltweit öffentlich vor Überbewertungen warnt, ist das ein Signal, das Anleger und Notenbanken gleichermaßen aufhorchen lässt.",
-          "hintergrund": "Dimons Einschätzung steht im klaren Kontrast zur aktuellen Stimmung an den Märkten, wo Investoren Kriege, Zollkonflikte und politische Unsicherheiten zuletzt weitgehend ignoriert haben. Viele Indizes notieren nahe historischer Höchststände.\n\nDer Bankenchef verwies auf die Kombination aus geopolitischen Spannungen, hartnäckiger Inflation und einer möglichen Rezessionsgefahr als Faktoren, die seiner Ansicht nach in den derzeitigen Bewertungen nicht angemessen eingepreist sind.",
-          "tag": "Marktwarnung",
-          "emoji": "📉",
+          "titel": "Dimon warnt: Märkte unterschätzen Risiken massiv",
+          "zusammenfassung": "JPMorgan-Chef Jamie Dimon hat erklärt, er würde weder US-Aktien noch Staatsanleihen zu den aktuellen Bewertungen kaufen. Er sieht die Märkte in einem Zustand gefährlicher Sorglosigkeit angesichts geopolitischer und wirtschaftlicher Risiken.",
+          "bedeutung": "Warnungen des einflussreichsten Bankenchefs der Wall Street haben traditionell große Signalwirkung für institutionelle Investoren weltweit und könnten eine Neubewertung der Risikobereitschaft an den Märkten auslösen.",
+          "hintergrund": "Dimons Aussagen stehen in scharfem Kontrast zur jüngsten Stimmung an den Finanzmärkten, wo Anleger Kriege, Handelskonflikte und politische Unsicherheiten weitgehend ignoriert haben. Der S&P 500 und andere Indizes notieren nahe historischer Höchststände, obwohl die geopolitischen Spannungen – zuletzt durch den US-Iran-Konflikt – erheblich zugenommen haben.\n\nDimon verwies auf eine Kombination aus strukturell hohen Bewertungen, hartnäckiger Inflation, geopolitischen Risiken und dem anhaltenden Zollstreit als Faktoren, die von den Märkten seiner Einschätzung nach systematisch unterschätzt werden.",
+          "tag": "Marktrisiken",
+          "emoji": "⚠️",
           "quelle": "CNBC",
-          "quelle_url": "https://www.cnbc.com/2026/07/20/jpmorgan-chase-ceo-jamie-dimon-market-risk.html"
+          "quelle_url": "https://www.cnbc.com/2026/07/21/jpmorgan-chase-ceo-jamie-dimon-market-risk.html"
         },
         {
           "id": "boerse-1",
-          "titel": "Capital One vor entscheidender Bewährungsprobe nach Discover-Übernahme",
-          "zusammenfassung": "Der US-Finanzkonzern Capital One präsentiert am Dienstagabend seine Ergebnisse für das zweite Quartal – der erste große Test seit der milliardenschweren Übernahme des Kreditkartenunternehmens Discover. Investoren wollen wissen, ob sich die Fusion wirtschaftlich trägt.",
-          "bedeutung": "Das Ergebnis wird zeigen, ob einer der größten Konsolidierungsschritte im amerikanischen Kreditkartenmarkt den erhofften Mehrwert liefert – mit Signalwirkung für den gesamten Bankensektor.",
-          "hintergrund": "Die Übernahme von Discover durch Capital One war eine der meistdiskutierten Fusionen der US-Finanzbranche und hatte regulatorische Hürden zu überwinden. Kritiker hatten Bedenken geäußert, dass die Kombination zu einer marktbeherrschenden Stellung im Kreditkartengeschäft führen könnte.\n\nAnalysten erwarten nun konkrete Zahlen darüber, wie gut die Integration voranschreitet und ob die erhofften Synergieeffekte bereits messbar sind. Der Kurs der Aktie hat sich seit der Übernahme volatil entwickelt.",
-          "tag": "Banken-Fusion",
-          "emoji": "💳",
+          "titel": "US-Iran-Eskalation erschüttert Märkte und Ölpreise",
+          "zusammenfassung": "Investoren und Ökonomen analysieren fieberhaft die möglichen wirtschaftlichen Folgen der erneuten militärischen Konfrontation zwischen den USA und dem Iran. Im Fokus stehen vor allem Energiepreise, Rüstungsaktien und globale Lieferketten.",
+          "bedeutung": "Angriffe auf die Straße von Hormuz, durch die ein Großteil des weltweit gehandelten Öls fließt, könnten die Energiemärkte und damit die gesamte Weltwirtschaft erheblich destabilisieren.",
+          "hintergrund": "Historisch haben Eskalationen im Persischen Golf regelmäßig zu Ölpreissprüngen geführt, da die Region für die globale Energieversorgung von zentraler Bedeutung ist. Bereits die Ankündigung neuer Angriffe hat die Volatilität an den Rohstoffmärkten deutlich erhöht.\n\nAuf der Gewinnerseite könnten Rüstungskonzerne und Energieproduzenten außerhalb des Nahen Ostens stehen. Für importabhängige Volkswirtschaften in Europa und Asien hingegen drohen steigende Energiekosten, die den ohnehin schwachen Konjunkturausblick weiter eintrüben.",
+          "tag": "Ölpreis & Geopolitik",
+          "emoji": "🛢️",
           "quelle": "CNBC",
-          "quelle_url": "https://www.cnbc.com/2026/07/20/capital-one-bet-big-on-discover-now-it-must-prove-the-gamble-was-worth-it-.html"
+          "quelle_url": "https://www.cnbc.com/2026/07/21/iran-war-economy-markets-trump.html"
         },
         {
           "id": "boerse-2",
-          "titel": "Coinbase droht dritter Rückgang der Handelsvolumen in Folge",
-          "zusammenfassung": "Aus Prognosemärkten geht hervor, dass der Kryptobörse Coinbase für das zweite Quartal erneut ein Rückgang des Handelsvolumens droht – bereits zum dritten Mal in Folge. Der Quartalsbericht wird mit Spannung erwartet.",
-          "bedeutung": "Anhaltend sinkende Handelsvolumen bei der führenden US-Kryptobörse wären ein Indikator für eine strukturelle Abkühlung des Kryptomarkts trotz zuletzt gestiegener Bitcoin-Kurse.",
-          "hintergrund": "Coinbase gilt als Barometer für die Gesundheit des gesamten US-Kryptosektors. Ein dritter consecutiver Rückgang des Handelsvolumens würde Fragen aufwerfen, ob das Interesse institutioneller und privater Anleger am Kryptohandel trotz regulatorischer Erleichterungen nachlässt.\n\nDas Unternehmen hatte zuletzt von einem günstigeren regulatorischen Umfeld unter der Trump-Administration profitiert, was sich jedoch offenbar nicht in entsprechend höheren Umsätzen niederschlägt.",
-          "tag": "Krypto-Märkte",
-          "emoji": "🪙",
+          "titel": "Chinas Automarkt auf dem Weg zum schlechtesten Jahr seit 2021",
+          "zusammenfassung": "Die Pkw-Verkäufe in China sind um rund 20 Prozent eingebrochen, nachdem der Markt im Vorjahr mit 23,7 Millionen verkauften Fahrzeugen einen Rekord aufgestellt hatte. Der Rückgang deutet auf eine erhebliche Kaufzurückhaltung chinesischer Konsumenten hin.",
+          "bedeutung": "China ist der mit Abstand größte Automobilmarkt der Welt, und ein derart starker Einbruch hat unmittelbare Folgen für globale Hersteller, Zulieferer und die Rohstoffnachfrage – von Stahl bis zu Batteriemetallen.",
+          "hintergrund": "Nach dem Rekordjahr 2025 scheinen chinesische Verbraucher eine deutliche Kaufpause einzulegen, was auf eine tiefere wirtschaftliche Verunsicherung in der Volksrepublik hindeutet. Gestiegene Preise, eine schwächelnde Immobilienwirtschaft und gedämpfte Einkommenserwartungen dämpfen die Konsumbereitschaft.\n\nBesonders betroffen sind ausländische Hersteller, die in China ohnehin unter zunehmendem Wettbewerbsdruck durch einheimische Elektrofahrzeugmarken stehen. Ein anhaltender Absatzrückgang dürfte Produktionskapazitäten und Investitionspläne vieler internationaler Konzerne empfindlich treffen.",
+          "tag": "Automarkt China",
+          "emoji": "🚗",
           "quelle": "CNBC",
-          "quelle_url": "https://www.cnbc.com/2026/07/20/kalshi-traders-think-coinbases-trading-volume-will-fall-again.html"
+          "quelle_url": "https://www.cnbc.com/2026/07/20/china-automotive-car-worst-year-sales-fall-20percent.html"
         }
       ]
     }
