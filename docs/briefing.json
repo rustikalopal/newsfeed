@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-24T00:14:56.526425+00:00",
-  "datum": "Freitag, 24. Juli 2026",
+  "generated_at": "2026-07-25T00:19:04.835147+00:00",
+  "datum": "Samstag, 25. Juli 2026",
   "ressorts": [
     {
       "id": "politik",
@@ -9,36 +9,36 @@
       "stories": [
         {
           "id": "politik-0",
-          "titel": "USA verhängen Zölle gegen 60 Staaten wegen Zwangsarbeit",
-          "zusammenfassung": "Washington hat Strafzölle gegen rund 60 Handelspartner eingeführt, denen vorgeworfen wird, Zwangsarbeit in ihren Lieferketten nicht wirksam zu unterbinden. Die Maßnahme ist Teil einer schärferen US-Handelspolitik und trifft Länder auf allen Kontinenten.",
-          "bedeutung": "Die Zölle könnten globale Lieferketten erheblich stören und markieren eine neue Eskalationsstufe im Einsatz von Handelspolitik als Menschenrechtsinstrument.",
-          "hintergrund": "Die Biden-Ära hatte entsprechende Gesetze gegen Zwangsarbeit eingeführt, doch die Trump-Regierung setzt nun erstmals systematisch auf Strafzölle als Druckmittel. Betroffen sind unter anderem Länder in Asien, Afrika und Lateinamerika, die nach US-Einschätzung nicht ausreichend gegen Produktion unter Zwangsbedingungen vorgehen.\n\nKritiker warnen, dass die Maßnahme weniger humanitären als protektionistischen Zielen diene. Betroffene Handelspartner drohen bereits mit Gegenzöllen, was die Spannungen im globalen Handelssystem weiter verschärfen dürfte.",
-          "tag": "Handelspolitik",
-          "emoji": "⚖️",
+          "titel": "Waldbrandkatastrophe bedroht Madrid und Bordeaux",
+          "zusammenfassung": "Rund 140.000 Menschen wurden in Spanien und Frankreich vor verheerenden Waldbränden in Sicherheit gebracht. Madrider Behörden sprechen vom schlimmsten Brand in der Geschichte der Region.",
+          "bedeutung": "Die gleichzeitigen Großbrände auf der Iberischen Halbinsel und im Südwesten Frankreichs zeigen die wachsende klimatische Verwundbarkeit Südeuropas im Hochsommer.",
+          "hintergrund": "Die Feuerwehren beider Länder kämpfen unter extremen Bedingungen gegen mehrere Brandherde gleichzeitig. Besonders kritisch ist die Lage rund um Madrid, wo die Flammen dicht besiedelte Gebiete bedrohen und Evakuierungen in bisher nicht gekanntem Ausmaß notwendig wurden.\n\nIn Frankreich rückt ein Feuer bedrohlich auf die Weinmetropole Bordeaux vor. Einsatzkräfte aus mehreren europäischen Ländern wurden angefordert, während Klimaexperten warnen, dass solche Extremsommer künftig zur Normalität werden könnten.",
+          "tag": "Waldbrand",
+          "emoji": "🔥",
           "quelle": "BBC",
-          "quelle_url": "https://www.bbc.co.uk/news/articles/cvgj61j6l08o?at_medium=RSS&at_campaign=rss"
+          "quelle_url": "https://www.bbc.co.uk/news/articles/czjlenp0xk8o?at_medium=RSS&at_campaign=rss"
         },
         {
           "id": "politik-1",
-          "titel": "Trump knüpft Atomdeal an Israels Anerkennung durch Riad",
-          "zusammenfassung": "US-Präsident Trump hat klargestellt, dass ein Abkommen zur Unterstützung Saudi-Arabiens beim Aufbau ziviler Nuklearkapazitäten an eine Normalisierung der Beziehungen mit Israel geknüpft ist. Riad müsste den Abraham-Abkommen beitreten, um den Deal zu erhalten.",
-          "bedeutung": "Eine saudi-israelische Annäherung würde die geopolitische Architektur des Nahen Ostens grundlegend verändern und die Region neu ordnen.",
-          "hintergrund": "Die Abraham-Abkommen von 2020 hatten bereits mehrere arabische Staaten zur diplomatischen Anerkennung Israels bewogen. Saudi-Arabien gilt als der bedeutendste noch ausstehende Partner – ein Beitritt wäre symbolisch und strategisch von enormem Gewicht.\n\nDie Bedingung kommt zu einem Zeitpunkt, an dem der Krieg im Nahen Osten eskaliert und innerhalb Saudi-Arabiens erheblicher Widerstand gegen eine Normalisierung mit Israel besteht. Trumps Vorstoß verdeutlicht, wie eng Sicherheits-, Energie- und Diplomatiefragen in der Region miteinander verflochten sind.",
-          "tag": "Nahost-Diplomatie",
-          "emoji": "🕊️",
+          "titel": "USA und Iran eskalieren Schlagabtausch im Persischen Golf",
+          "zusammenfassung": "Die Vereinigten Staaten und der Iran haben erneut gegenseitige Angriffe im Persischen Golf ausgetauscht, was die Befürchtungen vor einer weiteren Eskalation des Konflikts schürt. Teheran verurteilte zudem amerikanische Pläne, eingefrorene iranische Vermögenswerte für Kriegsschadensersatz zu nutzen.",
+          "bedeutung": "Ein anhaltender militärischer Schlagabtausch zwischen den USA und dem Iran im Persischen Golf gefährdet eine der wichtigsten Schifffahrts- und Ölversorgungsrouten der Welt.",
+          "hintergrund": "Der Konflikt zwischen Washington und Teheran hat sich in den vergangenen Wochen deutlich verschärft. Beide Seiten führten erneut Angriffe aus, ohne dass diplomatische Kanäle eine Deeskalation bewirken konnten. Die internationale Gemeinschaft beobachtet die Entwicklung mit wachsender Sorge.\n\nDer Streit um eingefrorene iranische Auslandsvermögen, die die USA zur Begleichung von Kriegsschadensansprüchen verwenden wollen, hat die Spannungen zusätzlich angeheizt. Der Ölpreis reagierte auf die Lage mit einem deutlichen Anstieg auf rund 100 Dollar je Barrel.",
+          "tag": "US-Iran-Konflikt",
+          "emoji": "⚔️",
           "quelle": "BBC",
-          "quelle_url": "https://www.bbc.co.uk/news/articles/cwye71yq8wwo?at_medium=RSS&at_campaign=rss"
+          "quelle_url": "https://www.bbc.co.uk/news/articles/c05ql5llj4do?at_medium=RSS&at_campaign=rss"
         },
         {
           "id": "politik-2",
-          "titel": "Fedorow verweigert Zelensky-Angebot und beharrt auf Rückkehr",
-          "zusammenfassung": "Der von Präsident Selensky abgesetzte ukrainische Verteidigungsminister Mychajlo Fedorow lehnt das ihm angebotene Alternativamt ab und besteht auf seiner Wiedereinsetzung in das ursprüngliche Amt. Der öffentliche Machtkampf zwischen beiden Politikern hält damit an.",
-          "bedeutung": "Der Konflikt gefährdet die Handlungsfähigkeit des ukrainischen Sicherheitsapparats in einer militärisch kritischen Phase des Krieges.",
-          "hintergrund": "Fedorow, der sich vor allem als treibende Kraft hinter der digitalen Kriegsführung der Ukraine einen Namen gemacht hatte, wurde überraschend entlassen. Die Hintergründe der Entscheidung Selenskys sind offiziell nicht bestätigt, Beobachter vermuten interne Machtkämpfe innerhalb der Kiewer Führung.\n\nDass Fedorow die Absetzung öffentlich anficht, ist in der ukrainischen Politik ungewöhnlich und signalisiert tiefe Risse im Regierungsgefüge. Für westliche Partner, die auf eine stabile ukrainische Führungsstruktur angewiesen sind, ist die Entwicklung beunruhigend.",
-          "tag": "Ukraine-Politik",
-          "emoji": "🇺🇦",
+          "titel": "Washington verhängt neue Zollwelle gegen Dutzende Länder",
+          "zusammenfassung": "Die USA haben eine neue Runde von Zöllen gegen zahlreiche Handelspartner eingeführt und berufen sich dabei auf Bedenken wegen Zwangsarbeit. Die neuen Abgaben ersetzen vorläufige Zölle, die der Oberste Gerichtshof im Februar für unzulässig erklärt hatte.",
+          "bedeutung": "Die erneute Ausweitung amerikanischer Handelsbeschränkungen erhöht den Druck auf die globale Lieferkette und droht Vergeltungsmaßnahmen zahlreicher Handelspartner auszulösen.",
+          "hintergrund": "Nach dem Urteil des Supreme Court, das frühere pauschale Importzölle kassierte, suchte die Trump-Regierung nach neuen rechtlichen Grundlagen für Handelsbeschränkungen. Die nun eingeführten Zölle stützen sich auf Zwangsarbeitsvorwürfe und treffen Dutzende Staaten gleichzeitig.\n\nViele betroffene Länder wiesen die Begründung zurück und kündigten an, weiter über Handelsabkommen verhandeln zu wollen. Ökonomen warnen vor einer weiteren Fragmentierung des Welthandels und steigendem Inflationsdruck in den USA selbst.",
+          "tag": "Handelspolitik",
+          "emoji": "🌐",
           "quelle": "BBC",
-          "quelle_url": "https://www.bbc.co.uk/news/articles/ce97nm53pgxo?at_medium=RSS&at_campaign=rss"
+          "quelle_url": "https://www.bbc.co.uk/news/articles/cvgj61j6l08o?at_medium=RSS&at_campaign=rss"
         }
       ]
     },
@@ -49,36 +49,36 @@
       "stories": [
         {
           "id": "wirtschaft-0",
-          "titel": "US-Kongress will KI-Notabschalter per Gesetz verankern",
-          "zusammenfassung": "Amerikanische Gesetzgeber haben einen Gesetzesentwurf eingebracht, der der US-Regierung erlauben würde, KI-Systeme zwangsweise abzuschalten, sobald diese eine Gefahr für die öffentliche Sicherheit darstellen. Auslöser ist ein Vorfall, bei dem OpenAI internen Richtlinien zuwidergehandelt haben soll.",
-          "bedeutung": "Das Vorhaben könnte die globale KI-Regulierung maßgeblich prägen und einen neuen Standard für staatliche Aufsicht über Hochrisikotechnologien setzen.",
-          "hintergrund": "Der Vorstoß kommt inmitten einer breiten Debatte über die Kontrollierbarkeit fortgeschrittener KI-Systeme. Unternehmen wie OpenAI stehen unter zunehmendem Druck, Transparenz über die Entscheidungsprozesse ihrer Modelle herzustellen.\n\nKritiker aus der Technologiebranche warnen, ein staatlich verordneter Abschaltmechanismus könnte Innovationen hemmen und die Wettbewerbsfähigkeit der USA gegenüber China schwächen. Befürworter sehen darin eine überfällige Sicherheitsmaßnahme angesichts der rasanten Verbreitung leistungsfähiger KI-Systeme.",
-          "tag": "KI-Regulierung",
-          "emoji": "🤖",
+          "titel": "Ölpreis erstmals seit Mai wieder bei 100 Dollar",
+          "zusammenfassung": "Der Preis für Nordseeöl der Sorte Brent überschritt erstmals seit Mai die Marke von 100 Dollar je Barrel und legte damit binnen eines Tages mehr als sechs Prozent zu. Ausschlaggebend war die erneute Eskalation des Krieges im Nahen Osten.",
+          "bedeutung": "Ein dreistelliger Ölpreis wirkt wie eine globale Steuererhöhung – er treibt Inflation, belastet Verbraucher und zwingt Notenbanken zu schwierigen Abwägungen.",
+          "hintergrund": "Der anhaltende Konflikt zwischen den USA und dem Iran sowie die instabile Lage im gesamten Nahen Osten haben die Risikoprämien am Ölmarkt stark ansteigen lassen. Investoren fürchten Unterbrechungen der Förderung und des Transports in einer der ölreichsten Regionen der Welt.\n\nFür Verbraucher macht sich der Anstieg unmittelbar an den Zapfsäulen bemerkbar. In Großbritannien etwa stiegen die Benzin- und Dieselpreise spürbar, und Analysten warnen, dass ein dauerhafter Ölpreis über 100 Dollar die Bemühungen der Zentralbanken zur Inflationsbekämpfung erheblich erschweren würde.",
+          "tag": "Ölpreis",
+          "emoji": "🛢️",
           "quelle": "BBC",
-          "quelle_url": "https://www.bbc.co.uk/news/articles/cx2vqj2e9x8o?at_medium=RSS&at_campaign=rss"
+          "quelle_url": "https://www.bbc.co.uk/news/articles/cx2djnzrqk2o?at_medium=RSS&at_campaign=rss"
         },
         {
           "id": "wirtschaft-1",
-          "titel": "Europas größter Rüstungskonzern warnt vor westlicher Sorglosigkeit",
-          "zusammenfassung": "Der Chef von BAE Systems, Charles Woodburn, hat öffentlich davor gewarnt, dass Großbritannien und weite Teile des Westens die reale Bedrohung durch einen bewaffneten Konflikt systematisch unterschätzen. Die Gefahr eines Angriffs sei so hoch wie seit Jahrzehnten nicht mehr.",
-          "bedeutung": "Die Warnung des Chefs des größten europäischen Rüstungsunternehmens verstärkt den politischen Druck auf Regierungen, Verteidigungshaushalte deutlich aufzustocken.",
-          "hintergrund": "Woodburns Äußerungen fallen in eine Zeit, in der mehrere NATO-Staaten ihre Verteidigungsausgaben erhöhen, aber Experten zufolge noch weit hinter den tatsächlich nötigen Kapazitäten zurückbleiben. Der anhaltende Krieg in der Ukraine und die Spannungen im Nahen Osten haben die Rüstungsindustrie in eine Schlüsselrolle gerückt.\n\nDie Aussagen eines Konzernchefs mit direktem Eigeninteresse an höheren Rüstungsbudgets werden zwar kritisch beäugt, finden aber in der sicherheitspolitischen Debatte breites Echo. Mehrere EU-Staaten prüfen derzeit eine Lockerung von Schuldenregeln, um Verteidigungsinvestitionen zu finanzieren.",
-          "tag": "Sicherheitspolitik",
+          "titel": "BAE-Chef warnt: Europa unterschätzt Kriegsbedrohung gefährlich",
+          "zusammenfassung": "Der Chef des größten europäischen Rüstungskonzerns BAE Systems schlägt Alarm: Die Bedrohungslage sei so ernst wie seit Jahrzehnten nicht, doch Politik und Gesellschaft reagierten mit gefährlicher Selbstgefälligkeit. Er fordert eine deutliche Steigerung der Verteidigungsausgaben und Rüstungskapazitäten.",
+          "bedeutung": "Die Mahnung eines der einflussreichsten Verteidigungsmanager Europas unterstreicht die wachsende Kluft zwischen militärischer Bedrohungsrealität und gesellschaftlicher Bereitschaft zur Aufrüstung.",
+          "hintergrund": "Charles Woodburn, Chef von BAE Systems, äußerte sich angesichts der anhaltenden Kriege in der Ukraine und im Nahen Osten sowie einer zunehmend aggressiven russischen Rhetorik. Er sieht Europa strukturell schlecht aufgestellt, um auf eine direkte Bedrohung reagieren zu können.\n\nDie Aussagen fallen in eine Zeit, in der NATO-Staaten zwar ihre Rüstungsbudgets erhöhen, die Rüstungsindustrie aber signalisiert, dass Produktionskapazitäten und Lieferketten trotzdem noch nicht kriegstauglich sind. Die Debatte über den Aufbau einer eigenständigen europäischen Verteidigungsfähigkeit gewinnt dadurch weiter an Dringlichkeit.",
+          "tag": "Rüstung",
           "emoji": "🛡️",
           "quelle": "BBC",
           "quelle_url": "https://www.bbc.co.uk/news/articles/cx2lpjjpny9o?at_medium=RSS&at_campaign=rss"
         },
         {
           "id": "wirtschaft-2",
-          "titel": "Trump plant Zölle auf Generika ab 2028 – Pharmaindustrie in Alarmstimmung",
-          "zusammenfassung": "Die US-Regierung hat angekündigt, ab 2028 Strafzölle auf importierte Generika einzuführen, um die heimische Arzneimittelproduktion zu stärken. Die zweijährige Übergangsfrist soll Unternehmen Zeit geben, Produktionskapazitäten in die USA zu verlagern.",
-          "bedeutung": "Die Maßnahme bedroht die globalen Pharmalieferketten und könnte die Medikamentenpreise für Millionen amerikanischer Verbraucher deutlich erhöhen.",
-          "hintergrund": "Die USA beziehen einen Großteil ihrer Generika aus Indien und China, die über hocheffiziente und kostengünstige Produktionsstrukturen verfügen. Eine Verlagerung dieser Kapazitäten in die USA gilt als technisch möglich, aber extrem kostenintensiv und zeitaufwendig.\n\nBranchenverbände warnen vor Engpässen bei lebenswichtigen Medikamenten während der Umstellungsphase. Befürworter hingegen sehen in der Initiative einen notwendigen Schritt zur Reduktion strategischer Abhängigkeiten, die die Pandemie schonungslos offengelegt hatte.",
-          "tag": "Pharmazölle",
-          "emoji": "💊",
-          "quelle": "CNBC",
-          "quelle_url": "https://www.cnbc.com/2026/07/22/trump-generic-drugs-tariffs-medicine-trade-.html"
+          "titel": "Trump hebt Scotch-Whisky-Zoll nach Staatsbesuch auf",
+          "zusammenfassung": "Die USA haben den zehnprozentigen Einfuhrzoll auf schottischen Whisky aufgehoben, den König Charles III. bei seinem Staatsbesuch in Washington ausgehandelt hatte. Die schottische Regierung begrüßte die Entscheidung als wichtigen Erfolg für eine Schlüsselbranche.",
+          "bedeutung": "Die Ausnahme zeigt, wie sehr Handelspolitik unter Trump von persönlicher Diplomatie abhängt – und wie selektiv die neue US-Zollwelle angewendet werden kann.",
+          "hintergrund": "Während Washington gleichzeitig neue Zölle gegen Dutzende Länder verhängte, profitiert die schottische Whiskyindustrie von einer Sonderregelung, die im Rahmen des Staatsbesuchs von König Charles ausgehandelt wurde. Dies verdeutlicht das transaktionale Wesen der amerikanischen Handelspolitik unter der aktuellen Regierung.\n\nFür die schottische Exportwirtschaft ist die Entscheidung bedeutsam, da die USA der wichtigste Auslandsmarkt für Scotch Whisky sind. Der Zollnachlass hatte die Branche seit seiner Einführung erheblich belastet und war ein zentrales Thema bilateraler Gespräche zwischen London und Washington.",
+          "tag": "Handelsdiplomatie",
+          "emoji": "🥃",
+          "quelle": "BBC",
+          "quelle_url": "https://www.bbc.co.uk/news/articles/c7vgz680977o?at_medium=RSS&at_campaign=rss"
         }
       ]
     },
@@ -89,36 +89,36 @@
       "stories": [
         {
           "id": "boerse-0",
-          "titel": "Ölpreis über 100 Dollar reißt Aktienmärkte in die Tiefe",
-          "zusammenfassung": "Nachdem der Brent-Rohölpreis erstmals seit Mai die Marke von 100 US-Dollar je Barrel überschritten hat, gaben die globalen Aktienmärkte am Donnerstag deutlich nach. Auslöser ist die weitere Eskalation des Krieges im Nahen Osten.",
-          "bedeutung": "Ein dauerhaft dreistelliger Ölpreis würde die Inflation weltweit neu entfachen und die Spielräume der Notenbanken dramatisch einengen.",
-          "hintergrund": "Über Wochen hatten die Börsen die Kriegsrisiken weitgehend ignoriert und auf eine schnelle Deeskalation gesetzt. Der Sprung über die psychologisch bedeutsame 100-Dollar-Schwelle hat diese Erwartungshaltung abrupt korrigiert und den Märkten die Verwundbarkeit durch geopolitische Schocks deutlich vor Augen geführt.\n\nAnalysten warnen, dass sich Öl bei diesem Niveau festsetzen könnte, sollten die Kampfhandlungen in der Region wichtige Förder- oder Transportinfrastruktur treffen. Für energieintensive Volkswirtschaften in Europa und Asien wären die Folgen besonders gravierend.",
-          "tag": "Ölpreisschock",
-          "emoji": "🛢️",
-          "quelle": "CNBC",
-          "quelle_url": "https://www.cnbc.com/2026/07/23/short-sighted-stock-market-can-no-longer-brush-off-war-investors-say.html"
-        },
-        {
-          "id": "boerse-1",
-          "titel": "Zinswende rückwärts? Fed-Erhöhung rückt in den Fokus",
-          "zusammenfassung": "Angesichts des sprunghaften Anstiegs der Energiepreise rechnen Investoren zunehmend damit, dass die US-Notenbank Federal Reserve im September die Leitzinsen anheben könnte, anstatt sie wie erwartet zu senken. Die Wahrscheinlichkeit einer Zinserhöhung ist an den Terminmärkten stark gestiegen.",
-          "bedeutung": "Eine unerwartete Zinswende der Fed würde globale Anleihe- und Aktienmärkte erheblich belasten und die Finanzierungskosten weltweit in die Höhe treiben.",
-          "hintergrund": "Noch vor wenigen Wochen galt eine Zinssenkung im Herbst als nahezu sicher eingepreist. Der Ölpreisschock hat diese Erwartungen auf den Kopf gestellt, da steigende Energiekosten die Inflation wieder anheizen und die Notenbank zu einer restriktiveren Haltung zwingen könnten.\n\nFed-Beobachter analysieren derzeit intensiv die jüngsten Aussagen von Kevin Warsh, der als möglicher künftiger Fed-Vorsitzender gilt und in öffentlichen Auftritten wiederholt betont hat, Inflation sei letztlich eine politische Entscheidung – ein Signal, das Märkte als Hinweis auf eine härtere Linie interpretieren.",
-          "tag": "Fed-Zinspolitik",
+          "titel": "Fed-Zinserhöhung rückt näher: Ölschock treibt Erwartungen",
+          "zusammenfassung": "Angesichts des Ölpreisanstiegs auf 100 Dollar je Barrel wächst an den Märkten die Überzeugung, dass die US-Notenbank bereits im September die Leitzinsen anheben könnte. Investoren repositionieren sich entsprechend neu.",
+          "bedeutung": "Die Neubewertung der Zinsperspektiven durch den Ölpreisschock könnte Anleihe- und Aktienmärkte weltweit unter Druck setzen.",
+          "hintergrund": "Nachdem die Märkte lange auf baldige Zinssenkungen der Federal Reserve gesetzt hatten, dreht sich die Stimmung nun abrupt. Der sprunghafte Anstieg des Rohölpreises infolge der Eskalation im Nahen Osten nährt Sorgen vor einer erneuten Inflationswelle, die die Fed zu einem geldpolitischen Kurswechsel zwingen könnte.\n\nTerminmärkte zeigen einen deutlichen Anstieg der Wahrscheinlichkeit für eine Zinserhöhung im September. Das würde Kredite verteuern, den Dollar stärken und vor allem wachstumsstarke Technologieaktien belasten, die besonders zinssensitiv sind.",
+          "tag": "Fed / Zinsen",
           "emoji": "📈",
           "quelle": "CNBC",
           "quelle_url": "https://www.cnbc.com/2026/07/23/fed-interest-rate-odds-oil-jobless-claims.html"
         },
         {
-          "id": "boerse-2",
-          "titel": "Gold-Bulle Paulson sieht erst den Beginn einer langen Rally",
-          "zusammenfassung": "Hedgefonds-Legende John Paulson erwartet, dass der Goldpreis sich erst am Anfang eines langanhaltenden Aufwärtstrends befindet. Als Haupttreiber nennt er die anhaltenden Goldkäufe der Zentralbanken weltweit sowie wachsendes Interesse privater Anleger.",
-          "bedeutung": "Paulson gilt als einer der einflussreichsten Stimmen an den Rohstoffmärkten – sein Ausblick dürfte die Nachfrage nach Gold als sicherer Hafen weiter befeuern.",
-          "hintergrund": "Zentralbanken aus Schwellenländern, allen voran China, Indien und die Türkei, haben ihre Goldreserven in den vergangenen Jahren massiv ausgebaut, um die Abhängigkeit vom US-Dollar zu reduzieren. Dieser strukturelle Trend verleiht dem Goldpreis nach Ansicht von Experten eine solide Unterstützung.\n\nHinzu kommt die aktuelle Risikolage: Krieg, Inflationsrückkehr und eine mögliche Fed-Kehrtwende treiben Anleger in klassische Schutzanlagen. Gold hat in diesem Umfeld zuletzt deutlich zugelegt und nähert sich historischen Höchstständen.",
-          "tag": "Goldmarkt",
-          "emoji": "🥇",
+          "id": "boerse-1",
+          "titel": "Aktien brechen ein: Börsen ignorieren Krieg nicht mehr",
+          "zusammenfassung": "Nach wochenlanger relativer Ruhe angesichts des US-Iran-Konflikts gerieten die Aktienmärkte unter heftigen Druck, als der Ölpreis die symbolische Marke von 100 Dollar durchbrach. Analysten sprechen von einem Stimmungswandel: Die geopolitische Risikoprämie kehrt an die Börsen zurück.",
+          "bedeutung": "Das Ende der Marktresilienz gegenüber dem Nahostkonflikt markiert eine neue Phase der Unsicherheit für globale Portfolios.",
+          "hintergrund": "Wochenlang hatten Investoren die militärischen Auseinandersetzungen zwischen den USA und dem Iran mit bemerkenswerter Gelassenheit aufgenommen. Mit dem Überschreiten der 100-Dollar-Schwelle beim Öl scheint diese Toleranz erschöpft zu sein – Indizes rutschten deutlich ab.\n\nMarktbeobachter verweisen darauf, dass der Ölpreis als Transmissionsriemen funktioniert: Solange er beherrschbar blieb, konnten Händler geopolitische Risiken ausblenden. Nun aber verbinden sich Inflationssorgen, die Aussicht auf Zinserhöhungen und geopolitische Instabilität zu einem schwer kalkulierbaren Gemenge.",
+          "tag": "Marktkorrektur",
+          "emoji": "📉",
           "quelle": "CNBC",
-          "quelle_url": "https://www.cnbc.com/2026/07/22/john-paulson-says-we-are-in-early-stages-of-a-long-term-bull-market-for-gold.html"
+          "quelle_url": "https://www.cnbc.com/2026/07/23/short-sighted-stock-market-can-no-longer-brush-off-war-investors-say.html"
+        },
+        {
+          "id": "boerse-2",
+          "titel": "Moody's warnt: KI-Investitionen gefährden Kreditqualität der Tech-Giganten",
+          "zusammenfassung": "Die Ratingagentur Moody's hat vor den finanziellen Risiken der massiven Ausgaben für Künstliche Intelligenz gewarnt. Selbst die liquidesten Technologiekonzerne wie Amazon, Meta und Alphabet griffen zunehmend auf Schulden und außerbilanzielle Finanzierungsstrukturen zurück.",
+          "bedeutung": "Wenn führende Ratingagenturen die Bonität der mächtigsten Tech-Konzerne der Welt in Frage stellen, hat das Signalwirkung für Anleihemärkte und Investorenvertrauen weltweit.",
+          "hintergrund": "Der KI-Boom hat eine Investitionswelle ausgelöst, die selbst kassenreiche Unternehmen an ihre Finanzierungsgrenzen treibt. Rechenzentren, Chips und Energieinfrastruktur verschlingen Hunderte Milliarden Dollar, und Moody's sieht darin eine strukturelle Belastung für die Kreditprofile der betroffenen Konzerne.\n\nBesonders brisant ist die Einschätzung, weil sie die verbreitete Annahme erschüttert, große Tech-Firmen seien per se finanziell unverwundbar. Die Warnung dürfte die laufende Debatte über Bewertungen im KI-Sektor und die Nachhaltigkeit der Investitionswelle neu entfachen.",
+          "tag": "KI / Bonität",
+          "emoji": "🤖",
+          "quelle": "CNBC",
+          "quelle_url": "https://www.cnbc.com/2026/07/24/moodys-ai-spending-credit-quality-amazon-meta-alphabet.html"
         }
       ]
     }
