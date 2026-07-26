@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-25T00:19:04.835147+00:00",
-  "datum": "Samstag, 25. Juli 2026",
+  "generated_at": "2026-07-26T00:17:25.415950+00:00",
+  "datum": "Sonntag, 26. Juli 2026",
   "ressorts": [
     {
       "id": "politik",
@@ -9,36 +9,36 @@
       "stories": [
         {
           "id": "politik-0",
-          "titel": "Waldbrandkatastrophe bedroht Madrid und Bordeaux",
-          "zusammenfassung": "Rund 140.000 Menschen wurden in Spanien und Frankreich vor verheerenden Waldbränden in Sicherheit gebracht. Madrider Behörden sprechen vom schlimmsten Brand in der Geschichte der Region.",
-          "bedeutung": "Die gleichzeitigen Großbrände auf der Iberischen Halbinsel und im Südwesten Frankreichs zeigen die wachsende klimatische Verwundbarkeit Südeuropas im Hochsommer.",
-          "hintergrund": "Die Feuerwehren beider Länder kämpfen unter extremen Bedingungen gegen mehrere Brandherde gleichzeitig. Besonders kritisch ist die Lage rund um Madrid, wo die Flammen dicht besiedelte Gebiete bedrohen und Evakuierungen in bisher nicht gekanntem Ausmaß notwendig wurden.\n\nIn Frankreich rückt ein Feuer bedrohlich auf die Weinmetropole Bordeaux vor. Einsatzkräfte aus mehreren europäischen Ländern wurden angefordert, während Klimaexperten warnen, dass solche Extremsommer künftig zur Normalität werden könnten.",
-          "tag": "Waldbrand",
-          "emoji": "🔥",
+          "titel": "Russland tötet zehn bei Angriff auf Drohnen-Messe",
+          "zusammenfassung": "Bei einem russischen Raketenangriff auf eine Drohnenausstellung nahe Kiew kamen zehn Menschen ums Leben. Die Veranstaltung fand mitten am Tag statt und war von führenden Vertretern der ukrainischen Rüstungsindustrie besucht.",
+          "bedeutung": "Der gezielte Angriff auf ein Symbol der ukrainischen Verteidigungsinnovation zeigt Russlands Entschlossenheit, die Waffenentwicklung des Landes direkt zu treffen.",
+          "hintergrund": "Die Ausstellung galt als Schaufenster für Ukraines wachsende Drohnentechnologie, die im Krieg eine zunehmend zentrale Rolle spielt. Dass Moskau einen solchen zivil-militärischen Treffpunkt zur Zielscheibe wählte, signalisiert eine neue Eskalationsstufe.\n\nDer Angriff fällt in eine ohnehin politisch angespannte Phase in Kyiv, in der Präsident Selenskyj mit dem umstrittenen Rauswurf seines Verteidigungsministers kämpft. Internationale Partner äußerten erneut scharfe Verurteilungen.",
+          "tag": "Ukraine-Krieg",
+          "emoji": "💥",
           "quelle": "BBC",
-          "quelle_url": "https://www.bbc.co.uk/news/articles/czjlenp0xk8o?at_medium=RSS&at_campaign=rss"
+          "quelle_url": "https://www.bbc.co.uk/news/articles/cj637zd1k1ko?at_medium=RSS&at_campaign=rss"
         },
         {
           "id": "politik-1",
-          "titel": "USA und Iran eskalieren Schlagabtausch im Persischen Golf",
-          "zusammenfassung": "Die Vereinigten Staaten und der Iran haben erneut gegenseitige Angriffe im Persischen Golf ausgetauscht, was die Befürchtungen vor einer weiteren Eskalation des Konflikts schürt. Teheran verurteilte zudem amerikanische Pläne, eingefrorene iranische Vermögenswerte für Kriegsschadensersatz zu nutzen.",
-          "bedeutung": "Ein anhaltender militärischer Schlagabtausch zwischen den USA und dem Iran im Persischen Golf gefährdet eine der wichtigsten Schifffahrts- und Ölversorgungsrouten der Welt.",
-          "hintergrund": "Der Konflikt zwischen Washington und Teheran hat sich in den vergangenen Wochen deutlich verschärft. Beide Seiten führten erneut Angriffe aus, ohne dass diplomatische Kanäle eine Deeskalation bewirken konnten. Die internationale Gemeinschaft beobachtet die Entwicklung mit wachsender Sorge.\n\nDer Streit um eingefrorene iranische Auslandsvermögen, die die USA zur Begleichung von Kriegsschadensansprüchen verwenden wollen, hat die Spannungen zusätzlich angeheizt. Der Ölpreis reagierte auf die Lage mit einem deutlichen Anstieg auf rund 100 Dollar je Barrel.",
-          "tag": "US-Iran-Konflikt",
-          "emoji": "⚔️",
+          "titel": "Waldbrände: 250.000 Menschen in Frankreich und Spanien evakuiert",
+          "zusammenfassung": "Massive Waldbrände in Südfrankreich und Spanien haben zur Flucht von mehr als 250.000 Menschen geführt. Spaniens Premierminister warnte vor noch schwierigeren Stunden, während Frankreichs Behörden die Lage bei Bordeaux als weitgehend außer Kontrolle beschreiben.",
+          "bedeutung": "Die gleichzeitigen Brände in zwei EU-Ländern unterstreichen die wachsende Bedrohung durch extreme Hitzeereignisse und stellen die Katastrophenschutzsysteme Europas auf eine harte Probe.",
+          "hintergrund": "Die Brandsaison 2026 entwickelt sich zur schwersten seit Jahren. Anhaltende Trockenheit und Rekordtemperaturen schaffen ideale Bedingungen für schnell übergreifende Feuer, die Feuerwehren und Behörden an ihre Kapazitätsgrenzen bringen.\n\nExperten sehen in der Häufung solcher Ereignisse ein klares Signal des Klimawandels. Die EU-Kommission steht unter Druck, den gemeinsamen Katastrophenschutzmechanismus deutlich auszubauen.",
+          "tag": "Klimakrise",
+          "emoji": "🔥",
           "quelle": "BBC",
-          "quelle_url": "https://www.bbc.co.uk/news/articles/c05ql5llj4do?at_medium=RSS&at_campaign=rss"
+          "quelle_url": "https://www.bbc.co.uk/news/articles/cd7le0d53y2o?at_medium=RSS&at_campaign=rss"
         },
         {
           "id": "politik-2",
-          "titel": "Washington verhängt neue Zollwelle gegen Dutzende Länder",
-          "zusammenfassung": "Die USA haben eine neue Runde von Zöllen gegen zahlreiche Handelspartner eingeführt und berufen sich dabei auf Bedenken wegen Zwangsarbeit. Die neuen Abgaben ersetzen vorläufige Zölle, die der Oberste Gerichtshof im Februar für unzulässig erklärt hatte.",
-          "bedeutung": "Die erneute Ausweitung amerikanischer Handelsbeschränkungen erhöht den Druck auf die globale Lieferkette und droht Vergeltungsmaßnahmen zahlreicher Handelspartner auszulösen.",
-          "hintergrund": "Nach dem Urteil des Supreme Court, das frühere pauschale Importzölle kassierte, suchte die Trump-Regierung nach neuen rechtlichen Grundlagen für Handelsbeschränkungen. Die nun eingeführten Zölle stützen sich auf Zwangsarbeitsvorwürfe und treffen Dutzende Staaten gleichzeitig.\n\nViele betroffene Länder wiesen die Begründung zurück und kündigten an, weiter über Handelsabkommen verhandeln zu wollen. Ökonomen warnen vor einer weiteren Fragmentierung des Welthandels und steigendem Inflationsdruck in den USA selbst.",
-          "tag": "Handelspolitik",
-          "emoji": "🌐",
+          "titel": "Chefankläger des Weltstrafgerichts abgesetzt",
+          "zusammenfassung": "Der Internationale Strafgerichtshof hat seinen leitenden Ankläger Karim Khan wegen Vorwürfen sexuellen Fehlverhaltens gegenüber einer Mitarbeiterin seines Amtes enthoben. Khan weist die Anschuldigungen zurück und bestreitet jede Einflussnahme auf die Beschwerde der Betroffenen.",
+          "bedeutung": "Die Absetzung des höchsten Anklägers erschüttert die institutionelle Glaubwürdigkeit des IStGH in einem Moment, in dem das Gericht mit hochpolitischen Haftbefehlen international im Fokus steht.",
+          "hintergrund": "Karim Khan hatte seit 2021 das Amt inne und war vor allem durch Haftbefehle gegen prominente Staatschefs international bekannt geworden. Interne Vorwürfe gegen ihn kursierten dem Vernehmen nach bereits seit Monaten in Den Haag.\n\nFür das Gericht kommt der Skandal zur Unzeit: Mehrere laufende Verfahren von globaler Tragweite könnten durch das Führungsvakuum und den Vertrauensverlust belastet werden. Das Präsidium des IStGH muss nun rasch einen Interimsnachfolger bestimmen.",
+          "tag": "Internationales Recht",
+          "emoji": "⚖️",
           "quelle": "BBC",
-          "quelle_url": "https://www.bbc.co.uk/news/articles/cvgj61j6l08o?at_medium=RSS&at_campaign=rss"
+          "quelle_url": "https://www.bbc.co.uk/news/articles/cqjxddx12qqo?at_medium=RSS&at_campaign=rss"
         }
       ]
     },
@@ -49,33 +49,33 @@
       "stories": [
         {
           "id": "wirtschaft-0",
-          "titel": "Ölpreis erstmals seit Mai wieder bei 100 Dollar",
-          "zusammenfassung": "Der Preis für Nordseeöl der Sorte Brent überschritt erstmals seit Mai die Marke von 100 Dollar je Barrel und legte damit binnen eines Tages mehr als sechs Prozent zu. Ausschlaggebend war die erneute Eskalation des Krieges im Nahen Osten.",
-          "bedeutung": "Ein dreistelliger Ölpreis wirkt wie eine globale Steuererhöhung – er treibt Inflation, belastet Verbraucher und zwingt Notenbanken zu schwierigen Abwägungen.",
-          "hintergrund": "Der anhaltende Konflikt zwischen den USA und dem Iran sowie die instabile Lage im gesamten Nahen Osten haben die Risikoprämien am Ölmarkt stark ansteigen lassen. Investoren fürchten Unterbrechungen der Förderung und des Transports in einer der ölreichsten Regionen der Welt.\n\nFür Verbraucher macht sich der Anstieg unmittelbar an den Zapfsäulen bemerkbar. In Großbritannien etwa stiegen die Benzin- und Dieselpreise spürbar, und Analysten warnen, dass ein dauerhafter Ölpreis über 100 Dollar die Bemühungen der Zentralbanken zur Inflationsbekämpfung erheblich erschweren würde.",
-          "tag": "Ölpreis",
-          "emoji": "🛢️",
+          "titel": "Trumps Zollwelle entwertet Londons Handelsdeal",
+          "zusammenfassung": "Das im Frühjahr gefeierte Handelsabkommen zwischen Großbritannien und den USA verliert an Glanz, da andere Länder inzwischen bessere Konditionen ausgehandelt haben. Die auf britische Waren erhobenen US-Zölle sind faktisch unverändert geblieben, während Konkurrenten günstigere Zugänge zum amerikanischen Markt erhalten.",
+          "bedeutung": "Für die britische Regierung ist dies ein empfindlicher politischer Rückschlag, da der Deal als Kronjuwel der Post-Brexit-Handelspolitik vermarktet worden war.",
+          "hintergrund": "London hatte das Abkommen nach monatelangen Verhandlungen als historischen Durchbruch präsentiert. Nun zeigt sich, dass die Vereinbarung weniger Zollentlastungen enthält, als Downing Street suggeriert hatte, während Länder wie Indien oder Japan mit Washington bessere Ergebnisse erzielten.\n\nDie Entwicklung nährt die Debatte, ob Großbritannien außerhalb der EU tatsächlich mehr handelspolitischen Einfluss hat. Kritiker sehen sich in ihrer Skepsis gegenüber den Versprechen der Brexit-Befürworter bestätigt.",
+          "tag": "Brexit-Handel",
+          "emoji": "🇬🇧",
           "quelle": "BBC",
-          "quelle_url": "https://www.bbc.co.uk/news/articles/cx2djnzrqk2o?at_medium=RSS&at_campaign=rss"
+          "quelle_url": "https://www.bbc.co.uk/news/articles/c9v4ymwddwgo?at_medium=RSS&at_campaign=rss"
         },
         {
           "id": "wirtschaft-1",
-          "titel": "BAE-Chef warnt: Europa unterschätzt Kriegsbedrohung gefährlich",
-          "zusammenfassung": "Der Chef des größten europäischen Rüstungskonzerns BAE Systems schlägt Alarm: Die Bedrohungslage sei so ernst wie seit Jahrzehnten nicht, doch Politik und Gesellschaft reagierten mit gefährlicher Selbstgefälligkeit. Er fordert eine deutliche Steigerung der Verteidigungsausgaben und Rüstungskapazitäten.",
-          "bedeutung": "Die Mahnung eines der einflussreichsten Verteidigungsmanager Europas unterstreicht die wachsende Kluft zwischen militärischer Bedrohungsrealität und gesellschaftlicher Bereitschaft zur Aufrüstung.",
-          "hintergrund": "Charles Woodburn, Chef von BAE Systems, äußerte sich angesichts der anhaltenden Kriege in der Ukraine und im Nahen Osten sowie einer zunehmend aggressiven russischen Rhetorik. Er sieht Europa strukturell schlecht aufgestellt, um auf eine direkte Bedrohung reagieren zu können.\n\nDie Aussagen fallen in eine Zeit, in der NATO-Staaten zwar ihre Rüstungsbudgets erhöhen, die Rüstungsindustrie aber signalisiert, dass Produktionskapazitäten und Lieferketten trotzdem noch nicht kriegstauglich sind. Die Debatte über den Aufbau einer eigenständigen europäischen Verteidigungsfähigkeit gewinnt dadurch weiter an Dringlichkeit.",
-          "tag": "Rüstung",
-          "emoji": "🛡️",
+          "titel": "Öl über 100 Dollar: Kraftstoffpreise steigen wieder",
+          "zusammenfassung": "In Großbritannien ziehen die Preise für Benzin und Diesel erneut an, nachdem der Ölpreis wieder die Marke von 100 US-Dollar je Barrel überschritten hat. Verbraucher und Unternehmen stehen damit vor einer neuen Belastungswelle.",
+          "bedeutung": "Ein nachhaltig dreistelliger Ölpreis wirkt wie ein globaler Inflationsschub und trifft Haushalte sowie energieintensive Industrien weltweit.",
+          "hintergrund": "Hinter dem Preisanstieg stehen vor allem geopolitische Spannungen rund um den Iran sowie Lieferengpässe, die die Märkte nervös machen. Bereits im Frühjahr hatte sich eine Aufwärtsbewegung abgezeichnet, die sich nun beschleunigt.\n\nNotenbanken, die gerade begonnen hatten, die Zinsen zu senken, geraten durch den erneuten Energiepreisschub in ein Dilemma: Zu frühe Lockerungen könnten die Inflation neu entfachen, während zu lange hohe Zinsen das Wachstum bremsen.",
+          "tag": "Energiepreise",
+          "emoji": "⛽",
           "quelle": "BBC",
-          "quelle_url": "https://www.bbc.co.uk/news/articles/cx2lpjjpny9o?at_medium=RSS&at_campaign=rss"
+          "quelle_url": "https://www.bbc.co.uk/news/articles/c20zgjzz0e4o?at_medium=RSS&at_campaign=rss"
         },
         {
           "id": "wirtschaft-2",
-          "titel": "Trump hebt Scotch-Whisky-Zoll nach Staatsbesuch auf",
-          "zusammenfassung": "Die USA haben den zehnprozentigen Einfuhrzoll auf schottischen Whisky aufgehoben, den König Charles III. bei seinem Staatsbesuch in Washington ausgehandelt hatte. Die schottische Regierung begrüßte die Entscheidung als wichtigen Erfolg für eine Schlüsselbranche.",
-          "bedeutung": "Die Ausnahme zeigt, wie sehr Handelspolitik unter Trump von persönlicher Diplomatie abhängt – und wie selektiv die neue US-Zollwelle angewendet werden kann.",
-          "hintergrund": "Während Washington gleichzeitig neue Zölle gegen Dutzende Länder verhängte, profitiert die schottische Whiskyindustrie von einer Sonderregelung, die im Rahmen des Staatsbesuchs von König Charles ausgehandelt wurde. Dies verdeutlicht das transaktionale Wesen der amerikanischen Handelspolitik unter der aktuellen Regierung.\n\nFür die schottische Exportwirtschaft ist die Entscheidung bedeutsam, da die USA der wichtigste Auslandsmarkt für Scotch Whisky sind. Der Zollnachlass hatte die Branche seit seiner Einführung erheblich belastet und war ein zentrales Thema bilateraler Gespräche zwischen London und Washington.",
-          "tag": "Handelsdiplomatie",
+          "titel": "USA heben Scotch-Whisky-Zoll nach Königsbesuch auf",
+          "zusammenfassung": "Washington hat die zehnprozentige Sonderabgabe auf schottischen Whisky aufgehoben, die US-Präsident Trump im Zuge des Staatsbesuchs von König Charles III. zugesagt hatte. Die schottische Regierung begrüßte die Entscheidung als wichtigen Erfolg für die Branche.",
+          "bedeutung": "Die Zollbefreiung zeigt, wie stark persönliche Diplomatie und symbolische Gesten die US-Handelspolitik unter Trump beeinflussen können.",
+          "hintergrund": "Die Scotch-Whisky-Industrie hatte unter den Strafzöllen, die ursprünglich im Rahmen eines Stahlstreits verhängt worden waren, erheblich gelitten. Hersteller und Exporteure hoffen nun auf eine Erholung der Absatzzahlen im wichtigen amerikanischen Markt.\n\nKritikerInnen weisen jedoch darauf hin, dass die gleichzeitig angekündigten neuen US-Globalzölle in anderen Sektoren weit größere Schäden anrichten dürften als der Whisky-Nachlass kompensiert.",
+          "tag": "Handelspolitik",
           "emoji": "🥃",
           "quelle": "BBC",
           "quelle_url": "https://www.bbc.co.uk/news/articles/c7vgz680977o?at_medium=RSS&at_campaign=rss"
@@ -89,36 +89,36 @@
       "stories": [
         {
           "id": "boerse-0",
-          "titel": "Fed-Zinserhöhung rückt näher: Ölschock treibt Erwartungen",
-          "zusammenfassung": "Angesichts des Ölpreisanstiegs auf 100 Dollar je Barrel wächst an den Märkten die Überzeugung, dass die US-Notenbank bereits im September die Leitzinsen anheben könnte. Investoren repositionieren sich entsprechend neu.",
-          "bedeutung": "Die Neubewertung der Zinsperspektiven durch den Ölpreisschock könnte Anleihe- und Aktienmärkte weltweit unter Druck setzen.",
-          "hintergrund": "Nachdem die Märkte lange auf baldige Zinssenkungen der Federal Reserve gesetzt hatten, dreht sich die Stimmung nun abrupt. Der sprunghafte Anstieg des Rohölpreises infolge der Eskalation im Nahen Osten nährt Sorgen vor einer erneuten Inflationswelle, die die Fed zu einem geldpolitischen Kurswechsel zwingen könnte.\n\nTerminmärkte zeigen einen deutlichen Anstieg der Wahrscheinlichkeit für eine Zinserhöhung im September. Das würde Kredite verteuern, den Dollar stärken und vor allem wachstumsstarke Technologieaktien belasten, die besonders zinssensitiv sind.",
-          "tag": "Fed / Zinsen",
-          "emoji": "📈",
-          "quelle": "CNBC",
-          "quelle_url": "https://www.cnbc.com/2026/07/23/fed-interest-rate-odds-oil-jobless-claims.html"
-        },
-        {
-          "id": "boerse-1",
-          "titel": "Aktien brechen ein: Börsen ignorieren Krieg nicht mehr",
-          "zusammenfassung": "Nach wochenlanger relativer Ruhe angesichts des US-Iran-Konflikts gerieten die Aktienmärkte unter heftigen Druck, als der Ölpreis die symbolische Marke von 100 Dollar durchbrach. Analysten sprechen von einem Stimmungswandel: Die geopolitische Risikoprämie kehrt an die Börsen zurück.",
-          "bedeutung": "Das Ende der Marktresilienz gegenüber dem Nahostkonflikt markiert eine neue Phase der Unsicherheit für globale Portfolios.",
-          "hintergrund": "Wochenlang hatten Investoren die militärischen Auseinandersetzungen zwischen den USA und dem Iran mit bemerkenswerter Gelassenheit aufgenommen. Mit dem Überschreiten der 100-Dollar-Schwelle beim Öl scheint diese Toleranz erschöpft zu sein – Indizes rutschten deutlich ab.\n\nMarktbeobachter verweisen darauf, dass der Ölpreis als Transmissionsriemen funktioniert: Solange er beherrschbar blieb, konnten Händler geopolitische Risiken ausblenden. Nun aber verbinden sich Inflationssorgen, die Aussicht auf Zinserhöhungen und geopolitische Instabilität zu einem schwer kalkulierbaren Gemenge.",
-          "tag": "Marktkorrektur",
+          "titel": "Ölpreis bei 100 Dollar reißt Aktienmärkte in die Tiefe",
+          "zusammenfassung": "Nach wochenlanger relativer Ruhe haben die globalen Aktienmärkte am Donnerstag deutlich nachgegeben, nachdem der Ölpreis erstmals seit Längerem wieder die symbolische Schwelle von 100 US-Dollar je Barrel durchbrochen hatte. Analysten sehen im eskalierenden Konflikt mit dem Iran den entscheidenden Auslöser.",
+          "bedeutung": "Der dreistellige Ölpreis macht die geopolitischen Risiken für Unternehmensgewinne und Konjunktur unübersehbar und könnte die Zentralbanken in ihrer Zinspolitik unter Druck setzen.",
+          "hintergrund": "Lange hatten Investoren die militärischen Spannungen zwischen den USA und dem Iran weitgehend ignoriert. Doch mit dem Überschreiten der 100-Dollar-Marke wurde die Gefahr für Lieferketten, Transportkosten und Inflation zu offensichtlich, um sie wegzudiskutieren.\n\nBesonders energie- und transportintensive Sektoren verzeichneten starke Kursverluste. Technologieaktien, die zuletzt von KI-Euphorie getragen wurden, gaben ebenfalls nach, da Investoren generell risikoscheuer wurden.",
+          "tag": "Ölpreisschock",
           "emoji": "📉",
           "quelle": "CNBC",
           "quelle_url": "https://www.cnbc.com/2026/07/23/short-sighted-stock-market-can-no-longer-brush-off-war-investors-say.html"
         },
         {
-          "id": "boerse-2",
-          "titel": "Moody's warnt: KI-Investitionen gefährden Kreditqualität der Tech-Giganten",
-          "zusammenfassung": "Die Ratingagentur Moody's hat vor den finanziellen Risiken der massiven Ausgaben für Künstliche Intelligenz gewarnt. Selbst die liquidesten Technologiekonzerne wie Amazon, Meta und Alphabet griffen zunehmend auf Schulden und außerbilanzielle Finanzierungsstrukturen zurück.",
-          "bedeutung": "Wenn führende Ratingagenturen die Bonität der mächtigsten Tech-Konzerne der Welt in Frage stellen, hat das Signalwirkung für Anleihemärkte und Investorenvertrauen weltweit.",
-          "hintergrund": "Der KI-Boom hat eine Investitionswelle ausgelöst, die selbst kassenreiche Unternehmen an ihre Finanzierungsgrenzen treibt. Rechenzentren, Chips und Energieinfrastruktur verschlingen Hunderte Milliarden Dollar, und Moody's sieht darin eine strukturelle Belastung für die Kreditprofile der betroffenen Konzerne.\n\nBesonders brisant ist die Einschätzung, weil sie die verbreitete Annahme erschüttert, große Tech-Firmen seien per se finanziell unverwundbar. Die Warnung dürfte die laufende Debatte über Bewertungen im KI-Sektor und die Nachhaltigkeit der Investitionswelle neu entfachen.",
-          "tag": "KI / Bonität",
+          "id": "boerse-1",
+          "titel": "Moody's warnt: KI-Ausgaben gefährden Kreditqualität der Tech-Giganten",
+          "zusammenfassung": "Die Ratingagentur Moody's hat Alarm geschlagen, weil Amazon, Meta, Alphabet und andere Technologieriesen für ihre milliardenschweren KI-Investitionen zunehmend auf Schulden und Kapitalmarktoperationen zurückgreifen. Selbst die finanziell stärksten Konzerne der Welt geraten damit unter Druck.",
+          "bedeutung": "Wenn selbst die liquidesten Unternehmen der Welt durch KI-Ausgaben an ihre Grenzen kommen, ist das ein Warnsignal für die gesamte Tech-Bewertungslogik an den Märkten.",
+          "hintergrund": "Der KI-Boom der vergangenen zwei Jahre hat eine Investitionsspirale ausgelöst, bei der Unternehmen kaum zurückstehen können, ohne Marktanteile zu riskieren. Die schieren Summen für Rechenzentren, Chips und Energieinfrastruktur übersteigen selbst die enormen freien Cashflows der Branchenriesen.\n\nMoody's warnt, dass ein Teil dieser Ausgaben über Unternehmensanleihen und komplexe außerbilanzielle Strukturen finanziert werde, was die Transparenz für Investoren verringere und im Falle einer KI-Wachstumsenttäuschung zu abrupten Bonitätsabstufungen führen könnte.",
+          "tag": "KI-Investitionen",
           "emoji": "🤖",
           "quelle": "CNBC",
           "quelle_url": "https://www.cnbc.com/2026/07/24/moodys-ai-spending-credit-quality-amazon-meta-alphabet.html"
+        },
+        {
+          "id": "boerse-2",
+          "titel": "Trumps Globalzölle spalten Handelspartner weltweit",
+          "zusammenfassung": "Die jüngste Welle globaler US-Zölle, die Washington mit dem Argument der Zwangsarbeit begründet, stößt bei Handelspartnern auf breite Ablehnung. Die meisten betroffenen Länder wollen dennoch weiter verhandeln statt zu eskalieren.",
+          "bedeutung": "Die Zölle verschieben die Grundlagen des Welthandels und erzeugen an den Finanzmärkten anhaltende Unsicherheit über Lieferketten, Unternehmensmargen und globales Wachstum.",
+          "hintergrund": "Washingtons Begründung, die neuen Abgaben dienten der Bekämpfung von Zwangsarbeit in Lieferketten, wird von betroffenen Staaten als Vorwand gewertet. Hinter den Kulissen sehen viele Regierungen die Maßnahmen als Teil einer umfassenderen Strategie zur Reindustrialisierung der USA auf Kosten der Handelspartner.\n\nAn den Märkten löst die Ungewissheit über den weiteren Verlauf der Zollverhandlungen Volatilität aus. Besonders Schwellenländer, die stark exportorientiert sind, stehen unter Druck, da ihre Währungen gegenüber dem Dollar nachgeben.",
+          "tag": "US-Zölle",
+          "emoji": "🌐",
+          "quelle": "CNBC",
+          "quelle_url": "https://www.cnbc.com/2026/07/24/trump-global-tariffs-trade-imbalance-forced-labor.html"
         }
       ]
     }
