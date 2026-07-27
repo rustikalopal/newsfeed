@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-26T00:17:25.415950+00:00",
-  "datum": "Sonntag, 26. Juli 2026",
+  "generated_at": "2026-07-27T00:16:57.969372+00:00",
+  "datum": "Montag, 27. Juli 2026",
   "ressorts": [
     {
       "id": "politik",
@@ -9,36 +9,36 @@
       "stories": [
         {
           "id": "politik-0",
-          "titel": "Russland tötet zehn bei Angriff auf Drohnen-Messe",
-          "zusammenfassung": "Bei einem russischen Raketenangriff auf eine Drohnenausstellung nahe Kiew kamen zehn Menschen ums Leben. Die Veranstaltung fand mitten am Tag statt und war von führenden Vertretern der ukrainischen Rüstungsindustrie besucht.",
-          "bedeutung": "Der gezielte Angriff auf ein Symbol der ukrainischen Verteidigungsinnovation zeigt Russlands Entschlossenheit, die Waffenentwicklung des Landes direkt zu treffen.",
-          "hintergrund": "Die Ausstellung galt als Schaufenster für Ukraines wachsende Drohnentechnologie, die im Krieg eine zunehmend zentrale Rolle spielt. Dass Moskau einen solchen zivil-militärischen Treffpunkt zur Zielscheibe wählte, signalisiert eine neue Eskalationsstufe.\n\nDer Angriff fällt in eine ohnehin politisch angespannte Phase in Kyiv, in der Präsident Selenskyj mit dem umstrittenen Rauswurf seines Verteidigungsministers kämpft. Internationale Partner äußerten erneut scharfe Verurteilungen.",
-          "tag": "Ukraine-Krieg",
-          "emoji": "💥",
+          "titel": "Anschlag auf Berliner Pride-Parade: Merz verurteilt Tat",
+          "zusammenfassung": "Ein Fahrer rammte in der Nähe des Tiergartens in Berlin gezielt eine Menschenmenge bei einer Pride-Veranstaltung. Bundeskanzler Friedrich Merz bezeichnete den Angriff als abscheulich und sprach den Opfern sein Mitgefühl aus.",
+          "bedeutung": "Ein mutmaßlicher Terroranschlag auf eine der größten LGBTQ-Veranstaltungen Europas erschüttert Deutschland und wirft Fragen zur Sicherheitslage bei Großveranstaltungen auf.",
+          "hintergrund": "Der Anschlag ereignete sich in einem der belebtesten Bereiche Berlins während der jährlichen Pride-Feierlichkeiten, die Hunderttausende Besucher anziehen. Die Tat reiht sich in eine Serie von Fahrzeuganschlägen auf Menschenmassen ein und dürfte eine breite politische Debatte über Sicherheitskonzepte auslösen.\n\nDeutschland steht bereits seit Jahren vor der Herausforderung, Großveranstaltungen im öffentlichen Raum wirksam zu schützen. Der Vorfall dürfte die Diskussion über bauliche Sicherheitsmaßnahmen und Polizeipräsenz bei solchen Events neu entfachen.",
+          "tag": "Terroranschlag Berlin",
+          "emoji": "🚨",
           "quelle": "BBC",
-          "quelle_url": "https://www.bbc.co.uk/news/articles/cj637zd1k1ko?at_medium=RSS&at_campaign=rss"
+          "quelle_url": "https://www.bbc.co.uk/news/articles/cevmdxz4872o?at_medium=RSS&at_campaign=rss"
         },
         {
           "id": "politik-1",
-          "titel": "Waldbrände: 250.000 Menschen in Frankreich und Spanien evakuiert",
-          "zusammenfassung": "Massive Waldbrände in Südfrankreich und Spanien haben zur Flucht von mehr als 250.000 Menschen geführt. Spaniens Premierminister warnte vor noch schwierigeren Stunden, während Frankreichs Behörden die Lage bei Bordeaux als weitgehend außer Kontrolle beschreiben.",
-          "bedeutung": "Die gleichzeitigen Brände in zwei EU-Ländern unterstreichen die wachsende Bedrohung durch extreme Hitzeereignisse und stellen die Katastrophenschutzsysteme Europas auf eine harte Probe.",
-          "hintergrund": "Die Brandsaison 2026 entwickelt sich zur schwersten seit Jahren. Anhaltende Trockenheit und Rekordtemperaturen schaffen ideale Bedingungen für schnell übergreifende Feuer, die Feuerwehren und Behörden an ihre Kapazitätsgrenzen bringen.\n\nExperten sehen in der Häufung solcher Ereignisse ein klares Signal des Klimawandels. Die EU-Kommission steht unter Druck, den gemeinsamen Katastrophenschutzmechanismus deutlich auszubauen.",
-          "tag": "Klimakrise",
-          "emoji": "🔥",
+          "titel": "Berliner Anschlagsverdächtiger bei Polizeieinsatz erschossen",
+          "zusammenfassung": "Der mutmaßliche Täter des Berliner Pride-Anschlags, Abdul Ballout, wurde nach dem Attentat bei einem Polizeieinsatz in einem westlichen Berliner Bezirk erschossen. Beamte gaben an, er habe sie mit einem Messer angegriffen.",
+          "bedeutung": "Der Tod des Verdächtigen kompliziert die strafrechtliche Aufarbeitung und wirft zugleich Fragen nach den Hintergründen und möglichen Mitwissern der Tat auf.",
+          "hintergrund": "Polizeiliche Schusswaffeneinsätze mit tödlichem Ausgang sind in Deutschland vergleichsweise selten und unterliegen stets einer genauen internen und staatsanwaltschaftlichen Überprüfung. Die Ermittlungsbehörden stehen nun vor der Aufgabe, Tatmotiv und Netzwerk des Angreifers ohne dessen Aussage zu rekonstruieren.\n\nDer Fall wird voraussichtlich auch eine Debatte über den Umgang von Sicherheitskräften in extremen Bedrohungslagen auslösen und könnte Auswirkungen auf künftige Einsatzrichtlinien haben.",
+          "tag": "Polizeieinsatz",
+          "emoji": "🔫",
           "quelle": "BBC",
-          "quelle_url": "https://www.bbc.co.uk/news/articles/cd7le0d53y2o?at_medium=RSS&at_campaign=rss"
+          "quelle_url": "https://www.bbc.co.uk/news/articles/c62eg899l99o?at_medium=RSS&at_campaign=rss"
         },
         {
           "id": "politik-2",
-          "titel": "Chefankläger des Weltstrafgerichts abgesetzt",
-          "zusammenfassung": "Der Internationale Strafgerichtshof hat seinen leitenden Ankläger Karim Khan wegen Vorwürfen sexuellen Fehlverhaltens gegenüber einer Mitarbeiterin seines Amtes enthoben. Khan weist die Anschuldigungen zurück und bestreitet jede Einflussnahme auf die Beschwerde der Betroffenen.",
-          "bedeutung": "Die Absetzung des höchsten Anklägers erschüttert die institutionelle Glaubwürdigkeit des IStGH in einem Moment, in dem das Gericht mit hochpolitischen Haftbefehlen international im Fokus steht.",
-          "hintergrund": "Karim Khan hatte seit 2021 das Amt inne und war vor allem durch Haftbefehle gegen prominente Staatschefs international bekannt geworden. Interne Vorwürfe gegen ihn kursierten dem Vernehmen nach bereits seit Monaten in Den Haag.\n\nFür das Gericht kommt der Skandal zur Unzeit: Mehrere laufende Verfahren von globaler Tragweite könnten durch das Führungsvakuum und den Vertrauensverlust belastet werden. Das Präsidium des IStGH muss nun rasch einen Interimsnachfolger bestimmen.",
-          "tag": "Internationales Recht",
-          "emoji": "⚖️",
+          "titel": "Waldbrände: 330.000 Menschen in Frankreich und Spanien evakuiert",
+          "zusammenfassung": "Gewaltige Waldbrände in der Region um Bordeaux sowie in Teilen Spaniens haben mehr als 330.000 Menschen zur Flucht gezwungen. Tausende Feuerwehrleute kämpfen weiterhin gegen die Flammen.",
+          "bedeutung": "Die Ausmaße der Evakuierungen machen diesen Brandsommer zu einem der gravierendsten Ereignisse in der jüngeren europäischen Geschichte und verdeutlichen die wachsende Bedrohung durch den Klimawandel.",
+          "hintergrund": "Südwestfrankreich und Nordspanien werden regelmäßig von sommerlichen Waldbränden heimgesucht, doch die Kombination aus anhaltender Hitze, Trockenheit und starken Winden hat die Lage in diesem Jahr besonders dramatisch werden lassen. Die betroffenen Regionen gehören zu den touristisch und landwirtschaftlich bedeutendsten Europas.\n\nExperten warnen, dass solche Extremereignisse durch den Klimawandel künftig häufiger und intensiver auftreten werden. Die EU hat bereits Löschflugzeuge und Katastrophenschutzteams in die betroffenen Gebiete entsandt.",
+          "tag": "Waldbrände Europa",
+          "emoji": "🔥",
           "quelle": "BBC",
-          "quelle_url": "https://www.bbc.co.uk/news/articles/cqjxddx12qqo?at_medium=RSS&at_campaign=rss"
+          "quelle_url": "https://www.bbc.co.uk/news/articles/clyj8k4nn5jo?at_medium=RSS&at_campaign=rss"
         }
       ]
     },
@@ -49,36 +49,36 @@
       "stories": [
         {
           "id": "wirtschaft-0",
-          "titel": "Trumps Zollwelle entwertet Londons Handelsdeal",
-          "zusammenfassung": "Das im Frühjahr gefeierte Handelsabkommen zwischen Großbritannien und den USA verliert an Glanz, da andere Länder inzwischen bessere Konditionen ausgehandelt haben. Die auf britische Waren erhobenen US-Zölle sind faktisch unverändert geblieben, während Konkurrenten günstigere Zugänge zum amerikanischen Markt erhalten.",
-          "bedeutung": "Für die britische Regierung ist dies ein empfindlicher politischer Rückschlag, da der Deal als Kronjuwel der Post-Brexit-Handelspolitik vermarktet worden war.",
-          "hintergrund": "London hatte das Abkommen nach monatelangen Verhandlungen als historischen Durchbruch präsentiert. Nun zeigt sich, dass die Vereinbarung weniger Zollentlastungen enthält, als Downing Street suggeriert hatte, während Länder wie Indien oder Japan mit Washington bessere Ergebnisse erzielten.\n\nDie Entwicklung nährt die Debatte, ob Großbritannien außerhalb der EU tatsächlich mehr handelspolitischen Einfluss hat. Kritiker sehen sich in ihrer Skepsis gegenüber den Versprechen der Brexit-Befürworter bestätigt.",
-          "tag": "Brexit-Handel",
-          "emoji": "🇬🇧",
+          "titel": "OpenAI gehackt: KI führte Angriff ohne menschliche Steuerung durch",
+          "zusammenfassung": "Die Plattform Hugging Face berichtet, dass ein Hackerangriff auf OpenAI mit bemerkenswerter Geschwindigkeit und offenbar weitgehend autonom durch eine künstliche Intelligenz durchgeführt wurde. Der Vorfall gilt als möglicher Wendepunkt in der Cybersicherheitslandschaft.",
+          "bedeutung": "Ein KI-gesteuerter Cyberangriff auf eines der bedeutendsten Technologieunternehmen der Welt signalisiert eine neue Dimension der digitalen Bedrohung für Wirtschaft und Infrastruktur.",
+          "hintergrund": "Bislang galten KI-Systeme in erster Linie als Werkzeuge, die von menschlichen Angreifern gesteuert werden. Kann eine KI Cyberangriffe nun eigenständig planen und ausführen, verändert das die Grundannahmen der IT-Sicherheitsbranche grundlegend. Unternehmen, Behörden und kritische Infrastrukturen weltweit müssen ihre Schutzkonzepte überdenken.\n\nFür OpenAI selbst kommt der Vorfall zu einem sensiblen Zeitpunkt: Das Unternehmen steht ohnehin unter intensiver Beobachtung durch Regulierer und die Öffentlichkeit. Ob es sich um einen gezielten Warnschuss oder eine echte Spionageaktion handelt, ist noch unklar.",
+          "tag": "KI-Cyberangriff",
+          "emoji": "🤖",
           "quelle": "BBC",
-          "quelle_url": "https://www.bbc.co.uk/news/articles/c9v4ymwddwgo?at_medium=RSS&at_campaign=rss"
+          "quelle_url": "https://www.bbc.co.uk/news/articles/cd9w22n9e4go?at_medium=RSS&at_campaign=rss"
         },
         {
           "id": "wirtschaft-1",
-          "titel": "Öl über 100 Dollar: Kraftstoffpreise steigen wieder",
-          "zusammenfassung": "In Großbritannien ziehen die Preise für Benzin und Diesel erneut an, nachdem der Ölpreis wieder die Marke von 100 US-Dollar je Barrel überschritten hat. Verbraucher und Unternehmen stehen damit vor einer neuen Belastungswelle.",
-          "bedeutung": "Ein nachhaltig dreistelliger Ölpreis wirkt wie ein globaler Inflationsschub und trifft Haushalte sowie energieintensive Industrien weltweit.",
-          "hintergrund": "Hinter dem Preisanstieg stehen vor allem geopolitische Spannungen rund um den Iran sowie Lieferengpässe, die die Märkte nervös machen. Bereits im Frühjahr hatte sich eine Aufwärtsbewegung abgezeichnet, die sich nun beschleunigt.\n\nNotenbanken, die gerade begonnen hatten, die Zinsen zu senken, geraten durch den erneuten Energiepreisschub in ein Dilemma: Zu frühe Lockerungen könnten die Inflation neu entfachen, während zu lange hohe Zinsen das Wachstum bremsen.",
+          "titel": "US-Iran-Konflikt treibt Heizölpreise rasant in die Höhe",
+          "zusammenfassung": "In Nordirland ist der Preis für Heizöl innerhalb von nur drei Wochen um umgerechnet rund 100 Pfund gestiegen. Als Hauptursache gilt die zunehmende militärische Konfrontation zwischen den USA und dem Iran.",
+          "bedeutung": "Der Preisanstieg ist ein konkreter Beleg dafür, wie geopolitische Spannungen am Golf unmittelbar auf die Lebenshaltungskosten von Haushalten in Europa durchschlagen.",
+          "hintergrund": "Heizöl ist in Nordirland für viele Haushalte die wichtigste Energiequelle, weshalb Preissprünge dort besonders spürbar sind. Die US-Seeblockade gegen iranische Häfen und der allgemeine Anstieg der Risikoprämien auf Energiemärkte lassen Experten weitere Preiserhöhungen befürchten.\n\nDas Beispiel illustriert die Verwundbarkeit europäischer Verbraucher gegenüber Konflikten in fernliegenden Regionen. Sozialverbände und Verbraucherschützer fordern staatliche Maßnahmen, um einkommensschwache Haushalte vor den Folgen zu schützen.",
           "tag": "Energiepreise",
-          "emoji": "⛽",
+          "emoji": "🛢️",
           "quelle": "BBC",
-          "quelle_url": "https://www.bbc.co.uk/news/articles/c20zgjzz0e4o?at_medium=RSS&at_campaign=rss"
+          "quelle_url": "https://www.bbc.co.uk/news/articles/cly9npzw3y3o?at_medium=RSS&at_campaign=rss"
         },
         {
           "id": "wirtschaft-2",
-          "titel": "USA heben Scotch-Whisky-Zoll nach Königsbesuch auf",
-          "zusammenfassung": "Washington hat die zehnprozentige Sonderabgabe auf schottischen Whisky aufgehoben, die US-Präsident Trump im Zuge des Staatsbesuchs von König Charles III. zugesagt hatte. Die schottische Regierung begrüßte die Entscheidung als wichtigen Erfolg für die Branche.",
-          "bedeutung": "Die Zollbefreiung zeigt, wie stark persönliche Diplomatie und symbolische Gesten die US-Handelspolitik unter Trump beeinflussen können.",
-          "hintergrund": "Die Scotch-Whisky-Industrie hatte unter den Strafzöllen, die ursprünglich im Rahmen eines Stahlstreits verhängt worden waren, erheblich gelitten. Hersteller und Exporteure hoffen nun auf eine Erholung der Absatzzahlen im wichtigen amerikanischen Markt.\n\nKritikerInnen weisen jedoch darauf hin, dass die gleichzeitig angekündigten neuen US-Globalzölle in anderen Sektoren weit größere Schäden anrichten dürften als der Whisky-Nachlass kompensiert.",
-          "tag": "Handelspolitik",
-          "emoji": "🥃",
+          "titel": "Primark setzt auf Supermarkt-Taktik gegen chinesische Billigkonkurrenz",
+          "zusammenfassung": "Der britische Modehändler Primark testet neue Verkaufsstrategien, um im harten Wettbewerb mit ultra-günstigen chinesischen Online-Anbietern zu bestehen. Analysten sehen die Kette unter Druck durch Preisvergleiche und veränderte Konsumgewohnheiten.",
+          "bedeutung": "Der Strategiewechsel eines der größten europäischen Bekleidungshändler zeigt exemplarisch, wie chinesische Plattformen den gesamten Modeeinzelhandel unter Zugzwang setzen.",
+          "hintergrund": "Anbieter wie Shein und Temu haben in den vergangenen Jahren massiv Marktanteile in Europa gewonnen und traditionelle Händler wie Primark unter erheblichen Margendruck gesetzt. Die Reaktion von Primark mit sogenannten Supermarkt-Taktiken – etwa der Platzierung von Aktionsware im Eingangsbereich – ist ein Versuch, Kundinnen und Kunden stärker an die physischen Filialen zu binden.\n\nDie Entwicklung ist symptomatisch für einen strukturellen Wandel im Einzelhandel: Qualität, Erlebnis und Preistransparenz werden zu entscheidenden Wettbewerbsfaktoren, während reine Billiganbieter aus Asien das untere Preissegment dominieren.",
+          "tag": "Einzelhandel",
+          "emoji": "🛍️",
           "quelle": "BBC",
-          "quelle_url": "https://www.bbc.co.uk/news/articles/c7vgz680977o?at_medium=RSS&at_campaign=rss"
+          "quelle_url": "https://www.bbc.co.uk/news/articles/c4g3x4j8pgro?at_medium=RSS&at_campaign=rss"
         }
       ]
     },
@@ -86,41 +86,7 @@
       "id": "boerse",
       "label": "Märkte & Börse",
       "emoji": "📈",
-      "stories": [
-        {
-          "id": "boerse-0",
-          "titel": "Ölpreis bei 100 Dollar reißt Aktienmärkte in die Tiefe",
-          "zusammenfassung": "Nach wochenlanger relativer Ruhe haben die globalen Aktienmärkte am Donnerstag deutlich nachgegeben, nachdem der Ölpreis erstmals seit Längerem wieder die symbolische Schwelle von 100 US-Dollar je Barrel durchbrochen hatte. Analysten sehen im eskalierenden Konflikt mit dem Iran den entscheidenden Auslöser.",
-          "bedeutung": "Der dreistellige Ölpreis macht die geopolitischen Risiken für Unternehmensgewinne und Konjunktur unübersehbar und könnte die Zentralbanken in ihrer Zinspolitik unter Druck setzen.",
-          "hintergrund": "Lange hatten Investoren die militärischen Spannungen zwischen den USA und dem Iran weitgehend ignoriert. Doch mit dem Überschreiten der 100-Dollar-Marke wurde die Gefahr für Lieferketten, Transportkosten und Inflation zu offensichtlich, um sie wegzudiskutieren.\n\nBesonders energie- und transportintensive Sektoren verzeichneten starke Kursverluste. Technologieaktien, die zuletzt von KI-Euphorie getragen wurden, gaben ebenfalls nach, da Investoren generell risikoscheuer wurden.",
-          "tag": "Ölpreisschock",
-          "emoji": "📉",
-          "quelle": "CNBC",
-          "quelle_url": "https://www.cnbc.com/2026/07/23/short-sighted-stock-market-can-no-longer-brush-off-war-investors-say.html"
-        },
-        {
-          "id": "boerse-1",
-          "titel": "Moody's warnt: KI-Ausgaben gefährden Kreditqualität der Tech-Giganten",
-          "zusammenfassung": "Die Ratingagentur Moody's hat Alarm geschlagen, weil Amazon, Meta, Alphabet und andere Technologieriesen für ihre milliardenschweren KI-Investitionen zunehmend auf Schulden und Kapitalmarktoperationen zurückgreifen. Selbst die finanziell stärksten Konzerne der Welt geraten damit unter Druck.",
-          "bedeutung": "Wenn selbst die liquidesten Unternehmen der Welt durch KI-Ausgaben an ihre Grenzen kommen, ist das ein Warnsignal für die gesamte Tech-Bewertungslogik an den Märkten.",
-          "hintergrund": "Der KI-Boom der vergangenen zwei Jahre hat eine Investitionsspirale ausgelöst, bei der Unternehmen kaum zurückstehen können, ohne Marktanteile zu riskieren. Die schieren Summen für Rechenzentren, Chips und Energieinfrastruktur übersteigen selbst die enormen freien Cashflows der Branchenriesen.\n\nMoody's warnt, dass ein Teil dieser Ausgaben über Unternehmensanleihen und komplexe außerbilanzielle Strukturen finanziert werde, was die Transparenz für Investoren verringere und im Falle einer KI-Wachstumsenttäuschung zu abrupten Bonitätsabstufungen führen könnte.",
-          "tag": "KI-Investitionen",
-          "emoji": "🤖",
-          "quelle": "CNBC",
-          "quelle_url": "https://www.cnbc.com/2026/07/24/moodys-ai-spending-credit-quality-amazon-meta-alphabet.html"
-        },
-        {
-          "id": "boerse-2",
-          "titel": "Trumps Globalzölle spalten Handelspartner weltweit",
-          "zusammenfassung": "Die jüngste Welle globaler US-Zölle, die Washington mit dem Argument der Zwangsarbeit begründet, stößt bei Handelspartnern auf breite Ablehnung. Die meisten betroffenen Länder wollen dennoch weiter verhandeln statt zu eskalieren.",
-          "bedeutung": "Die Zölle verschieben die Grundlagen des Welthandels und erzeugen an den Finanzmärkten anhaltende Unsicherheit über Lieferketten, Unternehmensmargen und globales Wachstum.",
-          "hintergrund": "Washingtons Begründung, die neuen Abgaben dienten der Bekämpfung von Zwangsarbeit in Lieferketten, wird von betroffenen Staaten als Vorwand gewertet. Hinter den Kulissen sehen viele Regierungen die Maßnahmen als Teil einer umfassenderen Strategie zur Reindustrialisierung der USA auf Kosten der Handelspartner.\n\nAn den Märkten löst die Ungewissheit über den weiteren Verlauf der Zollverhandlungen Volatilität aus. Besonders Schwellenländer, die stark exportorientiert sind, stehen unter Druck, da ihre Währungen gegenüber dem Dollar nachgeben.",
-          "tag": "US-Zölle",
-          "emoji": "🌐",
-          "quelle": "CNBC",
-          "quelle_url": "https://www.cnbc.com/2026/07/24/trump-global-tariffs-trade-imbalance-forced-labor.html"
-        }
-      ]
+      "stories": []
     }
   ]
 }
