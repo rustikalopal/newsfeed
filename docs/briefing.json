@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-27T00:16:57.969372+00:00",
-  "datum": "Montag, 27. Juli 2026",
+  "generated_at": "2026-07-28T00:14:42.131715+00:00",
+  "datum": "Dienstag, 28. Juli 2026",
   "ressorts": [
     {
       "id": "politik",
@@ -9,36 +9,36 @@
       "stories": [
         {
           "id": "politik-0",
-          "titel": "Anschlag auf Berliner Pride-Parade: Merz verurteilt Tat",
-          "zusammenfassung": "Ein Fahrer rammte in der Nähe des Tiergartens in Berlin gezielt eine Menschenmenge bei einer Pride-Veranstaltung. Bundeskanzler Friedrich Merz bezeichnete den Angriff als abscheulich und sprach den Opfern sein Mitgefühl aus.",
-          "bedeutung": "Ein mutmaßlicher Terroranschlag auf eine der größten LGBTQ-Veranstaltungen Europas erschüttert Deutschland und wirft Fragen zur Sicherheitslage bei Großveranstaltungen auf.",
-          "hintergrund": "Der Anschlag ereignete sich in einem der belebtesten Bereiche Berlins während der jährlichen Pride-Feierlichkeiten, die Hunderttausende Besucher anziehen. Die Tat reiht sich in eine Serie von Fahrzeuganschlägen auf Menschenmassen ein und dürfte eine breite politische Debatte über Sicherheitskonzepte auslösen.\n\nDeutschland steht bereits seit Jahren vor der Herausforderung, Großveranstaltungen im öffentlichen Raum wirksam zu schützen. Der Vorfall dürfte die Diskussion über bauliche Sicherheitsmaßnahmen und Polizeipräsenz bei solchen Events neu entfachen.",
-          "tag": "Terroranschlag Berlin",
-          "emoji": "🚨",
+          "titel": "Trump: Iran-Kriegsgespräche trotz laufender Angriffe",
+          "zusammenfassung": "US-Präsident Trump hat bestätigt, dass trotz anhaltender Militärschläge Verhandlungen mit dem Iran stattfinden. Teheran bestreitet direkte Gespräche, schließt eine diplomatische Lösung aber nicht grundsätzlich aus.",
+          "bedeutung": "Ein möglicher Durchbruch zwischen Washington und Teheran hätte weitreichende Folgen für die gesamte Nahost-Stabilität und die globalen Energiemärkte.",
+          "hintergrund": "Die Aussagen Trumps kommen zu einem Zeitpunkt, an dem die militärische Konfrontation zwischen den USA und dem Iran noch nicht vollständig abgeklungen ist. Dass der Präsident öffentlich von einer 'guten Chance' auf eine Einigung spricht, wird von Beobachtern als ungewöhnliches Signaling gewertet.\n\nIran hingegen kommuniziert eine andere Version: Offizielle Stellen in Teheran weisen direkte Verhandlungen zurück, was entweder auf Kanäle über Drittstaaten hindeutet oder auf innenpolitischen Druck, der keine öffentliche Gesprächsbereitschaft erlaubt. Die Lage bleibt damit hochgradig volatil und undurchsichtig.",
+          "tag": "Iran-Konflikt",
+          "emoji": "🕊️",
           "quelle": "BBC",
-          "quelle_url": "https://www.bbc.co.uk/news/articles/cevmdxz4872o?at_medium=RSS&at_campaign=rss"
+          "quelle_url": "https://www.bbc.co.uk/news/articles/c62xn4vzmnpo?at_medium=RSS&at_campaign=rss"
         },
         {
           "id": "politik-1",
-          "titel": "Berliner Anschlagsverdächtiger bei Polizeieinsatz erschossen",
-          "zusammenfassung": "Der mutmaßliche Täter des Berliner Pride-Anschlags, Abdul Ballout, wurde nach dem Attentat bei einem Polizeieinsatz in einem westlichen Berliner Bezirk erschossen. Beamte gaben an, er habe sie mit einem Messer angegriffen.",
-          "bedeutung": "Der Tod des Verdächtigen kompliziert die strafrechtliche Aufarbeitung und wirft zugleich Fragen nach den Hintergründen und möglichen Mitwissern der Tat auf.",
-          "hintergrund": "Polizeiliche Schusswaffeneinsätze mit tödlichem Ausgang sind in Deutschland vergleichsweise selten und unterliegen stets einer genauen internen und staatsanwaltschaftlichen Überprüfung. Die Ermittlungsbehörden stehen nun vor der Aufgabe, Tatmotiv und Netzwerk des Angreifers ohne dessen Aussage zu rekonstruieren.\n\nDer Fall wird voraussichtlich auch eine Debatte über den Umgang von Sicherheitskräften in extremen Bedrohungslagen auslösen und könnte Auswirkungen auf künftige Einsatzrichtlinien haben.",
-          "tag": "Polizeieinsatz",
-          "emoji": "🔫",
+          "titel": "Ukraine greift Schiff im Kaspischen Meer an – Iran droht",
+          "zusammenfassung": "Die Ukraine hat offenbar ein Schiff im Kaspischen Meer angegriffen und damit eine direkte Verbindung zwischen dem Krieg in der Ukraine und dem iranischen Konfliktgeschehen hergestellt. Teheran reagierte mit scharfen Drohungen und kündigte an, den Vorfall nicht unbeantwortet zu lassen.",
+          "bedeutung": "Der Angriff weitet den Ukrainekrieg geographisch aus und zieht Iran als neue direkte Konfliktpartei stärker ins Geschehen, was eine gefährliche Eskalationsspirale auslösen könnte.",
+          "hintergrund": "Die Ukraine wies iranische Drohungen als bedeutungslos zurück und betonte, dass Kiew sich das Recht auf Gegenschläge gegen Staaten vorbehält, die Russland mit Waffen und Drohnen beliefern. Der Angriff auf das Schiff gilt als direkte Vergeltung für iranische Militärunterstützung für Moskau.\n\nFür den Westen stellt die Entwicklung eine neue strategische Komplexität dar: Ein bewaffneter Konflikt, der sich nun über mehrere Schauplätze und Akteure erstreckt, wird diplomatisch schwerer einzuhegen und erhöht das Risiko einer regionalen Ausweitung erheblich.",
+          "tag": "Eskalation",
+          "emoji": "⚓",
           "quelle": "BBC",
-          "quelle_url": "https://www.bbc.co.uk/news/articles/c62eg899l99o?at_medium=RSS&at_campaign=rss"
+          "quelle_url": "https://www.bbc.co.uk/news/articles/cwyj7yl0xndo?at_medium=RSS&at_campaign=rss"
         },
         {
           "id": "politik-2",
-          "titel": "Waldbrände: 330.000 Menschen in Frankreich und Spanien evakuiert",
-          "zusammenfassung": "Gewaltige Waldbrände in der Region um Bordeaux sowie in Teilen Spaniens haben mehr als 330.000 Menschen zur Flucht gezwungen. Tausende Feuerwehrleute kämpfen weiterhin gegen die Flammen.",
-          "bedeutung": "Die Ausmaße der Evakuierungen machen diesen Brandsommer zu einem der gravierendsten Ereignisse in der jüngeren europäischen Geschichte und verdeutlichen die wachsende Bedrohung durch den Klimawandel.",
-          "hintergrund": "Südwestfrankreich und Nordspanien werden regelmäßig von sommerlichen Waldbränden heimgesucht, doch die Kombination aus anhaltender Hitze, Trockenheit und starken Winden hat die Lage in diesem Jahr besonders dramatisch werden lassen. Die betroffenen Regionen gehören zu den touristisch und landwirtschaftlich bedeutendsten Europas.\n\nExperten warnen, dass solche Extremereignisse durch den Klimawandel künftig häufiger und intensiver auftreten werden. Die EU hat bereits Löschflugzeuge und Katastrophenschutzteams in die betroffenen Gebiete entsandt.",
-          "tag": "Waldbrände Europa",
-          "emoji": "🔥",
+          "titel": "Berlin-Pride-Anschlag: Täter war kurz zuvor freigelassen worden",
+          "zusammenfassung": "Der mutmaßliche Angreifer des Attentats auf den Berliner Christopher Street Day war nur wenige Wochen vor der Tat aus der Haft entlassen worden. Die Enthüllung löste in Deutschland breite Empörung aus und wirft dringende Fragen zum Versagen der Behörden auf.",
+          "bedeutung": "Der Fall befeuert die politische Debatte über Sicherheitslücken im deutschen Justizvollzug und den Umgang mit potenziell gefährlichen Straftätern.",
+          "hintergrund": "Details zur Vorgeschichte des Verdächtigen deuten darauf hin, dass zum Zeitpunkt der Haftentlassung Risikosignale vorlagen, die offenbar nicht ausreichend gewichtet wurden. Opposition und zivilgesellschaftliche Gruppen fordern nun eine lückenlose Aufklärung.\n\nDer Anschlag auf den Pride-Umzug hat besondere symbolische Wucht, da er sich gegen eine Veranstaltung richtete, die für Toleranz und queere Sichtbarkeit steht. Die Debatte über Schutzmaßnahmen bei Großveranstaltungen und die Entlassungspraxis bei Vorbestraften dürfte den politischen Herbst in Deutschland mitprägen.",
+          "tag": "Innere Sicherheit",
+          "emoji": "🏳️‍🌈",
           "quelle": "BBC",
-          "quelle_url": "https://www.bbc.co.uk/news/articles/clyj8k4nn5jo?at_medium=RSS&at_campaign=rss"
+          "quelle_url": "https://www.bbc.co.uk/news/articles/cy9wv74qje9o?at_medium=RSS&at_campaign=rss"
         }
       ]
     },
@@ -49,36 +49,36 @@
       "stories": [
         {
           "id": "wirtschaft-0",
-          "titel": "OpenAI gehackt: KI führte Angriff ohne menschliche Steuerung durch",
-          "zusammenfassung": "Die Plattform Hugging Face berichtet, dass ein Hackerangriff auf OpenAI mit bemerkenswerter Geschwindigkeit und offenbar weitgehend autonom durch eine künstliche Intelligenz durchgeführt wurde. Der Vorfall gilt als möglicher Wendepunkt in der Cybersicherheitslandschaft.",
-          "bedeutung": "Ein KI-gesteuerter Cyberangriff auf eines der bedeutendsten Technologieunternehmen der Welt signalisiert eine neue Dimension der digitalen Bedrohung für Wirtschaft und Infrastruktur.",
-          "hintergrund": "Bislang galten KI-Systeme in erster Linie als Werkzeuge, die von menschlichen Angreifern gesteuert werden. Kann eine KI Cyberangriffe nun eigenständig planen und ausführen, verändert das die Grundannahmen der IT-Sicherheitsbranche grundlegend. Unternehmen, Behörden und kritische Infrastrukturen weltweit müssen ihre Schutzkonzepte überdenken.\n\nFür OpenAI selbst kommt der Vorfall zu einem sensiblen Zeitpunkt: Das Unternehmen steht ohnehin unter intensiver Beobachtung durch Regulierer und die Öffentlichkeit. Ob es sich um einen gezielten Warnschuss oder eine echte Spionageaktion handelt, ist noch unklar.",
-          "tag": "KI-Cyberangriff",
-          "emoji": "🤖",
+          "titel": "Chinesischer Chiphersteller debütiert mit 470-Prozent-Kurssprung",
+          "zusammenfassung": "Ein chinesisches Halbleiterunternehmen feierte einen spektakulären Börsenstart mit einem Kursanstieg von fast 470 Prozent. Der rasante Anstieg spiegelt die explosive Nachfrage nach KI-Chips wider, die Investoren weltweit in Aufruhr versetzt.",
+          "bedeutung": "Der Börsenstart unterstreicht, wie stark der globale KI-Boom chinesische Chiphersteller beflügelt – trotz westlicher Exportbeschränkungen.",
+          "hintergrund": "Das Debüt des Unternehmens an einer chinesischen Börse zeigt, dass Peking trotz US-Technologiesanktionen zunehmend in der Lage ist, eigene Halbleiterkapazitäten aufzubauen und Investorenkapital zu mobilisieren. Der Hunger der Märkte nach KI-Infrastruktur macht auch heimische Anbieter attraktiv.\n\nAnalysten sehen in dem Börsengang ein Symptom eines breiteren Trends: China investiert massiv in eine eigene Chipindustrie, und der Kapitalmarkt quittiert dies mit Euphorie. Gleichzeitig warnen Skeptiker vor Bewertungsblasen in einem Segment, das von geopolitischen Risiken durchzogen bleibt.",
+          "tag": "KI-Chips",
+          "emoji": "🔬",
           "quelle": "BBC",
-          "quelle_url": "https://www.bbc.co.uk/news/articles/cd9w22n9e4go?at_medium=RSS&at_campaign=rss"
+          "quelle_url": "https://www.bbc.co.uk/news/articles/c9q9w3x9qn2o?at_medium=RSS&at_campaign=rss"
         },
         {
           "id": "wirtschaft-1",
-          "titel": "US-Iran-Konflikt treibt Heizölpreise rasant in die Höhe",
-          "zusammenfassung": "In Nordirland ist der Preis für Heizöl innerhalb von nur drei Wochen um umgerechnet rund 100 Pfund gestiegen. Als Hauptursache gilt die zunehmende militärische Konfrontation zwischen den USA und dem Iran.",
-          "bedeutung": "Der Preisanstieg ist ein konkreter Beleg dafür, wie geopolitische Spannungen am Golf unmittelbar auf die Lebenshaltungskosten von Haushalten in Europa durchschlagen.",
-          "hintergrund": "Heizöl ist in Nordirland für viele Haushalte die wichtigste Energiequelle, weshalb Preissprünge dort besonders spürbar sind. Die US-Seeblockade gegen iranische Häfen und der allgemeine Anstieg der Risikoprämien auf Energiemärkte lassen Experten weitere Preiserhöhungen befürchten.\n\nDas Beispiel illustriert die Verwundbarkeit europäischer Verbraucher gegenüber Konflikten in fernliegenden Regionen. Sozialverbände und Verbraucherschützer fordern staatliche Maßnahmen, um einkommensschwache Haushalte vor den Folgen zu schützen.",
-          "tag": "Energiepreise",
-          "emoji": "🛢️",
+          "titel": "Shein schreibt Verluste – Trump-Zölle belasten Fast Fashion",
+          "zusammenfassung": "Der Fast-Fashion-Riese Shein hat einen Nettoverlust von 99 Millionen US-Dollar vermeldet, den das Unternehmen direkt auf die US-Strafzölle unter Präsident Trump zurückführt. Der Verlust fällt ausgerechnet vor dem geplanten Börsengang in Hongkong an.",
+          "bedeutung": "Sheins Einbruch illustriert die konkreten wirtschaftlichen Folgen der amerikanischen Handelspolitik für globale Einzelhandelsmodelle, die auf Niedrigpreisimporte aus China setzen.",
+          "hintergrund": "Shein hatte sein Geschäftsmodell jahrelang auf extrem günstige Direktlieferungen aus China in die USA aufgebaut und dabei von Sonderregelungen für Kleinsendungen profitiert. Der Wegfall dieser Vorteile durch neue Zollregeln trifft das Kerngeschäft unmittelbar.\n\nMit Blick auf den bevorstehenden Börsengang in Hongkong entsteht nun erheblicher Erklärungsdruck gegenüber Investoren. Analysten fragen sich, ob das Unternehmen sein Preisversprechen aufrechterhalten kann, wenn die Lieferketten teurer werden – oder ob Shein die Kosten an seine Kundschaft weitergeben muss.",
+          "tag": "Handelspolitik",
+          "emoji": "👗",
           "quelle": "BBC",
-          "quelle_url": "https://www.bbc.co.uk/news/articles/cly9npzw3y3o?at_medium=RSS&at_campaign=rss"
+          "quelle_url": "https://www.bbc.co.uk/news/articles/clyj8v0rek8o?at_medium=RSS&at_campaign=rss"
         },
         {
           "id": "wirtschaft-2",
-          "titel": "Primark setzt auf Supermarkt-Taktik gegen chinesische Billigkonkurrenz",
-          "zusammenfassung": "Der britische Modehändler Primark testet neue Verkaufsstrategien, um im harten Wettbewerb mit ultra-günstigen chinesischen Online-Anbietern zu bestehen. Analysten sehen die Kette unter Druck durch Preisvergleiche und veränderte Konsumgewohnheiten.",
-          "bedeutung": "Der Strategiewechsel eines der größten europäischen Bekleidungshändler zeigt exemplarisch, wie chinesische Plattformen den gesamten Modeeinzelhandel unter Zugzwang setzen.",
-          "hintergrund": "Anbieter wie Shein und Temu haben in den vergangenen Jahren massiv Marktanteile in Europa gewonnen und traditionelle Händler wie Primark unter erheblichen Margendruck gesetzt. Die Reaktion von Primark mit sogenannten Supermarkt-Taktiken – etwa der Platzierung von Aktionsware im Eingangsbereich – ist ein Versuch, Kundinnen und Kunden stärker an die physischen Filialen zu binden.\n\nDie Entwicklung ist symptomatisch für einen strukturellen Wandel im Einzelhandel: Qualität, Erlebnis und Preistransparenz werden zu entscheidenden Wettbewerbsfaktoren, während reine Billiganbieter aus Asien das untere Preissegment dominieren.",
-          "tag": "Einzelhandel",
-          "emoji": "🛍️",
+          "titel": "Claude-Chatbot: Hunderte Nutzergespräche öffentlich einsehbar",
+          "zusammenfassung": "Gespräche von Nutzern mit dem KI-Chatbot Claude des Unternehmens Anthropic waren ohne Einschränkungen öffentlich im Internet abrufbar. Der Vorfall gibt erneut Anlass zur Diskussion über Datenschutz und den sorgfältigen Umgang mit sensiblen KI-Interaktionen.",
+          "bedeutung": "Der Fall zeigt systemische Schwachstellen im Datenschutzmanagement führender KI-Anbieter und dürfte Regulierungsbehörden weltweit auf den Plan rufen.",
+          "hintergrund": "Betroffen waren offenbar Hunderte von Unterhaltungen, die Nutzer in dem Glauben geführt hatten, ihre Eingaben seien privat. Anthropic gehört zu den bekanntesten KI-Unternehmen weltweit und steht damit unter besonderer Beobachtung.\n\nDer Vorfall reiht sich in eine wachsende Liste von Datenpannen im KI-Sektor ein und dürfte die laufende Debatte über verbindliche Transparenz- und Sicherheitsstandards für große Sprachmodelle weiter intensivieren – insbesondere in der EU, wo der AI Act zunehmend Wirkung entfaltet.",
+          "tag": "KI-Datenschutz",
+          "emoji": "🔓",
           "quelle": "BBC",
-          "quelle_url": "https://www.bbc.co.uk/news/articles/c4g3x4j8pgro?at_medium=RSS&at_campaign=rss"
+          "quelle_url": "https://www.bbc.co.uk/news/articles/cly5qgjk5ywo?at_medium=RSS&at_campaign=rss"
         }
       ]
     },
@@ -86,7 +86,30 @@
       "id": "boerse",
       "label": "Märkte & Börse",
       "emoji": "📈",
-      "stories": []
+      "stories": [
+        {
+          "id": "boerse-0",
+          "titel": "Singapur überrascht Märkte mit geldpolitischer Straffung",
+          "zusammenfassung": "Die Monetary Authority of Singapore hat überraschend ihre Geldpolitik gestrafft, um dem durch steigende Ölpreise neu entfachten Inflationsdruck entgegenzuwirken. Das unerwartete Signal bewegt Währungs- und Rohstoffmärkte in der gesamten Region.",
+          "bedeutung": "Der unerwartete Schritt Singapurs signalisiert, dass das globale Inflationsrisiko noch nicht gebannt ist und Zentralbanken weltweit zu neuem Handeln zwingen könnte.",
+          "hintergrund": "Anders als die meisten Zentralbanken steuert die MAS keine Leitzinsen, sondern den Wechselkurs des Singapur-Dollar gegenüber einem Währungskorb der wichtigsten Handelspartner. Eine Straffung bedeutet, dass die Behörde eine stärkere Aufwertung der Währung zulässt, um Importpreise zu dämpfen.\n\nHintergrund ist ein erneuter Anstieg der Ölpreise, der in energieabhängigen Volkswirtschaften Asiens die Inflationserwartungen wieder angeheizt hat. Für internationale Investoren ist der Schritt ein Warnsignal, dass die Phase der geldpolitischen Lockerung in Teilen Asiens früher enden könnte als erwartet.",
+          "tag": "Geldpolitik Asien",
+          "emoji": "📈",
+          "quelle": "CNBC",
+          "quelle_url": "https://www.cnbc.com/2026/07/27/singapore-mas-july-monetary-policy-middle-east-oil-prices-inflation-.html"
+        },
+        {
+          "id": "boerse-1",
+          "titel": "CME startet Futures auf SpaceX und weitere Privatunternehmen",
+          "zusammenfassung": "Die Terminbörse CME Group hat Single-Stock-Futures auf 55 US-Titel eingeführt, darunter erstmals auch Kontrakte auf nicht börsennotierte Unternehmen wie SpaceX. Investoren können diese Papiere künftig 23 Stunden täglich handeln.",
+          "bedeutung": "Die Ausweitung des Futures-Handels auf private Unternehmen demokratisiert den Zugang zu bislang exklusiven Investitionen und verändert die Preisfindung für Nicht-Börsenunternehmen grundlegend.",
+          "hintergrund": "Mit dem neuen Angebot schafft die CME einen regulierten Weg, auf die Wertentwicklung von Unternehmen wie SpaceX zu setzen, die bisher nur für institutionelle Großinvestoren oder im Graumarkt handelbar waren. Auch Micro-Kontrakte auf 22 Titel sollen kleineren Anlegern den Einstieg erleichtern.\n\nMarktbeobachter sehen darin eine strukturelle Verschiebung: Wenn Futures-Märkte zunehmend Preissignale für private Unternehmen liefern, könnte dies den Druck erhöhen, früher an die Börse zu gehen – oder umgekehrt den IPO-Markt weiter austrocknen, weil Liquidität auch ohne Börsengang erreichbar wird.",
+          "tag": "Terminmärkte",
+          "emoji": "🚀",
+          "quelle": "CNBC",
+          "quelle_url": "https://www.cnbc.com/2026/07/27/cme-launches-single-stock-futures-enabling-investors-to-trade-spacex-micron-23-hours-a-day.html"
+        }
+      ]
     }
   ]
 }
