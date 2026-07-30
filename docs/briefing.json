@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-29T00:13:33.215607+00:00",
-  "datum": "Mittwoch, 29. Juli 2026",
+  "generated_at": "2026-07-30T00:15:14.577224+00:00",
+  "datum": "Donnerstag, 30. Juli 2026",
   "ressorts": [
     {
       "id": "politik",
@@ -9,36 +9,36 @@
       "stories": [
         {
           "id": "politik-0",
-          "titel": "USA verlassen UN-Sicherheitsrat bei Frankreichs Rede",
-          "zusammenfassung": "Die US-Delegation verließ demonstrativ den UN-Sicherheitsrat, als Frankreich das Wort ergriff. Vorausgegangen war eine Abstimmung, bei der Washington gemeinsam mit Russland und Nordkorea gegen die Verlängerung des Mandats der UN-Hochkommissarin für Menschenrechte votierte.",
-          "bedeutung": "Die Szene offenbart eine tiefe Entfremdung zwischen den USA und ihren westlichen Verbündeten in zentralen Fragen der globalen Menschenrechtsarchitektur.",
-          "hintergrund": "Der Vorfall markiert einen ungewöhnlichen diplomatischen Bruch: Die Vereinigten Staaten stellten sich in einer UN-Abstimmung offen an die Seite von Russland und Nordkorea – zwei Staaten, mit denen Washington sonst kaum gemeinsame Positionen bezieht. Hintergrund ist die wachsende Skepsis der aktuellen US-Regierung gegenüber multilateralen Institutionen und insbesondere gegenüber dem Amt der UN-Hochkommissarin für Menschenrechte.\n\nDass die US-Delegation anschließend den Saal verließ, während Frankreich sprach, verstärkt den Eindruck einer gezielten Distanzierung von europäischen Partnern. Beobachter sehen darin ein Signal, dass Washington bereit ist, transatlantische Spannungen in internationalen Foren offen auszutragen – mit potenziell weitreichenden Folgen für die westliche Geschlossenheit im Sicherheitsrat.",
-          "tag": "Diplomatie",
-          "emoji": "🇺🇳",
+          "titel": "Saudi-Arabien zwischen US-Iran-Krieg und Deeskalation",
+          "zusammenfassung": "Das Königreich steht vor der schwierigen Entscheidung, ob es weiterhin militärisch abschreckend reagiert oder auf Deeskalation setzt. Die Balance zwischen regionaler Sicherheit und dem Risiko einer weiteren Eskalation im Konflikt zwischen den USA und dem Iran stellt Riad vor eine historische Zerreißprobe.",
+          "bedeutung": "Saudi-Arabiens Kurs könnte die gesamte Dynamik des Nahost-Konflikts und die globale Ölversorgung maßgeblich beeinflussen.",
+          "hintergrund": "Als dominante Golfmacht und wichtiger US-Verbündeter steht Saudi-Arabien unter enormem Druck, im eskalierten Konflikt zwischen Washington und Teheran Position zu beziehen. Jede Entscheidung trägt das Risiko, entweder die eigene Sicherheit zu gefährden oder die Region weiter zu destabilisieren.\n\nDer Konflikt berührt unmittelbar die globalen Energiemärkte: Saudi-Arabien ist einer der weltweit größten Ölexporteure, und jede Militäreskalation in seiner Nähe kann die Versorgungsrouten durch den Persischen Golf gefährden und die Preise weltweit in die Höhe treiben.",
+          "tag": "Nahost-Krise",
+          "emoji": "⚖️",
           "quelle": "BBC",
-          "quelle_url": "https://www.bbc.co.uk/news/articles/c87nj3w9gxjo?at_medium=RSS&at_campaign=rss"
+          "quelle_url": "https://www.bbc.co.uk/news/articles/clyx83l8jv8o?at_medium=RSS&at_campaign=rss"
         },
         {
           "id": "politik-1",
-          "titel": "Waldbränden in Südfrankreich droht neue Hitzewelle",
-          "zusammenfassung": "In der Gironde haben sich Waldbrände ausgeweitet, während Meteorologen für Mittwoch Temperaturen von bis zu 40 Grad ankündigen. Feuerwehrkräfte befürchten, dass die Hitze die Eindämmung der Feuer erheblich erschweren wird.",
-          "bedeutung": "Wiederkehrende Extremhitzeereignisse und Großbrände in Westeuropa zeigen, mit welcher Intensität der Klimawandel inzwischen unmittelbar in die Alltagsrealität eingreift.",
-          "hintergrund": "Die Region Gironde im Südwesten Frankreichs ist seit Jahren ein Brennpunkt für klimabedingte Waldbrandkatastrophen. Bereits 2022 wurden dort Zehntausende Hektar Wald vernichtet. Die aktuellen Brände treffen eine Landschaft, die sich von früheren Feuern noch immer erholt, und stellen Einsatzkräfte vor logistische Grenzen.\n\nDie prognostizierte Hitzewelle mit Spitzenwerten um 40 Grad Celsius senkt die Luftfeuchtigkeit, erhöht die Windgeschwindigkeiten und schafft damit ideale Bedingungen für eine unkontrollierte Ausbreitung der Feuer. Expertinnen und Experten warnen, dass derartige Kombinationen aus Hitze und Trockenheit in Südeuropa künftig häufiger auftreten werden.",
+          "titel": "Waldbrände toben in Europa – zwei Feuerwehrleute tot",
+          "zusammenfassung": "Auf Kreta kamen zwei Feuerwehrleute bei der Bekämpfung verheerender Waldbrände ums Leben, während sturmstarke Winde die Flammen anfachten und mehrere Dörfer evakuiert werden mussten. Zeitgleich kämpfen Teile Südeuropas weiter gegen ausgedehnte Feuer, darunter auch die Gironde-Region in Frankreich.",
+          "bedeutung": "Die Brandsaison 2026 entwickelt sich zur einer der tödlichsten und flächenmäßig ausgedehntesten in der jüngeren europäischen Geschichte.",
+          "hintergrund": "Extreme Hitze mit Temperaturen von bis zu 40 Grad Celsius kombiniert mit starken Winden schafft in weiten Teilen des Mittelmeerraums optimale Bedingungen für unkontrollierbare Brände. Experten sehen darin ein weiteres deutliches Signal der sich verschärfenden Klimakrise.\n\nIn Frankreich weigerten sich einige Anwohner trotz behördlicher Aufforderung, ihre Grundstücke zu verlassen, was die Einsatzkräfte zusätzlich belastet. Die Gleichzeitigkeit der Feuer in mehreren Ländern strapaziert die europäischen Rettungskapazitäten erheblich.",
           "tag": "Klimakrise",
           "emoji": "🔥",
           "quelle": "BBC",
-          "quelle_url": "https://www.bbc.co.uk/news/articles/c5yd8gly1ydo?at_medium=RSS&at_campaign=rss"
+          "quelle_url": "https://www.bbc.co.uk/news/articles/cwyjgwg8jddo?at_medium=RSS&at_campaign=rss"
         },
         {
           "id": "politik-2",
-          "titel": "Kokain-Superhighway: Von Ecuador nach Europa",
-          "zusammenfassung": "Ecuador hat sich zu einem zentralen Umschlagplatz für Kokain auf dem Weg nach Europa entwickelt, während Drogenkartelle das Land mit Gewalt überziehen. Begleitend zu Polizeieinsätzen dokumentiert die BBC, wie Sicherheitsbehörden gegen den massiven Anstieg des Drogenhandels ankämpfen.",
-          "bedeutung": "Die Destabilisierung Ecuadors durch Drogenkriminalität hat direkte Auswirkungen auf die Sicherheitslage in Europa und stellt internationale Strafverfolgungsbehörden vor neue Herausforderungen.",
-          "hintergrund": "Ecuadors strategische Lage zwischen den Kokainerzeugern Kolumbien und Peru hat das Land innerhalb weniger Jahre zu einem unverzichtbaren Glied in der globalen Drogenlieferkette gemacht. Häfen wie Guayaquil gelten inzwischen als wichtigste Verschiffungspunkte für Kokain, das in europäischen Städten landet – von Rotterdam bis Hamburg.\n\nDie sozialen und politischen Folgen sind gravierend: Ermordete Politiker, überlastete Justizstrukturen und eine Bevölkerung, die zwischen rivalisierenden Banden eingeklemmt ist. Trotz Militäreinsätzen und internationaler Kooperation gewinnen die Kartelle weiter an Einfluss – ein Muster, das Expertinnen und Experten an frühere Entwicklungen in Mexiko und Kolumbien erinnert.",
-          "tag": "Organisierte Kriminalität",
-          "emoji": "🌍",
+          "titel": "Rushdie-Angreifer wegen Terrorismus verurteilt",
+          "zusammenfassung": "Ein US-Gericht hat Hadi Matar wegen des Messerangriffs auf den Schriftsteller Salman Rushdie für schuldig befunden, die Terrororganisation Hisbollah unterstützt zu haben. Der 28-Jährige hatte Rushdie 2022 bei einer Veranstaltung in New York schwer verletzt.",
+          "bedeutung": "Das Urteil unterstreicht die globale Reichweite iranisch gesteuerter Terrorfinanzierung und ist ein Signal für den Schutz freier Meinungsäußerung weltweit.",
+          "hintergrund": "Salman Rushdie steht seit der Fatwa des iranischen Revolutionsführers Khomeini von 1989 im Visier islamistischer Extremisten. Der Angriff von 2022 rückte das Thema der staatlich geförderten Einschüchterung von Künstlern und Intellektuellen erneut ins Zentrum der öffentlichen Debatte.\n\nDie Verurteilung Matars mit einem expliziten Terrorismus-Bezug ist juristisches Neuland und könnte Präzedenzwirkung für künftige Fälle haben, in denen eine Verbindung zu ausländischen Terrororganisationen nachgewiesen wird.",
+          "tag": "Terrorismus",
+          "emoji": "⚖️",
           "quelle": "BBC",
-          "quelle_url": "https://www.bbc.co.uk/news/articles/cdx7n1r54nno?at_medium=RSS&at_campaign=rss"
+          "quelle_url": "https://www.bbc.co.uk/news/articles/c86ng1g5wy4o?at_medium=RSS&at_campaign=rss"
         }
       ]
     },
@@ -49,25 +49,36 @@
       "stories": [
         {
           "id": "wirtschaft-0",
-          "titel": "ChatGPT-Hack erschüttert Cybersicherheits-Community",
-          "zusammenfassung": "Details eines schwerwiegenden Hackerangriffs auf ein Technologieunternehmen, bei dem ChatGPT missbraucht wurde, sind öffentlich geworden. Hunderte Cybersicherheitsexperten wurden zu einem Notfallaustausch einberufen, um das Ausmaß des Vorfalls zu bewerten.",
-          "bedeutung": "Der Angriff zeigt, dass generative KI-Systeme inzwischen als Werkzeug für großangelegte Cyberattacken eingesetzt werden – mit unabsehbaren Folgen für die digitale Infrastruktur von Unternehmen weltweit.",
-          "hintergrund": "Der Vorfall gilt als Warnsignal für eine neue Generation von KI-gestützten Cyberangriffen. Dabei sollen Angreifer ChatGPT genutzt haben, um Schutzmaßnahmen zu umgehen oder Angriffsvektoren zu automatisieren – eine Methode, die bisher in diesem Ausmaß nicht dokumentiert war. Die Notfallkonferenz mit Hunderten Fachleuten verdeutlicht, wie ernst die Branche die Lage einschätzt.\n\nDie Enthüllungen dürften den Druck auf Regulierungsbehörden erhöhen, verbindliche Sicherheitsstandards für den Einsatz von KI-Systemen in Unternehmensumgebungen zu schaffen. Gleichzeitig stellt der Fall die Hersteller großer Sprachmodelle vor die Frage, wie Missbrauch ihrer Technologie wirksam verhindert werden kann.",
-          "tag": "Cybersicherheit",
-          "emoji": "🛡️",
+          "titel": "Fed hält Zinsen – kein Wundermittel gegen Inflation",
+          "zusammenfassung": "Die US-Notenbank Federal Reserve hat die Leitzinsen erneut unverändert in einer Spanne von 3,5 bis 3,75 Prozent belassen. Fed-Chef Warsh räumte ein, dass es keine einfachen Lösungen im Kampf gegen die anhaltend hohen Preise gebe.",
+          "bedeutung": "Die Haltung der Fed beeinflusst Kreditkosten, Investitionsbereitschaft und Wechselkurse weltweit und ist damit ein zentraler Taktgeber der globalen Wirtschaft.",
+          "hintergrund": "Die Entscheidung fiel erwartungsgemäß aus, doch die intern gespaltene Stimmung im Offenmarktausschuss – drei Mitglieder votierten für eine Zinserhöhung – signalisiert zunehmenden Druck in Richtung einer baldigen Straffung. Anleger interpretieren dies als Hinweis, dass der nächste Schritt eher nach oben als nach unten geht.\n\nGleichzeitig kämpft die US-Wirtschaft mit hartnäckiger Kerninflation, während der Arbeitsmarkt robust bleibt. Diese Kombination macht geldpolitische Entscheidungen besonders komplex und lässt Spielraum für unterschiedliche Interpretationen der weiteren Richtung.",
+          "tag": "Geldpolitik",
+          "emoji": "💵",
           "quelle": "BBC",
-          "quelle_url": "https://www.bbc.co.uk/news/articles/c2el319vzr3o?at_medium=RSS&at_campaign=rss"
+          "quelle_url": "https://www.bbc.co.uk/news/articles/cy07wgqjv08o?at_medium=RSS&at_campaign=rss"
         },
         {
           "id": "wirtschaft-1",
-          "titel": "eBay zahlt 56 Millionen Dollar für Blogger-Schikane",
-          "zusammenfassung": "Der Online-Marktplatz eBay hat sich in einem Vergleich zur Zahlung von 56 Millionen US-Dollar an Blogger bereit erklärt, die von ehemaligen Konzernmitarbeitern systematisch belästigt worden waren. Der Fall gilt als beispielloser Angriff auf Kritiker aus dem Unternehmensumfeld.",
-          "bedeutung": "Das Urteil setzt einen deutlichen Präzedenzfall für die Haftung von Unternehmen, wenn Führungskräfte gezielt Kritiker einschüchtern oder bedrohen.",
-          "hintergrund": "Ehemalige eBay-Manager hatten über einen längeren Zeitraum ein koordiniertes Einschüchterungsprogramm gegen die Betreiber eines kritischen Newsletters durchgeführt. Dazu gehörten laut Medienberichten Stalking, das Versenden bedrohlicher Pakete und verdeckte Überwachung – allesamt Methoden, die weit über klassische Unternehmenskommunikation hinausgehen.\n\nDer Vergleich beendet ein jahrelanges Verfahren, das die Unternehmenskultur bei eBay in ein schiefes Licht gerückt hat. Beobachterinnen und Beobachter sehen in der Einigung ein Signal, dass Konzerne für das Verhalten ihrer Führungskräfte gegenüber externen Kritikerinnen und Kritikern finanziell verantwortlich gemacht werden können.",
-          "tag": "Unternehmensrecht",
-          "emoji": "⚖️",
+          "titel": "Meta-Aktie fällt: Unmut über KI-Ausgaben wächst",
+          "zusammenfassung": "Die Aktien des Facebook-Mutterkonzerns Meta gaben nach, nachdem Mark Zuckerberg massive weitere Investitionen in Künstliche Intelligenz angekündigt und erstmals Pläne zum Verkauf von KI-Werkzeugen an andere Unternehmen bekannt gegeben hatte. Investoren zeigen sich zunehmend ungeduldig über die hohen Kosten ohne kurzfristig sichtbare Erträge.",
+          "bedeutung": "Metas KI-Strategie ist ein Gradmesser für das Vertrauen der Märkte in die Rentabilität von KI-Investitionen im gesamten Tech-Sektor.",
+          "hintergrund": "Zuckerberg setzt auf eine langfristige Transformation des Konzerns hin zu einem KI-Anbieter, der nicht nur eigene Produkte verbessert, sondern auch externe Kunden bedient. Diese Vision stößt jedoch auf Skepsis, da die bisherigen Ausgaben die Margen erheblich belasten.\n\nDer Kursrückgang steht im Kontext breiter Unsicherheiten über den KI-Hype: Mehrere Chip-Hersteller und Tech-Firmen verzeichnen seit Wochen Kursverluste, was Fragen über die Nachhaltigkeit der gewaltigen Investitionswellen aufwirft.",
+          "tag": "KI-Investitionen",
+          "emoji": "📉",
           "quelle": "BBC",
-          "quelle_url": "https://www.bbc.co.uk/news/articles/cj039p238r5o?at_medium=RSS&at_campaign=rss"
+          "quelle_url": "https://www.bbc.co.uk/news/articles/ckgd31l5yrdo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "id": "wirtschaft-2",
+          "titel": "Bank of England hält Leitzins auf niedrigem Niveau",
+          "zusammenfassung": "Die britische Zentralbank hat den Leitzins zum fünften Mal in Folge bei 3,75 Prozent belassen – dem niedrigsten Stand seit Februar 2023. Die Entscheidung spiegelt das Bemühen wider, Wachstum zu stützen und gleichzeitig die Inflation im Blick zu behalten.",
+          "bedeutung": "Die britische Zinspolitik beeinflusst Hypothekenkosten, Konsum und Pfund-Kurs und hat Signalwirkung für andere Zentralbanken in Europa.",
+          "hintergrund": "Großbritannien befindet sich in einem schwierigen wirtschaftlichen Umfeld: Während die Inflation zwar gesunken ist, bleibt der Druck auf Haushalte und Unternehmen durch hohe Lebenshaltungskosten spürbar. Die Notenbank navigiert zwischen dem Risiko zu früher Lockerung und dem Wachstumsschaden durch zu langes Abwarten.\n\nDie anhaltende Pause bei den Zinssenkungen enttäuscht Teile der Wirtschaft, die auf Entlastung beim Kreditgeschäft hoffen. Gleichzeitig wächst der internationale Druck durch die divergierende Politik von Fed und EZB.",
+          "tag": "Zinspolitik",
+          "emoji": "🏦",
+          "quelle": "BBC",
+          "quelle_url": "https://www.bbc.co.uk/news/articles/cp8e6m4rndgo?at_medium=RSS&at_campaign=rss"
         }
       ]
     },
@@ -78,36 +89,36 @@
       "stories": [
         {
           "id": "boerse-0",
-          "titel": "Singapur überrascht Märkte mit Geldpolitik-Straffung",
-          "zusammenfassung": "Die Monetary Authority of Singapore (MAS) hat überraschend ihre Geldpolitik gestrafft, nachdem steigende Ölpreise neue Inflationsrisiken entfacht haben. Der Schritt folgt einem für Singapur typischen Ansatz: Die Zentralbank steuert nicht über Zinssätze, sondern über den Wechselkurs des Singapur-Dollars.",
-          "bedeutung": "Singapurs unerwarteter geldpolitischer Schwenk sendet ein Signal an die globalen Märkte, dass die Inflationsgefahr durch teure Energie noch nicht gebannt ist.",
-          "hintergrund": "Die MAS gilt als eine der unkonventionellsten Zentralbanken der Welt: Statt Leitzinsen anzupassen, steuert sie die Währung gegenüber einem gewichteten Korb von Handelspartner-Währungen. Eine Straffung bedeutet in diesem System, dass der Singapur-Dollar schneller aufgewertet wird, was importierte Inflation dämpfen soll.\n\nDer Hintergrund ist ein globaler Ölpreisanstieg, der Lieferketten und Verbraucherpreise in ganz Asien unter Druck setzt. Dass die MAS außerhalb ihres regulären Sitzungsrhythmus reagiert, unterstreicht, wie ernst die Behörde die Inflationsgefahr einschätzt – und könnte andere asiatische Zentralbanken zu ähnlichen Überlegungen veranlassen.",
-          "tag": "Geldpolitik",
-          "emoji": "📈",
+          "titel": "Fed gespalten: Drei Mitglieder fordern Zinserhöhung",
+          "zusammenfassung": "Der US-Offenmarktausschuss stimmte mit neun zu drei Stimmen dafür, den Leitzins unverändert zu lassen – doch die drei abweichenden Voten für eine Anhebung signalisieren wachsenden Druck innerhalb der Federal Reserve. Märkte reagierten mit Nervosität auf das intern zerrissene Bild der Notenbank.",
+          "bedeutung": "Eine gespaltene Fed erhöht die Unsicherheit an den Finanzmärkten und kann zu stärkeren Schwankungen bei Anleihen, Aktien und dem Dollar führen.",
+          "hintergrund": "Unter dem neuen Fed-Chef Kevin Warsh zeigt sich eine deutlich härtere Fraktion innerhalb der Notenbank, die angesichts hartnäckiger Inflationsdaten auf eine baldige Zinserhöhung drängt. Anleihe-Experte Jeffrey Gundlach deutete an, dass der Anleihenmarkt die Glaubwürdigkeit der Fed im Kampf gegen die Inflation bereits in Frage stellt.\n\nFür Investoren bedeutet die Spaltung erhöhte Unsicherheit: Jede neue Wirtschaftsdaten-Veröffentlichung könnte nun die Waagschale in Richtung einer Zinserhöhung kippen und damit Portfolios unter Druck setzen.",
+          "tag": "Notenbank",
+          "emoji": "📊",
           "quelle": "CNBC",
-          "quelle_url": "https://www.cnbc.com/2026/07/27/singapore-mas-july-monetary-policy-middle-east-oil-prices-inflation-.html"
+          "quelle_url": "https://www.cnbc.com/2026/07/29/fed-rate-decision-july-2026.html"
         },
         {
           "id": "boerse-1",
-          "titel": "KI-Agenten revolutionieren den Handel an der Wall Street",
-          "zusammenfassung": "Börsenhandel rund um die Uhr, sieben Tage die Woche: Startups, etablierte Brokerhäuser und sogar Privatanleger entwickeln zunehmend KI-gestützte Handelssysteme, die Portfolios eigenständig überwachen und Transaktionen automatisch ausführen. Die Technologie übernimmt damit Aufgaben, die bislang erfahrenen Händlern vorbehalten waren.",
-          "bedeutung": "Vollautomatischer KI-Handel verändert die Marktmechanik grundlegend und wirft neue Fragen zu Systemrisiken, Regulierung und fairen Wettbewerbsbedingungen auf.",
-          "hintergrund": "Algorithmengestützter Hochfrequenzhandel ist an Finanzmärkten nicht neu, doch die neue Generation KI-basierter Agenten geht deutlich weiter: Sie analysieren Nachrichten, interpretieren Marktsentiment und treffen eigenständige Anlageentscheidungen auf Basis lernender Modelle. Damit dringt die Technologie in Bereiche vor, die bislang menschliches Urteilsvermögen erforderten.\n\nKritikerinnen und Kritiker warnen vor einer Konzentration von Marktmacht bei jenen, die über die leistungsfähigsten KI-Systeme verfügen. Regulierungsbehörden in den USA und Europa prüfen, ob bestehende Marktregeln ausreichen oder ob neue Leitplanken für autonome Handelssysteme notwendig sind.",
-          "tag": "Fintech",
-          "emoji": "🤖",
+          "titel": "Anleihenmarkt zweifelt an Feds Inflationsbekämpfung",
+          "zusammenfassung": "Starinvestor Jeffrey Gundlach warnt, dass divergierende Bewegungen entlang der US-Zinskurve auf wachsende Skepsis der Märkte gegenüber der Entschlossenheit der Federal Reserve hindeuten. Der Anleihenmarkt sende klare Signale, dass die Notenbank handeln müsse.",
+          "bedeutung": "Wenn der Anleihenmarkt das Vertrauen in die Geldpolitik verliert, steigen die Finanzierungskosten für Staaten und Unternehmen weltweit.",
+          "hintergrund": "Gundlach, einer der einflussreichsten Bond-Investoren der Welt, sieht im aktuellen Verlauf der US-Zinskurve ein Warnsignal: Kurzfristige und langfristige Renditen bewegen sich auseinander, was auf unterschiedliche Inflationserwartungen und Zweifel an der künftigen Geldpolitik hindeutet.\n\nDie Debatte um die Glaubwürdigkeit der Fed ist keine rein amerikanische: Wenn die weltgrößte Notenbank als unentschlossen wahrgenommen wird, setzt dies Schwellenländer-Währungen unter Druck und verteuert die globale Schuldenfinanzierung.",
+          "tag": "Anleihenmarkt",
+          "emoji": "📉",
           "quelle": "CNBC",
-          "quelle_url": "https://www.cnbc.com/2026/07/28/ai-agents-build-to-trade-24/7-the-future-of-wall-street.html"
+          "quelle_url": "https://www.cnbc.com/2026/07/29/gundlach-says-the-bond-market-is-signaling-the-fed-has-to-act-on-inflation.html"
         },
         {
           "id": "boerse-2",
-          "titel": "CME ermöglicht Futures-Handel auf SpaceX und Co.",
-          "zusammenfassung": "Die Terminbörse CME Group hat Single-Stock-Futures auf 55 US-Aktien eingeführt, darunter SpaceX und Micron, die nun bis zu 23 Stunden täglich gehandelt werden können. Zusätzlich wurden kleinere Kontraktgrößen aufgelegt, um auch Privatanleger anzusprechen.",
-          "bedeutung": "Der Schritt erweitert den Zugang zu bisher schwer handelbaren Werten wie dem nicht börsengelisteten SpaceX und könnte den Derivatemarkt für eine breitere Anlegerschicht öffnen.",
-          "hintergrund": "SpaceX ist trotz seiner Bewertung von mehreren Hundert Milliarden US-Dollar nicht an einer Börse gelistet, was den direkten Zugang für Privatanleger bislang blockierte. Mit cash-settled Futures können Anleger nun indirekt auf die Kursentwicklung des Raumfahrtunternehmens von Elon Musk setzen – ohne die Aktie selbst halten zu müssen.\n\nDie Einführung von Micro-Kontrakten ist ein klares Signal, dass CME den Markt für Kleinanleger attraktiver machen will. Beobachterinnen und Beobachter sehen darin auch einen Wettbewerbszug gegenüber anderen Handelsplattformen, die zunehmend auf rund um die Uhr geöffnete Märkte setzen.",
-          "tag": "Derivate",
-          "emoji": "🚀",
+          "titel": "Dow Jones verliert 1.000 Punkte – was kommt als Nächstes?",
+          "zusammenfassung": "Der Dow Jones Industrial Average verzeichnete einen Tagesverlust von mehr als 1.000 Punkten und löste damit unter Marktbeobachtern eine intensive Debatte über die kurzfristige Richtung aus. Historische Daten zeigen: Nach solchen Einbrüchen folgt meist eine schwache Woche, danach jedoch in der Regel eine Erholung.",
+          "bedeutung": "Ein Tausend-Punkte-Absturz beim Dow ist ein psychologisch bedeutsames Ereignis, das das Verbraucher- und Investorenvertrauen weltweit beeinflussen kann.",
+          "hintergrund": "Auslöser für den Rückgang waren die gemischten Signale der Federal Reserve sowie anhaltende Unsicherheiten im Tech-Sektor, wo Chip-Aktien und KI-nahe Werte unter Druck geraten sind. Die Kombination aus Zins- und Technologiesorgen belastet die Stimmung an der Wall Street erheblich.\n\nHistorische Muster zeigen, dass auf starke Einbrüche dieser Größenordnung in der darauffolgenden Woche häufig weitere Schwäche folgt, bevor sich der Markt innerhalb eines Monats typischerweise stabilisiert. Langfristige Anleger beobachten solche Phasen daher oft als potenzielle Einstiegsgelegenheiten.",
+          "tag": "Wall Street",
+          "emoji": "📉",
           "quelle": "CNBC",
-          "quelle_url": "https://www.cnbc.com/2026/07/27/cme-launches-single-stock-futures-enabling-investors-to-trade-spacex-micron-23-hours-a-day.html"
+          "quelle_url": "https://www.cnbc.com/2026/07/29/the-last-times-the-dow-fell-1000-points-and-what-happened-next.html"
         }
       ]
     }
