@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-03T00:16:23.860246+00:00",
-  "datum": "Montag, 3. August 2026",
+  "generated_at": "2026-08-04T00:18:03.717748+00:00",
+  "datum": "Dienstag, 4. August 2026",
   "ressorts": [
     {
       "id": "politik",
@@ -9,36 +9,36 @@
       "stories": [
         {
           "id": "politik-0",
-          "titel": "Trump stoppt Iran-Angriff – Deal in Sicht",
-          "zusammenfassung": "US-Präsident Trump hat geplante Militärschläge gegen den Iran vorerst ausgesetzt, nachdem Teheran und weitere nahöstliche Staaten Washington um Zurückhaltung gebeten haben. Die Grundzüge einer Vereinbarung seien bereits abgesteckt, so Trump.",
-          "bedeutung": "Eine diplomatische Lösung im Atomstreit mit dem Iran könnte die geopolitischen Spannungen im Nahen Osten erheblich entschärfen und weltweite Energiemärkte stabilisieren.",
-          "hintergrund": "Die USA hatten zuletzt mit konkreten Militäroptionen gedroht, sollte der Iran keine Zugeständnisse in der Nuklearfrage machen. Trumps Ankündigung deutet nun auf eine überraschende diplomatische Öffnung hin, deren Details noch unklar sind.\n\nDie Entwicklung kommt zu einem Zeitpunkt erhöhter regionaler Anspannung. Beobachter mahnen zur Vorsicht: Ähnliche Ankündigungen in der Vergangenheit mündeten nicht immer in belastbare Abkommen.",
-          "tag": "Iran-Deal",
-          "emoji": "🕊️",
+          "titel": "Ukrainische Drohne tötet Kinder an russischem Strand",
+          "zusammenfassung": "Ein ukrainischer Drohnenangriff auf einen belebten Badeort am Schwarzen Meer hat sieben Menschen das Leben gekostet, darunter drei Kinder. Rund 40 weitere Personen wurden verletzt.",
+          "bedeutung": "Der Angriff auf zivile Erholungsgebiete verschärft die humanitäre Dimension des Krieges und erhöht den internationalen Druck auf beide Seiten.",
+          "hintergrund": "Der Einschlag ereignete sich an einem stark frequentierten Urlaubsstrand, was die Zahl der zivilen Opfer in die Höhe trieb. Russland nutzt den Vorfall bereits für eine Propagandaoffensive gegen die Ukraine.\n\nDerartige Angriffe auf Ziele abseits klassischer Frontlinien werfen erneut Fragen zum Schutz der Zivilbevölkerung auf beiden Seiten auf und könnten die diplomatischen Bemühungen um einen Waffenstillstand weiter belasten.",
+          "tag": "Drohnenkrieg",
+          "emoji": "💥",
           "quelle": "BBC",
-          "quelle_url": "https://www.bbc.co.uk/news/articles/cjwx74qgld2o?at_medium=RSS&at_campaign=rss"
+          "quelle_url": "https://www.bbc.co.uk/news/articles/cr7kmnyrdn7o?at_medium=RSS&at_campaign=rss"
         },
         {
           "id": "politik-1",
-          "titel": "Israel greift Gaza an – mindestens 13 Tote",
-          "zusammenfassung": "Israelische Streitkräfte haben trotz der jüngsten Hamas-Einigung zur Entwaffnung Luftangriffe auf mehrere Orte im Gazastreifen durchgeführt. Dabei kamen nach Angaben von Rettungskräften mindestens 13 Menschen ums Leben.",
-          "bedeutung": "Die Angriffe gefährden einen möglichen Waffenstillstandsprozess und zeigen, wie fragil die Lage im Gazastreifen trotz diplomatischer Fortschritte bleibt.",
-          "hintergrund": "Die Hamas hatte sich in Grundzügen zu einer Entwaffnungsvereinbarung bereiterklärt, was international als bedeutsames Signal gewertet wurde. Israel begründete die anschließenden Schläge damit, gezielt militärische Operateure der Hamas in Gaza-Stadt, Khan Younis und Deir el-Balah ins Visier genommen zu haben.\n\nDie internationale Gemeinschaft reagiert zunehmend besorgt auf die Gleichzeitigkeit von Verhandlungsfortschritten und eskalierender Gewalt. Humanitäre Organisationen warnen vor den Folgen für die Zivilbevölkerung.",
-          "tag": "Gaza-Konflikt",
-          "emoji": "💣",
+          "titel": "Iran dementiert US-Gespräche – Trump reagiert scharf",
+          "zusammenfassung": "Teheran erklärte, Verhandlungen liefen ausschließlich über den Vermittler Oman, nicht direkt mit Washington. Donald Trump konterte mit einer scharfen Verurteilung der iranischen Führung.",
+          "bedeutung": "Die öffentliche Konfrontation zwischen beiden Seiten gefährdet eine mögliche diplomatische Lösung im eskalierenden Nahost-Konflikt.",
+          "hintergrund": "Die widersprüchlichen Aussagen verdeutlichen das tiefe gegenseitige Misstrauen zwischen Washington und Teheran. Während Trump offenbar eine baldige Wiederaufnahme von Gesprächen signalisieren wollte, distanzierte sich Iran unmittelbar davon.\n\nOman spielt traditionell die Rolle eines diskreten Vermittlers zwischen den verfeindeten Ländern. Ob dieser Kanal nach dem öffentlichen Schlagabtausch noch funktionsfähig bleibt, ist ungewiss.",
+          "tag": "Iran-Diplomatie",
+          "emoji": "🕊️",
           "quelle": "BBC",
-          "quelle_url": "https://www.bbc.co.uk/news/articles/czjlvvkzj20o?at_medium=RSS&at_campaign=rss"
+          "quelle_url": "https://www.bbc.co.uk/news/articles/c23579jzv08o?at_medium=RSS&at_campaign=rss"
         },
         {
           "id": "politik-2",
-          "titel": "Ukraine trifft russische Raffinerie und Militärflugplatz",
-          "zusammenfassung": "Die ukrainischen Streitkräfte haben nach eigenen Angaben eine bedeutende russische Ölraffinerie sowie einen Militärflugplatz mit Drohnen- und Raketenangriffen beschädigt. Moskau meldete acht Todesopfer und gab an, seinerseits ukrainische Schwarzmeerhäfen attackiert zu haben.",
-          "bedeutung": "Gegenseitige Angriffe auf Energie- und Militärinfrastruktur verschärfen den Abnutzungskrieg und könnten die russische Treibstoffversorgung sowie die ukrainische Seelogistik empfindlich treffen.",
-          "hintergrund": "Die Ukraine setzt seit Monaten auf Tiefschläge weit hinter der russischen Frontlinie, um Versorgungsketten und Energieinfrastruktur zu destabilisieren. Raffinerien gelten dabei als strategisch hochwertige Ziele, da Russland auf deren Kapazitäten für den Treibstoffnachschub der eigenen Truppen angewiesen ist.\n\nRussland wiederum intensiviert seine Angriffe auf ukrainische Häfen am Schwarzen Meer, was den Getreide- und Güterexport der Ukraine zusätzlich unter Druck setzt und globale Agrarmärkte beobachten lässt.",
-          "tag": "Ukraine-Krieg",
-          "emoji": "🔥",
+          "titel": "Tanker-Bedrohung im Nahen Osten auf Rekordniveau",
+          "zusammenfassung": "Analysten warnen, die Gefahr für Öltanker im Nahen Osten sei so hoch wie noch nie seit Beginn des Iran-Krieges. Angriffe auf Ausweichrouten machen die Schifffahrt noch komplexer.",
+          "bedeutung": "Störungen auf diesen Seewegen treffen die globale Energieversorgung und könnten die Ölpreise weltweit erneut anheizen.",
+          "hintergrund": "Nachdem die Straße von Hormus und der Suezkanal zunehmend als riskant gelten, weichen viele Reedereien auf alternative Routen aus – doch auch diese werden nun gezielt angegriffen. Die Kosten für Versicherung und Sicherheitsmaßnahmen sind drastisch gestiegen.\n\nFür importabhängige Volkswirtschaften in Europa und Asien bedeutet dies steigende Energiepreise und fragile Lieferketten. Internationale Marinekräfte sind bereits im Einsatz, stoßen aber an Kapazitätsgrenzen.",
+          "tag": "Energiesicherheit",
+          "emoji": "🛢️",
           "quelle": "BBC",
-          "quelle_url": "https://www.bbc.co.uk/news/articles/c998gg5pe09o?at_medium=RSS&at_campaign=rss"
+          "quelle_url": "https://www.bbc.co.uk/news/articles/cjrv0dy2e90o?at_medium=RSS&at_campaign=rss"
         }
       ]
     },
@@ -49,36 +49,36 @@
       "stories": [
         {
           "id": "wirtschaft-0",
-          "titel": "Fifa-Privatisierungsplan: Experten zweifeln massiv",
-          "zusammenfassung": "Der Weltfußballverband Fifa hat konkretere Details zu seinem Vorhaben vorgelegt, die Vermarktungsrechte der Fußball-Weltmeisterschaft teilweise zu privatisieren. Analysten sehen fundamentale wirtschaftliche und strukturelle Fragen unbeantwortet.",
-          "bedeutung": "Eine Teilprivatisierung der WM-Rechte würde die globale Sportökonomie grundlegend verändern und Milliardensummen sowie die Unabhängigkeit des Weltfußballs berühren.",
-          "hintergrund": "Die Fifa strebt an, externe Investoren an den lukrativen Erlösen der Weltmeisterschaft zu beteiligen, um Einnahmen zu verstetigen und auszubauen. Kritiker bemängeln mangelnde Transparenz beim Bewertungsverfahren und mögliche Interessenkonflikte.\n\nDie Debatte berührt grundsätzliche Fragen über die Kommerzialisierung des Sports und darüber, wem letztlich die Rechte an einem der meistgesehenen Sportereignisse der Welt gehören sollten.",
-          "tag": "Sportökonomie",
-          "emoji": "⚽",
-          "quelle": "BBC",
-          "quelle_url": "https://www.bbc.co.uk/news/articles/clyvd8363wlo?at_medium=RSS&at_campaign=rss"
+          "titel": "Ölpreis stürzt nach Trumps Iran-Kehrtwende ab",
+          "zusammenfassung": "Der Brent-Rohölpreis fiel um rund fünf Prozent, nachdem US-Präsident Trump angekündigte Angriffe auf Iran abgesagt und Friedensgespräche in Aussicht gestellt hatte. Europäische Aktienmärkte und Staatsanleihen legten daraufhin deutlich zu.",
+          "bedeutung": "Die Ankündigung zeigt, wie stark geopolitische Signale aus Washington die globalen Energiemärkte und das Anlegerverhalten unmittelbar bewegen.",
+          "hintergrund": "Die scharfe Reaktion der Märkte verdeutlicht, wie angespannt die Lage im Nahen Osten zuletzt gewesen ist. Ein Rückgang um fünf Prozent bei Brent ist für einen einzelnen Tag außergewöhnlich und spiegelt die aufgestaute Risikoprämie wider.\n\nAllerdings bleibt unklar, ob Trumps Ankündigung Bestand hat – iranische Stellen widersprachen kurz darauf öffentlich. Analysten mahnen, die Preiserholung könnte sich schnell umkehren, sollten die Gespräche scheitern.",
+          "tag": "Ölmarkt",
+          "emoji": "📉",
+          "quelle": "The Guardian",
+          "quelle_url": "https://www.theguardian.com/business/2026/aug/03/oil-prices-fall-europe-stock-markets-donald-trump-iran-us-brent-crude"
         },
         {
           "id": "wirtschaft-1",
-          "titel": "Spaniens Migrationskrise erschüttert Europa politisch",
-          "zusammenfassung": "Die massiven Grenzübertritte in der spanischen Exklave Ceuta haben in mehreren europäischen Ländern innenpolitische Debatten über Migrationspolitik ausgelöst und bestehende EU-Risse vertieft. Soziale Medien verstärken die gesellschaftliche Polarisierung rund um das Thema erheblich.",
-          "bedeutung": "Migrationsdebatten gehören zu den stärksten politischen Treibern in Europa und können Regierungskoalitionen destabilisieren sowie EU-weite Kooperationsmechanismen unter Druck setzen.",
-          "hintergrund": "Die Ereignisse in Ceuta reihen sich in eine Serie von Migrationskrisen ein, die Europa seit Jahren vor immense humanitäre und politische Herausforderungen stellen. Besonders das Zusammenspiel von Realsituation und digitaler Stimmungsmache erschwert sachliche politische Lösungsfindung.\n\nGleichzeitig zeigt der Fall einmal mehr, wie stark externe Faktoren – etwa das Verhältnis Spaniens zu Marokko – die europäische Innenpolitik beeinflussen können.",
-          "tag": "Migration Europa",
-          "emoji": "🌊",
+          "titel": "Speicherchip-Krise verteuert Xbox um 43 Prozent",
+          "zusammenfassung": "Microsoft erhöht die Preise für Xbox-Series-X-Konsolen in Großbritannien um bis zu 170 Pfund – ein Anstieg von bis zu 43 Prozent. Grund sind stark gestiegene Kosten für Speicherchips.",
+          "bedeutung": "Der Fall zeigt exemplarisch, wie globale Halbleiterengpässe Verbraucherpreise in der Unterhaltungselektronik weltweit nach oben treiben.",
+          "hintergrund": "Die Chipkrise hat sich durch Exportrestriktionen und steigende Rüstungsnachfrage weiter verschärft. Hersteller geben die höheren Produktionskosten zunehmend an Endverbraucher weiter, wie der Xbox-Preissprung zeigt.\n\nExperten erwarten ähnliche Preiserhöhungen auch bei anderen Elektronikprodukten. Besonders betroffen sind Konsolen, Laptops und Smartphones, die auf NAND-Flash-Speicher angewiesen sind.",
+          "tag": "Chipkrise",
+          "emoji": "🎮",
           "quelle": "BBC",
-          "quelle_url": "https://www.bbc.co.uk/news/articles/c62vl925dqdo?at_medium=RSS&at_campaign=rss"
+          "quelle_url": "https://www.bbc.co.uk/news/articles/czjlvrd9e43o?at_medium=RSS&at_campaign=rss"
         },
         {
           "id": "wirtschaft-2",
-          "titel": "Rekordhitze legt Italiens Großstädte lahm",
-          "zusammenfassung": "Fast alle großen italienischen Städte, darunter Rom, Mailand und Neapel, stehen unter der höchsten Hitzewarnungsstufe. Bis Montag sollen nahezu sämtliche der 19 betroffenen Metropolen auf Rot gesetzt sein.",
-          "bedeutung": "Extremhitzeereignisse in Südeuropa verursachen wachsende volkswirtschaftliche Schäden, belasten Gesundheitssysteme und verdeutlichen die zunehmende Dringlichkeit klimapolitischer Maßnahmen.",
-          "hintergrund": "Der mediterrane Raum entwickelt sich zum Brennpunkt des Klimawandels in Europa: Temperaturen jenseits von 40 Grad Celsius werden immer häufiger und halten länger an. Für vulnerable Bevölkerungsgruppen wie Ältere und Obdachlose steigt die Sterblichkeit in solchen Hitzephasen signifikant.\n\nDie wirtschaftlichen Folgen sind erheblich: Tourismus, Landwirtschaft und Baugewerbe leiden unter Hitzeunterbrechungen, während Energienachfrage und Gesundheitskosten in die Höhe schießen.",
-          "tag": "Klimakrise",
-          "emoji": "🌡️",
+          "titel": "KI-Abrechnung: Warum Anbieter und Kunden nicht zusammenfinden",
+          "zusammenfassung": "Unternehmen, die KI-Dienste einkaufen, kämpfen mit unkontrollierbaren Kosten, während Anbieter keine klaren Preismodelle etablieren können. Die sogenannte Tokenomics-Frage bremst die breite Industrialisierung von KI.",
+          "bedeutung": "Ohne tragfähige Preismodelle bleibt die massenhafte Einführung von KI in Unternehmen weit hinter ihrem Potenzial zurück.",
+          "hintergrund": "Viele Firmen berichten, dass KI-Rechnungen je nach Nutzungsintensität stark schwanken und kaum planbar sind. Das macht es schwierig, den Return on Investment zu berechnen und Budgets zu planen.\n\nAnbieter wiederum stehen vor dem Dilemma, dass zu hohe Preise Kunden abschrecken, während zu niedrige Preise die enormen Rechenkosten nicht decken. Die Branche sucht noch nach dem richtigen Modell zwischen Flatrate, Pay-per-Token und Enterprise-Lizenzen.",
+          "tag": "KI-Wirtschaft",
+          "emoji": "🤖",
           "quelle": "BBC",
-          "quelle_url": "https://www.bbc.co.uk/news/articles/cr7k4gdrgljo?at_medium=RSS&at_campaign=rss"
+          "quelle_url": "https://www.bbc.co.uk/news/articles/c872r52x7jgo?at_medium=RSS&at_campaign=rss"
         }
       ]
     },
@@ -89,14 +89,36 @@
       "stories": [
         {
           "id": "boerse-0",
-          "titel": "Goldman Sachs' Trader steuern auf Rekordjahr zu",
-          "zusammenfassung": "Das Handelsgeschäft von Goldman Sachs entwickelt sich im laufenden Jahr überdurchschnittlich stark und dürfte nach interner Einschätzung ein Allzeithoch erreichen. Haupttreiber sind die Aktiensparte sowie eine gezielte Nutzung von Marktvolatilität.",
-          "bedeutung": "Rekordergebnisse bei Goldman Sachs gelten als Gradmesser für die Gesundheit globaler Kapitalmärkte und signalisieren, dass institutionelle Investoren trotz geopolitischer Risiken aktiv handeln.",
-          "hintergrund": "Seit Jahresbeginn profitiert das Investmentbanking von erhöhter Marktvolatilität, die erfahrenen Händlern Arbitrage- und Positionierungschancen bietet. Die Aktiensparte von Goldman, traditionell eine der stärksten der Wall Street, hat laut Unternehmensangaben ihre Marktanteile weiter ausgebaut.\n\nAnalysten beobachten die Entwicklung als Indikator dafür, ob die Rallye an den Aktienmärkten strukturell untermauert ist oder zunehmend von spekulativen Positionierungen getrieben wird.",
-          "tag": "Wall Street",
-          "emoji": "📈",
+          "titel": "US-Einkaufsmanager: Inflation schlimmer als in Pandemie",
+          "zusammenfassung": "Eine aktuelle Umfrage unter US-Einkaufsmanagern zeigt, dass die Inflationssorgen im verarbeitenden Gewerbe das Niveau der Pandemiezeit übersteigen. Die Federal Reserve gerät damit unter wachsenden Handlungsdruck.",
+          "bedeutung": "Sollte die Fed auf diese Signale mit weiteren Zinserhöhungen reagieren, könnte das Wachstum dämpfen und die Märkte weltweit belasten.",
+          "hintergrund": "Die Umfrage spiegelt eine zunehmend volatile Beschaffungslage wider: Unternehmen kämpfen mit unvorhersehbaren Lieferzeiten, steigenden Rohstoffkosten und unsicheren Energiepreisen infolge der Nahost-Krise. Einkaufsmanager berichten, dass selbst erfahrene Teams kaum noch vorausplanen können.\n\nFür die Fed bedeutet das eine klassische Zwickmühle: Eine restriktivere Geldpolitik könnte die Inflation dämpfen, gleichzeitig aber den ohnehin fragilen Arbeitsmarkt belasten – kurz vor dem für Freitag erwarteten Jobsbericht.",
+          "tag": "Fed & Inflation",
+          "emoji": "📊",
           "quelle": "CNBC",
-          "quelle_url": "https://www.cnbc.com/2026/08/01/goldman-traders-are-on-pace-for-a-record-year-a-close-up-look-at-how-theyre-doing-it.html"
+          "quelle_url": "https://www.cnbc.com/2026/08/03/manufacturing-survey-shows-inflation-worries-adding-to-pressure-on-fed.html"
+        },
+        {
+          "id": "boerse-1",
+          "titel": "Märkte wetten auf schwachen US-Jobsmarkt im Juli",
+          "zusammenfassung": "Auf der Prognoseplattform Kalshi setzen Händler knapp unter 50-zu-50 auf eine Zahl von mehr als 80.000 neu geschaffenen Stellen im Juli. Das läge deutlich unter den Konsenserwartungen der Ökonomen.",
+          "bedeutung": "Ein überraschend schwacher Arbeitsmarktbericht könnte die Zinssenkungserwartungen neu entfachen und Anleihenmärkte weltweit bewegen.",
+          "hintergrund": "Der monatliche US-Arbeitsmarktbericht gilt als einer der einflussreichsten Makrodaten für Notenbanken und Investoren weltweit. Sollte die Beschäftigung im Juli tatsächlich deutlich hinter den Erwartungen zurückbleiben, würde das den Druck auf die Federal Reserve erhöhen, ihre restriktive Haltung zu überdenken.\n\nPrediction-Märkte wie Kalshi gelten zunehmend als Frühindikator für Markterwartungen und werden von institutionellen Investoren zur Kalibrierung ihrer Positionen herangezogen.",
+          "tag": "Arbeitsmarkt USA",
+          "emoji": "📉",
+          "quelle": "CNBC",
+          "quelle_url": "https://www.cnbc.com/2026/08/03/kalshi-traders-think-july-jobs-will-come-in-cooler-than-estimates.html"
+        },
+        {
+          "id": "boerse-2",
+          "titel": "Irans Seekrieg treibt Dieselpreise in Kalifornien in die Höhe",
+          "zusammenfassung": "Seit Beginn des Iran-Krieges sind die Dieselpreise in Kalifornien stark gestiegen und belasten über den größten US-Containerhafen auch Verbraucher im ganzen Land. Lieferketten und Transportkosten stehen unter Druck.",
+          "bedeutung": "Steigende Energiekosten an der US-Westküste haben direkte Auswirkungen auf die gesamte amerikanische Verbraucherpreisentwicklung.",
+          "hintergrund": "Kalifornien ist aufgrund seiner Umweltvorschriften ohnehin auf spezifische Kraftstoffmischungen angewiesen, was den Markt anfälliger für externe Schocks macht. Der kombinierte Effekt aus höheren Rohölpreisen und logistischen Engpässen hat die Dieselpreise besonders stark steigen lassen.\n\nDa der Hafen von Los Angeles der größte Containerpunkt der USA ist, schlagen sich höhere Transportkosten rasch in den Preisen für importierte Waren nieder – von Elektronik bis zu Lebensmitteln. Ökonomen warnen vor einem breiten Inflationsimpuls.",
+          "tag": "Energiepreise USA",
+          "emoji": "⛽",
+          "quelle": "CNBC",
+          "quelle_url": "https://www.cnbc.com/2026/08/03/californias-diesel-prices-have-jumped-since-the-iran-war-started-with-ripple-effects-across-the-country.html"
         }
       ]
     }
