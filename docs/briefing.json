@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-09T02:34:21.551235+00:00",
-  "datum": "Sonntag, 9. August 2026",
+  "generated_at": "2026-08-10T02:39:16.782363+00:00",
+  "datum": "Montag, 10. August 2026",
   "ressorts": [
     {
       "id": "politik",
@@ -9,36 +9,36 @@
       "stories": [
         {
           "id": "politik-0",
-          "titel": "Hormuz-Gespräche: Fortschritte, aber kein Durchbruch",
-          "zusammenfassung": "Die Verhandlungen über eine neue Schifffahrtsroute durch die Straße von Hormus verlaufen nach omanischen Angaben positiv. Iran signalisiert zwar Gesprächsbereitschaft, betont jedoch, dass eine Einigung die Meerenge nicht öffnen würde.",
-          "bedeutung": "Die Straße von Hormus ist eine der bedeutendsten Energieversorgungsrouten der Welt – jede Entwicklung dort hat unmittelbare Auswirkungen auf globale Ölpreise und die Schifffahrt.",
-          "hintergrund": "Oman vermittelt seit Wochen zwischen den beteiligten Parteien und gilt als neutraler Gesprächspartner in einer Region, die durch anhaltende Spannungen geprägt ist. Die diplomatischen Signale sind vorsichtig optimistisch, konkrete Ergebnisse stehen jedoch noch aus.\n\nEin mögliches Abkommen würde den internationalen Seehandel erheblich entlasten, der durch die geopolitischen Spannungen im Persischen Golf unter Druck steht. Analysten mahnen zur Zurückhaltung, da ähnliche Verhandlungen in der Vergangenheit mehrfach gescheitert sind.",
-          "tag": "Naher Osten",
-          "emoji": "🚢",
+          "titel": "Netanjahu lehnt Trumps Gaza-Plan kategorisch ab",
+          "zusammenfassung": "Israels Ministerpräsident hat einen 15-Punkte-Friedensplan der US-Regierung zurückgewiesen und erklärt, die israelischen Streitkräfte würden Gaza erst verlassen, wenn die Hamas vollständig entwaffnet sei. Damit gerät der diplomatische Prozess zur Beendigung des Gaza-Krieges erneut ins Stocken.",
+          "bedeutung": "Die Ablehnung des Plans durch den engsten Verbündeten der USA gefährdet den gesamten Vermittlungsprozess und erhöht den Druck auf die internationale Gemeinschaft.",
+          "hintergrund": "Die Trump-Administration hatte zuletzt intensiv an einem Rahmenplan gearbeitet, der einen schrittweisen israelischen Rückzug aus Gaza mit einem Waffenstillstand verbinden sollte. Netanjahus Absage macht deutlich, wie tief die Differenzen zwischen Washington und Jerusalem über die Bedingungen eines möglichen Kriegsendes nach wie vor sind.\n\nFür die palästinensische Zivilbevölkerung, die seit Monaten unter katastrophalen humanitären Bedingungen leidet, bedeutet die anhaltende Blockade politischer Lösungen weitere Ungewissheit. Auch die Verhandlungsposition der Hamas dürfte durch die israelische Kompromisslosigkeit kaum weicher werden.",
+          "tag": "Gaza-Krieg",
+          "emoji": "🕊️",
           "quelle": "BBC",
-          "quelle_url": "https://www.bbc.co.uk/news/articles/c934j5y2lq9o?at_medium=RSS&at_campaign=rss"
+          "quelle_url": "https://www.bbc.co.uk/news/articles/c5yw4lpe0yeo?at_medium=RSS&at_campaign=rss"
         },
         {
           "id": "politik-1",
-          "titel": "Trumps Ex-Anwalt Blanche wird US-Justizminister",
-          "zusammenfassung": "Todd Blanche, der frühere Strafverteidiger Donald Trumps, wurde vom Senat knapp als Generalstaatsanwalt der Vereinigten Staaten bestätigt. Einige Republikaner stimmten gegen die Nominierung, was eine ungewöhnliche parteiinterne Gegenstimme darstellt.",
-          "bedeutung": "Die Ernennung eines persönlichen Ex-Verteidigers des Präsidenten zum obersten Strafverfolgungsbeamten des Landes wirft grundlegende Fragen zur Unabhängigkeit der US-Justiz auf.",
-          "hintergrund": "Blanche hatte Trump in mehreren strafrechtlichen Verfahren vertreten, bevor er für den Posten des Attorney General nominiert wurde. Kritiker sehen darin einen beispiellosen Interessenkonflikt an der Spitze des Justizministeriums.\n\nDie knappe Bestätigung zeigt, dass selbst innerhalb der Republikanischen Partei Bedenken hinsichtlich der institutionellen Unabhängigkeit bestehen. Beobachter erwarten, dass Blanches Amtsführung die laufenden Debatten über die Gewaltenteilung in den USA weiter anheizen wird.",
-          "tag": "US-Justiz",
-          "emoji": "⚖️",
+          "titel": "Drohnen über deutschem Militärstützpunkt aufgespürt",
+          "zusammenfassung": "Wenige Tage nach einem Bombenvorfall in Leipzig wurden unbemannte Flugkörper über einem deutschen Militärgelände gesichtet, das Berichten zufolge Komponenten des Patriot-Raketenabwehrsystems beherbergt. Die Polizei hat Ermittlungen aufgenommen.",
+          "bedeutung": "Der Vorfall reiht sich in eine Serie sicherheitsrelevanter Ereignisse rund um deutsche Militärinfrastruktur ein und wirft erneut Fragen zur Spionageabwehr in der Nato auf.",
+          "hintergrund": "Deutschland steht seit Monaten unter erhöhter Sicherheitswarnung, nachdem mehrere mutmaßliche Sabotage- und Spionagefälle mit Bezug zu staatlichen Akteuren bekannt wurden. Militärische Einrichtungen, die Rüstungsgüter für die Ukraine oder die eigene Landesverteidigung lagern, gelten als besonders sensible Ziele.\n\nDie zeitliche Nähe zur Explosion in Leipzig, deren Hintergründe noch nicht vollständig aufgeklärt sind, lässt die Behörden einen möglichen Zusammenhang prüfen. Experten warnen, dass hybride Bedrohungsszenarien mit Drohnen schwer zu unterbinden sind, solange klare rechtliche und technische Gegenmaßnahmen fehlen.",
+          "tag": "Sicherheit",
+          "emoji": "🚁",
           "quelle": "BBC",
-          "quelle_url": "https://www.bbc.co.uk/news/articles/cewr898jy8go?at_medium=RSS&at_campaign=rss"
+          "quelle_url": "https://www.bbc.co.uk/news/articles/cwyeg1ljp2eo?at_medium=RSS&at_campaign=rss"
         },
         {
           "id": "politik-2",
-          "titel": "Spanien–Italien-Streit: Grenzkontrollen wegen Ceuta-Migration",
-          "zusammenfassung": "Spanien hat als Reaktion auf italienische Grenzkontrollen seinerseits Kontrollen an der Grenze zu Italien eingeführt. Auslöser ist ein massiver Migrationsanstrom von rund 78.000 Menschen aus Marokko in die spanische Exklave Ceuta.",
-          "bedeutung": "Der Konflikt zwischen zwei der größten EU-Mitgliedstaaten stellt die europäische Freizügigkeit im Schengen-Raum erneut auf die Probe und offenbart strukturelle Schwächen in der gemeinsamen Migrationspolitik.",
-          "hintergrund": "Die spanische Exklave Ceuta, die an Marokko grenzt, verzeichnete zuletzt einen dramatischen Anstieg irregulärer Grenzübertritte. Die Situation belastet nicht nur die lokalen Behörden, sondern auch die diplomatischen Beziehungen innerhalb der Europäischen Union.\n\nItalien reagierte zunächst mit Grenzkontrollen, um eine Weiterbewegung der Migranten zu verhindern, woraufhin Spanien mit Gegenseitigkeit antwortete. Der Vorfall verdeutlicht, wie nationale Alleingänge einzelner EU-Staaten die kollektiven Abkommen des Schengen-Verbunds unter Druck setzen.",
-          "tag": "Migration Europa",
-          "emoji": "🛂",
+          "titel": "Kanada: Waldbrand außer Kontrolle – Evakuierung droht",
+          "zusammenfassung": "Ein Waldbrand im britisch-kolumbianischen Bald-Range-Gebiet hat bereits eine Fläche von rund 136 Quadratkilometern erfasst und gilt weiterhin als unkontrolliert. Behörden forderten Anwohner auf, sich auf eine mögliche Evakuierung vorzubereiten.",
+          "bedeutung": "Großflächige Waldbrände in British Columbia bedrohen nicht nur Menschenleben, sondern belasten auch Kanadas Forstwirtschaft und verstärken die globale Debatte über den Klimawandel.",
+          "hintergrund": "Die Feuersaison 2026 trifft Kanadas Westküste mit ungewöhnlicher Frühzeitigkeit und Intensität. Experten führen die eskalierende Lage auf anhaltende Hitzewellen und Trockenheit zurück, die durch den Klimawandel begünstigt werden.\n\nBritish Columbia hat in den vergangenen Jahren wiederholt Rekorde bei Waldbrandflächen verzeichnet. Internationale Feuerwehrteams und Hubschrauberstaffeln sind im Einsatz, doch der Wind und die trockenen Bedingungen erschweren jede Eindämmung erheblich.",
+          "tag": "Waldbrand",
+          "emoji": "🔥",
           "quelle": "BBC",
-          "quelle_url": "https://www.bbc.co.uk/news/articles/c5yv5l6yr5ko?at_medium=RSS&at_campaign=rss"
+          "quelle_url": "https://www.bbc.co.uk/news/articles/cx25dkwk3e3o?at_medium=RSS&at_campaign=rss"
         }
       ]
     },
@@ -49,36 +49,14 @@
       "stories": [
         {
           "id": "wirtschaft-0",
-          "titel": "US-Jobmarkt schwächelt: Stellen unerwartet gefallen",
-          "zusammenfassung": "Im Juli gingen in den USA überraschend 23.000 Stellen verloren, während Analysten einen Zuwachs von 83.000 erwartet hatten. Die Arbeitslosenquote sank jedoch leicht, was die Lage für Ökonomen schwer einzuschätzen macht.",
-          "bedeutung": "Ein unerwartet schwacher Arbeitsmarkt in der größten Volkswirtschaft der Welt sendet gemischte Signale über den Zustand der globalen Konjunktur und beeinflusst die künftige Zinspolitik der US-Notenbank direkt.",
-          "hintergrund": "Die Julizahlen überraschten Märkte und Beobachter gleichermaßen und befeuerten Spekulationen darüber, ob die US-Wirtschaft in eine Abkühlungsphase eintritt. Parallel gesunkene Energiepreise hatten zuvor für vorsichtigen Optimismus gesorgt.\n\nDie Daten kommen zu einem Zeitpunkt, an dem die Federal Reserve unter Druck steht, ihre Zinspolitik neu zu kalibrieren. Ein sich abschwächender Arbeitsmarkt könnte Argumente für eine Zinspause oder sogar eine Senkung stärken.",
-          "tag": "Konjunktur USA",
-          "emoji": "📉",
-          "quelle": "BBC",
-          "quelle_url": "https://www.bbc.co.uk/news/articles/c20j5rle717o?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "id": "wirtschaft-1",
-          "titel": "Meta zu fast einer Milliarde Dollar Strafe verurteilt",
-          "zusammenfassung": "Ein Gericht verhängte gegen Meta eine Geldbuße von 567 Millionen Dollar im Rahmen eines Verfahrens zum Schutz von Kindern im Internet. Zusammen mit einer früheren Strafe aus demselben Fall beläuft sich die Gesamtsumme auf rund 942 Millionen Dollar.",
-          "bedeutung": "Das Urteil ist das bislang größte seiner Art gegen einen Social-Media-Konzern in Fragen des Kinderschutzes und dürfte weltweit als Präzedenzfall für künftige Regulierungsverfahren dienen.",
-          "hintergrund": "Der Fall steht im Kontext einer globalen Verschärfung der Regulierung von Technologiekonzernen, die beschuldigt werden, den Schutz minderjähriger Nutzer unzureichend zu gewährleisten. Behörden in mehreren Ländern haben ähnliche Verfahren eingeleitet oder angekündigt.\n\nFür Meta bedeutet das Urteil nicht nur eine erhebliche finanzielle Belastung, sondern auch einen weiteren Reputationsschaden. Beobachter erwarten, dass das Unternehmen seine Compliance-Strukturen im Bereich Kinderschutz deutlich ausbauen muss, um weiteren Strafmaßnahmen zu entgehen.",
-          "tag": "Big Tech Regulierung",
-          "emoji": "🛡️",
-          "quelle": "BBC",
-          "quelle_url": "https://www.bbc.co.uk/news/articles/cd7lz3wr2rlo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "id": "wirtschaft-2",
-          "titel": "Trump zahlt deutschem RWE 1,2 Milliarden für Windstopp",
-          "zusammenfassung": "Die US-Regierung zahlt dem deutschen Energiekonzern RWE 1,2 Milliarden Dollar als Entschädigung für den Abbruch geplanter Windenergieprojekte in den Vereinigten Staaten. Die Transaktion reiht sich in eine Serie ähnlicher Vereinbarungen ein, mit denen die Trump-Administration erneuerbare Energien systematisch zurückdrängt.",
-          "bedeutung": "Die milliardenschwere Abstandszahlung an ein europäisches Unternehmen verdeutlicht die wirtschaftlichen und politischen Kosten der anti-erneuerbaren Energiepolitik der Trump-Regierung auf internationaler Ebene.",
-          "hintergrund": "RWE hatte im Rahmen der Energiewende erhebliche Investitionen in den US-amerikanischen Windmarkt getätigt und galt als einer der größten ausländischen Investoren in diesem Sektor. Der Rückzug der US-Regierung aus Windenergieprojekten hat das Unternehmen nun zu einer kostspieligen Neuausrichtung gezwungen.\n\nDer Vorfall wirft Fragen über die Verlässlichkeit der USA als Investitionsstandort für europäische Unternehmen im Bereich sauberer Energien auf. Experten warnen, dass solche Entschädigungszahlungen letztlich den amerikanischen Steuerzahler belasten.",
-          "tag": "Energiepolitik",
-          "emoji": "💨",
-          "quelle": "BBC",
-          "quelle_url": "https://www.bbc.co.uk/news/articles/c1e1vg0gjl5o?at_medium=RSS&at_campaign=rss"
+          "titel": "Berkshire Hathaway steigert Gewinn – Abel investiert Milliarden",
+          "zusammenfassung": "Berkshire Hathaway hat im abgelaufenen Quartal deutlich höhere Gewinne ausgewiesen, getragen von starken Ergebnissen in den Bereichen Energie, Eisenbahn und Industrie. Neu-CEO Greg Abel beginnt erstmals, den legendären Barreserven-Berg seines Vorgängers Warren Buffett aktiv zu investieren.",
+          "bedeutung": "Wie Abel das gewaltige Kapital des Konglomerats einsetzt, wird weltweit als Indikator für die Attraktivität verschiedener Anlageklassen und die Konjunkturerwartungen der Wall Street gelesen.",
+          "hintergrund": "Warren Buffett hatte Berkshire Hathaway jahrelang mit einer ungewöhnlich hohen Kassenposition geführt und damit auf günstige Kaufgelegenheiten gewartet. Sein Nachfolger Abel steht nun vor der Aufgabe, diese Strategie fortzuführen und gleichzeitig Stärke im operativen Geschäft zu beweisen.\n\nDie schwächeren Versicherungsergebnisse mahnen zur Vorsicht, doch die breite Diversifikation des Konzerns federt solche Schwankungen ab. Beobachter achten nun genau darauf, in welche Sektoren Abel investiert – dies könnte Signalwirkung für institutionelle Anleger weltweit haben.",
+          "tag": "Berkshire",
+          "emoji": "💼",
+          "quelle": "CNBC",
+          "quelle_url": "https://www.cnbc.com/2026/08/08/berkshire-hathaway-earnings-q2-2026.html"
         }
       ]
     },
@@ -89,34 +67,12 @@
       "stories": [
         {
           "id": "boerse-0",
-          "titel": "Fed-Zinserhöhung im September? Jobbericht dämpft Erwartungen",
-          "zusammenfassung": "Nach dem enttäuschenden US-Arbeitsmarktbericht für Juli sind die Markterwartungen an eine Zinserhöhung der Federal Reserve im September deutlich gesunken. Ein schwächerer Jobmarkt untergräbt die Argumente jener Fed-Mitglieder, die angesichts gestiegener Energiepreise für höhere Zinsen plädiert hatten.",
-          "bedeutung": "Die Zinspolitik der US-Notenbank ist der wichtigste Einzelfaktor für die globalen Kapital- und Anleihemärkte – jede Verschiebung der Erwartungen bewegt Indizes weltweit.",
-          "hintergrund": "Zuletzt hatte ein Anstieg der Energiepreise Inflationssorgen angeheizt und einige Fed-Vertreter veranlasst, öffentlich über weitere Zinserhöhungen nachzudenken. Die schwachen Julizahlen liefern nun ein Gegenargument, das die Diskussion innerhalb des Offenmarktausschusses neu entfachen dürfte.\n\nFür Anleger bedeutet die veränderte Zinsprognose zunächst Erleichterung, doch die anhaltende Unsicherheit über die künftige Geldpolitik bleibt ein belastender Faktor für die Märkte. Risikoreichere Anlageklassen dürften kurzfristig von der gedämpften Zinserhöhungserwartung profitieren.",
-          "tag": "Geldpolitik",
-          "emoji": "🏦",
-          "quelle": "CNBC",
-          "quelle_url": "https://www.cnbc.com/2026/08/07/odds-the-fed-hikes-in-september-tumble-following-big-july-jobs-miss.html"
-        },
-        {
-          "id": "boerse-1",
-          "titel": "Berkshire glänzt: Abel beginnt Buffetts Milliarden einzusetzen",
-          "zusammenfassung": "Berkshire Hathaway verzeichnete im abgelaufenen Quartal gestiegene Gewinne, getragen von starken Ergebnissen in den Bereichen Energie, Eisenbahn und verarbeitendes Gewerbe. Neu-CEO Greg Abel beginnt damit, die gewaltigen Barreserven des Konglomerats schrittweise zu investieren.",
-          "bedeutung": "Berkshire Hathaway gilt als Seismograph der US-Realwirtschaft – wie und wohin Abel die riesigen Cashreserven lenkt, ist ein vielbeachtetes Signal für Anleger weltweit.",
-          "hintergrund": "Warren Buffett hatte über Jahre hinweg eine gigantische Bargeldreserve angehäuft, weil er keine attraktiven Investitionsmöglichkeiten zu vertretbaren Preisen sah. Sein Nachfolger Greg Abel steht nun vor der Aufgabe, dieses Kapital gewinnbringend und strategisch klug zu platzieren.\n\nDie schwächeren Versicherungsergebnisse, die durch Unwetterkatastrophen belastet wurden, konnten durch die Stärke der anderen Geschäftsbereiche mehr als ausgeglichen werden. Beobachter werten die ersten Investitionsschritte Abels als Zeichen, dass er bereit ist, das Erbe Buffetts aktiv weiterzuschreiben.",
-          "tag": "Berkshire Hathaway",
-          "emoji": "📊",
-          "quelle": "CNBC",
-          "quelle_url": "https://www.cnbc.com/2026/08/08/berkshire-hathaway-earnings-q2-2026.html"
-        },
-        {
-          "id": "boerse-2",
-          "titel": "CLO-ETFs: Neue Risikoklasse gewinnt an Interesse",
-          "zusammenfassung": "In der ETF-Branche wächst das Interesse an sogenannten Collateralized Loan Obligations als Grundlage neuer Fondsprodukte. Anhaltende Unsicherheit über die Zinsentwicklung macht diese risikobehafteten Anlageformen für Investoren auf der Suche nach Rendite attraktiver.",
-          "bedeutung": "Die Ausbreitung komplexer Kreditverbriefungen in breit zugängliche ETF-Strukturen könnte Risiken in das Privatanleger-Segment tragen, die bislang institutionellen Investoren vorbehalten waren.",
-          "hintergrund": "CLOs bündeln eine Vielzahl von Unternehmenskrediten und tranchieren das damit verbundene Ausfallrisiko. Bislang galten sie als Domäne großer institutioneller Investoren wie Pensionsfonds und Versicherungen – die Verpackung in ETFs würde sie einem wesentlich breiteren Publikum zugänglich machen.\n\nKritikerInnen warnen vor einer Unterschätzung der Komplexität und der Liquiditätsrisiken solcher Produkte im Retailbereich. Regulatoren in den USA und Europa beobachten die Entwicklung mit wachsender Aufmerksamkeit.",
-          "tag": "ETF Märkte",
-          "emoji": "🏗️",
+          "titel": "CLO-ETFs: Riskante Anlageklasse auf dem Vormarsch",
+          "zusammenfassung": "In der ETF-Branche gewinnen Produkte auf Basis sogenannter Collateralized Loan Obligations (CLOs) an Zugkraft, da Anleger angesichts anhaltender Zinsunsicherheit nach renditestarken Alternativen suchen. Marktbeobachter sehen darin den nächsten großen Wachstumsschub für die ohnehin boomende ETF-Industrie.",
+          "bedeutung": "CLO-ETFs könnten Risikokapital in ein komplexes Segment des Kreditmarkts lenken und die Debatte über Regulierung und Transparenz neu entfachen.",
+          "hintergrund": "CLOs bündeln Unternehmenskredite häufig minderer Bonität und strukturieren sie in Tranchen unterschiedlicher Risikoklassen. Lange waren sie institutionellen Investoren vorbehalten; die Verpackung in ETF-Form macht sie nun einem breiteren Anlegerpublikum zugänglich.\n\nKritiker warnen, dass Privatanleger die eingebetteten Risiken dieser Produkte unterschätzen könnten, insbesondere in einem Umfeld, in dem Zentralbanken ihre Zinspolitik noch nicht klar festgelegt haben. Die Nachfrage spiegelt jedoch wider, wie dringend Märkte nach Rendite jenseits klassischer Staatsanleihen suchen.",
+          "tag": "ETF-Markt",
+          "emoji": "📈",
           "quelle": "CNBC",
           "quelle_url": "https://www.cnbc.com/2026/08/08/rate-uncertainty-sparking-demand-for-clo-exposure-among-etfs-vettafi.html"
         }
