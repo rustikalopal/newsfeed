@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-10T02:39:16.782363+00:00",
-  "datum": "Montag, 10. August 2026",
+  "generated_at": "2026-08-11T02:33:07.162445+00:00",
+  "datum": "Dienstag, 11. August 2026",
   "ressorts": [
     {
       "id": "politik",
@@ -9,36 +9,36 @@
       "stories": [
         {
           "id": "politik-0",
-          "titel": "Netanjahu lehnt Trumps Gaza-Plan kategorisch ab",
-          "zusammenfassung": "Israels Ministerpräsident hat einen 15-Punkte-Friedensplan der US-Regierung zurückgewiesen und erklärt, die israelischen Streitkräfte würden Gaza erst verlassen, wenn die Hamas vollständig entwaffnet sei. Damit gerät der diplomatische Prozess zur Beendigung des Gaza-Krieges erneut ins Stocken.",
-          "bedeutung": "Die Ablehnung des Plans durch den engsten Verbündeten der USA gefährdet den gesamten Vermittlungsprozess und erhöht den Druck auf die internationale Gemeinschaft.",
-          "hintergrund": "Die Trump-Administration hatte zuletzt intensiv an einem Rahmenplan gearbeitet, der einen schrittweisen israelischen Rückzug aus Gaza mit einem Waffenstillstand verbinden sollte. Netanjahus Absage macht deutlich, wie tief die Differenzen zwischen Washington und Jerusalem über die Bedingungen eines möglichen Kriegsendes nach wie vor sind.\n\nFür die palästinensische Zivilbevölkerung, die seit Monaten unter katastrophalen humanitären Bedingungen leidet, bedeutet die anhaltende Blockade politischer Lösungen weitere Ungewissheit. Auch die Verhandlungsposition der Hamas dürfte durch die israelische Kompromisslosigkeit kaum weicher werden.",
-          "tag": "Gaza-Krieg",
-          "emoji": "🕊️",
+          "titel": "Schweres Erdbeben in Kolumbien fordert über 130 Tote",
+          "zusammenfassung": "Ein Erdbeben der Stärke 7,4 erschütterte die kolumbianische Pazifikregion Chocó und tötete mindestens 132 Menschen. Die Erschütterungen waren in Städten Hunderte Kilometer entfernt zu spüren.",
+          "bedeutung": "Das Beben ist eines der schwersten Naturereignisse in Kolumbien seit Jahren und dürfte massive humanitäre Hilfe erfordern.",
+          "hintergrund": "Das Epizentrum lag in der strukturschwachen und schwer zugänglichen Provinz Chocó an der Pazifikküste – einer Region, die ohnehin zu den ärmsten Kolumbiens zählt. Die Kombination aus schlechter Infrastruktur und der Stärke des Bebens erschwert die Rettungsarbeiten erheblich.\n\nKolumbien liegt im sogenannten Pazifischen Feuerring, einem der seismisch aktivsten Gebiete der Welt. Internationale Hilfsorganisationen mobilisieren erste Einsatzteams; die Zahl der Opfer dürfte noch steigen, da entlegene Gebiete noch nicht vollständig erreicht wurden.",
+          "tag": "Naturkatastrophe",
+          "emoji": "🌎",
           "quelle": "BBC",
-          "quelle_url": "https://www.bbc.co.uk/news/articles/c5yw4lpe0yeo?at_medium=RSS&at_campaign=rss"
+          "quelle_url": "https://www.bbc.co.uk/news/articles/c20e360lx0vo?at_medium=RSS&at_campaign=rss"
         },
         {
           "id": "politik-1",
-          "titel": "Drohnen über deutschem Militärstützpunkt aufgespürt",
-          "zusammenfassung": "Wenige Tage nach einem Bombenvorfall in Leipzig wurden unbemannte Flugkörper über einem deutschen Militärgelände gesichtet, das Berichten zufolge Komponenten des Patriot-Raketenabwehrsystems beherbergt. Die Polizei hat Ermittlungen aufgenommen.",
-          "bedeutung": "Der Vorfall reiht sich in eine Serie sicherheitsrelevanter Ereignisse rund um deutsche Militärinfrastruktur ein und wirft erneut Fragen zur Spionageabwehr in der Nato auf.",
-          "hintergrund": "Deutschland steht seit Monaten unter erhöhter Sicherheitswarnung, nachdem mehrere mutmaßliche Sabotage- und Spionagefälle mit Bezug zu staatlichen Akteuren bekannt wurden. Militärische Einrichtungen, die Rüstungsgüter für die Ukraine oder die eigene Landesverteidigung lagern, gelten als besonders sensible Ziele.\n\nDie zeitliche Nähe zur Explosion in Leipzig, deren Hintergründe noch nicht vollständig aufgeklärt sind, lässt die Behörden einen möglichen Zusammenhang prüfen. Experten warnen, dass hybride Bedrohungsszenarien mit Drohnen schwer zu unterbinden sind, solange klare rechtliche und technische Gegenmaßnahmen fehlen.",
-          "tag": "Sicherheit",
+          "titel": "Ukraine trifft Russland tief im Landesinneren",
+          "zusammenfassung": "Bei einem ukrainischen Drohnenangriff weit im russischen Hinterland kamen mindestens 13 Menschen ums Leben, rund 75 weitere wurden verletzt. Russische Behörden bezeichnen es als einen der tödlichsten derartigen Angriffe seit Kriegsbeginn.",
+          "bedeutung": "Der Angriff zeigt, dass die Ukraine ihre Reichweite und Schlagkraft bei Drohnenoperationen deutlich ausgebaut hat, was den Krieg auch auf russisches Territorium ausweitet.",
+          "hintergrund": "Seit Beginn der russischen Vollinvasion im Februar 2022 hat die Ukraine schrittweise ihre Drohnenkapazitäten erweitert und setzt diese zunehmend für Angriffe auf strategisch bedeutsame Ziele tief in Russland ein. Diese Eskalation zielt darauf ab, den Krieg für die russische Bevölkerung spürbar zu machen und die Logistik des Gegners zu stören.\n\nDer jüngste Angriff dürfte den diplomatischen Druck auf westliche Verbündete erhöhen, da Russland ihn erneut als Rechtfertigung für Gegenschläge auf ukrainische Städte nutzen könnte. Gleichzeitig demonstriert die Ukraine, dass sie trotz anhaltender Ressourcenknappheit handlungsfähig bleibt.",
+          "tag": "Ukraine-Krieg",
           "emoji": "🚁",
           "quelle": "BBC",
-          "quelle_url": "https://www.bbc.co.uk/news/articles/cwyeg1ljp2eo?at_medium=RSS&at_campaign=rss"
+          "quelle_url": "https://www.bbc.co.uk/news/articles/cvgjvgv926po?at_medium=RSS&at_campaign=rss"
         },
         {
           "id": "politik-2",
-          "titel": "Kanada: Waldbrand außer Kontrolle – Evakuierung droht",
-          "zusammenfassung": "Ein Waldbrand im britisch-kolumbianischen Bald-Range-Gebiet hat bereits eine Fläche von rund 136 Quadratkilometern erfasst und gilt weiterhin als unkontrolliert. Behörden forderten Anwohner auf, sich auf eine mögliche Evakuierung vorzubereiten.",
-          "bedeutung": "Großflächige Waldbrände in British Columbia bedrohen nicht nur Menschenleben, sondern belasten auch Kanadas Forstwirtschaft und verstärken die globale Debatte über den Klimawandel.",
-          "hintergrund": "Die Feuersaison 2026 trifft Kanadas Westküste mit ungewöhnlicher Frühzeitigkeit und Intensität. Experten führen die eskalierende Lage auf anhaltende Hitzewellen und Trockenheit zurück, die durch den Klimawandel begünstigt werden.\n\nBritish Columbia hat in den vergangenen Jahren wiederholt Rekorde bei Waldbrandflächen verzeichnet. Internationale Feuerwehrteams und Hubschrauberstaffeln sind im Einsatz, doch der Wind und die trockenen Bedingungen erschweren jede Eindämmung erheblich.",
-          "tag": "Waldbrand",
-          "emoji": "🔥",
+          "titel": "Trump schränkt Kinderimpfungen per Dekret ein",
+          "zusammenfassung": "US-Präsident Trump unterzeichnete eine Anordnung, die Impfempfehlungen für Kinder einschränkt und unter anderem die Aufspaltung des kombinierten Masern-Mumps-Röteln-Impfstoffs vorsieht. Führende Kinderärzte warnen, die Maßnahme sei gefährlich für die öffentliche Gesundheit.",
+          "bedeutung": "Die Anordnung gefährdet jahrzehntelang aufgebaute Impfquoten und könnte weltweit als Signal für impfkritische Bewegungen wirken.",
+          "hintergrund": "Der MMR-Impfstoff gilt als eines der wirksamsten und sichersten Präventionsinstrumente der modernen Medizin. Eine Aufspaltung in Einzelimpfstoffe würde den Impfkalender verkomplizieren und Eltern vor logistische Hürden stellen, was Experten zufolge die Durchimpfungsrate senken würde.\n\nDie Entscheidung reiht sich in die gesundheitspolitische Agenda der Trump-Administration unter Gesundheitsminister Robert F. Kennedy Jr. ein, der seit Langem skeptisch gegenüber Impfprogrammen ist. Fachgesellschaften wie die American Academy of Pediatrics warnen vor einem möglichen Wiederaufflammen von Krankheiten, die als weitgehend überwunden galten.",
+          "tag": "Gesundheitspolitik",
+          "emoji": "💉",
           "quelle": "BBC",
-          "quelle_url": "https://www.bbc.co.uk/news/articles/cx25dkwk3e3o?at_medium=RSS&at_campaign=rss"
+          "quelle_url": "https://www.bbc.co.uk/news/articles/ce3q5vl581wo?at_medium=RSS&at_campaign=rss"
         }
       ]
     },
@@ -49,14 +49,36 @@
       "stories": [
         {
           "id": "wirtschaft-0",
-          "titel": "Berkshire Hathaway steigert Gewinn – Abel investiert Milliarden",
-          "zusammenfassung": "Berkshire Hathaway hat im abgelaufenen Quartal deutlich höhere Gewinne ausgewiesen, getragen von starken Ergebnissen in den Bereichen Energie, Eisenbahn und Industrie. Neu-CEO Greg Abel beginnt erstmals, den legendären Barreserven-Berg seines Vorgängers Warren Buffett aktiv zu investieren.",
-          "bedeutung": "Wie Abel das gewaltige Kapital des Konglomerats einsetzt, wird weltweit als Indikator für die Attraktivität verschiedener Anlageklassen und die Konjunkturerwartungen der Wall Street gelesen.",
-          "hintergrund": "Warren Buffett hatte Berkshire Hathaway jahrelang mit einer ungewöhnlich hohen Kassenposition geführt und damit auf günstige Kaufgelegenheiten gewartet. Sein Nachfolger Abel steht nun vor der Aufgabe, diese Strategie fortzuführen und gleichzeitig Stärke im operativen Geschäft zu beweisen.\n\nDie schwächeren Versicherungsergebnisse mahnen zur Vorsicht, doch die breite Diversifikation des Konzerns federt solche Schwankungen ab. Beobachter achten nun genau darauf, in welche Sektoren Abel investiert – dies könnte Signalwirkung für institutionelle Anleger weltweit haben.",
-          "tag": "Berkshire",
-          "emoji": "💼",
-          "quelle": "CNBC",
-          "quelle_url": "https://www.cnbc.com/2026/08/08/berkshire-hathaway-earnings-q2-2026.html"
+          "titel": "KI und die 90-Stunden-Woche: Versprechen versus Realität",
+          "zusammenfassung": "Führungskräfte großer Technologiekonzerne behaupten, Künstliche Intelligenz werde Arbeit massiv reduzieren – doch ihre eigenen Mitarbeiter berichten von Wochen mit bis zu 90 Arbeitsstunden. Der Widerspruch zwischen Unternehmensrhetorik und gelebtem Arbeitsalltag wächst.",
+          "bedeutung": "Die Diskrepanz untergräbt das Vertrauen in die gesellschaftlichen Versprechen der KI-Industrie und wirft grundlegende Fragen zur Arbeitskultur im Technologiesektor auf.",
+          "hintergrund": "Unternehmen wie Microsoft, Google und OpenAI vermarkten KI-Tools als Produktivitätsmultiplikatoren, die Arbeitnehmer entlasten sollen. Intern zeigt sich jedoch ein anderes Bild: Hoher Wettbewerbsdruck, schnelle Produktzyklen und der Anspruch, an der Spitze einer historischen Technologiewelle zu sein, treiben die tatsächliche Arbeitsbelastung in die Höhe.\n\nKritiker sehen darin ein strukturelles Glaubwürdigkeitsproblem der Branche. Wenn ausgerechnet jene Unternehmen, die KI als Befreiung von Routinearbeit anpreisen, ihre eigene Belegschaft in Überstunden treiben, stellt sich die Frage, wem die Produktivitätsgewinne tatsächlich zugutekommen.",
+          "tag": "Arbeitswelt",
+          "emoji": "🤖",
+          "quelle": "BBC",
+          "quelle_url": "https://www.bbc.co.uk/news/articles/cvgx4yd1gl2o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "id": "wirtschaft-1",
+          "titel": "Bezos-Konsortium verhandelt über Liverpool-FC-Anteile",
+          "zusammenfassung": "Eine Investorengruppe unter Beteiligung von Amazon-Gründer Jeff Bezos führt konkrete Gespräche über den Erwerb von rund 30 Prozent der Anteile am englischen Premier-League-Klub FC Liverpool. Der Deal würde den Klub mit mehreren Milliarden Euro bewerten.",
+          "bedeutung": "Das potenzielle Engagement eines der reichsten Menschen der Welt im europäischen Spitzenfußball steht exemplarisch für den anhaltenden Kapitalzufluss aus dem Tech-Sektor in den Sport.",
+          "hintergrund": "Der FC Liverpool gehört seit 2010 der amerikanischen Fenway Sports Group und zählt zu den wertvollsten Fußballklubs der Welt. Ein Teilverkauf an ein Konsortium mit Bezos-Beteiligung würde die Kapitalstruktur des Vereins grundlegend verändern und neue strategische Möglichkeiten etwa in den Bereichen Medienrechte und digitale Vermarktung eröffnen.\n\nDer Vorgang reiht sich in eine breitere Entwicklung ein, bei der Tech-Milliardäre und Private-Equity-Investoren den europäischen Fußball als attraktives Anlagefeld entdecken. Kritiker warnen vor einer weiteren Kommerzialisierung des Sports, während Befürworter auf mögliche Investitionen in Infrastruktur und Nachwuchsförderung hoffen.",
+          "tag": "Sport & Kapital",
+          "emoji": "⚽",
+          "quelle": "BBC",
+          "quelle_url": "https://www.bbc.co.uk/sport/football/articles/cgljd4kny9eo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "id": "wirtschaft-2",
+          "titel": "Salmonellen-Rückruf trifft Tausende US-Supermärkte",
+          "zusammenfassung": "Der US-amerikanische Lebensmittelproduzent Taylor Farms ruft Jalapeño-haltige Sandwiches, Soßen und Dips in 26 Bundesstaaten zurück, nachdem ein Salmonellen-Ausbruch festgestellt wurde. Verbraucher werden aufgefordert, betroffene Produkte sofort zu entsorgen.",
+          "bedeutung": "Der weiträumige Rückruf eines Großproduzenten verdeutlicht die Verwundbarkeit moderner, hochzentralisierter Lebensmittellieferketten.",
+          "hintergrund": "Taylor Farms ist einer der größten Frischkost-Zulieferer in den Vereinigten Staaten und beliefert zahlreiche namhafte Supermarktketten sowie Schnellrestaurants. Ein Rückruf dieser Größenordnung hat nicht nur direkte Auswirkungen auf betroffene Verbraucher, sondern belastet auch das Vertrauen in industriell verarbeitete Convenienceprodukte.\n\nSalmonellen-Ausbrüche in der Lebensmittelindustrie häufen sich in den USA, was Experten auch auf den zunehmenden Kostendruck bei Qualitätskontrollen zurückführen. Die US-Lebensmittelbehörde FDA ermittelt zur genauen Kontaminationsquelle.",
+          "tag": "Lebensmittelsicherheit",
+          "emoji": "🥗",
+          "quelle": "BBC",
+          "quelle_url": "https://www.bbc.co.uk/news/articles/cgljd9p6027o?at_medium=RSS&at_campaign=rss"
         }
       ]
     },
@@ -67,14 +89,25 @@
       "stories": [
         {
           "id": "boerse-0",
-          "titel": "CLO-ETFs: Riskante Anlageklasse auf dem Vormarsch",
-          "zusammenfassung": "In der ETF-Branche gewinnen Produkte auf Basis sogenannter Collateralized Loan Obligations (CLOs) an Zugkraft, da Anleger angesichts anhaltender Zinsunsicherheit nach renditestarken Alternativen suchen. Marktbeobachter sehen darin den nächsten großen Wachstumsschub für die ohnehin boomende ETF-Industrie.",
-          "bedeutung": "CLO-ETFs könnten Risikokapital in ein komplexes Segment des Kreditmarkts lenken und die Debatte über Regulierung und Transparenz neu entfachen.",
-          "hintergrund": "CLOs bündeln Unternehmenskredite häufig minderer Bonität und strukturieren sie in Tranchen unterschiedlicher Risikoklassen. Lange waren sie institutionellen Investoren vorbehalten; die Verpackung in ETF-Form macht sie nun einem breiteren Anlegerpublikum zugänglich.\n\nKritiker warnen, dass Privatanleger die eingebetteten Risiken dieser Produkte unterschätzen könnten, insbesondere in einem Umfeld, in dem Zentralbanken ihre Zinspolitik noch nicht klar festgelegt haben. Die Nachfrage spiegelt jedoch wider, wie dringend Märkte nach Rendite jenseits klassischer Staatsanleihen suchen.",
-          "tag": "ETF-Markt",
+          "titel": "Nvidia sichert sich 500 Milliarden Dollar Finanzierung",
+          "zusammenfassung": "Chip-Gigant Nvidia hat eine Finanzierungslinie von 500 Milliarden US-Dollar arrangiert und positioniert seine Hardware damit als bankfähige Anlageklasse. Konzernchef Jensen Huang argumentiert, die breite Adoption und Übertragbarkeit der Chips mache sie zu zuverlässigen Sicherheiten.",
+          "bedeutung": "Wenn KI-Chips als Finanzierungsgrundlage akzeptiert werden, könnte dies das Tempo des KI-Infrastrukturausbaus erheblich beschleunigen und neue Finanzierungsmodelle in der Tech-Industrie etablieren.",
+          "hintergrund": "Nvidia ist zum zentralen Profiteur des globalen KI-Booms geworden und liefert die Grafikprozessoren, auf die Rechenzentren rund um den Globus angewiesen sind. Die nun arrangierte Finanzierung nutzt die Marktdurchdringung der eigenen Chips als Argument gegenüber Kreditgebern – ein Novum in dieser Größenordnung.\n\nDas Konzept, Rechenkapazität ähnlich wie Immobilien oder Maschinenparks als beleihbares Anlagevermögen zu behandeln, könnte Schule machen. Analysten sehen darin zugleich ein Signal, dass institutionelle Investoren die KI-Infrastruktur als langfristig stabile Assetklasse begreifen – trotz zuletzt volatiler Technologiemärkte.",
+          "tag": "KI-Finanzierung",
+          "emoji": "💹",
+          "quelle": "CNBC",
+          "quelle_url": "https://www.cnbc.com/2026/08/10/nvidia-wall-street-asset-managers-500-billion-ai-push.html"
+        },
+        {
+          "id": "boerse-1",
+          "titel": "Goldman Sachs rät: Trotz Risiken investiert bleiben",
+          "zusammenfassung": "Ashok Varadhan, Co-Chef des globalen Banken- und Marktgeschäfts bei Goldman Sachs, nannte drei zentrale Argumente für eine weiterhin konstruktive Haltung gegenüber den Kapitalmärkten. Die Bank empfiehlt Investoren trotz globaler Unsicherheiten, investiert zu bleiben.",
+          "bedeutung": "Wenn eine der einflussreichsten Investmentbanken der Welt öffentlich zur Investitionszurückhaltung rät zu widersprechen, hat das unmittelbare Signalwirkung auf institutionelle Anleger weltweit.",
+          "hintergrund": "Goldman Sachs gilt als Stimmungsbarometer für professionelle Investoren. Die aktuelle Empfehlung fällt in ein Marktumfeld, das von geopolitischen Spannungen, anhaltenden Zinsdiskussionen der Notenbanken und Unsicherheiten rund um KI-Bewertungen geprägt ist.\n\nVarious strukturelle Faktoren – darunter robuste Unternehmensgewinne in den USA, nachlassender Inflationsdruck und die Perspektive auf weitere Zinssenkungen durch die Federal Reserve – bilden laut Varadhan die Grundlage für den optimistischen Ausblick. Kurzfristige Volatilität sollte laut Goldman nicht als Ausstiegssignal gewertet werden.",
+          "tag": "Marktausblick",
           "emoji": "📈",
           "quelle": "CNBC",
-          "quelle_url": "https://www.cnbc.com/2026/08/08/rate-uncertainty-sparking-demand-for-clo-exposure-among-etfs-vettafi.html"
+          "quelle_url": "https://www.cnbc.com/2026/08/10/three-reasons-goldmans-co-head-of-global-banking-and-markets-says-to-stay-invested.html"
         }
       ]
     }
