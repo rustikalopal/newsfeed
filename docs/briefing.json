@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-11T02:33:07.162445+00:00",
-  "datum": "Dienstag, 11. August 2026",
+  "generated_at": "2026-08-12T00:03:29.531388+00:00",
+  "datum": "Mittwoch, 12. August 2026",
   "ressorts": [
     {
       "id": "politik",
@@ -9,36 +9,36 @@
       "stories": [
         {
           "id": "politik-0",
-          "titel": "Schweres Erdbeben in Kolumbien fordert über 130 Tote",
-          "zusammenfassung": "Ein Erdbeben der Stärke 7,4 erschütterte die kolumbianische Pazifikregion Chocó und tötete mindestens 132 Menschen. Die Erschütterungen waren in Städten Hunderte Kilometer entfernt zu spüren.",
-          "bedeutung": "Das Beben ist eines der schwersten Naturereignisse in Kolumbien seit Jahren und dürfte massive humanitäre Hilfe erfordern.",
-          "hintergrund": "Das Epizentrum lag in der strukturschwachen und schwer zugänglichen Provinz Chocó an der Pazifikküste – einer Region, die ohnehin zu den ärmsten Kolumbiens zählt. Die Kombination aus schlechter Infrastruktur und der Stärke des Bebens erschwert die Rettungsarbeiten erheblich.\n\nKolumbien liegt im sogenannten Pazifischen Feuerring, einem der seismisch aktivsten Gebiete der Welt. Internationale Hilfsorganisationen mobilisieren erste Einsatzteams; die Zahl der Opfer dürfte noch steigen, da entlegene Gebiete noch nicht vollständig erreicht wurden.",
+          "titel": "Erdbeben in Kolumbien: Retter suchen nach Überlebenden",
+          "zusammenfassung": "Nach einem schweren Erdbeben in Kolumbien sind mindestens 180 Menschen ums Leben gekommen. Rettungskräfte arbeiten weiter unter erschwerten Bedingungen, während Nachbeben die Region erschüttern.",
+          "bedeutung": "Die Katastrophe offenbart erneut die Verwundbarkeit dicht besiedelter Gebiete entlang aktiver Verwerfungszonen Lateinamerikas.",
+          "hintergrund": "Kolumbien liegt im sogenannten Pazifischen Feuerring und ist regelmäßig von seismischen Ereignissen betroffen. Das aktuelle Beben gehört zu den schwersten der jüngeren Geschichte des Landes und hat ganze Ortschaften verwüstet.\n\nDie internationale Gemeinschaft hat Hilfsangebote signalisiert, während lokale Behörden den Ausnahmezustand ausgerufen haben. Die Versorgung abgeschnittener Gemeinden mit Trinkwasser und medizinischer Hilfe gilt als vordringliche Aufgabe.",
           "tag": "Naturkatastrophe",
           "emoji": "🌎",
           "quelle": "BBC",
-          "quelle_url": "https://www.bbc.co.uk/news/articles/c20e360lx0vo?at_medium=RSS&at_campaign=rss"
+          "quelle_url": "https://www.bbc.co.uk/news/articles/c20dqd9qwq4o?at_medium=RSS&at_campaign=rss"
         },
         {
           "id": "politik-1",
-          "titel": "Ukraine trifft Russland tief im Landesinneren",
-          "zusammenfassung": "Bei einem ukrainischen Drohnenangriff weit im russischen Hinterland kamen mindestens 13 Menschen ums Leben, rund 75 weitere wurden verletzt. Russische Behörden bezeichnen es als einen der tödlichsten derartigen Angriffe seit Kriegsbeginn.",
-          "bedeutung": "Der Angriff zeigt, dass die Ukraine ihre Reichweite und Schlagkraft bei Drohnenoperationen deutlich ausgebaut hat, was den Krieg auch auf russisches Territorium ausweitet.",
-          "hintergrund": "Seit Beginn der russischen Vollinvasion im Februar 2022 hat die Ukraine schrittweise ihre Drohnenkapazitäten erweitert und setzt diese zunehmend für Angriffe auf strategisch bedeutsame Ziele tief in Russland ein. Diese Eskalation zielt darauf ab, den Krieg für die russische Bevölkerung spürbar zu machen und die Logistik des Gegners zu stören.\n\nDer jüngste Angriff dürfte den diplomatischen Druck auf westliche Verbündete erhöhen, da Russland ihn erneut als Rechtfertigung für Gegenschläge auf ukrainische Städte nutzen könnte. Gleichzeitig demonstriert die Ukraine, dass sie trotz anhaltender Ressourcenknappheit handlungsfähig bleibt.",
-          "tag": "Ukraine-Krieg",
-          "emoji": "🚁",
+          "titel": "USA beschießen Schiff im Golf von Oman",
+          "zusammenfassung": "Ein US-Militärhubschrauber hat ein unter panamaischer Flagge fahrendes Frachtschiff im Golf von Oman mit Raketen beschossen und dessen Maschinenraum außer Gefecht gesetzt. Das Schiff soll versucht haben, eine von Iran verhängte Blockade zu durchbrechen.",
+          "bedeutung": "Der Vorfall markiert eine gefährliche Eskalationsstufe im Spannungsfeld zwischen den USA und Iran in einer der weltweit wichtigsten Schifffahrtsregionen.",
+          "hintergrund": "Der Golf von Oman und die angrenzende Straße von Hormus gelten als strategisch sensible Wasserstraßen, durch die ein erheblicher Teil des globalen Öltransports verläuft. Spannungen zwischen US-Streitkräften und iranisch beeinflussten Akteuren in der Region haben in den vergangenen Monaten wiederholt zu Zwischenfällen geführt.\n\nDie US-Streitkräfte betonten, die Aktion sei verhältnismäßig gewesen, um die Durchfahrt sicherzustellen. Iran hat bislang nicht offiziell auf den Vorfall reagiert, was Beobachter als Zeichen werten, dass Teheran eine weitere Eskalation vorerst vermeiden will.",
+          "tag": "Militär",
+          "emoji": "⚓",
           "quelle": "BBC",
-          "quelle_url": "https://www.bbc.co.uk/news/articles/cvgjvgv926po?at_medium=RSS&at_campaign=rss"
+          "quelle_url": "https://www.bbc.co.uk/news/articles/cvg8lyyyjedo?at_medium=RSS&at_campaign=rss"
         },
         {
           "id": "politik-2",
-          "titel": "Trump schränkt Kinderimpfungen per Dekret ein",
-          "zusammenfassung": "US-Präsident Trump unterzeichnete eine Anordnung, die Impfempfehlungen für Kinder einschränkt und unter anderem die Aufspaltung des kombinierten Masern-Mumps-Röteln-Impfstoffs vorsieht. Führende Kinderärzte warnen, die Maßnahme sei gefährlich für die öffentliche Gesundheit.",
-          "bedeutung": "Die Anordnung gefährdet jahrzehntelang aufgebaute Impfquoten und könnte weltweit als Signal für impfkritische Bewegungen wirken.",
-          "hintergrund": "Der MMR-Impfstoff gilt als eines der wirksamsten und sichersten Präventionsinstrumente der modernen Medizin. Eine Aufspaltung in Einzelimpfstoffe würde den Impfkalender verkomplizieren und Eltern vor logistische Hürden stellen, was Experten zufolge die Durchimpfungsrate senken würde.\n\nDie Entscheidung reiht sich in die gesundheitspolitische Agenda der Trump-Administration unter Gesundheitsminister Robert F. Kennedy Jr. ein, der seit Langem skeptisch gegenüber Impfprogrammen ist. Fachgesellschaften wie die American Academy of Pediatrics warnen vor einem möglichen Wiederaufflammen von Krankheiten, die als weitgehend überwunden galten.",
-          "tag": "Gesundheitspolitik",
-          "emoji": "💉",
+          "titel": "Nordkoreanische Raketen treffen Ukraine, sagt Selenskyj",
+          "zusammenfassung": "Der ukrainische Präsident Wolodymyr Selenskyj hat erklärt, Russland habe bei Angriffen auf die Region Saporischschja ballistische Raketen nordkoreanischer Herkunft eingesetzt, bei denen sieben Menschen getötet wurden. Dies unterstreiche die tiefe militärische Verflechtung zwischen Moskau und Pjöngjang.",
+          "bedeutung": "Die mutmaßliche Nutzung nordkoreanischer Waffen durch Russland weitet den Konflikt geopolitisch aus und stellt westliche Sanktionsregime vor neue Herausforderungen.",
+          "hintergrund": "Bereits in den vergangenen Monaten haben westliche Geheimdienste und ukrainische Stellen Hinweise gesammelt, dass Nordkorea Russland mit Munition und militärischem Gerät versorgt. Die Lieferung ballistischer Raketen, sofern bestätigt, würde eine neue Qualität dieser Kooperation darstellen.\n\nFür die internationale Gemeinschaft stellt sich damit verstärkt die Frage, wie dem Technologietransfer zwischen Pjöngjang und Moskau begegnet werden kann, ohne dabei eigene diplomatische Spielräume zu verspielen.",
+          "tag": "Ukraine-Krieg",
+          "emoji": "🚀",
           "quelle": "BBC",
-          "quelle_url": "https://www.bbc.co.uk/news/articles/ce3q5vl581wo?at_medium=RSS&at_campaign=rss"
+          "quelle_url": "https://www.bbc.co.uk/news/articles/c151dpzwnvxo?at_medium=RSS&at_campaign=rss"
         }
       ]
     },
@@ -49,36 +49,36 @@
       "stories": [
         {
           "id": "wirtschaft-0",
-          "titel": "KI und die 90-Stunden-Woche: Versprechen versus Realität",
-          "zusammenfassung": "Führungskräfte großer Technologiekonzerne behaupten, Künstliche Intelligenz werde Arbeit massiv reduzieren – doch ihre eigenen Mitarbeiter berichten von Wochen mit bis zu 90 Arbeitsstunden. Der Widerspruch zwischen Unternehmensrhetorik und gelebtem Arbeitsalltag wächst.",
-          "bedeutung": "Die Diskrepanz untergräbt das Vertrauen in die gesellschaftlichen Versprechen der KI-Industrie und wirft grundlegende Fragen zur Arbeitskultur im Technologiesektor auf.",
-          "hintergrund": "Unternehmen wie Microsoft, Google und OpenAI vermarkten KI-Tools als Produktivitätsmultiplikatoren, die Arbeitnehmer entlasten sollen. Intern zeigt sich jedoch ein anderes Bild: Hoher Wettbewerbsdruck, schnelle Produktzyklen und der Anspruch, an der Spitze einer historischen Technologiewelle zu sein, treiben die tatsächliche Arbeitsbelastung in die Höhe.\n\nKritiker sehen darin ein strukturelles Glaubwürdigkeitsproblem der Branche. Wenn ausgerechnet jene Unternehmen, die KI als Befreiung von Routinearbeit anpreisen, ihre eigene Belegschaft in Überstunden treiben, stellt sich die Frage, wem die Produktivitätsgewinne tatsächlich zugutekommen.",
-          "tag": "Arbeitswelt",
-          "emoji": "🤖",
+          "titel": "Wall Street finanziert Nvidias KI-Boom mit 500 Milliarden",
+          "zusammenfassung": "Führende Wall-Street-Institute stellen Nvidia gemeinsam rund 500 Milliarden US-Dollar bereit, um den Ausbau von Rechenzentren für Künstliche Intelligenz zu beschleunigen. Das Kapital soll in Infrastruktur fließen, die den wachsenden Datenhunger von KI-Systemen stillen soll.",
+          "bedeutung": "Die beispiellose Finanzierungssumme verdeutlicht, wie sehr der KI-Sektor die globale Investitionslandschaft umstrukturiert und traditionelle Branchen in den Schatten stellt.",
+          "hintergrund": "Rechenzentren für KI-Anwendungen erfordern nicht nur enorme Mengen an Nvidia-Grafikprozessoren, sondern auch komplexe Kühlsysteme und leistungsfähige Energieversorgung. Der weltweite Wettlauf um KI-Rechenkapazität hat eine Investitionswelle ausgelöst, die Experten mit früheren Infrastrukturbooms wie dem Eisenbahnbau vergleichen.\n\nKritiker warnen allerdings vor einer möglichen Überhitzung des Sektors und fragen, ob die enorme Infrastruktur rechtzeitig profitabel betrieben werden kann. Die Frage der Chip-Abschreibung und der geopolitischen Risiken durch mögliche Exportbeschränkungen gegenüber China bleibt dabei zentral.",
+          "tag": "KI-Investition",
+          "emoji": "💡",
           "quelle": "BBC",
-          "quelle_url": "https://www.bbc.co.uk/news/articles/cvgx4yd1gl2o?at_medium=RSS&at_campaign=rss"
+          "quelle_url": "https://www.bbc.co.uk/news/articles/c78gr0jv0mdo?at_medium=RSS&at_campaign=rss"
         },
         {
           "id": "wirtschaft-1",
-          "titel": "Bezos-Konsortium verhandelt über Liverpool-FC-Anteile",
-          "zusammenfassung": "Eine Investorengruppe unter Beteiligung von Amazon-Gründer Jeff Bezos führt konkrete Gespräche über den Erwerb von rund 30 Prozent der Anteile am englischen Premier-League-Klub FC Liverpool. Der Deal würde den Klub mit mehreren Milliarden Euro bewerten.",
-          "bedeutung": "Das potenzielle Engagement eines der reichsten Menschen der Welt im europäischen Spitzenfußball steht exemplarisch für den anhaltenden Kapitalzufluss aus dem Tech-Sektor in den Sport.",
-          "hintergrund": "Der FC Liverpool gehört seit 2010 der amerikanischen Fenway Sports Group und zählt zu den wertvollsten Fußballklubs der Welt. Ein Teilverkauf an ein Konsortium mit Bezos-Beteiligung würde die Kapitalstruktur des Vereins grundlegend verändern und neue strategische Möglichkeiten etwa in den Bereichen Medienrechte und digitale Vermarktung eröffnen.\n\nDer Vorgang reiht sich in eine breitere Entwicklung ein, bei der Tech-Milliardäre und Private-Equity-Investoren den europäischen Fußball als attraktives Anlagefeld entdecken. Kritiker warnen vor einer weiteren Kommerzialisierung des Sports, während Befürworter auf mögliche Investitionen in Infrastruktur und Nachwuchsförderung hoffen.",
-          "tag": "Sport & Kapital",
-          "emoji": "⚽",
+          "titel": "Firmen zahlen bis zu 100.000 Dollar für Truth-Social-Daten",
+          "zusammenfassung": "Mehr als zehn Unternehmen sollen monatlich bis zu 100.000 US-Dollar für bevorzugten Zugang zu Beiträgen auf Truth Social bezahlen, der Plattform von Trump Media. Der Dienst soll eine neue Einnahmequelle erschließen, während das Unternehmen weiterhin Quartalsverluste meldet.",
+          "bedeutung": "Der Fall wirft grundlegende Fragen über die Monetarisierung politischer Kommunikation und mögliche Interessenkonflikte bei einer Plattform auf, die eng mit einem amtierenden politischen Akteur verbunden ist.",
+          "hintergrund": "Truth Social war ursprünglich als Alternative zu etablierten sozialen Netzwerken konzipiert und richtet sich vor allem an konservative Nutzer in den USA. Die neue Premiumdatenfunktion ermöglicht Abonnenten früheren Zugriff auf Postings, was angesichts der politischen Reichweite der Plattform erhebliche Marktrelevanz haben kann.\n\nKritiker sehen darin ein problematisches Geschäftsmodell, das politischen Einfluss direkt in kommerzielle Vorteile verwandelt. Regulierungsbehörden und Medienrechtsexperten beobachten die Entwicklung aufmerksam.",
+          "tag": "Medienwirtschaft",
+          "emoji": "📱",
           "quelle": "BBC",
-          "quelle_url": "https://www.bbc.co.uk/sport/football/articles/cgljd4kny9eo?at_medium=RSS&at_campaign=rss"
+          "quelle_url": "https://www.bbc.co.uk/news/articles/ce3q5nxpgk1o?at_medium=RSS&at_campaign=rss"
         },
         {
           "id": "wirtschaft-2",
-          "titel": "Salmonellen-Rückruf trifft Tausende US-Supermärkte",
-          "zusammenfassung": "Der US-amerikanische Lebensmittelproduzent Taylor Farms ruft Jalapeño-haltige Sandwiches, Soßen und Dips in 26 Bundesstaaten zurück, nachdem ein Salmonellen-Ausbruch festgestellt wurde. Verbraucher werden aufgefordert, betroffene Produkte sofort zu entsorgen.",
-          "bedeutung": "Der weiträumige Rückruf eines Großproduzenten verdeutlicht die Verwundbarkeit moderner, hochzentralisierter Lebensmittellieferketten.",
-          "hintergrund": "Taylor Farms ist einer der größten Frischkost-Zulieferer in den Vereinigten Staaten und beliefert zahlreiche namhafte Supermarktketten sowie Schnellrestaurants. Ein Rückruf dieser Größenordnung hat nicht nur direkte Auswirkungen auf betroffene Verbraucher, sondern belastet auch das Vertrauen in industriell verarbeitete Convenienceprodukte.\n\nSalmonellen-Ausbrüche in der Lebensmittelindustrie häufen sich in den USA, was Experten auch auf den zunehmenden Kostendruck bei Qualitätskontrollen zurückführen. Die US-Lebensmittelbehörde FDA ermittelt zur genauen Kontaminationsquelle.",
-          "tag": "Lebensmittelsicherheit",
-          "emoji": "🥗",
+          "titel": "KI-Kosten kaum kontrollierbar: Preisfindung bleibt schwierig",
+          "zusammenfassung": "Unternehmen, die KI-Dienste nutzen, kämpfen zunehmend damit, ihre Ausgaben zu begrenzen, während Anbieter selbst unsicher sind, wie sie ihre Leistungen angemessen bepreisen sollen. Das Missverhältnis droht zu einer strukturellen Bremse für die KI-Adoption zu werden.",
+          "bedeutung": "Die ungeklärte Preisfrage im KI-Sektor könnte Unternehmen weltweit in ihrer digitalen Transformation hemmen und zu einer Konsolidierung unter wenigen marktdominanten Anbietern führen.",
+          "hintergrund": "Während die Rechenkosten für KI-Modelle in den vergangenen Jahren gesunken sind, steigen die Gesamtkosten für Unternehmen durch höhere Nutzungsvolumina und komplexere Anwendungsfälle oft schneller als erwartet. Die Branche experimentiert mit verschiedenen Abrechnungsmodellen, von nutzungsbasierter Abrechnung bis hin zu Pauschallizenzen.\n\nFür kleine und mittlere Unternehmen ist die Planungsunsicherheit besonders hoch, da sie im Gegensatz zu Großkonzernen weniger Verhandlungsmacht gegenüber Anbietern besitzen. Ökonomen erwarten, dass sich in den nächsten Jahren ein neues Preisgleichgewicht herausbilden wird.",
+          "tag": "KI-Ökonomie",
+          "emoji": "🤖",
           "quelle": "BBC",
-          "quelle_url": "https://www.bbc.co.uk/news/articles/cgljd9p6027o?at_medium=RSS&at_campaign=rss"
+          "quelle_url": "https://www.bbc.co.uk/news/articles/c872r52x7jgo?at_medium=RSS&at_campaign=rss"
         }
       ]
     },
@@ -89,23 +89,34 @@
       "stories": [
         {
           "id": "boerse-0",
-          "titel": "Nvidia sichert sich 500 Milliarden Dollar Finanzierung",
-          "zusammenfassung": "Chip-Gigant Nvidia hat eine Finanzierungslinie von 500 Milliarden US-Dollar arrangiert und positioniert seine Hardware damit als bankfähige Anlageklasse. Konzernchef Jensen Huang argumentiert, die breite Adoption und Übertragbarkeit der Chips mache sie zu zuverlässigen Sicherheiten.",
-          "bedeutung": "Wenn KI-Chips als Finanzierungsgrundlage akzeptiert werden, könnte dies das Tempo des KI-Infrastrukturausbaus erheblich beschleunigen und neue Finanzierungsmodelle in der Tech-Industrie etablieren.",
-          "hintergrund": "Nvidia ist zum zentralen Profiteur des globalen KI-Booms geworden und liefert die Grafikprozessoren, auf die Rechenzentren rund um den Globus angewiesen sind. Die nun arrangierte Finanzierung nutzt die Marktdurchdringung der eigenen Chips als Argument gegenüber Kreditgebern – ein Novum in dieser Größenordnung.\n\nDas Konzept, Rechenkapazität ähnlich wie Immobilien oder Maschinenparks als beleihbares Anlagevermögen zu behandeln, könnte Schule machen. Analysten sehen darin zugleich ein Signal, dass institutionelle Investoren die KI-Infrastruktur als langfristig stabile Assetklasse begreifen – trotz zuletzt volatiler Technologiemärkte.",
-          "tag": "KI-Finanzierung",
-          "emoji": "💹",
+          "titel": "US-Inflationsdaten im Fokus: Fed wartet auf Signal",
+          "zusammenfassung": "Der am Mittwoch erwartete US-Verbraucherpreisindex für Juli dürfte laut Analysten nur einen moderaten Anstieg zeigen. Die Daten werden als entscheidend für die weitere Zinspolitik der US-Notenbank Federal Reserve eingestuft.",
+          "bedeutung": "Die Inflationszahlen könnten darüber entscheiden, ob die Fed noch in diesem Herbst mit Zinssenkungen beginnt und damit die globalen Finanzmärkte spürbar bewegt.",
+          "hintergrund": "Die Märkte befinden sich seit Monaten in einem Abwärtszyklus der Inflationserwartungen, nachdem die aggressiven Zinserhöhungen der vergangenen Jahre Wirkung gezeigt haben. Eine erneut niedrige Inflationsrate würde den Druck auf die Fed erhöhen, ihre restriktive Geldpolitik zu lockern.\n\nGleichzeitig mahnen einige Ökonomen zur Vorsicht, da strukturelle Preistreiber wie anhaltend hohe Mietkosten und Lohnwachstum im Dienstleistungssektor eine vollständige Entwarnung noch nicht erlauben.",
+          "tag": "Zinspolitik",
+          "emoji": "📊",
           "quelle": "CNBC",
-          "quelle_url": "https://www.cnbc.com/2026/08/10/nvidia-wall-street-asset-managers-500-billion-ai-push.html"
+          "quelle_url": "https://www.cnbc.com/2026/08/11/an-inflation-report-wednesday-should-be-a-big-deal-for-the-fed-heres-what-to-expect.html"
         },
         {
           "id": "boerse-1",
-          "titel": "Goldman Sachs rät: Trotz Risiken investiert bleiben",
-          "zusammenfassung": "Ashok Varadhan, Co-Chef des globalen Banken- und Marktgeschäfts bei Goldman Sachs, nannte drei zentrale Argumente für eine weiterhin konstruktive Haltung gegenüber den Kapitalmärkten. Die Bank empfiehlt Investoren trotz globaler Unsicherheiten, investiert zu bleiben.",
-          "bedeutung": "Wenn eine der einflussreichsten Investmentbanken der Welt öffentlich zur Investitionszurückhaltung rät zu widersprechen, hat das unmittelbare Signalwirkung auf institutionelle Anleger weltweit.",
-          "hintergrund": "Goldman Sachs gilt als Stimmungsbarometer für professionelle Investoren. Die aktuelle Empfehlung fällt in ein Marktumfeld, das von geopolitischen Spannungen, anhaltenden Zinsdiskussionen der Notenbanken und Unsicherheiten rund um KI-Bewertungen geprägt ist.\n\nVarious strukturelle Faktoren – darunter robuste Unternehmensgewinne in den USA, nachlassender Inflationsdruck und die Perspektive auf weitere Zinssenkungen durch die Federal Reserve – bilden laut Varadhan die Grundlage für den optimistischen Ausblick. Kurzfristige Volatilität sollte laut Goldman nicht als Ausstiegssignal gewertet werden.",
-          "tag": "Marktausblick",
+          "titel": "CME startet Futures auf KI-Rechenleistung ab Oktober",
+          "zusammenfassung": "Die Chicago Mercantile Exchange plant, ab dem 5. Oktober in Kooperation mit Silicon Data zwei neuartige Terminkontrakte auf Rechenleistung für KI einzuführen. Die Produkte stehen noch unter behördlichem Vorbehalt.",
+          "bedeutung": "Wird KI-Rechenleistung zur handelbaren Anlageklasse, könnte dies die Finanzierung und Preissetzung von Technologieinvestitionen weltweit grundlegend verändern.",
+          "hintergrund": "Die Idee, Computerkapazität ähnlich wie Rohstoffe an Terminmärkten zu handeln, ist nicht neu, scheiterte aber bisher an mangelnder Standardisierung. Der Vorstoß der CME signalisiert, dass die Branche nun reif genug für solche Instrumente sein könnte.\n\nFür institutionelle Investoren eröffnet dies neue Möglichkeiten zur Absicherung von Technologieinvestitionen, birgt aber auch Risiken durch die rasche technologische Alterung von KI-Hardware, was die Bewertung der Kontrakte erheblich erschwert.",
+          "tag": "KI-Märkte",
           "emoji": "📈",
+          "quelle": "CNBC",
+          "quelle_url": "https://www.cnbc.com/2026/08/11/ai-computing-power-becomes-a-tradable-asset-class-as-cme-starts-futures.html"
+        },
+        {
+          "id": "boerse-2",
+          "titel": "Goldman Sachs: Drei Gründe, investiert zu bleiben",
+          "zusammenfassung": "Der Co-Chef des globalen Bereichs Banking und Markets bei Goldman Sachs, Ashok Varadhan, hat drei strukturelle Argumente vorgebracht, warum Anleger trotz geopolitischer Unsicherheiten an ihren Marktpositionen festhalten sollten. Er zeichnet insgesamt ein konstruktives Bild für die zweite Jahreshälfte.",
+          "bedeutung": "Wenn eine der einflussreichsten Investmentbanken der Welt öffentlich zu Gelassenheit mahnt, hat das Signalwirkung für institutionelle Anleger rund um den Globus.",
+          "hintergrund": "Goldman Sachs gilt als Stimmungsbarometer für das Vertrauen professioneller Marktteilnehmer. In Phasen erhöhter Volatilität kommt solchen Einschätzungen besondere Bedeutung zu, da sie Kapitalflüsse maßgeblich beeinflussen können.\n\nVaradhans Argumentation stützt sich Berichten zufolge auf die robusten Unternehmensgewinne, eine sich stabilisierende Inflation und die anhaltende Nachfrage nach KI-Infrastruktur als Wachstumstreiber. Kritische Gegenstimmen verweisen indes auf geopolitische Risiken und die noch ungeklärten Folgen einer möglichen Zinswende.",
+          "tag": "Marktausblick",
+          "emoji": "🏦",
           "quelle": "CNBC",
           "quelle_url": "https://www.cnbc.com/2026/08/10/three-reasons-goldmans-co-head-of-global-banking-and-markets-says-to-stay-invested.html"
         }
