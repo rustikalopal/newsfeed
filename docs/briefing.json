@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-12T00:03:29.531388+00:00",
-  "datum": "Mittwoch, 12. August 2026",
+  "generated_at": "2026-08-13T00:02:00.591963+00:00",
+  "datum": "Donnerstag, 13. August 2026",
   "ressorts": [
     {
       "id": "politik",
@@ -9,36 +9,36 @@
       "stories": [
         {
           "id": "politik-0",
-          "titel": "Erdbeben in Kolumbien: Retter suchen nach Überlebenden",
-          "zusammenfassung": "Nach einem schweren Erdbeben in Kolumbien sind mindestens 180 Menschen ums Leben gekommen. Rettungskräfte arbeiten weiter unter erschwerten Bedingungen, während Nachbeben die Region erschüttern.",
-          "bedeutung": "Die Katastrophe offenbart erneut die Verwundbarkeit dicht besiedelter Gebiete entlang aktiver Verwerfungszonen Lateinamerikas.",
-          "hintergrund": "Kolumbien liegt im sogenannten Pazifischen Feuerring und ist regelmäßig von seismischen Ereignissen betroffen. Das aktuelle Beben gehört zu den schwersten der jüngeren Geschichte des Landes und hat ganze Ortschaften verwüstet.\n\nDie internationale Gemeinschaft hat Hilfsangebote signalisiert, während lokale Behörden den Ausnahmezustand ausgerufen haben. Die Versorgung abgeschnittener Gemeinden mit Trinkwasser und medizinischer Hilfe gilt als vordringliche Aufgabe.",
-          "tag": "Naturkatastrophe",
-          "emoji": "🌎",
+          "titel": "Angriffe auf Getreidehäfen verschärfen globale Versorgungskrise",
+          "zusammenfassung": "Ukrainische und russische Streitkräfte haben gegenseitig wichtige Getreideexportterminals am Schwarzen Meer angegriffen und dabei erhebliche Schäden an Verladeanlagen verursacht. Die Getreidexporte beider Länder gehen infolge der eskalierenden Angriffe auf Hafen- und Schifffahrtsinfrastruktur spürbar zurück.",
+          "bedeutung": "Da Russland und die Ukraine gemeinsam rund ein Drittel des weltweiten Weizenhandels bestreiten, bedrohen die Ausfälle die Ernährungssicherheit in Dutzenden importabhängiger Staaten.",
+          "hintergrund": "Die Schwarzmeerregion gilt seit Jahrzehnten als eine der bedeutendsten Getreidekammern der Welt. Seit Beginn des russischen Angriffskrieges 2022 stand die Aufrechterhaltung der Exportwege immer wieder im Mittelpunkt internationaler Vermittlungsbemühungen – zuletzt scheiterte die Verlängerung des Getreideabkommens, was die Lage weiter destabilisierte.\n\nMit den nun gemeldeten gezielten Angriffen auf Terminalanlagen auf beiden Seiten droht eine neue Eskalationsstufe, die nicht nur die Marktpreise für Weizen und Mais treibt, sondern besonders ärmere Länder in Nordafrika und im Nahen Osten vor akute Versorgungsengpässe stellen könnte.",
+          "tag": "Getreidekrise",
+          "emoji": "🌾",
           "quelle": "BBC",
-          "quelle_url": "https://www.bbc.co.uk/news/articles/c20dqd9qwq4o?at_medium=RSS&at_campaign=rss"
+          "quelle_url": "https://www.bbc.co.uk/news/articles/c5y49xp2wrno?at_medium=RSS&at_campaign=rss"
         },
         {
           "id": "politik-1",
-          "titel": "USA beschießen Schiff im Golf von Oman",
-          "zusammenfassung": "Ein US-Militärhubschrauber hat ein unter panamaischer Flagge fahrendes Frachtschiff im Golf von Oman mit Raketen beschossen und dessen Maschinenraum außer Gefecht gesetzt. Das Schiff soll versucht haben, eine von Iran verhängte Blockade zu durchbrechen.",
-          "bedeutung": "Der Vorfall markiert eine gefährliche Eskalationsstufe im Spannungsfeld zwischen den USA und Iran in einer der weltweit wichtigsten Schifffahrtsregionen.",
-          "hintergrund": "Der Golf von Oman und die angrenzende Straße von Hormus gelten als strategisch sensible Wasserstraßen, durch die ein erheblicher Teil des globalen Öltransports verläuft. Spannungen zwischen US-Streitkräften und iranisch beeinflussten Akteuren in der Region haben in den vergangenen Monaten wiederholt zu Zwischenfällen geführt.\n\nDie US-Streitkräfte betonten, die Aktion sei verhältnismäßig gewesen, um die Durchfahrt sicherzustellen. Iran hat bislang nicht offiziell auf den Vorfall reagiert, was Beobachter als Zeichen werten, dass Teheran eine weitere Eskalation vorerst vermeiden will.",
-          "tag": "Militär",
+          "titel": "Fährunglück am Kariba-See fordert mindestens 44 Todesopfer",
+          "zusammenfassung": "Eine Fähre ist auf dem Kariba-See in Simbabwe nach heftigen Wellenschlägen gekentert und gesunken, wobei nach bisherigen Erkenntnissen mindestens 44 Menschen ums Leben kamen. Rettungskräfte suchen weiterhin nach Vermissten in dem großen Stausee an der Grenze zu Sambia.",
+          "bedeutung": "Das Unglück zählt zu den schwersten Schiffskatastrophen im südlichen Afrika seit Jahren und wirft erneut Fragen nach Sicherheitsstandards im regionalen Fährverkehr auf.",
+          "hintergrund": "Der Kariba-See erstreckt sich über rund 5.400 Quadratkilometer und ist eines der größten künstlichen Gewässer der Welt. Fähren stellen für viele Anwohner die einzige Verbindung zwischen abgelegenen Küstengemeinden dar, wobei Sicherheitskontrollen und Wartungsstandards laut Beobachtern häufig unzureichend sind.\n\nÄhnliche Tragödien haben sich in der Region in der Vergangenheit mehrfach ereignet, ohne dass es zu durchgreifenden Reformen im Schifffahrtswesen gekommen wäre. Internationale Organisationen fordern seit Langem verbindliche Kapazitäts- und Sicherheitskontrollen für den Binnenschiffsverkehr in Subsahara-Afrika.",
+          "tag": "Schiffsunglück",
           "emoji": "⚓",
           "quelle": "BBC",
-          "quelle_url": "https://www.bbc.co.uk/news/articles/cvg8lyyyjedo?at_medium=RSS&at_campaign=rss"
+          "quelle_url": "https://www.bbc.co.uk/news/articles/czxe2vyxd7do?at_medium=RSS&at_campaign=rss"
         },
         {
           "id": "politik-2",
-          "titel": "Nordkoreanische Raketen treffen Ukraine, sagt Selenskyj",
-          "zusammenfassung": "Der ukrainische Präsident Wolodymyr Selenskyj hat erklärt, Russland habe bei Angriffen auf die Region Saporischschja ballistische Raketen nordkoreanischer Herkunft eingesetzt, bei denen sieben Menschen getötet wurden. Dies unterstreiche die tiefe militärische Verflechtung zwischen Moskau und Pjöngjang.",
-          "bedeutung": "Die mutmaßliche Nutzung nordkoreanischer Waffen durch Russland weitet den Konflikt geopolitisch aus und stellt westliche Sanktionsregime vor neue Herausforderungen.",
-          "hintergrund": "Bereits in den vergangenen Monaten haben westliche Geheimdienste und ukrainische Stellen Hinweise gesammelt, dass Nordkorea Russland mit Munition und militärischem Gerät versorgt. Die Lieferung ballistischer Raketen, sofern bestätigt, würde eine neue Qualität dieser Kooperation darstellen.\n\nFür die internationale Gemeinschaft stellt sich damit verstärkt die Frage, wie dem Technologietransfer zwischen Pjöngjang und Moskau begegnet werden kann, ohne dabei eigene diplomatische Spielräume zu verspielen.",
-          "tag": "Ukraine-Krieg",
-          "emoji": "🚀",
+          "titel": "Trump verließ Nato-Gipfel heimlich wegen Iran-Bedrohung",
+          "zusammenfassung": "Der US-Präsident verließ den Nato-Gipfel in der Türkei aus Sicherheitsgründen unbemerkt auf einer anderen Maschine, während Kabinettsmitglieder als Ablenkungsmanöver an Bord des offiziellen Flugzeugs blieben. Hintergrund waren konkrete Hinweise auf eine mögliche Bedrohung durch den Iran.",
+          "bedeutung": "Der Vorfall verdeutlicht das nach wie vor angespannte Sicherheitsumfeld rund um den US-Präsidenten und die anhaltende Konfrontation zwischen Washington und Teheran.",
+          "hintergrund": "Die Spannungen zwischen den USA und dem Iran haben sich in jüngster Zeit merklich verschärft, nachdem Berichte über iranische Anschlagspläne gegen amerikanische Spitzenpolitiker bekannt wurden. Sicherheitsbehörden hatten bereits zuvor entsprechende Warnungen herausgegeben.\n\nDas Ablenkungsmanöver mit dem Scheinflugzeug zeigt, wie ernst der Secret Service die Bedrohungslage einschätzt. Politisch wirft der Vorfall die Frage auf, inwieweit derartige Sicherheitsmaßnahmen die diplomatische Handlungsfähigkeit des Präsidenten auf internationalen Gipfeln einschränken.",
+          "tag": "Sicherheitslage",
+          "emoji": "🛡️",
           "quelle": "BBC",
-          "quelle_url": "https://www.bbc.co.uk/news/articles/c151dpzwnvxo?at_medium=RSS&at_campaign=rss"
+          "quelle_url": "https://www.bbc.co.uk/news/articles/c4g306eln8wo?at_medium=RSS&at_campaign=rss"
         }
       ]
     },
@@ -49,36 +49,36 @@
       "stories": [
         {
           "id": "wirtschaft-0",
-          "titel": "Wall Street finanziert Nvidias KI-Boom mit 500 Milliarden",
-          "zusammenfassung": "Führende Wall-Street-Institute stellen Nvidia gemeinsam rund 500 Milliarden US-Dollar bereit, um den Ausbau von Rechenzentren für Künstliche Intelligenz zu beschleunigen. Das Kapital soll in Infrastruktur fließen, die den wachsenden Datenhunger von KI-Systemen stillen soll.",
-          "bedeutung": "Die beispiellose Finanzierungssumme verdeutlicht, wie sehr der KI-Sektor die globale Investitionslandschaft umstrukturiert und traditionelle Branchen in den Schatten stellt.",
-          "hintergrund": "Rechenzentren für KI-Anwendungen erfordern nicht nur enorme Mengen an Nvidia-Grafikprozessoren, sondern auch komplexe Kühlsysteme und leistungsfähige Energieversorgung. Der weltweite Wettlauf um KI-Rechenkapazität hat eine Investitionswelle ausgelöst, die Experten mit früheren Infrastrukturbooms wie dem Eisenbahnbau vergleichen.\n\nKritiker warnen allerdings vor einer möglichen Überhitzung des Sektors und fragen, ob die enorme Infrastruktur rechtzeitig profitabel betrieben werden kann. Die Frage der Chip-Abschreibung und der geopolitischen Risiken durch mögliche Exportbeschränkungen gegenüber China bleibt dabei zentral.",
-          "tag": "KI-Investition",
-          "emoji": "💡",
+          "titel": "US-Inflation sinkt auf 3,4 Prozent – Druck auf Fed lässt nach",
+          "zusammenfassung": "Die jährliche Inflationsrate in den Vereinigten Staaten fiel im Juli auf 3,4 Prozent, getragen von rückläufigen Energie- und Lebensmittelpreisen. Die Wohnkosten blieben der hartnäckigste Preistreiber und verhinderten einen noch stärkeren Rückgang.",
+          "bedeutung": "Sinkende Inflation erhöht den Spielraum der US-Notenbank Fed für eine frühere Zinssenkung, was globale Kapitalströme und Wechselkurse weltweit beeinflussen würde.",
+          "hintergrund": "Die Fed kämpft seit 2022 mit einer Serie aggressiver Zinserhöhungen gegen die hartnäckig hohe Inflation. Der jüngste Rückgang gibt der Notenbank erstmals seit Monaten greifbare Signale, dass ihre restriktive Geldpolitik Wirkung zeigt – wenngleich das Zwei-Prozent-Ziel noch in weiter Ferne liegt.\n\nBeobachter warnen jedoch, dass die zähen Wohnkosten sowie die inflationären Begleiteffekte des rasant wachsenden KI-Infrastrukturausbaus einen nachhaltigen Disinflationspfad erschweren könnten. Die nächste Fed-Sitzung wird entsprechend mit besonderer Spannung erwartet.",
+          "tag": "US-Inflation",
+          "emoji": "📉",
           "quelle": "BBC",
-          "quelle_url": "https://www.bbc.co.uk/news/articles/c78gr0jv0mdo?at_medium=RSS&at_campaign=rss"
+          "quelle_url": "https://www.bbc.co.uk/news/articles/c0qv2nn1gpeo?at_medium=RSS&at_campaign=rss"
         },
         {
           "id": "wirtschaft-1",
-          "titel": "Firmen zahlen bis zu 100.000 Dollar für Truth-Social-Daten",
-          "zusammenfassung": "Mehr als zehn Unternehmen sollen monatlich bis zu 100.000 US-Dollar für bevorzugten Zugang zu Beiträgen auf Truth Social bezahlen, der Plattform von Trump Media. Der Dienst soll eine neue Einnahmequelle erschließen, während das Unternehmen weiterhin Quartalsverluste meldet.",
-          "bedeutung": "Der Fall wirft grundlegende Fragen über die Monetarisierung politischer Kommunikation und mögliche Interessenkonflikte bei einer Plattform auf, die eng mit einem amtierenden politischen Akteur verbunden ist.",
-          "hintergrund": "Truth Social war ursprünglich als Alternative zu etablierten sozialen Netzwerken konzipiert und richtet sich vor allem an konservative Nutzer in den USA. Die neue Premiumdatenfunktion ermöglicht Abonnenten früheren Zugriff auf Postings, was angesichts der politischen Reichweite der Plattform erhebliche Marktrelevanz haben kann.\n\nKritiker sehen darin ein problematisches Geschäftsmodell, das politischen Einfluss direkt in kommerzielle Vorteile verwandelt. Regulierungsbehörden und Medienrechtsexperten beobachten die Entwicklung aufmerksam.",
-          "tag": "Medienwirtschaft",
-          "emoji": "📱",
+          "titel": "Iran-Konflikt bedroht britisches Wirtschaftswachstum",
+          "zusammenfassung": "Der anhaltende Konflikt im Nahen Osten lässt die Öl- und Kraftstoffpreise steigen und stört internationale Lieferketten, was laut Warnungen britischer Wirtschaftsvertreter das Wachstum des Vereinigten Königreichs im kommenden Jahr erheblich bremsen könnte. Politiker werden aufgefordert, rasch Gegenmaßnahmen zu entwickeln.",
+          "bedeutung": "Die Verflechtung von Energiemärkten und Lieferketten macht den Iran-Konflikt zu einem wirtschaftlichen Risikofaktor weit über die unmittelbare Konfliktregion hinaus.",
+          "hintergrund": "Bereits die Spannungen rund um die Straße von Hormus in den Vorjahren hatten gezeigt, wie empfindlich Europa auf Störungen der Ölversorgung aus dem Persischen Golf reagiert. Steigende Energiepreise schlagen direkt auf Produktionskosten und Verbraucherpreise durch und konterkarieren Bemühungen der Zentralbanken um Preisstabilität.\n\nFür Großbritannien kommt erschwerend hinzu, dass das Land nach dem Brexit ohnehin mit strukturellen Handelshemmnissen kämpft. Ein extern verursachter Kostenschock käme zu einem denkbar ungünstigen Zeitpunkt, in dem die neue Regierung gerade erst wirtschaftspolitische Prioritäten setzt.",
+          "tag": "Energiepreise",
+          "emoji": "🛢️",
           "quelle": "BBC",
-          "quelle_url": "https://www.bbc.co.uk/news/articles/ce3q5nxpgk1o?at_medium=RSS&at_campaign=rss"
+          "quelle_url": "https://www.bbc.co.uk/news/articles/c5y3egv4m4mo?at_medium=RSS&at_campaign=rss"
         },
         {
           "id": "wirtschaft-2",
-          "titel": "KI-Kosten kaum kontrollierbar: Preisfindung bleibt schwierig",
-          "zusammenfassung": "Unternehmen, die KI-Dienste nutzen, kämpfen zunehmend damit, ihre Ausgaben zu begrenzen, während Anbieter selbst unsicher sind, wie sie ihre Leistungen angemessen bepreisen sollen. Das Missverhältnis droht zu einer strukturellen Bremse für die KI-Adoption zu werden.",
-          "bedeutung": "Die ungeklärte Preisfrage im KI-Sektor könnte Unternehmen weltweit in ihrer digitalen Transformation hemmen und zu einer Konsolidierung unter wenigen marktdominanten Anbietern führen.",
-          "hintergrund": "Während die Rechenkosten für KI-Modelle in den vergangenen Jahren gesunken sind, steigen die Gesamtkosten für Unternehmen durch höhere Nutzungsvolumina und komplexere Anwendungsfälle oft schneller als erwartet. Die Branche experimentiert mit verschiedenen Abrechnungsmodellen, von nutzungsbasierter Abrechnung bis hin zu Pauschallizenzen.\n\nFür kleine und mittlere Unternehmen ist die Planungsunsicherheit besonders hoch, da sie im Gegensatz zu Großkonzernen weniger Verhandlungsmacht gegenüber Anbietern besitzen. Ökonomen erwarten, dass sich in den nächsten Jahren ein neues Preisgleichgewicht herausbilden wird.",
-          "tag": "KI-Ökonomie",
-          "emoji": "🤖",
+          "titel": "Tata-Group-Chef legt Vorsitz nieder – Jaguars Zukunft offen",
+          "zusammenfassung": "Natarajan Chandrasekaran, Vorsitzender des indischen Tata-Konzerns und damit auch des Mutterkonzerns von Jaguar Land Rover, wird seinen Posten nach dem Ende seiner laufenden Amtszeit nicht verlängern. Als Grund nannte er fehlende Rückendeckung im Aufsichtsrat von Tata Sons.",
+          "bedeutung": "Der Führungswechsel an der Spitze eines der größten Industriekonglomerate Asiens könnte weitreichende Folgen für Tatas globale Strategie und insbesondere die Elektrifizierungspläne von Jaguar Land Rover haben.",
+          "hintergrund": "Tata Sons ist eines der einflussreichsten Unternehmen Indiens und kontrolliert Beteiligungen in Stahl, IT, Luftfahrt, Automobil und Telekommunikation. Die Übernahme von Jaguar Land Rover im Jahr 2008 gilt als eines der ambitioniertesten Auslandsengagements eines indischen Konzerns.\n\nDerzeit steckt Jaguar Land Rover mitten in einem milliardenschweren Transformationsprozess hin zur Elektromobilität. Ein unerwarteter Führungswechsel an der Konzernspitze könnte Investoren verunsichern und strategische Entscheidungen verzögern – ausgerechnet in einer Phase, in der europäische und britische Automärkte unter wachsendem Konkurrenzdruck chinesischer Elektrofahrzeughersteller stehen.",
+          "tag": "Tata Group",
+          "emoji": "🏭",
           "quelle": "BBC",
-          "quelle_url": "https://www.bbc.co.uk/news/articles/c872r52x7jgo?at_medium=RSS&at_campaign=rss"
+          "quelle_url": "https://www.bbc.co.uk/news/articles/c1512909pgpo?at_medium=RSS&at_campaign=rss"
         }
       ]
     },
@@ -89,36 +89,36 @@
       "stories": [
         {
           "id": "boerse-0",
-          "titel": "US-Inflationsdaten im Fokus: Fed wartet auf Signal",
-          "zusammenfassung": "Der am Mittwoch erwartete US-Verbraucherpreisindex für Juli dürfte laut Analysten nur einen moderaten Anstieg zeigen. Die Daten werden als entscheidend für die weitere Zinspolitik der US-Notenbank Federal Reserve eingestuft.",
-          "bedeutung": "Die Inflationszahlen könnten darüber entscheiden, ob die Fed noch in diesem Herbst mit Zinssenkungen beginnt und damit die globalen Finanzmärkte spürbar bewegt.",
-          "hintergrund": "Die Märkte befinden sich seit Monaten in einem Abwärtszyklus der Inflationserwartungen, nachdem die aggressiven Zinserhöhungen der vergangenen Jahre Wirkung gezeigt haben. Eine erneut niedrige Inflationsrate würde den Druck auf die Fed erhöhen, ihre restriktive Geldpolitik zu lockern.\n\nGleichzeitig mahnen einige Ökonomen zur Vorsicht, da strukturelle Preistreiber wie anhaltend hohe Mietkosten und Lohnwachstum im Dienstleistungssektor eine vollständige Entwarnung noch nicht erlauben.",
-          "tag": "Zinspolitik",
+          "titel": "US-Haushaltsdefizit klettert auf höchsten Stand seit 2021",
+          "zusammenfassung": "Das amerikanische Haushaltsdefizit schnellte im Juli auf den höchsten Monatswert seit März 2021 hoch, während das kumulierte Defizit im laufenden Haushaltsjahr bereits die Marke von 1,8 Billionen Dollar überschritten hat. Damit liegt die Verschuldung deutlich über dem Vergleichszeitraum des Vorjahres.",
+          "bedeutung": "Ein wachsendes Haushaltsdefizit erhöht den Druck auf den Anleihemarkt, treibt die Renditen von US-Staatsanleihen und erschwert der Fed ihre Zinspolitik.",
+          "hintergrund": "Die Kombination aus steigenden Zinszahlungen auf bestehende Schulden, hohen Verteidigungsausgaben und umfangreichen Steuererleichterungen hat den Schuldenanstieg in den vergangenen Monaten beschleunigt. Ratingagenturen hatten bereits in der Vergangenheit vor einer strukturellen Verschlechterung der amerikanischen Haushaltslage gewarnt.\n\nAm Anleihemarkt dürften die Zahlen die Renditen zehnjähriger US-Treasuries weiter unter Aufwärtsdruck setzen, was globale Kapitalkosten erhöht und insbesondere Schwellenländer mit dollardenominierten Schulden belastet.",
+          "tag": "US-Staatsschulden",
           "emoji": "📊",
           "quelle": "CNBC",
-          "quelle_url": "https://www.cnbc.com/2026/08/11/an-inflation-report-wednesday-should-be-a-big-deal-for-the-fed-heres-what-to-expect.html"
+          "quelle_url": "https://www.cnbc.com/2026/08/12/us-budget-deficit-surged-in-july-to-highest-level-since-march-2021.html"
         },
         {
           "id": "boerse-1",
-          "titel": "CME startet Futures auf KI-Rechenleistung ab Oktober",
-          "zusammenfassung": "Die Chicago Mercantile Exchange plant, ab dem 5. Oktober in Kooperation mit Silicon Data zwei neuartige Terminkontrakte auf Rechenleistung für KI einzuführen. Die Produkte stehen noch unter behördlichem Vorbehalt.",
-          "bedeutung": "Wird KI-Rechenleistung zur handelbaren Anlageklasse, könnte dies die Finanzierung und Preissetzung von Technologieinvestitionen weltweit grundlegend verändern.",
-          "hintergrund": "Die Idee, Computerkapazität ähnlich wie Rohstoffe an Terminmärkten zu handeln, ist nicht neu, scheiterte aber bisher an mangelnder Standardisierung. Der Vorstoß der CME signalisiert, dass die Branche nun reif genug für solche Instrumente sein könnte.\n\nFür institutionelle Investoren eröffnet dies neue Möglichkeiten zur Absicherung von Technologieinvestitionen, birgt aber auch Risiken durch die rasche technologische Alterung von KI-Hardware, was die Bewertung der Kontrakte erheblich erschwert.",
-          "tag": "KI-Märkte",
-          "emoji": "📈",
+          "titel": "KI-Bauboom erschwert Feds Kampf gegen Inflation",
+          "zusammenfassung": "Der rasante Ausbau von Rechenzentren und KI-Infrastruktur erzeugt erheblichen Kostendruck in Energie, Baumaterial und Fachkräften, der die Bemühungen der US-Notenbank zur Inflationsbekämpfung unterläuft. Trotz Versprechen der Tech-Branche, KI werde mittelfristig Kosten senken, bleibt der gegenwärtige Investitionsdruck inflationär.",
+          "bedeutung": "Wenn selbst das technologische Zukunftsversprechen der KI zunächst preistreibend wirkt, wird der Weg zu stabilen Preisen für die Fed deutlich steiniger als erwartet.",
+          "hintergrund": "Schätzungen zufolge werden in den nächsten Jahren weltweit Hunderte Milliarden Dollar in neue Datenzentren investiert. Dieser Bau- und Energiehunger konkurriert mit anderen Wirtschaftssektoren um knappe Ressourcen und heizt damit genau jene Preiskomponenten an, die die Fed bislang noch nicht vollständig unter Kontrolle gebracht hat.\n\nBesonders pikant: Ausgerechnet die Technologieunternehmen, die mit KI für einen Produktivitätsschub werben, tragen kurzfristig zur Inflation bei, die die Kaufkraft ihrer Kunden erodiert. Für Investoren stellt sich die Frage, wann der versprochene Effizienzgewinn die inflationären Aufbaukosten überkompensiert.",
+          "tag": "KI-Inflation",
+          "emoji": "🤖",
           "quelle": "CNBC",
-          "quelle_url": "https://www.cnbc.com/2026/08/11/ai-computing-power-becomes-a-tradable-asset-class-as-cme-starts-futures.html"
+          "quelle_url": "https://www.cnbc.com/2026/08/12/ais-costly-buildout-complicates-the-feds-inflation-fight.html"
         },
         {
           "id": "boerse-2",
-          "titel": "Goldman Sachs: Drei Gründe, investiert zu bleiben",
-          "zusammenfassung": "Der Co-Chef des globalen Bereichs Banking und Markets bei Goldman Sachs, Ashok Varadhan, hat drei strukturelle Argumente vorgebracht, warum Anleger trotz geopolitischer Unsicherheiten an ihren Marktpositionen festhalten sollten. Er zeichnet insgesamt ein konstruktives Bild für die zweite Jahreshälfte.",
-          "bedeutung": "Wenn eine der einflussreichsten Investmentbanken der Welt öffentlich zu Gelassenheit mahnt, hat das Signalwirkung für institutionelle Anleger rund um den Globus.",
-          "hintergrund": "Goldman Sachs gilt als Stimmungsbarometer für das Vertrauen professioneller Marktteilnehmer. In Phasen erhöhter Volatilität kommt solchen Einschätzungen besondere Bedeutung zu, da sie Kapitalflüsse maßgeblich beeinflussen können.\n\nVaradhans Argumentation stützt sich Berichten zufolge auf die robusten Unternehmensgewinne, eine sich stabilisierende Inflation und die anhaltende Nachfrage nach KI-Infrastruktur als Wachstumstreiber. Kritische Gegenstimmen verweisen indes auf geopolitische Risiken und die noch ungeklärten Folgen einer möglichen Zinswende.",
-          "tag": "Marktausblick",
-          "emoji": "🏦",
+          "titel": "Elektroautos dominieren Chinas Automarkt – Tesla bleibt stark",
+          "zusammenfassung": "Aktuelle Verkaufsdaten des chinesischen Pkw-Verbands zeigen, dass neue Elektro- und Hybridfahrzeuge im Juli einen Rekordanteil am chinesischen Gesamtmarkt erreicht haben. Teslas Model Y behauptet sich trotz des wachsenden Drucks einheimischer Konkurrenten weiterhin in den Spitzenpositionen.",
+          "bedeutung": "Chinas Elektromobilitätsdurchbruch setzt globale Automobilhersteller unter enormen Innovationsdruck und verändert internationale Lieferketten für Batterierohstoffe nachhaltig.",
+          "hintergrund": "China ist mit Abstand der weltgrößte Automobilmarkt, und die dortige Dynamik bei Elektrofahrzeugen setzt Maßstäbe für Hersteller weltweit. Heimische Marken wie BYD, Li Auto und Huaweis Aito drängen mit aggressiven Preisen und schneller Modellentwicklung auf den Markt und zwingen ausländische Wettbewerber zur Reaktion.\n\nFür internationale Investoren ist der chinesische EV-Markt ein Frühindikator: Die dort durchgesetzten Preispunkte und Technologiestandards dürften binnen weniger Jahre auch europäische und amerikanische Märkte prägen – mit entsprechenden Konsequenzen für Aktienbewertungen klassischer Automobilkonzerne.",
+          "tag": "China-Elektroautos",
+          "emoji": "🚗",
           "quelle": "CNBC",
-          "quelle_url": "https://www.cnbc.com/2026/08/10/three-reasons-goldmans-co-head-of-global-banking-and-markets-says-to-stay-invested.html"
+          "quelle_url": "https://www.cnbc.com/2026/08/12/china-car-sales-data-byd-tesla-geely-vw.html"
         }
       ]
     }
