@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-13T00:02:00.591963+00:00",
-  "datum": "Donnerstag, 13. August 2026",
+  "generated_at": "2026-08-14T00:02:52.983453+00:00",
+  "datum": "Freitag, 14. August 2026",
   "ressorts": [
     {
       "id": "politik",
@@ -9,36 +9,36 @@
       "stories": [
         {
           "id": "politik-0",
-          "titel": "Angriffe auf Getreidehäfen verschärfen globale Versorgungskrise",
-          "zusammenfassung": "Ukrainische und russische Streitkräfte haben gegenseitig wichtige Getreideexportterminals am Schwarzen Meer angegriffen und dabei erhebliche Schäden an Verladeanlagen verursacht. Die Getreidexporte beider Länder gehen infolge der eskalierenden Angriffe auf Hafen- und Schifffahrtsinfrastruktur spürbar zurück.",
-          "bedeutung": "Da Russland und die Ukraine gemeinsam rund ein Drittel des weltweiten Weizenhandels bestreiten, bedrohen die Ausfälle die Ernährungssicherheit in Dutzenden importabhängiger Staaten.",
-          "hintergrund": "Die Schwarzmeerregion gilt seit Jahrzehnten als eine der bedeutendsten Getreidekammern der Welt. Seit Beginn des russischen Angriffskrieges 2022 stand die Aufrechterhaltung der Exportwege immer wieder im Mittelpunkt internationaler Vermittlungsbemühungen – zuletzt scheiterte die Verlängerung des Getreideabkommens, was die Lage weiter destabilisierte.\n\nMit den nun gemeldeten gezielten Angriffen auf Terminalanlagen auf beiden Seiten droht eine neue Eskalationsstufe, die nicht nur die Marktpreise für Weizen und Mais treibt, sondern besonders ärmere Länder in Nordafrika und im Nahen Osten vor akute Versorgungsengpässe stellen könnte.",
-          "tag": "Getreidekrise",
-          "emoji": "🌾",
+          "titel": "Muratow: Putin kann Ukraine nicht mehr besiegen",
+          "zusammenfassung": "Der russische Friedensnobelpreisträger Dmitri Muratow erklärt in einem BBC-Interview, der Kreml sei im fünften Kriegsjahr nicht mehr in der Lage, die Ukraine militärisch zu bezwingen. Putin könne das Land zerstören, aber nicht erobern – eine Einschätzung, die dem Kriegsziel des Kremls fundamental widerspricht.",
+          "bedeutung": "Die öffentliche Aussage eines renommierten russischen Kritikers, dass Putins strategisches Ziel gescheitert ist, verstärkt den internationalen Druck auf eine Verhandlungslösung.",
+          "hintergrund": "Muratow, Chefredakteur der Nowaja Gaseta und Träger des Friedensnobelpreises 2021, gilt als eine der wenigen glaubwürdigen kritischen Stimmen aus Russland selbst. Seine Einschätzungen werden im Westen und in der russischen Zivilgesellschaft gleichermaßen aufmerksam verfolgt.\n\nDer Krieg gegen die Ukraine dauert inzwischen mehr als viereinhalb Jahre. Während Moskau offiziell an territorialen Gewinnen festhält, deuten westliche Geheimdienstanalysen und die stockenden russischen Offensiven darauf hin, dass eine vollständige Unterwerfung der Ukraine militärisch kaum realisierbar bleibt.",
+          "tag": "Ukraine-Krieg",
+          "emoji": "🕊️",
           "quelle": "BBC",
-          "quelle_url": "https://www.bbc.co.uk/news/articles/c5y49xp2wrno?at_medium=RSS&at_campaign=rss"
+          "quelle_url": "https://www.bbc.co.uk/news/articles/c74grmy2v7ko?at_medium=RSS&at_campaign=rss"
         },
         {
           "id": "politik-1",
-          "titel": "Fährunglück am Kariba-See fordert mindestens 44 Todesopfer",
-          "zusammenfassung": "Eine Fähre ist auf dem Kariba-See in Simbabwe nach heftigen Wellenschlägen gekentert und gesunken, wobei nach bisherigen Erkenntnissen mindestens 44 Menschen ums Leben kamen. Rettungskräfte suchen weiterhin nach Vermissten in dem großen Stausee an der Grenze zu Sambia.",
-          "bedeutung": "Das Unglück zählt zu den schwersten Schiffskatastrophen im südlichen Afrika seit Jahren und wirft erneut Fragen nach Sicherheitsstandards im regionalen Fährverkehr auf.",
-          "hintergrund": "Der Kariba-See erstreckt sich über rund 5.400 Quadratkilometer und ist eines der größten künstlichen Gewässer der Welt. Fähren stellen für viele Anwohner die einzige Verbindung zwischen abgelegenen Küstengemeinden dar, wobei Sicherheitskontrollen und Wartungsstandards laut Beobachtern häufig unzureichend sind.\n\nÄhnliche Tragödien haben sich in der Region in der Vergangenheit mehrfach ereignet, ohne dass es zu durchgreifenden Reformen im Schifffahrtswesen gekommen wäre. Internationale Organisationen fordern seit Langem verbindliche Kapazitäts- und Sicherheitskontrollen für den Binnenschiffsverkehr in Subsahara-Afrika.",
-          "tag": "Schiffsunglück",
-          "emoji": "⚓",
+          "titel": "Rumäniens einziges AKW wegen Hitze abgeschaltet",
+          "zusammenfassung": "Der niedrige Donau-Pegel infolge extremer Hitze zwingt Rumänien zur Abschaltung des Kernkraftwerks Cernavodă, das rund ein Fünftel des nationalen Strombedarfs deckt. Eine Wiederinbetriebnahme wird frühestens in zehn Tagen erwartet.",
+          "bedeutung": "Der Ausfall illustriert, wie der Klimawandel direkt die Energiesicherheit ganzer Länder gefährden kann – mit potenziellen Folgen für die Netzstabilität in Südosteuropa.",
+          "hintergrund": "Cernavodă liegt an der Donau und ist auf deren Wasser zur Kühlung der Reaktoren angewiesen. Sinkende Pegelstände durch anhaltende Dürre und Rekordhitze machen den Betrieb zeitweise unmöglich – ein Szenario, das in den vergangenen Jahren immer häufiger auftritt.\n\nRumänien ist Teil des europäischen Verbundnetzes. Ein plötzlicher Wegfall von 20 Prozent der nationalen Stromerzeugung erhöht die Importabhängigkeit und kann in einer ohnehin angespannten Energiemarktlage die Großhandelspreise regional treiben.",
+          "tag": "Energiekrise",
+          "emoji": "☀️",
           "quelle": "BBC",
-          "quelle_url": "https://www.bbc.co.uk/news/articles/czxe2vyxd7do?at_medium=RSS&at_campaign=rss"
+          "quelle_url": "https://www.bbc.co.uk/news/articles/cqlxpq5q799o?at_medium=RSS&at_campaign=rss"
         },
         {
           "id": "politik-2",
-          "titel": "Trump verließ Nato-Gipfel heimlich wegen Iran-Bedrohung",
-          "zusammenfassung": "Der US-Präsident verließ den Nato-Gipfel in der Türkei aus Sicherheitsgründen unbemerkt auf einer anderen Maschine, während Kabinettsmitglieder als Ablenkungsmanöver an Bord des offiziellen Flugzeugs blieben. Hintergrund waren konkrete Hinweise auf eine mögliche Bedrohung durch den Iran.",
-          "bedeutung": "Der Vorfall verdeutlicht das nach wie vor angespannte Sicherheitsumfeld rund um den US-Präsidenten und die anhaltende Konfrontation zwischen Washington und Teheran.",
-          "hintergrund": "Die Spannungen zwischen den USA und dem Iran haben sich in jüngster Zeit merklich verschärft, nachdem Berichte über iranische Anschlagspläne gegen amerikanische Spitzenpolitiker bekannt wurden. Sicherheitsbehörden hatten bereits zuvor entsprechende Warnungen herausgegeben.\n\nDas Ablenkungsmanöver mit dem Scheinflugzeug zeigt, wie ernst der Secret Service die Bedrohungslage einschätzt. Politisch wirft der Vorfall die Frage auf, inwieweit derartige Sicherheitsmaßnahmen die diplomatische Handlungsfähigkeit des Präsidenten auf internationalen Gipfeln einschränken.",
-          "tag": "Sicherheitslage",
-          "emoji": "🛡️",
+          "titel": "Air India testet alle Piloten nach Zwischenfall",
+          "zusammenfassung": "Nach einem beunruhigenden Höhenverlust einer Air-India-Maschine in der vergangenen Woche, bei dem mehrere Passagiere verletzt wurden, ordnet die Fluggesellschaft verpflichtende Drogentests für alle Piloten an. Der Vorfall wirft Fragen zur Betriebssicherheit einer der größten Fluggesellschaften Asiens auf.",
+          "bedeutung": "Sicherheitsbedenken bei einer Airline mit Millionen Passagieren jährlich haben unmittelbare Relevanz für die internationale Luftfahrtsicherheit.",
+          "hintergrund": "Air India befindet sich seit der Privatisierung und Übernahme durch den Tata-Konzern im Jahr 2022 in einem umfassenden Umstrukturierungsprozess. Wiederholte Sicherheitsvorfälle rücken die Frage in den Vordergrund, ob der rasche Expansionskurs mit ausreichenden Sicherheitsstandards vereinbar ist.\n\nDie indische Luftfahrtbehörde DGCA steht unter Druck, die Untersuchung transparent zu führen. Internationale Regulierungsbehörden beobachten den Fall, da Air India zahlreiche interkontinentale Strecken betreibt.",
+          "tag": "Flugsicherheit",
+          "emoji": "✈️",
           "quelle": "BBC",
-          "quelle_url": "https://www.bbc.co.uk/news/articles/c4g306eln8wo?at_medium=RSS&at_campaign=rss"
+          "quelle_url": "https://www.bbc.co.uk/news/articles/c2352jyvm5xo?at_medium=RSS&at_campaign=rss"
         }
       ]
     },
@@ -49,36 +49,36 @@
       "stories": [
         {
           "id": "wirtschaft-0",
-          "titel": "US-Inflation sinkt auf 3,4 Prozent – Druck auf Fed lässt nach",
-          "zusammenfassung": "Die jährliche Inflationsrate in den Vereinigten Staaten fiel im Juli auf 3,4 Prozent, getragen von rückläufigen Energie- und Lebensmittelpreisen. Die Wohnkosten blieben der hartnäckigste Preistreiber und verhinderten einen noch stärkeren Rückgang.",
-          "bedeutung": "Sinkende Inflation erhöht den Spielraum der US-Notenbank Fed für eine frühere Zinssenkung, was globale Kapitalströme und Wechselkurse weltweit beeinflussen würde.",
-          "hintergrund": "Die Fed kämpft seit 2022 mit einer Serie aggressiver Zinserhöhungen gegen die hartnäckig hohe Inflation. Der jüngste Rückgang gibt der Notenbank erstmals seit Monaten greifbare Signale, dass ihre restriktive Geldpolitik Wirkung zeigt – wenngleich das Zwei-Prozent-Ziel noch in weiter Ferne liegt.\n\nBeobachter warnen jedoch, dass die zähen Wohnkosten sowie die inflationären Begleiteffekte des rasant wachsenden KI-Infrastrukturausbaus einen nachhaltigen Disinflationspfad erschweren könnten. Die nächste Fed-Sitzung wird entsprechend mit besonderer Spannung erwartet.",
-          "tag": "US-Inflation",
+          "titel": "UK-Wirtschaft wächst, Iran-Krieg trübt Aussichten",
+          "zusammenfassung": "Großbritanniens Wirtschaft legte zuletzt zu – getragen von Sommerhitze und der Fußball-Weltmeisterschaft der Männer. Ökonomen warnen jedoch, dass der andauernde Konflikt mit dem Iran und hohe Energiepreise das Wachstum in den kommenden Monaten erheblich belasten könnten.",
+          "bedeutung": "Als fünftgrößte Volkswirtschaft der Welt sendet das Vereinigte Königreich mit seinen Konjunkturdaten wichtige Signale für den globalen Wirtschaftsausblick.",
+          "hintergrund": "Das Wachstum im Sommer 2026 speist sich zum Teil aus Sonderfaktoren: Großveranstaltungen wie die Fußball-WM kurbeln Konsum und Tourismus kurzfristig an. Strukturelle Fragen – darunter Produktivitätsschwäche und hohe Lebenshaltungskosten – bleiben ungelöst.\n\nDer Iran-Krieg treibt die Energiepreise in die Höhe und belastet britische Unternehmen mit steigenden Produktionskosten. Volkswirte sehen darin das zentrale Abwärtsrisiko für das zweite Halbjahr 2026.",
+          "tag": "Konjunktur",
           "emoji": "📉",
           "quelle": "BBC",
-          "quelle_url": "https://www.bbc.co.uk/news/articles/c0qv2nn1gpeo?at_medium=RSS&at_campaign=rss"
+          "quelle_url": "https://www.bbc.co.uk/news/articles/cx2d1gpx2k0o?at_medium=RSS&at_campaign=rss"
         },
         {
           "id": "wirtschaft-1",
-          "titel": "Iran-Konflikt bedroht britisches Wirtschaftswachstum",
-          "zusammenfassung": "Der anhaltende Konflikt im Nahen Osten lässt die Öl- und Kraftstoffpreise steigen und stört internationale Lieferketten, was laut Warnungen britischer Wirtschaftsvertreter das Wachstum des Vereinigten Königreichs im kommenden Jahr erheblich bremsen könnte. Politiker werden aufgefordert, rasch Gegenmaßnahmen zu entwickeln.",
-          "bedeutung": "Die Verflechtung von Energiemärkten und Lieferketten macht den Iran-Konflikt zu einem wirtschaftlichen Risikofaktor weit über die unmittelbare Konfliktregion hinaus.",
-          "hintergrund": "Bereits die Spannungen rund um die Straße von Hormus in den Vorjahren hatten gezeigt, wie empfindlich Europa auf Störungen der Ölversorgung aus dem Persischen Golf reagiert. Steigende Energiepreise schlagen direkt auf Produktionskosten und Verbraucherpreise durch und konterkarieren Bemühungen der Zentralbanken um Preisstabilität.\n\nFür Großbritannien kommt erschwerend hinzu, dass das Land nach dem Brexit ohnehin mit strukturellen Handelshemmnissen kämpft. Ein extern verursachter Kostenschock käme zu einem denkbar ungünstigen Zeitpunkt, in dem die neue Regierung gerade erst wirtschaftspolitische Prioritäten setzt.",
-          "tag": "Energiepreise",
-          "emoji": "🛢️",
+          "titel": "Klage gegen Trump wegen marktbewegender Social-Media-Posts",
+          "zusammenfassung": "Gegen den ehemaligen US-Präsidenten Donald Trump wurde Klage eingereicht, weil sein Netzwerk Truth Social zahlenden Früh-Abonnenten exklusiven Vorabzugang zu Beiträgen gewährt, die Finanzmärkte bewegen können. Kritiker sehen darin ein systematisches Vehikel für Insidervorteile.",
+          "bedeutung": "Der Fall könnte Präzedenzrecht für die Regulierung politisch einflussreicher Plattformen und marktrelevanter Informationsasymmetrie schaffen.",
+          "hintergrund": "Truth Social bietet gegen 100.000 Dollar jährlich einen Premium-Service an, der Abonnenten Trumps Postings vor allen anderen Nutzern zugänglich macht. Da Trumps Äußerungen zu Unternehmen, Zöllen oder geopolitischen Themen nachweislich Kursbewegungen auslösen, sehen Kläger darin einen potenziellen Marktmissbrauch.\n\nUS-Wertpapieraufsicht und Justizministerium stehen unter Druck, Stellung zu nehmen. Der Fall berührt grundlegende Fragen über die Grenze zwischen politischer Meinungsäußerung und gezielter Marktmanipulation.",
+          "tag": "Marktmissbrauch",
+          "emoji": "⚖️",
           "quelle": "BBC",
-          "quelle_url": "https://www.bbc.co.uk/news/articles/c5y3egv4m4mo?at_medium=RSS&at_campaign=rss"
+          "quelle_url": "https://www.bbc.co.uk/news/articles/cq6dpm5y0yyo?at_medium=RSS&at_campaign=rss"
         },
         {
           "id": "wirtschaft-2",
-          "titel": "Tata-Group-Chef legt Vorsitz nieder – Jaguars Zukunft offen",
-          "zusammenfassung": "Natarajan Chandrasekaran, Vorsitzender des indischen Tata-Konzerns und damit auch des Mutterkonzerns von Jaguar Land Rover, wird seinen Posten nach dem Ende seiner laufenden Amtszeit nicht verlängern. Als Grund nannte er fehlende Rückendeckung im Aufsichtsrat von Tata Sons.",
-          "bedeutung": "Der Führungswechsel an der Spitze eines der größten Industriekonglomerate Asiens könnte weitreichende Folgen für Tatas globale Strategie und insbesondere die Elektrifizierungspläne von Jaguar Land Rover haben.",
-          "hintergrund": "Tata Sons ist eines der einflussreichsten Unternehmen Indiens und kontrolliert Beteiligungen in Stahl, IT, Luftfahrt, Automobil und Telekommunikation. Die Übernahme von Jaguar Land Rover im Jahr 2008 gilt als eines der ambitioniertesten Auslandsengagements eines indischen Konzerns.\n\nDerzeit steckt Jaguar Land Rover mitten in einem milliardenschweren Transformationsprozess hin zur Elektromobilität. Ein unerwarteter Führungswechsel an der Konzernspitze könnte Investoren verunsichern und strategische Entscheidungen verzögern – ausgerechnet in einer Phase, in der europäische und britische Automärkte unter wachsendem Konkurrenzdruck chinesischer Elektrofahrzeughersteller stehen.",
-          "tag": "Tata Group",
-          "emoji": "🏭",
+          "titel": "Koreanischer Aktienmarkt: Anleger verlieren Tausende",
+          "zusammenfassung": "Nach einer heftigen Korrektur an der koreanischen Börse berichten zahlreiche Privatanleger von fünfstelligen Verlusten innerhalb weniger Wochen. Die wilden Schwankungen des südkoreanischen Marktes lösen international Besorgnis über Ansteckungseffekte aus.",
+          "bedeutung": "Südkorea ist eine der bedeutendsten Exportnationen der Welt; Turbulenzen an seiner Börse können globale Lieferketten und Investitionsströme beeinflussen.",
+          "hintergrund": "Der koreanische Aktienmarkt, bekannt als Kospi, ist stark von exportorientierten Tech- und Halbleiterkonzernen wie Samsung und SK Hynix geprägt. Globale Nachfrageschwäche, steigende US-Zinsen und geopolitische Spannungen in der Region gelten als Haupttreiber der jüngsten Volatilität.\n\nBesonders Kleinanleger, die während der Boomjahre massiv in Einzelaktien investiert hatten, sind von der Korrektur hart getroffen. Regulatoren prüfen, ob Leerverkäufer die Bewegungen verstärkt haben.",
+          "tag": "Börsenkorrektur",
+          "emoji": "📊",
           "quelle": "BBC",
-          "quelle_url": "https://www.bbc.co.uk/news/articles/c1512909pgpo?at_medium=RSS&at_campaign=rss"
+          "quelle_url": "https://www.bbc.co.uk/news/articles/c2k7zj4knwlo?at_medium=RSS&at_campaign=rss"
         }
       ]
     },
@@ -89,36 +89,36 @@
       "stories": [
         {
           "id": "boerse-0",
-          "titel": "US-Haushaltsdefizit klettert auf höchsten Stand seit 2021",
-          "zusammenfassung": "Das amerikanische Haushaltsdefizit schnellte im Juli auf den höchsten Monatswert seit März 2021 hoch, während das kumulierte Defizit im laufenden Haushaltsjahr bereits die Marke von 1,8 Billionen Dollar überschritten hat. Damit liegt die Verschuldung deutlich über dem Vergleichszeitraum des Vorjahres.",
-          "bedeutung": "Ein wachsendes Haushaltsdefizit erhöht den Druck auf den Anleihemarkt, treibt die Renditen von US-Staatsanleihen und erschwert der Fed ihre Zinspolitik.",
-          "hintergrund": "Die Kombination aus steigenden Zinszahlungen auf bestehende Schulden, hohen Verteidigungsausgaben und umfangreichen Steuererleichterungen hat den Schuldenanstieg in den vergangenen Monaten beschleunigt. Ratingagenturen hatten bereits in der Vergangenheit vor einer strukturellen Verschlechterung der amerikanischen Haushaltslage gewarnt.\n\nAm Anleihemarkt dürften die Zahlen die Renditen zehnjähriger US-Treasuries weiter unter Aufwärtsdruck setzen, was globale Kapitalkosten erhöht und insbesondere Schwellenländer mit dollardenominierten Schulden belastet.",
-          "tag": "US-Staatsschulden",
-          "emoji": "📊",
+          "titel": "US-Inflation bei 3,4 Prozent – Fed unter Beobachtung",
+          "zusammenfassung": "Der amerikanische Verbraucherpreisindex stieg im Juli erwartungsgemäß um 0,1 Prozent, die Jahresrate verharrt bei 3,4 Prozent. Die Daten liegen im Rahmen der Prognosen, geben der US-Notenbank Fed aber noch keinen klaren Spielraum für Zinssenkungen.",
+          "bedeutung": "Die monatlichen Inflationsdaten sind der wichtigste Einzelindikator für die geldpolitische Richtungsentscheidung der Fed – und damit für globale Anleihe- und Aktienmärkte.",
+          "hintergrund": "Trotz des moderaten Juli-Werts bleibt die Inflation deutlich über dem Fed-Ziel von zwei Prozent. Kernbereiche wie Dienstleistungen und Wohnkosten zeigen sich hartnäckig, was eine baldige Leitzinswende erschwert.\n\nAnleihemärkte reagierten verhalten, da der Datenpunkt weder eine Überraschung nach oben noch nach unten lieferte. Ökonomen verweisen auf steigende Energiepreise im Zusammenhang mit dem Iran-Konflikt als potenzielles Aufwärtsrisiko für die kommenden Monate.",
+          "tag": "Inflation",
+          "emoji": "💹",
+          "quelle": "CNBC",
+          "quelle_url": "https://www.cnbc.com/2026/08/12/cpi-inflation-report-july-2026.html"
+        },
+        {
+          "id": "boerse-1",
+          "titel": "US-Haushaltsdefizit erreicht höchsten Stand seit 2021",
+          "zusammenfassung": "Das amerikanische Bundesdefizit kletterte im Juli auf den höchsten monatlichen Wert seit März 2021. Im laufenden Haushaltsjahr summiert sich das Defizit damit auf knapp 1,8 Billionen Dollar – mehr als im Vergleichszeitraum des Vorjahres.",
+          "bedeutung": "Ein sich ausweitendes Staatsdefizit erhöht den Druck auf die US-Anleihemärkte, treibt die Renditen und verteuert die globale Kapitalaufnahme.",
+          "hintergrund": "Steigende Zinsausgaben auf bestehende Staatsschulden sowie umfangreiche Ausgabenprogramme lasten auf der US-Haushaltslage. Gleichzeitig dämpft die hartnäckige Inflation die Kaufkraft, ohne dass die Steuereinnahmen proportional steigen.\n\nInvestoren an den Anleihemärkten haben die Entwicklung bereits eingepreist; die Renditen zehnjähriger US-Staatsanleihen bleiben auf erhöhtem Niveau. Rating-Agenturen beobachten den Trend mit wachsender Skepsis hinsichtlich der langfristigen Schuldentragfähigkeit.",
+          "tag": "Staatsschulden",
+          "emoji": "🏛️",
           "quelle": "CNBC",
           "quelle_url": "https://www.cnbc.com/2026/08/12/us-budget-deficit-surged-in-july-to-highest-level-since-march-2021.html"
         },
         {
-          "id": "boerse-1",
-          "titel": "KI-Bauboom erschwert Feds Kampf gegen Inflation",
-          "zusammenfassung": "Der rasante Ausbau von Rechenzentren und KI-Infrastruktur erzeugt erheblichen Kostendruck in Energie, Baumaterial und Fachkräften, der die Bemühungen der US-Notenbank zur Inflationsbekämpfung unterläuft. Trotz Versprechen der Tech-Branche, KI werde mittelfristig Kosten senken, bleibt der gegenwärtige Investitionsdruck inflationär.",
-          "bedeutung": "Wenn selbst das technologische Zukunftsversprechen der KI zunächst preistreibend wirkt, wird der Weg zu stabilen Preisen für die Fed deutlich steiniger als erwartet.",
-          "hintergrund": "Schätzungen zufolge werden in den nächsten Jahren weltweit Hunderte Milliarden Dollar in neue Datenzentren investiert. Dieser Bau- und Energiehunger konkurriert mit anderen Wirtschaftssektoren um knappe Ressourcen und heizt damit genau jene Preiskomponenten an, die die Fed bislang noch nicht vollständig unter Kontrolle gebracht hat.\n\nBesonders pikant: Ausgerechnet die Technologieunternehmen, die mit KI für einen Produktivitätsschub werben, tragen kurzfristig zur Inflation bei, die die Kaufkraft ihrer Kunden erodiert. Für Investoren stellt sich die Frage, wann der versprochene Effizienzgewinn die inflationären Aufbaukosten überkompensiert.",
-          "tag": "KI-Inflation",
+          "id": "boerse-2",
+          "titel": "KI-Boom treibt Inflation – Feds Dilemma wächst",
+          "zusammenfassung": "Der massive Ausbau von Rechenzentren für künstliche Intelligenz erzeugt erheblichen Inflationsdruck durch steigende Energie- und Baunachfrage. Während Tech-Konzerne langfristige Kostensenkungen versprechen, erschwert der aktuelle Investitionsschub der Fed ihre Arbeit zur Inflationsbekämpfung.",
+          "bedeutung": "Der Widerspruch zwischen dem KI-Investitionsboom und dem Ziel der Preisstabilität könnte die Zinspolitik der wichtigsten Zentralbank der Welt auf Jahre hinaus prägen.",
+          "hintergrund": "Hyperscaler wie Microsoft, Google und Amazon investieren in beispiellosem Ausmaß in KI-Infrastruktur. Dies befeuert die Nachfrage nach Strom, Kühlsystemen, Chips und Fachkräften – allesamt inflationäre Impulse in einem Markt mit begrenztem Angebot.\n\nDie Fed steht vor einem Zielkonflikt: Zu frühe Zinssenkungen könnten die Inflation neu anfachen, zu späte das Wachstum abwürgen. KI-getriebene Produktivitätsgewinne, die den Preisdruck langfristig mildern sollen, sind in den Makrodaten bislang kaum messbar.",
+          "tag": "KI & Zinsen",
           "emoji": "🤖",
           "quelle": "CNBC",
           "quelle_url": "https://www.cnbc.com/2026/08/12/ais-costly-buildout-complicates-the-feds-inflation-fight.html"
-        },
-        {
-          "id": "boerse-2",
-          "titel": "Elektroautos dominieren Chinas Automarkt – Tesla bleibt stark",
-          "zusammenfassung": "Aktuelle Verkaufsdaten des chinesischen Pkw-Verbands zeigen, dass neue Elektro- und Hybridfahrzeuge im Juli einen Rekordanteil am chinesischen Gesamtmarkt erreicht haben. Teslas Model Y behauptet sich trotz des wachsenden Drucks einheimischer Konkurrenten weiterhin in den Spitzenpositionen.",
-          "bedeutung": "Chinas Elektromobilitätsdurchbruch setzt globale Automobilhersteller unter enormen Innovationsdruck und verändert internationale Lieferketten für Batterierohstoffe nachhaltig.",
-          "hintergrund": "China ist mit Abstand der weltgrößte Automobilmarkt, und die dortige Dynamik bei Elektrofahrzeugen setzt Maßstäbe für Hersteller weltweit. Heimische Marken wie BYD, Li Auto und Huaweis Aito drängen mit aggressiven Preisen und schneller Modellentwicklung auf den Markt und zwingen ausländische Wettbewerber zur Reaktion.\n\nFür internationale Investoren ist der chinesische EV-Markt ein Frühindikator: Die dort durchgesetzten Preispunkte und Technologiestandards dürften binnen weniger Jahre auch europäische und amerikanische Märkte prägen – mit entsprechenden Konsequenzen für Aktienbewertungen klassischer Automobilkonzerne.",
-          "tag": "China-Elektroautos",
-          "emoji": "🚗",
-          "quelle": "CNBC",
-          "quelle_url": "https://www.cnbc.com/2026/08/12/china-car-sales-data-byd-tesla-geely-vw.html"
         }
       ]
     }
