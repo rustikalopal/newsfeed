@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-14T00:02:52.983453+00:00",
-  "datum": "Freitag, 14. August 2026",
+  "generated_at": "2026-08-15T01:54:38.126047+00:00",
+  "datum": "Samstag, 15. August 2026",
   "ressorts": [
     {
       "id": "politik",
@@ -9,36 +9,36 @@
       "stories": [
         {
           "id": "politik-0",
-          "titel": "Muratow: Putin kann Ukraine nicht mehr besiegen",
-          "zusammenfassung": "Der russische Friedensnobelpreisträger Dmitri Muratow erklärt in einem BBC-Interview, der Kreml sei im fünften Kriegsjahr nicht mehr in der Lage, die Ukraine militärisch zu bezwingen. Putin könne das Land zerstören, aber nicht erobern – eine Einschätzung, die dem Kriegsziel des Kremls fundamental widerspricht.",
-          "bedeutung": "Die öffentliche Aussage eines renommierten russischen Kritikers, dass Putins strategisches Ziel gescheitert ist, verstärkt den internationalen Druck auf eine Verhandlungslösung.",
-          "hintergrund": "Muratow, Chefredakteur der Nowaja Gaseta und Träger des Friedensnobelpreises 2021, gilt als eine der wenigen glaubwürdigen kritischen Stimmen aus Russland selbst. Seine Einschätzungen werden im Westen und in der russischen Zivilgesellschaft gleichermaßen aufmerksam verfolgt.\n\nDer Krieg gegen die Ukraine dauert inzwischen mehr als viereinhalb Jahre. Während Moskau offiziell an territorialen Gewinnen festhält, deuten westliche Geheimdienstanalysen und die stockenden russischen Offensiven darauf hin, dass eine vollständige Unterwerfung der Ukraine militärisch kaum realisierbar bleibt.",
-          "tag": "Ukraine-Krieg",
-          "emoji": "🕊️",
+          "titel": "Fünf Jahre Taliban: Frauen in Afghanistan berichten",
+          "zusammenfassung": "Fünf Jahre nach der Machtübernahme der Taliban schildern Afghanidinnen der BBC dramatische Einschnitte in ihrem Leben: öffentliche Auspeitschungen, Verlust von Arbeitsplätzen und ein Gesundheitssystem, das Frauen systematisch ausschließt. Das Ausmaß der Unterdrückung hat nach Aussagen der Betroffenen ein nie dagewesenes Niveau erreicht.",
+          "bedeutung": "Die Lage der Frauen in Afghanistan bleibt eine der gravierendsten humanitären Krisen weltweit und ein Prüfstein für die internationale Gemeinschaft.",
+          "hintergrund": "Seit dem Rückzug der westlichen Truppen im August 2021 hat das Taliban-Regime Schritt für Schritt sämtliche Errungenschaften der vergangenen zwei Jahrzehnte zurückgedreht. Frauen dürfen keine Universitäten besuchen, kaum noch arbeiten und müssen sich in der Öffentlichkeit vollständig verhüllen.\n\nInternationale Organisationen warnen, dass die medizinische Unterversorgung von Frauen zu einer stillen Sterblichkeitswelle führt. Trotz vereinzelter diplomatischer Bemühungen zeigt das Taliban-Regime keinerlei Bereitschaft zu Reformen.",
+          "tag": "Frauenrechte Afghanistan",
+          "emoji": "🪖",
           "quelle": "BBC",
-          "quelle_url": "https://www.bbc.co.uk/news/articles/c74grmy2v7ko?at_medium=RSS&at_campaign=rss"
+          "quelle_url": "https://www.bbc.co.uk/news/articles/clyje43dz4eo?at_medium=RSS&at_campaign=rss"
         },
         {
           "id": "politik-1",
-          "titel": "Rumäniens einziges AKW wegen Hitze abgeschaltet",
-          "zusammenfassung": "Der niedrige Donau-Pegel infolge extremer Hitze zwingt Rumänien zur Abschaltung des Kernkraftwerks Cernavodă, das rund ein Fünftel des nationalen Strombedarfs deckt. Eine Wiederinbetriebnahme wird frühestens in zehn Tagen erwartet.",
-          "bedeutung": "Der Ausfall illustriert, wie der Klimawandel direkt die Energiesicherheit ganzer Länder gefährden kann – mit potenziellen Folgen für die Netzstabilität in Südosteuropa.",
-          "hintergrund": "Cernavodă liegt an der Donau und ist auf deren Wasser zur Kühlung der Reaktoren angewiesen. Sinkende Pegelstände durch anhaltende Dürre und Rekordhitze machen den Betrieb zeitweise unmöglich – ein Szenario, das in den vergangenen Jahren immer häufiger auftritt.\n\nRumänien ist Teil des europäischen Verbundnetzes. Ein plötzlicher Wegfall von 20 Prozent der nationalen Stromerzeugung erhöht die Importabhängigkeit und kann in einer ohnehin angespannten Energiemarktlage die Großhandelspreise regional treiben.",
-          "tag": "Energiekrise",
-          "emoji": "☀️",
+          "titel": "Extremregen in Japan fordert acht Todesopfer",
+          "zusammenfassung": "Ungewöhnlich heftige Regenfälle haben Teile Japans verwüstet und dabei acht Menschen das Leben gekostet. Über 20.000 Haushalte waren zeitweise ohne Strom, am Tokioter Flughafen Narita saßen rund 7.000 Reisende fest.",
+          "bedeutung": "Der Extremregen illustriert die wachsende Verwundbarkeit selbst hochentwickelter Infrastrukturen gegenüber klimabedingten Wetterextremen.",
+          "hintergrund": "Japan ist naturgemäß häufig von Taifunen und Starkregen betroffen, doch Meteorologen stufen das aktuelle Ereignis als außergewöhnlich intensiv ein. Evakuierungen wurden in mehreren Regionen angeordnet, Bahnverbindungen und Straßen blieben stundenlang gesperrt.\n\nDer Vorfall reiht sich in eine Serie extremer Wetterereignisse ein, die in diesem Sommer weltweit für Schlagzeilen gesorgt haben, und befeuert die Debatte über den Ausbau von Katastrophenschutzinfrastruktur in Ballungsräumen.",
+          "tag": "Extremwetter Japan",
+          "emoji": "🌧️",
           "quelle": "BBC",
-          "quelle_url": "https://www.bbc.co.uk/news/articles/cqlxpq5q799o?at_medium=RSS&at_campaign=rss"
+          "quelle_url": "https://www.bbc.co.uk/news/articles/cq561gpen8lo?at_medium=RSS&at_campaign=rss"
         },
         {
           "id": "politik-2",
-          "titel": "Air India testet alle Piloten nach Zwischenfall",
-          "zusammenfassung": "Nach einem beunruhigenden Höhenverlust einer Air-India-Maschine in der vergangenen Woche, bei dem mehrere Passagiere verletzt wurden, ordnet die Fluggesellschaft verpflichtende Drogentests für alle Piloten an. Der Vorfall wirft Fragen zur Betriebssicherheit einer der größten Fluggesellschaften Asiens auf.",
-          "bedeutung": "Sicherheitsbedenken bei einer Airline mit Millionen Passagieren jährlich haben unmittelbare Relevanz für die internationale Luftfahrtsicherheit.",
-          "hintergrund": "Air India befindet sich seit der Privatisierung und Übernahme durch den Tata-Konzern im Jahr 2022 in einem umfassenden Umstrukturierungsprozess. Wiederholte Sicherheitsvorfälle rücken die Frage in den Vordergrund, ob der rasche Expansionskurs mit ausreichenden Sicherheitsstandards vereinbar ist.\n\nDie indische Luftfahrtbehörde DGCA steht unter Druck, die Untersuchung transparent zu führen. Internationale Regulierungsbehörden beobachten den Fall, da Air India zahlreiche interkontinentale Strecken betreibt.",
-          "tag": "Flugsicherheit",
-          "emoji": "✈️",
+          "titel": "Frankreichs Verfassungsgericht kippt Social-Media-Verbot für Minderjährige",
+          "zusammenfassung": "Der französische Verfassungsrat hat ein geplantes Gesetz gestoppt, das Kindern unter 15 Jahren die Nutzung sozialer Netzwerke untersagen sollte. Das Gericht sah darin einen unverhältnismäßigen Eingriff in die Meinungsfreiheit; Präsident Macron kündigte jedoch umgehend einen neuen Gesetzentwurf an.",
+          "bedeutung": "Die Entscheidung zeigt, wie schwierig es selbst für entschlossene Regierungen ist, den Schutz von Kindern im Netz rechtssicher zu gestalten.",
+          "hintergrund": "Frankreich hatte mit dem Vorhaben international Aufsehen erregt und galt als Vorreiter einer neuen Regulierungswelle gegenüber Tech-Konzernen. Das Verfassungsgericht ließ keinen Zweifel daran, dass ein solches Verbot nur mit engeren rechtlichen Leitplanken vereinbar wäre.\n\nDie Debatte ist keineswegs beendet: Mehrere EU-Staaten beobachten den französischen Gesetzgebungsprozess genau, da ähnliche Vorhaben auch andernorts in Vorbereitung sind.",
+          "tag": "Jugendschutz Online",
+          "emoji": "📵",
           "quelle": "BBC",
-          "quelle_url": "https://www.bbc.co.uk/news/articles/c2352jyvm5xo?at_medium=RSS&at_campaign=rss"
+          "quelle_url": "https://www.bbc.co.uk/news/articles/cx2vj433xqlo?at_medium=RSS&at_campaign=rss"
         }
       ]
     },
@@ -49,34 +49,34 @@
       "stories": [
         {
           "id": "wirtschaft-0",
-          "titel": "UK-Wirtschaft wächst, Iran-Krieg trübt Aussichten",
-          "zusammenfassung": "Großbritanniens Wirtschaft legte zuletzt zu – getragen von Sommerhitze und der Fußball-Weltmeisterschaft der Männer. Ökonomen warnen jedoch, dass der andauernde Konflikt mit dem Iran und hohe Energiepreise das Wachstum in den kommenden Monaten erheblich belasten könnten.",
-          "bedeutung": "Als fünftgrößte Volkswirtschaft der Welt sendet das Vereinigte Königreich mit seinen Konjunkturdaten wichtige Signale für den globalen Wirtschaftsausblick.",
-          "hintergrund": "Das Wachstum im Sommer 2026 speist sich zum Teil aus Sonderfaktoren: Großveranstaltungen wie die Fußball-WM kurbeln Konsum und Tourismus kurzfristig an. Strukturelle Fragen – darunter Produktivitätsschwäche und hohe Lebenshaltungskosten – bleiben ungelöst.\n\nDer Iran-Krieg treibt die Energiepreise in die Höhe und belastet britische Unternehmen mit steigenden Produktionskosten. Volkswirte sehen darin das zentrale Abwärtsrisiko für das zweite Halbjahr 2026.",
-          "tag": "Konjunktur",
-          "emoji": "📉",
+          "titel": "Britische Wirtschaft wächst, aber Iran-Krieg trübt Aussichten",
+          "zusammenfassung": "Die britische Volkswirtschaft verzeichnete zuletzt ein moderates Wachstum, gestützt durch warmes Wetter und die Fußball-Weltmeisterschaft der Männer. Ökonomen warnen jedoch, dass die Auswirkungen des Iran-Krieges und hohe Energiepreise die Erholung in den kommenden Monaten erheblich bremsen könnten.",
+          "bedeutung": "Großbritannien steht stellvertretend für viele westliche Volkswirtschaften, die zwischen zarten Erholungszeichen und geopolitischen Schocks balancieren müssen.",
+          "hintergrund": "Nach Jahren erhöhter Inflation und schwacher Konsumlaune hatte sich zuletzt vorsichtiger Optimismus breitgemacht. Der Konsum zog saisonal bedingt an, und Dienstleistungssektoren profitierten von Großereignissen.\n\nDoch der Iran-Krieg hat die Energiemärkte erneut destabilisiert und treibt Rohstoffpreise hoch. Analysten mahnen, dass die strukturellen Probleme des Landes – schwache Produktivität, angespannte Staatshaushalte – durch externe Schocks schnell wieder in den Vordergrund rücken können.",
+          "tag": "Konjunktur UK",
+          "emoji": "🇬🇧",
           "quelle": "BBC",
           "quelle_url": "https://www.bbc.co.uk/news/articles/cx2d1gpx2k0o?at_medium=RSS&at_campaign=rss"
         },
         {
           "id": "wirtschaft-1",
-          "titel": "Klage gegen Trump wegen marktbewegender Social-Media-Posts",
-          "zusammenfassung": "Gegen den ehemaligen US-Präsidenten Donald Trump wurde Klage eingereicht, weil sein Netzwerk Truth Social zahlenden Früh-Abonnenten exklusiven Vorabzugang zu Beiträgen gewährt, die Finanzmärkte bewegen können. Kritiker sehen darin ein systematisches Vehikel für Insidervorteile.",
-          "bedeutung": "Der Fall könnte Präzedenzrecht für die Regulierung politisch einflussreicher Plattformen und marktrelevanter Informationsasymmetrie schaffen.",
-          "hintergrund": "Truth Social bietet gegen 100.000 Dollar jährlich einen Premium-Service an, der Abonnenten Trumps Postings vor allen anderen Nutzern zugänglich macht. Da Trumps Äußerungen zu Unternehmen, Zöllen oder geopolitischen Themen nachweislich Kursbewegungen auslösen, sehen Kläger darin einen potenziellen Marktmissbrauch.\n\nUS-Wertpapieraufsicht und Justizministerium stehen unter Druck, Stellung zu nehmen. Der Fall berührt grundlegende Fragen über die Grenze zwischen politischer Meinungsäußerung und gezielter Marktmanipulation.",
-          "tag": "Marktmissbrauch",
-          "emoji": "⚖️",
+          "titel": "Regierung erwägt Absenkung der Elektroauto-Verkaufsziele",
+          "zusammenfassung": "Unter dem Druck der Automobilindustrie prüft die Regierung, das Ziel für Neuzulassungen von Elektrofahrzeugen bis 2030 von 80 auf 50 Prozent zu senken. Die Debatte zeigt, wie stark politische Klimaziele unter wirtschaftlichen Realitäten geraten.",
+          "bedeutung": "Eine solche Zielanpassung hätte weitreichende Folgen für Europas Dekarbonisierungsstrategie im Verkehrssektor und für die globale Wettbewerbsposition der Autoindustrie.",
+          "hintergrund": "Autohersteller argumentieren seit Monaten, dass die Nachfrage nach Elektrofahrzeugen hinter den politischen Erwartungen zurückbleibt und ambitionierte Quoten Produktionsstandorte gefährden. Zugleich steht die Ladeinfrastruktur in vielen Regionen noch immer auf tönernen Füßen.\n\nKritiker warnen, eine Aufweichung der Ziele sende ein verheerendes Signal an Investoren und verzögere den dringend nötigen Strukturwandel. Die Entscheidung dürfte auch in Brüssel aufmerksam verfolgt werden, wo der EU-weite Verbrenner-Ausstieg 2035 politisch zunehmend unter Beschuss gerät.",
+          "tag": "Elektromobilität",
+          "emoji": "🚗",
           "quelle": "BBC",
-          "quelle_url": "https://www.bbc.co.uk/news/articles/cq6dpm5y0yyo?at_medium=RSS&at_campaign=rss"
+          "quelle_url": "https://www.bbc.co.uk/news/articles/c1l1yj0zd9no?at_medium=RSS&at_campaign=rss"
         },
         {
           "id": "wirtschaft-2",
-          "titel": "Koreanischer Aktienmarkt: Anleger verlieren Tausende",
-          "zusammenfassung": "Nach einer heftigen Korrektur an der koreanischen Börse berichten zahlreiche Privatanleger von fünfstelligen Verlusten innerhalb weniger Wochen. Die wilden Schwankungen des südkoreanischen Marktes lösen international Besorgnis über Ansteckungseffekte aus.",
-          "bedeutung": "Südkorea ist eine der bedeutendsten Exportnationen der Welt; Turbulenzen an seiner Börse können globale Lieferketten und Investitionsströme beeinflussen.",
-          "hintergrund": "Der koreanische Aktienmarkt, bekannt als Kospi, ist stark von exportorientierten Tech- und Halbleiterkonzernen wie Samsung und SK Hynix geprägt. Globale Nachfrageschwäche, steigende US-Zinsen und geopolitische Spannungen in der Region gelten als Haupttreiber der jüngsten Volatilität.\n\nBesonders Kleinanleger, die während der Boomjahre massiv in Einzelaktien investiert hatten, sind von der Korrektur hart getroffen. Regulatoren prüfen, ob Leerverkäufer die Bewegungen verstärkt haben.",
-          "tag": "Börsenkorrektur",
-          "emoji": "📊",
+          "titel": "Südkoreas Börsenturbulenzen vernichten Privatanleger-Vermögen",
+          "zusammenfassung": "Eine scharfe Korrektur am südkoreanischen Aktienmarkt hat Kleinanleger hart getroffen – Verluste von umgerechnet 14.000 US-Dollar innerhalb eines einzigen Monats sind keine Einzelfälle. Die Schwankungen haben eine breite Debatte über Anlegerschutz und Marktstruktur ausgelöst.",
+          "bedeutung": "Die Turbulenzen in Seoul illustrieren, wie volatile Märkte in Schwellenländern globale Kapitalflüsse beeinflussen und private Vermögen gefährden können.",
+          "hintergrund": "Südkoreas Aktienmarkt gilt als einer der volatilsten unter den entwickelten Volkswirtschaften, nicht zuletzt wegen eines hohen Anteils spekulativ orientierter Privatanleger. Strukturelle Schwächen wie geringe Corporate Governance und starke Abhängigkeit von Exportzyklen verstärken die Ausschläge.\n\nDie jüngste Korrektur fällt in eine Phase globaler Unsicherheit, in der Kapital aus riskanteren Märkten abgezogen wird. Regulatoren stehen unter Druck, Schutzmaßnahmen für Kleinanleger zu verschärfen.",
+          "tag": "Südkorea Börsenkorrektur",
+          "emoji": "📉",
           "quelle": "BBC",
           "quelle_url": "https://www.bbc.co.uk/news/articles/c2k7zj4knwlo?at_medium=RSS&at_campaign=rss"
         }
@@ -89,36 +89,36 @@
       "stories": [
         {
           "id": "boerse-0",
-          "titel": "US-Inflation bei 3,4 Prozent – Fed unter Beobachtung",
-          "zusammenfassung": "Der amerikanische Verbraucherpreisindex stieg im Juli erwartungsgemäß um 0,1 Prozent, die Jahresrate verharrt bei 3,4 Prozent. Die Daten liegen im Rahmen der Prognosen, geben der US-Notenbank Fed aber noch keinen klaren Spielraum für Zinssenkungen.",
-          "bedeutung": "Die monatlichen Inflationsdaten sind der wichtigste Einzelindikator für die geldpolitische Richtungsentscheidung der Fed – und damit für globale Anleihe- und Aktienmärkte.",
-          "hintergrund": "Trotz des moderaten Juli-Werts bleibt die Inflation deutlich über dem Fed-Ziel von zwei Prozent. Kernbereiche wie Dienstleistungen und Wohnkosten zeigen sich hartnäckig, was eine baldige Leitzinswende erschwert.\n\nAnleihemärkte reagierten verhalten, da der Datenpunkt weder eine Überraschung nach oben noch nach unten lieferte. Ökonomen verweisen auf steigende Energiepreise im Zusammenhang mit dem Iran-Konflikt als potenzielles Aufwärtsrisiko für die kommenden Monate.",
-          "tag": "Inflation",
-          "emoji": "💹",
-          "quelle": "CNBC",
-          "quelle_url": "https://www.cnbc.com/2026/08/12/cpi-inflation-report-july-2026.html"
-        },
-        {
-          "id": "boerse-1",
-          "titel": "US-Haushaltsdefizit erreicht höchsten Stand seit 2021",
-          "zusammenfassung": "Das amerikanische Bundesdefizit kletterte im Juli auf den höchsten monatlichen Wert seit März 2021. Im laufenden Haushaltsjahr summiert sich das Defizit damit auf knapp 1,8 Billionen Dollar – mehr als im Vergleichszeitraum des Vorjahres.",
-          "bedeutung": "Ein sich ausweitendes Staatsdefizit erhöht den Druck auf die US-Anleihemärkte, treibt die Renditen und verteuert die globale Kapitalaufnahme.",
-          "hintergrund": "Steigende Zinsausgaben auf bestehende Staatsschulden sowie umfangreiche Ausgabenprogramme lasten auf der US-Haushaltslage. Gleichzeitig dämpft die hartnäckige Inflation die Kaufkraft, ohne dass die Steuereinnahmen proportional steigen.\n\nInvestoren an den Anleihemärkten haben die Entwicklung bereits eingepreist; die Renditen zehnjähriger US-Staatsanleihen bleiben auf erhöhtem Niveau. Rating-Agenturen beobachten den Trend mit wachsender Skepsis hinsichtlich der langfristigen Schuldentragfähigkeit.",
-          "tag": "Staatsschulden",
-          "emoji": "🏛️",
-          "quelle": "CNBC",
-          "quelle_url": "https://www.cnbc.com/2026/08/12/us-budget-deficit-surged-in-july-to-highest-level-since-march-2021.html"
-        },
-        {
-          "id": "boerse-2",
-          "titel": "KI-Boom treibt Inflation – Feds Dilemma wächst",
-          "zusammenfassung": "Der massive Ausbau von Rechenzentren für künstliche Intelligenz erzeugt erheblichen Inflationsdruck durch steigende Energie- und Baunachfrage. Während Tech-Konzerne langfristige Kostensenkungen versprechen, erschwert der aktuelle Investitionsschub der Fed ihre Arbeit zur Inflationsbekämpfung.",
-          "bedeutung": "Der Widerspruch zwischen dem KI-Investitionsboom und dem Ziel der Preisstabilität könnte die Zinspolitik der wichtigsten Zentralbank der Welt auf Jahre hinaus prägen.",
-          "hintergrund": "Hyperscaler wie Microsoft, Google und Amazon investieren in beispiellosem Ausmaß in KI-Infrastruktur. Dies befeuert die Nachfrage nach Strom, Kühlsystemen, Chips und Fachkräften – allesamt inflationäre Impulse in einem Markt mit begrenztem Angebot.\n\nDie Fed steht vor einem Zielkonflikt: Zu frühe Zinssenkungen könnten die Inflation neu anfachen, zu späte das Wachstum abwürgen. KI-getriebene Produktivitätsgewinne, die den Preisdruck langfristig mildern sollen, sind in den Makrodaten bislang kaum messbar.",
-          "tag": "KI & Zinsen",
+          "titel": "KI-Infrastrukturboom erschwert der Fed die Inflationsbekämpfung",
+          "zusammenfassung": "Der massive Ausbau von Rechenzentren für künstliche Intelligenz erzeugt Inflationsdruck, der die Geldpolitik der US-Notenbank Federal Reserve verkompliziert. Tech-Konzerne versprechen zwar langfristige Effizienzgewinne, doch kurzfristig treibt die Investitionswelle Preise und Baukosten in die Höhe.",
+          "bedeutung": "Die Wechselwirkung zwischen dem KI-Investitionszyklus und der Notenbankpolitik könnte die Zinsentwicklung in den USA und damit die globalen Kapitalmärkte maßgeblich prägen.",
+          "hintergrund": "Die Fed beobachtet mit wachsender Aufmerksamkeit, wie der Tech-Sektor durch den KI-Boom eine eigenständige Inflationsquelle geworden ist. Energiekosten, Bauleistungen und spezialisierte Fachkräfte sind knapp und teuer – und Konzerne wie Microsoft, Amazon oder Google geben im großen Stil aus.\n\nAnalysten debattieren, ob die versprochenen Produktivitätssteigerungen durch KI schnell genug eintreten, um den Preisdruck zu kompensieren. Vorerst scheint die Technologie eher zur Inflation beizutragen als sie zu dämpfen.",
+          "tag": "KI Inflation Fed",
           "emoji": "🤖",
           "quelle": "CNBC",
           "quelle_url": "https://www.cnbc.com/2026/08/12/ais-costly-buildout-complicates-the-feds-inflation-fight.html"
+        },
+        {
+          "id": "boerse-1",
+          "titel": "Berkshire Hathaway macht Alphabet zu seiner drittgrößten Beteiligung",
+          "zusammenfassung": "Warren Buffetts Investmentholding Berkshire Hathaway hat seinen Anteil an Alphabet, der Google-Muttergesellschaft, massiv aufgestockt und hält nun Aktien im Wert von rund 37,9 Milliarden US-Dollar. Gleichzeitig wurden Positionen bei Fluggesellschaft Delta und im Immobiliensektor ausgebaut.",
+          "bedeutung": "Buffetts Positionierung gilt als Stimmungsbarometer für institutionelle Anleger weltweit und verleiht dem Tech-Sektor zusätzliche Legitimität als langfristiges Investment.",
+          "hintergrund": "Berkshire Hathaway hatte lange als skeptisch gegenüber reinen Technologieunternehmen gegolten, ehe die Holding massiv in Apple einstieg. Die Aufstockung bei Alphabet zeigt, dass das Konglomerat nun auch auf den KI-Wettbewerb setzt.\n\nDie Offenlegung der Positionen erfolgte im Rahmen einer regulatorischen Pflichtmitteilung zum Quartalsende und löste an den Märkten sofortige Reaktionen aus. Beobachter werten die Schritte als Signal, dass Buffetts Team trotz hoher Bewertungen im Tech-Sektor weiteres Kurspotenzial sieht.",
+          "tag": "Berkshire Alphabet",
+          "emoji": "📊",
+          "quelle": "CNBC",
+          "quelle_url": "https://www.cnbc.com/2026/08/14/berkshire-hathaway-boosts-alphabet-to-a-top-three-holding-ups-delta-and-housing-bets.html"
+        },
+        {
+          "id": "boerse-2",
+          "titel": "'Big Short'-Investor warnt vor KI-Klumpenrisiko",
+          "zusammenfassung": "Steve Eisman, bekannt durch seine Wette gegen den US-Immobilienmarkt vor der Finanzkrise 2008, schlägt Alarm: Der gesamte KI-Boom hänge in gefährlicher Weise von nur zwei Unternehmen ab – OpenAI und Anthropic. Eine Schwäche bei einem der beiden könnte den gesamten Sektor erschüttern.",
+          "bedeutung": "Eisman hat mit frühzeitigen Systemwarnungen Geschichte geschrieben; seine Mahnung verdient besondere Aufmerksamkeit in einem von KI-Euphorie geprägten Marktumfeld.",
+          "hintergrund": "Die Bewertungen im KI-Sektor haben in den vergangenen Jahren schwindelerregende Höhen erreicht, angetrieben von der Erwartung, dass generative KI nahezu jede Industrie umgestalten wird. Kritiker wie Eisman sehen jedoch eine gefährliche Konzentration: Scheitert eines der großen Sprachmodell-Unternehmen oder verliert es die technologische Führung, droht eine Neubewertung der gesamten Branche.\n\nBesonders brisant ist die Abhängigkeit vieler Unternehmen von Programmierschnittstellen, die letztlich von OpenAI oder Anthropic bereitgestellt werden. Eine Disruption dieser Kette könnte, so Eisman, Erinnerungen an den Subprime-Kollaps wecken – klein beginnend, systemisch endend.",
+          "tag": "KI-Klumpenrisiko",
+          "emoji": "⚠️",
+          "quelle": "CNBC",
+          "quelle_url": "https://www.cnbc.com/2026/08/13/big-short-investor-steve-eisman-sees-an-achilles-heel-in-the-ai-boom.html"
         }
       ]
     }
