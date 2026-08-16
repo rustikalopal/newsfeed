@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-15T01:54:38.126047+00:00",
-  "datum": "Samstag, 15. August 2026",
+  "generated_at": "2026-08-16T02:01:39.606630+00:00",
+  "datum": "Sonntag, 16. August 2026",
   "ressorts": [
     {
       "id": "politik",
@@ -9,36 +9,36 @@
       "stories": [
         {
           "id": "politik-0",
-          "titel": "Fünf Jahre Taliban: Frauen in Afghanistan berichten",
-          "zusammenfassung": "Fünf Jahre nach der Machtübernahme der Taliban schildern Afghanidinnen der BBC dramatische Einschnitte in ihrem Leben: öffentliche Auspeitschungen, Verlust von Arbeitsplätzen und ein Gesundheitssystem, das Frauen systematisch ausschließt. Das Ausmaß der Unterdrückung hat nach Aussagen der Betroffenen ein nie dagewesenes Niveau erreicht.",
-          "bedeutung": "Die Lage der Frauen in Afghanistan bleibt eine der gravierendsten humanitären Krisen weltweit und ein Prüfstein für die internationale Gemeinschaft.",
-          "hintergrund": "Seit dem Rückzug der westlichen Truppen im August 2021 hat das Taliban-Regime Schritt für Schritt sämtliche Errungenschaften der vergangenen zwei Jahrzehnte zurückgedreht. Frauen dürfen keine Universitäten besuchen, kaum noch arbeiten und müssen sich in der Öffentlichkeit vollständig verhüllen.\n\nInternationale Organisationen warnen, dass die medizinische Unterversorgung von Frauen zu einer stillen Sterblichkeitswelle führt. Trotz vereinzelter diplomatischer Bemühungen zeigt das Taliban-Regime keinerlei Bereitschaft zu Reformen.",
-          "tag": "Frauenrechte Afghanistan",
-          "emoji": "🪖",
+          "titel": "Israelische Angriffe im Südlibanon fordern elf Todesopfer",
+          "zusammenfassung": "Bei israelischen Luftangriffen auf den Südlibanon kamen nach Angaben der libanesischen Behörden elf Menschen ums Leben. Das israelische Militär begründete die Angriffe mit Vergeltungsmaßnahmen gegen die Hisbollah-Infrastruktur nach vorherigen Aktionen gegen eigene Soldaten.",
+          "bedeutung": "Die erneute Eskalation im Libanon gefährdet die fragile Waffenruhe in der Region und birgt das Risiko einer weiteren Ausweitung des Nahostkonflikts.",
+          "hintergrund": "Die Spannungen zwischen Israel und der Hisbollah-Miliz im Südlibanon flammen immer wieder auf, obwohl internationale Vermittler seit Monaten um eine dauerhafte Deeskalation bemüht sind. Beide Seiten werfen sich gegenseitig vor, den Konflikt anzuheizen.\n\nDie Angriffe fügen sich in ein Muster gegenseitiger Vergeltungsschläge ein, das Diplomaten zunehmend besorgt. Eine Ausweitung auf den breiteren Nahen Osten gilt angesichts der ohnehin angespannten Lage – insbesondere im Kontext des laufenden US-Iran-Konflikts – als reales Szenario.",
+          "tag": "Nahost-Eskalation",
+          "emoji": "💥",
           "quelle": "BBC",
-          "quelle_url": "https://www.bbc.co.uk/news/articles/clyje43dz4eo?at_medium=RSS&at_campaign=rss"
+          "quelle_url": "https://www.bbc.co.uk/news/articles/c4gjygx4gjeo?at_medium=RSS&at_campaign=rss"
         },
         {
           "id": "politik-1",
-          "titel": "Extremregen in Japan fordert acht Todesopfer",
-          "zusammenfassung": "Ungewöhnlich heftige Regenfälle haben Teile Japans verwüstet und dabei acht Menschen das Leben gekostet. Über 20.000 Haushalte waren zeitweise ohne Strom, am Tokioter Flughafen Narita saßen rund 7.000 Reisende fest.",
-          "bedeutung": "Der Extremregen illustriert die wachsende Verwundbarkeit selbst hochentwickelter Infrastrukturen gegenüber klimabedingten Wetterextremen.",
-          "hintergrund": "Japan ist naturgemäß häufig von Taifunen und Starkregen betroffen, doch Meteorologen stufen das aktuelle Ereignis als außergewöhnlich intensiv ein. Evakuierungen wurden in mehreren Regionen angeordnet, Bahnverbindungen und Straßen blieben stundenlang gesperrt.\n\nDer Vorfall reiht sich in eine Serie extremer Wetterereignisse ein, die in diesem Sommer weltweit für Schlagzeilen gesorgt haben, und befeuert die Debatte über den Ausbau von Katastrophenschutzinfrastruktur in Ballungsräumen.",
-          "tag": "Extremwetter Japan",
-          "emoji": "🌧️",
+          "titel": "Katar bestreitet Festnahme iranischer Piloten nach Abschuss",
+          "zusammenfassung": "Katar weist iranische Berichte zurück, wonach drei iranische Piloten seit dem Abschuss zweier Kampfjets zu Beginn des US-Iran-Krieges in katarischem Gewahrsam gehalten werden. Der Vorfall offenbart tiefe Spannungen zwischen den Golfstaaten und dem Iran.",
+          "bedeutung": "Der Streit um die gefangengehaltenen Piloten zeigt, wie der US-Iran-Krieg die gesamte Golfregion destabilisiert und neue diplomatische Bruchlinien schafft.",
+          "hintergrund": "Seit Ausbruch des US-Iran-Konflikts steht Katar unter erheblichem Druck, seine Position zu definieren: Das Emirat beherbergt sowohl bedeutende US-Militärbasen als auch traditionell enge Handelsbeziehungen mit dem Iran. Der Abschuss der iranischen Kampfjets markiert einen der schwerwiegendsten Zwischenfälle zwischen den beiden Ländern.\n\nTehran besteht auf der Rückgabe der Piloten, während Doha jede Beteiligung bestreitet. Internationale Beobachter warnen, dass ungeklärte Vorfälle dieser Art das Potenzial haben, den Konflikt über seine bisherigen Grenzen hinaus auszuweiten.",
+          "tag": "US-Iran-Krieg",
+          "emoji": "✈️",
           "quelle": "BBC",
-          "quelle_url": "https://www.bbc.co.uk/news/articles/cq561gpen8lo?at_medium=RSS&at_campaign=rss"
+          "quelle_url": "https://www.bbc.co.uk/news/articles/cj4kk8kz271o?at_medium=RSS&at_campaign=rss"
         },
         {
           "id": "politik-2",
-          "titel": "Frankreichs Verfassungsgericht kippt Social-Media-Verbot für Minderjährige",
-          "zusammenfassung": "Der französische Verfassungsrat hat ein geplantes Gesetz gestoppt, das Kindern unter 15 Jahren die Nutzung sozialer Netzwerke untersagen sollte. Das Gericht sah darin einen unverhältnismäßigen Eingriff in die Meinungsfreiheit; Präsident Macron kündigte jedoch umgehend einen neuen Gesetzentwurf an.",
-          "bedeutung": "Die Entscheidung zeigt, wie schwierig es selbst für entschlossene Regierungen ist, den Schutz von Kindern im Netz rechtssicher zu gestalten.",
-          "hintergrund": "Frankreich hatte mit dem Vorhaben international Aufsehen erregt und galt als Vorreiter einer neuen Regulierungswelle gegenüber Tech-Konzernen. Das Verfassungsgericht ließ keinen Zweifel daran, dass ein solches Verbot nur mit engeren rechtlichen Leitplanken vereinbar wäre.\n\nDie Debatte ist keineswegs beendet: Mehrere EU-Staaten beobachten den französischen Gesetzgebungsprozess genau, da ähnliche Vorhaben auch andernorts in Vorbereitung sind.",
-          "tag": "Jugendschutz Online",
-          "emoji": "📵",
+          "titel": "Erdbeben in Indonesien: Rettungsteams suchen Überlebende",
+          "zusammenfassung": "Nach einem schweren Erdbeben in Indonesien, das mindestens 47 Menschen das Leben kostete und Hunderte Gebäude zerstörte, sind Rettungskräfte fieberhaft auf der Suche nach Überlebenden. Die Behörden haben eine Sofortbewertung der Schäden eingeleitet.",
+          "bedeutung": "Indonesien liegt im geologisch hochaktiven Pazifischen Feuerring – Erdbeben dieser Stärke können ganze Regionen verwüsten und internationale Nothilfe erforderlich machen.",
+          "hintergrund": "Indonesien gehört zu den erdbebengesfährdetsten Ländern der Welt und erlebt regelmäßig verheerende Naturkatastrophen. Die dichte Besiedlung vieler Regionen sowie der teils mangelnde Zugang zu erdbebensicherem Bauen verschärfen die Folgen solcher Ereignisse erheblich.\n\nDie Schadensbilanz könnte noch steigen, da Rettungskräfte in schwer zugängliche Gebiete vordringen müssen. Humanitäre Organisationen stehen bereit, um bei Bedarf internationale Unterstützung zu koordinieren.",
+          "tag": "Naturkatastrophe",
+          "emoji": "🆘",
           "quelle": "BBC",
-          "quelle_url": "https://www.bbc.co.uk/news/articles/cx2vj433xqlo?at_medium=RSS&at_campaign=rss"
+          "quelle_url": "https://www.bbc.co.uk/news/articles/c3v00w5ylw9o?at_medium=RSS&at_campaign=rss"
         }
       ]
     },
@@ -49,36 +49,25 @@
       "stories": [
         {
           "id": "wirtschaft-0",
-          "titel": "Britische Wirtschaft wächst, aber Iran-Krieg trübt Aussichten",
-          "zusammenfassung": "Die britische Volkswirtschaft verzeichnete zuletzt ein moderates Wachstum, gestützt durch warmes Wetter und die Fußball-Weltmeisterschaft der Männer. Ökonomen warnen jedoch, dass die Auswirkungen des Iran-Krieges und hohe Energiepreise die Erholung in den kommenden Monaten erheblich bremsen könnten.",
-          "bedeutung": "Großbritannien steht stellvertretend für viele westliche Volkswirtschaften, die zwischen zarten Erholungszeichen und geopolitischen Schocks balancieren müssen.",
-          "hintergrund": "Nach Jahren erhöhter Inflation und schwacher Konsumlaune hatte sich zuletzt vorsichtiger Optimismus breitgemacht. Der Konsum zog saisonal bedingt an, und Dienstleistungssektoren profitierten von Großereignissen.\n\nDoch der Iran-Krieg hat die Energiemärkte erneut destabilisiert und treibt Rohstoffpreise hoch. Analysten mahnen, dass die strukturellen Probleme des Landes – schwache Produktivität, angespannte Staatshaushalte – durch externe Schocks schnell wieder in den Vordergrund rücken können.",
-          "tag": "Konjunktur UK",
-          "emoji": "🇬🇧",
+          "titel": "USA: Dutzende Länder halfen China beim Umgehen von Zöllen",
+          "zusammenfassung": "Ein neuer US-Regierungsbericht belegt, dass China Waren über Drittländer mit niedrigeren Zollsätzen umgeleitet hat, um die hohen US-Importzölle zu umgehen. Demnach waren Dutzende Staaten an diesen Umgehungsstrategien beteiligt.",
+          "bedeutung": "Der Befund könnte zu einer deutlichen Verschärfung des globalen Handelsstreits führen und Länder unter Druck setzen, die bislang von Chinas Umgehungsrouten profitierten.",
+          "hintergrund": "Seit der Einführung massiver US-Zölle auf chinesische Waren unter Präsident Trump hat Peking systematisch nach Wegen gesucht, die wirtschaftlichen Folgen abzumildern. Dabei wurden Produktions- und Handelsrouten zunehmend über Southeast-asiatische, lateinamerikanische und afrikanische Länder umgeleitet.\n\nWashington steht nun vor der Herausforderung, entsprechende Gegenmaßnahmen zu ergreifen, ohne befreundete Handelspartner zu verprellen. Experten warnen, dass eine weitere Eskalation die ohnehin fragile Weltwirtschaft zusätzlich belasten könnte.",
+          "tag": "Handelskrieg",
+          "emoji": "🚢",
           "quelle": "BBC",
-          "quelle_url": "https://www.bbc.co.uk/news/articles/cx2d1gpx2k0o?at_medium=RSS&at_campaign=rss"
+          "quelle_url": "https://www.bbc.co.uk/news/articles/c78gy6ep3n5o?at_medium=RSS&at_campaign=rss"
         },
         {
           "id": "wirtschaft-1",
-          "titel": "Regierung erwägt Absenkung der Elektroauto-Verkaufsziele",
-          "zusammenfassung": "Unter dem Druck der Automobilindustrie prüft die Regierung, das Ziel für Neuzulassungen von Elektrofahrzeugen bis 2030 von 80 auf 50 Prozent zu senken. Die Debatte zeigt, wie stark politische Klimaziele unter wirtschaftlichen Realitäten geraten.",
-          "bedeutung": "Eine solche Zielanpassung hätte weitreichende Folgen für Europas Dekarbonisierungsstrategie im Verkehrssektor und für die globale Wettbewerbsposition der Autoindustrie.",
-          "hintergrund": "Autohersteller argumentieren seit Monaten, dass die Nachfrage nach Elektrofahrzeugen hinter den politischen Erwartungen zurückbleibt und ambitionierte Quoten Produktionsstandorte gefährden. Zugleich steht die Ladeinfrastruktur in vielen Regionen noch immer auf tönernen Füßen.\n\nKritiker warnen, eine Aufweichung der Ziele sende ein verheerendes Signal an Investoren und verzögere den dringend nötigen Strukturwandel. Die Entscheidung dürfte auch in Brüssel aufmerksam verfolgt werden, wo der EU-weite Verbrenner-Ausstieg 2035 politisch zunehmend unter Beschuss gerät.",
+          "titel": "E-Auto-Verkaufsziel könnte drastisch nach unten korrigiert werden",
+          "zusammenfassung": "Die Regierung prüft einer Meldung zufolge, das Ziel für den Anteil neuer Elektroautos am Gesamtmarkt bis 2030 von 80 auf 50 Prozent zu senken. Hintergrund ist anhaltender Druck der Automobilindustrie.",
+          "bedeutung": "Eine solche Kurskorrektur würde weitreichende Signalwirkung für die europäische Klimapolitik und die globale Transformation der Automobilbranche haben.",
+          "hintergrund": "Die ambitionierten Elektroauto-Quoten standen schon länger in der Kritik: Hersteller und Händler beklagen, dass die Nachfrage der Verbraucher hinter den politischen Vorgaben zurückbleibt und der Aufbau der Ladeinfrastruktur nicht mit den Zielvorgaben Schritt hält. Einige Länder haben ihre nationalen Ziele bereits stillschweigend nach hinten verschoben.\n\nEine offizielle Absenkung des Ziels würde eine der zentralen Säulen der europäischen Dekarbonisierungsstrategie im Verkehrssektor erschüttern und dürfte Nachverhandlungen auf EU-Ebene nach sich ziehen.",
           "tag": "Elektromobilität",
           "emoji": "🚗",
           "quelle": "BBC",
           "quelle_url": "https://www.bbc.co.uk/news/articles/c1l1yj0zd9no?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "id": "wirtschaft-2",
-          "titel": "Südkoreas Börsenturbulenzen vernichten Privatanleger-Vermögen",
-          "zusammenfassung": "Eine scharfe Korrektur am südkoreanischen Aktienmarkt hat Kleinanleger hart getroffen – Verluste von umgerechnet 14.000 US-Dollar innerhalb eines einzigen Monats sind keine Einzelfälle. Die Schwankungen haben eine breite Debatte über Anlegerschutz und Marktstruktur ausgelöst.",
-          "bedeutung": "Die Turbulenzen in Seoul illustrieren, wie volatile Märkte in Schwellenländern globale Kapitalflüsse beeinflussen und private Vermögen gefährden können.",
-          "hintergrund": "Südkoreas Aktienmarkt gilt als einer der volatilsten unter den entwickelten Volkswirtschaften, nicht zuletzt wegen eines hohen Anteils spekulativ orientierter Privatanleger. Strukturelle Schwächen wie geringe Corporate Governance und starke Abhängigkeit von Exportzyklen verstärken die Ausschläge.\n\nDie jüngste Korrektur fällt in eine Phase globaler Unsicherheit, in der Kapital aus riskanteren Märkten abgezogen wird. Regulatoren stehen unter Druck, Schutzmaßnahmen für Kleinanleger zu verschärfen.",
-          "tag": "Südkorea Börsenkorrektur",
-          "emoji": "📉",
-          "quelle": "BBC",
-          "quelle_url": "https://www.bbc.co.uk/news/articles/c2k7zj4knwlo?at_medium=RSS&at_campaign=rss"
         }
       ]
     },
@@ -89,36 +78,36 @@
       "stories": [
         {
           "id": "boerse-0",
-          "titel": "KI-Infrastrukturboom erschwert der Fed die Inflationsbekämpfung",
-          "zusammenfassung": "Der massive Ausbau von Rechenzentren für künstliche Intelligenz erzeugt Inflationsdruck, der die Geldpolitik der US-Notenbank Federal Reserve verkompliziert. Tech-Konzerne versprechen zwar langfristige Effizienzgewinne, doch kurzfristig treibt die Investitionswelle Preise und Baukosten in die Höhe.",
-          "bedeutung": "Die Wechselwirkung zwischen dem KI-Investitionszyklus und der Notenbankpolitik könnte die Zinsentwicklung in den USA und damit die globalen Kapitalmärkte maßgeblich prägen.",
-          "hintergrund": "Die Fed beobachtet mit wachsender Aufmerksamkeit, wie der Tech-Sektor durch den KI-Boom eine eigenständige Inflationsquelle geworden ist. Energiekosten, Bauleistungen und spezialisierte Fachkräfte sind knapp und teuer – und Konzerne wie Microsoft, Amazon oder Google geben im großen Stil aus.\n\nAnalysten debattieren, ob die versprochenen Produktivitätssteigerungen durch KI schnell genug eintreten, um den Preisdruck zu kompensieren. Vorerst scheint die Technologie eher zur Inflation beizutragen als sie zu dämpfen.",
-          "tag": "KI Inflation Fed",
-          "emoji": "🤖",
+          "titel": "US-Inflation im Juli leicht gestiegen – Fed unter Beobachtung",
+          "zusammenfassung": "Die US-Verbraucherpreise stiegen im Juli um 0,1 Prozent, was einer Jahresrate von 3,4 Prozent entspricht – genau im Rahmen der Erwartungen. Die Daten werden von Marktteilnehmern als Signal für den weiteren Zinskurs der US-Notenbank gewertet.",
+          "bedeutung": "Inflationsdaten in dieser Größenordnung entscheiden maßgeblich darüber, ob die Federal Reserve ihren geldpolitischen Kurs beibehält oder Zinssenkungen signalisiert.",
+          "hintergrund": "Die Inflation in den USA hat sich nach ihrem Höhepunkt zwar deutlich abgekühlt, liegt aber weiterhin über dem Zwei-Prozent-Ziel der Fed. Anleger und Analysten beobachten jeden Datenpunkt genau, um Hinweise auf den Zeitpunkt erster Zinssenkungen zu erhalten.\n\nEin stabiler, moderater Preisanstieg wie im Juli gilt einerseits als Zeichen wirtschaftlicher Vitalität, lässt andererseits aber keinen unmittelbaren Handlungsdruck für die Notenbank erkennen. Die nächste Fed-Sitzung dürfte entsprechend intensiv diskutiert werden.",
+          "tag": "Inflation & Zinsen",
+          "emoji": "📈",
           "quelle": "CNBC",
-          "quelle_url": "https://www.cnbc.com/2026/08/12/ais-costly-buildout-complicates-the-feds-inflation-fight.html"
+          "quelle_url": "https://www.cnbc.com/2026/08/12/cpi-inflation-report-july-2026.html"
         },
         {
           "id": "boerse-1",
-          "titel": "Berkshire Hathaway macht Alphabet zu seiner drittgrößten Beteiligung",
-          "zusammenfassung": "Warren Buffetts Investmentholding Berkshire Hathaway hat seinen Anteil an Alphabet, der Google-Muttergesellschaft, massiv aufgestockt und hält nun Aktien im Wert von rund 37,9 Milliarden US-Dollar. Gleichzeitig wurden Positionen bei Fluggesellschaft Delta und im Immobiliensektor ausgebaut.",
-          "bedeutung": "Buffetts Positionierung gilt als Stimmungsbarometer für institutionelle Anleger weltweit und verleiht dem Tech-Sektor zusätzliche Legitimität als langfristiges Investment.",
-          "hintergrund": "Berkshire Hathaway hatte lange als skeptisch gegenüber reinen Technologieunternehmen gegolten, ehe die Holding massiv in Apple einstieg. Die Aufstockung bei Alphabet zeigt, dass das Konglomerat nun auch auf den KI-Wettbewerb setzt.\n\nDie Offenlegung der Positionen erfolgte im Rahmen einer regulatorischen Pflichtmitteilung zum Quartalsende und löste an den Märkten sofortige Reaktionen aus. Beobachter werten die Schritte als Signal, dass Buffetts Team trotz hoher Bewertungen im Tech-Sektor weiteres Kurspotenzial sieht.",
-          "tag": "Berkshire Alphabet",
-          "emoji": "📊",
+          "titel": "Berkshire Hathaway macht Alphabet zur Top-Beteiligung",
+          "zusammenfassung": "Warren Buffetts Investmentgesellschaft Berkshire Hathaway hat ihre Beteiligung an Alphabet, der Muttergesellschaft von Google, massiv ausgebaut und hält nun rund 106 Millionen Aktien im Wert von knapp 38 Milliarden Dollar. Gleichzeitig wurden Positionen bei Delta Airlines und Wohnungsbauunternehmen erhöht.",
+          "bedeutung": "Buffetts Investmententscheidungen gelten als Stimmungsbarometer für die Märkte – ein so deutliches Bekenntnis zu Alphabet sendet ein starkes Signal an institutionelle Anleger weltweit.",
+          "hintergrund": "Berkshire Hathaway hatte Alphabet lange gemieden, bevor das Unternehmen schrittweise in den vergangenen Quartalen einstieg. Der nun dokumentierte Ausbau der Position unterstreicht das Vertrauen in das langfristige Wachstumspotenzial des KI- und Cloudgeschäfts von Google.\n\nDie gleichzeitige Aufstockung bei Delta und Wohnungsbauaktien lässt auf eine Wette auf eine robuste US-Binnenkonjunktur schließen. Anleger werden in den kommenden Handelstagen genau beobachten, wie der Markt auf Buffetts Portfolio-Signale reagiert.",
+          "tag": "Tech-Investitionen",
+          "emoji": "💼",
           "quelle": "CNBC",
           "quelle_url": "https://www.cnbc.com/2026/08/14/berkshire-hathaway-boosts-alphabet-to-a-top-three-holding-ups-delta-and-housing-bets.html"
         },
         {
           "id": "boerse-2",
-          "titel": "'Big Short'-Investor warnt vor KI-Klumpenrisiko",
-          "zusammenfassung": "Steve Eisman, bekannt durch seine Wette gegen den US-Immobilienmarkt vor der Finanzkrise 2008, schlägt Alarm: Der gesamte KI-Boom hänge in gefährlicher Weise von nur zwei Unternehmen ab – OpenAI und Anthropic. Eine Schwäche bei einem der beiden könnte den gesamten Sektor erschüttern.",
-          "bedeutung": "Eisman hat mit frühzeitigen Systemwarnungen Geschichte geschrieben; seine Mahnung verdient besondere Aufmerksamkeit in einem von KI-Euphorie geprägten Marktumfeld.",
-          "hintergrund": "Die Bewertungen im KI-Sektor haben in den vergangenen Jahren schwindelerregende Höhen erreicht, angetrieben von der Erwartung, dass generative KI nahezu jede Industrie umgestalten wird. Kritiker wie Eisman sehen jedoch eine gefährliche Konzentration: Scheitert eines der großen Sprachmodell-Unternehmen oder verliert es die technologische Führung, droht eine Neubewertung der gesamten Branche.\n\nBesonders brisant ist die Abhängigkeit vieler Unternehmen von Programmierschnittstellen, die letztlich von OpenAI oder Anthropic bereitgestellt werden. Eine Disruption dieser Kette könnte, so Eisman, Erinnerungen an den Subprime-Kollaps wecken – klein beginnend, systemisch endend.",
-          "tag": "KI-Klumpenrisiko",
-          "emoji": "⚠️",
+          "titel": "Goldman Sachs verdient glänzend an KI-Infrastruktur-Boom",
+          "zusammenfassung": "Goldman Sachs profitiert als führende Investmentbank massiv vom globalen Boom beim Aufbau von KI-Infrastruktur. Zuletzt unterstützte das Institut Nvidia und Intel bei der Kapitalbeschaffung zur Deckung der explodierenden Nachfrage nach Rechenkapazitäten.",
+          "bedeutung": "Der Trend zeigt, wie der KI-Investitionszyklus inzwischen auch die großen Finanzinstitute zu einer zentralen Schaltstelle der Technologiefinanzierung macht.",
+          "hintergrund": "Die Nachfrage nach KI-Rechenzentren, Chips und zugehöriger Infrastruktur hat eine beispiellose Investitionswelle ausgelöst. Technologiekonzerne benötigen zur Finanzierung dieser Expansionen zunehmend Unterstützung der Kapitalmärkte – und Goldman Sachs hat sich als bevorzugter Partner positioniert.\n\nFür die Bank bedeutet dies eine neue, hochlukrative Einnahmequelle neben dem klassischen Investmentbanking. Analysten sehen darin ein strukturelles Wachstumsfeld, das die Ertragsströme der großen Wall-Street-Häuser in den kommenden Jahren maßgeblich prägen dürfte.",
+          "tag": "KI-Finanzierung",
+          "emoji": "🤖",
           "quelle": "CNBC",
-          "quelle_url": "https://www.cnbc.com/2026/08/13/big-short-investor-steve-eisman-sees-an-achilles-heel-in-the-ai-boom.html"
+          "quelle_url": "https://www.cnbc.com/2026/08/14/goldmans-latest-cash-cow-is-all-about-funding-the-ai-infrastructure-boom.html"
         }
       ]
     }
