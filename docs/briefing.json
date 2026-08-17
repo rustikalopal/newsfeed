@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-16T02:01:39.606630+00:00",
-  "datum": "Sonntag, 16. August 2026",
+  "generated_at": "2026-08-17T01:59:00.836006+00:00",
+  "datum": "Montag, 17. August 2026",
   "ressorts": [
     {
       "id": "politik",
@@ -9,36 +9,36 @@
       "stories": [
         {
           "id": "politik-0",
-          "titel": "Israelische Angriffe im Südlibanon fordern elf Todesopfer",
-          "zusammenfassung": "Bei israelischen Luftangriffen auf den Südlibanon kamen nach Angaben der libanesischen Behörden elf Menschen ums Leben. Das israelische Militär begründete die Angriffe mit Vergeltungsmaßnahmen gegen die Hisbollah-Infrastruktur nach vorherigen Aktionen gegen eigene Soldaten.",
-          "bedeutung": "Die erneute Eskalation im Libanon gefährdet die fragile Waffenruhe in der Region und birgt das Risiko einer weiteren Ausweitung des Nahostkonflikts.",
-          "hintergrund": "Die Spannungen zwischen Israel und der Hisbollah-Miliz im Südlibanon flammen immer wieder auf, obwohl internationale Vermittler seit Monaten um eine dauerhafte Deeskalation bemüht sind. Beide Seiten werfen sich gegenseitig vor, den Konflikt anzuheizen.\n\nDie Angriffe fügen sich in ein Muster gegenseitiger Vergeltungsschläge ein, das Diplomaten zunehmend besorgt. Eine Ausweitung auf den breiteren Nahen Osten gilt angesichts der ohnehin angespannten Lage – insbesondere im Kontext des laufenden US-Iran-Konflikts – als reales Szenario.",
-          "tag": "Nahost-Eskalation",
-          "emoji": "💥",
+          "titel": "Trump reduziert Militärübungen mit Südkorea",
+          "zusammenfassung": "Die USA kündigen an, ihre gemeinsamen Militärmanöver mit Südkorea deutlich zu verkleinern. Trump begründet den Schritt mit seiner engen persönlichen Beziehung zu Nordkoreas Machthaber und der Tatsache, dass Seoul sich nicht am Krieg gegen Iran beteiligt habe.",
+          "bedeutung": "Der Schritt gefährdet die seit Jahrzehnten bewährte Sicherheitsarchitektur in Ostasien und sendet ein Signal der Distanzierung von einem der engsten US-Verbündeten.",
+          "hintergrund": "Washington hat Südkorea offen dafür kritisiert, dass das Land sich der von den USA angeführten Militärkoalition gegen Iran ferngehalten hat. Trump nutzt nun die Verkleinerung der Manöver als sichtbares Druckmittel – und gleichzeitig als Geste in Richtung Pjöngjang.\n\nFür Südkorea bedeutet das eine empfindliche sicherheitspolitische Schwächung. Die gemeinsamen Übungen galten bislang als unverzichtbares Signal der Abschreckung gegenüber Nordkorea. Seoul und Tokio dürften die Entwicklung mit wachsender Sorge beobachten.",
+          "tag": "Bündnispolitik",
+          "emoji": "🇰🇷",
           "quelle": "BBC",
-          "quelle_url": "https://www.bbc.co.uk/news/articles/c4gjygx4gjeo?at_medium=RSS&at_campaign=rss"
+          "quelle_url": "https://www.bbc.co.uk/news/articles/cx2lll7zvn0o?at_medium=RSS&at_campaign=rss"
         },
         {
           "id": "politik-1",
-          "titel": "Katar bestreitet Festnahme iranischer Piloten nach Abschuss",
-          "zusammenfassung": "Katar weist iranische Berichte zurück, wonach drei iranische Piloten seit dem Abschuss zweier Kampfjets zu Beginn des US-Iran-Krieges in katarischem Gewahrsam gehalten werden. Der Vorfall offenbart tiefe Spannungen zwischen den Golfstaaten und dem Iran.",
-          "bedeutung": "Der Streit um die gefangengehaltenen Piloten zeigt, wie der US-Iran-Krieg die gesamte Golfregion destabilisiert und neue diplomatische Bruchlinien schafft.",
-          "hintergrund": "Seit Ausbruch des US-Iran-Konflikts steht Katar unter erheblichem Druck, seine Position zu definieren: Das Emirat beherbergt sowohl bedeutende US-Militärbasen als auch traditionell enge Handelsbeziehungen mit dem Iran. Der Abschuss der iranischen Kampfjets markiert einen der schwerwiegendsten Zwischenfälle zwischen den beiden Ländern.\n\nTehran besteht auf der Rückgabe der Piloten, während Doha jede Beteiligung bestreitet. Internationale Beobachter warnen, dass ungeklärte Vorfälle dieser Art das Potenzial haben, den Konflikt über seine bisherigen Grenzen hinaus auszuweiten.",
-          "tag": "US-Iran-Krieg",
-          "emoji": "✈️",
+          "titel": "Kushner trifft Hamas-Chef: Nahost-Diplomatie in Bewegung",
+          "zusammenfassung": "Trumps Nahost-Sondergesandter Jared Kushner hat sich mit dem Anführer der Hamas zu Gesprächen über einen Gaza-Friedensplan getroffen. Das ungewöhnliche Treffen findet nur eine Woche, nachdem Israel den amerikanischen Friedensplan abgelehnt hatte, besondere Brisanz.",
+          "bedeutung": "Das Gespräch markiert einen seltenen direkten Kontakt zwischen einem US-Emissär und der Hamas und zeigt, wie stark Washington den Druck auf alle Parteien erhöht.",
+          "hintergrund": "Seit Monaten versucht die Trump-Administration, einen Waffenstillstand im Gaza-Krieg zu erzwingen und einen eigenen Friedensplan durchzusetzen. Israels Ablehnung vergangene Woche hatte den Prozess ins Stocken gebracht und Washington in eine unangenehme Lage zwischen seinen Verbündeten und den Kriegsparteien gebracht.\n\nDass Kushner nun direkt mit Hamas-Vertretern spricht, ist diplomatisch heikel, aber offenbar kalkuliert: Washington signalisiert damit, dass es bereit ist, alle Akteure an den Tisch zu zwingen – auch wenn das innenpolitisch in Israel und in Teilen der US-Öffentlichkeit auf Widerstand stößt.",
+          "tag": "Nahost-Konflikt",
+          "emoji": "🕊️",
           "quelle": "BBC",
-          "quelle_url": "https://www.bbc.co.uk/news/articles/cj4kk8kz271o?at_medium=RSS&at_campaign=rss"
+          "quelle_url": "https://www.bbc.co.uk/news/articles/c77gg5vn44yo?at_medium=RSS&at_campaign=rss"
         },
         {
           "id": "politik-2",
-          "titel": "Erdbeben in Indonesien: Rettungsteams suchen Überlebende",
-          "zusammenfassung": "Nach einem schweren Erdbeben in Indonesien, das mindestens 47 Menschen das Leben kostete und Hunderte Gebäude zerstörte, sind Rettungskräfte fieberhaft auf der Suche nach Überlebenden. Die Behörden haben eine Sofortbewertung der Schäden eingeleitet.",
-          "bedeutung": "Indonesien liegt im geologisch hochaktiven Pazifischen Feuerring – Erdbeben dieser Stärke können ganze Regionen verwüsten und internationale Nothilfe erforderlich machen.",
-          "hintergrund": "Indonesien gehört zu den erdbebengesfährdetsten Ländern der Welt und erlebt regelmäßig verheerende Naturkatastrophen. Die dichte Besiedlung vieler Regionen sowie der teils mangelnde Zugang zu erdbebensicherem Bauen verschärfen die Folgen solcher Ereignisse erheblich.\n\nDie Schadensbilanz könnte noch steigen, da Rettungskräfte in schwer zugängliche Gebiete vordringen müssen. Humanitäre Organisationen stehen bereit, um bei Bedarf internationale Unterstützung zu koordinieren.",
-          "tag": "Naturkatastrophe",
-          "emoji": "🆘",
+          "titel": "Schwerster ukrainischer Angriff 2026 trifft Russland",
+          "zusammenfassung": "Russland meldet mindestens sieben Tote nach dem bislang größten ukrainischen Angriff in diesem Jahr. In der Nacht darauf flog Moskau seinerseits schwere Gegenschläge gegen Kiew, die in der ukrainischen Hauptstadt mehrere Brände auslösten.",
+          "bedeutung": "Die gegenseitigen Eskalationsschritte zeigen, dass der Krieg trotz anhaltender Verhandlungssignale auf dem Schlachtfeld unvermindert intensiv geführt wird.",
+          "hintergrund": "Seit Monaten versuchen beide Seiten, durch gezielte Tiefschläge ins jeweilige Hinterland militärischen und psychologischen Druck aufzubauen. Die ukrainische Offensive richtet sich dabei zunehmend auf russisches Territorium – ein Zeichen dafür, dass Kiew trotz anhaltender Ressourcenengpässe seine Fähigkeit zu Gegenwehr demonstrieren will.\n\nDie russischen Angriffe auf Kiew in der gleichen Nacht unterstreichen die anhaltende Spirale der Vergeltung. Für die Zivilbevölkerung auf beiden Seiten verschärft sich damit die humanitäre Lage weiter.",
+          "tag": "Ukraine-Krieg",
+          "emoji": "💥",
           "quelle": "BBC",
-          "quelle_url": "https://www.bbc.co.uk/news/articles/c3v00w5ylw9o?at_medium=RSS&at_campaign=rss"
+          "quelle_url": "https://www.bbc.co.uk/news/articles/c1411pgje8xo?at_medium=RSS&at_campaign=rss"
         }
       ]
     },
@@ -49,25 +49,25 @@
       "stories": [
         {
           "id": "wirtschaft-0",
-          "titel": "USA: Dutzende Länder halfen China beim Umgehen von Zöllen",
-          "zusammenfassung": "Ein neuer US-Regierungsbericht belegt, dass China Waren über Drittländer mit niedrigeren Zollsätzen umgeleitet hat, um die hohen US-Importzölle zu umgehen. Demnach waren Dutzende Staaten an diesen Umgehungsstrategien beteiligt.",
-          "bedeutung": "Der Befund könnte zu einer deutlichen Verschärfung des globalen Handelsstreits führen und Länder unter Druck setzen, die bislang von Chinas Umgehungsrouten profitierten.",
-          "hintergrund": "Seit der Einführung massiver US-Zölle auf chinesische Waren unter Präsident Trump hat Peking systematisch nach Wegen gesucht, die wirtschaftlichen Folgen abzumildern. Dabei wurden Produktions- und Handelsrouten zunehmend über Southeast-asiatische, lateinamerikanische und afrikanische Länder umgeleitet.\n\nWashington steht nun vor der Herausforderung, entsprechende Gegenmaßnahmen zu ergreifen, ohne befreundete Handelspartner zu verprellen. Experten warnen, dass eine weitere Eskalation die ohnehin fragile Weltwirtschaft zusätzlich belasten könnte.",
-          "tag": "Handelskrieg",
-          "emoji": "🚢",
-          "quelle": "BBC",
-          "quelle_url": "https://www.bbc.co.uk/news/articles/c78gy6ep3n5o?at_medium=RSS&at_campaign=rss"
+          "titel": "Trumps Steuergesetz zementiert Vorteil für Superreiche",
+          "zusammenfassung": "Nach der Verabschiedung des sogenannten 'One Big Beautiful Bill Act' durch das US-Repräsentantenhaus zeichnet sich ab, dass das Gesetzespaket Steuersenkungen von über fünf Billionen Dollar bei gleichzeitigen Kürzungen bei Sozialprogrammen wie Lebensmittelmarken vorsieht. Kritiker sprechen von einer massiven Umverteilung zugunsten der Wohlhabendsten.",
+          "bedeutung": "Das weitreichende Steuer- und Sozialgesetz dürfte die wirtschaftliche Ungleichheit in den USA langfristig verschärfen und hat globale Signalwirkung für die Debatte um Besteuerung von Vermögen.",
+          "hintergrund": "Das Gesetzespaket der Trump-Administration kombiniert auf ungewöhnliche Weise dramatische Steuersenkungen für Spitzenverdiener und Unternehmen mit harten Einschnitten bei Sozialtransfers, von denen Millionen einkommensschwache Haushalte abhängen. Ökonomen warnen vor einer strukturellen Vertiefung der Einkommensschere.\n\nInternational wird das US-Steuermodell aufmerksam verfolgt, denn es setzt Anreize für Kapitalverlagerungen und erhöht den Druck auf andere Staaten in einem ohnehin angespannten Steuerwettbewerb. Die Debatte über eine globale Mindeststeuer für Multimillionäre dürfte dadurch neuen Auftrieb bekommen.",
+          "tag": "Steuerpolitik",
+          "emoji": "💰",
+          "quelle": "The Guardian",
+          "quelle_url": "https://www.theguardian.com/business/2026/aug/15/trump-big-beautiful-bill-millionaires"
         },
         {
           "id": "wirtschaft-1",
-          "titel": "E-Auto-Verkaufsziel könnte drastisch nach unten korrigiert werden",
-          "zusammenfassung": "Die Regierung prüft einer Meldung zufolge, das Ziel für den Anteil neuer Elektroautos am Gesamtmarkt bis 2030 von 80 auf 50 Prozent zu senken. Hintergrund ist anhaltender Druck der Automobilindustrie.",
-          "bedeutung": "Eine solche Kurskorrektur würde weitreichende Signalwirkung für die europäische Klimapolitik und die globale Transformation der Automobilbranche haben.",
-          "hintergrund": "Die ambitionierten Elektroauto-Quoten standen schon länger in der Kritik: Hersteller und Händler beklagen, dass die Nachfrage der Verbraucher hinter den politischen Vorgaben zurückbleibt und der Aufbau der Ladeinfrastruktur nicht mit den Zielvorgaben Schritt hält. Einige Länder haben ihre nationalen Ziele bereits stillschweigend nach hinten verschoben.\n\nEine offizielle Absenkung des Ziels würde eine der zentralen Säulen der europäischen Dekarbonisierungsstrategie im Verkehrssektor erschüttern und dürfte Nachverhandlungen auf EU-Ebene nach sich ziehen.",
-          "tag": "Elektromobilität",
-          "emoji": "🚗",
+          "titel": "Meta-Prozess könnte Instagram und Facebook grundlegend verändern",
+          "zusammenfassung": "Rund 30 US-Bundesstaaten haben Meta vor Gericht gebracht und fordern tiefgreifende Reformen der Plattformen zum Schutz minderjähriger Nutzer. Sollte die Klage Erfolg haben, könnten grundlegende Funktionen von Instagram und Facebook neu gestaltet werden müssen.",
+          "bedeutung": "Das Verfahren ist eines der bedeutendsten Tech-Regulierungsverfahren der jüngeren Geschichte und könnte einen globalen Präzedenzfall für den Umgang sozialer Plattformen mit jungen Menschen setzen.",
+          "hintergrund": "Der Sammelklagedruck gegen Meta hat sich in den vergangenen Jahren massiv aufgebaut, befeuert durch Studien und Whistleblower-Berichte über die psychischen Auswirkungen von Social Media auf Jugendliche. Die beteiligten Staatsanwaltschaften werfen dem Konzern vor, die Risiken bewusst in Kauf genommen zu haben.\n\nFür Meta stehen nicht nur hohe Strafzahlungen auf dem Spiel, sondern möglicherweise auch ein erzwungener Umbau seiner Kernprodukte – ein Szenario, das Investoren und die gesamte Plattformbranche aufmerksam verfolgen.",
+          "tag": "Tech-Regulierung",
+          "emoji": "⚖️",
           "quelle": "BBC",
-          "quelle_url": "https://www.bbc.co.uk/news/articles/c1l1yj0zd9no?at_medium=RSS&at_campaign=rss"
+          "quelle_url": "https://www.bbc.co.uk/news/articles/clyqpx6xk69o?at_medium=RSS&at_campaign=rss"
         }
       ]
     },
@@ -75,41 +75,7 @@
       "id": "boerse",
       "label": "Märkte & Börse",
       "emoji": "📈",
-      "stories": [
-        {
-          "id": "boerse-0",
-          "titel": "US-Inflation im Juli leicht gestiegen – Fed unter Beobachtung",
-          "zusammenfassung": "Die US-Verbraucherpreise stiegen im Juli um 0,1 Prozent, was einer Jahresrate von 3,4 Prozent entspricht – genau im Rahmen der Erwartungen. Die Daten werden von Marktteilnehmern als Signal für den weiteren Zinskurs der US-Notenbank gewertet.",
-          "bedeutung": "Inflationsdaten in dieser Größenordnung entscheiden maßgeblich darüber, ob die Federal Reserve ihren geldpolitischen Kurs beibehält oder Zinssenkungen signalisiert.",
-          "hintergrund": "Die Inflation in den USA hat sich nach ihrem Höhepunkt zwar deutlich abgekühlt, liegt aber weiterhin über dem Zwei-Prozent-Ziel der Fed. Anleger und Analysten beobachten jeden Datenpunkt genau, um Hinweise auf den Zeitpunkt erster Zinssenkungen zu erhalten.\n\nEin stabiler, moderater Preisanstieg wie im Juli gilt einerseits als Zeichen wirtschaftlicher Vitalität, lässt andererseits aber keinen unmittelbaren Handlungsdruck für die Notenbank erkennen. Die nächste Fed-Sitzung dürfte entsprechend intensiv diskutiert werden.",
-          "tag": "Inflation & Zinsen",
-          "emoji": "📈",
-          "quelle": "CNBC",
-          "quelle_url": "https://www.cnbc.com/2026/08/12/cpi-inflation-report-july-2026.html"
-        },
-        {
-          "id": "boerse-1",
-          "titel": "Berkshire Hathaway macht Alphabet zur Top-Beteiligung",
-          "zusammenfassung": "Warren Buffetts Investmentgesellschaft Berkshire Hathaway hat ihre Beteiligung an Alphabet, der Muttergesellschaft von Google, massiv ausgebaut und hält nun rund 106 Millionen Aktien im Wert von knapp 38 Milliarden Dollar. Gleichzeitig wurden Positionen bei Delta Airlines und Wohnungsbauunternehmen erhöht.",
-          "bedeutung": "Buffetts Investmententscheidungen gelten als Stimmungsbarometer für die Märkte – ein so deutliches Bekenntnis zu Alphabet sendet ein starkes Signal an institutionelle Anleger weltweit.",
-          "hintergrund": "Berkshire Hathaway hatte Alphabet lange gemieden, bevor das Unternehmen schrittweise in den vergangenen Quartalen einstieg. Der nun dokumentierte Ausbau der Position unterstreicht das Vertrauen in das langfristige Wachstumspotenzial des KI- und Cloudgeschäfts von Google.\n\nDie gleichzeitige Aufstockung bei Delta und Wohnungsbauaktien lässt auf eine Wette auf eine robuste US-Binnenkonjunktur schließen. Anleger werden in den kommenden Handelstagen genau beobachten, wie der Markt auf Buffetts Portfolio-Signale reagiert.",
-          "tag": "Tech-Investitionen",
-          "emoji": "💼",
-          "quelle": "CNBC",
-          "quelle_url": "https://www.cnbc.com/2026/08/14/berkshire-hathaway-boosts-alphabet-to-a-top-three-holding-ups-delta-and-housing-bets.html"
-        },
-        {
-          "id": "boerse-2",
-          "titel": "Goldman Sachs verdient glänzend an KI-Infrastruktur-Boom",
-          "zusammenfassung": "Goldman Sachs profitiert als führende Investmentbank massiv vom globalen Boom beim Aufbau von KI-Infrastruktur. Zuletzt unterstützte das Institut Nvidia und Intel bei der Kapitalbeschaffung zur Deckung der explodierenden Nachfrage nach Rechenkapazitäten.",
-          "bedeutung": "Der Trend zeigt, wie der KI-Investitionszyklus inzwischen auch die großen Finanzinstitute zu einer zentralen Schaltstelle der Technologiefinanzierung macht.",
-          "hintergrund": "Die Nachfrage nach KI-Rechenzentren, Chips und zugehöriger Infrastruktur hat eine beispiellose Investitionswelle ausgelöst. Technologiekonzerne benötigen zur Finanzierung dieser Expansionen zunehmend Unterstützung der Kapitalmärkte – und Goldman Sachs hat sich als bevorzugter Partner positioniert.\n\nFür die Bank bedeutet dies eine neue, hochlukrative Einnahmequelle neben dem klassischen Investmentbanking. Analysten sehen darin ein strukturelles Wachstumsfeld, das die Ertragsströme der großen Wall-Street-Häuser in den kommenden Jahren maßgeblich prägen dürfte.",
-          "tag": "KI-Finanzierung",
-          "emoji": "🤖",
-          "quelle": "CNBC",
-          "quelle_url": "https://www.cnbc.com/2026/08/14/goldmans-latest-cash-cow-is-all-about-funding-the-ai-infrastructure-boom.html"
-        }
-      ]
+      "stories": []
     }
   ]
 }
