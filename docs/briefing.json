@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-17T01:59:00.836006+00:00",
-  "datum": "Montag, 17. August 2026",
+  "generated_at": "2026-08-18T01:55:49.777811+00:00",
+  "datum": "Dienstag, 18. August 2026",
   "ressorts": [
     {
       "id": "politik",
@@ -9,36 +9,36 @@
       "stories": [
         {
           "id": "politik-0",
-          "titel": "Trump reduziert Militärübungen mit Südkorea",
-          "zusammenfassung": "Die USA kündigen an, ihre gemeinsamen Militärmanöver mit Südkorea deutlich zu verkleinern. Trump begründet den Schritt mit seiner engen persönlichen Beziehung zu Nordkoreas Machthaber und der Tatsache, dass Seoul sich nicht am Krieg gegen Iran beteiligt habe.",
-          "bedeutung": "Der Schritt gefährdet die seit Jahrzehnten bewährte Sicherheitsarchitektur in Ostasien und sendet ein Signal der Distanzierung von einem der engsten US-Verbündeten.",
-          "hintergrund": "Washington hat Südkorea offen dafür kritisiert, dass das Land sich der von den USA angeführten Militärkoalition gegen Iran ferngehalten hat. Trump nutzt nun die Verkleinerung der Manöver als sichtbares Druckmittel – und gleichzeitig als Geste in Richtung Pjöngjang.\n\nFür Südkorea bedeutet das eine empfindliche sicherheitspolitische Schwächung. Die gemeinsamen Übungen galten bislang als unverzichtbares Signal der Abschreckung gegenüber Nordkorea. Seoul und Tokio dürften die Entwicklung mit wachsender Sorge beobachten.",
-          "tag": "Bündnispolitik",
-          "emoji": "🇰🇷",
+          "titel": "Trump droht Verbündetem Oman mit Bombardierung",
+          "zusammenfassung": "US-Präsident Trump hat dem Sultanat Oman mit einem Militärschlag gedroht, sollte das Land die laufenden US-Verhandlungen mit Iran behindern. Die Drohung fällt mit dem Ablauf eines 60-tägigen Friedensfensters zusammen, während Oman parallel eigene Gespräche über die Wiedereröffnung der Straße von Hormus führte.",
+          "bedeutung": "Eine Drohung gegen einen langjährigen Vermittler-Verbündeten destabilisiert die fragile Diplomatie rund um den Persischen Golf und setzt globale Energieversorgungswege unter Druck.",
+          "hintergrund": "Die Straße von Hormus ist einer der wichtigsten Öltransportwege der Welt – rund ein Fünftel des global gehandelten Erdöls passiert täglich diesen Engpass. Oman hat traditionell eine Brückenfunktion zwischen dem Westen und Teheran eingenommen und war maßgeblich an früheren Geheimverhandlungen mit Iran beteiligt.\n\nDie Drohung Trumps gegen einen NATO-nahen Golfstaat, der zugleich diplomatischer Kanal ist, markiert eine dramatische Eskalation amerikanischer Nahostpolitik. Beobachter warnen, dass eine Destabilisierung Omans die letzten verbleibenden diplomatischen Kommunikationslinien zu Iran kappen könnte.",
+          "tag": "Golfkrise",
+          "emoji": "⚠️",
           "quelle": "BBC",
-          "quelle_url": "https://www.bbc.co.uk/news/articles/cx2lll7zvn0o?at_medium=RSS&at_campaign=rss"
+          "quelle_url": "https://www.bbc.co.uk/news/articles/cy5dzk0ryzdo?at_medium=RSS&at_campaign=rss"
         },
         {
           "id": "politik-1",
-          "titel": "Kushner trifft Hamas-Chef: Nahost-Diplomatie in Bewegung",
-          "zusammenfassung": "Trumps Nahost-Sondergesandter Jared Kushner hat sich mit dem Anführer der Hamas zu Gesprächen über einen Gaza-Friedensplan getroffen. Das ungewöhnliche Treffen findet nur eine Woche, nachdem Israel den amerikanischen Friedensplan abgelehnt hatte, besondere Brisanz.",
-          "bedeutung": "Das Gespräch markiert einen seltenen direkten Kontakt zwischen einem US-Emissär und der Hamas und zeigt, wie stark Washington den Druck auf alle Parteien erhöht.",
-          "hintergrund": "Seit Monaten versucht die Trump-Administration, einen Waffenstillstand im Gaza-Krieg zu erzwingen und einen eigenen Friedensplan durchzusetzen. Israels Ablehnung vergangene Woche hatte den Prozess ins Stocken gebracht und Washington in eine unangenehme Lage zwischen seinen Verbündeten und den Kriegsparteien gebracht.\n\nDass Kushner nun direkt mit Hamas-Vertretern spricht, ist diplomatisch heikel, aber offenbar kalkuliert: Washington signalisiert damit, dass es bereit ist, alle Akteure an den Tisch zu zwingen – auch wenn das innenpolitisch in Israel und in Teilen der US-Öffentlichkeit auf Widerstand stößt.",
-          "tag": "Nahost-Konflikt",
-          "emoji": "🕊️",
+          "titel": "Trump kündigt Abbau von Militärübungen mit Südkorea an",
+          "zusammenfassung": "Die USA werden gemeinsame Militärmanöver mit Südkorea erheblich reduzieren, wie Trump ankündigte. Als Begründung verwies er auf seine nach eigener Einschätzung gute Beziehung zu Nordkoreas Machthaber Kim Jong Un.",
+          "bedeutung": "Der Schritt schwächt eine der zentralen Sicherheitsarchitekturen in Ostasien und sendet ein Signal der Annäherung an Pjöngjang, das Seoul und Tokio beunruhigen dürfte.",
+          "hintergrund": "Die gemeinsamen Militärübungen zwischen Washington und Seoul gelten seit Jahrzehnten als Kernstück der amerikanischen Sicherheitsgarantien auf der koreanischen Halbinsel. Bereits während seiner ersten Amtszeit hatte Trump ähnliche Schritte unternommen, sie jedoch nicht dauerhaft durchgehalten.\n\nAls indirekten Auslöser nannte Trump Südkoreas Zurückhaltung während des jüngsten US-Konflikts mit Iran. Kritiker sehen darin eine gefährliche Verknüpfung von Allianzverpflichtungen mit tagespolitischen Loyalitätserwartungen, die das Vertrauen in US-Sicherheitsgarantien weltweit erschüttern könnte.",
+          "tag": "Korea-Allianz",
+          "emoji": "🇰🇷",
           "quelle": "BBC",
-          "quelle_url": "https://www.bbc.co.uk/news/articles/c77gg5vn44yo?at_medium=RSS&at_campaign=rss"
+          "quelle_url": "https://www.bbc.co.uk/news/videos/cy45zjw424xo?at_medium=RSS&at_campaign=rss"
         },
         {
           "id": "politik-2",
-          "titel": "Schwerster ukrainischer Angriff 2026 trifft Russland",
-          "zusammenfassung": "Russland meldet mindestens sieben Tote nach dem bislang größten ukrainischen Angriff in diesem Jahr. In der Nacht darauf flog Moskau seinerseits schwere Gegenschläge gegen Kiew, die in der ukrainischen Hauptstadt mehrere Brände auslösten.",
-          "bedeutung": "Die gegenseitigen Eskalationsschritte zeigen, dass der Krieg trotz anhaltender Verhandlungssignale auf dem Schlachtfeld unvermindert intensiv geführt wird.",
-          "hintergrund": "Seit Monaten versuchen beide Seiten, durch gezielte Tiefschläge ins jeweilige Hinterland militärischen und psychologischen Druck aufzubauen. Die ukrainische Offensive richtet sich dabei zunehmend auf russisches Territorium – ein Zeichen dafür, dass Kiew trotz anhaltender Ressourcenengpässe seine Fähigkeit zu Gegenwehr demonstrieren will.\n\nDie russischen Angriffe auf Kiew in der gleichen Nacht unterstreichen die anhaltende Spirale der Vergeltung. Für die Zivilbevölkerung auf beiden Seiten verschärft sich damit die humanitäre Lage weiter.",
-          "tag": "Ukraine-Krieg",
-          "emoji": "💥",
+          "titel": "Russland verurteilt prominenten Antikriegspolitiker zu elf Jahren Haft",
+          "zusammenfassung": "Der russische Oppositionspolitiker Lew Schlosberg wurde wegen angeblicher Diskreditierung der russischen Armee zu elf Jahren Gefängnis verurteilt. Er selbst bezeichnete das Urteil als politisch motivierte Strafe für seine öffentliche Haltung gegen den Krieg in der Ukraine.",
+          "bedeutung": "Das Urteil zeigt, wie konsequent der Kreml auch bekannte Persönlichkeiten des öffentlichen Lebens zum Schweigen bringt und ist ein weiteres Zeichen für die vollständige Unterdrückung innenpolitischer Opposition.",
+          "hintergrund": "Schlosberg ist einer der wenigen verbliebenen Politiker Russlands, der den Krieg gegen die Ukraine offen kritisiert hat. Er gehörte der liberalen Partei Jabloko an und war vor allem in der Region Pskow bekannt. Sein Fall reiht sich in eine Serie von Verfahren ein, die russische Gerichte gegen Kriegsgegner geführt haben.\n\nDer verwendete Straftatbestand der 'Diskreditierung der Armee' wurde nach dem Einmarsch in die Ukraine eingeführt und seitdem massenhaft gegen Oppositionelle, Journalisten und einfache Bürger angewandt. Menschenrechtsorganisationen werten das Urteil als weiteren Schritt in Richtung vollständiger Gleichschaltung der russischen Öffentlichkeit.",
+          "tag": "Repression",
+          "emoji": "⚖️",
           "quelle": "BBC",
-          "quelle_url": "https://www.bbc.co.uk/news/articles/c1411pgje8xo?at_medium=RSS&at_campaign=rss"
+          "quelle_url": "https://www.bbc.co.uk/news/articles/cj4kjnle2neo?at_medium=RSS&at_campaign=rss"
         }
       ]
     },
@@ -49,25 +49,36 @@
       "stories": [
         {
           "id": "wirtschaft-0",
-          "titel": "Trumps Steuergesetz zementiert Vorteil für Superreiche",
-          "zusammenfassung": "Nach der Verabschiedung des sogenannten 'One Big Beautiful Bill Act' durch das US-Repräsentantenhaus zeichnet sich ab, dass das Gesetzespaket Steuersenkungen von über fünf Billionen Dollar bei gleichzeitigen Kürzungen bei Sozialprogrammen wie Lebensmittelmarken vorsieht. Kritiker sprechen von einer massiven Umverteilung zugunsten der Wohlhabendsten.",
-          "bedeutung": "Das weitreichende Steuer- und Sozialgesetz dürfte die wirtschaftliche Ungleichheit in den USA langfristig verschärfen und hat globale Signalwirkung für die Debatte um Besteuerung von Vermögen.",
-          "hintergrund": "Das Gesetzespaket der Trump-Administration kombiniert auf ungewöhnliche Weise dramatische Steuersenkungen für Spitzenverdiener und Unternehmen mit harten Einschnitten bei Sozialtransfers, von denen Millionen einkommensschwache Haushalte abhängen. Ökonomen warnen vor einer strukturellen Vertiefung der Einkommensschere.\n\nInternational wird das US-Steuermodell aufmerksam verfolgt, denn es setzt Anreize für Kapitalverlagerungen und erhöht den Druck auf andere Staaten in einem ohnehin angespannten Steuerwettbewerb. Die Debatte über eine globale Mindeststeuer für Multimillionäre dürfte dadurch neuen Auftrieb bekommen.",
-          "tag": "Steuerpolitik",
-          "emoji": "💰",
-          "quelle": "The Guardian",
-          "quelle_url": "https://www.theguardian.com/business/2026/aug/15/trump-big-beautiful-bill-millionaires"
+          "titel": "US-Kanada-Handelsverhandlungen unter hohem Zeitdruck",
+          "zusammenfassung": "Die Handelsgespräche zwischen den USA und Kanada laufen auf Hochtouren, da eine neue Zollfrist von Trump unmittelbar bevorsteht. Premierminister Mark Carney steht vor der schwierigen Aufgabe, mögliche Zugeständnisse gegenüber der kanadischen Öffentlichkeit zu rechtfertigen.",
+          "bedeutung": "Ein Scheitern der Verhandlungen würde neue Zölle auf den größten bilateralen Handelspartner der USA auslösen und Lieferketten in Nordamerika erneut erschüttern.",
+          "hintergrund": "Kanada und die USA sind wirtschaftlich eng verflochten – täglich werden Waren im Wert von mehreren Milliarden Dollar über die gemeinsame Grenze gehandelt. Bereits frühere Zollrunden unter Trump hatten Branchen wie Stahl, Aluminium und Landwirtschaft hart getroffen.\n\nCarney, der frühere Zentralbankchef, hat sich innenpolitisch als Gegenpol zu Trumps Handelspolitik positioniert. Substanzielle Konzessionen könnten ihn innenpolitisch angreifbar machen, während ein Scheitern der Gespräche die kanadische Wirtschaft unmittelbar belasten würde.",
+          "tag": "Handelskrieg",
+          "emoji": "🇨🇦",
+          "quelle": "BBC",
+          "quelle_url": "https://www.bbc.co.uk/news/articles/crl7600rpnko?at_medium=RSS&at_campaign=rss"
         },
         {
           "id": "wirtschaft-1",
           "titel": "Meta-Prozess könnte Instagram und Facebook grundlegend verändern",
-          "zusammenfassung": "Rund 30 US-Bundesstaaten haben Meta vor Gericht gebracht und fordern tiefgreifende Reformen der Plattformen zum Schutz minderjähriger Nutzer. Sollte die Klage Erfolg haben, könnten grundlegende Funktionen von Instagram und Facebook neu gestaltet werden müssen.",
-          "bedeutung": "Das Verfahren ist eines der bedeutendsten Tech-Regulierungsverfahren der jüngeren Geschichte und könnte einen globalen Präzedenzfall für den Umgang sozialer Plattformen mit jungen Menschen setzen.",
-          "hintergrund": "Der Sammelklagedruck gegen Meta hat sich in den vergangenen Jahren massiv aufgebaut, befeuert durch Studien und Whistleblower-Berichte über die psychischen Auswirkungen von Social Media auf Jugendliche. Die beteiligten Staatsanwaltschaften werfen dem Konzern vor, die Risiken bewusst in Kauf genommen zu haben.\n\nFür Meta stehen nicht nur hohe Strafzahlungen auf dem Spiel, sondern möglicherweise auch ein erzwungener Umbau seiner Kernprodukte – ein Szenario, das Investoren und die gesamte Plattformbranche aufmerksam verfolgen.",
-          "tag": "Tech-Regulierung",
-          "emoji": "⚖️",
+          "zusammenfassung": "Mehrere US-Bundesstaaten haben Meta vor Gericht gebracht, um einen umfassenden Umbau der Plattformen zum Schutz minderjähriger Nutzer zu erzwingen. Ein Urteil zugunsten der Kläger würde tiefgreifende Änderungen an zwei der meistgenutzten sozialen Netzwerke der Welt bedeuten.",
+          "bedeutung": "Das Verfahren könnte als Präzedenzfall für die globale Regulierung sozialer Medien wirken und die Art, wie Plattformen für Kinder und Jugendliche gestaltet werden dürfen, dauerhaft neu definieren.",
+          "hintergrund": "Hintergrund der Klage sind jahrelange Vorwürfe, Meta habe die psychischen Schäden seiner Plattformen für Kinder und Jugendliche bewusst in Kauf genommen. Interne Dokumente, die in den vergangenen Jahren öffentlich wurden, hatten gezeigt, dass der Konzern über die negativen Auswirkungen auf junge Nutzer informiert war.\n\nDie Sammelklage der Bundesstaaten folgt auf ähnliche Initiativen in Europa und Großbritannien. Sollte das Gericht strukturelle Änderungen anordnen, könnten Algorithmusdesign, Altersverifikation und Benachrichtigungssysteme konzernweit neu gestaltet werden müssen – mit Folgen weit über die USA hinaus.",
+          "tag": "Datenschutz",
+          "emoji": "👶",
           "quelle": "BBC",
           "quelle_url": "https://www.bbc.co.uk/news/articles/clyqpx6xk69o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "id": "wirtschaft-2",
+          "titel": "Virgin bewirbt sich um Betrieb von Eurostar-Zugverbindungen",
+          "zusammenfassung": "Das Unternehmen Virgin hat Interesse bekundet, täglich bis zu 20 Zugverbindungen durch den Kanaltunnel zwischen Großbritannien und dem europäischen Festland zu betreiben. Für die Streckenabschnitte auf ausländischem Schienennetz sind jedoch noch zusätzliche Genehmigungen erforderlich.",
+          "bedeutung": "Erstmals seit Jahren könnte echter Wettbewerb auf einer der wichtigsten Bahnverbindungen Europas entstehen und die Monopolstellung des bisherigen Betreibers Eurostar brechen.",
+          "hintergrund": "Der Kanaltunnel-Zugverkehr wurde bisher faktisch von Eurostar dominiert. Mehr Wettbewerb auf dieser Route könnte die Preise für Millionen Passagiere senken und die Bahnverbindung zwischen Großbritannien und dem Kontinent attraktiver machen – besonders relevant nach den reiselogistischen Verwerfungen nach dem Brexit.\n\nVirgin-Gründer Richard Branson hatte bereits vor Jahren Interesse an dieser Strecke geäußert. Die Herausforderung liegt in der komplexen Regulierung auf britischer, französischer und belgischer Seite sowie in den technischen Anforderungen an grenzüberschreitendes Rollmaterial.",
+          "tag": "Bahnverkehr",
+          "emoji": "🚄",
+          "quelle": "BBC",
+          "quelle_url": "https://www.bbc.co.uk/news/articles/cjrvx4yye81o?at_medium=RSS&at_campaign=rss"
         }
       ]
     },
@@ -75,7 +86,30 @@
       "id": "boerse",
       "label": "Märkte & Börse",
       "emoji": "📈",
-      "stories": []
+      "stories": [
+        {
+          "id": "boerse-0",
+          "titel": "Paramount-Warner-Fusion: Märkte sehen wachsendes Scheitern-Risiko",
+          "zusammenfassung": "Auf Prognosemärkten wird die Wahrscheinlichkeit, dass Paramounts geplante Übernahme von Warner Bros. Discovery scheitert, inzwischen auf rund 25 Prozent geschätzt. Zwölf US-Bundesstaaten haben Klage gegen den Zusammenschluss eingereicht, und Paramount hatte das Vorhaben bereits im Juli vorübergehend auf Eis gelegt.",
+          "bedeutung": "Ein Scheitern der Megafusion würde die Konsolidierungsdynamik in der globalen Medien- und Streamingbranche erheblich bremsen und Milliardenwerte vernichten.",
+          "hintergrund": "Die geplante Übernahme zählt zu den größten Medientransaktionen der letzten Jahre und würde zwei der ältesten Hollywoodstudios unter einem Dach vereinen. Beide Konzerne stehen unter starkem Druck durch die Dominanz von Netflix und Amazon im Streamingmarkt.\n\nDie kartellrechtlichen Bedenken der Bundesstaaten konzentrieren sich auf mögliche Marktmacht im Bereich Kabel, Streaming und Werbeeinnahmen. Die Unsicherheit belastet beide Aktienkurse und hat die Konditionen der Finanzierung des Deals bereits verteuert.",
+          "tag": "Medienfusion",
+          "emoji": "🎬",
+          "quelle": "CNBC",
+          "quelle_url": "https://www.cnbc.com/2026/08/17/pskys-wbd-bid-has-1-in-4-odds-of-falling-through-kalshi-traders-say.html"
+        },
+        {
+          "id": "boerse-1",
+          "titel": "Kreditkartenanbieter Synchrony integriert Bezahlfunktion in ChatGPT",
+          "zusammenfassung": "Synchrony Financial, Kreditkartenpartner von Amazon und Walmart, kooperiert künftig mit OpenAI, um Zahlungen direkt über ChatGPT zu ermöglichen. Bis zur vollständigen Integration der Bezahlfunktion rechnet das Unternehmen mit einem Zeitraum von sechs bis zwölf Monaten.",
+          "bedeutung": "Die Partnerschaft markiert einen wichtigen Schritt hin zur Kommerzialisierung von KI-Assistenten als eigenständige Einkaufsplattform und könnte das digitale Bezahlökosystem grundlegend verschieben.",
+          "hintergrund": "OpenAI hat in den vergangenen Monaten intensiv daran gearbeitet, ChatGPT über seine Rolle als reines Sprachmodell hinaus zu einem handlungsfähigen Agenten weiterzuentwickeln. Shoppingfunktionen gelten dabei als einer der lukrativsten Anwendungsfälle.\n\nFür Synchrony bedeutet die Kooperation Zugang zu Millionen ChatGPT-Nutzern, für OpenAI eine Einnahmequelle jenseits von Abonnements. Analysten sehen darin einen frühen Vorstoß im Wettbewerb um KI-gestützte Zahlungsinfrastruktur, der traditionelle Kreditkartenanbieter, aber auch Big-Tech-Bezahldienste wie Apple Pay oder Google Pay unter Druck setzen könnte.",
+          "tag": "KI-Payments",
+          "emoji": "💳",
+          "quelle": "CNBC",
+          "quelle_url": "https://www.cnbc.com/2026/08/17/synchrony-openai-chatgpt-shopping.html"
+        }
+      ]
     }
   ]
 }
