@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-18T01:55:49.777811+00:00",
-  "datum": "Dienstag, 18. August 2026",
+  "generated_at": "2026-08-19T01:57:38.031746+00:00",
+  "datum": "Mittwoch, 19. August 2026",
   "ressorts": [
     {
       "id": "politik",
@@ -9,36 +9,36 @@
       "stories": [
         {
           "id": "politik-0",
-          "titel": "Trump droht Verbündetem Oman mit Bombardierung",
-          "zusammenfassung": "US-Präsident Trump hat dem Sultanat Oman mit einem Militärschlag gedroht, sollte das Land die laufenden US-Verhandlungen mit Iran behindern. Die Drohung fällt mit dem Ablauf eines 60-tägigen Friedensfensters zusammen, während Oman parallel eigene Gespräche über die Wiedereröffnung der Straße von Hormus führte.",
-          "bedeutung": "Eine Drohung gegen einen langjährigen Vermittler-Verbündeten destabilisiert die fragile Diplomatie rund um den Persischen Golf und setzt globale Energieversorgungswege unter Druck.",
-          "hintergrund": "Die Straße von Hormus ist einer der wichtigsten Öltransportwege der Welt – rund ein Fünftel des global gehandelten Erdöls passiert täglich diesen Engpass. Oman hat traditionell eine Brückenfunktion zwischen dem Westen und Teheran eingenommen und war maßgeblich an früheren Geheimverhandlungen mit Iran beteiligt.\n\nDie Drohung Trumps gegen einen NATO-nahen Golfstaat, der zugleich diplomatischer Kanal ist, markiert eine dramatische Eskalation amerikanischer Nahostpolitik. Beobachter warnen, dass eine Destabilisierung Omans die letzten verbleibenden diplomatischen Kommunikationslinien zu Iran kappen könnte.",
-          "tag": "Golfkrise",
-          "emoji": "⚠️",
+          "titel": "USA verhängen Sanktionen gegen Spitzenbeamte des IStGH",
+          "zusammenfassung": "Die Trump-Regierung hat neue Strafmaßnahmen gegen führende Vertreter des Internationalen Strafgerichtshofs angekündigt. Washington bekräftigt damit seinen erklärten Kurs, die Haager Institution systematisch zu untergraben.",
+          "bedeutung": "Die Maßnahmen gefährden die Unabhängigkeit des wichtigsten internationalen Strafgerichts und senden ein Signal an autoritäre Regierungen weltweit.",
+          "hintergrund": "Die US-Regierung unter Präsident Trump hatte den IStGH bereits kurz nach Amtsantritt ins Visier genommen, nachdem das Gericht Haftbefehle gegen israelische Regierungsvertreter ausgestellt hatte. Seither eskaliert Washington den Druck schrittweise durch gezielte Sanktionen gegen Richter und Ankläger.\n\nKritiker warnen, dass die Unterminierung des Gerichts einen gefährlichen Präzedenzfall schafft: Ohne funktionierende internationale Strafverfolgung könnten Kriegsverbrechen und Verbrechen gegen die Menschlichkeit weltweit mit geringerer Konsequenz begangen werden.",
+          "tag": "Internationale Justiz",
+          "emoji": "⚖️",
           "quelle": "BBC",
-          "quelle_url": "https://www.bbc.co.uk/news/articles/cy5dzk0ryzdo?at_medium=RSS&at_campaign=rss"
+          "quelle_url": "https://www.bbc.co.uk/news/articles/cnvnl0elz47o?at_medium=RSS&at_campaign=rss"
         },
         {
           "id": "politik-1",
-          "titel": "Trump kündigt Abbau von Militärübungen mit Südkorea an",
-          "zusammenfassung": "Die USA werden gemeinsame Militärmanöver mit Südkorea erheblich reduzieren, wie Trump ankündigte. Als Begründung verwies er auf seine nach eigener Einschätzung gute Beziehung zu Nordkoreas Machthaber Kim Jong Un.",
-          "bedeutung": "Der Schritt schwächt eine der zentralen Sicherheitsarchitekturen in Ostasien und sendet ein Signal der Annäherung an Pjöngjang, das Seoul und Tokio beunruhigen dürfte.",
-          "hintergrund": "Die gemeinsamen Militärübungen zwischen Washington und Seoul gelten seit Jahrzehnten als Kernstück der amerikanischen Sicherheitsgarantien auf der koreanischen Halbinsel. Bereits während seiner ersten Amtszeit hatte Trump ähnliche Schritte unternommen, sie jedoch nicht dauerhaft durchgehalten.\n\nAls indirekten Auslöser nannte Trump Südkoreas Zurückhaltung während des jüngsten US-Konflikts mit Iran. Kritiker sehen darin eine gefährliche Verknüpfung von Allianzverpflichtungen mit tagespolitischen Loyalitätserwartungen, die das Vertrauen in US-Sicherheitsgarantien weltweit erschüttern könnte.",
-          "tag": "Korea-Allianz",
-          "emoji": "🇰🇷",
+          "titel": "Entlassener Verteidigungsminister fordert Wahlen in Ukraine",
+          "zusammenfassung": "Der kürzlich abgesetzte ukrainische Verteidigungsminister hat öffentlich eine Präsidentschaftswahl gefordert, obwohl das seit Februar 2022 geltende Kriegsrecht Wahlen ausdrücklich aussetzt. Die Forderung kommt zu einem politisch heiklen Zeitpunkt für Präsident Selenskyj.",
+          "bedeutung": "Die Debatte über demokratische Legitimität in Kriegszeiten berührt Kernfragen der westlichen Unterstützung für die Ukraine.",
+          "hintergrund": "Seit Beginn der russischen Vollinvasion ist das politische System der Ukraine de facto eingefroren: Kriegsrecht verhindert reguläre Wahlen, was Selenskyj eine verlängerte Amtszeit ohne Mandat der Bevölkerung beschert. Während westliche Verbündete dies bislang stillschweigend akzeptierten, wächst intern der Unmut.\n\nDass nun ein ehemaliger hochrangiger Minister die Frage öffentlich aufwirft, deutet auf tiefere Risse in der ukrainischen Führungselite hin. Beobachter sehen darin auch ein Zeichen, dass der Wiederaufbaudiskurs und die Nachkriegsordnung zunehmend zum innenpolitischen Streitthema werden.",
+          "tag": "Ukraine-Politik",
+          "emoji": "🗳️",
           "quelle": "BBC",
-          "quelle_url": "https://www.bbc.co.uk/news/videos/cy45zjw424xo?at_medium=RSS&at_campaign=rss"
+          "quelle_url": "https://www.bbc.co.uk/news/articles/cdew8n9erlwo?at_medium=RSS&at_campaign=rss"
         },
         {
           "id": "politik-2",
-          "titel": "Russland verurteilt prominenten Antikriegspolitiker zu elf Jahren Haft",
-          "zusammenfassung": "Der russische Oppositionspolitiker Lew Schlosberg wurde wegen angeblicher Diskreditierung der russischen Armee zu elf Jahren Gefängnis verurteilt. Er selbst bezeichnete das Urteil als politisch motivierte Strafe für seine öffentliche Haltung gegen den Krieg in der Ukraine.",
-          "bedeutung": "Das Urteil zeigt, wie konsequent der Kreml auch bekannte Persönlichkeiten des öffentlichen Lebens zum Schweigen bringt und ist ein weiteres Zeichen für die vollständige Unterdrückung innenpolitischer Opposition.",
-          "hintergrund": "Schlosberg ist einer der wenigen verbliebenen Politiker Russlands, der den Krieg gegen die Ukraine offen kritisiert hat. Er gehörte der liberalen Partei Jabloko an und war vor allem in der Region Pskow bekannt. Sein Fall reiht sich in eine Serie von Verfahren ein, die russische Gerichte gegen Kriegsgegner geführt haben.\n\nDer verwendete Straftatbestand der 'Diskreditierung der Armee' wurde nach dem Einmarsch in die Ukraine eingeführt und seitdem massenhaft gegen Oppositionelle, Journalisten und einfache Bürger angewandt. Menschenrechtsorganisationen werten das Urteil als weiteren Schritt in Richtung vollständiger Gleichschaltung der russischen Öffentlichkeit.",
-          "tag": "Repression",
-          "emoji": "⚖️",
+          "titel": "Fährunglück in Simbabwe: Mindestens 93 Tote",
+          "zusammenfassung": "Bei einem Fährunglück auf dem Karibasee in Simbabwe sind mindestens 93 Menschen ums Leben gekommen. Die Katastrophe ist damit die schlimmste Transportkatastrophe in der Geschichte des Landes.",
+          "bedeutung": "Das Unglück offenbart die marode Infrastruktur und fehlende Sicherheitsstandards in vielen Teilen Afrikas.",
+          "hintergrund": "Der Karibasee, einer der größten Stauseen der Welt, verbindet entlegene Gemeinden in Simbabwe und Sambia, die oft auf Fähren als einziges Transportmittel angewiesen sind. Überladung und mangelnde Wartung gelten als strukturelle Probleme des regionalen Fährbetriebs.\n\nDie Bergungsarbeiten gestalten sich schwierig, da der See für seine starken Strömungen und seinen Krokodilbestand bekannt ist. Humanitäre Organisationen fordern nun eine dringende Überprüfung der Sicherheitsstandards im gesamten Binnenschifffahrtssystem Südafrikas.",
+          "tag": "Katastrophe",
+          "emoji": "🚢",
           "quelle": "BBC",
-          "quelle_url": "https://www.bbc.co.uk/news/articles/cj4kjnle2neo?at_medium=RSS&at_campaign=rss"
+          "quelle_url": "https://www.bbc.co.uk/news/articles/cjwx58n1153o?at_medium=RSS&at_campaign=rss"
         }
       ]
     },
@@ -49,36 +49,36 @@
       "stories": [
         {
           "id": "wirtschaft-0",
-          "titel": "US-Kanada-Handelsverhandlungen unter hohem Zeitdruck",
-          "zusammenfassung": "Die Handelsgespräche zwischen den USA und Kanada laufen auf Hochtouren, da eine neue Zollfrist von Trump unmittelbar bevorsteht. Premierminister Mark Carney steht vor der schwierigen Aufgabe, mögliche Zugeständnisse gegenüber der kanadischen Öffentlichkeit zu rechtfertigen.",
-          "bedeutung": "Ein Scheitern der Verhandlungen würde neue Zölle auf den größten bilateralen Handelspartner der USA auslösen und Lieferketten in Nordamerika erneut erschüttern.",
-          "hintergrund": "Kanada und die USA sind wirtschaftlich eng verflochten – täglich werden Waren im Wert von mehreren Milliarden Dollar über die gemeinsame Grenze gehandelt. Bereits frühere Zollrunden unter Trump hatten Branchen wie Stahl, Aluminium und Landwirtschaft hart getroffen.\n\nCarney, der frühere Zentralbankchef, hat sich innenpolitisch als Gegenpol zu Trumps Handelspolitik positioniert. Substanzielle Konzessionen könnten ihn innenpolitisch angreifbar machen, während ein Scheitern der Gespräche die kanadische Wirtschaft unmittelbar belasten würde.",
-          "tag": "Handelskrieg",
-          "emoji": "🇨🇦",
+          "titel": "Globale Anleihezinsen auf neuem Rekordhoch",
+          "zusammenfassung": "Die langfristigen Zinsen auf Staatsanleihen in den USA, Großbritannien, Deutschland und Japan sind gleichzeitig auf neue Höchststände gestiegen. Als Treiber gelten steigende Energiepreise, KI-Investitionsbooms und hartnäckige Inflation.",
+          "bedeutung": "Höhere Anleihezinsen verteuern Kredite weltweit und können Investitionen, Immobilienmärkte und staatliche Haushalte massiv belasten.",
+          "hintergrund": "Der gleichzeitige Anstieg der Langfristzinsen in den vier größten Volkswirtschaften ist ein seltenes Phänomen und signalisiert, dass Märkte strukturell höhere Inflationserwartungen einpreisen. Besonders der KI-getriebene Energiehunger der Rechenzentren sowie geopolitisch bedingte Rohstoffpreissteigerungen gelten als neue, dauerhafte Inflationstreiber.\n\nFür Schwellen- und Entwicklungsländer verschärft die Entwicklung die Lage zusätzlich: Kapitalabflüsse in höherverzinsliche Staatsanleihen der Industrieländer erhöhen den Druck auf deren Währungen und Refinanzierungskosten erheblich.",
+          "tag": "Zinswende",
+          "emoji": "📈",
+          "quelle": "BBC",
+          "quelle_url": "https://www.bbc.co.uk/news/articles/c1k1x1zdywdo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "id": "wirtschaft-1",
+          "titel": "USA und Kanada vor kritischer Handelsfrist",
+          "zusammenfassung": "Kanadas Premierminister Carney steht vor möglicherweise letzten Verhandlungen mit der Trump-Regierung, bevor neue US-Zölle in Kraft treten könnten. Die kanadische Seite zeigt sich wenig konzessionsbereit, was eine Einigung erschwert.",
+          "bedeutung": "Ein Scheitern der Gespräche würde eine der wichtigsten Handelsbeziehungen der Welt erheblich beschädigen und Lieferketten in Nordamerika erschüttern.",
+          "hintergrund": "Seit dem Amtsantritt Trumps steht das Freihandelsabkommen zwischen den USA, Kanada und Mexiko unter Dauerdruck. Washington hat wiederholt Sonderzölle auf kanadische Waren angedroht und damit innenpolitisch in Kanada eine Welle wirtschaftsnationalistischer Stimmung ausgelöst, die Carney wenig Spielraum für Zugeständnisse lässt.\n\nAnalysten warnen, dass selbst ein temporäres Scheitern der Verhandlungen kurzfristig Lieferketten in der Automobil- und Agrarindustrie belasten würde, da beide Länder tief miteinander verflochten sind.",
+          "tag": "Handelspolitik",
+          "emoji": "🤝",
           "quelle": "BBC",
           "quelle_url": "https://www.bbc.co.uk/news/articles/crl7600rpnko?at_medium=RSS&at_campaign=rss"
         },
         {
-          "id": "wirtschaft-1",
-          "titel": "Meta-Prozess könnte Instagram und Facebook grundlegend verändern",
-          "zusammenfassung": "Mehrere US-Bundesstaaten haben Meta vor Gericht gebracht, um einen umfassenden Umbau der Plattformen zum Schutz minderjähriger Nutzer zu erzwingen. Ein Urteil zugunsten der Kläger würde tiefgreifende Änderungen an zwei der meistgenutzten sozialen Netzwerke der Welt bedeuten.",
-          "bedeutung": "Das Verfahren könnte als Präzedenzfall für die globale Regulierung sozialer Medien wirken und die Art, wie Plattformen für Kinder und Jugendliche gestaltet werden dürfen, dauerhaft neu definieren.",
-          "hintergrund": "Hintergrund der Klage sind jahrelange Vorwürfe, Meta habe die psychischen Schäden seiner Plattformen für Kinder und Jugendliche bewusst in Kauf genommen. Interne Dokumente, die in den vergangenen Jahren öffentlich wurden, hatten gezeigt, dass der Konzern über die negativen Auswirkungen auf junge Nutzer informiert war.\n\nDie Sammelklage der Bundesstaaten folgt auf ähnliche Initiativen in Europa und Großbritannien. Sollte das Gericht strukturelle Änderungen anordnen, könnten Algorithmusdesign, Altersverifikation und Benachrichtigungssysteme konzernweit neu gestaltet werden müssen – mit Folgen weit über die USA hinaus.",
-          "tag": "Datenschutz",
-          "emoji": "👶",
-          "quelle": "BBC",
-          "quelle_url": "https://www.bbc.co.uk/news/articles/clyqpx6xk69o?at_medium=RSS&at_campaign=rss"
-        },
-        {
           "id": "wirtschaft-2",
-          "titel": "Virgin bewirbt sich um Betrieb von Eurostar-Zugverbindungen",
-          "zusammenfassung": "Das Unternehmen Virgin hat Interesse bekundet, täglich bis zu 20 Zugverbindungen durch den Kanaltunnel zwischen Großbritannien und dem europäischen Festland zu betreiben. Für die Streckenabschnitte auf ausländischem Schienennetz sind jedoch noch zusätzliche Genehmigungen erforderlich.",
-          "bedeutung": "Erstmals seit Jahren könnte echter Wettbewerb auf einer der wichtigsten Bahnverbindungen Europas entstehen und die Monopolstellung des bisherigen Betreibers Eurostar brechen.",
-          "hintergrund": "Der Kanaltunnel-Zugverkehr wurde bisher faktisch von Eurostar dominiert. Mehr Wettbewerb auf dieser Route könnte die Preise für Millionen Passagiere senken und die Bahnverbindung zwischen Großbritannien und dem Kontinent attraktiver machen – besonders relevant nach den reiselogistischen Verwerfungen nach dem Brexit.\n\nVirgin-Gründer Richard Branson hatte bereits vor Jahren Interesse an dieser Strecke geäußert. Die Herausforderung liegt in der komplexen Regulierung auf britischer, französischer und belgischer Seite sowie in den technischen Anforderungen an grenzüberschreitendes Rollmaterial.",
-          "tag": "Bahnverkehr",
-          "emoji": "🚄",
+          "titel": "Roboterhersteller Unitree feiert Börsendebüt in Shanghai",
+          "zusammenfassung": "Unitree Robotics, der weltgrößte Hersteller humanoider Roboter, startete seinen Börsengang am Schanghaier Star-Markt. Die Aktie legte zum Handelsauftakt deutlich zu und spiegelt das wachsende Investoreninteresse an Robotik wider.",
+          "bedeutung": "Der Börsengang ist ein Meilenstein für die globale Robotik- und KI-Industrie und unterstreicht Chinas Ambitionen in der Hochtechnologie.",
+          "hintergrund": "Unitree hat sich in wenigen Jahren vom Start-up zum globalen Marktführer für humanoide und vierbeinige Roboter entwickelt. Die Geräte des Unternehmens werden in Industrie, Forschung und Militäranwendungen eingesetzt und sind auch international gefragt, was angesichts geopolitischer Spannungen zunehmend regulatorische Aufmerksamkeit auf sich zieht.\n\nDer Börsengang erfolgt zu einem Zeitpunkt, an dem Peking massiv in die Robotik investiert und diese als strategischen Schlüsselsektor für die wirtschaftliche Zukunft Chinas definiert hat. Für internationale Investoren ist Unitree ein Barometer für den Reifegrad der chinesischen Hightech-Industrie.",
+          "tag": "Robotik",
+          "emoji": "🤖",
           "quelle": "BBC",
-          "quelle_url": "https://www.bbc.co.uk/news/articles/cjrvx4yye81o?at_medium=RSS&at_campaign=rss"
+          "quelle_url": "https://www.bbc.co.uk/news/articles/c0qv4w9492zo?at_medium=RSS&at_campaign=rss"
         }
       ]
     },
@@ -89,25 +89,36 @@
       "stories": [
         {
           "id": "boerse-0",
-          "titel": "Paramount-Warner-Fusion: Märkte sehen wachsendes Scheitern-Risiko",
-          "zusammenfassung": "Auf Prognosemärkten wird die Wahrscheinlichkeit, dass Paramounts geplante Übernahme von Warner Bros. Discovery scheitert, inzwischen auf rund 25 Prozent geschätzt. Zwölf US-Bundesstaaten haben Klage gegen den Zusammenschluss eingereicht, und Paramount hatte das Vorhaben bereits im Juli vorübergehend auf Eis gelegt.",
-          "bedeutung": "Ein Scheitern der Megafusion würde die Konsolidierungsdynamik in der globalen Medien- und Streamingbranche erheblich bremsen und Milliardenwerte vernichten.",
-          "hintergrund": "Die geplante Übernahme zählt zu den größten Medientransaktionen der letzten Jahre und würde zwei der ältesten Hollywoodstudios unter einem Dach vereinen. Beide Konzerne stehen unter starkem Druck durch die Dominanz von Netflix und Amazon im Streamingmarkt.\n\nDie kartellrechtlichen Bedenken der Bundesstaaten konzentrieren sich auf mögliche Marktmacht im Bereich Kabel, Streaming und Werbeeinnahmen. Die Unsicherheit belastet beide Aktienkurse und hat die Konditionen der Finanzierung des Deals bereits verteuert.",
-          "tag": "Medienfusion",
-          "emoji": "🎬",
+          "titel": "Anleiheverkäufe treffen Kleinunternehmen und Main Street hart",
+          "zusammenfassung": "Der anhaltende Ausverkauf langlaufender US-Staatsanleihen treibt die Kreditkosten für kleine und mittlere Unternehmen in die Höhe. An der Wall Street wartet man derweil gespannt auf die mögliche Nominierung von Kevin Warsh als Fed-Chef.",
+          "bedeutung": "Steigende Finanzierungskosten bedrohen Investitionen und Beschäftigung in der Breite der US-Wirtschaft weit jenseits der Finanzmärkte.",
+          "hintergrund": "Der Treasury-Markt sendet seit Wochen Warnsignale: Die Renditen zehnjähriger US-Staatsanleihen haben neue Mehrjahreshochs erreicht, was die Hypotheken- und Unternehmenskreditkosten direkt nach oben zieht. Besonders kleine Unternehmen ohne Kapitalmarktzugang sind auf variabel verzinste Bankkredite angewiesen und spüren die Veränderungen unmittelbar.\n\nIm Hintergrund läuft ein politisches Machtspiel: Die Frage, wer nach Jerome Powell die Fed führt, hat direkten Einfluss auf künftige Zinspolitik. Kandidat Warsh gilt als deutlich restriktiver als Powell, was Märkte und Analysten gleichermaßen beschäftigt.",
+          "tag": "Anleihen",
+          "emoji": "💸",
           "quelle": "CNBC",
-          "quelle_url": "https://www.cnbc.com/2026/08/17/pskys-wbd-bid-has-1-in-4-odds-of-falling-through-kalshi-traders-say.html"
+          "quelle_url": "https://www.cnbc.com/2026/08/18/bond-market-treasury-yields-warsh-main-street.html"
         },
         {
           "id": "boerse-1",
-          "titel": "Kreditkartenanbieter Synchrony integriert Bezahlfunktion in ChatGPT",
-          "zusammenfassung": "Synchrony Financial, Kreditkartenpartner von Amazon und Walmart, kooperiert künftig mit OpenAI, um Zahlungen direkt über ChatGPT zu ermöglichen. Bis zur vollständigen Integration der Bezahlfunktion rechnet das Unternehmen mit einem Zeitraum von sechs bis zwölf Monaten.",
-          "bedeutung": "Die Partnerschaft markiert einen wichtigen Schritt hin zur Kommerzialisierung von KI-Assistenten als eigenständige Einkaufsplattform und könnte das digitale Bezahlökosystem grundlegend verschieben.",
-          "hintergrund": "OpenAI hat in den vergangenen Monaten intensiv daran gearbeitet, ChatGPT über seine Rolle als reines Sprachmodell hinaus zu einem handlungsfähigen Agenten weiterzuentwickeln. Shoppingfunktionen gelten dabei als einer der lukrativsten Anwendungsfälle.\n\nFür Synchrony bedeutet die Kooperation Zugang zu Millionen ChatGPT-Nutzern, für OpenAI eine Einnahmequelle jenseits von Abonnements. Analysten sehen darin einen frühen Vorstoß im Wettbewerb um KI-gestützte Zahlungsinfrastruktur, der traditionelle Kreditkartenanbieter, aber auch Big-Tech-Bezahldienste wie Apple Pay oder Google Pay unter Druck setzen könnte.",
-          "tag": "KI-Payments",
-          "emoji": "💳",
+          "titel": "Moutais Gewinneinbruch als Spiegel Chinas Konsumschwäche",
+          "zusammenfassung": "Der chinesische Luxus-Schnapskonzern Kweichow Moutai meldete im ersten Halbjahr einen seltenen Rückgang des Nettogewinns. Es ist der Anschluss an den ersten jährlichen Gewinneinbruch der Unternehmensgeschichte und gilt als Symptom der tiefen Konsumschwäche in China.",
+          "bedeutung": "Moutai gilt als Konjunkturbarometer für Chinas Binnenkonsum und Unternehmenskultur – ein anhaltender Abschwung sendet alarmierende Signale.",
+          "hintergrund": "Kweichow Moutai ist nicht nur ein Getränkehersteller, sondern eine Art Kulturinstitution Chinas: Der Baijiu-Schnaps wird bei Geschäftsessen und offiziellen Anlässen gereicht und gilt als Statussymbol. Sein Absatzrückgang reflektiert daher sowohl schwächere Unternehmensausgaben als auch einen Wandel im gesellschaftlichen Konsumverhalten.\n\nChinas Wirtschaft kämpft mit strukturellen Problemen: Deflationsdruck, eine angeschlagene Immobilienbranche und gedämpfte Haushaltsnachfrage bremsen das Wachstum. Dass selbst Luxusprodukte wie Moutai nicht verschont bleiben, signalisiert, dass die Konjunkturschwäche breiter und tiefer ist als von Pekings offiziellen Statistiken suggeriert.",
+          "tag": "China-Konjunktur",
+          "emoji": "🥃",
           "quelle": "CNBC",
-          "quelle_url": "https://www.cnbc.com/2026/08/17/synchrony-openai-chatgpt-shopping.html"
+          "quelle_url": "https://www.cnbc.com/2026/08/19/china-economy-moutai-ai-property.html"
+        },
+        {
+          "id": "boerse-2",
+          "titel": "Russland feuert Ökonom, der vor Kriegswirtschaft warnte",
+          "zusammenfassung": "Ein führender russischer Wirtschaftsexperte wurde offenbar entlassen, nachdem er intern vor den langfristigen ökonomischen Folgen des Ukraine-Kriegs gewarnt hatte. Moskau präsentiert nach außen weiterhin ein Bild wirtschaftlicher Stärke.",
+          "bedeutung": "Die Entlassung zeigt, wie Russlands Führung missliebige Wirtschaftsanalysen unterdrückt und sich damit selbst um belastbare Entscheidungsgrundlagen bringt.",
+          "hintergrund": "Andrei Klepach, ein renommierter Wirtschaftsexperte, soll laut Berichten nach einem internen Vortrag entlassen worden sein, in dem er davor warnte, dass Russland einen langen Abnutzungskrieg wirtschaftlich nicht durchhalten könne. Offizielle Kremlstatistiken hingegen weisen ein robust wachsendes BIP aus – ein Bild, das viele unabhängige Ökonomen stark bezweifeln.\n\nDie Episode reiht sich in ein Muster ein: Je länger der Krieg dauert, desto stärker unterdrückt Moskau intern abweichende wirtschaftliche Einschätzungen. Für westliche Geheimdienste und Sanktionspolitiker ist dies ein relevantes Signal – eine Wirtschaft, die keine ehrliche Selbstanalyse zulässt, trifft zwangsläufig schlechtere strategische Entscheidungen.",
+          "tag": "Russland-Wirtschaft",
+          "emoji": "🔇",
+          "quelle": "CNBC",
+          "quelle_url": "https://www.cnbc.com/2026/08/18/ukraine-war-russia-economy-klepach.html"
         }
       ]
     }
