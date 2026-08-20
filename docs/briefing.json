@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-19T01:57:38.031746+00:00",
-  "datum": "Mittwoch, 19. August 2026",
+  "generated_at": "2026-08-20T01:56:35.845225+00:00",
+  "datum": "Donnerstag, 20. August 2026",
   "ressorts": [
     {
       "id": "politik",
@@ -9,36 +9,36 @@
       "stories": [
         {
           "id": "politik-0",
-          "titel": "USA verhängen Sanktionen gegen Spitzenbeamte des IStGH",
-          "zusammenfassung": "Die Trump-Regierung hat neue Strafmaßnahmen gegen führende Vertreter des Internationalen Strafgerichtshofs angekündigt. Washington bekräftigt damit seinen erklärten Kurs, die Haager Institution systematisch zu untergraben.",
-          "bedeutung": "Die Maßnahmen gefährden die Unabhängigkeit des wichtigsten internationalen Strafgerichts und senden ein Signal an autoritäre Regierungen weltweit.",
-          "hintergrund": "Die US-Regierung unter Präsident Trump hatte den IStGH bereits kurz nach Amtsantritt ins Visier genommen, nachdem das Gericht Haftbefehle gegen israelische Regierungsvertreter ausgestellt hatte. Seither eskaliert Washington den Druck schrittweise durch gezielte Sanktionen gegen Richter und Ankläger.\n\nKritiker warnen, dass die Unterminierung des Gerichts einen gefährlichen Präzedenzfall schafft: Ohne funktionierende internationale Strafverfolgung könnten Kriegsverbrechen und Verbrechen gegen die Menschlichkeit weltweit mit geringerer Konsequenz begangen werden.",
-          "tag": "Internationale Justiz",
-          "emoji": "⚖️",
+          "titel": "Trump droht Iran-Verbündeten mit Wirtschaftskonsequenzen",
+          "zusammenfassung": "US-Präsident Trump hat Ländern, die dem Iran beim Umgehen von Sanktionen helfen, schwerwiegende wirtschaftliche Strafmaßnahmen angedroht. Der Vorstoß erfolgt nach Ablauf eines 60-tägigen Waffenstillstands, ohne dass eine diplomatische Lösung in Sicht ist.",
+          "bedeutung": "Die Drohung könnte globale Handelsbeziehungen neu ordnen und den Druck auf Länder wie China erhöhen, die weiterhin iranisches Öl importieren.",
+          "hintergrund": "Der abgelaufene Waffenstillstand zwischen Israel und dem Iran hinterlässt ein gefährliches Machtvakuum. Weder eine militärische noch eine diplomatische Deeskalation zeichnet sich ab, was die Region in höchster Anspannung hält.\n\nTrumps Strategie des maximalen wirtschaftlichen Drucks gegenüber Teheran zielt darauf ab, internationale Partner zur Wahl zwischen dem iranischen Markt und dem US-amerikanischen zu zwingen – eine Taktik, die bereits in seiner ersten Amtszeit angewandt wurde und nun mit verschärfter Rhetorik wiederbelebt wird.",
+          "tag": "Iran-Konflikt",
+          "emoji": "⚠️",
           "quelle": "BBC",
-          "quelle_url": "https://www.bbc.co.uk/news/articles/cnvnl0elz47o?at_medium=RSS&at_campaign=rss"
+          "quelle_url": "https://www.bbc.co.uk/news/articles/c2k7e83ynj4o?at_medium=RSS&at_campaign=rss"
         },
         {
           "id": "politik-1",
+          "titel": "Ukrainer in Kroatien wegen Nord-Stream-Sabotage verhaftet",
+          "zusammenfassung": "Kroatische Behörden haben einen ukrainischen Staatsbürger festgenommen, der als mutmaßlicher Taucher an der Sprengung der Nord-Stream-Pipelines im Jahr 2022 beteiligt gewesen sein soll. Die Verhaftung markiert den bislang konkretesten Fahndungserfolg in einem der folgenreichsten Sabotagefälle der jüngeren europäischen Geschichte.",
+          "bedeutung": "Der Fall könnte erstmals belastbare Beweise über die tatsächlichen Hintermänner der Pipeline-Anschläge liefern und geopolitische Konsequenzen für mehrere Staaten haben.",
+          "hintergrund": "Die Explosionen an den Nord-Stream-Pipelines im September 2022 zerstörten die wichtigste Gasverbindung zwischen Russland und Deutschland und verschärften die europäische Energiekrise dramatisch. Trotz jahrelanger Ermittlungen in mehreren Ländern blieb die Verantwortlichkeit offiziell ungeklärt.\n\nVerschiedene Medienrecherchen hatten in der Vergangenheit auf ukrainische oder pro-ukrainische Akteure hingedeutet. Eine gerichtsverwertbare Festnahme könnte nun politisch explosives Beweismaterial ans Licht bringen – mit möglichen Auswirkungen auf die Beziehungen zwischen Kiew, Berlin und Washington.",
+          "tag": "Nord Stream",
+          "emoji": "💣",
+          "quelle": "BBC",
+          "quelle_url": "https://www.bbc.co.uk/news/articles/c78gp7l5348o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "id": "politik-2",
           "titel": "Entlassener Verteidigungsminister fordert Wahlen in Ukraine",
-          "zusammenfassung": "Der kürzlich abgesetzte ukrainische Verteidigungsminister hat öffentlich eine Präsidentschaftswahl gefordert, obwohl das seit Februar 2022 geltende Kriegsrecht Wahlen ausdrücklich aussetzt. Die Forderung kommt zu einem politisch heiklen Zeitpunkt für Präsident Selenskyj.",
-          "bedeutung": "Die Debatte über demokratische Legitimität in Kriegszeiten berührt Kernfragen der westlichen Unterstützung für die Ukraine.",
-          "hintergrund": "Seit Beginn der russischen Vollinvasion ist das politische System der Ukraine de facto eingefroren: Kriegsrecht verhindert reguläre Wahlen, was Selenskyj eine verlängerte Amtszeit ohne Mandat der Bevölkerung beschert. Während westliche Verbündete dies bislang stillschweigend akzeptierten, wächst intern der Unmut.\n\nDass nun ein ehemaliger hochrangiger Minister die Frage öffentlich aufwirft, deutet auf tiefere Risse in der ukrainischen Führungselite hin. Beobachter sehen darin auch ein Zeichen, dass der Wiederaufbaudiskurs und die Nachkriegsordnung zunehmend zum innenpolitischen Streitthema werden.",
+          "zusammenfassung": "Der kürzlich abgesetzte ukrainische Verteidigungsminister hat öffentlich Präsidentschaftswahlen gefordert, obwohl das seit Kriegsbeginn geltende Kriegsrecht diese bis auf Weiteres aussetzt. Der Vorstoß deutet auf wachsende innerukrainische Spannungen an der politischen Führungsspitze hin.",
+          "bedeutung": "Die Forderung stellt die demokratische Legitimität von Präsident Selenskyj öffentlich in Frage und könnte Verbündete im Westen vor heikle Fragen zur Unterstützung stellen.",
+          "hintergrund": "Das ukrainische Kriegsrecht, das unmittelbar nach dem russischen Einmarsch im Februar 2022 verhängt wurde, hat Wahlen auf unbestimmte Zeit verschoben. Während die Regierung dies als kriegsnotwendige Maßnahme verteidigt, nutzen Kritiker das Thema zunehmend als Hebel gegen Selenskyj.\n\nDie öffentliche Forderung eines ehemaligen Kabinettsmitglieds nach Wahlen ist ungewöhnlich und signalisiert, dass die Einheit innerhalb der ukrainischen Führung brüchiger werden könnte – zu einem Zeitpunkt, an dem das Land weiterhin auf massive westliche Unterstützung angewiesen ist.",
           "tag": "Ukraine-Politik",
           "emoji": "🗳️",
           "quelle": "BBC",
           "quelle_url": "https://www.bbc.co.uk/news/articles/cdew8n9erlwo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "id": "politik-2",
-          "titel": "Fährunglück in Simbabwe: Mindestens 93 Tote",
-          "zusammenfassung": "Bei einem Fährunglück auf dem Karibasee in Simbabwe sind mindestens 93 Menschen ums Leben gekommen. Die Katastrophe ist damit die schlimmste Transportkatastrophe in der Geschichte des Landes.",
-          "bedeutung": "Das Unglück offenbart die marode Infrastruktur und fehlende Sicherheitsstandards in vielen Teilen Afrikas.",
-          "hintergrund": "Der Karibasee, einer der größten Stauseen der Welt, verbindet entlegene Gemeinden in Simbabwe und Sambia, die oft auf Fähren als einziges Transportmittel angewiesen sind. Überladung und mangelnde Wartung gelten als strukturelle Probleme des regionalen Fährbetriebs.\n\nDie Bergungsarbeiten gestalten sich schwierig, da der See für seine starken Strömungen und seinen Krokodilbestand bekannt ist. Humanitäre Organisationen fordern nun eine dringende Überprüfung der Sicherheitsstandards im gesamten Binnenschifffahrtssystem Südafrikas.",
-          "tag": "Katastrophe",
-          "emoji": "🚢",
-          "quelle": "BBC",
-          "quelle_url": "https://www.bbc.co.uk/news/articles/cjwx58n1153o?at_medium=RSS&at_campaign=rss"
         }
       ]
     },
@@ -49,36 +49,36 @@
       "stories": [
         {
           "id": "wirtschaft-0",
-          "titel": "Globale Anleihezinsen auf neuem Rekordhoch",
-          "zusammenfassung": "Die langfristigen Zinsen auf Staatsanleihen in den USA, Großbritannien, Deutschland und Japan sind gleichzeitig auf neue Höchststände gestiegen. Als Treiber gelten steigende Energiepreise, KI-Investitionsbooms und hartnäckige Inflation.",
-          "bedeutung": "Höhere Anleihezinsen verteuern Kredite weltweit und können Investitionen, Immobilienmärkte und staatliche Haushalte massiv belasten.",
-          "hintergrund": "Der gleichzeitige Anstieg der Langfristzinsen in den vier größten Volkswirtschaften ist ein seltenes Phänomen und signalisiert, dass Märkte strukturell höhere Inflationserwartungen einpreisen. Besonders der KI-getriebene Energiehunger der Rechenzentren sowie geopolitisch bedingte Rohstoffpreissteigerungen gelten als neue, dauerhafte Inflationstreiber.\n\nFür Schwellen- und Entwicklungsländer verschärft die Entwicklung die Lage zusätzlich: Kapitalabflüsse in höherverzinsliche Staatsanleihen der Industrieländer erhöhen den Druck auf deren Währungen und Refinanzierungskosten erheblich.",
-          "tag": "Zinswende",
-          "emoji": "📈",
+          "titel": "Britische Inflation steigt – Iran-Krieg belastet Preise",
+          "zusammenfassung": "Die Inflation im Vereinigten Königreich ist auf den höchsten Stand seit vier Monaten gestiegen, angetrieben vor allem durch stark gestiegene Energiekosten. Schatzkanzler John Healey machte den anhaltenden Krieg mit dem Iran mitverantwortlich für den Preisauftrieb.",
+          "bedeutung": "Der Befund zeigt, wie der Nahost-Konflikt inzwischen direkte Auswirkungen auf die Haushaltskassen europäischer Verbraucher hat.",
+          "hintergrund": "Mit einer Inflationsrate von 2,9 Prozent trifft der Preisanstieg britische Haushalte zu einem sensiblen Zeitpunkt: Premierminister Andy Burnham steht ohnehin unter politischem Druck, und steigende Lebenshaltungskosten dürften die Stimmung im Land weiter eintrüben.\n\nDer Anstieg der Energierechnungen ist kein rein britisches Phänomen – er spiegelt die angespannte globale Energieversorgungslage wider, die durch die Unsicherheiten rund um den Iran-Konflikt und dessen Auswirkungen auf die Ölproduktion im Nahen Osten befeuert wird.",
+          "tag": "Inflation",
+          "emoji": "🔥",
           "quelle": "BBC",
-          "quelle_url": "https://www.bbc.co.uk/news/articles/c1k1x1zdywdo?at_medium=RSS&at_campaign=rss"
+          "quelle_url": "https://www.bbc.co.uk/news/articles/cdrv7jr8n74o?at_medium=RSS&at_campaign=rss"
         },
         {
           "id": "wirtschaft-1",
-          "titel": "USA und Kanada vor kritischer Handelsfrist",
-          "zusammenfassung": "Kanadas Premierminister Carney steht vor möglicherweise letzten Verhandlungen mit der Trump-Regierung, bevor neue US-Zölle in Kraft treten könnten. Die kanadische Seite zeigt sich wenig konzessionsbereit, was eine Einigung erschwert.",
-          "bedeutung": "Ein Scheitern der Gespräche würde eine der wichtigsten Handelsbeziehungen der Welt erheblich beschädigen und Lieferketten in Nordamerika erschüttern.",
-          "hintergrund": "Seit dem Amtsantritt Trumps steht das Freihandelsabkommen zwischen den USA, Kanada und Mexiko unter Dauerdruck. Washington hat wiederholt Sonderzölle auf kanadische Waren angedroht und damit innenpolitisch in Kanada eine Welle wirtschaftsnationalistischer Stimmung ausgelöst, die Carney wenig Spielraum für Zugeständnisse lässt.\n\nAnalysten warnen, dass selbst ein temporäres Scheitern der Verhandlungen kurzfristig Lieferketten in der Automobil- und Agrarindustrie belasten würde, da beide Länder tief miteinander verflochten sind.",
-          "tag": "Handelspolitik",
-          "emoji": "🤝",
+          "titel": "US-Staatsschulden überschreiten 40-Billionen-Dollar-Marke",
+          "zusammenfassung": "Die Staatsverschuldung der Vereinigten Staaten hat erstmals die Schwelle von 40 Billionen US-Dollar überschritten und sich damit innerhalb eines Jahrzehnts mehr als verdoppelt. Gleichzeitig erreichten die Zinsen für 30-jährige Staatsanleihen den höchsten Stand seit fast zwei Jahrzehnten.",
+          "bedeutung": "Die Kombination aus rekordhoher Verschuldung und steigenden Zinsen erhöht den Druck auf den US-Haushalt erheblich und sendet Warnsignale an die globalen Finanzmärkte.",
+          "hintergrund": "Die rasante Zunahme der US-Schulden ist das Ergebnis jahrelanger Haushaltsdefizite, massiver Konjunkturpakete und nun steigender Zinslasten. Je höher die Zinsen, desto teurer wird es für Washington, bestehende Schulden zu refinanzieren – ein Teufelskreis, der fiskalischen Spielraum dauerhaft einengt.\n\nFür die Weltwirtschaft ist die Entwicklung relevant, weil US-Staatsanleihen als globaler Referenzzinssatz dienen. Steigende Renditen verteuern Kredite weltweit und könnten Investitionen in Schwellen- und Industrieländern gleichermaßen bremsen.",
+          "tag": "Staatsschulden",
+          "emoji": "💸",
           "quelle": "BBC",
-          "quelle_url": "https://www.bbc.co.uk/news/articles/crl7600rpnko?at_medium=RSS&at_campaign=rss"
+          "quelle_url": "https://www.bbc.co.uk/news/articles/c70gp8252ejo?at_medium=RSS&at_campaign=rss"
         },
         {
           "id": "wirtschaft-2",
-          "titel": "Roboterhersteller Unitree feiert Börsendebüt in Shanghai",
-          "zusammenfassung": "Unitree Robotics, der weltgrößte Hersteller humanoider Roboter, startete seinen Börsengang am Schanghaier Star-Markt. Die Aktie legte zum Handelsauftakt deutlich zu und spiegelt das wachsende Investoreninteresse an Robotik wider.",
-          "bedeutung": "Der Börsengang ist ein Meilenstein für die globale Robotik- und KI-Industrie und unterstreicht Chinas Ambitionen in der Hochtechnologie.",
-          "hintergrund": "Unitree hat sich in wenigen Jahren vom Start-up zum globalen Marktführer für humanoide und vierbeinige Roboter entwickelt. Die Geräte des Unternehmens werden in Industrie, Forschung und Militäranwendungen eingesetzt und sind auch international gefragt, was angesichts geopolitischer Spannungen zunehmend regulatorische Aufmerksamkeit auf sich zieht.\n\nDer Börsengang erfolgt zu einem Zeitpunkt, an dem Peking massiv in die Robotik investiert und diese als strategischen Schlüsselsektor für die wirtschaftliche Zukunft Chinas definiert hat. Für internationale Investoren ist Unitree ein Barometer für den Reifegrad der chinesischen Hightech-Industrie.",
-          "tag": "Robotik",
+          "titel": "Goldman Sachs: KI verdrängt Jobs in Industrieländern",
+          "zusammenfassung": "Eine neue Studie von Goldman Sachs zeigt, dass Künstliche Intelligenz in entwickelten Volkswirtschaften messbar Druck auf Arbeitsmärkte ausübt. Der Befund deutet darauf hin, dass die Verdrängungseffekte früher spürbar werden als von vielen Experten erwartet.",
+          "bedeutung": "Die Analyse eines der einflussreichsten Finanzinstitute weltweit verleiht der KI-Arbeitsmarktdebatte neue Dringlichkeit und dürfte politische Reaktionen in mehreren Ländern anstoßen.",
+          "hintergrund": "Bislang dominierten in der öffentlichen Debatte eher optimistische Szenarien, wonach KI vor allem neue Berufsfelder schaffen werde. Die Goldman-Studie liefert nun empirische Hinweise, dass gleichzeitig bestehende Stellen in relevanter Zahl wegfallen – besonders in Bereichen mit repetitiven Bürotätigkeiten.\n\nFür Regierungen bedeutet das wachsenden Handlungsbedarf bei Umschulungsprogrammen und sozialen Sicherungsnetzen. Die Ergebnisse dürften auch die laufenden politischen Debatten über KI-Regulierung in der EU und den USA beschleunigen.",
+          "tag": "KI & Arbeit",
           "emoji": "🤖",
-          "quelle": "BBC",
-          "quelle_url": "https://www.bbc.co.uk/news/articles/c0qv4w9492zo?at_medium=RSS&at_campaign=rss"
+          "quelle": "CNBC",
+          "quelle_url": "https://www.cnbc.com/2026/08/19/goldman-ai-impact-employment-jobs.html"
         }
       ]
     },
@@ -89,34 +89,34 @@
       "stories": [
         {
           "id": "boerse-0",
-          "titel": "Anleiheverkäufe treffen Kleinunternehmen und Main Street hart",
-          "zusammenfassung": "Der anhaltende Ausverkauf langlaufender US-Staatsanleihen treibt die Kreditkosten für kleine und mittlere Unternehmen in die Höhe. An der Wall Street wartet man derweil gespannt auf die mögliche Nominierung von Kevin Warsh als Fed-Chef.",
-          "bedeutung": "Steigende Finanzierungskosten bedrohen Investitionen und Beschäftigung in der Breite der US-Wirtschaft weit jenseits der Finanzmärkte.",
-          "hintergrund": "Der Treasury-Markt sendet seit Wochen Warnsignale: Die Renditen zehnjähriger US-Staatsanleihen haben neue Mehrjahreshochs erreicht, was die Hypotheken- und Unternehmenskreditkosten direkt nach oben zieht. Besonders kleine Unternehmen ohne Kapitalmarktzugang sind auf variabel verzinste Bankkredite angewiesen und spüren die Veränderungen unmittelbar.\n\nIm Hintergrund läuft ein politisches Machtspiel: Die Frage, wer nach Jerome Powell die Fed führt, hat direkten Einfluss auf künftige Zinspolitik. Kandidat Warsh gilt als deutlich restriktiver als Powell, was Märkte und Analysten gleichermaßen beschäftigt.",
-          "tag": "Anleihen",
-          "emoji": "💸",
+          "titel": "Fed-Protokoll: Zinserhöhung wieder auf dem Tisch",
+          "zusammenfassung": "Die veröffentlichten Protokolle der US-Notenbank-Sitzung vom Juli zeigen, dass Mitglieder des Offenmarktausschusses eine erneute Zinserhöhung in Betracht ziehen, sollte die Inflation nicht merklich nachlassen. Die Aussicht auf höhere Leitzinsen dürfte die Märkte belasten.",
+          "bedeutung": "Ein Kurswechsel der Fed zurück zu Zinserhöhungen würde globale Kapitalströme, Anleiherenditen und Aktienbewertungen empfindlich treffen.",
+          "hintergrund": "Die US-Notenbank hatte zuletzt Hoffnungen auf baldige Zinssenkungen geweckt. Die nun veröffentlichten Protokolle korrigieren dieses Bild: Mehrere Fed-Mitglieder sehen weiteren Handlungsbedarf nach oben, wenn die Inflation hartnäckig bleibt.\n\nFür Anleger ist das ein klares Signal, dass die erhoffte geldpolitische Lockerung erneut verschoben werden könnte. Besonders zinssensitive Sektoren wie Immobilien und Tech-Aktien dürften unter dem Druck steigender Renditeerwartungen leiden.",
+          "tag": "Geldpolitik",
+          "emoji": "📈",
+          "quelle": "CNBC",
+          "quelle_url": "https://www.cnbc.com/2026/08/19/fed-minutes-july-2026-officials-saw-need-for-rate-hike-if-inflation-doesnt-cool.html"
+        },
+        {
+          "id": "boerse-1",
+          "titel": "Anleihen-Selloff erhöht Druck auf Wirtschaft und Politik",
+          "zusammenfassung": "Ein anhaltender Ausverkauf langfristiger US-Staatsanleihen treibt die Finanzierungskosten in die Höhe und macht sich zunehmend in der Realwirtschaft bemerkbar. Beobachter sehen darin eine politische Zeitbombe, die durch Schulden, KI-Ausgaben und Energiepreise befeuert wird.",
+          "bedeutung": "Steigende Anleiherenditen wirken wie eine globale Zinserhöhung und können Investitionen, Immobilienmärkte und staatliche Haushalte weltweit belasten.",
+          "hintergrund": "Der Bond-Markt sendet zunehmend Alarmsignale: Die Renditen für langlaufende Treasuries steigen, während Investoren zugleich auf die Nominierung eines neuen Fed-Chefs warten. Spekulationen über Kevin Warsh als möglichen Nachfolger Jerome Powells sorgen für zusätzliche Unsicherheit über die künftige Zinspolitik.\n\nDie Kombination aus explodierender Staatsverschuldung, milliardenschweren KI-Infrastrukturinvestitionen und hohen Energiepreisen macht den Anleihenmarkt zu einem zunehmend politischen Schlachtfeld – mit direkten Auswirkungen auf Konsumenten und Unternehmen beiderseits des Atlantiks.",
+          "tag": "Anleihenmarkt",
+          "emoji": "📉",
           "quelle": "CNBC",
           "quelle_url": "https://www.cnbc.com/2026/08/18/bond-market-treasury-yields-warsh-main-street.html"
         },
         {
-          "id": "boerse-1",
-          "titel": "Moutais Gewinneinbruch als Spiegel Chinas Konsumschwäche",
-          "zusammenfassung": "Der chinesische Luxus-Schnapskonzern Kweichow Moutai meldete im ersten Halbjahr einen seltenen Rückgang des Nettogewinns. Es ist der Anschluss an den ersten jährlichen Gewinneinbruch der Unternehmensgeschichte und gilt als Symptom der tiefen Konsumschwäche in China.",
-          "bedeutung": "Moutai gilt als Konjunkturbarometer für Chinas Binnenkonsum und Unternehmenskultur – ein anhaltender Abschwung sendet alarmierende Signale.",
-          "hintergrund": "Kweichow Moutai ist nicht nur ein Getränkehersteller, sondern eine Art Kulturinstitution Chinas: Der Baijiu-Schnaps wird bei Geschäftsessen und offiziellen Anlässen gereicht und gilt als Statussymbol. Sein Absatzrückgang reflektiert daher sowohl schwächere Unternehmensausgaben als auch einen Wandel im gesellschaftlichen Konsumverhalten.\n\nChinas Wirtschaft kämpft mit strukturellen Problemen: Deflationsdruck, eine angeschlagene Immobilienbranche und gedämpfte Haushaltsnachfrage bremsen das Wachstum. Dass selbst Luxusprodukte wie Moutai nicht verschont bleiben, signalisiert, dass die Konjunkturschwäche breiter und tiefer ist als von Pekings offiziellen Statistiken suggeriert.",
-          "tag": "China-Konjunktur",
-          "emoji": "🥃",
-          "quelle": "CNBC",
-          "quelle_url": "https://www.cnbc.com/2026/08/19/china-economy-moutai-ai-property.html"
-        },
-        {
           "id": "boerse-2",
-          "titel": "Russland feuert Ökonom, der vor Kriegswirtschaft warnte",
-          "zusammenfassung": "Ein führender russischer Wirtschaftsexperte wurde offenbar entlassen, nachdem er intern vor den langfristigen ökonomischen Folgen des Ukraine-Kriegs gewarnt hatte. Moskau präsentiert nach außen weiterhin ein Bild wirtschaftlicher Stärke.",
-          "bedeutung": "Die Entlassung zeigt, wie Russlands Führung missliebige Wirtschaftsanalysen unterdrückt und sich damit selbst um belastbare Entscheidungsgrundlagen bringt.",
-          "hintergrund": "Andrei Klepach, ein renommierter Wirtschaftsexperte, soll laut Berichten nach einem internen Vortrag entlassen worden sein, in dem er davor warnte, dass Russland einen langen Abnutzungskrieg wirtschaftlich nicht durchhalten könne. Offizielle Kremlstatistiken hingegen weisen ein robust wachsendes BIP aus – ein Bild, das viele unabhängige Ökonomen stark bezweifeln.\n\nDie Episode reiht sich in ein Muster ein: Je länger der Krieg dauert, desto stärker unterdrückt Moskau intern abweichende wirtschaftliche Einschätzungen. Für westliche Geheimdienste und Sanktionspolitiker ist dies ein relevantes Signal – eine Wirtschaft, die keine ehrliche Selbstanalyse zulässt, trifft zwangsläufig schlechtere strategische Entscheidungen.",
+          "titel": "Russland feuert Ökonom nach düsterer Kriegsprognose",
+          "zusammenfassung": "Der russische Spitzenökonom Andrei Klepach wurde offenbar entlassen, nachdem er intern gewarnt hatte, Russland könne einen langen Abnutzungskrieg gegen die Ukraine wirtschaftlich nicht gewinnen. Die Entlassung gibt seltene Einblicke in die Zerfaserung des offiziellen Narrativs in Moskau.",
+          "bedeutung": "Die Entlassung eines ranghohen Wirtschaftsexperten unterstreicht, wie fragil Russlands viel beschworene wirtschaftliche Stärke tatsächlich sein könnte – mit Relevanz für Sanktionspolitik und Kriegsdauer.",
+          "hintergrund": "Die russische Regierung präsentiert ihre Volkswirtschaft seit Beginn des Angriffskriegs als widerstandsfähig und sanktionsresistent. Klepachs Bericht widerspricht diesem Bild fundamental und deutet darauf hin, dass interne Analysten das Land auf einem gefährlichen fiskalischen Kurs sehen.\n\nFür westliche Regierungen und Märkte ist die Episode ein wichtiges Signal: Sollte Russlands Wirtschaft tatsächlich unter dem Druck langer Kriegsdauer und anhaltender Sanktionen einbrechen, hätte das weitreichende Konsequenzen für die globalen Energie- und Rohstoffmärkte.",
           "tag": "Russland-Wirtschaft",
-          "emoji": "🔇",
+          "emoji": "🇷🇺",
           "quelle": "CNBC",
           "quelle_url": "https://www.cnbc.com/2026/08/18/ukraine-war-russia-economy-klepach.html"
         }
