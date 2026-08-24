@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-23T02:05:58.046589+00:00",
-  "datum": "Sonntag, 23. August 2026",
+  "generated_at": "2026-08-24T02:02:10.813608+00:00",
+  "datum": "Montag, 24. August 2026",
   "ressorts": [
     {
       "id": "politik",
@@ -9,10 +9,10 @@
       "stories": [
         {
           "id": "politik-0",
-          "titel": "Kanada verhängt Gegenzölle nach Scheitern der Handelsgespräche",
-          "zusammenfassung": "Premierminister Carney kündigte Vergeltungszölle gegen die USA an, nachdem die Handelsverhandlungen ohne Einigung geplatzt waren. Er warf Washington vor, bewusst einen Handelskrieg vom Zaun gebrochen zu haben.",
-          "bedeutung": "Ein offener Zollkonflikt zwischen den beiden größten Handelspartnern Nordamerikas bedroht globale Lieferketten und könnte die Weltwirtschaft weiter destabilisieren.",
-          "hintergrund": "Die Verhandlungen zwischen Ottawa und Washington scheiterten an grundlegenden Differenzen über Zollforderungen der Trump-Administration. Carney bezeichnete die US-Haltung als strategischen Fehler und betonte, Kanada werde seine wirtschaftlichen Interessen entschlossen verteidigen.\n\nDer Konflikt markiert einen neuen Tiefpunkt in den bilateralen Beziehungen seit Trumps Rückkehr ins Weiße Haus. Beobachter warnen, dass ein anhaltender Zollstreit zwischen den USMCA-Partnern nicht nur Nordamerika, sondern auch europäische und asiatische Exporteure empfindlich treffen könnte.",
+          "titel": "Trump: Kanada will US-Bundesstaat sein nach Handelskrise",
+          "zusammenfassung": "Nach dem Scheitern der Handelsgespräche zwischen den USA und Kanada kündigte der kanadische Premierminister Gegenzölle an und warf Washington vor, einen Handelskrieg vom Zaun gebrochen zu haben. US-Präsident Trump interpretierte Kanadas Reaktion provokant als Beleg dafür, dass das Land die Vorteile einer US-Staatsmitgliedschaft anstrebe.",
+          "bedeutung": "Der eskalierende Handelskonflikt zwischen den beiden größten nordamerikanischen Volkswirtschaften bedroht globale Lieferketten und könnte das CUSMA-Freihandelsabkommen grundlegend erschüttern.",
+          "hintergrund": "Die Handelsgespräche zwischen Ottawa und Washington sind nach wochenlangen Spannungen über Zölle auf kanadische Rohstoffe und Industriegüter vorläufig gescheitert. Kanada reagierte mit der Ankündigung von Gegenzöllen, die Premierminister Mark Carney als widerstrebende, aber notwendige Maßnahme bezeichnete.\n\nTrumps Kommentar, Kanada suche offensichtlich nach den Vorzügen einer Eingliederung in die USA, verschärft die diplomatische Lage erheblich. Beobachter warnen, dass eine weitere Eskalation auch die engen Sicherheitskooperationen beider Länder belasten könnte, die seit Jahrzehnten ein Fundament nordatlantischer Stabilität bilden.",
           "tag": "Handelskrieg",
           "emoji": "🇨🇦",
           "quelle": "BBC",
@@ -20,25 +20,25 @@
         },
         {
           "id": "politik-1",
-          "titel": "Russischer Angriff auf ukrainisches Einkaufszentrum fordert 16 Tote",
-          "zusammenfassung": "Bei einem russischen Raketenangriff auf ein Einkaufszentrum in der Ukraine wurden mindestens 16 Menschen getötet und rund 130 weitere verletzt, darunter Kinder. Rettungskräfte suchen weiterhin nach vier vermissten Personen im Trümmerfeld.",
-          "bedeutung": "Der gezielte Angriff auf zivile Infrastruktur verdeutlicht die anhaltende Brutalität des russischen Krieges gegen die ukrainische Zivilbevölkerung.",
-          "hintergrund": "Präsident Selenskyj verurteilte den Anschlag scharf als niederträchtig und rief die internationale Gemeinschaft erneut zu verstärkter Unterstützung auf. Rettungsteams arbeiteten auch am Wochenende unter schwierigen Bedingungen im Schutt des zerstörten Gebäudes.\n\nDerartige Angriffe auf belebte Zivilziele häufen sich seit Monaten und stehen im Fokus laufender Untersuchungen des Internationalen Strafgerichtshofs. Die internationale Empörung wächst, doch konkrete militärische Konsequenzen für Russland blieben bislang aus.",
-          "tag": "Ukraine-Krieg",
-          "emoji": "🇺🇦",
+          "titel": "Kongo und M23-Rebellen einigen sich auf Friedensfahrplan",
+          "zusammenfassung": "In der Schweiz haben Vertreter der Demokratischen Republik Kongo und der M23-Rebellengruppe einen gemeinsamen Fahrplan für weiterführende Friedensgespräche vereinbart. Die Einigung gilt als erster konkreter Schritt zur Beendigung eines der blutigsten anhaltenden Konflikte Afrikas.",
+          "bedeutung": "Der Konflikt im Osten des Kongos hat in den vergangenen Jahren Hunderttausende Menschen vertrieben und zählt zu den humanitären Krisen mit der größten globalen Dringlichkeit.",
+          "hintergrund": "Die M23-Bewegung kontrolliert seit Anfang 2025 weite Teile der Provinz Nord-Kivu, darunter zeitweise die Großstadt Goma. Hinter der Gruppe stehen nach Einschätzung internationaler Beobachter und UN-Berichten enge Verbindungen zu Ruanda, was die diplomatische Lösung des Konflikts erheblich kompliziert.\n\nDie Genfer Gespräche wurden von regionalen Vermittlern unter Beteiligung der Afrikanischen Union begleitet. Ob der vereinbarte Fahrplan tatsächlich zu einem dauerhaften Waffenstillstand führt, bleibt angesichts früherer gescheiterter Abkommen ungewiss – dennoch werten Diplomaten die Einigung als Signal des politischen Willens beider Seiten.",
+          "tag": "Friedensgespräche",
+          "emoji": "🕊️",
           "quelle": "BBC",
-          "quelle_url": "https://www.bbc.co.uk/news/articles/c39egw7nmk2o?at_medium=RSS&at_campaign=rss"
+          "quelle_url": "https://www.bbc.co.uk/news/articles/cre4e1q3wewo?at_medium=RSS&at_campaign=rss"
         },
         {
           "id": "politik-2",
-          "titel": "Israel greift nahe Damaskus an – Syrien protestiert scharf",
-          "zusammenfassung": "Syrien verurteilte einen israelischen Luftangriff in der Nähe von Damaskus als klaren Verstoß gegen das Völkerrecht. Der Zwischenfall reiht sich in eine Serie israelischer Militärschläge auf syrischem Territorium innerhalb weniger Tage ein.",
-          "bedeutung": "Wiederholte israelische Angriffe auf syrische Ziele erhöhen das Risiko einer Eskalation im ohnehin fragilen Nahen Osten erheblich.",
-          "hintergrund": "Erst wenige Tage zuvor hatten Berichte über einen israelischen Angriff auf eine Militärbasis nahe der türkischen Grenze für Spannungen gesorgt. Die israelische Regierung äußerte sich zunächst nicht öffentlich zu dem jüngsten Vorfall, wie es ihrer üblichen Praxis entspricht.\n\nSyrien, das sich nach Jahren des Bürgerkriegs in einer fragilen Übergangsphase befindet, sieht sich durch die israelischen Operationen in seiner Souveränität verletzt. Internationale Beobachter mahnen zu Zurückhaltung, da eine Fehlkalkulation im Dreieck Israel–Syrien–Türkei schwerwiegende regionale Folgen haben könnte.",
-          "tag": "Nahost",
-          "emoji": "✈️",
+          "titel": "Abgesetzter Minister belastet Selenskyj mit Korruptionsvorwürfen",
+          "zusammenfassung": "Der entlassene ukrainische Minister Mykhailo Fedorov fordert, dass Präsident Selenskyj zu seinem Wissen über Korruption in der Regierung befragt werden solle. Fedorov plädierte zudem überraschend für die Abhaltung von Kriegswahlen in der Ukraine.",
+          "bedeutung": "Interne Machtkämpfe und öffentliche Korruptionsvorwürfe gegen die ukrainische Führung könnten das Vertrauen westlicher Verbündeter und die Fortsetzung von Militärhilfen gefährden.",
+          "hintergrund": "Fedorov, der zuletzt als Minister für digitale Transformation amtierte, wurde im Rahmen einer umfangreicheren Kabinettsumbildung abgesetzt. Seine öffentlichen Aussagen gegenüber der BBC markieren einen ungewöhnlich offenen Bruch innerhalb der ukrainischen Kriegsregierung, in der öffentliche Kritik an der Führung bislang selten war.\n\nDie Forderung nach Kriegswahlen ist politisch brisant: Die Ukraine hat Wahlen unter Berufung auf das Kriegsrecht ausgesetzt, was international unterschiedlich bewertet wird. Oppositionelle sehen darin eine Machtkonsolidierung Selenskyjs, die Regierung begründet den Schritt mit Sicherheitserfordernissen.",
+          "tag": "Ukraine-Politik",
+          "emoji": "🇺🇦",
           "quelle": "BBC",
-          "quelle_url": "https://www.bbc.co.uk/news/articles/c2dkdegr2xeo?at_medium=RSS&at_campaign=rss"
+          "quelle_url": "https://www.bbc.co.uk/news/articles/cwy4ypzvd7po?at_medium=RSS&at_campaign=rss"
         }
       ]
     },
@@ -49,36 +49,36 @@
       "stories": [
         {
           "id": "wirtschaft-0",
-          "titel": "US-Schulden überschreiten 40 Billionen Dollar – Zinssorgen wachsen",
-          "zusammenfassung": "Die Kreditkosten der USA sind erneut gestiegen, nachdem Versuche zur Zinssenkung nur kurzfristig wirkten. Die Staatsverschuldung hat mit dem Überschreiten der 40-Billionen-Dollar-Marke einen historischen Meilenstein erreicht.",
-          "bedeutung": "Die eskalierende US-Staatsverschuldung und steigende Finanzierungskosten könnten globale Kapitalmärkte unter Druck setzen und die Handlungsfähigkeit der weltgrößten Volkswirtschaft einschränken.",
-          "hintergrund": "Ökonomen zeigen sich zunehmend besorgt über die strukturelle Tragfähigkeit der amerikanischen Staatsfinanzen. Steigende Zinszahlungen fressen einen wachsenden Anteil des Bundeshaushalts auf und lassen weniger Spielraum für Investitionen und soziale Ausgaben.\n\nDie Entwicklung fällt in eine Phase, in der die Federal Reserve ihren geldpolitischen Kurs noch nicht abschließend festgelegt hat. Internationale Gläubiger und Schwellenländer beobachten die Lage mit Sorge, da US-Staatsanleihen als globaler Anker der Finanzmärkte gelten.",
-          "tag": "US-Schulden",
-          "emoji": "💸",
+          "titel": "Shein startet Börsengang mit 27-Milliarden-Bewertung",
+          "zusammenfassung": "Der chinesische Fast-Fashion-Riese Shein plant seinen Börsengang für den 1. September mit einer angestrebten Marktkapitalisierung von knapp 27 Milliarden US-Dollar. Das entspricht weniger als einem Drittel der Bewertung von 100 Milliarden Dollar, die das Unternehmen 2022 in einer privaten Finanzierungsrunde erzielte.",
+          "bedeutung": "Der Börsengang ist eines der größten IPO-Ereignisse des Jahres und ein Stresstest für die globale Attraktivität chinesischer Tech- und Konsummarken auf westlichen Kapitalmärkten.",
+          "hintergrund": "Shein hatte seinen ursprünglich für London geplanten Börsengang mehrfach verschoben, unter anderem wegen regulatorischer Bedenken hinsichtlich der Lieferkettentransparenz und möglicher Verbindungen zu Zwangsarbeit in der Baumwollproduktion. Die drastisch gesunkene Bewertung spiegelt sowohl das veränderte Zinsumfeld als auch den gewachsenen politischen Gegenwind wider.\n\nDas Unternehmen ist trotz seiner enormen Umsätze weiterhin umstritten: Kritiker bemängeln die Geschäftspraktiken rund um Umwelt und Arbeitnehmerrechte, während Shein gleichzeitig zu einem der meistgenutzten Modehändler unter jungen Konsumenten weltweit aufgestiegen ist.",
+          "tag": "Börsengang",
+          "emoji": "👗",
           "quelle": "BBC",
-          "quelle_url": "https://www.bbc.co.uk/news/articles/cvg92p3ez17o?at_medium=RSS&at_campaign=rss"
+          "quelle_url": "https://www.bbc.co.uk/news/articles/cdeweewjdxno?at_medium=RSS&at_campaign=rss"
         },
         {
           "id": "wirtschaft-1",
-          "titel": "Panamakanal drosselt Schiffsverkehr wegen El-Niño-Trockenheit",
-          "zusammenfassung": "Der Betreiber des Panamakanals hat entschieden, die Zahl der täglich passierenden Schiffe zu reduzieren, weil ungewöhnlich niedrige Niederschläge durch das El-Niño-Phänomen den Wasserpegel abgesenkt haben. Die Einschränkung trifft eine der meistbefahrenen Handelsrouten der Welt.",
-          "bedeutung": "Engpässe am Panamakanal verteuern den globalen Warenverkehr und können Lieferketten von Asien bis Europa und Amerika empfindlich stören.",
-          "hintergrund": "El Niño sorgt in der Karibik- und Pazifikregion für ungewöhnliche Wettermuster, die den Wasserstand der Schleusen des Kanals direkt beeinflussen. Bereits in früheren El-Niño-Jahren kam es zu ähnlichen Durchfahrtsbeschränkungen mit spürbaren Folgen für den Welthandel.\n\nReedereien suchen bereits nach alternativen Routen über den Suezkanal oder um Kap Horn, was Transportzeiten und -kosten deutlich erhöht. Analysten warnen, dass die Einschränkungen bei anhaltendem Niederschlagsmangel noch verschärft werden könnten.",
-          "tag": "Welthandel",
-          "emoji": "🚢",
+          "titel": "Iranische Hacker legten britisches Kraftwerk lahm",
+          "zusammenfassung": "Berichten zufolge stecken mit dem Iran in Verbindung gebrachte Cyberangreifer hinter einem Angriff, der im Juli ein britisches Kraftwerk vorübergehend außer Betrieb setzte. Die britische Regierung versicherte, das Stromnetz sei zu keinem Zeitpunkt ernsthaft gefährdet gewesen.",
+          "bedeutung": "Der Vorfall belegt die wachsende Bedrohung kritischer Energieinfrastruktur durch staatlich gesteuerte Cyberakteure und rückt die Cybersicherheit für Versorgungsnetze auf die sicherheitspolitische Tagesordnung.",
+          "hintergrund": "Staatlich unterstützte Hackergruppen aus dem Iran gehören neben russischen und nordkoreanischen Akteuren zu den aktivsten Angreifern auf westliche Infrastruktur. Bisherige Angriffe zielten vorwiegend auf Finanz- und Regierungssysteme ab; Attacken auf die Energieversorgung gelten als gefährlichere Eskalationsstufe.\n\nDie britischen Behörden haben den Angriff offiziell bestätigt, halten sich aber zu Details über Angriffsmethode und betroffene Anlage zurück. Sicherheitsexperten fordern eine beschleunigte Härtung der Netzwerkinfrastruktur im Energiesektor, die in vielen Ländern noch auf veralteten Steuerungssystemen basiert.",
+          "tag": "Cybersicherheit",
+          "emoji": "⚡",
           "quelle": "BBC",
-          "quelle_url": "https://www.bbc.co.uk/news/articles/cwyl0jkxxryo?at_medium=RSS&at_campaign=rss"
+          "quelle_url": "https://www.bbc.co.uk/news/articles/ce9793g34yvo?at_medium=RSS&at_campaign=rss"
         },
         {
           "id": "wirtschaft-2",
-          "titel": "Alarmzeichen für die US-Wirtschaft: Wie ernst ist die Lage?",
-          "zusammenfassung": "Steigende Staatsschulden, hartnäckige Inflation und wachsende Zweifel an der Haushaltsdisziplin lassen Ökonomen zunehmend über die Stabilität der amerikanischen Volkswirtschaft diskutieren. Der jüngste Schuldenrekord hat diese Debatte neu entfacht.",
-          "bedeutung": "Die wirtschaftliche Verfassung der USA beeinflusst Wechselkurse, Zinsniveaus und Wachstumsaussichten weltweit – Unsicherheiten dort strahlen unmittelbar auf alle anderen Volkswirtschaften aus.",
-          "hintergrund": "Neben der explodierenden Staatsverschuldung bereiten Analysten auch schwächere Arbeitsmarktdaten und eine nachlassende Konsumstimmung Sorgen. Die Frage, ob die USA auf eine harte Landung zusteuern oder eine Stabilisierung gelingt, gilt derzeit als eine der zentralen Fragen der globalen Wirtschaftspolitik.\n\nWährend die Trump-Administration betont, das Defizit werde sich mittelfristig durch Wachstum von selbst reduzieren, sehen unabhängige Haushaltsinstitute kaum Anzeichen für eine solche Trendwende. Die Debatte dürfte die Finanzmärkte in den kommenden Wochen weiter beschäftigen.",
-          "tag": "Konjunktur",
-          "emoji": "📉",
+          "titel": "Energiebranche fordert mehr Staatshilfen für arme Haushalte",
+          "zusammenfassung": "Der britische Energieverband Energy UK mahnt an, dass die bestehenden staatlichen Unterstützungsleistungen für einkommensschwache Haushalte bei weitem nicht ausreichen, um die anhaltend hohen Energiekosten abzufedern. Die Branche appelliert an die Regierung, die Hilfsmaßnahmen auszuweiten.",
+          "bedeutung": "Energiearmut bleibt eines der drängendsten sozialpolitischen Probleme in Europa, und die Forderung aus der Industrie selbst erhöht den politischen Druck auf Regierungen, strukturelle Lösungen zu liefern.",
+          "hintergrund": "Trotz des Rückgangs der Großhandelspreise für Gas gegenüber den Spitzenwerten von 2022 sind die Verbraucherpreise für Energie in Großbritannien weiterhin deutlich höher als vor der Krise. Millionen Haushalte kämpfen mit Zahlungsrückständen bei Strom- und Gasrechnungen.\n\nDass die Energiewirtschaft selbst nach stärkeren Subventionen ruft, ist politisch bedeutsam: Es signalisiert, dass marktbasierte Mechanismen allein die soziale Schieflage nicht korrigieren können. Verbraucherschützer sehen darin eine Bestätigung ihrer Forderung nach einem dauerhaften Sozialtarif für vulnerable Haushalte.",
+          "tag": "Energiearmut",
+          "emoji": "🏠",
           "quelle": "BBC",
-          "quelle_url": "https://www.bbc.co.uk/news/articles/c9d8z72nn02o?at_medium=RSS&at_campaign=rss"
+          "quelle_url": "https://www.bbc.co.uk/news/articles/cm2g5x7l4mko?at_medium=RSS&at_campaign=rss"
         }
       ]
     },
@@ -89,36 +89,14 @@
       "stories": [
         {
           "id": "boerse-0",
-          "titel": "Bessents Anleihestrategie befeuert Inflationssorgen an den Märkten",
-          "zusammenfassung": "Der Versuch von US-Finanzminister Bessent, durch gezielte Eingriffe am Anleihemarkt die Renditen zu senken, hat unerwünschte Nebeneffekte produziert: Die sogenannte Breakeven-Rate – ein Maß für Inflationserwartungen – erreichte den höchsten Stand seit mehr als zwei Monaten. Investoren zweifeln an der Wirksamkeit der Strategie.",
-          "bedeutung": "Steigende Inflationserwartungen an den Anleihemärkten können die Hoffnungen auf baldige Zinssenkungen durch die Federal Reserve zunichtemachen und globale Kapitalflüsse umlenken.",
-          "hintergrund": "Bessent hatte versucht, durch eine veränderte Zusammensetzung der Staatsanleiheemissionen zugunsten kurzfristiger Papiere die langfristigen Zinsen zu drücken. Doch Marktteilnehmer interpretierten dies als Signal für anhaltend hohe Schuldenaufnahme, was Inflationsängste schürte statt sie zu dämpfen.\n\nExperten sehen die Handlungsmöglichkeiten des Finanzministeriums als begrenzt an, solange die grundlegenden fiskalischen Probleme ungelöst bleiben. Die Entwicklung erhöht den Druck auf die Fed, klar zu kommunizieren, wie sie auf die veränderten Markterwartungen reagieren wird.",
-          "tag": "Anleihemarkt",
-          "emoji": "📊",
+          "titel": "Wells Fargo und Citigroup im Übernahme-Modus: Fünf Kandidaten",
+          "zusammenfassung": "Laut Marktanalysten verfügen Wells Fargo und Citigroup über ausreichend Kapital und regulatorischen Spielraum, um je eine größere Regionalbank zu übernehmen. Fünf mittelgroße US-Regionalbanken gelten dabei als besonders aussichtsreiche Übernahmeziele.",
+          "bedeutung": "Nach Jahren regulatorischer Zurückhaltung signalisiert die Öffnung der US-Bankaufsicht für Großfusionen eine potenzielle Konsolidierungswelle im amerikanischen Finanzsektor mit globaler Strahlwirkung.",
+          "hintergrund": "Die US-Bankenaufsicht hatte nach der Regionalbanken-Krise von 2023, die unter anderem zur Pleite der Silicon Valley Bank führte, Megafusionen faktisch blockiert. Eine geänderte Haltung der Regulatoren unter der aktuellen Administration öffnet nun erstmals wieder das Fenster für großvolumige Bankenzusammenschlüsse.\n\nFür Citigroup und Wells Fargo kämen strategische Übernahmen zu einem günstigen Zeitpunkt: Beide Institute haben ihre internen Umstrukturierungen weitgehend abgeschlossen und könnten durch den Zukauf regionaler Filialnetze ihre Marktanteile im Einlagen- und Kreditgeschäft erheblich ausbauen. Investoren reagierten auf die Spekulationen bereits mit erhöhtem Handelsvolumen in den betreffenden Bankaktien.",
+          "tag": "Bankenfusion",
+          "emoji": "🏦",
           "quelle": "CNBC",
-          "quelle_url": "https://www.cnbc.com/2026/08/21/bessents-bond-gambit-aimed-at-calming-markets-is-instead-stirring-inflation-worries-.html"
-        },
-        {
-          "id": "boerse-1",
-          "titel": "Gemischte Signale: US-Jobdaten verunsichern Investoren",
-          "zusammenfassung": "Der amerikanische Arbeitsmarkt hat im Juli überraschend Stellen abgebaut, während die Arbeitslosenquote gleichzeitig leicht sank – eine widersprüchliche Datenlage, die an den Märkten für Unsicherheit sorgt. Analysten streiten über die Interpretation der Zahlen.",
-          "bedeutung": "Unklare Arbeitsmarktdaten erschweren der Federal Reserve die Zinsentscheidung und halten die Volatilität an den globalen Aktienmärkten hoch.",
-          "hintergrund": "Der Rückgang der Lohnsumme außerhalb der Landwirtschaft – sogenannte Nonfarm Payrolls – war der erste seit Monaten und wurde von vielen Beobachtern als Warnsignal gewertet. Gleichzeitig suggeriert die gesunkene Arbeitslosenquote, dass der Arbeitsmarkt noch nicht in einer ausgewachsenen Schwächephase ist.\n\nDie Federal Reserve steht vor dem Dilemma, einerseits die Inflation im Blick zu behalten und andererseits einer möglichen Abkühlung entgegenzuwirken. Die nächste Sitzung des Offenmarktausschusses wird von Investoren mit besonderer Spannung erwartet.",
-          "tag": "Arbeitsmarkt",
-          "emoji": "🔀",
-          "quelle": "CNBC",
-          "quelle_url": "https://www.cnbc.com/2026/08/07/here-are-three-key-takeaways-from-the-disappointing-july-jobs-report.html"
-        },
-        {
-          "id": "boerse-2",
-          "titel": "Samsung kündigt Aktionärsrenditen von bis zu 80 Milliarden Dollar an",
-          "zusammenfassung": "Der südkoreanische Technologiekonzern Samsung Electronics plant umfangreiche Rückkäufe und Dividendenzahlungen im Umfang von 90 bis 110 Billionen koreanischen Won. Allein im dritten Quartal sollen rund 30 Billionen Won als Bardividende ausgeschüttet werden.",
-          "bedeutung": "Das massive Rückgabeprogramm eines der weltgrößten Halbleiterhersteller sendet ein starkes Signal an globale Technologieinvestoren und könnte den Sektor stützen.",
-          "hintergrund": "Samsung reagiert damit auf wachsenden Druck von Aktionären, die angesichts starker Konkurrenz durch den koreanischen Rivalen SK Hynix mehr Kapitalrückflüsse fordern. SK Hynix hatte zuvor mit einem eigenen Rückkaufprogramm Maßstäbe gesetzt.\n\nDie Ankündigung fällt in eine Phase, in der der Halbleitermarkt von der weltweit steigenden Nachfrage nach KI-Chips profitiert. Analysten sehen das Programm als Versuch Samsungs, Vertrauen zurückzugewinnen, nachdem das Unternehmen im Speicherchip-Segment zuletzt Marktanteile verloren hatte.",
-          "tag": "Technologiemarkt",
-          "emoji": "💾",
-          "quelle": "CNBC",
-          "quelle_url": "https://www.cnbc.com/2026/08/21/samsung-shareholder-return-package-sk-hynix-buyback-ai-chip-boom.html"
+          "quelle_url": "https://www.cnbc.com/2026/08/23/wells-fargo-citigroup-deals-regional-banks.html"
         }
       ]
     }
