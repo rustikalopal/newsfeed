@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-24T02:02:10.813608+00:00",
-  "datum": "Montag, 24. August 2026",
+  "generated_at": "2026-08-25T01:57:35.173960+00:00",
+  "datum": "Dienstag, 25. August 2026",
   "ressorts": [
     {
       "id": "politik",
@@ -9,36 +9,36 @@
       "stories": [
         {
           "id": "politik-0",
-          "titel": "Trump: Kanada will US-Bundesstaat sein nach Handelskrise",
-          "zusammenfassung": "Nach dem Scheitern der Handelsgespräche zwischen den USA und Kanada kündigte der kanadische Premierminister Gegenzölle an und warf Washington vor, einen Handelskrieg vom Zaun gebrochen zu haben. US-Präsident Trump interpretierte Kanadas Reaktion provokant als Beleg dafür, dass das Land die Vorteile einer US-Staatsmitgliedschaft anstrebe.",
-          "bedeutung": "Der eskalierende Handelskonflikt zwischen den beiden größten nordamerikanischen Volkswirtschaften bedroht globale Lieferketten und könnte das CUSMA-Freihandelsabkommen grundlegend erschüttern.",
-          "hintergrund": "Die Handelsgespräche zwischen Ottawa und Washington sind nach wochenlangen Spannungen über Zölle auf kanadische Rohstoffe und Industriegüter vorläufig gescheitert. Kanada reagierte mit der Ankündigung von Gegenzöllen, die Premierminister Mark Carney als widerstrebende, aber notwendige Maßnahme bezeichnete.\n\nTrumps Kommentar, Kanada suche offensichtlich nach den Vorzügen einer Eingliederung in die USA, verschärft die diplomatische Lage erheblich. Beobachter warnen, dass eine weitere Eskalation auch die engen Sicherheitskooperationen beider Länder belasten könnte, die seit Jahrzehnten ein Fundament nordatlantischer Stabilität bilden.",
-          "tag": "Handelskrieg",
-          "emoji": "🇨🇦",
+          "titel": "USA kündigen härteste Sanktionen gegen Iran an",
+          "zusammenfassung": "US-Finanzminister Scott Bessent hat angekündigt, sämtliche wirtschaftlichen Beziehungen zum Iran zu kappen. Drittstaaten, die weiterhin Finanzbeziehungen mit Teheran unterhalten, sollen ebenfalls mit Isolierung rechnen.",
+          "bedeutung": "Die Ankündigung markiert eine neue Eskalationsstufe im westlichen Wirtschaftsdruck auf Iran und könnte globale Energiemärkte sowie Handelsrouten erheblich beeinflussen.",
+          "hintergrund": "Washington setzt seine Strategie des maximalen wirtschaftlichen Drucks gegenüber Teheran mit bisher unbekannter Konsequenz fort. Bessent sprach von der umfassendsten Finanzoffensive, die je gegen einen Staat gerichtet wurde.\n\nBesonders brisant ist die Drohung gegenüber Partnerstaaten: Länder wie China oder die Türkei, die weiterhin Handel mit Iran treiben, könnten selbst ins Visier amerikanischer Sanktionen geraten – ein Schritt, der das internationale Handelssystem unter Druck setzen dürfte.",
+          "tag": "Iran-Sanktionen",
+          "emoji": "🇺🇸",
           "quelle": "BBC",
-          "quelle_url": "https://www.bbc.co.uk/news/articles/cx272np7vgyo?at_medium=RSS&at_campaign=rss"
+          "quelle_url": "https://www.bbc.co.uk/news/articles/c0qxew81y83o?at_medium=RSS&at_campaign=rss"
         },
         {
           "id": "politik-1",
-          "titel": "Kongo und M23-Rebellen einigen sich auf Friedensfahrplan",
-          "zusammenfassung": "In der Schweiz haben Vertreter der Demokratischen Republik Kongo und der M23-Rebellengruppe einen gemeinsamen Fahrplan für weiterführende Friedensgespräche vereinbart. Die Einigung gilt als erster konkreter Schritt zur Beendigung eines der blutigsten anhaltenden Konflikte Afrikas.",
-          "bedeutung": "Der Konflikt im Osten des Kongos hat in den vergangenen Jahren Hunderttausende Menschen vertrieben und zählt zu den humanitären Krisen mit der größten globalen Dringlichkeit.",
-          "hintergrund": "Die M23-Bewegung kontrolliert seit Anfang 2025 weite Teile der Provinz Nord-Kivu, darunter zeitweise die Großstadt Goma. Hinter der Gruppe stehen nach Einschätzung internationaler Beobachter und UN-Berichten enge Verbindungen zu Ruanda, was die diplomatische Lösung des Konflikts erheblich kompliziert.\n\nDie Genfer Gespräche wurden von regionalen Vermittlern unter Beteiligung der Afrikanischen Union begleitet. Ob der vereinbarte Fahrplan tatsächlich zu einem dauerhaften Waffenstillstand führt, bleibt angesichts früherer gescheiterter Abkommen ungewiss – dennoch werten Diplomaten die Einigung als Signal des politischen Willens beider Seiten.",
-          "tag": "Friedensgespräche",
-          "emoji": "🕊️",
+          "titel": "Burnham bekräftigt Unterstützung für Ukraine trotz russischer Drohungen",
+          "zusammenfassung": "Der britische Premierminister Andy Burnham hat sich klar hinter die Ukraine gestellt, nachdem Moskau wegen des angeblichen Einsatzes britischer Drohnen durch ukrainische Streitkräfte Konsequenzen angedroht hatte. Burnham bezeichnete die russischen Warnungen als unerhört.",
+          "bedeutung": "Die Eskalation zeigt, wie direkt westliche Waffenlieferungen inzwischen in den diplomatischen Konflikt zwischen Russland und NATO-Staaten hineinspielen.",
+          "hintergrund": "Russland hatte zuletzt wiederholt gewarnt, dass eine direkte Beteiligung westlicher Waffen an Angriffen auf russisches Territorium schwere Folgen haben werde. Berichte über den Einsatz britischer Drohnen durch die Ukraine hatten Moskau zu neuerlichen Drohgebärden veranlasst.\n\nLondon weist eine direkte operative Verantwortung zurück, bekennt sich aber offen zur militärischen Unterstützung Kiews. Burnhams klare Haltung signalisiert, dass Großbritannien trotz des wachsenden russischen Drucks keine Kurskorrektur plant.",
+          "tag": "Ukraine-Krieg",
+          "emoji": "🇬🇧",
           "quelle": "BBC",
-          "quelle_url": "https://www.bbc.co.uk/news/articles/cre4e1q3wewo?at_medium=RSS&at_campaign=rss"
+          "quelle_url": "https://www.bbc.co.uk/news/articles/clyqypkrzq5o?at_medium=RSS&at_campaign=rss"
         },
         {
           "id": "politik-2",
-          "titel": "Abgesetzter Minister belastet Selenskyj mit Korruptionsvorwürfen",
-          "zusammenfassung": "Der entlassene ukrainische Minister Mykhailo Fedorov fordert, dass Präsident Selenskyj zu seinem Wissen über Korruption in der Regierung befragt werden solle. Fedorov plädierte zudem überraschend für die Abhaltung von Kriegswahlen in der Ukraine.",
-          "bedeutung": "Interne Machtkämpfe und öffentliche Korruptionsvorwürfe gegen die ukrainische Führung könnten das Vertrauen westlicher Verbündeter und die Fortsetzung von Militärhilfen gefährden.",
-          "hintergrund": "Fedorov, der zuletzt als Minister für digitale Transformation amtierte, wurde im Rahmen einer umfangreicheren Kabinettsumbildung abgesetzt. Seine öffentlichen Aussagen gegenüber der BBC markieren einen ungewöhnlich offenen Bruch innerhalb der ukrainischen Kriegsregierung, in der öffentliche Kritik an der Führung bislang selten war.\n\nDie Forderung nach Kriegswahlen ist politisch brisant: Die Ukraine hat Wahlen unter Berufung auf das Kriegsrecht ausgesetzt, was international unterschiedlich bewertet wird. Oppositionelle sehen darin eine Machtkonsolidierung Selenskyjs, die Regierung begründet den Schritt mit Sicherheitserfordernissen.",
-          "tag": "Ukraine-Politik",
-          "emoji": "🇺🇦",
+          "titel": "USA streichen Syrien von Terrorliste – Kurswechsel unter Trump",
+          "zusammenfassung": "Die Trump-Administration hat Syrien offiziell von der Liste der staatlichen Terrorunterstützer gestrichen. Damit vollzieht Washington eine markante außenpolitische Neuausrichtung hin zum neuen syrischen Präsidenten Ahmed al-Sharaa.",
+          "bedeutung": "Der Schritt ebnet den Weg für eine Normalisierung der Beziehungen zwischen den USA und dem neuen syrischen Führungspersonal – trotz dessen früherer Verbindungen zu al-Qaida.",
+          "hintergrund": "Syrien stand seit Jahrzehnten auf der amerikanischen Terrorliste und war damit von internationalem Handel und Finanzhilfen weitgehend abgeschnitten. Die Streichung öffnet nun potenziell den Weg zu wirtschaftlichem Wiederaufbau und diplomatischer Annäherung.\n\nDie Entscheidung ist innenpolitisch und international umstritten: Al-Sharaa, der das Land nach dem Sturz des Assad-Regimes übernommen hat, hat eine jihadistische Vergangenheit. Kritiker warnen vor einer Legitimierung fragwürdiger Akteure, während Befürworter auf pragmatische Stabilisierungsinteressen verweisen.",
+          "tag": "Syrien",
+          "emoji": "🕊️",
           "quelle": "BBC",
-          "quelle_url": "https://www.bbc.co.uk/news/articles/cwy4ypzvd7po?at_medium=RSS&at_campaign=rss"
+          "quelle_url": "https://www.bbc.co.uk/news/articles/c33knmyl0y5o?at_medium=RSS&at_campaign=rss"
         }
       ]
     },
@@ -49,36 +49,36 @@
       "stories": [
         {
           "id": "wirtschaft-0",
-          "titel": "Shein startet Börsengang mit 27-Milliarden-Bewertung",
-          "zusammenfassung": "Der chinesische Fast-Fashion-Riese Shein plant seinen Börsengang für den 1. September mit einer angestrebten Marktkapitalisierung von knapp 27 Milliarden US-Dollar. Das entspricht weniger als einem Drittel der Bewertung von 100 Milliarden Dollar, die das Unternehmen 2022 in einer privaten Finanzierungsrunde erzielte.",
-          "bedeutung": "Der Börsengang ist eines der größten IPO-Ereignisse des Jahres und ein Stresstest für die globale Attraktivität chinesischer Tech- und Konsummarken auf westlichen Kapitalmärkten.",
-          "hintergrund": "Shein hatte seinen ursprünglich für London geplanten Börsengang mehrfach verschoben, unter anderem wegen regulatorischer Bedenken hinsichtlich der Lieferkettentransparenz und möglicher Verbindungen zu Zwangsarbeit in der Baumwollproduktion. Die drastisch gesunkene Bewertung spiegelt sowohl das veränderte Zinsumfeld als auch den gewachsenen politischen Gegenwind wider.\n\nDas Unternehmen ist trotz seiner enormen Umsätze weiterhin umstritten: Kritiker bemängeln die Geschäftspraktiken rund um Umwelt und Arbeitnehmerrechte, während Shein gleichzeitig zu einem der meistgenutzten Modehändler unter jungen Konsumenten weltweit aufgestiegen ist.",
+          "titel": "US-Kanada-Handelskrieg spitzt sich dramatisch zu",
+          "zusammenfassung": "US-Präsident Trump drohte mit einer weiteren Anhebung der Autozölle auf kanadische Fahrzeuge, nachdem Premier Mark Carney eine Vergeltungsstrategie angekündigt hatte. Carney erklärte, er werde Gespräche nur dann wiederaufnehmen, wenn Washington mit einer konstruktiven Haltung an den Tisch komme.",
+          "bedeutung": "Der sich verschärfende Handelsstreit zwischen den beiden wichtigsten nordamerikanischen Volkswirtschaften gefährdet globale Lieferketten in der Automobilbranche und nährt Rezessionssorgen.",
+          "hintergrund": "Die Spannungen zwischen Washington und Ottawa haben seit Beginn des Jahres stetig zugenommen. Die nordamerikanische Automobilindustrie ist durch enge Produktionsverflechtungen besonders anfällig für Zollschocks – ein einziges Fahrzeug kann die Grenze mehrfach passieren, bevor es fertiggestellt ist.\n\nÖkonomen und Strategieanalysten warnen, dass Kanada als kleinere und stärker exportabhängige Volkswirtschaft unverhältnismäßig stark leiden würde. Gleichzeitig könnten US-amerikanische Verbraucher höhere Fahrzeugpreise zu spüren bekommen, sollten sich die Zölle weiter erhöhen.",
+          "tag": "Handelskrieg",
+          "emoji": "🚗",
+          "quelle": "BBC",
+          "quelle_url": "https://www.bbc.co.uk/news/articles/c93vpd60654o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "id": "wirtschaft-1",
+          "titel": "Shein peilt 27-Milliarden-Bewertung bei Hongkonger Börsengang an",
+          "zusammenfassung": "Der Fast-Fashion-Riese Shein strebt bei seinem geplanten Börsengang in Hongkong Anfang September eine Marktbewertung von knapp 27 Milliarden US-Dollar an. Das Unternehmen steht seit Längerem in der Kritik wegen Arbeitsbedingungen und Umweltfragen.",
+          "bedeutung": "Der Börsengang ist einer der bedeutendsten im asiatischen Raum in diesem Jahr und könnte als Gradmesser für das Investorenvertrauen in chinesisch geprägte Konsumgüterunternehmen dienen.",
+          "hintergrund": "Shein hat in wenigen Jahren eine beispiellose globale Reichweite aufgebaut und insbesondere junge Konsumenten mit extrem niedrigen Preisen angesprochen. Gleichzeitig sieht sich das Unternehmen mit wachsendem regulatorischen Druck in Europa und den USA konfrontiert.\n\nDer Schritt an die Hongkonger Börse kommt nach einem gescheiterten Versuch, in London zu notieren. Die gewählte Bewertung liegt deutlich unter früheren Spitzenbewertungen, was auf eine vorsichtigere Markteinschätzung hindeutet.",
           "tag": "Börsengang",
           "emoji": "👗",
           "quelle": "BBC",
           "quelle_url": "https://www.bbc.co.uk/news/articles/cdeweewjdxno?at_medium=RSS&at_campaign=rss"
         },
         {
-          "id": "wirtschaft-1",
-          "titel": "Iranische Hacker legten britisches Kraftwerk lahm",
-          "zusammenfassung": "Berichten zufolge stecken mit dem Iran in Verbindung gebrachte Cyberangreifer hinter einem Angriff, der im Juli ein britisches Kraftwerk vorübergehend außer Betrieb setzte. Die britische Regierung versicherte, das Stromnetz sei zu keinem Zeitpunkt ernsthaft gefährdet gewesen.",
-          "bedeutung": "Der Vorfall belegt die wachsende Bedrohung kritischer Energieinfrastruktur durch staatlich gesteuerte Cyberakteure und rückt die Cybersicherheit für Versorgungsnetze auf die sicherheitspolitische Tagesordnung.",
-          "hintergrund": "Staatlich unterstützte Hackergruppen aus dem Iran gehören neben russischen und nordkoreanischen Akteuren zu den aktivsten Angreifern auf westliche Infrastruktur. Bisherige Angriffe zielten vorwiegend auf Finanz- und Regierungssysteme ab; Attacken auf die Energieversorgung gelten als gefährlichere Eskalationsstufe.\n\nDie britischen Behörden haben den Angriff offiziell bestätigt, halten sich aber zu Details über Angriffsmethode und betroffene Anlage zurück. Sicherheitsexperten fordern eine beschleunigte Härtung der Netzwerkinfrastruktur im Energiesektor, die in vielen Ländern noch auf veralteten Steuerungssystemen basiert.",
-          "tag": "Cybersicherheit",
-          "emoji": "⚡",
-          "quelle": "BBC",
-          "quelle_url": "https://www.bbc.co.uk/news/articles/ce9793g34yvo?at_medium=RSS&at_campaign=rss"
-        },
-        {
           "id": "wirtschaft-2",
-          "titel": "Energiebranche fordert mehr Staatshilfen für arme Haushalte",
-          "zusammenfassung": "Der britische Energieverband Energy UK mahnt an, dass die bestehenden staatlichen Unterstützungsleistungen für einkommensschwache Haushalte bei weitem nicht ausreichen, um die anhaltend hohen Energiekosten abzufedern. Die Branche appelliert an die Regierung, die Hilfsmaßnahmen auszuweiten.",
-          "bedeutung": "Energiearmut bleibt eines der drängendsten sozialpolitischen Probleme in Europa, und die Forderung aus der Industrie selbst erhöht den politischen Druck auf Regierungen, strukturelle Lösungen zu liefern.",
-          "hintergrund": "Trotz des Rückgangs der Großhandelspreise für Gas gegenüber den Spitzenwerten von 2022 sind die Verbraucherpreise für Energie in Großbritannien weiterhin deutlich höher als vor der Krise. Millionen Haushalte kämpfen mit Zahlungsrückständen bei Strom- und Gasrechnungen.\n\nDass die Energiewirtschaft selbst nach stärkeren Subventionen ruft, ist politisch bedeutsam: Es signalisiert, dass marktbasierte Mechanismen allein die soziale Schieflage nicht korrigieren können. Verbraucherschützer sehen darin eine Bestätigung ihrer Forderung nach einem dauerhaften Sozialtarif für vulnerable Haushalte.",
-          "tag": "Energiearmut",
-          "emoji": "🏠",
+          "titel": "Manga-Themenpark bei Paris: Saudi-Arabien investiert sechs Milliarden",
+          "zusammenfassung": "Im Großraum Paris sollen drei neue Freizeitparks entstehen, darunter ein von der Manga-Kultur inspiriertes Erlebniszentrum. Möglich wird dies durch ein milliardenschweres Investitionspaket aus Saudi-Arabien.",
+          "bedeutung": "Das Projekt unterstreicht das wachsende strategische Interesse des Königreichs, Kapital außerhalb der Ölwirtschaft in globale Unterhaltungs- und Tourismusinfrastruktur zu lenken.",
+          "hintergrund": "Saudi-Arabien setzt seine Vision-2030-Diversifizierungsstrategie zunehmend auch durch Auslandsinvestitionen um. Die Wahl Frankreichs als Standort signalisiert das Bestreben, in europäischen Märkten Fuß zu fassen und gleichzeitig Soft Power zu projizieren.\n\nDie geplanten Parks könnten die Tourismuswirtschaft rund um Paris langfristig beleben und zehntausende Arbeitsplätze schaffen – ein willkommenes Signal für eine französische Regierung, die wirtschaftliche Impulse sucht.",
+          "tag": "Investition",
+          "emoji": "🎌",
           "quelle": "BBC",
-          "quelle_url": "https://www.bbc.co.uk/news/articles/cm2g5x7l4mko?at_medium=RSS&at_campaign=rss"
+          "quelle_url": "https://www.bbc.co.uk/news/articles/c8r6xy3ryndo?at_medium=RSS&at_campaign=rss"
         }
       ]
     },
@@ -89,14 +89,36 @@
       "stories": [
         {
           "id": "boerse-0",
-          "titel": "Wells Fargo und Citigroup im Übernahme-Modus: Fünf Kandidaten",
-          "zusammenfassung": "Laut Marktanalysten verfügen Wells Fargo und Citigroup über ausreichend Kapital und regulatorischen Spielraum, um je eine größere Regionalbank zu übernehmen. Fünf mittelgroße US-Regionalbanken gelten dabei als besonders aussichtsreiche Übernahmeziele.",
-          "bedeutung": "Nach Jahren regulatorischer Zurückhaltung signalisiert die Öffnung der US-Bankaufsicht für Großfusionen eine potenzielle Konsolidierungswelle im amerikanischen Finanzsektor mit globaler Strahlwirkung.",
-          "hintergrund": "Die US-Bankenaufsicht hatte nach der Regionalbanken-Krise von 2023, die unter anderem zur Pleite der Silicon Valley Bank führte, Megafusionen faktisch blockiert. Eine geänderte Haltung der Regulatoren unter der aktuellen Administration öffnet nun erstmals wieder das Fenster für großvolumige Bankenzusammenschlüsse.\n\nFür Citigroup und Wells Fargo kämen strategische Übernahmen zu einem günstigen Zeitpunkt: Beide Institute haben ihre internen Umstrukturierungen weitgehend abgeschlossen und könnten durch den Zukauf regionaler Filialnetze ihre Marktanteile im Einlagen- und Kreditgeschäft erheblich ausbauen. Investoren reagierten auf die Spekulationen bereits mit erhöhtem Handelsvolumen in den betreffenden Bankaktien.",
-          "tag": "Bankenfusion",
-          "emoji": "🏦",
+          "titel": "Alibaba-Aktie bricht nach Milliarden-Kapitalerhöhung ein",
+          "zusammenfassung": "Die Aktie des chinesischen Technologieriesen Alibaba verlor rund zehn Prozent, nachdem das Unternehmen eine Kapitalerhöhung im Volumen von 10,2 Milliarden US-Dollar angekündigt hatte. Die Erlöse sollen in den Ausbau der Künstlichen Intelligenz fließen.",
+          "bedeutung": "Der massive Kursrückgang zeigt, wie sensibel Märkte auf Verwässerungseffekte reagieren – selbst dann, wenn das eingesammelte Kapital für strategisch bedeutende Zukunftsinvestitionen bestimmt ist.",
+          "hintergrund": "Alibaba befindet sich in einem intensiven Wettrennen mit chinesischen und internationalen Konkurrenten um KI-Kapazitäten. Die Kapitalerhöhung ist ein Zeichen dafür, dass der Konzern bereit ist, kurzfristige Aktionärsverluste zugunsten langfristiger technologischer Führerschaft in Kauf zu nehmen.\n\nDer Schritt fällt in eine Phase, in der chinesische Tech-Aktien ohnehin unter erhöhter Beobachtung stehen. Anleger reagierten prompt mit Verkäufen – ein Muster, das zuletzt auch bei anderen Großplatzierungen im asiatischen Markt zu beobachten war.",
+          "tag": "Tech-Aktien",
+          "emoji": "📉",
           "quelle": "CNBC",
-          "quelle_url": "https://www.cnbc.com/2026/08/23/wells-fargo-citigroup-deals-regional-banks.html"
+          "quelle_url": "https://www.cnbc.com/2026/08/24/alibaba-share-placement-drop-ai-hong-kong.html"
+        },
+        {
+          "id": "boerse-1",
+          "titel": "Krypto-Rallye setzt sich fort – Bitcoin durchbricht Handelsrange",
+          "zusammenfassung": "Bitcoin und damit verbundene Kryptowährungen verzeichneten ihren stärksten Dreitages-Anstieg seit 2023 und setzten diese Bewegung weiter fort. Der Kurs durchbrach dabei eine seit Wochen bestehende Seitwärtsbewegung nach oben.",
+          "bedeutung": "Die Rallye deutet auf eine Rückkehr des spekulativen Appetits in den Kryptomarkt hin und könnte Kapitalströme aus anderen Assetklassen umlenken.",
+          "hintergrund": "Beobachter führen den Aufschwung auf ein Zusammenspiel mehrerer Faktoren zurück: nachlassende Zinssorgen, neue institutionelle Kaufinteressen sowie technische Kaufsignale nach dem Ausbruch aus der Handelsspanne.\n\nKritisch bleibt die Frage der Nachhaltigkeit: Spekulationsbewegungen im Kryptomarkt haben historisch oft schnelle Korrekturen nach sich gezogen. Dennoch zieht die aktuelle Dynamik erneut breite Aufmerksamkeit auf sich.",
+          "tag": "Krypto",
+          "emoji": "₿",
+          "quelle": "CNBC",
+          "quelle_url": "https://www.cnbc.com/2026/08/24/crypto-extends-gains-after-biggest-3-day-rally-since-2023.html"
+        },
+        {
+          "id": "boerse-2",
+          "titel": "Kanadischer Dollar unter Druck im eskalierenden Handelskrieg",
+          "zusammenfassung": "Der kanadische Dollar verlor gegenüber dem US-Dollar spürbar an Wert, nachdem die Handelsstreitigkeiten zwischen Ottawa und Washington sich deutlich verschärft hatten. Analysten von ING warnten, Kanada trage als kleinere, offenere Volkswirtschaft das größere Risiko.",
+          "bedeutung": "Der Währungsverfall spiegelt wachsendes Markumtrauen gegenüber den wirtschaftlichen Aussichten Kanadas wider und könnte Inflationsdruck sowie Zentralbankentscheidungen beeinflussen.",
+          "hintergrund": "Devisenmärkte reagieren zunehmend direkt auf handelspolitische Eskalationen – der sinkende Loonie ist ein früher Indikator dafür, dass Investoren Kapital aus dem kanadischen Markt abziehen oder absichern.\n\nFür die Bank of Canada entsteht ein schwieriges Dilemma: Eine Zinssenkung zur Stützung der Konjunktur könnte den Währungsdruck verstärken, während eine Zinserhöhung die vom Handelskrieg ohnehin belastete Wirtschaft weiter bremsen würde.",
+          "tag": "Devisen",
+          "emoji": "🍁",
+          "quelle": "CNBC",
+          "quelle_url": "https://www.cnbc.com/2026/08/24/canada-us-trade-war-deal.html"
         }
       ]
     }
