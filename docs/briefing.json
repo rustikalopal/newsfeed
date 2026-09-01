@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-31T01:25:03.345971+00:00",
-  "datum": "Montag, 31. August 2026",
+  "generated_at": "2026-09-01T01:52:45.544534+00:00",
+  "datum": "Dienstag, 1. September 2026",
   "ressorts": [
     {
       "id": "politik",
@@ -9,36 +9,36 @@
       "stories": [
         {
           "id": "politik-0",
-          "titel": "USA greifen iranische Raketenstellungen auf Larak an",
-          "zusammenfassung": "US-Streitkräfte haben Abschussrampen auf der iranischen Insel Larak im Persischen Golf bombardiert – der erste bekannte Angriff seit Ende Juli. Teheran spricht von zivilen Opfern und verurteilte den Angriff scharf.",
-          "bedeutung": "Der Angriff markiert eine erneute Eskalation im direkten militärischen Konflikt zwischen Washington und Teheran und erhöht die Spannungen in einer ohnehin explosiven Region.",
-          "hintergrund": "Die US-Regierung hat bislang keine offizielle Erklärung zu den Zielen des Angriffs abgegeben. Larak liegt strategisch günstig in der Straße von Hormus, durch die ein erheblicher Teil des globalen Ölhandels verläuft.\n\nIran hatte nach den Angriffen Ende Juli Vergeltung angedroht. Die erneute US-Militäraktion dürfte diplomatische Bemühungen zur Deeskalation erheblich erschweren und internationale Partner in eine schwierige Position bringen.",
-          "tag": "Iran-Konflikt",
+          "titel": "USA und Iran beschießen sich erstmals seit Wochen",
+          "zusammenfassung": "Amerikanische Streitkräfte haben die iranische Insel Larak in der Straße von Hormus angegriffen – der erste bekannte US-Schlag seit Ende Juli. Bei dem Angriff kamen zwei Menschen ums Leben, zwei weitere wurden verletzt.",
+          "bedeutung": "Ein erneuter direkter militärischer Schlagabtausch zwischen den USA und Iran in einer der weltweit wichtigsten Schifffahrtsrouten erhöht das Risiko einer weiteren Eskalation mit globalen Folgen für Energiemärkte und regionale Stabilität.",
+          "hintergrund": "Die Straße von Hormus gilt als neuralgischer Punkt der Weltwirtschaft, da ein erheblicher Teil des globalen Ölhandels durch diesen engen Meereskanal fließt. Jede militärische Auseinandersetzung in der Region wirkt sich unmittelbar auf die Rohstoffpreise und die Versorgungssicherheit aus.\n\nDer erneute Schlagabtausch kommt zu einem Zeitpunkt, an dem internationale Diplomaten vor einer gefährlichen Eskalationsspirale zwischen Washington und Teheran warnen. Zuletzt hatte es Ende Juli einen ähnlichen Vorfall gegeben, bevor eine relative Ruhepause eintrat.",
+          "tag": "US-Iran-Konflikt",
           "emoji": "💥",
           "quelle": "BBC",
           "quelle_url": "https://www.bbc.co.uk/news/articles/cx2z72x5z1po?at_medium=RSS&at_campaign=rss"
         },
         {
           "id": "politik-1",
-          "titel": "Mindestens 37 Tote nach Angriff auf Kiewer Waffendepot",
-          "zusammenfassung": "Ein russischer Angriff auf ein Munitionslager in der ukrainischen Hauptstadt Kiew forderte mindestens 37 Todesopfer und zwang Hunderte Anwohner zur Evakuierung. Behörden leiten nun Ermittlungen ein, warum militärische Depots in unmittelbarer Nähe von Wohngebieten gelagert wurden.",
-          "bedeutung": "Der verheerende Treffer im Großraum Kiew zeigt, wie verwundbar ukrainische Metropolen weiterhin sind, und wirft zugleich Fragen zur Sicherheit der westlichen Waffenlieferungen auf.",
-          "hintergrund": "Das getroffene Depot soll Ausrüstung enthalten haben, die im Rahmen westlicher Militärhilfe geliefert worden war. Die räumliche Nähe zum Wohngebiet sorgt für innenpolitischen Druck auf die ukrainische Führung.\n\nRussland intensiviert seine Angriffe auf Logistik- und Versorgungsinfrastruktur, während die Front im Osten des Landes sich weiter stabilisiert. Der Vorfall dürfte erneut Debatten über die Lagerung sensibler Militärgüter in städtischen Bereichen auslösen.",
-          "tag": "Ukraine-Krieg",
-          "emoji": "🇺🇦",
+          "titel": "US-Armeesekretär Driscoll tritt nach Spannungen zurück",
+          "zusammenfassung": "Dan Driscoll, der jüngste Armeesekretär in der Geschichte der Vereinigten Staaten, hat sein Amt nach rund anderthalb Jahren niedergelegt. Der Rücktritt erfolgt nach monatelangen internen Spannungen innerhalb der US-Streitkräfte.",
+          "bedeutung": "Der Abgang eines so jungen und symbolträchtigen Militärministers inmitten eines aktiven Konflikts mit Iran wirft Fragen zur inneren Kohäsion der amerikanischen Verteidigungsführung auf.",
+          "hintergrund": "Driscoll war mit großen Erwartungen in das Amt gestartet und galt als Vertreter einer neuen Generation innerhalb des US-Militärapparats. Seine kurze Amtszeit war jedoch von wachsenden Reibungen geprägt, die nun zu seinem vorzeitigen Abschied geführt haben.\n\nDer Rücktritt fällt in eine geopolitisch angespannte Phase, in der die USA militärisch im Persischen Golf aktiv sind. Beobachter sehen darin ein weiteres Zeichen für Instabilität an der Spitze des amerikanischen Verteidigungsministeriums.",
+          "tag": "Pentagon",
+          "emoji": "🇺🇸",
           "quelle": "BBC",
-          "quelle_url": "https://www.bbc.co.uk/news/articles/c86xwqez4npo?at_medium=RSS&at_campaign=rss"
+          "quelle_url": "https://www.bbc.co.uk/news/articles/czjz31dk1xmo?at_medium=RSS&at_campaign=rss"
         },
         {
           "id": "politik-2",
-          "titel": "Nasa startet leistungsstarkes neues Weltraumteleskop",
-          "zusammenfassung": "Die US-Raumfahrtbehörde hat ein hochmodernes Weltraumteleskop auf eine mehrjährige Mission geschickt, das eine neue, umfassende Karte des Universums erstellen soll. Im Fokus stehen dabei die bis heute rätselhaften Phänomene Dunkle Energie und Dunkle Materie.",
-          "bedeutung": "Das Teleskop gilt als wegweisendes Instrument der modernen Astrophysik und könnte das Verständnis der grundlegenden Strukturen des Universums revolutionieren.",
-          "hintergrund": "Das Projekt wurde über viele Jahre entwickelt und gilt als eines der ambitioniertesten astronomischen Vorhaben seit dem James-Webb-Teleskop. Mit seiner beispiellosen Auflösung soll es Milliarden von Galaxien kartieren.\n\nWissenschaftler erhoffen sich Antworten auf fundamentale kosmologische Fragen: Wie schnell dehnt sich das Universum aus, und welche Rolle spielen dabei unsichtbare Kräfte und Materie? Die gesammelten Daten werden voraussichtlich Jahrzehnte lang ausgewertet werden.",
-          "tag": "Raumfahrt",
-          "emoji": "🔭",
+          "titel": "Fährunglück vor Nordzypern: 20 Menschen vermisst",
+          "zusammenfassung": "Nach dem Sinken einer Fähre vor der Küste Nordzyperns gelten mindestens 20 Personen als vermisst, darunter zwei Kleinkinder einer türkischen Familie. Acht Menschen kamen bei dem Unglück ums Leben.",
+          "bedeutung": "Das Unglück unterstreicht erneut die gefährliche Lage im östlichen Mittelmeer und rückt die ungelöste politische Situation Nordzyperns ins internationale Rampenlicht.",
+          "hintergrund": "Die Fähre sank unter bislang ungeklärten Umständen in einem Seegebiet, das aufgrund des politischen Status Nordzyperns nur eingeschränkt internationaler Kontrolle unterliegt. Such- und Rettungsoperationen gestalten sich entsprechend schwierig.\n\nAngehörige schildern dramatische Szenen von dem Unglück. Die internationalen Hilfskapazitäten in der Region sind begrenzt, da Nordzypern nur von der Türkei anerkannt wird und damit kaum Zugang zu regulären EU-Rettungsnetzen hat.",
+          "tag": "Schiffsunglück",
+          "emoji": "🚢",
           "quelle": "BBC",
-          "quelle_url": "https://www.bbc.co.uk/news/articles/ce87e55vgpjo?at_medium=RSS&at_campaign=rss"
+          "quelle_url": "https://www.bbc.co.uk/news/articles/c1mv5ggg1l8o?at_medium=RSS&at_campaign=rss"
         }
       ]
     },
@@ -49,10 +49,10 @@
       "stories": [
         {
           "id": "wirtschaft-0",
-          "titel": "Trump feiert Deal über venezolanisches Öl",
-          "zusammenfassung": "Die US-Regierung hat eine als historisch bezeichnete Vereinbarung zur Kontrolle über rund 65 Milliarden Barrel venezolanischen Öls geschlossen. Die venezolanische Übergangsregierung sieht in dem ungewöhnlichen Abkommen eine Chance zur wirtschaftlichen Erholung des Landes.",
-          "bedeutung": "Der Deal könnte die Machtbalance im globalen Ölmarkt verschieben und stellt eine drastische Neuausrichtung der US-Lateinamerikapolitik dar.",
-          "hintergrund": "Venezuela besitzt die weltweit größten nachgewiesenen Ölreserven, konnte diese aber wegen jahrelanger Misswirtschaft, Korruption und internationaler Sanktionen kaum fördern. Das Abkommen gewährt den USA offenbar weitreichenden Einfluss auf die Förder- und Exportstrategien.\n\nKritiker befürchten eine faktische wirtschaftliche Abhängigkeit Venezuelas von Washington. Befürworter hingegen sehen eine Möglichkeit, das Land schrittweise zu stabilisieren und gleichzeitig westliche Energieversorgungsketten zu diversifizieren.",
+          "titel": "Trump feiert Deal über venezolanische Ölreserven",
+          "zusammenfassung": "US-Präsident Donald Trump hat eine Vereinbarung zur Kontrolle über 65 Milliarden Barrel venezolanischen Öls als historisch bezeichnet. Die venezolanische Übergangsregierung sieht in dem ungewöhnlichen Abkommen eine Chance zur wirtschaftlichen Erholung des Landes.",
+          "bedeutung": "Ein US-Zugriff auf einen der weltgrößten Ölvorräte würde die globale Energiegeopolitik grundlegend verschieben und hätte weitreichende Folgen für OPEC-Strategien sowie die Ölpreise.",
+          "hintergrund": "Venezuela besitzt die größten nachgewiesenen Erdölreserven der Welt, hat seine Fördermenge jedoch durch jahrzehntelange politische Instabilität, Sanktionen und wirtschaftliches Missmanagement drastisch reduziert. Ein solches Abkommen wäre damit ein beispielloser Eingriff in die Rohstoffsouveränität eines lateinamerikanischen Staates.\n\nKritiker sehen in dem Deal eine problematische Verquickung von geopolitischem Druck und wirtschaftlicher Abhängigkeit. Gleichzeitig könnte das Abkommen den Druck auf den globalen Ölmarkt reduzieren, der durch den US-Iran-Konflikt bereits stark unter Spannung steht.",
           "tag": "Energiepolitik",
           "emoji": "🛢️",
           "quelle": "BBC",
@@ -60,25 +60,25 @@
         },
         {
           "id": "wirtschaft-1",
-          "titel": "US-Kanada-Handelskrieg trifft beide Seiten hart",
-          "zusammenfassung": "Der schwelende Zollkonflikt zwischen den Vereinigten Staaten und Kanada belastet zunehmend Unternehmen und Verbraucher auf beiden Seiten der Grenze. Kanadische Konsumenten boykottieren US-Produkte, während amerikanische Firmen unter Gegenzöllen leiden.",
-          "bedeutung": "Als enger wirtschaftlicher Partner der USA demonstriert Kanada, wie westliche Handelsallianzen durch protektionistische Maßnahmen nachhaltig beschädigt werden können.",
-          "hintergrund": "Seit der Einführung weitreichender US-Zölle auf kanadische Waren meiden viele Kanadier bewusst amerikanische Produkte – von Whisky über Technologie bis hin zu Flugreisen. Das verändert nicht nur Kaufmuster, sondern auch tiefere kulturelle Bindungen zwischen den Nachbarländern.\n\nAuf amerikanischer Seite kämpfen insbesondere exportorientierte Branchen mit steigenden Kosten und schrumpfenden Absatzmärkten. Ökonomen warnen, dass ein anhaltender Konflikt das Wachstum beider Volkswirtschaften auf Jahressicht merklich dämpfen könnte.",
-          "tag": "Handelskrieg",
-          "emoji": "🇨🇦",
+          "titel": "KI bedroht globale Wirtschaft, warnt Notenbank-Chef Bailey",
+          "zusammenfassung": "Andrew Bailey, Chef der Bank of England, hat auf dem G20-Gipfel vor den destabilisierenden wirtschaftlichen Folgen moderner Künstlicher Intelligenz gewarnt. Besonders gefährlich sei die durch den US-Iran-Krieg verursachte Energievolatilität in Kombination mit KI-gesteuerten Finanzsystemen.",
+          "bedeutung": "Eine solche Warnung des britischen Notenbankchefs vor der G20 signalisiert, dass KI-Risiken auf höchster Ebene der Wirtschaftspolitik angekommen sind und regulatorischer Handlungsbedarf besteht.",
+          "hintergrund": "Bailey argumentiert, dass KI-Systeme in Zeiten von Energiepreisschocks und geopolitischen Erschütterungen unkontrollierbare Verstärkungseffekte in den Finanzmärkten auslösen könnten. Die Vernetzung automatisierter Handelssysteme macht klassische Stabilisierungsmaßnahmen zunehmend unwirksam.\n\nDie G20-Staaten stehen damit vor der Herausforderung, internationale Regulierungsrahmen für KI im Finanzbereich zu schaffen – ein Prozess, der angesichts divergierender nationaler Interessen als äußerst schwierig gilt.",
+          "tag": "KI-Risiken",
+          "emoji": "🤖",
           "quelle": "BBC",
-          "quelle_url": "https://www.bbc.co.uk/news/articles/c4g4r4lxx25o?at_medium=RSS&at_campaign=rss"
+          "quelle_url": "https://www.bbc.co.uk/news/articles/c99dym3prl1o?at_medium=RSS&at_campaign=rss"
         },
         {
           "id": "wirtschaft-2",
-          "titel": "US-Finanzminister Bessent unter schwerem Druck",
-          "zusammenfassung": "Schatzminister Scott Bessent gerät zunehmend in die Kritik, weil es ihm kaum gelingt, die wirtschaftspolitischen Verwerfungen durch Trumps Zölle, Iran-Sanktionen und den wachsenden Schuldenberg zu managen. Beobachter bezweifeln seine Handlungsfähigkeit in einem immer turbulenter werdenden Umfeld.",
-          "bedeutung": "Die Schwäche des Finanzministers signalisiert strukturelle Probleme in der US-Wirtschaftspolitik, die internationale Märkte und Gläubiger zunehmend beunruhigen.",
-          "hintergrund": "Bessent hat mehrfach versucht, widersprüchliche Signale des Weißen Hauses zu korrigieren oder abzumildern – mit begrenztem Erfolg. Das Vertrauen der Finanzmärkte in eine kohärente US-Haushaltspolitik bröckelt.\n\nDie Staatsverschuldung der USA hat neue Rekordstände erreicht, während gleichzeitig Einnahmen durch Zollkonflikte unberechenbar schwanken. Analysten sehen in der geschwächten Position Bessents ein Warnsignal für die mittelfristige Finanzstabilität der weltgrößten Volkswirtschaft.",
-          "tag": "US-Wirtschaft",
-          "emoji": "💸",
-          "quelle": "The Guardian",
-          "quelle_url": "https://www.theguardian.com/business/2026/aug/29/scott-bessant-us-economy-donald-trump"
+          "titel": "USA klagen Amazon wegen manipulierter Werbepreise",
+          "zusammenfassung": "Die US-Handelsaufsicht FTC und mehrere Bundesstaaten werfen Amazon vor, Milliarden Dollar schwere Werbepreise systematisch manipuliert zu haben. Der Konzern weist die Vorwürfe zurück und besteht darauf, dass die Behörde das Werbemodell grundlegend missverstehe.",
+          "bedeutung": "Eine erfolgreiche Klage könnte nicht nur Amazon zu erheblichen Strafen zwingen, sondern die gesamte Struktur digitaler Werbemärkte neu ordnen und Präzedenzfälle für andere Plattformen schaffen.",
+          "hintergrund": "Amazon betreibt eine der größten digitalen Werbeplattformen der Welt. Der Vorwurf der Preismanipulation im Anzeigengeschäft reiht sich in eine Serie behördlicher Großverfahren gegen US-Technologiekonzerne ein, die seit Jahren zunehmend unter kartellrechtlichem Druck stehen.\n\nDer Fall könnte weitreichende Konsequenzen für die Digitalwirtschaft haben, da Amazons Werbesystem eng mit seiner Handelsplattform verknüpft ist. Werbetreibende aus aller Welt warten gespannt auf den Ausgang des Verfahrens.",
+          "tag": "Big Tech",
+          "emoji": "⚖️",
+          "quelle": "BBC",
+          "quelle_url": "https://www.bbc.co.uk/news/articles/cvgy91nvy27o?at_medium=RSS&at_campaign=rss"
         }
       ]
     },
@@ -89,25 +89,36 @@
       "stories": [
         {
           "id": "boerse-0",
-          "titel": "US-Gericht stoppt Wettmärkte – Verfassungsstreit droht",
-          "zusammenfassung": "Ein US-Bundesberufungsgericht hat entschieden, dass ereignisbezogene Wettverträge nicht als reguläre Finanzswaps eingestuft werden dürfen und damit Vorhaben von Vorhersagemärkten einen schweren Rückschlag versetzt. Das widerspricht einem Urteil eines anderen Bundesgerichts vom April und bereitet den Weg für einen Streit vor dem Obersten Gerichtshof.",
-          "bedeutung": "Das Urteil schafft Rechtsunsicherheit für einen schnell wachsenden Markt und hat weitreichende Folgen für Regulierung und Finanzinnovation in den USA.",
-          "hintergrund": "Vorhersagemärkte wie Polymarket oder Kalshi ermöglichen es Nutzern, auf Ereignisse – von Wahlergebnissen bis zu Sportresultaten – zu wetten. Ihre rechtliche Einordnung als Finanzinstrument ist seit Jahren umstritten.\n\nDas divergierende Urteilsbild zweier Bundesgerichte macht eine Entscheidung des Supreme Court wahrscheinlich. Für die Branche stehen damit Milliardenmärkte und das gesamte Geschäftsmodell auf dem Spiel – ebenso wie die Frage, wie weit Finanzinnovation regulatorisch toleriert wird.",
-          "tag": "Regulierung",
-          "emoji": "⚖️",
+          "titel": "Fed-Chef Warsh signalisiert Zinserhöhung im September",
+          "zusammenfassung": "US-Notenbankchef Kevin Warsh hat in seiner Rede in Jackson Hole einen ausgesprochen restriktiven geldpolitischen Kurs signalisiert, was die Erwartungen an eine Zinserhöhung im September deutlich angeheizt hat. Analysten warnen, dass dies die Fed in Konflikt mit dem Finanzministerium bringen könnte.",
+          "bedeutung": "Eine überraschende Zinserhöhung durch die Federal Reserve hätte unmittelbare Auswirkungen auf globale Anleihemärkte, Währungen und Aktienindizes weltweit.",
+          "hintergrund": "Warschs Aussagen in Jackson Hole gelten als klares Signal für eine härtere Gangart der Fed im Kampf gegen hartnäckige Inflationstendenzen. Dabei steht er offenbar in einem wachsenden Spannungsverhältnis zu Finanzminister Bessent, der eine expansivere Fiskalpolitik bevorzugt.\n\nDie Märkte reagierten prompt: Die Renditen von US-Staatsanleihen stiegen, während Technologieaktien unter Druck gerieten. Besonders Schwellenländer mit hohen Dollar-Schulden beobachten die Entwicklung mit wachsender Nervosität.",
+          "tag": "Geldpolitik",
+          "emoji": "🏦",
           "quelle": "CNBC",
-          "quelle_url": "https://www.cnbc.com/2026/08/28/appeals-court-rules-against-prediction-markets-tees-up-scotus-fight.html"
+          "quelle_url": "https://www.cnbc.com/2026/08/31/jackson-hole-fed-chair-kevin-warsh-hawkish-rate-hikes-analysts.html"
         },
         {
           "id": "boerse-1",
-          "titel": "Singapur kämpft gegen demografische Krise mit Finanzreformen",
-          "zusammenfassung": "Die Stadtstaatregierung setzt auf eine Kombination aus finanziellen Anreizen und kulturellen Initiativen, um dem bedrohlichen Bevölkerungsrückgang entgegenzuwirken. Experten warnen jedoch, dass Maßnahmen erst in Jahrzehnten spürbare Wirkung zeigen werden.",
-          "bedeutung": "Singapurs Ansatz gilt als Blaupause für viele alternde Volkswirtschaften in Asien und Europa, die mit ähnlichen demografischen Herausforderungen kämpfen.",
-          "hintergrund": "Der Stadtstaat verzeichnet seit Jahren eine der niedrigsten Geburtenraten der Welt. Die Regierung hat Subventionen für Familien, erleichterte Einwanderungsregeln und Programme zur besseren Vereinbarkeit von Familie und Beruf auf den Weg gebracht.\n\nDie Herausforderung für Investoren und Märkte besteht darin, dass demografischer Wandel langfristig Arbeitsangebot, Konsumverhalten und Staatshaushalte beeinflusst – Faktoren, die asiatische Schwellenländer und ihre Kapitalmärkte zunehmend belasten.",
-          "tag": "Demografie",
-          "emoji": "👶",
+          "titel": "Chinas Fabriksektor schrumpft zum zweiten Mal in Folge",
+          "zusammenfassung": "Die chinesische Industrieproduktion ist im zweiten Monat in Folge zurückgegangen, wenn auch etwas weniger stark als von Analysten erwartet. Peking steht unter wachsendem Druck, die Wirtschaft mit weiteren Konjunkturmaßnahmen zu stützen.",
+          "bedeutung": "Ein anhaltender Rückgang der chinesischen Industrieaktivität ist ein wichtiges Warnsignal für die Weltwirtschaft, da China als größter Exporteur und Rohstoffkonsument globale Lieferketten und Rohstoffmärkte maßgeblich beeinflusst.",
+          "hintergrund": "Die schwachen Einkaufsmanagerindizes deuten darauf hin, dass die Erholung der chinesischen Wirtschaft nach der Pandemie ins Stocken geraten ist. Externe Faktoren wie geringere Exportnachfrage aus den USA und Europa sowie anhaltende Probleme im Immobiliensektor belasten die Konjunktur.\n\nBeobachter erwarten, dass Peking in den kommenden Wochen neue Stimulierungsmaßnahmen ankündigen wird, möglicherweise kombiniert mit weiteren Zinssenkungen der Volksbank. Rohstoffmärkte reagierten bereits mit leichten Preisrückgängen bei Industriemetallen.",
+          "tag": "China-Konjunktur",
+          "emoji": "🏭",
           "quelle": "CNBC",
-          "quelle_url": "https://www.cnbc.com/2026/08/31/singapore-ndr-childcare-incentives-demographic-crisis-.html"
+          "quelle_url": "https://www.cnbc.com/2026/08/31/china-pmi-august-economy-slowdown.html"
+        },
+        {
+          "id": "boerse-2",
+          "titel": "Indiens Wirtschaft wächst um starke 7,8 Prozent",
+          "zusammenfassung": "Indiens Volkswirtschaft hat im ersten Quartal des laufenden Fiskaljahres um 7,8 Prozent zugelegt und damit die Erwartungen der Analysten übertroffen. Besonders Finanzdienstleistungen, Immobilien und der IT-Sektor trieben das Wachstum an.",
+          "bedeutung": "Indien festigt damit seinen Status als am schnellsten wachsende große Volkswirtschaft der Welt und zieht zunehmend internationales Kapital an, das China-Risiken diversifizieren möchte.",
+          "hintergrund": "Das robuste Wachstum unterstreicht Indiens strukturellen Aufstieg als globaler Wirtschaftsmotor. Der Boom im Technologie- und Dienstleistungsbereich spiegelt die erfolgreiche Positionierung des Landes in der digitalen Wertschöpfungskette wider.\n\nFür internationale Investoren gewinnt Indien zusätzlich an Attraktivität, da der bevorstehende Xi-Modi-Gipfel neue diplomatische Impulse verspricht. Indische Börsenindizes reagierten positiv auf die Wachstumszahlen.",
+          "tag": "Schwellenmarkt",
+          "emoji": "📈",
+          "quelle": "CNBC",
+          "quelle_url": "https://www.cnbc.com/2026/08/31/india-economy-gdp-energy-el-nino.html"
         }
       ]
     }
