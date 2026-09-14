@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-13T01:08:00.189298+00:00",
-  "datum": "Sonntag, 13. September 2026",
+  "generated_at": "2026-09-14T01:13:22.195300+00:00",
+  "datum": "Montag, 14. September 2026",
   "ressorts": [
     {
       "id": "politik",
@@ -9,36 +9,36 @@
       "stories": [
         {
           "id": "politik-0",
-          "titel": "Drohnenangriff trifft Schlüssel-Ölpipeline Saudi-Arabiens",
-          "zusammenfassung": "Saudi-Arabien hat eine wichtige Ölpipeline nach einem Drohnenangriff aus dem Irak stillgelegt. Der irakische Militärkommandeur der betroffenen Grenzregion wurde abgesetzt, eine Untersuchung eingeleitet.",
-          "bedeutung": "Ein Angriff auf saudische Energieinfrastruktur aus dem iranischen Grenzgebiet birgt das Potenzial, die ohnehin angespannte Lage im Nahen Osten weiter zu eskalieren und die globalen Ölmärkte zu erschüttern.",
-          "hintergrund": "Die attackierte Pipeline gehört zu einem der zentralen Versorgungsnetze Saudi-Arabiens. Drohnenangriffe auf Energieinfrastruktur in der Region haben in der Vergangenheit zu teils drastischen Preissprüngen an den Rohstoffmärkten geführt.\n\nDie irakische Regierung reagierte mit der Ablösung des zuständigen Militärkommandeurs und leitete Ermittlungen ein. Die geografische Nähe des Angriffsortes zur iranischen Grenze lässt Fragen über mögliche Hintermänner offen, ohne dass bislang offizielle Schuldzuweisungen vorliegen.",
-          "tag": "Energiesicherheit",
-          "emoji": "🛢️",
+          "titel": "Russland beschießt ukrainischen Zug nach EU-Gipfeltreffen",
+          "zusammenfassung": "Kurz nachdem hochrangige europäische Politiker und der frühere britische Premier Boris Johnson einen Bahnhof nahe der polnisch-ukrainischen Grenze verlassen hatten, wurde eine stehende ukrainische Lokomotive von russischen Streitkräften getroffen. Der Vorfall wird international als gezielter Einschüchterungsangriff gewertet.",
+          "bedeutung": "Der Angriff auf strategische Infrastruktur unmittelbar nach einem hochrangigen Westbesuch signalisiert Russlands Bereitschaft, europäische Solidaritätsbekundungen offen zu provozieren.",
+          "hintergrund": "Der Beschuss ereignete sich in einem Grenzbereich, der als Versorgungsader für westliche Unterstützungslieferungen in die Ukraine gilt. Die zeitliche Nähe zum Besuch europäischer Spitzenpolitiker lässt Sicherheitsexperten an eine bewusste Botschaft Moskaus glauben.\n\nDie Europäische Union und die NATO haben den Angriff scharf verurteilt. Diskussionen über eine Verschärfung der Luftabwehrhilfe für die Ukraine dürften nun erneut an Fahrt gewinnen, während Russland jegliche Zielauswahl mit militärischer Logik begründet.",
+          "tag": "Ukraine-Krieg",
+          "emoji": "🚂",
           "quelle": "BBC",
-          "quelle_url": "https://www.bbc.co.uk/news/articles/c62m933465eo?at_medium=RSS&at_campaign=rss"
+          "quelle_url": "https://www.bbc.co.uk/news/articles/cy5zg41dkqwo?at_medium=RSS&at_campaign=rss"
         },
         {
           "id": "politik-1",
-          "titel": "Ukraine droht härtester Winter seit Kriegsbeginn",
-          "zusammenfassung": "Ein hochrangiger UN-Vertreter warnte gegenüber Medien vor einer dramatischen humanitären Lage in der Ukraine im bevorstehenden Winter. Strom- und Wasserversorgung für Millionen Menschen seien akut gefährdet.",
-          "bedeutung": "Der dritte Kriegswinter seit der russischen Invasion könnte für die ukrainische Zivilbevölkerung zum schwersten werden und den internationalen Druck auf weitere Hilfslieferungen erhöhen.",
-          "hintergrund": "Russische Angriffe auf ukrainische Energieinfrastruktur haben die Kapazitäten zur Strom- und Wärmeerzeugung erheblich reduziert. Internationale Hilfsorganisationen und UN-Stellen arbeiten nach eigenen Angaben mit Hochdruck daran, Engpässe vor dem Winter zu minimieren.\n\nDie Situation ist besonders kritisch, weil Reparaturkapazitäten und Ersatzteile nur begrenzt verfügbar sind. Humanitäre Helfer beschreiben die Lage als Wettlauf gegen die Zeit, während die Kampfhandlungen im Osten und Süden des Landes anhalten.",
-          "tag": "Ukraine-Krieg",
-          "emoji": "❄️",
+          "titel": "Schweden-Wahl: Linkes Lager liegt knapp vorn",
+          "zusammenfassung": "Nach der Parlamentswahl vom Sonntag deutet eine Teilauszählung auf einen hauchdünnen Vorsprung des linken Oppositionsblocks mit einer einzigen Sitzmehrheit hin. Das Ergebnis ist noch nicht endgültig, die politische Lage bleibt äußerst unübersichtlich.",
+          "bedeutung": "Eine Machtverschiebung in Schweden könnte die Ausrichtung des Landes in zentralen EU- und NATO-Fragen mittel- bis langfristig beeinflussen.",
+          "hintergrund": "Schweden hat sich seit seinem NATO-Beitritt 2024 zu einem sicherheitspolitisch wichtigen Partner im Ostseeraum entwickelt. Innenpolitisch standen Einwanderung, Kriminalität und Wirtschaftsleistung im Mittelpunkt des Wahlkampfs.\n\nSollte sich der knappe Vorsprung des linken Blocks bestätigen, müsste eine neue Regierung eine fragile Koalition schmieden. Angesichts der geopolitischen Lage in Nordeuropa beobachten Brüssel und die NATO-Partner das Ergebnis mit besonderem Interesse.",
+          "tag": "Schweden-Wahl",
+          "emoji": "🗳️",
           "quelle": "BBC",
-          "quelle_url": "https://www.bbc.co.uk/news/articles/cwyz59yyqk4o?at_medium=RSS&at_campaign=rss"
+          "quelle_url": "https://www.bbc.co.uk/news/articles/c0qx5d79kdeo?at_medium=RSS&at_campaign=rss"
         },
         {
           "id": "politik-2",
-          "titel": "Fährunglück Philippinen: Zahl der Toten steigt auf 76",
-          "zusammenfassung": "Nach dem Brand auf einer Fähre auf den Philippinen wurden bislang 76 Tote geborgen, zahlreiche Menschen werden noch vermisst. Giftige Dämpfe und anhaltende Hitze erschweren die Bergungsarbeiten erheblich.",
-          "bedeutung": "Das Unglück ist eine der schwersten Schiffskatastrophen der Region in diesem Jahr und verdeutlicht die anhaltenden Sicherheitsmängel im philippinischen Fährverkehr.",
-          "hintergrund": "Die Philippinen sind als Inselstaat in hohem Maße auf den Fährverkehr angewiesen, der Millionen Menschen täglich transportiert. Sicherheitsstandards und Wartung der Flotte gelten seit Jahren als problematisch, Unglücke kommen immer wieder vor.\n\nDie Küstenwache hat Taucherteams im Einsatz, muss jedoch aufgrund der toxischen Bedingungen an Bord des ausgebrannten Schiffes wiederholt Pausen einlegen. Die genaue Zahl der Vermissten ist noch unklar, da vollständige Passagierlisten schwer zu rekonstruieren sind.",
-          "tag": "Schiffskatastrophe",
-          "emoji": "🚢",
+          "titel": "Trump relativiert KI-Risiken im Wettlauf mit China",
+          "zusammenfassung": "US-Präsident Donald Trump hat Warnungen vor den Gefahren künstlicher Intelligenz als übertrieben abgetan und erklärt, kritische Stimmen verbreiteten Panikmache über unwahrscheinliche Szenarien. Er stellte den Wettbewerb mit China als wichtigsten Maßstab für die KI-Politik der USA dar.",
+          "bedeutung": "Die ablehnende Haltung des Weißen Hauses gegenüber KI-Regulierung hat unmittelbare Folgen für globale Sicherheitsstandards und die internationale Koordination der Technologiepolitik.",
+          "hintergrund": "Trumps Aussagen fallen in eine Phase, in der führende KI-Forscher und sogar Unternehmenschefs wie Anthropic-Gründer Dario Amodei öffentlich vor unkontrolliertem Entwicklungstempo warnen. Der Widerspruch zwischen Industrie und Regierung wird damit offensichtlicher denn je.\n\nDie USA und China liefern sich seit Jahren ein intensives Rennen um die Vorherrschaft bei Halbleitern, großen Sprachmodellen und militärischen KI-Anwendungen. Kritiker befürchten, dass geopolitischer Druck sicherheitspolitische Sorgfalt dauerhaft unterordnet.",
+          "tag": "KI-Politik",
+          "emoji": "🤖",
           "quelle": "BBC",
-          "quelle_url": "https://www.bbc.co.uk/news/articles/cwyz755yeg9o?at_medium=RSS&at_campaign=rss"
+          "quelle_url": "https://www.bbc.co.uk/news/articles/c7v48vp31mdo?at_medium=RSS&at_campaign=rss"
         }
       ]
     },
@@ -49,36 +49,36 @@
       "stories": [
         {
           "id": "wirtschaft-0",
-          "titel": "Weltweit drohen erneute Zinserhöhungen durch Energiekosten",
-          "zusammenfassung": "Steigende Energiepreise treiben die Inflation in zahlreichen Ländern an und setzen Zentralbanken unter Druck, ihre Leitzinsen weiter anzuheben. Wichtige geldpolitische Entscheidungen stehen in den kommenden Wochen an.",
-          "bedeutung": "Erneute Zinserhöhungen in mehreren großen Volkswirtschaften gleichzeitig könnten Investitionen bremsen, Kredite verteuern und die globale Konjunktur spürbar abkühlen.",
-          "hintergrund": "Nach einer kurzen Phase der Hoffnung auf sinkende Zinsen haben Energiepreissteigerungen – befeuert unter anderem durch geopolitische Spannungen im Nahen Osten – die Inflation in vielen Ländern wieder beschleunigt. Zentralbanken in den USA, Europa und anderswo stehen vor dem Dilemma, Preisstabilität zu sichern, ohne das Wirtschaftswachstum abzuwürgen.\n\nInsbesondere Schwellenländer leiden unter dem Doppeldruck: Importierte Energiekosten treiben die Inflation an, während steigende US-Zinsen den Dollar stärken und Kapital abziehen. Beobachter erwarten in den kommenden Wochen richtungsweisende Entscheidungen mehrerer Notenbanken.",
-          "tag": "Zinspolitik",
-          "emoji": "📈",
+          "titel": "Anthropic-Chef fordert langsamere KI-Entwicklung",
+          "zusammenfassung": "Dario Amodei, Chef des KI-Unternehmens Anthropic, hat öffentlich für ein verlangsamtes Entwicklungstempo bei künstlicher Intelligenz plädiert und vor ernsthaften globalen Risiken gewarnt. Ehemalige Mitarbeitende des Unternehmens berichten von echter Angst unter Fachleuten in der Branche.",
+          "bedeutung": "Wenn führende Köpfe der KI-Industrie selbst die Bremse fordern, verändert das die Debatte über Regulierung grundlegend – mit Konsequenzen für Investoren, Gesetzgeber und Unternehmen weltweit.",
+          "hintergrund": "Anthropic gilt als eines der technologisch fortschrittlichsten KI-Labore der Welt und steht in direkter Konkurrenz zu OpenAI und Google DeepMind. Dass der eigene CEO öffentlich Zurückhaltung predigt, ist branchenweit ungewöhnlich und wird als Zeichen wachsender interner Bedenken gewertet.\n\nDie Forderung nach einem Entwicklungsstopp oder einer Verlangsamung ist politisch heikel: Einerseits drängen Regierungen auf technologische Führerschaft, andererseits wächst der Druck der Zivilgesellschaft auf verbindliche internationale Sicherheitsrahmen. Amodeis Vorstoß könnte die Diskussion in der EU und bei den Vereinten Nationen neu befeuern.",
+          "tag": "KI-Regulierung",
+          "emoji": "⚠️",
           "quelle": "BBC",
-          "quelle_url": "https://www.bbc.co.uk/news/articles/cew9nkx7v9eo?at_medium=RSS&at_campaign=rss"
+          "quelle_url": "https://www.bbc.co.uk/news/articles/c14dpgm0rg4o?at_medium=RSS&at_campaign=rss"
         },
         {
           "id": "wirtschaft-1",
-          "titel": "US-Inflation bleibt hartnäckig hoch: Iran-Konflikt treibt Energiepreise",
-          "zusammenfassung": "Die Verbraucherpreise in den USA stiegen im August auf Jahresbasis um 3,4 Prozent – identisch wie im Vormonat. Als wesentlicher Treiber gilt der Anstieg der Energiepreise infolge des wiederaufgelebten Konflikts zwischen den USA und Iran.",
-          "bedeutung": "Anhaltend hohe Inflation in der weltgrößten Volkswirtschaft belastet Haushalte, beeinflusst globale Finanzströme und erhöht den Druck auf die US-Notenbank Fed.",
-          "hintergrund": "Das Ende des Waffenstillstands zwischen den USA und Iran hat die Rohölpreise spürbar angetrieben. Da Energie einen bedeutenden Anteil am US-Verbraucherpreisindex ausmacht, schlug sich dies unmittelbar in der Inflationsrate nieder.\n\nDie Kerninflation – ohne Energie und Lebensmittel – stieg leicht auf 2,4 Prozent. Ökonomen beobachten insbesondere, ob sich Zweitrundeneffekte auf andere Preisbereiche ausweiten, was die Aufgabe der Fed weiter erschweren würde.",
-          "tag": "US-Inflation",
-          "emoji": "💸",
-          "quelle": "The Guardian",
-          "quelle_url": "https://www.theguardian.com/business/2026/sep/11/inflation-august-interest-rates"
+          "titel": "Steigende Ölpreise: Sorge vor teuren Heizkosten im Winter",
+          "zusammenfassung": "Der Konflikt zwischen den USA und dem Iran treibt die globalen Ölpreise in die Höhe und lässt die Kosten für Heizöl und Kraftstoffe spürbar steigen. Experten sprechen von ernsthafter Besorgnis mit Blick auf die bevorstehende Heizsaison.",
+          "bedeutung": "Höhere Energiepreise treffen Haushalte und Unternehmen in einer ohnehin angespannten Konjunkturphase und könnten die Inflation in vielen Ländern erneut anheizen.",
+          "hintergrund": "Seit dem Ausbruch des US-iranischen Konflikts sind die Rohölpreise an den Terminmärkten deutlich geklettert. Besonders Europa, das seinen Energiemix nach dem russischen Überfall auf die Ukraine bereits grundlegend umstrukturieren musste, sieht sich nun einer neuen Preiswelle ausgesetzt.\n\nEnergieversorger und Verbraucherschützer warnen, dass einkommensschwache Haushalte besonders stark betroffen sein werden. Politische Maßnahmen wie Preisbremsen oder Sozialtransfers stehen in mehreren europäischen Ländern wieder auf der Agenda.",
+          "tag": "Energiepreise",
+          "emoji": "🛢️",
+          "quelle": "BBC",
+          "quelle_url": "https://www.bbc.co.uk/news/articles/cwyzegz38wlo?at_medium=RSS&at_campaign=rss"
         },
         {
           "id": "wirtschaft-2",
-          "titel": "US-Kanada-Spannungen trüben grenzüberschreitenden Handel",
-          "zusammenfassung": "Der andauernde Handelsstreit zwischen den USA und Kanada, angeheizt durch Trumps Äußerungen zur möglichen Annexion Kanadas, führt zu spürbarem Rückgang des grenzüberschreitenden Konsums. Kanadier meiden US-Geschäfte, amerikanische Händler verzeichnen Umsatzeinbußen.",
-          "bedeutung": "Die wirtschaftliche Verflechtung zwischen den USA und Kanada ist enorm – Störungen im bilateralen Handel treffen beide Volkswirtschaften und Hunderttausende Arbeitsplätze direkt.",
-          "hintergrund": "Trumps wiederholte Andeutungen, Kanada könnte der 51. US-Bundesstaat werden, haben in der kanadischen Bevölkerung tiefe Verärgerung ausgelöst. Viele Kanadier reagieren mit einem informellen Boykott amerikanischer Waren und Reiseziele.\n\nIn Grenzstädten, die traditionell wirtschaftlich eng miteinander verflochten sind, ist der Rückgang besonders spürbar. Lokale Unternehmer auf beiden Seiten der Grenze berichten von sinkenden Umsätzen und wachsender Unsicherheit über die künftige Handelsbeziehung.",
-          "tag": "Handelspolitik",
-          "emoji": "🇨🇦",
-          "quelle": "The Guardian",
-          "quelle_url": "https://www.theguardian.com/us-news/2026/sep/12/us-canada-border-tariffs-trade-war"
+          "titel": "Iran-Krieg belastet und spaltet den BRICS-Verbund",
+          "zusammenfassung": "Der Iran-Konflikt hat die Beziehungen innerhalb der BRICS-Staatengruppe neu geordnet und zugleich tiefgreifende Meinungsverschiedenheiten über die künftige Weltordnung offengelegt. Einigkeit besteht über das Ziel einer neuen globalen Ordnung – nicht aber darüber, wie diese aussehen soll.",
+          "bedeutung": "Die Risse im BRICS-Block zeigen, dass das Bündnis trotz wachsender wirtschaftlicher Stärke als geopolitischer Gegenpol zum Westen strukturell fragil bleibt.",
+          "hintergrund": "Länder wie China, Russland, Indien, Brasilien und die neueren BRICS-Mitglieder verfolgen im Nahen Osten teils gegensätzliche Interessen. Während einige Mitglieder enge Wirtschaftsbeziehungen zum Iran pflegen, wollen andere ihre Verbindungen zum Westen nicht gefährden.\n\nDie Frage nach einem alternativen Reservewährungssystem und einer Reform der internationalen Institutionen bleibt ungelöst. Ohne einen verbindenden strategischen Konsens läuft BRICS Gefahr, ein loses Forum zu bleiben statt zu einem ernsthaften Gegenpol zur westlich geprägten Weltordnung zu werden.",
+          "tag": "BRICS-Geopolitik",
+          "emoji": "🌍",
+          "quelle": "BBC",
+          "quelle_url": "https://www.bbc.co.uk/news/articles/ce8767g4jdpo?at_medium=RSS&at_campaign=rss"
         }
       ]
     },
@@ -89,36 +89,14 @@
       "stories": [
         {
           "id": "boerse-0",
-          "titel": "US-Inflation zwingt Fed wohl zu weiterem Zinsschritt",
-          "zusammenfassung": "Die hartnäckig hohe Inflation in den USA – der Verbraucherpreisindex stieg im August wie erwartet – erhöht die Wahrscheinlichkeit einer weiteren Zinserhöhung durch die Federal Reserve erheblich. Märkte passen ihre Erwartungen entsprechend an.",
-          "bedeutung": "Eine weitere Fed-Zinserhöhung würde Anleiherenditen treiben, Aktien unter Druck setzen und den US-Dollar gegenüber anderen Währungen stärken.",
-          "hintergrund": "Der Preisauftrieb zeigt sich sowohl bei der Gesamtinflation als auch bei der Kernrate robuster als von vielen Marktteilnehmern erhofft. Die Erwartung einer geldpolitischen Pause hatte in den Wochen zuvor eine Erholung an den Aktienmärkten gestützt.\n\nAnalysten rechnen nun damit, dass die Fed auf ihrer nächsten Sitzung erneut handeln wird. Besonders zinssensitive Bereiche wie Immobilien, Technologieaktien und Schwellenländeranleihen könnten unter verstärktem Verkaufsdruck geraten.",
-          "tag": "Fed-Zinsen",
-          "emoji": "🏦",
-          "quelle": "CNBC",
-          "quelle_url": "https://www.cnbc.com/2026/09/11/cpi-inflation-report-august-2026.html"
-        },
-        {
-          "id": "boerse-1",
-          "titel": "Konsumstimmung in USA stürzt auf Jahrestief",
-          "zusammenfassung": "Der wichtige US-Konsumklimaindex fiel im September auf den niedrigsten Stand seit über einem Jahr und lag mit 47,8 Punkten deutlich im negativen Bereich. Steigende Inflationserwartungen der Verbraucher gelten als Hauptursache.",
-          "bedeutung": "Ein einbrechender Konsumausblick signalisiert schwächere Einzelhandelsumsätze und kann als Frühindikator für eine breitere konjunkturelle Abkühlung gelten, die sich in Unternehmensgewinnen und Aktienkursen niederschlägt.",
-          "hintergrund": "Der Index liegt nun 13 Prozent unter dem Vorjahreswert und hat sich allein seit August um 7,5 Prozent verschlechtert. Die Verschlechterung der Stimmung korreliert mit gestiegenen Benzinpreisen und der allgemeinen Wahrnehmung, dass Löhne nicht mit der Inflation Schritt halten.\n\nHistorisch gesehen haben vergleichbare Einbrüche beim Konsumklima oft auf bevorstehende Schwächephasen im Einzelhandel und im Bruttoinlandsprodukt hingedeutet. Investoren beobachten den Indikator als wichtiges Signal für die künftige Gewinnentwicklung konsumnaher Unternehmen.",
-          "tag": "Konsumklima",
+          "titel": "US-Inflation übersteigt Lohnwachstum – Kaufkraft sinkt",
+          "zusammenfassung": "Im August stiegen die Verbraucherpreise in den USA mit 3,4 Prozent schneller als die Löhne, die nur um 3,1 Prozent zulegten. Millionen Arbeitnehmer verlieren damit real an Kaufkraft.",
+          "bedeutung": "Wenn Inflation das Lohnwachstum dauerhaft überholt, bremst das den privaten Konsum – dem wichtigsten Wachstumsmotor der US-Wirtschaft – und erhöht den Druck auf die Federal Reserve.",
+          "hintergrund": "Die Daten verstärken die Debatte darüber, ob die US-Notenbank Fed die Zinsen länger als erwartet hochhalten oder sogar erneut anheben muss. Märkte reagierten nervös auf die Zahlen, da sie Hoffnungen auf baldige Zinssenkungen dämpfen.\n\nBesonders betroffen sind einkommensschwächere Haushalte, die einen überproportional hohen Anteil ihres Budgets für Lebensmittel, Energie und Miete ausgeben. Die Entwicklung belastet auch die politische Stimmung in den USA, wo die Lebenshaltungskosten seit Jahren ein zentrales Wahlkampfthema sind.",
+          "tag": "US-Inflation",
           "emoji": "📉",
           "quelle": "CNBC",
-          "quelle_url": "https://www.cnbc.com/2026/09/11/consumer-outlook-plunges-in-september-as-inflation-outlook-worsens.html"
-        },
-        {
-          "id": "boerse-2",
-          "titel": "OpenAI greift Banken-Jobs an: ChatGPT für Finanzbranche",
-          "zusammenfassung": "OpenAI hat eine spezialisierte Version von ChatGPT für den Finanzsektor vorgestellt, die auf Aufgaben von Analysten und Junior-Bankern zugeschnitten ist. Finanzmodelle, Research-Berichte und Präsentationsunterlagen sollen damit automatisiert werden.",
-          "bedeutung": "Der direkte Vorstoß von OpenAI in Kernbereiche des Investmentbankings könnte die Nachfrage nach Einsteigerpositionen in der Branche strukturell verändern und eine breite Automatisierungsdebatte im Finanzsektor auslösen.",
-          "hintergrund": "Große Investmentbanken beschäftigen weltweit Tausende Junior-Banker, die zeitintensive Recherche- und Modellierungsarbeiten übernehmen. Genau diese Tätigkeiten nimmt OpenAI mit dem neuen Produkt ins Visier und positioniert es als leistungsfähige Ergänzung oder gar Ersatz für bestimmte Arbeitsstufen.\n\nDie Ankündigung fällt in eine Phase, in der Finanzinstitute einerseits massiv in KI investieren, andererseits aber noch keine klaren Linien gezogen haben, wie weit die Automatisierung im regulierten Bankbetrieb gehen soll. Aufsichtsbehörden dürften das neue Angebot genau beobachten.",
-          "tag": "KI & Finanzen",
-          "emoji": "🤖",
-          "quelle": "CNBC",
-          "quelle_url": "https://www.cnbc.com/2026/09/10/openai-chatgpt-for-financial-services-targets-work-of-junior-bankers.html"
+          "quelle_url": "https://www.cnbc.com/2026/09/12/inflation-is-outpacing-wage-growth-again-squeezing-americans-paychecks.html"
         }
       ]
     }
