@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-19T01:16:54.465206+00:00",
-  "datum": "Samstag, 19. September 2026",
+  "generated_at": "2026-09-20T01:17:27.485068+00:00",
+  "datum": "Sonntag, 20. September 2026",
   "ressorts": [
     {
       "id": "politik",
@@ -9,36 +9,36 @@
       "stories": [
         {
           "id": "politik-0",
-          "titel": "USA und Dänemark einigen sich über Grönland",
-          "zusammenfassung": "Washington und Kopenhagen haben eine Vereinbarung über die künftige Rolle der USA in Grönland getroffen. Trump sprach von dauerhafter amerikanischer Kontrolle über Sicherheit und weitere Belange der Insel, während dänische Stellen Details noch nicht bestätigt haben.",
-          "bedeutung": "Das Abkommen markiert einen geopolitischen Wendepunkt in der Arktis und könnte das transatlantische Verhältnis sowie internationale Souveränitätsnormen nachhaltig verschieben.",
-          "hintergrund": "Seit Monaten hatte Trump offen mit einer Annexion Grönlands gedroht und damit eine der tiefsten diplomatischen Krisen zwischen den USA und einem NATO-Partner der jüngeren Geschichte ausgelöst. Dänemark wies die Forderungen zunächst kategorisch zurück und betonte die Selbstbestimmungsrechte der grönländischen Bevölkerung.\n\nDie nun erzielte Einigung lässt inhaltlich noch viele Fragen offen. Analysten warnen, dass eine de-facto-Kontrolle Washingtons über grönländisches Territorium Präzedenzfälle für andere Gebietsansprüche weltweit schaffen könnte und das Völkerrecht unter Druck setzt.",
-          "tag": "Arktis-Geopolitik",
+          "titel": "USA und Dänemark einigen sich über Grönland-Status",
+          "zusammenfassung": "Nach monatelangem Druck aus Washington haben die USA und Dänemark eine Vereinbarung über Grönland erzielt. Trump bezeichnete das Abkommen als dauerhaften Sicherheitsgewinn für die Vereinigten Staaten.",
+          "bedeutung": "Die Einigung markiert einen geopolitischen Wendepunkt in der Arktis und könnte die transatlantischen Beziehungen sowie die Souveränitätsfrage dauerhaft neu definieren.",
+          "hintergrund": "Seit Beginn seiner zweiten Amtszeit hatte Trump wiederholt mit einer Annexion Grönlands gedroht und dabei sowohl wirtschaftliche als auch militärstrategische Interessen geltend gemacht. Die Nato-Verbündeten beobachteten den Prozess mit wachsender Besorgnis, da er das Prinzip territorialer Integrität innerhalb des Bündnisses infrage stellte.\n\nDie nun erzielte Einigung gibt den USA nach eigenem Bekunden weitreichende Sicherheitskontrollen über das strategisch wichtige Territorium, ohne Grönland formal zu annektieren. Wie genau die dänische Souveränität dabei gewahrt bleibt, ist noch Gegenstand diplomatischer Klärungen.",
+          "tag": "Arktis-Diplomatie",
           "emoji": "🧊",
           "quelle": "BBC",
           "quelle_url": "https://www.bbc.co.uk/news/articles/c63d7lexyym1o?at_medium=RSS&at_campaign=rss"
         },
         {
           "id": "politik-1",
-          "titel": "Macron warnt vor wachsenden russischen Hybridangriffen",
-          "zusammenfassung": "Frankreichs Präsident hat die Intensivierung hybrider Angriffe Russlands gegen Europa öffentlich angeprangert und seine Regierung mit dem verstärkten Schutz kritischer Infrastruktur sowie Rüstungsstandorte beauftragt. Die Äußerungen signalisieren eine erhöhte Alarmbereitschaft in Paris.",
-          "bedeutung": "Macrons Warnung unterstreicht, dass Russlands verdeckte Kriegsführung – von Sabotage bis zu Cyberangriffen – als systemische Bedrohung für die gesamte europäische Sicherheitsarchitektur wahrgenommen wird.",
-          "hintergrund": "Hybride Operationen, darunter Anschläge auf Bahnstrecken, Unterwasserkabel und Desinformationskampagnen, haben in Europa in den vergangenen Monaten deutlich zugenommen. Westliche Geheimdienste machen dafür überwiegend russische staatliche oder staatlich geduldete Akteure verantwortlich.\n\nFrankreich reagiert nun mit konkreten Schutzmaßnahmen für Schlüsselinfrastruktur. Beobachter sehen darin auch ein Signal an die EU-Partner, die Koordination im Bereich hybride Abwehr zu intensivieren, bevor weitere Eskalationen eintreten.",
-          "tag": "Hybridkrieg",
-          "emoji": "🛡️",
+          "titel": "Trump unterzeichnet umfassendes Russland-Sanktionsgesetz",
+          "zusammenfassung": "Der US-Präsident hat ein weitreichendes Gesetzespaket mit Russland-Sanktionen unterzeichnet, das nach dem verstorbenen Senator Lindsey Graham benannt ist. Das Gesetz gilt als ein starkes Signal der Unterstützung für die Ukraine.",
+          "bedeutung": "Das Sanktionsgesetz könnte den wirtschaftlichen Druck auf Moskau erheblich verstärken und die außenpolitische Linie der USA gegenüber Russland neu justieren.",
+          "hintergrund": "Das Paket trägt den Namen eines langjährigen Befürworters der Ukraine-Unterstützung und zielt darauf ab, Russland durch Wirtschaftsdruck zur Aufgabe seiner Kriegsziele zu bewegen. Die Unterzeichnung durch Trump überraschte Teile des politischen Washingtoner Establishments, da der Präsident in der Vergangenheit eher als russlandfreundlich galt.\n\nBeobachter werten den Schritt als möglichen Kurswechsel oder zumindest als taktisches Signal an europäische Verbündete, die auf eine konsequentere US-Haltung gegenüber Moskau gedrängt hatten.",
+          "tag": "Ukraine-Konflikt",
+          "emoji": "🇺🇦",
           "quelle": "BBC",
-          "quelle_url": "https://www.bbc.co.uk/news/articles/cm2dw1w9d3yjo?at_medium=RSS&at_campaign=rss"
+          "quelle_url": "https://www.bbc.co.uk/news/articles/cqvgy34ndj4eo?at_medium=RSS&at_campaign=rss"
         },
         {
           "id": "politik-2",
-          "titel": "Bombenanschlag auf Moschee in Pakistan tötet 21 Menschen",
-          "zusammenfassung": "Ein mit Sprengstoff beladenes Fahrzeug wurde in eine Moschee in Pakistan gerammt, wobei mindestens 21 Menschen ums Leben kamen, darunter ein vierjähriges Kind. Gleichzeitig eröffneten Bewaffnete das Feuer auf eine nahe gelegene Polizeieinrichtung.",
-          "bedeutung": "Der koordinierte Angriff auf ein religiöses und ein staatliches Ziel zugleich verdeutlicht die anhaltende Terrorgefahr in Pakistan und die Verwundbarkeit ziviler Orte.",
-          "hintergrund": "Pakistan kämpft seit Jahren mit militanten Anschlägen, die häufig religiöse Versammlungsorte ins Visier nehmen. Islamistische Gruppen, darunter Ableger der pakistanischen Taliban, haben in jüngster Zeit ihre Angriffshäufigkeit wieder gesteigert.\n\nDer kombinierte Einsatz eines Fahrzeugbombers und schießender Angreifer weist auf eine komplexe, geplante Operation hin. Sicherheitskräfte haben die Umgebung abgeriegelt; Ermittlungen zur Täterschaft laufen.",
-          "tag": "Terroranschlag",
-          "emoji": "💥",
+          "titel": "Huthi-Angriff auf Riad: Saudi-Arabien schießt Rakete ab",
+          "zusammenfassung": "Die Huthi-Miliz aus dem Jemen hat nach eigenen Angaben ballistische Raketen auf die saudi-arabische Hauptstadt Riad abgefeuert. Saudi-Arabien bestätigte den Abschuss einer Rakete und meldete Treffer auf ein Treibstoffdepot am Flughafen.",
+          "bedeutung": "Der Angriff auf die saudi-arabische Hauptstadt eskaliert die regionale Sicherheitslage und gefährdet potenziell globale Energielieferketten.",
+          "hintergrund": "Die Huthis intensivieren seit Monaten ihre Raketen- und Drohnenangriffe auf Saudi-Arabien und internationale Schifffahrtsrouten im Roten Meer. Der jüngste Angriff auf den Flughafen Riad führte zu erheblichen Verzögerungen im Flugbetrieb und verdeutlicht die verwundbare Infrastruktur des Königreichs.\n\nDer anhaltende Konflikt hat weitreichende Auswirkungen auf die Ölpreise und die regionale Stabilität, zumal Saudi-Arabien zu den weltweit größten Ölexporteuren zählt. Internationale Beobachter warnen vor einer weiteren Ausweitung der Feindseligkeiten.",
+          "tag": "Nahost-Konflikt",
+          "emoji": "🚀",
           "quelle": "BBC",
-          "quelle_url": "https://www.bbc.co.uk/news/articles/ckn9wenz8wjwo?at_medium=RSS&at_campaign=rss"
+          "quelle_url": "https://www.bbc.co.uk/news/articles/cwly5d9v7r43o?at_medium=RSS&at_campaign=rss"
         }
       ]
     },
@@ -49,10 +49,10 @@
       "stories": [
         {
           "id": "wirtschaft-0",
-          "titel": "Japan hebt Leitzins auf 31-Jahres-Hoch",
-          "zusammenfassung": "Die japanische Zentralbank hat ihren Leitzins erneut angehoben und damit das höchste Niveau seit drei Jahrzehnten erreicht. Treiber ist die hartnäckig hohe Inflation, die maßgeblich durch gestiegene Energiepreise befeuert wird.",
-          "bedeutung": "Japan war lange das letzte große Bollwerk der Niedrigzinspolitik weltweit – seine Kehrtwende wirkt sich auf globale Kapitalströme und Anleihemärkte unmittelbar aus.",
-          "hintergrund": "Die Bank of Japan hatte jahrzehntelang an einer ultra-lockeren Geldpolitik festgehalten, um Deflation zu bekämpfen. Der nun beschleunigte Zinserhöhungszyklus markiert eine historische Zäsur in der Geldpolitik der drittgrößten Volkswirtschaft der Welt.\n\nEin höherer japanischer Leitzins zieht traditionell Kapital zurück nach Japan, was globale Risikoassets unter Druck setzen kann. Gleichzeitig steigen die Kreditkosten für den hoch verschuldeten japanischen Staatshaushalt erheblich.",
+          "titel": "Japan hebt Zinsen auf 31-Jahres-Hoch an",
+          "zusammenfassung": "Die japanische Zentralbank hat ihren Leitzins auf den höchsten Stand seit mehr als drei Jahrzehnten angehoben, um der anhaltenden Inflation entgegenzuwirken. Hohe Energiepreise treiben weltweit die Notenbanken zu weiteren Zinserhöhungen.",
+          "bedeutung": "Japans geldpolitische Straffung signalisiert das endgültige Ende der Ära extrem niedriger Zinsen in der drittgrößten Volkswirtschaft der Welt und hat globale Kapitalmarktwirkungen.",
+          "hintergrund": "Jahrzehntelang hatte Japan eine Ausnahmestellung in der globalen Geldpolitik eingenommen und mit Null- oder Negativzinsen operiert, um die heimische Wirtschaft zu stimulieren. Die nun vollzogene Anhebung markiert einen historischen Bruch mit dieser Tradition und spiegelt den globalen Inflationsdruck wider.\n\nDie Entscheidung Tokios dürfte Kapitalströme in Richtung japanischer Anleihen umlenken und den Yen mittelfristig beeinflussen. Für Schwellenländer, die auf günstige Dollar-Finanzierung angewiesen sind, könnte der Schritt zusätzliche Refinanzierungsrisiken mit sich bringen.",
           "tag": "Geldpolitik",
           "emoji": "🏦",
           "quelle": "BBC",
@@ -60,14 +60,25 @@
         },
         {
           "id": "wirtschaft-1",
-          "titel": "Virtuelle Trainingsräume machen Roboter alltagstauglich",
-          "zusammenfassung": "Fortschrittliche Simulationsumgebungen ermöglichen es, Roboter in virtuellen Welten auf reale Szenarien vorzubereiten, bevor sie physisch eingesetzt werden. Die Technologie reift schnell und ebnet den Weg für eine breite industrielle und gesellschaftliche Nutzung.",
-          "bedeutung": "Effizienter trainierbare Roboter könnten Arbeitsmärkte, Logistik und Pflegeberufe weltweit fundamental verändern.",
-          "hintergrund": "Das sogenannte Sim-to-Real-Training überbrückt die Lücke zwischen digitaler Simulation und physischer Welt, indem Roboter Millionen von Situationen in beschleunigter Zeit virtuell durchlaufen. Kostenintensive und riskante Tests in der realen Umgebung werden so minimiert.\n\nTechnologiekonzerne und Rüstungsunternehmen investieren massiv in diese Infrastruktur. Kritiker warnen jedoch vor den sozialen Folgen einer rapiden Automatisierung und fordern begleitende Regulierung.",
-          "tag": "Robotik",
-          "emoji": "🤖",
+          "titel": "Warren Buffett tritt nach sechs Jahrzehnten zurück",
+          "zusammenfassung": "Die Investorenlegende Warren Buffett hat seinen Rücktritt als Vorstandsvorsitzender von Berkshire Hathaway bekannt gegeben und damit eine Ära beendet. Sein Sohn Howard soll die Nachfolge im Vorsitz antreten.",
+          "bedeutung": "Das Ende der Ära Buffett bei Berkshire Hathaway ist ein symbolischer Einschnitt für die globale Investmentwelt und wirft Fragen zur künftigen Ausrichtung des Konglomerats auf.",
+          "hintergrund": "Seit Buffett 1965 die Kontrolle über ein damals schwächelndes Textilunternehmen übernahm, formte er daraus einen der wertvollsten Konzerne der Welt mit Beteiligungen von der Versicherungsbranche bis zur Eisenbahn. Sein langfristiger, wertorientierter Investmentansatz machte ihn zur meistzitierten Stimme der Finanzwelt.\n\nDie Nachfolgeregelung war seit Jahren vorbereitet worden, dennoch dürfte der tatsächliche Vollzug des Rücktritts Anleger und Märkte beschäftigen. Berkshire Hathaway verwaltet ein Portfolio im Billionen-Dollar-Bereich, und die Frage, ob Buffetts Philosophie unter neuer Führung erhalten bleibt, wird die Investmentwelt noch lange bewegen.",
+          "tag": "Investmentlegende",
+          "emoji": "📈",
           "quelle": "BBC",
-          "quelle_url": "https://www.bbc.co.uk/news/articles/c79g0j3d4q9o?at_medium=RSS&at_campaign=rss"
+          "quelle_url": "https://www.bbc.co.uk/news/articles/cvj64dl1w6yno?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "id": "wirtschaft-2",
+          "titel": "Software-Fehler legte tausende Flüge weltweit lahm",
+          "zusammenfassung": "Ein winziger Defekt in einer Software hat zu mehr als 2.000 Flugausfällen geführt und hunderttausende Passagiere betroffen. Laut einem aktuellen Untersuchungsbericht war ein Fehler im Millisekundenbereich die Ursache.",
+          "bedeutung": "Der Vorfall offenbart die extreme Verwundbarkeit kritischer Infrastruktur gegenüber minimalen digitalen Fehlfunktionen und belebt die Debatte über Resilienz in der Luftfahrt-IT.",
+          "hintergrund": "Moderne Luftfahrtsysteme sind hochgradig vernetzt und auf fehlerfreie Software-Koordination angewiesen. Dass ein Fehler im Millisekunden-Bereich eine derart weitreichende Kettenreaktion auslösen konnte, verdeutlicht die systemischen Risiken einer zunehmend digitalisierten Infrastruktur.\n\nDie Untersuchungsergebnisse dürften Aufsichtsbehörden weltweit unter Druck setzen, die Teststandards für sicherheitskritische Luftfahrtsoftware zu verschärfen. Passagierverbände und Airlines haben bereits Konsequenzen gefordert.",
+          "tag": "Luftfahrt-IT",
+          "emoji": "✈️",
+          "quelle": "BBC",
+          "quelle_url": "https://www.bbc.co.uk/news/articles/cw0kl1571lpmo?at_medium=RSS&at_campaign=rss"
         }
       ]
     },
@@ -78,36 +89,36 @@
       "stories": [
         {
           "id": "boerse-0",
-          "titel": "Warren Buffett tritt als Berkshire-Hathaway-Chef zurück",
-          "zusammenfassung": "Der legendäre Investor Warren Buffett hat seinen Rücktritt als Vorstandsvorsitzender von Berkshire Hathaway bekanntgegeben. Seinen Platz wird planmäßig sein Sohn Howard Buffett übernehmen.",
-          "bedeutung": "Das Ende der Ära Buffett bei einem der wertvollsten Konglomerate der Welt löst eine umfassende Neubewertung der Aktie und des Unternehmensmodells durch Märkte und Anleger aus.",
-          "hintergrund": "Warren Buffett gilt als einer der einflussreichsten Investoren der Geschichte und hat Berkshire Hathaway über Jahrzehnte zu einem der mächtigsten Unternehmen der Welt geformt. Sein Abgang markiert das Ende einer Ära, die die Finanzwelt wie kaum ein anderes Kapitel geprägt hat.\n\nDie Nachfolgeregelung war intern seit Langem vorbereitet. Dennoch dürfte der formale Rückzug Buffetts Fragen nach der künftigen Anlagestrategie des Konglomerats aufwerfen und kurzfristig erhebliche Marktbewegungen auslösen.",
-          "tag": "Börsenpersönlichkeit",
-          "emoji": "📈",
-          "quelle": "CNBC",
-          "quelle_url": "https://www.cnbc.com/2026/09/18/buffett-stepping-down-as-berkshire-chairman.html"
-        },
-        {
-          "id": "boerse-1",
-          "titel": "Japans Märkte reagieren ungewöhnlich auf Zinserhöhung",
-          "zusammenfassung": "Nach der Zinserhöhung der japanischen Zentralbank zeigte der Markt ein paradoxes Bild: Der Yen schwächte sich gegenüber dem Dollar ab, die Rendite zehnjähriger Staatsanleihen sank, während der Nikkei 225 um 1,5 Prozent zulegte. Marktbeobachter suchen nach Erklärungen für die kontraintuitive Reaktion.",
-          "bedeutung": "Die unerwartete Marktreaktion zeigt, wie komplex und von Erwartungsmanagement abhängig globale Finanzmärkte geworden sind.",
-          "hintergrund": "Typischerweise festigt eine Zinserhöhung die heimische Währung und dämpft Aktienindizes durch höhere Finanzierungskosten. Die diesmalige gegenläufige Bewegung deutet darauf hin, dass Anleger die Entscheidung als weniger aggressiv interpretierten als zuvor eingepreist.\n\nDer schwächere Yen begünstigt japanische Exportwerte, was den Nikkei-Anstieg teilweise erklären dürfte. Die gesunkene Anleiherendite legt nahe, dass die Märkte künftige Zinsschritte skeptischer einschätzen als die Zentralbank suggeriert.",
-          "tag": "Nikkei-Zinsen",
-          "emoji": "🇯🇵",
+          "titel": "Japans Märkte reagieren paradox auf Zinserhöhung",
+          "zusammenfassung": "Nach der Zinsanhebung der Bank of Japan fiel der Yen auf über 157 pro Dollar, während der Nikkei 225 um 1,5 Prozent zulegte – ein ungewöhnliches Muster. Auch die Rendite zehnjähriger japanischer Staatsanleihen gab nach.",
+          "bedeutung": "Die unerwartete Marktreaktion in Japan zeigt, wie komplex die Wechselwirkungen zwischen Geldpolitik, Währung und Aktienindizes in einem global vernetzten Finanzsystem geworden sind.",
+          "hintergrund": "Klassische Marktmodelle erwarten nach einer Zinserhöhung eine Aufwertung der Landeswährung und sinkende Aktienkurse, da höhere Kapitalkosten die Unternehmensgewinne belasten. In Japan verlief die Reaktion konträr: Der Yen schwächte sich ab, und die Aktienmärkte legten zu.\n\nAnalysten führen dies auf die Erwartung zurück, dass die Zinserhöhung moderat und graduell bleiben werde, was den Export-orientierten japanischen Unternehmen bei einem schwachen Yen nützt. Die Entwicklung wird international genau verfolgt, da Japan als Lackmustest für die Normalisierung ultralockerer Geldpolitik gilt.",
+          "tag": "Nikkei-Paradox",
+          "emoji": "📊",
           "quelle": "CNBC",
           "quelle_url": "https://www.cnbc.com/2026/09/18/japan-rate-hike-stocks-rise-bond-yields-yen-fall.html"
         },
         {
-          "id": "boerse-2",
-          "titel": "Fed-Chef Warsh lässt Ausmaß weiterer Zinserhöhungen offen",
-          "zusammenfassung": "US-Notenbankchef Kevin Warsh hat nach der jüngsten Zinsentscheidung der Federal Reserve Signale ausgesandt, die an den Märkten intensive Spekulation über den weiteren geldpolitischen Kurs auslösten. Drei bestimmte Worte aus seiner Kommunikation sorgten für besondere Aufmerksamkeit an der Wall Street.",
-          "bedeutung": "Die Unsicherheit über das Tempo künftiger Fed-Zinsschritte beeinflusst Aktienbewertungen, Anleiherenditen und Wechselkurse weltweit direkt.",
-          "hintergrund": "Die Federal Reserve steht vor der schwierigen Aufgabe, Inflation nachhaltig zu bekämpfen, ohne die Konjunktur abzuwürgen. Warsh, der als Hardliner in Zinsfragen gilt, hat mit seiner mehrdeutigen Kommunikation Spielraum für deutlich weitere Erhöhungen angedeutet.\n\nWall-Street-Strategen analysieren die Formulierungen des Fed-Chefs intensiv, da von seiner nächsten Entscheidung Billionen von Dollar in Anleihe- und Aktienmärkten abhängen. Die Unsicherheit selbst gilt derzeit als wesentlicher Marktfaktor.",
-          "tag": "Fed-Geldpolitik",
+          "id": "boerse-1",
+          "titel": "Fed-Chef Warsh schürt Unsicherheit über weiteren Zinskurs",
+          "zusammenfassung": "US-Notenbankchef Kevin Warsh hat die jüngste Zinserhöhung begründet, dabei aber zugleich offene Fragen über den künftigen Kurs der Geldpolitik aufgeworfen. Drei zentrale Formulierungen sorgten an der Wall Street für intensive Debatten.",
+          "bedeutung": "Jede Nuance in der Fed-Kommunikation bewegt globale Billionenbeträge – Unsicherheit über den Zinsgipfel hält Märkte weltweit in Atem.",
+          "hintergrund": "Seit Warsh die Führung der Federal Reserve übernommen hat, orientieren sich Investoren besonders aufmerksam an seiner Wortwahl. Die jüngste Aussage ließ bewusst offen, ob der aktuelle Zinserhöhungszyklus seinem Ende nahe ist oder noch weitergehen könnte.\n\nDie Märkte reagieren auf solche Signale äußerst empfindlich, da Zinsentscheidungen der Fed direkte Auswirkungen auf Anleiherenditen, Aktienbewertungen und Wechselkurse weltweit haben. Analysten rätseln nun, ob Warsh eine Pause signalisiert oder gezielt Spielraum für weitere Schritte offenhalten will.",
+          "tag": "Fed-Zinspolitik",
           "emoji": "💵",
           "quelle": "CNBC",
           "quelle_url": "https://www.cnbc.com/2026/09/18/three-words-from-kevin-warsh-have-wall-street-wondering-how-far-the-fed-will-go-with-rate-hikes.html"
+        },
+        {
+          "id": "boerse-2",
+          "titel": "JP Morgan: Ölpreis kaum noch prognostizierbar",
+          "zusammenfassung": "Die Großbank JP Morgan räumt ein, den Ölpreis wegen der Eskalation im Iran-Konflikt unter US-Führung nicht mehr verlässlich vorhersagen zu können. Als kritische Schwelle gilt ein Preis von 100 Dollar pro Barrel, den Washington wohl vermeiden will.",
+          "bedeutung": "Wenn eine der weltgrößten Banken beim wichtigsten Rohstoff der Erde die Prognose aufgibt, signalisiert das eine außergewöhnliche geopolitische Risikolage für die Weltwirtschaft.",
+          "hintergrund": "Der US-Konflikt mit Iran hat die Unsicherheit auf den globalen Ölmärkten drastisch erhöht. JP Morgan gesteht ein, dass traditionelle Modelle angesichts der politischen Unberechenbarkeit kaum noch greifen, und setzt stattdessen auf die Annahme impliziter wirtschaftlicher Schmerzgrenzen der US-Regierung.\n\nOl bei 100 Dollar pro Barrel würde die ohnehin unter Inflationsdruck stehenden westlichen Volkswirtschaften stark belasten. Förderländer, Fluggesellschaften und Verbraucher weltweit verfolgen die Entwicklung mit wachsender Anspannung.",
+          "tag": "Ölmarkt",
+          "emoji": "🛢️",
+          "quelle": "BBC",
+          "quelle_url": "https://www.bbc.co.uk/news/articles/cq0m3gmv8n7ko?at_medium=RSS&at_campaign=rss"
         }
       ]
     }
