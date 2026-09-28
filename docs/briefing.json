@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-27T01:34:06.665144+00:00",
-  "datum": "Sonntag, 27. September 2026",
+  "generated_at": "2026-09-28T01:45:40.056539+00:00",
+  "datum": "Montag, 28. September 2026",
   "ressorts": [
     {
       "id": "politik",
@@ -9,36 +9,36 @@
       "stories": [
         {
           "id": "politik-0",
-          "titel": "Trump lehnt iranischen Hormuz-Deal ab",
-          "zusammenfassung": "US-Präsident Trump hat ein Angebot Teherans zurückgewiesen, die Straße von Hormuz innerhalb von sieben Tagen wieder zu öffnen. Der iranische Außenminister bestätigte Trumps Haltung, betonte aber, dass Teheran zunächst die endgültigen Einschätzungen der Vermittler abwarte.",
-          "bedeutung": "Die Straße von Hormuz ist eine der wichtigsten Schifffahrtsrouten der Welt – ein anhaltender Konflikt dort bedroht die globale Energieversorgung.",
-          "hintergrund": "Die Spannungen rund um die Meerenge zwischen Iran und Oman haben sich in den vergangenen Wochen erheblich verschärft. Durch sie fließt rund ein Fünftel des weltweiten Ölhandels, weshalb jede Eskalation unmittelbare Folgen für die Energiemärkte hat.\n\nDass Trump das iranische Angebot öffentlichkeitswirksam ablehnt, deutet darauf hin, dass Washington auf maximalen Druck setzt, anstatt kurzfristigen Deeskalationsschritten zu vertrauen. Vermittlerstaaten wie Oman und Katar stehen nun unter erhöhtem Druck, einen tragfähigen Kompromiss zu finden.",
-          "tag": "Iran-Konflikt",
-          "emoji": "🛢️",
+          "titel": "Serbiens Präsident Vučić tritt nach Protesten zurück",
+          "zusammenfassung": "Der serbische Präsident Aleksandar Vučić hat sein Amt niedergelegt und damit den Weg für vorgezogene Neuwahlen freigemacht. Monatelange Massenproteste gegen Korruption und autoritäre Amtsführung hatten seinen Rückhalt in der Bevölkerung zermürbt.",
+          "bedeutung": "Der Rücktritt markiert eine politische Zäsur auf dem westlichen Balkan und könnte die EU-Annäherung Serbiens neu beleben.",
+          "hintergrund": "Vučić regierte Serbien über ein Jahrzehnt mit zunehmend autoritären Mitteln und stand zuletzt wegen massiver Korruptionsvorwürfe sowie der Unterdrückung zivilgesellschaftlicher Proteste unter enormem Druck. Besonders die Kollaps einer Bahnhofsüberdachung in Novi Sad, bei dem Dutzende Menschen ums Leben kamen, hatte 2025 eine Protestwelle ausgelöst.\n\nFür die Region ist der Machtwechsel von erheblicher Bedeutung: Serbien steht an einer geopolitischen Wegscheide zwischen EU-Integration und russischem Einfluss. Wie die kommenden Wahlen ausgerichtet werden und wer die politische Nachfolge antritt, dürfte Auswirkungen weit über die Landesgrenzen hinaus haben.",
+          "tag": "Balkan-Politik",
+          "emoji": "🗳️",
           "quelle": "BBC",
-          "quelle_url": "https://www.bbc.co.uk/news/articles/cqgmrr9ekr7ko?at_medium=RSS&at_campaign=rss"
+          "quelle_url": "https://www.bbc.co.uk/news/articles/ckpq0g7z5pjjo?at_medium=RSS&at_campaign=rss"
         },
         {
           "id": "politik-1",
-          "titel": "Bangkok versinkt im Hochwasser – Notstand ausgerufen",
-          "zusammenfassung": "Die thailändische Hauptstadt Bangkok hat nach tagelangem Starkregen den Katastrophennotstand ausgerufen. Weite Teile der Millionenmetropole stehen unter Wasser, Tausende Bewohner sind von der Außenwelt abgeschnitten.",
-          "bedeutung": "Bangkok ist ein globaler Verkehrs- und Wirtschaftsknotenpunkt – schwere Überflutungen treffen Lieferketten, Tourismus und Millionen von Menschen gleichzeitig.",
-          "hintergrund": "Die Überflutungen in Bangkok sind kein neues Phänomen, doch Klimaexperten warnen seit Jahren, dass die tief liegende Stadt durch den steigenden Meeresspiegel und intensivere Monsunregen zunehmend gefährdet ist. Das Entwässerungssystem der Stadt gilt als chronisch unzureichend.\n\nDie aktuelle Katastrophe reiht sich in eine Serie extremer Wetterereignisse in Südostasien ein, die in diesem Herbst besonders verheerende Ausmaße angenommen haben. Internationale Hilfsorganisationen haben ihre Unterstützung angeboten.",
-          "tag": "Naturkatastrophe",
-          "emoji": "🌊",
+          "titel": "Venezuela entlässt politische Gefangene nach US-Gesprächen",
+          "zusammenfassung": "Caracas hat Dutzende politischer Häftlinge freigelassen, wenige Tage nachdem der venezolanische Übergangspräsident den US-Präsidenten getroffen hatte. Internationale Beobachter werten die Freilassungen als mögliches Zeichen einer vorsichtigen Annäherung.",
+          "bedeutung": "Die Freilassungen könnten den Beginn einer diplomatischen Öffnung markieren, die Konsequenzen für die westliche Hemisphäre und globale Energiemärkte hätte.",
+          "hintergrund": "Venezuela hält trotz einer schweren Wirtschaftskrise und internationalem Druck an der Maduro-nahen Regierung fest. Oppositionelle und Menschenrechtsorganisationen haben seit Jahren auf die willkürliche Inhaftierung von Regierungskritikern hingewiesen.\n\nDass nun ausgerechnet nach einem direkten Kontakt zwischen venezuelanischer und US-amerikanischer Seite Gefangene entlassen werden, deutet auf einen möglichen diskreten Verhandlungskanal hin. Ob dies zu dauerhaften politischen Reformen führt oder ein taktisches Zugeständnis ohne Substanz bleibt, ist noch offen.",
+          "tag": "Diplomatie",
+          "emoji": "🕊️",
           "quelle": "BBC",
-          "quelle_url": "https://www.bbc.co.uk/news/articles/ck1wxx8n2x3zo?at_medium=RSS&at_campaign=rss"
+          "quelle_url": "https://www.bbc.co.uk/news/articles/c620lrw2xr12o?at_medium=RSS&at_campaign=rss"
         },
         {
           "id": "politik-2",
-          "titel": "Sicherheitsmängel vor Charlie Kirks tödlichem Anschlag",
-          "zusammenfassung": "Ein unabhängiger Untersuchungsbericht dokumentiert erhebliche Sicherheitslücken am Utah-Campus, auf dem der konservative Aktivist Charlie Kirk getötet wurde. Demnach hatten Kirks eigene Mitarbeiter darauf bestanden, dass er entgegen den Bedenken der Universitätsverantwortlichen im Freien auftrat.",
-          "bedeutung": "Der Fall wirft grundlegende Fragen zur Sicherheit bei Großveranstaltungen auf öffentlichen Universitäten und zum Schutz prominenter politischer Persönlichkeiten auf.",
-          "hintergrund": "Charlie Kirk war einer der einflussreichsten Organisatoren der amerikanischen Konservativen und Gründer der Organisation Turning Point USA. Sein Tod hatte eine breite politische Debatte über Sicherheit und Meinungsfreiheit an US-Hochschulen ausgelöst.\n\nDer Bericht legt nahe, dass ein Zusammenspiel von persönlichen Entscheidungen des Sicherheitsteams und institutionellen Versäumnissen die Tragödie begünstigte. Die Ergebnisse dürften Konsequenzen für Sicherheitsstandards bei vergleichbaren Veranstaltungen haben.",
-          "tag": "Politische Sicherheit",
-          "emoji": "🔒",
+          "titel": "Iran besteht auf Verhandlungen trotz US-Absage an Hormuz-Deal",
+          "zusammenfassung": "Irans Außenminister betonte, nur ein diplomatischer Weg könne den Konflikt um die Straße von Hormus beenden, nachdem US-Präsident Trump einen möglichen Deal öffentlich abgelehnt hatte. Teheran wartet nach eigenen Angaben auf eine formelle Absage, bevor es seine nächsten Schritte festlegt.",
+          "bedeutung": "Die Spannungen rund um die Straße von Hormus berühren unmittelbar die globale Energieversorgung und die Stabilität der Ölmärkte.",
+          "hintergrund": "Die Straße von Hormus ist eine der strategisch wichtigsten Meerengen der Welt – rund ein Fünftel des global gehandelten Öls wird durch sie transportiert. Iran hat in der Vergangenheit wiederholt damit gedroht, die Passage im Konfliktfall zu sperren.\n\nNach dem Scheitern der jüngsten Verhandlungsrunde herrscht Unklarheit über den weiteren diplomatischen Fahrplan. Die Rhetorik beider Seiten bleibt widersprüchlich, was die Märkte und Verbündete in der Region in erhöhter Alarmbereitschaft hält.",
+          "tag": "Nahost-Konflikt",
+          "emoji": "🛢️",
           "quelle": "BBC",
-          "quelle_url": "https://www.bbc.co.uk/news/articles/cq4g55r76d9lo?at_medium=RSS&at_campaign=rss"
+          "quelle_url": "https://www.bbc.co.uk/news/articles/cmvgyyw2jeego?at_medium=RSS&at_campaign=rss"
         }
       ]
     },
@@ -49,36 +49,36 @@
       "stories": [
         {
           "id": "wirtschaft-0",
-          "titel": "Trump-Xi-Gipfel: Geste ohne Substanz",
-          "zusammenfassung": "US-Präsident Trump und Chinas Staatschef Xi Jinping haben sich beim Staatsbankett warm und freundschaftlich gezeigt, doch bei den drängenden Streitthemen blieb eine Annäherung aus. Handels- und Technologiekonflikte zwischen den beiden Großmächten blieben ebenso ungelöst wie die Taiwan-Frage.",
-          "bedeutung": "Das Verhältnis zwischen Washington und Peking bestimmt maßgeblich die Stabilität der Weltwirtschaft – symbolische Gipfel ohne greifbare Ergebnisse können Unsicherheiten an den Märkten verlängern.",
-          "hintergrund": "Das Treffen fand vor dem Hintergrund monatelanger Spannungen statt, darunter Exportbeschränkungen für Halbleiter, gegenseitige Zölle und militärische Manöver im Südchinesischen Meer. Beobachter hatten auf konkrete Fortschritte bei Handelsfragen gehofft.\n\nDass beide Seiten demonstrative Herzlichkeit zeigten, wird von Analysten teils als Signal gewertet, dass ein offener Bruch vermieden werden soll – doch ohne substanzielle Vereinbarungen bleibt die strategische Rivalität zwischen den USA und China unverändert bestehen.",
-          "tag": "Geopolitik",
-          "emoji": "🤝",
+          "titel": "OpenAI-Bots griffen Daten von US-Behörden ab",
+          "zusammenfassung": "OpenAI hat eingeräumt, dass automatisierte Programme des Unternehmens im Rahmen von Testläufen auf öffentlich zugängliche Daten mehrerer US-Regierungsbehörden zugegriffen haben. Das Unternehmen betonte, es habe sich um öffentliche Informationen gehandelt, doch die Vorfälle werfen Fragen zur Kontrolle von KI-Systemen auf.",
+          "bedeutung": "Der Vorfall verdeutlicht, wie unkontrolliert KI-gestützte Crawler staatliche Infrastruktur belasten und rechtliche Grauzonen ausloten können.",
+          "hintergrund": "Mit der rasanten Ausbreitung großer Sprachmodelle wächst auch der Hunger nach Trainingsdaten. Automatisierte Bots durchforsten dabei zunehmend das öffentliche Internet – einschließlich Regierungsseiten – oft ohne explizite Genehmigung der Betreiber.\n\nDer Vorfall dürfte die politische Debatte über verbindliche Regulierungsrahmen für KI-Scraping neu entfachen. Behörden und Gesetzgeber stehen unter Druck, klare Regeln zu schaffen, bevor solche Zugriffe ernstere Sicherheitsfolgen haben.",
+          "tag": "KI-Regulierung",
+          "emoji": "🤖",
           "quelle": "BBC",
-          "quelle_url": "https://www.bbc.co.uk/news/articles/cxq63dqp93n1o?at_medium=RSS&at_campaign=rss"
+          "quelle_url": "https://www.bbc.co.uk/news/articles/cw62jje658dlo?at_medium=RSS&at_campaign=rss"
         },
         {
           "id": "wirtschaft-1",
-          "titel": "Afrikas Tycoon finanziert Milliarden-Pipeline Äthiopien-Dschibuti",
-          "zusammenfassung": "Afrikas reichster Unternehmer beteiligt sich maßgeblich an der Finanzierung einer 660-Millionen-Dollar-Pipeline, die Äthiopien mit dem Hafen von Dschibuti verbinden soll. Das Projekt soll die Energiesicherheit des Binnenlandes stärken und Tausende Arbeitsplätze schaffen.",
-          "bedeutung": "Die Pipeline könnte die wirtschaftliche Entwicklung Äthiopiens, eines der bevölkerungsreichsten Länder Afrikas, grundlegend verändern und als Modell für regionale Infrastrukturprojekte dienen.",
-          "hintergrund": "Äthiopien ist vollständig auf Importwege über Dschibuti angewiesen, da das Land nach der Unabhängigkeit Eritreas keinen eigenen Meereszugang mehr besitzt. Eine gesicherte Energieinfrastruktur gilt als Voraussetzung für nachhaltiges Wirtschaftswachstum.\n\nDas Engagement privater afrikanischer Investoren in strategischer Infrastruktur markiert einen Wandel: Lange dominierten chinesische Staatsunternehmen und westliche Entwicklungsbanken solche Großprojekte auf dem Kontinent.",
-          "tag": "Afrika-Infrastruktur",
-          "emoji": "🛢️",
+          "titel": "Irans Wirtschaftsfolgen zwingen Londons Finanzministerin zum Handeln",
+          "zusammenfassung": "Großbritanniens Schatzkanzlerin steht vor zwei zentralen Weichenstellungen: Sie muss abwägen, wie lange der wirtschaftliche Druck durch den Iran-Konflikt anhält, und wie ein fragiles Konjunkturplus nachhaltig gestützt werden kann. Analysten mahnen zu vorsichtigem Optimismus.",
+          "bedeutung": "Die britischen Entscheidungen könnten als Blaupause dienen, wie westliche Volkswirtschaften auf geopolitisch bedingte Wirtschaftsschocks reagieren.",
+          "hintergrund": "Der anhaltende Konflikt im Nahen Osten hat die Energiepreise europaweit unter Druck gesetzt und Lieferketten belastet. Für Großbritannien, das ohnehin mit schwachem Wachstum kämpft, ist der Spielraum für fiskalpolitische Antworten eng.\n\nGleichzeitig zeigen jüngste Konjunkturdaten leichte Erholungstendenzen, die jedoch fragil sind. Die Schatzkanzlerin muss in ihrer bevorstehenden Rede zur Labour-Konferenz Kurs halten zwischen Sparzielen und Wachstumsimpulsen – ein Balanceakt mit europäischer Signalwirkung.",
+          "tag": "Fiskalpolitik",
+          "emoji": "⚖️",
           "quelle": "BBC",
-          "quelle_url": "https://www.bbc.co.uk/news/articles/c6z9z7lv41wgo?at_medium=RSS&at_campaign=rss"
+          "quelle_url": "https://www.bbc.co.uk/news/articles/cklye5e40531o?at_medium=RSS&at_campaign=rss"
         },
         {
           "id": "wirtschaft-2",
-          "titel": "USA unterstützen Musk gegen EU-Millionenstrafe für X",
-          "zusammenfassung": "Die US-Regierung stellt sich offiziell hinter Elon Musks Plattform X und unterstützt dessen Klage gegen eine EU-Geldstrafe von 120 Millionen Euro. Brüssel hatte X vorgeworfen, Nutzer mit kostenpflichtigen Verifikationshäkchen ohne echte Identitätsprüfung zu täuschen.",
-          "bedeutung": "Das US-Engagement in einem EU-Regulierungsverfahren markiert eine neue Stufe im Streit zwischen Washington und Brüssel über die Kontrolle globaler Technologieplattformen.",
-          "hintergrund": "Die EU hatte X im Rahmen des Digital Services Act mit der Strafe belegt. Dass die US-Regierung nun aktiv in das Verfahren eingreift, gilt als Signal, dass die Trump-Administration Tech-Regulierung als handelspolitisches Instrument begreift.\n\nDer Schritt könnte weitreichende Folgen haben: Andere US-Konzerne könnten künftig darauf zählen, politische Rückendeckung gegen ausländische Regulierungsbehörden zu erhalten – was die transatlantischen Spannungen im Digitalbereich weiter anheizt.",
-          "tag": "Tech-Regulierung",
-          "emoji": "⚖️",
+          "titel": "Dieselpreis in Großbritannien übersteigt erstmals zwei Pfund",
+          "zusammenfassung": "An schottischen Tankstellen hat Diesel die Marke von zwei Pfund pro Liter überschritten, und Branchenexperten rechnen damit, dass dieser Rekordwert bald landesweit erreicht wird. Haupttreiber sind gestiegene Rohölpreise infolge der Spannungen im Nahen Osten.",
+          "bedeutung": "Explodierende Dieselpreise treffen Logistik, Landwirtschaft und Verbraucher zugleich und heizen die Inflation in einer ohnehin angespannten Wirtschaftslage weiter an.",
+          "hintergrund": "Großbritannien ist wie viele europäische Länder stark von importierten fossilen Brennstoffen abhängig. Geopolitische Verwerfungen – insbesondere rund um den Persischen Golf – schlagen sich schnell an den Zapfsäulen nieder.\n\nFür viele Haushalte und kleine Unternehmen bedeutet der Preisanstieg eine weitere Belastung in einer Phase, in der die Lebenshaltungskosten bereits hoch sind. Die Regierung steht unter wachsendem Druck, Entlastungsmaßnahmen zu prüfen.",
+          "tag": "Energiepreise",
+          "emoji": "⛽",
           "quelle": "BBC",
-          "quelle_url": "https://www.bbc.co.uk/news/articles/cq0m373ee0v0o?at_medium=RSS&at_campaign=rss"
+          "quelle_url": "https://www.bbc.co.uk/news/articles/cr86xn04gxj9o?at_medium=RSS&at_campaign=rss"
         }
       ]
     },
@@ -89,36 +89,36 @@
       "stories": [
         {
           "id": "boerse-0",
-          "titel": "Steigende Treasury-Renditen setzen Fed unter Druck",
-          "zusammenfassung": "Anhaltend steigende Renditen US-amerikanischer Staatsanleihen stellen die Notenbank Fed und ihren designierten Chef Kevin Warsh vor ein neues Dilemma. Märkte erwarten eine härtere Gangart gegen die Inflation, doch die geldpolitischen Spielräume sind begrenzt.",
-          "bedeutung": "Steigende Anleiherenditen verteuern Kredite weltweit und können Aktien- sowie Immobilienmärkte unter erheblichen Druck setzen.",
-          "hintergrund": "Der Renditeanstieg bei US-Staatsanleihen speist sich aus mehreren Quellen gleichzeitig: hartnäckige Inflation, ein wachsendes Angebot an neu emittierten Staatsanleihen zur Finanzierung des Haushaltsdefizits sowie Milliardensummen, die für KI-Infrastruktur mobilisiert werden.\n\nFür die Fed bedeutet das einen Balanceakt: Zu schnelle Zinserhöhungen riskieren eine Rezession, zu langsames Handeln könnte Inflationserwartungen entankern. Anleger weltweit beobachten die Entwicklung der zehnjährigen Treasury-Rendite als wichtigstes Signal.",
-          "tag": "Anleihemärkte",
+          "titel": "US-Anleiherenditen auf 19-Jahres-Hoch – Märkte unter Druck",
+          "zusammenfassung": "Die Rendite zehnjähriger US-Staatsanleihen hat den höchsten Stand seit fast zwei Jahrzehnten erreicht, angetrieben von hartnäckiger Inflation, massiver Staatsverschuldung und dem Investitionsboom rund um künstliche Intelligenz. Anleger weltweit reagieren mit Umschichtungen aus Aktien in festverzinsliche Papiere.",
+          "bedeutung": "Steigende Treasury-Renditen verteuern Kredite global und belasten Aktienmärkte, Schwellenländer und hoch verschuldete Unternehmen gleichermaßen.",
+          "hintergrund": "Der Anstieg der Langfristzinsen reflektiert ein strukturelles Misstrauen der Märkte in die Haushaltsdisziplin der USA. Neben der Inflation treibt auch die schiere Menge neu emittierter Staatsanleihen die Renditen in die Höhe – das Angebot übersteigt zunehmend die Nachfrage.\n\nBesonders betroffen sind kapitalintensive Sektoren wie Immobilien, Versorger und Tech-Unternehmen, die auf günstige Finanzierung angewiesen sind. Für Schwellenländer droht zudem ein Kapitalabfluss in Richtung des nun attraktiveren Dollar-Anlageraums.",
+          "tag": "Zinswende",
           "emoji": "📈",
           "quelle": "CNBC",
-          "quelle_url": "https://www.cnbc.com/2026/09/24/surging-treasury-yields-are-posing-a-brand-new-problem-for-kevin-warsh-and-the-fed.html"
+          "quelle_url": "https://www.cnbc.com/2026/09/26/10-year-treasury-yield-is-at-its-highest-in-19-years-how-we-got-here.html"
         },
         {
           "id": "boerse-1",
-          "titel": "China-Exporte in die USA steigen überraschend stark",
-          "zusammenfassung": "Eine private Umfrage zeigt einen deutlichen Anstieg chinesischer Exporte in die USA im Vorfeld des Gipfeltreffens zwischen Trump und Xi. Unternehmen beider Länder positionieren sich offenbar für eine Phase wirtschaftlicher Stabilität.",
-          "bedeutung": "Das Signal deutet auf nachlassende Handelsrisiken hin, was die globalen Lieferketten und die Stimmung an den Finanzmärkten positiv beeinflussen könnte.",
-          "hintergrund": "Die Daten des privaten Erhebungsunternehmens zeigen, dass Bestellungen aus den USA für chinesische Waren im Berichtsmonat deutlich gestiegen sind – ein mögliches Zeichen, dass Unternehmen Lagerbestände aufbauen, bevor neue Zölle greifen könnten.\n\nFür die Märkte ist der Befund zweischneidig: Einerseits signalisiert er wirtschaftliche Dynamik, andererseits könnte eine Vorziehwirkung in den Folgemonaten zu einem Einbruch der Exportzahlen führen.",
-          "tag": "US-China-Handel",
-          "emoji": "📦",
+          "titel": "KI-Boom trifft auf explodierende Anleiherenditen",
+          "zusammenfassung": "Der ungebremste Ausbau von KI-Infrastruktur trifft auf eine neue Realität: Steigende Anleiherenditen machen die milliardenschweren Finanzierungen für Rechenzentren und Chip-Kapazitäten deutlich teurer. Investoren beginnen, die Profitabilität des KI-Sektors kritischer zu hinterfragen.",
+          "bedeutung": "Wenn sich KI-Investitionen durch höhere Kapitalkosten verzögern oder verteuern, könnten Wachstumserwartungen im gesamten Tech-Sektor revidiert werden.",
+          "hintergrund": "Unternehmen wie Microsoft, Amazon und Google haben in den vergangenen Jahren hunderte Milliarden Dollar in KI-Infrastruktur investiert und dabei stark auf Fremdkapital gesetzt. Bei einem Zinsniveau, das so hoch ist wie seit fast zwei Jahrzehnten nicht mehr, steigen die Kosten für neue Anleiheemissionen spürbar.\n\nAnalysten warnen, dass die bislang fast unerschütterliche Investitionsbereitschaft des Sektors erstmals an eine finanzielle Grenze stoßen könnte. Dies hätte nicht nur Folgen für einzelne Unternehmen, sondern auch für die breiteren Aktienindizes, in denen Tech-Titel dominieren.",
+          "tag": "Tech-Finanzierung",
+          "emoji": "💸",
           "quelle": "CNBC",
-          "quelle_url": "https://www.cnbc.com/2026/09/25/china-exports-surplus-trade-tariffs-.html"
+          "quelle_url": "https://www.cnbc.com/2026/09/27/debt-hungry-data-center-companies-increased-risk-bond-yields-spike.html"
         },
         {
           "id": "boerse-2",
-          "titel": "Nordkorea soll hinter 352-Millionen-Dollar-Krypto-Hack stecken",
-          "zusammenfassung": "Die Kryptobörse Bitget geht nach eigenen Angaben davon aus, dass nordkoreanische Hacker für einen Angriff verantwortlich sind, bei dem rund 352 Millionen Dollar in digitalen Vermögenswerten gestohlen wurden. Der Fall ist einer der größten Krypto-Diebstähle des Jahres.",
-          "bedeutung": "Staatlich organisierte Cyberangriffe auf Kryptoplattformen stellen eine wachsende Bedrohung für die globale Finanzinfrastruktur dar.",
-          "hintergrund": "Nordkorea gilt Experten als einer der aktivsten staatlichen Akteure im Bereich Cyberkriminalität. Erträge aus Kryptowährungsdiebstählen sollen dem Regime zur Umgehung internationaler Sanktionen und zur Finanzierung seines Rüstungsprogramms dienen.\n\nDer jüngste Vorfall dürfte den Druck auf Regulierungsbehörden erhöhen, Kryptobörsen zu strengeren Sicherheitsstandards zu verpflichten. Gleichzeitig zeigt er, dass auch mittelgroße Plattformen im Visier hochprofessioneller Angreifer stehen.",
-          "tag": "Krypto-Sicherheit",
-          "emoji": "🔓",
+          "titel": "Xi glaubt: USA und China können Rivalitätsfalle überwinden",
+          "zusammenfassung": "Chinas Staatschef Xi Jinping zeigt sich zuversichtlich, dass Peking und Washington die sogenannte Thukydides-Falle – den historisch belegten Konflikt zwischen aufsteigender und etablierter Macht – vermeiden können. Nach einem Treffen mit US-Präsident Trump im Mai signalisiert Peking Gesprächsbereitschaft.",
+          "bedeutung": "Eine stabile sino-amerikanische Beziehung ist Grundvoraussetzung für globale Handels- und Finanzmarktstabilität – jede Entspannung oder Eskalation hat unmittelbare Marktfolgen.",
+          "hintergrund": "Die Thukydides-Falle beschreibt das Muster, nach dem aufstrebende Mächte und etablierte Hegemonen historisch häufig in Konflikte geraten sind. Xi Jinpings Signale deuten darauf hin, dass China derzeit eine Phase der kontrollierten Koexistenz anstrebt, anstatt die Konfrontation zu suchen.\n\nFür Investoren ist dies ein relevantes Signal: Entspannung im US-chinesischen Verhältnis würde Lieferketten stabilisieren, Zollrisiken mindern und chinesische Märkte für westliches Kapital attraktiver machen. Die Frage bleibt, ob hinter den diplomatischen Signalen auch substanzielle politische Schritte folgen.",
+          "tag": "Geopolitik & Märkte",
+          "emoji": "🤝",
           "quelle": "CNBC",
-          "quelle_url": "https://www.cnbc.com/2026/09/25/crypto-platform-bitget-suspects-north-korea-in-352-million-hack.html"
+          "quelle_url": "https://www.cnbc.com/2026/09/26/xi-trump-thucydides-trap-us-china.html"
         }
       ]
     }
