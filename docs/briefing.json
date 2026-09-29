@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-28T01:45:40.056539+00:00",
-  "datum": "Montag, 28. September 2026",
+  "generated_at": "2026-09-29T02:37:34.807404+00:00",
+  "datum": "Dienstag, 29. September 2026",
   "ressorts": [
     {
       "id": "politik",
@@ -9,36 +9,36 @@
       "stories": [
         {
           "id": "politik-0",
-          "titel": "Serbiens Präsident Vučić tritt nach Protesten zurück",
-          "zusammenfassung": "Der serbische Präsident Aleksandar Vučić hat sein Amt niedergelegt und damit den Weg für vorgezogene Neuwahlen freigemacht. Monatelange Massenproteste gegen Korruption und autoritäre Amtsführung hatten seinen Rückhalt in der Bevölkerung zermürbt.",
-          "bedeutung": "Der Rücktritt markiert eine politische Zäsur auf dem westlichen Balkan und könnte die EU-Annäherung Serbiens neu beleben.",
-          "hintergrund": "Vučić regierte Serbien über ein Jahrzehnt mit zunehmend autoritären Mitteln und stand zuletzt wegen massiver Korruptionsvorwürfe sowie der Unterdrückung zivilgesellschaftlicher Proteste unter enormem Druck. Besonders die Kollaps einer Bahnhofsüberdachung in Novi Sad, bei dem Dutzende Menschen ums Leben kamen, hatte 2025 eine Protestwelle ausgelöst.\n\nFür die Region ist der Machtwechsel von erheblicher Bedeutung: Serbien steht an einer geopolitischen Wegscheide zwischen EU-Integration und russischem Einfluss. Wie die kommenden Wahlen ausgerichtet werden und wer die politische Nachfolge antritt, dürfte Auswirkungen weit über die Landesgrenzen hinaus haben.",
-          "tag": "Balkan-Politik",
-          "emoji": "🗳️",
+          "titel": "Iran bestätigt Peitschenstrafe für Sängerin ohne Hijab",
+          "zusammenfassung": "Ein iranisches Berufungsgericht hat das Urteil gegen die Sängerin Parastoo Ahmadi bestätigt, die wegen eines Auftritts ohne Kopftuch in einem Livestream-Konzert verurteilt worden war. Sie trägt ein ärmelloses Kleid getragen und wurde wegen Verletzung der öffentlichen Sittlichkeit verurteilt.",
+          "bedeutung": "Das Urteil verdeutlicht die fortgesetzte harte Linie des iranischen Justizapparats gegenüber Frauen, die sich öffentlich den Kleidervorschriften widersetzen.",
+          "hintergrund": "Seit den landesweiten Protesten nach dem Tod von Mahsa Amini im Jahr 2022 steht die iranische Führung international unter Druck, doch die Justiz setzt die strengen Moralgesetze weiterhin konsequent durch. Fälle wie dieser werden von Menschenrechtsorganisationen weltweit als Symbol staatlicher Repression beobachtet.\n\nKünstlerinnen und Aktivistinnen im Iran riskieren durch öffentliche Auftritte ohne Hijab empfindliche Strafen. Die internationale Gemeinschaft verfolgt solche Urteile mit wachsender Besorgnis als Gradmesser für die Lage der Frauenrechte in der Islamischen Republik.",
+          "tag": "Frauenrechte Iran",
+          "emoji": "🎤",
           "quelle": "BBC",
-          "quelle_url": "https://www.bbc.co.uk/news/articles/ckpq0g7z5pjjo?at_medium=RSS&at_campaign=rss"
+          "quelle_url": "https://www.bbc.co.uk/news/articles/crn45ed1kqqgo?at_medium=RSS&at_campaign=rss"
         },
         {
           "id": "politik-1",
-          "titel": "Venezuela entlässt politische Gefangene nach US-Gesprächen",
-          "zusammenfassung": "Caracas hat Dutzende politischer Häftlinge freigelassen, wenige Tage nachdem der venezolanische Übergangspräsident den US-Präsidenten getroffen hatte. Internationale Beobachter werten die Freilassungen als mögliches Zeichen einer vorsichtigen Annäherung.",
-          "bedeutung": "Die Freilassungen könnten den Beginn einer diplomatischen Öffnung markieren, die Konsequenzen für die westliche Hemisphäre und globale Energiemärkte hätte.",
-          "hintergrund": "Venezuela hält trotz einer schweren Wirtschaftskrise und internationalem Druck an der Maduro-nahen Regierung fest. Oppositionelle und Menschenrechtsorganisationen haben seit Jahren auf die willkürliche Inhaftierung von Regierungskritikern hingewiesen.\n\nDass nun ausgerechnet nach einem direkten Kontakt zwischen venezuelanischer und US-amerikanischer Seite Gefangene entlassen werden, deutet auf einen möglichen diskreten Verhandlungskanal hin. Ob dies zu dauerhaften politischen Reformen führt oder ein taktisches Zugeständnis ohne Substanz bleibt, ist noch offen.",
-          "tag": "Diplomatie",
-          "emoji": "🕊️",
+          "titel": "Seoul bestellt Ukraine-Botschafter wegen Nordkorea-Gefangener ein",
+          "zusammenfassung": "Die südkoreanische Regierung hat den ukrainischen Botschafter einbestellt, nachdem Präsident Selenskyj öffentlich bekannt gegeben hatte, dass zwei nordkoreanische Kriegsgefangene an Seoul übergeben worden seien. Südkorea hatte diesen Transfer als vertraulich betrachtet und zeigt sich über die Offenlegung verärgert.",
+          "bedeutung": "Der Vorfall belastet das sensible diplomatische Dreieck zwischen Seoul, Kiew und Pjöngjang und wirft Fragen über Absprachen zwischen Verbündeten im Ukraine-Krieg auf.",
+          "hintergrund": "Die Anwesenheit nordkoreanischer Soldaten auf ukrainischem Schlachtfeld gilt als bedeutende Eskalation und zieht die Aufmerksamkeit der gesamten internationalen Gemeinschaft auf sich. Jede öffentliche Enthüllung rund um diese Soldaten birgt das Potenzial, Pjöngjang zu provozieren und Seoul in eine heikle geopolitische Lage zu bringen.\n\nFür Südkorea ist der Umgang mit nordkoreanischen Gefangenen eine außerordentlich delikate Angelegenheit, da er Fragen der Wiedervereinigung, der Menschenrechte und der Sicherheitspolitik gleichzeitig berührt. Das Bekanntwerden des Transfers ohne Abstimmung könnte das Vertrauen zwischen Kiew und Seoul nachhaltig beschädigen.",
+          "tag": "Korea-Konflikt",
+          "emoji": "🇰🇷",
           "quelle": "BBC",
-          "quelle_url": "https://www.bbc.co.uk/news/articles/c620lrw2xr12o?at_medium=RSS&at_campaign=rss"
+          "quelle_url": "https://www.bbc.co.uk/news/articles/c8ly40xx0dr0o?at_medium=RSS&at_campaign=rss"
         },
         {
           "id": "politik-2",
-          "titel": "Iran besteht auf Verhandlungen trotz US-Absage an Hormuz-Deal",
-          "zusammenfassung": "Irans Außenminister betonte, nur ein diplomatischer Weg könne den Konflikt um die Straße von Hormus beenden, nachdem US-Präsident Trump einen möglichen Deal öffentlich abgelehnt hatte. Teheran wartet nach eigenen Angaben auf eine formelle Absage, bevor es seine nächsten Schritte festlegt.",
-          "bedeutung": "Die Spannungen rund um die Straße von Hormus berühren unmittelbar die globale Energieversorgung und die Stabilität der Ölmärkte.",
-          "hintergrund": "Die Straße von Hormus ist eine der strategisch wichtigsten Meerengen der Welt – rund ein Fünftel des global gehandelten Öls wird durch sie transportiert. Iran hat in der Vergangenheit wiederholt damit gedroht, die Passage im Konfliktfall zu sperren.\n\nNach dem Scheitern der jüngsten Verhandlungsrunde herrscht Unklarheit über den weiteren diplomatischen Fahrplan. Die Rhetorik beider Seiten bleibt widersprüchlich, was die Märkte und Verbündete in der Region in erhöhter Alarmbereitschaft hält.",
-          "tag": "Nahost-Konflikt",
-          "emoji": "🛢️",
+          "titel": "Türkischer Comedian nach Erdoğan-Beleidigung freigelassen",
+          "zusammenfassung": "Der türkische Stand-up-Comedian Deniz Göktaş ist nach einer Verurteilung wegen Beleidigung von Präsident Recep Tayyip Erdoğan aus der Haft entlassen worden, da die verbüßte Untersuchungshaft auf die Strafe angerechnet wurde. Gegen ihn besteht jedoch weiterhin ein Ausreiseverbot.",
+          "bedeutung": "Der Fall steht exemplarisch für die anhaltende Einschränkung der Meinungs- und Kunstfreiheit in der Türkei, die international scharf kritisiert wird.",
+          "hintergrund": "In der Türkei ist die Beleidigung des Staatspräsidenten nach Artikel 299 des Strafgesetzbuches strafbar, ein Paragraf, der regelmäßig gegen Journalisten, Künstler und Aktivisten angewendet wird. Pressefreiheitsorganisationen zählen die Türkei seit Jahren zu den Ländern mit den meisten inhaftierten Medienschaffenden weltweit.\n\nDas verhängte Reiseverbot macht deutlich, dass Göktaş trotz Freilassung weiterhin unter staatlicher Kontrolle steht. Der Fall reiht sich in eine Serie ähnlicher Verfahren ein und hat international erneut Debatten über Demokratie und Rechtsstaatlichkeit in der Türkei entfacht.",
+          "tag": "Pressefreiheit Türkei",
+          "emoji": "🎭",
           "quelle": "BBC",
-          "quelle_url": "https://www.bbc.co.uk/news/articles/cmvgyyw2jeego?at_medium=RSS&at_campaign=rss"
+          "quelle_url": "https://www.bbc.co.uk/news/articles/c8zxzlqwzw0eo?at_medium=RSS&at_campaign=rss"
         }
       ]
     },
@@ -49,36 +49,36 @@
       "stories": [
         {
           "id": "wirtschaft-0",
-          "titel": "OpenAI-Bots griffen Daten von US-Behörden ab",
-          "zusammenfassung": "OpenAI hat eingeräumt, dass automatisierte Programme des Unternehmens im Rahmen von Testläufen auf öffentlich zugängliche Daten mehrerer US-Regierungsbehörden zugegriffen haben. Das Unternehmen betonte, es habe sich um öffentliche Informationen gehandelt, doch die Vorfälle werfen Fragen zur Kontrolle von KI-Systemen auf.",
-          "bedeutung": "Der Vorfall verdeutlicht, wie unkontrolliert KI-gestützte Crawler staatliche Infrastruktur belasten und rechtliche Grauzonen ausloten können.",
-          "hintergrund": "Mit der rasanten Ausbreitung großer Sprachmodelle wächst auch der Hunger nach Trainingsdaten. Automatisierte Bots durchforsten dabei zunehmend das öffentliche Internet – einschließlich Regierungsseiten – oft ohne explizite Genehmigung der Betreiber.\n\nDer Vorfall dürfte die politische Debatte über verbindliche Regulierungsrahmen für KI-Scraping neu entfachen. Behörden und Gesetzgeber stehen unter Druck, klare Regeln zu schaffen, bevor solche Zugriffe ernstere Sicherheitsfolgen haben.",
-          "tag": "KI-Regulierung",
-          "emoji": "🤖",
-          "quelle": "BBC",
-          "quelle_url": "https://www.bbc.co.uk/news/articles/cw62jje658dlo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "id": "wirtschaft-1",
-          "titel": "Irans Wirtschaftsfolgen zwingen Londons Finanzministerin zum Handeln",
-          "zusammenfassung": "Großbritanniens Schatzkanzlerin steht vor zwei zentralen Weichenstellungen: Sie muss abwägen, wie lange der wirtschaftliche Druck durch den Iran-Konflikt anhält, und wie ein fragiles Konjunkturplus nachhaltig gestützt werden kann. Analysten mahnen zu vorsichtigem Optimismus.",
-          "bedeutung": "Die britischen Entscheidungen könnten als Blaupause dienen, wie westliche Volkswirtschaften auf geopolitisch bedingte Wirtschaftsschocks reagieren.",
-          "hintergrund": "Der anhaltende Konflikt im Nahen Osten hat die Energiepreise europaweit unter Druck gesetzt und Lieferketten belastet. Für Großbritannien, das ohnehin mit schwachem Wachstum kämpft, ist der Spielraum für fiskalpolitische Antworten eng.\n\nGleichzeitig zeigen jüngste Konjunkturdaten leichte Erholungstendenzen, die jedoch fragil sind. Die Schatzkanzlerin muss in ihrer bevorstehenden Rede zur Labour-Konferenz Kurs halten zwischen Sparzielen und Wachstumsimpulsen – ein Balanceakt mit europäischer Signalwirkung.",
-          "tag": "Fiskalpolitik",
-          "emoji": "⚖️",
-          "quelle": "BBC",
-          "quelle_url": "https://www.bbc.co.uk/news/articles/cklye5e40531o?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "id": "wirtschaft-2",
-          "titel": "Dieselpreis in Großbritannien übersteigt erstmals zwei Pfund",
-          "zusammenfassung": "An schottischen Tankstellen hat Diesel die Marke von zwei Pfund pro Liter überschritten, und Branchenexperten rechnen damit, dass dieser Rekordwert bald landesweit erreicht wird. Haupttreiber sind gestiegene Rohölpreise infolge der Spannungen im Nahen Osten.",
-          "bedeutung": "Explodierende Dieselpreise treffen Logistik, Landwirtschaft und Verbraucher zugleich und heizen die Inflation in einer ohnehin angespannten Wirtschaftslage weiter an.",
-          "hintergrund": "Großbritannien ist wie viele europäische Länder stark von importierten fossilen Brennstoffen abhängig. Geopolitische Verwerfungen – insbesondere rund um den Persischen Golf – schlagen sich schnell an den Zapfsäulen nieder.\n\nFür viele Haushalte und kleine Unternehmen bedeutet der Preisanstieg eine weitere Belastung in einer Phase, in der die Lebenshaltungskosten bereits hoch sind. Die Regierung steht unter wachsendem Druck, Entlastungsmaßnahmen zu prüfen.",
+          "titel": "Dieselpreise in UK erreichen historisches Allzeithoch",
+          "zusammenfassung": "Der durchschnittliche Literpreis für Diesel an britischen Zapfsäulen ist auf einen neuen Rekordwert von 198,32 Pence gestiegen. Als Hauptursache gilt die massive Störung globaler Öllieferungen infolge des militärischen Konflikts zwischen den USA, Israel und dem Iran.",
+          "bedeutung": "Rekordhohe Kraftstoffpreise erhöhen den Kostendruck auf Verbraucher und Unternehmen gleichermaßen und verschärfen die ohnehin angespannte Inflationslage in Großbritannien.",
+          "hintergrund": "Der Konflikt im Nahen Osten hat die Ölmärkte in erhebliche Turbulenzen versetzt, da wichtige Versorgungsrouten und Produktionskapazitäten in der Region als gefährdet gelten. Bereits geringe Unsicherheiten über die Verfügbarkeit von Rohöl reichen aus, um die globalen Spotpreise spürbar in die Höhe zu treiben.\n\nFür die britische Regierung unter Premierminister Andy Burnham entsteht dadurch zusätzlicher politischer Druck, da steigende Energiekosten die Kaufkraft der Bevölkerung direkt belasten. Parallel verhandelt London mit Washington über einen möglichen US-Dieselexportstopp, der die Lage weiter verschärfen könnte.",
           "tag": "Energiepreise",
           "emoji": "⛽",
           "quelle": "BBC",
-          "quelle_url": "https://www.bbc.co.uk/news/articles/cr86xn04gxj9o?at_medium=RSS&at_campaign=rss"
+          "quelle_url": "https://www.bbc.co.uk/news/articles/c6n4k987k981o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "id": "wirtschaft-1",
+          "titel": "London drängt Washington: Kein Dieselexportstopp gegen UK",
+          "zusammenfassung": "Die britische Regierung führt intensive Gespräche mit der US-Regierung, um einen angedrohten amerikanischen Stopp von Dieselexporten nach Großbritannien abzuwenden. Ein solches Exportverbot würde den bereits angespannten britischen Kraftstoffmarkt zusätzlich belasten.",
+          "bedeutung": "Ein US-Dieselexportstopp hätte weitreichende Folgen für die britische Wirtschaft und könnte Versorgungsengpässe sowie Preissteigerungen über den Energiesektor hinaus auslösen.",
+          "hintergrund": "Die Trump-Administration erwägt, Dieselexporte zu begrenzen, um die eigenen Verbraucher vor steigenden Kraftstoffkosten zu schützen – eine Maßnahme, die in anderen Importländern erhebliche Engpässe verursachen würde. Großbritannien gehört zu den Ländern, die in erheblichem Umfang auf amerikanische Diesellieferungen angewiesen sind.\n\nDie Verhandlungen spiegeln die breiteren transatlantischen Spannungen wider, die durch die wirtschaftsnationalistische Handelspolitik der zweiten Trump-Amtszeit entstanden sind. Für London steht dabei nicht nur die Energieversorgung, sondern auch das Verhältnis zum wichtigsten außereuropäischen Verbündeten auf dem Spiel.",
+          "tag": "US-UK-Handel",
+          "emoji": "🛢️",
+          "quelle": "BBC",
+          "quelle_url": "https://www.bbc.co.uk/news/articles/cmx2z3vgy5xwo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "id": "wirtschaft-2",
+          "titel": "Klimawandel macht immer mehr Häuser unversicherbar",
+          "zusammenfassung": "Die Chefin des britischen Versicherers Aviva warnte öffentlich, dass in England gegenwärtig Häuser gebaut werden, die aufgrund steigender Überflutungsrisiken in naher Zukunft möglicherweise nicht mehr versicherbar sein werden. Sie bezeichnete die Lage als strukturelles Problem der Immobilienentwicklung.",
+          "bedeutung": "Die Warnung eines der größten europäischen Versicherer unterstreicht, dass der Klimawandel zunehmend konkrete finanzielle und gesellschaftliche Konsequenzen für Wohneigentümer und den Immobilienmarkt hat.",
+          "hintergrund": "Steigende Überflutungshäufigkeit durch den Klimawandel zwingt Versicherungskonzerne weltweit dazu, ihre Risikomodelle grundlegend zu überarbeiten. Wenn Policen für bestimmte Lagen nicht mehr angeboten oder erschwinglich sind, verlieren betroffene Immobilien drastisch an Marktwert und Beleihbarkeit.\n\nDas Problem betrifft nicht nur Großbritannien, sondern ist ein globales Phänomen, das Küstenregionen, Flussniederungen und klimasensible Gebiete auf allen Kontinenten erfasst. Regulierer und Stadtplaner stehen vor der wachsenden Aufgabe, Bauvorschriften und Raumordnung an die neuen Klimarealitäten anzupassen.",
+          "tag": "Klimarisiko Immobilien",
+          "emoji": "🏠",
+          "quelle": "BBC",
+          "quelle_url": "https://www.bbc.co.uk/news/articles/c60qxk288e57o?at_medium=RSS&at_campaign=rss"
         }
       ]
     },
@@ -89,36 +89,36 @@
       "stories": [
         {
           "id": "boerse-0",
-          "titel": "US-Anleiherenditen auf 19-Jahres-Hoch – Märkte unter Druck",
-          "zusammenfassung": "Die Rendite zehnjähriger US-Staatsanleihen hat den höchsten Stand seit fast zwei Jahrzehnten erreicht, angetrieben von hartnäckiger Inflation, massiver Staatsverschuldung und dem Investitionsboom rund um künstliche Intelligenz. Anleger weltweit reagieren mit Umschichtungen aus Aktien in festverzinsliche Papiere.",
-          "bedeutung": "Steigende Treasury-Renditen verteuern Kredite global und belasten Aktienmärkte, Schwellenländer und hoch verschuldete Unternehmen gleichermaßen.",
-          "hintergrund": "Der Anstieg der Langfristzinsen reflektiert ein strukturelles Misstrauen der Märkte in die Haushaltsdisziplin der USA. Neben der Inflation treibt auch die schiere Menge neu emittierter Staatsanleihen die Renditen in die Höhe – das Angebot übersteigt zunehmend die Nachfrage.\n\nBesonders betroffen sind kapitalintensive Sektoren wie Immobilien, Versorger und Tech-Unternehmen, die auf günstige Finanzierung angewiesen sind. Für Schwellenländer droht zudem ein Kapitalabfluss in Richtung des nun attraktiveren Dollar-Anlageraums.",
-          "tag": "Zinswende",
+          "titel": "KI-Firmen unter Druck: Anleihezinsen verteuern Milliarden-Investments",
+          "zusammenfassung": "Der massive Aufbau von KI-Infrastruktur weltweit setzt sich unvermindert fort, doch steigende Renditen auf US-Staatsanleihen erhöhen die Finanzierungskosten für schuldenfinanzierte Tech-Unternehmen erheblich. Analysten warnen, dass die Zinswende das Tempo der KI-Investitionen dämpfen könnte.",
+          "bedeutung": "Steigende Bondrenditen gefährden die Bewertungen schuldenintensiver Technologiekonzerne und könnten die globale KI-Investitionswelle erstmals ernsthaft bremsen.",
+          "hintergrund": "Die großen Hyperscaler und KI-Startups haben in den vergangenen Jahren Hunderte Milliarden Dollar an Kapital aufgenommen, um Rechenzentren, Chips und Modelltraining zu finanzieren. In einem Niedrigzinsumfeld war das relativ günstig – doch mit dem Anstieg der Treasury-Renditen steigen auch die Kapitalkosten spürbar.\n\nFür die Märkte bedeutet das eine Neubewertung von Unternehmen, deren Geschäftsmodelle auf dauerhaft billigem Kapital basieren. Investoren beobachten genau, ob die erwarteten KI-Erträge schnell genug sprudeln, um die gestiegenen Zinslasten zu rechtfertigen.",
+          "tag": "KI-Finanzierung",
           "emoji": "📈",
-          "quelle": "CNBC",
-          "quelle_url": "https://www.cnbc.com/2026/09/26/10-year-treasury-yield-is-at-its-highest-in-19-years-how-we-got-here.html"
-        },
-        {
-          "id": "boerse-1",
-          "titel": "KI-Boom trifft auf explodierende Anleiherenditen",
-          "zusammenfassung": "Der ungebremste Ausbau von KI-Infrastruktur trifft auf eine neue Realität: Steigende Anleiherenditen machen die milliardenschweren Finanzierungen für Rechenzentren und Chip-Kapazitäten deutlich teurer. Investoren beginnen, die Profitabilität des KI-Sektors kritischer zu hinterfragen.",
-          "bedeutung": "Wenn sich KI-Investitionen durch höhere Kapitalkosten verzögern oder verteuern, könnten Wachstumserwartungen im gesamten Tech-Sektor revidiert werden.",
-          "hintergrund": "Unternehmen wie Microsoft, Amazon und Google haben in den vergangenen Jahren hunderte Milliarden Dollar in KI-Infrastruktur investiert und dabei stark auf Fremdkapital gesetzt. Bei einem Zinsniveau, das so hoch ist wie seit fast zwei Jahrzehnten nicht mehr, steigen die Kosten für neue Anleiheemissionen spürbar.\n\nAnalysten warnen, dass die bislang fast unerschütterliche Investitionsbereitschaft des Sektors erstmals an eine finanzielle Grenze stoßen könnte. Dies hätte nicht nur Folgen für einzelne Unternehmen, sondern auch für die breiteren Aktienindizes, in denen Tech-Titel dominieren.",
-          "tag": "Tech-Finanzierung",
-          "emoji": "💸",
           "quelle": "CNBC",
           "quelle_url": "https://www.cnbc.com/2026/09/27/debt-hungry-data-center-companies-increased-risk-bond-yields-spike.html"
         },
         {
+          "id": "boerse-1",
+          "titel": "Chinas Industriegewinne wachsen so langsam wie nie in diesem Jahr",
+          "zusammenfassung": "Die Gewinne chinesischer Industrieunternehmen sind im August nur um 4,2 Prozent gestiegen – das schwächste Wachstum seit Jahresbeginn. Ökonomen fordern von der Regierung in Peking verstärkte Konjunkturmaßnahmen, um die stockende Unternehmensprofitabilität zu stabilisieren.",
+          "bedeutung": "Schwache Industriedaten aus der weltgrößten Exportnation senden ein Warnsignal an die globalen Rohstoff- und Aktienmärkte und erhöhen den Druck auf chinesische Stimulusmaßnahmen.",
+          "hintergrund": "Die chinesische Wirtschaft kämpft weiterhin mit den Folgen schwacher Binnennachfrage, Überkapazitäten in Schlüsselbranchen und anhaltendem Preisdruck. Die schleppende Erholung des Immobiliensektors belastet zusätzlich das Konsumklima und die Investitionstätigkeit.\n\nInternational wird genau beobachtet, wie aggressiv Peking auf die Abschwächung reagiert. Neue Stimuluspakete könnten zwar kurzfristig die Märkte beruhigen, strukturelle Probleme wie Überproduktion und mangelnde Innovation lassen sich damit jedoch kaum lösen.",
+          "tag": "China Konjunktur",
+          "emoji": "🏭",
+          "quelle": "CNBC",
+          "quelle_url": "https://www.cnbc.com/2026/09/28/china-posts-weakest-industrial-profit-growth-this-year-expanding-4point2percent-in-august-.html"
+        },
+        {
           "id": "boerse-2",
-          "titel": "Xi glaubt: USA und China können Rivalitätsfalle überwinden",
-          "zusammenfassung": "Chinas Staatschef Xi Jinping zeigt sich zuversichtlich, dass Peking und Washington die sogenannte Thukydides-Falle – den historisch belegten Konflikt zwischen aufsteigender und etablierter Macht – vermeiden können. Nach einem Treffen mit US-Präsident Trump im Mai signalisiert Peking Gesprächsbereitschaft.",
-          "bedeutung": "Eine stabile sino-amerikanische Beziehung ist Grundvoraussetzung für globale Handels- und Finanzmarktstabilität – jede Entspannung oder Eskalation hat unmittelbare Marktfolgen.",
-          "hintergrund": "Die Thukydides-Falle beschreibt das Muster, nach dem aufstrebende Mächte und etablierte Hegemonen historisch häufig in Konflikte geraten sind. Xi Jinpings Signale deuten darauf hin, dass China derzeit eine Phase der kontrollierten Koexistenz anstrebt, anstatt die Konfrontation zu suchen.\n\nFür Investoren ist dies ein relevantes Signal: Entspannung im US-chinesischen Verhältnis würde Lieferketten stabilisieren, Zollrisiken mindern und chinesische Märkte für westliches Kapital attraktiver machen. Die Frage bleibt, ob hinter den diplomatischen Signalen auch substanzielle politische Schritte folgen.",
-          "tag": "Geopolitik & Märkte",
+          "titel": "USA und China senken Zölle auf Waren im Wert von 60 Milliarden Dollar",
+          "zusammenfassung": "Washington und Peking haben sich auf gegenseitige Zollsenkungen bei Gütern im Wert von rund 60 Milliarden US-Dollar geeinigt, darunter amerikanische Spielzeug- und Sportartikelimporte sowie US-Agrarprodukte auf der chinesischen Seite. Die Einigung gilt als konkretes Ergebnis des jüngsten Trump-Xi-Gipfels.",
+          "bedeutung": "Die Zollsenkungen sind das bedeutendste handelsrechtliche Signal einer möglichen Deeskalation im sino-amerikanischen Handelskonflikt seit Jahren und beeinflussen die globalen Lieferketten unmittelbar.",
+          "hintergrund": "Nach Jahren von Strafzöllen, Gegenzöllen und Handelssanktionen signalisieren beide Supermächte mit dieser Vereinbarung eine vorsichtige Annäherung. Trump und Xi hatten sich vergangene Woche in Washington getroffen und weitere Treffen für das laufende Jahr angekündigt.\n\nDie Märkte reagierten positiv auf die Nachricht, da eine Entspannung im US-chinesischen Handelsstreit globale Lieferketten entlasten und Inflationsdruck in vielen Ländern mindern könnte. Ob die Annäherung nachhaltig ist, hängt davon ab, ob greifbare Fortschritte bei strukturellen Streitfragen erzielt werden.",
+          "tag": "US-China Handel",
           "emoji": "🤝",
           "quelle": "CNBC",
-          "quelle_url": "https://www.cnbc.com/2026/09/26/xi-trump-thucydides-trap-us-china.html"
+          "quelle_url": "https://www.cnbc.com/2026/09/28/us-china-lower-tariffs-trump-xi-meeting.html"
         }
       ]
     }
