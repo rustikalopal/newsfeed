@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-03T02:05:43.062951+00:00",
-  "datum": "Samstag, 3. Oktober 2026",
+  "generated_at": "2026-10-04T02:44:49.705329+00:00",
+  "datum": "Sonntag, 4. Oktober 2026",
   "ressorts": [
     {
       "id": "politik",
@@ -9,36 +9,36 @@
       "stories": [
         {
           "id": "politik-0",
-          "titel": "Russland bombardiert Kyiv: Infrastruktur massiv zerstört",
-          "zusammenfassung": "Russische Streitkräfte intensivieren ihre Angriffe auf die ukrainische Hauptstadt und treffen gezielt kritische Infrastruktur. Bürgermeister Vitali Klitschko warnt vor einer dramatischen humanitären Lage in der Stadt.",
-          "bedeutung": "Die systematische Zerstörung ziviler Infrastruktur in einer europäischen Hauptstadt verschärft den Druck auf westliche Verbündete, weitere Militärhilfe zu leisten.",
-          "hintergrund": "Seit Wochen häufen sich russische Raketen- und Drohnenangriffe auf Kyiv, die vor allem Energieanlagen, Wasserversorgung und Verkehrsknotenpunkte ins Visier nehmen. Die Bevölkerung leidet zunehmend unter Stromausfällen und eingeschränkter Versorgung, während die Temperaturen mit dem Beginn des Herbstes sinken.\n\nDie Angriffe folgen einem strategischen Muster: Durch die gezielte Schwächung der Infrastruktur soll der Widerstandswille der Zivilbevölkerung gebrochen werden. Internationale Beobachter sehen darin einen potenziellen Verstoß gegen das humanitäre Völkerrecht, während NATO-Staaten intern über erweiterte Luftabwehrsysteme für die Ukraine beraten.",
+          "titel": "Russland zerstört zweite wichtige Brücke in Kiew",
+          "zusammenfassung": "Russische Streitkräfte haben erneut die ukrainische Hauptstadt Kiew mit einem Raketenangriff getroffen und dabei die Pivnichnyi-Brücke schwer beschädigt. Der Angriff reiht sich in eine Serie gezielter Attacken auf kritische Infrastruktur der Stadt ein.",
+          "bedeutung": "Die systematische Zerstörung von Brücken in der Hauptstadt zeigt Russlands Strategie, die zivile und militärische Infrastruktur der Ukraine dauerhaft lahmzulegen.",
+          "hintergrund": "Kiew steht seit Monaten unter wiederholtem Beschuss, doch die gezielte Eskalation gegen Brücken markiert eine neue Phase des Krieges. Brücken sind nicht nur für die Mobilität der Bevölkerung entscheidend, sondern auch für Versorgungslinien und Truppenbewegungen.\n\nDie internationale Gemeinschaft reagiert mit wachsender Besorgnis auf die Angriffe auf Zivilinfrastruktur, die nach internationalem Recht als Kriegsverbrechen gewertet werden könnten. Der Druck auf westliche Partner, die ukrainische Luftabwehr weiter zu stärken, dürfte erneut zunehmen.",
           "tag": "Ukraine-Krieg",
           "emoji": "💥",
           "quelle": "BBC",
-          "quelle_url": "https://www.bbc.co.uk/news/articles/c6wyv44y4ywjo?at_medium=RSS&at_campaign=rss"
+          "quelle_url": "https://www.bbc.co.uk/news/articles/c83vqxzdg1yko?at_medium=RSS&at_campaign=rss"
         },
         {
           "id": "politik-1",
-          "titel": "Frankreich: Schüler protestieren gewaltsam gegen Bildungsnotstand",
-          "zusammenfassung": "In ganz Frankreich haben Schülerinnen und Schüler Schulen blockiert und Auseinandersetzungen mit der Polizei provoziert. Auslöser sind sinkende Bildungsstandards und ein eklatanter Lehrermangel, von dem rund 735 Schulen betroffen sind.",
-          "bedeutung": "Die Proteste legen strukturelle Schwächen des französischen Bildungssystems offen und setzen die Regierung innenpolitisch unter erheblichen Druck.",
-          "hintergrund": "Seit Wochen wächst in Frankreich der Unmut über überfüllte Klassenräume, fehlende Lehrkräfte und als unzureichend wahrgenommene staatliche Investitionen in das Bildungswesen. Die Bewegung wird vor allem von Gymnasiasten getragen, die zunehmend auch Unterstützung von Elternverbänden und Lehrergewerkschaften erhalten.\n\nDie Regierung steht vor einem Dilemma: Einerseits kann sie die Forderungen angesichts angespannter Haushaltslagen kurzfristig kaum erfüllen, andererseits drohen anhaltende Schulblockaden den Unterrichtsausfall weiter zu verschärfen. Frankreich reiht sich damit in eine europäische Serie bildungspolitischer Konflikte ein, die zuletzt auch Deutschland und Großbritannien erfasst hat.",
-          "tag": "Bildungsproteste",
-          "emoji": "✊",
+          "titel": "Flydubai-Kopilot soll Kapitän mit Axt angegriffen haben",
+          "zusammenfassung": "Einem Bericht eines emiratischen Behördenvertreters zufolge hat ein Kopilot während eines nach Israel gebundenen Fluges den Kapitän mit einer Axt attackiert und versucht, die Kontrolle über das Flugzeug zu übernehmen. Der mutmaßliche Täter wurde identifiziert und befindet sich in Gewahrsam.",
+          "bedeutung": "Der Vorfall wirft ernste Fragen zur Sicherheit im kommerziellen Luftverkehr auf und könnte neue Debatten über Screening-Verfahren für Cockpit-Personal auslösen.",
+          "hintergrund": "Sicherheitsvorfälle innerhalb von Cockpits gelten als extrem seltene, jedoch besonders schwerwiegende Bedrohungen der Luftfahrtsicherheit. Seit dem Germanwings-Absturz 2015 haben viele Fluggesellschaften Zwei-Personen-Regeln im Cockpit eingeführt, um solche Szenarien zu verhindern.\n\nDer Vorfall auf einem Flug nach Israel gibt dem Ereignis zusätzliche geopolitische Brisanz und wird von Sicherheitsbehörden mehrerer Länder aufmerksam verfolgt. Ermittler untersuchen derzeit das Motiv des Kopiloten sowie mögliche Sicherheitslücken beim Boarding.",
+          "tag": "Luftsicherheit",
+          "emoji": "✈️",
           "quelle": "BBC",
-          "quelle_url": "https://www.bbc.co.uk/news/articles/ck3r5dxxwqzpo?at_medium=RSS&at_campaign=rss"
+          "quelle_url": "https://www.bbc.co.uk/news/articles/c61wv7lgex13o?at_medium=RSS&at_campaign=rss"
         },
         {
           "id": "politik-2",
-          "titel": "G7 gibt 100 Millionen Barrel Ölreserven frei",
-          "zusammenfassung": "Die G7-Staaten haben sich auf eine koordinierte Freigabe strategischer Öl- und Dieselreserven geeinigt, um einem drohenden Preisanstieg entgegenzuwirken. Hintergrund ist die Drohung von US-Präsident Trump, Dieselexporte aus den USA zu unterbinden.",
-          "bedeutung": "Die konzertierte Aktion der führenden Industrienationen zeigt, wie eng Energiepolitik und geopolitische Spannungen inzwischen miteinander verknüpft sind.",
-          "hintergrund": "US-Präsident Donald Trump hatte angekündigt, Dieselexporte möglicherweise zu stoppen, um den Inlandsmarkt vor den US-Zwischenwahlen zu entlasten. Dies hätte jedoch weltweit Versorgungsengpässe und Preissprünge ausgelöst, insbesondere in Europa, das stark auf US-Energielieferungen angewiesen ist.\n\nMit der Freigabe von 100 Millionen Barrel aus den strategischen Reserven wollen die G7-Partner sowohl die Märkte beruhigen als auch das politische Signal senden, dass sie geschlossen auf einseitige protektionistische Maßnahmen reagieren können. Energieexperten warnen jedoch, dass derartige Freigaben allenfalls kurzfristig wirken und strukturelle Lösungen nicht ersetzen.",
-          "tag": "Energiepolitik",
-          "emoji": "🛢️",
+          "titel": "Massenproteste in Spanien wegen explodierender Mieten",
+          "zusammenfassung": "Hunderttausende Menschen gingen in über 50 spanischen Städten auf die Straße, um gegen die dramatisch gestiegenen Wohnkosten zu demonstrieren. Auslöser war auch das Scheitern eines Notstandsgesetzes der Regierung im Parlament.",
+          "bedeutung": "Die Proteste verdeutlichen, dass die Wohnungskrise in Europa politisch nicht mehr ignorierbar ist und Regierungen unter massiven Handlungsdruck geraten.",
+          "hintergrund": "Spanien erlebt wie viele europäische Länder einen massiven Anstieg der Miet- und Immobilienpreise, der vor allem junge Menschen und einkommensschwache Haushalte trifft. Der gescheiterte Gesetzgebungsversuch der Regierung von Pedro Sánchez hat die Frustration der Bevölkerung weiter angeheizt.\n\nDie Bewegung ist Teil eines breiteren europäischen Trends, in dem Wohnen zur sozialen Frage Nummer eins avanciert. Ökonomen warnen, dass ohne strukturelle Eingriffe in Angebot und Regulierung des Wohnungsmarktes gesellschaftliche Spannungen weiter zunehmen werden.",
+          "tag": "Wohnungskrise",
+          "emoji": "🏠",
           "quelle": "BBC",
-          "quelle_url": "https://www.bbc.co.uk/news/articles/ck87zg8jnwngo?at_medium=RSS&at_campaign=rss"
+          "quelle_url": "https://www.bbc.co.uk/news/articles/cm2kej47095no?at_medium=RSS&at_campaign=rss"
         }
       ]
     },
@@ -49,36 +49,36 @@
       "stories": [
         {
           "id": "wirtschaft-0",
-          "titel": "US-Arbeitsmarkt schwächelt deutlich vor Zwischenwahlen",
-          "zusammenfassung": "Der amerikanische Arbeitsmarkt hat im September einen merklichen Einbruch erlebt, mit nur 29.000 neu geschaffenen Stellen statt der erwarteten 84.000. Die Arbeitslosenquote stieg auf 4,2 Prozent, was Fragen zur wirtschaftlichen Stabilität der USA aufwirft.",
-          "bedeutung": "Ein schwächelnder Arbeitsmarkt kurz vor den US-Zwischenwahlen könnte die politische Stimmung erheblich beeinflussen und die wirtschaftspolitische Agenda der Regierung unter Druck setzen.",
-          "hintergrund": "Die enttäuschenden Beschäftigungszahlen für September übertrafen in ihrer Schwäche die pessimistischsten Prognosen der Wall Street. Ökonomen führen den Rückgang auf eine Kombination aus gestiegenen Zinsen, nachlassender Konsumnachfrage und zunehmender Unsicherheit bei Unternehmen zurück.\n\nPolitisch kommt der schlechte Bericht zur Unzeit: Die Regierung hatte in den Wochen zuvor wiederholt mit einem robusten Arbeitsmarkt geworben. Nun könnte der Datensatz den Oppositionsparteien wirksame Munition für den Wahlkampf in den verbleibenden Wochen bis zu den Midterms liefern.",
-          "tag": "US-Wirtschaft",
+          "titel": "USA drängen Europa zu Diesel-Freigabe unter Trump-Druck",
+          "zusammenfassung": "Die USA fordern ihre europäischen Partner auf, strategische Dieselreserven freizugeben, nachdem Präsident Trump mit einem Exportstopp für US-Diesel gedroht hat. Hintergrund sind stark gestiegene Kraftstoffpreise wenige Wochen vor den amerikanischen Midterm-Wahlen.",
+          "bedeutung": "Der Druck aus Washington offenbart, wie stark Energiepolitik und Innenpolitik in den USA miteinander verknüpft sind – mit potenziell weitreichenden Folgen für die globalen Energiemärkte.",
+          "hintergrund": "Trump steht vor den Zwischenwahlen unter erheblichem politischem Druck, die Kraftstoffpreise für amerikanische Verbraucher zu senken. Eine koordinierte internationale Freigabe von Reserven soll einen weiteren Preisanstieg verhindern und den US-Binnenmarkt entlasten.\n\nFür Europa bedeutet der Schritt einen Balanceakt: Einerseits will man die transatlantische Partnerschaft nicht belasten, andererseits stehen viele Länder selbst unter erheblichem Druck durch hohe Energiepreise. Kritiker warnen, dass kurzfristige Reservefreigaben strukturelle Marktprobleme nicht lösen.",
+          "tag": "Energiepreise",
+          "emoji": "⛽",
+          "quelle": "BBC",
+          "quelle_url": "https://www.bbc.co.uk/news/articles/c5zjzjgdeneeo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "id": "wirtschaft-1",
+          "titel": "US-Arbeitsmarkt schwächelt stark vor Midterm-Wahlen",
+          "zusammenfassung": "Im September entstanden in den USA lediglich 29.000 neue Stellen – weit weniger als erwartet – und die Arbeitslosenquote stieg auf 4,2 Prozent. Der schwache Bericht kommt zu einem politisch heiklen Zeitpunkt, einen Monat vor den Kongress-Zwischenwahlen.",
+          "bedeutung": "Der überraschend schwache Jobmarkt dürfte die wirtschaftspolitische Debatte in den USA verschärfen und die Geldpolitik der Federal Reserve unter Druck setzen.",
+          "hintergrund": "Ökonomen hatten für September rund 84.000 neue Stellen erwartet – das tatsächliche Ergebnis blieb damit massiv hinter den Prognosen zurück. Einige Analysten verweisen auf temporäre Faktoren wie Wirbelstürme und Streiks, die die Zahlen gedrückt haben könnten.\n\nFür die Regierung Trump sind die Zahlen innenpolitisch brisant, da wirtschaftliche Leistung ein zentrales Wahlkampfthema ist. Gleichzeitig spekulieren Märkte nun verstärkt darüber, ob die Fed angesichts der Schwäche ihren geplanten Kurs bei den Zinsen anpassen wird.",
+          "tag": "US-Konjunktur",
           "emoji": "📉",
           "quelle": "BBC",
           "quelle_url": "https://www.bbc.co.uk/news/articles/cm2d6gg0642yo?at_medium=RSS&at_campaign=rss"
         },
         {
-          "id": "wirtschaft-1",
-          "titel": "Nike verliert Marktanteile durch strategische Fehlentscheidungen",
-          "zusammenfassung": "Der weltgrößte Sportartikelhersteller steckt in einer selbstverschuldeten Krise, nachdem eine Reihe strategischer Fehlentscheidungen Marktanteile und Markenstärke geschwächt haben. Analysten sehen den Konzern an einem kritischen Scheideweg.",
-          "bedeutung": "Nikes Krise ist ein Lehrstück darüber, wie selbst globale Marktführer durch interne Fehler ihre Vormachtstellung verlieren können.",
-          "hintergrund": "In den vergangenen Jahren hatte Nike massiv auf den Direktvertrieb über eigene Kanäle gesetzt und dabei den stationären Handel vernachlässigt. Gleichzeitig verpasste der Konzern den Trend zu neuartigen Performance-Produkten und verlor Boden an aufstrebende Wettbewerber wie On Running und Hoka.\n\nHinzu kamen Führungsfragen und eine als zögerlich wahrgenommene Innovationsstrategie. Der einst unangefochtene Platzhirsch muss nun erhebliche Investitionen in Produktentwicklung, Markenkommunikation und Handelspartnerschaften stecken, um verlorenes Terrain zurückzugewinnen.",
-          "tag": "Markenkrise",
-          "emoji": "👟",
-          "quelle": "BBC",
-          "quelle_url": "https://www.bbc.co.uk/news/articles/c6je85jzk9y7o?at_medium=RSS&at_campaign=rss"
-        },
-        {
           "id": "wirtschaft-2",
-          "titel": "Trump droht mit Diesel-Exportsperre: Europa unter Druck",
-          "zusammenfassung": "Die US-Regierung hat Europa aufgefordert, eigene Dieselreserven freizugeben, nachdem Präsident Trump eine mögliche Unterbindung amerikanischer Dieselexporte ins Spiel gebracht hat. Der Schritt verdeutlicht die wachsenden Spannungen in der transatlantischen Energiepartnerschaft.",
-          "bedeutung": "Eine US-Exportsperre für Diesel würde Europa in eine ernste Versorgungskrise treiben und zeigt, wie verwundbar die europäische Energieversorgung gegenüber amerikanischen Alleingängen ist.",
-          "hintergrund": "Trump begründet die Exportdrohunung mit dem Wunsch, die Spritpreise in den USA vor den bevorstehenden Midterm-Wahlen zu senken. Europa bezieht erhebliche Mengen Diesel aus den Vereinigten Staaten, nachdem russische Lieferungen infolge des Ukraine-Krieges weitgehend weggefallen sind.\n\nDie Forderung Washingtons an europäische Partner, ihre strategischen Reserven zu öffnen, wird in Brüssel mit Skepsis aufgenommen. Energiepolitische Experten warnen, dass dies lediglich ein kurzfristiges Pflaster auf ein strukturelles Problem sein kann und langfristig die Abhängigkeit von einem einzigen Lieferanten nicht reduziert.",
-          "tag": "Energieversorgung",
-          "emoji": "⛽",
+          "titel": "Frankreich: Schüler protestieren gewaltsam gegen Bildungsmisere",
+          "zusammenfassung": "In Frankreich kam es an rund 735 Schulen zu Protesten und Blockaden, bei denen Schüler gegen Lehrermangel und sinkende Unterrichtsqualität demonstrierten. Bereitschaftspolizei wurde eingesetzt, nachdem die Kundgebungen an mehreren Orten in Ausschreitungen umschlugen.",
+          "bedeutung": "Die Proteste zeigen einen wachsenden gesellschaftlichen Unmut über den Zustand des französischen Bildungssystems und stellen die Regierung vor erheblichen innenpolitischen Handlungsdruck.",
+          "hintergrund": "Frankreichs Bildungssystem leidet seit Jahren unter chronischem Lehrermangel, der sich nach der Pandemie weiter verschärft hat. Schüler und Eltern beklagen zunehmend überfüllte Klassen und Unterrichtsausfall.\n\nDie Ausschreitungen erinnern an frühere soziale Bewegungen in Frankreich und könnten sich zu einem breiteren politischen Thema entwickeln, das über den Bildungsbereich hinausgeht. Die Regierung steht unter Druck, kurzfristig sichtbare Maßnahmen anzukündigen.",
+          "tag": "Bildungsprotest",
+          "emoji": "🎓",
           "quelle": "BBC",
-          "quelle_url": "https://www.bbc.co.uk/news/articles/c5zjzjgdeneeo?at_medium=RSS&at_campaign=rss"
+          "quelle_url": "https://www.bbc.co.uk/news/articles/ck3r5dxxwqzpo?at_medium=RSS&at_campaign=rss"
         }
       ]
     },
@@ -89,32 +89,32 @@
       "stories": [
         {
           "id": "boerse-0",
-          "titel": "Nur 29.000 Jobs: US-Arbeitsmarktbericht enttäuscht massiv",
-          "zusammenfassung": "Der offizielle US-Arbeitsmarktbericht für September verfehlte die Erwartungen der Märkte deutlich: Lediglich 29.000 neue Stellen wurden geschaffen, die Arbeitslosenquote kletterte auf 4,2 Prozent. Anleger reagierten mit Unsicherheit auf die schwachen Daten.",
-          "bedeutung": "Schwache Beschäftigungszahlen verschieben die Erwartungen der Märkte hinsichtlich der weiteren Zinspolitik der US-Notenbank und beeinflussen damit direkt globale Aktien- und Anleihemärkte.",
-          "hintergrund": "Der sogenannte Nonfarm-Payrolls-Bericht gilt als einer der wichtigsten Stimmungsindikatoren an den Finanzmärkten. Ein so deutliches Verfehlen der Prognosen – Ökonomen hatten im Schnitt 84.000 neue Stellen erwartet – löst in der Regel erhebliche Kursbewegungen aus.\n\nInsbesondere Anleihen legten nach der Veröffentlichung zu, da Investoren nun seltener mit einer weiteren Zinserhöhung der Federal Reserve rechnen. Für Aktienmärkte ist das Signal gemischter: Einerseits könnte ein weniger aggressiver Fed-Kurs Erleichterung bringen, andererseits deutet eine schwache Beschäftigung auf eine konjunkturelle Abkühlung hin.",
-          "tag": "Fed & Jobs",
-          "emoji": "📊",
+          "titel": "Nur 29.000 neue Jobs: Wall Street korrigiert Fed-Erwartungen",
+          "zusammenfassung": "Der überraschend schwache US-Arbeitsmarktbericht für September ließ an den Finanzmärkten die Erwartungen an eine baldige Zinserhöhung durch die Federal Reserve rapide sinken. Händler reduzierten die Wahrscheinlichkeit einer Fed-Erhöhung im Oktober auf ein Minimum.",
+          "bedeutung": "Die Neubewertung der Zinspolitik ist ein unmittelbarer Marktbeweger und beeinflusst Anleihen, Aktien und den Dollarkurs weltweit.",
+          "hintergrund": "Schwache Arbeitsmarktdaten gelten als klares Signal, dass die Wirtschaft an Schwung verliert, was die Fed dazu veranlassen könnte, vorsichtiger bei weiteren Zinserhöhungen vorzugehen. Die Märkte reagierten entsprechend mit einer Neubewertung der Zinserwartungen.\n\nFür Investoren bedeutet ein längerer Zinspause-Modus in der Regel Rückenwind für Aktien und Druck auf den US-Dollar. Die Debatte dreht sich nun darum, ob die Schwäche temporär oder strukturell ist – eine Frage, die die Märkte in den kommenden Wochen beschäftigen dürfte.",
+          "tag": "Fed-Zinsen",
+          "emoji": "🏦",
           "quelle": "CNBC",
           "quelle_url": "https://www.cnbc.com/2026/10/02/jobs-report-september-2026.html"
         },
         {
           "id": "boerse-1",
-          "titel": "Fed-Zinserhöhung im Oktober immer unwahrscheinlicher",
-          "zusammenfassung": "Nach dem schwachen US-Arbeitsmarktbericht haben Händler ihre Erwartungen für eine weitere Leitzinserhöhung der Federal Reserve im Oktober drastisch zurückgeschraubt. Die Wahrscheinlichkeit eines weiteren Schritts nach oben gilt an den Terminmärkten nun als gering.",
-          "bedeutung": "Die sich verändernden Zinserwartungen wirken sich unmittelbar auf Anleiherenditen, Währungen und Aktienindizes weltweit aus.",
-          "hintergrund": "Über Monate hatte die US-Notenbank signalisiert, die Zinsen so lange hoch zu halten, wie es die Inflationsbekämpfung erfordert. Der nun überraschend schwache Stellenaufbau legt jedoch nahe, dass die Wirtschaft stärker als erwartet unter dem Gewicht der bisherigen Zinserhöhungen leidet.\n\nTerminmarkt-Händler preisen nun mit deutlich höherer Wahrscheinlichkeit eine Pause ein. Für Investoren bedeutet das eine Neubewertung von Risikoanlagen: Staatsanleihen werden attraktiver, während der US-Dollar leichten Abwärtsdruck verspürt.",
-          "tag": "Zinspolitik",
-          "emoji": "🏦",
+          "titel": "Wall Street wappnet sich für Brasiliens Präsidentschaftswahl",
+          "zusammenfassung": "Wenige Stunden vor dem ersten Wahlgang der brasilianischen Präsidentschaftswahl zwischen Lula da Silva und Jair Bolsonaro bereiten sich internationale Investoren auf stark divergierende Marktszenarien vor. Je nach Wahlausgang rechnen Analysten mit erheblichen Ausschlägen an den brasilianischen Märkten.",
+          "bedeutung": "Als größte Volkswirtschaft Lateinamerikas hat Brasiliens politische Richtung erhebliche Auswirkungen auf Schwellenländermärkte, Rohstoffpreise und globale Investitionsflüsse.",
+          "hintergrund": "Lula und Bolsonaro stehen für grundlegend unterschiedliche Wirtschaftsmodelle: Lula setzt auf stärkere Staatsintervention und soziale Programme, während Bolsonaro auf Marktliberalisierung und Privatisierung setzt. Diese Gegensätze machen den Ausgang für Finanzmärkte besonders relevant.\n\nBesondere Aufmerksamkeit gilt dem brasilianischen Real, den Indizes Bovespa und dem Agrarsektorindex, der für globale Nahrungsmittelpreise mitentscheidend ist. Hedgefonds haben nach Informationen aus Marktkreisen bereits Positionen aufgebaut, die beide möglichen Wahlausgänge absichern sollen.",
+          "tag": "Brasilien-Wahl",
+          "emoji": "🗳️",
           "quelle": "CNBC",
-          "quelle_url": "https://www.cnbc.com/2026/10/02/fed-rate-hike-odds-decline-after-september-jobs-report.html"
+          "quelle_url": "https://www.cnbc.com/2026/10/03/lula-or-bolsonaro-wall-street-braces-for-two-wildly-different-results-in-brazil-election.html"
         },
         {
           "id": "boerse-2",
-          "titel": "Krypto-Börse Bitget nach 388-Millionen-Hack in der Krise",
-          "zusammenfassung": "Die Kryptobörse Bitget wurde Opfer eines der größten Hacks der jüngeren Geschichte und verlor dabei rund 388 Millionen US-Dollar. Die Plattform geht laut eigener Aussage nicht davon aus, einen Großteil der gestohlenen Mittel zurückzuerhalten.",
-          "bedeutung": "Der Vorfall erschüttert erneut das Vertrauen in die Sicherheitsarchitektur zentralisierter Kryptobörsen und befeuert die Debatte um strengere Regulierung.",
-          "hintergrund": "Bitget gehört zu den mittelgroßen globalen Kryptobörsen und hatte in den vergangenen Jahren stark an Nutzerzahlen gewonnen. Der Angriff, dessen genaue technische Details noch nicht vollständig offengelegt wurden, gelang es den Angreifern, einen erheblichen Teil des Plattformvermögens zu entwenden.\n\nDie Börse konnte nach eigenen Angaben nur einen kleinen Bruchteil der gestohlenen Summe einfrieren und hat ihren Schutzfonds weitgehend wiederhergestellt, um Nutzergelder abzusichern. Branchenexperten sehen den Vorfall als weiteren Beleg dafür, dass der Sektor dringend technische und regulatorische Mindeststandards benötigt.",
+          "titel": "Krypto-Hack bei Bitget: 388 Millionen Dollar kaum rückholbar",
+          "zusammenfassung": "Die Kryptobörse Bitget erwartet nach einem massiven Hackerangriff der vergangenen Woche kaum Chancen, den Großteil der gestohlenen rund 388 Millionen US-Dollar zurückzugewinnen. Das Unternehmen konnte bislang nur einen kleinen Bruchteil der Mittel einfrieren, hat aber den Schutzfonds weitgehend wiederhergestellt.",
+          "bedeutung": "Der Vorfall ist einer der größten Krypto-Hacks des Jahres und schürt erneut Debatten über Sicherheitsstandards und Regulierung im digitalen Finanzsektor.",
+          "hintergrund": "Der Angriff auf Bitget reiht sich in eine Serie spektakulärer Hacks von Kryptoplattformen ein, die zusammen Milliardenschäden verursacht haben. Die relative Machtlosigkeit der Börse bei der Rückholung der Gelder zeigt die strukturellen Schwächen dezentraler Finanzsysteme.\n\nRegulierungsbehörden in mehreren Ländern dürften den Fall als weiteres Argument für strengere Aufsicht über Kryptobörsen anführen. Anleger und Branchenbeobachter warten gespannt, ob Bitget seine Kunden vollständig entschädigen kann.",
           "tag": "Krypto-Sicherheit",
           "emoji": "🔓",
           "quelle": "CNBC",
