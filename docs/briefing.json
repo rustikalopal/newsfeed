@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-04T02:44:49.705329+00:00",
-  "datum": "Sonntag, 4. Oktober 2026",
+  "generated_at": "2026-10-05T02:05:19.406545+00:00",
+  "datum": "Montag, 5. Oktober 2026",
   "ressorts": [
     {
       "id": "politik",
@@ -9,36 +9,36 @@
       "stories": [
         {
           "id": "politik-0",
-          "titel": "Russland zerstört zweite wichtige Brücke in Kiew",
-          "zusammenfassung": "Russische Streitkräfte haben erneut die ukrainische Hauptstadt Kiew mit einem Raketenangriff getroffen und dabei die Pivnichnyi-Brücke schwer beschädigt. Der Angriff reiht sich in eine Serie gezielter Attacken auf kritische Infrastruktur der Stadt ein.",
-          "bedeutung": "Die systematische Zerstörung von Brücken in der Hauptstadt zeigt Russlands Strategie, die zivile und militärische Infrastruktur der Ukraine dauerhaft lahmzulegen.",
-          "hintergrund": "Kiew steht seit Monaten unter wiederholtem Beschuss, doch die gezielte Eskalation gegen Brücken markiert eine neue Phase des Krieges. Brücken sind nicht nur für die Mobilität der Bevölkerung entscheidend, sondern auch für Versorgungslinien und Truppenbewegungen.\n\nDie internationale Gemeinschaft reagiert mit wachsender Besorgnis auf die Angriffe auf Zivilinfrastruktur, die nach internationalem Recht als Kriegsverbrechen gewertet werden könnten. Der Druck auf westliche Partner, die ukrainische Luftabwehr weiter zu stärken, dürfte erneut zunehmen.",
+          "titel": "Russland trifft Kiewer Brücke – Scholz besucht Ukraine",
+          "zusammenfassung": "Eine russische Drohne schlug erneut in die Nördliche Brücke Kiews ein und löste einen massiven Feuerschein aus, während Fahrzeuge die Brücke überquerten. Gleichzeitig stattete Bundeskanzler Scholz der Ukraine einen überraschenden Besuch ab.",
+          "bedeutung": "Gezielte Angriffe auf zivile Infrastruktur in der Hauptstadt unterstreichen die anhaltende Eskalation des Krieges und setzen das Signal für weiteren westlichen Beistand.",
+          "hintergrund": "Russland hat die Nördliche Brücke Kiews binnen zwei Tagen zweimal angegriffen – ein deutliches Zeichen, dass kritische Infrastruktur der ukrainischen Hauptstadt systematisch ins Visier genommen wird. Die Angriffe treffen eine Stadt, die trotz mehr als zweieinhalb Jahren Krieg weitgehend funktionsfähig geblieben ist.\n\nScholz' Überraschungsbesuch in Kiew fiel bewusst in diesen Moment erhöhter Bedrohung und soll die Solidarität Berlins mit der Ukraine bekräftigen. Deutschland zählt zu den größten Unterstützern Kyivs in Europa, steht aber innenpolitisch unter zunehmendem Druck, die Militärhilfe zu begrenzen.",
           "tag": "Ukraine-Krieg",
           "emoji": "💥",
           "quelle": "BBC",
-          "quelle_url": "https://www.bbc.co.uk/news/articles/c83vqxzdg1yko?at_medium=RSS&at_campaign=rss"
+          "quelle_url": "https://www.bbc.co.uk/news/articles/ckreyjzzzywqo?at_medium=RSS&at_campaign=rss"
         },
         {
           "id": "politik-1",
-          "titel": "Flydubai-Kopilot soll Kapitän mit Axt angegriffen haben",
-          "zusammenfassung": "Einem Bericht eines emiratischen Behördenvertreters zufolge hat ein Kopilot während eines nach Israel gebundenen Fluges den Kapitän mit einer Axt attackiert und versucht, die Kontrolle über das Flugzeug zu übernehmen. Der mutmaßliche Täter wurde identifiziert und befindet sich in Gewahrsam.",
-          "bedeutung": "Der Vorfall wirft ernste Fragen zur Sicherheit im kommerziellen Luftverkehr auf und könnte neue Debatten über Screening-Verfahren für Cockpit-Personal auslösen.",
-          "hintergrund": "Sicherheitsvorfälle innerhalb von Cockpits gelten als extrem seltene, jedoch besonders schwerwiegende Bedrohungen der Luftfahrtsicherheit. Seit dem Germanwings-Absturz 2015 haben viele Fluggesellschaften Zwei-Personen-Regeln im Cockpit eingeführt, um solche Szenarien zu verhindern.\n\nDer Vorfall auf einem Flug nach Israel gibt dem Ereignis zusätzliche geopolitische Brisanz und wird von Sicherheitsbehörden mehrerer Länder aufmerksam verfolgt. Ermittler untersuchen derzeit das Motiv des Kopiloten sowie mögliche Sicherheitslücken beim Boarding.",
-          "tag": "Luftsicherheit",
-          "emoji": "✈️",
+          "titel": "Jemen erklärt Vollkrieg gegen Huthi-Rebellen",
+          "zusammenfassung": "Der jemenitische Präsident rief angesichts eskalierender Gegenschläge zwischen Huthis und der saudi-geführten Koalition den totalen Krieg zur Rückeroberung von Huthi-Territorium aus. Der Schritt markiert eine deutliche Verschärfung des seit Jahren andauernden Konflikts.",
+          "bedeutung": "Eine offizielle Kriegserklärung der Regierung im Jemen könnte den humanitären Ausnahmezustand in der Region weiter verschlimmern und die gesamte Golfregion destabilisieren.",
+          "hintergrund": "Der Jemenkonflikt dauert bereits seit 2015 an und hat eine der schlimmsten humanitären Katastrophen der Welt ausgelöst. Die Huthis, unterstützt vom Iran, kontrollieren weite Teile des Landes einschließlich der Hauptstadt Sanaa und haben sich trotz intensiver Bombardierungen als militärische Macht behauptet.\n\nDie neue Eskalation fällt in eine Phase, in der die Huthis auch international durch Angriffe auf Handelsschiffe im Roten Meer für Aufsehen gesorgt haben. Eine weitere Ausweitung der Kampfhandlungen bedroht sowohl die regionale Stabilität als auch lebenswichtige Seehandelsrouten.",
+          "tag": "Jemen-Konflikt",
+          "emoji": "⚔️",
           "quelle": "BBC",
-          "quelle_url": "https://www.bbc.co.uk/news/articles/c61wv7lgex13o?at_medium=RSS&at_campaign=rss"
+          "quelle_url": "https://www.bbc.co.uk/news/articles/cx8dzj9vpp01o?at_medium=RSS&at_campaign=rss"
         },
         {
           "id": "politik-2",
-          "titel": "Massenproteste in Spanien wegen explodierender Mieten",
-          "zusammenfassung": "Hunderttausende Menschen gingen in über 50 spanischen Städten auf die Straße, um gegen die dramatisch gestiegenen Wohnkosten zu demonstrieren. Auslöser war auch das Scheitern eines Notstandsgesetzes der Regierung im Parlament.",
-          "bedeutung": "Die Proteste verdeutlichen, dass die Wohnungskrise in Europa politisch nicht mehr ignorierbar ist und Regierungen unter massiven Handlungsdruck geraten.",
-          "hintergrund": "Spanien erlebt wie viele europäische Länder einen massiven Anstieg der Miet- und Immobilienpreise, der vor allem junge Menschen und einkommensschwache Haushalte trifft. Der gescheiterte Gesetzgebungsversuch der Regierung von Pedro Sánchez hat die Frustration der Bevölkerung weiter angeheizt.\n\nDie Bewegung ist Teil eines breiteren europäischen Trends, in dem Wohnen zur sozialen Frage Nummer eins avanciert. Ökonomen warnen, dass ohne strukturelle Eingriffe in Angebot und Regulierung des Wohnungsmarktes gesellschaftliche Spannungen weiter zunehmen werden.",
-          "tag": "Wohnungskrise",
-          "emoji": "🏠",
+          "titel": "Brasilien-Wahl: Flávio Bolsonaro erzwingt Stichwahl gegen Lula",
+          "zusammenfassung": "Der rechtsgerichtete Kandidat Flávio Bolsonaro gewann die erste Runde der brasilianischen Präsidentschaftswahl, verfehlte aber die absolute Mehrheit. Damit kommt es am 25. Oktober zur Stichwahl gegen Amtsinhaber Luiz Inácio Lula da Silva.",
+          "bedeutung": "Das Ergebnis in der größten Volkswirtschaft Lateinamerikas wird weitreichende Folgen für Handels-, Klima- und Sicherheitspolitik in der gesamten Region haben.",
+          "hintergrund": "Brasilien mit seinen mehr als 215 Millionen Einwohnern steht erneut vor einer politischen Richtungsentscheidung zwischen links und rechts. Amtsinhaber Lula hatte nach seinem knappen Wahlsieg 2022 gegen Flávios Vater Jair Bolsonaro auf eine Stärkung sozialer Programme und internationaler Klimakooperation gesetzt.\n\nDie starke Erstrundenperformance Flávio Bolsonaros zeigt, dass das rechtsnationale Lager in Brasilien trotz der Ausschreitungen nach der Wahl 2022 nichts an Rückhalt verloren hat. Umfragen sehen die Stichwahl als äußerst knapp an – mit ungewissem Ausgang für Lateinamerikas Schwergewicht.",
+          "tag": "Brasilien-Wahl",
+          "emoji": "🗳️",
           "quelle": "BBC",
-          "quelle_url": "https://www.bbc.co.uk/news/articles/cm2kej47095no?at_medium=RSS&at_campaign=rss"
+          "quelle_url": "https://www.bbc.co.uk/news/articles/ck1l34ed592no?at_medium=RSS&at_campaign=rss"
         }
       ]
     },
@@ -49,36 +49,36 @@
       "stories": [
         {
           "id": "wirtschaft-0",
-          "titel": "USA drängen Europa zu Diesel-Freigabe unter Trump-Druck",
-          "zusammenfassung": "Die USA fordern ihre europäischen Partner auf, strategische Dieselreserven freizugeben, nachdem Präsident Trump mit einem Exportstopp für US-Diesel gedroht hat. Hintergrund sind stark gestiegene Kraftstoffpreise wenige Wochen vor den amerikanischen Midterm-Wahlen.",
-          "bedeutung": "Der Druck aus Washington offenbart, wie stark Energiepolitik und Innenpolitik in den USA miteinander verknüpft sind – mit potenziell weitreichenden Folgen für die globalen Energiemärkte.",
-          "hintergrund": "Trump steht vor den Zwischenwahlen unter erheblichem politischem Druck, die Kraftstoffpreise für amerikanische Verbraucher zu senken. Eine koordinierte internationale Freigabe von Reserven soll einen weiteren Preisanstieg verhindern und den US-Binnenmarkt entlasten.\n\nFür Europa bedeutet der Schritt einen Balanceakt: Einerseits will man die transatlantische Partnerschaft nicht belasten, andererseits stehen viele Länder selbst unter erheblichem Druck durch hohe Energiepreise. Kritiker warnen, dass kurzfristige Reservefreigaben strukturelle Marktprobleme nicht lösen.",
-          "tag": "Energiepreise",
-          "emoji": "⛽",
+          "titel": "Trump gründet KI-Aufsichtsbehörde unter Geheimdienstchef",
+          "zusammenfassung": "US-Präsident Trump kündigte die Schaffung einer sogenannten 'Super Intelligence Force' an, die künftig die amerikanische KI-Politik koordinieren soll. Den Vorsitz soll der nationale Geheimdienstdirektor übernehmen.",
+          "bedeutung": "Die Entscheidung, KI-Governance unter dem Dach des Geheimdienstapparates anzusiedeln, hat weitreichende Konsequenzen für globale Regulierungsdebatten und den Technologiewettbewerb mit China.",
+          "hintergrund": "Künstliche Intelligenz ist längst zum zentralen Schauplatz des geopolitischen Machtwettbewerbs geworden. Die USA, China und die EU ringen um die Vorherrschaft bei KI-Technologien, die militärische, wirtschaftliche und gesellschaftliche Strukturen grundlegend verändern könnten.\n\nDie Entscheidung, die neue Taskforce dem nationalen Geheimdienstchef zu unterstellen, signalisiert, dass Washington KI primär als Sicherheits- und nicht als Wirtschaftsfrage behandelt. Kritiker befürchten mangelnde Transparenz und eine Versicherheitlichung einer Technologie, die auch zivile und demokratische Grundwerte berührt.",
+          "tag": "KI-Regulierung",
+          "emoji": "🤖",
           "quelle": "BBC",
-          "quelle_url": "https://www.bbc.co.uk/news/articles/c5zjzjgdeneeo?at_medium=RSS&at_campaign=rss"
+          "quelle_url": "https://www.bbc.co.uk/news/articles/cqj6jenp26zyo?at_medium=RSS&at_campaign=rss"
         },
         {
           "id": "wirtschaft-1",
-          "titel": "US-Arbeitsmarkt schwächelt stark vor Midterm-Wahlen",
-          "zusammenfassung": "Im September entstanden in den USA lediglich 29.000 neue Stellen – weit weniger als erwartet – und die Arbeitslosenquote stieg auf 4,2 Prozent. Der schwache Bericht kommt zu einem politisch heiklen Zeitpunkt, einen Monat vor den Kongress-Zwischenwahlen.",
-          "bedeutung": "Der überraschend schwache Jobmarkt dürfte die wirtschaftspolitische Debatte in den USA verschärfen und die Geldpolitik der Federal Reserve unter Druck setzen.",
-          "hintergrund": "Ökonomen hatten für September rund 84.000 neue Stellen erwartet – das tatsächliche Ergebnis blieb damit massiv hinter den Prognosen zurück. Einige Analysten verweisen auf temporäre Faktoren wie Wirbelstürme und Streiks, die die Zahlen gedrückt haben könnten.\n\nFür die Regierung Trump sind die Zahlen innenpolitisch brisant, da wirtschaftliche Leistung ein zentrales Wahlkampfthema ist. Gleichzeitig spekulieren Märkte nun verstärkt darüber, ob die Fed angesichts der Schwäche ihren geplanten Kurs bei den Zinsen anpassen wird.",
-          "tag": "US-Konjunktur",
-          "emoji": "📉",
+          "titel": "Indiens gefährliche Abhängigkeit von chinesischen Importen wächst",
+          "zusammenfassung": "Trotz politischer Spannungen zwischen Neu-Delhi und Peking ist Indiens Abhängigkeit von Waren aus China in vielen Branchen gestiegen statt gesunken. Spielzeugläden gelten dabei als Sinnbild einer tiefer verwurzelten strukturellen Abhängigkeit.",
+          "bedeutung": "Als aufstrebende Großmacht und strategischer Gegenpart Chinas kann Indiens wirtschaftliche Verflechtung mit Peking das geopolitische Gleichgewicht in Asien erheblich beeinflussen.",
+          "hintergrund": "Seit dem tödlichen Grenzkonflikt im Himalaya 2020 versucht Indien politisch, auf Distanz zu China zu gehen – wirtschaftlich gelingt das jedoch kaum. Chinesische Waren dominieren Märkte von Elektronik bis Spielzeug, weil heimische Produzenten preislich nicht mithalten können.\n\nDie Situation offenbart ein strukturelles Dilemma vieler Schwellenländer: Während die politische Rhetorik auf Entkopplung setzt, sorgen Kostendruck und fehlende Alternativen dafür, dass die Handelsströme weiter in Richtung China fließen. Für Indiens Ambitionen als globale Wirtschaftsmacht ist das ein erhebliches Problem.",
+          "tag": "Indien-China",
+          "emoji": "🏭",
           "quelle": "BBC",
-          "quelle_url": "https://www.bbc.co.uk/news/articles/cm2d6gg0642yo?at_medium=RSS&at_campaign=rss"
+          "quelle_url": "https://www.bbc.co.uk/news/articles/c5pve834grpno?at_medium=RSS&at_campaign=rss"
         },
         {
           "id": "wirtschaft-2",
-          "titel": "Frankreich: Schüler protestieren gewaltsam gegen Bildungsmisere",
-          "zusammenfassung": "In Frankreich kam es an rund 735 Schulen zu Protesten und Blockaden, bei denen Schüler gegen Lehrermangel und sinkende Unterrichtsqualität demonstrierten. Bereitschaftspolizei wurde eingesetzt, nachdem die Kundgebungen an mehreren Orten in Ausschreitungen umschlugen.",
-          "bedeutung": "Die Proteste zeigen einen wachsenden gesellschaftlichen Unmut über den Zustand des französischen Bildungssystems und stellen die Regierung vor erheblichen innenpolitischen Handlungsdruck.",
-          "hintergrund": "Frankreichs Bildungssystem leidet seit Jahren unter chronischem Lehrermangel, der sich nach der Pandemie weiter verschärft hat. Schüler und Eltern beklagen zunehmend überfüllte Klassen und Unterrichtsausfall.\n\nDie Ausschreitungen erinnern an frühere soziale Bewegungen in Frankreich und könnten sich zu einem breiteren politischen Thema entwickeln, das über den Bildungsbereich hinausgeht. Die Regierung steht unter Druck, kurzfristig sichtbare Maßnahmen anzukündigen.",
-          "tag": "Bildungsprotest",
-          "emoji": "🎓",
+          "titel": "G7 pumpt Millionen Barrel Öl auf den Markt",
+          "zusammenfassung": "Die G7-Staaten haben sich auf eine koordinierte Freigabe strategischer Ölreserven geeinigt, um einem drohenden Preisschock entgegenzuwirken. Hintergrund ist eine Drohung der US-Regierung, Dieselexporte zu beschränken.",
+          "bedeutung": "Koordinierte Eingriffe der führenden Industrienationen in den globalen Ölmarkt können Energiepreise und damit die Inflation weltweit unmittelbar beeinflussen.",
+          "hintergrund": "Die globalen Energiemärkte stehen unter erheblichem Druck: Förderkürzungen der OPEC+, anhaltende geopolitische Unsicherheiten und saisonale Nachfragespitzen haben die Preise zuletzt nach oben getrieben. Die G7-Reaktion soll ein starkes Signal senden, dass die Industriestaaten bereit sind, Preisexzesse gemeinsam zu bekämpfen.\n\nBesonders die angedrohten US-Dieselexportbeschränkungen hatten Alarmstimmung ausgelöst, da Europa stark auf amerikanische Diesellieferungen angewiesen ist. Die koordinierte Reservenfreigabe soll nun Lieferengpässe abfedern und Spekulationswellen eindämmen.",
+          "tag": "Energiemarkt",
+          "emoji": "🛢️",
           "quelle": "BBC",
-          "quelle_url": "https://www.bbc.co.uk/news/articles/ck3r5dxxwqzpo?at_medium=RSS&at_campaign=rss"
+          "quelle_url": "https://www.bbc.co.uk/news/articles/ck87zg8jnwngo?at_medium=RSS&at_campaign=rss"
         }
       ]
     },
@@ -89,36 +89,14 @@
       "stories": [
         {
           "id": "boerse-0",
-          "titel": "Nur 29.000 neue Jobs: Wall Street korrigiert Fed-Erwartungen",
-          "zusammenfassung": "Der überraschend schwache US-Arbeitsmarktbericht für September ließ an den Finanzmärkten die Erwartungen an eine baldige Zinserhöhung durch die Federal Reserve rapide sinken. Händler reduzierten die Wahrscheinlichkeit einer Fed-Erhöhung im Oktober auf ein Minimum.",
-          "bedeutung": "Die Neubewertung der Zinspolitik ist ein unmittelbarer Marktbeweger und beeinflusst Anleihen, Aktien und den Dollarkurs weltweit.",
-          "hintergrund": "Schwache Arbeitsmarktdaten gelten als klares Signal, dass die Wirtschaft an Schwung verliert, was die Fed dazu veranlassen könnte, vorsichtiger bei weiteren Zinserhöhungen vorzugehen. Die Märkte reagierten entsprechend mit einer Neubewertung der Zinserwartungen.\n\nFür Investoren bedeutet ein längerer Zinspause-Modus in der Regel Rückenwind für Aktien und Druck auf den US-Dollar. Die Debatte dreht sich nun darum, ob die Schwäche temporär oder strukturell ist – eine Frage, die die Märkte in den kommenden Wochen beschäftigen dürfte.",
-          "tag": "Fed-Zinsen",
-          "emoji": "🏦",
-          "quelle": "CNBC",
-          "quelle_url": "https://www.cnbc.com/2026/10/02/jobs-report-september-2026.html"
-        },
-        {
-          "id": "boerse-1",
-          "titel": "Wall Street wappnet sich für Brasiliens Präsidentschaftswahl",
-          "zusammenfassung": "Wenige Stunden vor dem ersten Wahlgang der brasilianischen Präsidentschaftswahl zwischen Lula da Silva und Jair Bolsonaro bereiten sich internationale Investoren auf stark divergierende Marktszenarien vor. Je nach Wahlausgang rechnen Analysten mit erheblichen Ausschlägen an den brasilianischen Märkten.",
-          "bedeutung": "Als größte Volkswirtschaft Lateinamerikas hat Brasiliens politische Richtung erhebliche Auswirkungen auf Schwellenländermärkte, Rohstoffpreise und globale Investitionsflüsse.",
-          "hintergrund": "Lula und Bolsonaro stehen für grundlegend unterschiedliche Wirtschaftsmodelle: Lula setzt auf stärkere Staatsintervention und soziale Programme, während Bolsonaro auf Marktliberalisierung und Privatisierung setzt. Diese Gegensätze machen den Ausgang für Finanzmärkte besonders relevant.\n\nBesondere Aufmerksamkeit gilt dem brasilianischen Real, den Indizes Bovespa und dem Agrarsektorindex, der für globale Nahrungsmittelpreise mitentscheidend ist. Hedgefonds haben nach Informationen aus Marktkreisen bereits Positionen aufgebaut, die beide möglichen Wahlausgänge absichern sollen.",
-          "tag": "Brasilien-Wahl",
-          "emoji": "🗳️",
+          "titel": "Wall Street kalkuliert Brasilien-Wahl mit widersprüchlichen Szenarien",
+          "zusammenfassung": "Investoren an der Wall Street bereiten sich auf zwei fundamental verschiedene Marktreaktionen je nach Ausgang der brasilianischen Stichwahl am 25. Oktober vor. Lula und Flávio Bolsonaro stehen für entgegengesetzte Wirtschaftsphilosophien.",
+          "bedeutung": "Brasilien ist der größte Kapitalmarkt Lateinamerikas – ein politischer Kurswechsel hätte spürbare Auswirkungen auf Schwellenländerindizes und Rohstoffmärkte weltweit.",
+          "hintergrund": "Unter Lula haben staatliche Eingriffe, höhere Sozialausgaben und eine skeptische Haltung gegenüber ausländischen Investoren das Kapitalmarktklima belastet, auch wenn die Wirtschaft insgesamt gewachsen ist. Bolsonaro-nahe Kräfte signalisieren dagegen einen marktliberaleren Kurs mit Privatisierungen und Haushaltsdisziplin.\n\nHedgefonds und institutionelle Anleger positionieren sich bereits für beide Szenarien, was schon vor der Stichwahl zu erhöhter Volatilität beim brasilianischen Real und an der Bovespa-Börse führt. Besonders Rohstoff- und Agraraktien gelten als politisch besonders sensitiv.",
+          "tag": "Schwellenländer",
+          "emoji": "📈",
           "quelle": "CNBC",
           "quelle_url": "https://www.cnbc.com/2026/10/03/lula-or-bolsonaro-wall-street-braces-for-two-wildly-different-results-in-brazil-election.html"
-        },
-        {
-          "id": "boerse-2",
-          "titel": "Krypto-Hack bei Bitget: 388 Millionen Dollar kaum rückholbar",
-          "zusammenfassung": "Die Kryptobörse Bitget erwartet nach einem massiven Hackerangriff der vergangenen Woche kaum Chancen, den Großteil der gestohlenen rund 388 Millionen US-Dollar zurückzugewinnen. Das Unternehmen konnte bislang nur einen kleinen Bruchteil der Mittel einfrieren, hat aber den Schutzfonds weitgehend wiederhergestellt.",
-          "bedeutung": "Der Vorfall ist einer der größten Krypto-Hacks des Jahres und schürt erneut Debatten über Sicherheitsstandards und Regulierung im digitalen Finanzsektor.",
-          "hintergrund": "Der Angriff auf Bitget reiht sich in eine Serie spektakulärer Hacks von Kryptoplattformen ein, die zusammen Milliardenschäden verursacht haben. Die relative Machtlosigkeit der Börse bei der Rückholung der Gelder zeigt die strukturellen Schwächen dezentraler Finanzsysteme.\n\nRegulierungsbehörden in mehreren Ländern dürften den Fall als weiteres Argument für strengere Aufsicht über Kryptobörsen anführen. Anleger und Branchenbeobachter warten gespannt, ob Bitget seine Kunden vollständig entschädigen kann.",
-          "tag": "Krypto-Sicherheit",
-          "emoji": "🔓",
-          "quelle": "CNBC",
-          "quelle_url": "https://www.cnbc.com/2026/10/02/bitget-crypto-stolen-hack-recovery.html"
         }
       ]
     }
