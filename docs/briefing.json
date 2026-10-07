@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-06T03:06:54.443500+00:00",
-  "datum": "Dienstag, 6. Oktober 2026",
+  "generated_at": "2026-10-07T02:28:50.934189+00:00",
+  "datum": "Mittwoch, 7. Oktober 2026",
   "ressorts": [
     {
       "id": "politik",
@@ -9,36 +9,36 @@
       "stories": [
         {
           "id": "politik-0",
-          "titel": "Nobelpreis für Medizin geht an Hirnforscher-Trio",
-          "zusammenfassung": "Der US-Psychiater Karl Deisseroth sowie die deutschen Wissenschaftler Peter Hegemann und Georg Nagel wurden mit dem Nobelpreis für Physiologie oder Medizin ausgezeichnet. Ihre Forschung hat grundlegende Mechanismen der neuronalen Signalübertragung im Gehirn enthüllt.",
-          "bedeutung": "Die Auszeichnung würdigt bahnbrechende Erkenntnisse, die neue Wege in der Behandlung neurologischer und psychiatrischer Erkrankungen eröffnen könnten.",
-          "hintergrund": "Deisseroth, Hegemann und Nagel gelten als Wegbereiter der Optogenetik – einer Methode, bei der Nervenzellen mithilfe von Licht gezielt aktiviert oder gehemmt werden können. Die Grundlage dafür legten lichtempfindliche Proteine aus Algen, die Hegemann und Nagel erforschten.\n\nDeisseroth überführte diese Erkenntnisse in anwendbare Techniken, mit denen Hirnschaltkreise bei lebenden Tieren präzise untersucht werden können. Wissenschaftler weltweit nutzen diese Werkzeuge heute, um Parkinson, Depression und andere Erkrankungen besser zu verstehen.",
-          "tag": "Nobelpreis",
-          "emoji": "🧠",
+          "titel": "Kenia meldet ersten Ebola-Tod bei Ausbruch",
+          "zusammenfassung": "Kenia hat seinen ersten Todesfall durch das Ebola-Virus bestätigt. Der Verstorbene hatte sich zuvor in der Demokratischen Republik Kongo aufgehalten, wo die Epidemie in diesem Jahr bereits mehr als 4.000 Menschenleben gefordert hat.",
+          "bedeutung": "Ein grenzüberschreitender Ebola-Fall in Ostafrika erhöht die Gefahr einer regionalen Ausbreitung und alarmiert die internationale Gesundheitsgemeinschaft.",
+          "hintergrund": "Die Demokratische Republik Kongo kämpft seit Monaten mit einem der schwersten Ebola-Ausbrüche der jüngeren Geschichte. Die hohe Mobilität der Bevölkerung zwischen den Ländern der Region macht eine Eindämmung des Virus besonders schwierig.\n\nGesundheitsbehörden in Kenia haben umgehend Kontaktverfolgung eingeleitet und warnen benachbarte Staaten. Die Weltgesundheitsorganisation beobachtet die Lage mit wachsender Besorgnis, da Ebola-Ausbrüche ohne rasche Reaktion exponentiell wachsen können.",
+          "tag": "Ebola",
+          "emoji": "🦠",
           "quelle": "BBC",
-          "quelle_url": "https://www.bbc.co.uk/news/articles/c5ev3ypmzly8o?at_medium=RSS&at_campaign=rss"
+          "quelle_url": "https://www.bbc.co.uk/news/articles/cqzrd7v1j163o?at_medium=RSS&at_campaign=rss"
         },
         {
           "id": "politik-1",
-          "titel": "Russland beschießt Getreidefrachter im Schwarzen Meer",
-          "zusammenfassung": "Ein russischer Angriff auf ein türkisches Frachtschiff im Schwarzen Meer kostete den Kapitän das Leben; elf Besatzungsmitglieder konnten gerettet werden. Der ukrainische Präsident Selenskyj verurteilte den Vorfall scharf und sprach von einem entsetzlichen Angriff.",
-          "bedeutung": "Der Angriff auf ein ziviles Handelsschiff mit Getreideladung verschärft die Spannungen um die globale Nahrungsmittelversorgung und stellt eine direkte Herausforderung für die Sicherheit der Schwarzmeerrouten dar.",
-          "hintergrund": "Das betroffene Schiff transportierte Mais, als es von russischen Streitkräften attackiert wurde. Der Vorfall reiht sich in eine Serie von Angriffen auf die Handelsschifffahrt im Schwarzen Meer ein, die seit dem russischen Einmarsch in die Ukraine immer wieder die internationale Gemeinschaft alarmiert haben.\n\nBesonders betroffen ist die Türkei als Eignerin des Schiffes, was das ohnehin angespannte Verhältnis zwischen Ankara und Moskau weiter belasten dürfte. Experten warnen, dass anhaltende Angriffe auf Getreideexporte aus der Ukraine die weltweiten Nahrungsmittelpreise erneut in die Höhe treiben könnten.",
-          "tag": "Schwarzes Meer",
-          "emoji": "🌾",
+          "titel": "Ex-BND-Chef Hanning wegen Landesverrats verhaftet",
+          "zusammenfassung": "Der frühere Präsident des Bundesnachrichtendienstes, August Hanning, wurde unter dem Verdacht festgenommen, geheime Informationen an eine fremde Macht weitergegeben zu haben. Der Fall erschüttert das Vertrauen in die deutschen Sicherheitsbehörden.",
+          "bedeutung": "Die mutmaßliche Spionagetätigkeit eines ehemaligen Geheimdienstchefs stellt einen beispiellosen Sicherheitsvorfall für Deutschland dar und wirft ernste Fragen über den Schutz staatlicher Geheimnisse auf.",
+          "hintergrund": "August Hanning leitete den BND von 1998 bis 2005 und hatte in dieser Funktion Zugang zu hochsensiblen Informationen aus dem Bereich der nationalen und internationalen Sicherheit. Eine Verurteilung wegen Landesverrats würde zu den schwerwiegendsten Fällen in der Geschichte der deutschen Nachrichtendienste zählen.\n\nDer Fall dürfte die politische Debatte über Sicherheitsüberprüfungen und den Umgang mit ehemaligen Geheimdienstmitarbeitern neu entfachen. Auch Deutschlands Verbündete in der NATO verfolgen den Vorgang aufmerksam, da geteilte Geheimdienstinformationen potenziell kompromittiert sein könnten.",
+          "tag": "Spionage",
+          "emoji": "🕵️",
           "quelle": "BBC",
-          "quelle_url": "https://www.bbc.co.uk/news/articles/cr0j0w3p8453o?at_medium=RSS&at_campaign=rss"
+          "quelle_url": "https://www.bbc.co.uk/news/articles/c58jzyer1kr0o?at_medium=RSS&at_campaign=rss"
         },
         {
           "id": "politik-2",
-          "titel": "Brasilien: Bolsonaro gewinnt erste Runde, Stichwahl nötig",
-          "zusammenfassung": "Flávio Bolsonaro hat die erste Runde der brasilianischen Präsidentschaftswahl gewonnen, ohne jedoch die erforderliche absolute Mehrheit zu erreichen. Am 25. Oktober kommt es zur Stichwahl gegen Amtsinhaber Luiz Inácio Lula da Silva.",
-          "bedeutung": "Die Wahl in der größten Volkswirtschaft Lateinamerikas hat weitreichende Auswirkungen auf die regionale Politik, den Amazonasschutz und die wirtschaftlichen Beziehungen des Kontinents.",
-          "hintergrund": "Flávio Bolsonaro, Sohn des früheren Präsidenten Jair Bolsonaro, konnte sich klar als Erstplatzierter im ersten Wahlgang behaupten und gilt nun als klarer Favorit für die Stichwahl. Sein Erfolg signalisiert eine Fortsetzung des rechtspopulistischen Kurses, der Brasilien in den vergangenen Jahren geprägt hat.\n\nLula da Silva, der seit 2023 regiert und auf Umweltschutz und sozialen Ausgleich setzt, muss nun innerhalb von drei Wochen eine breitere Koalition schmieden, um seine Amtszeit zu verteidigen. International beobachten Umweltorganisationen und Handelspartner das Ergebnis mit großer Aufmerksamkeit.",
-          "tag": "Brasilien-Wahl",
-          "emoji": "🗳️",
+          "titel": "Nobelpreis für Physik geht an Teilchenforscher Halzen",
+          "zusammenfassung": "Der belgische Physiker Francis Halzen wurde mit dem Nobelpreis für Physik ausgezeichnet. Er erhält die Ehrung für seine wegweisende Arbeit an einem Observatorium, das sogenannte Geisterpartikel – Neutrinos – aus den Tiefen des Weltalls nachweist.",
+          "bedeutung": "Die Auszeichnung würdigt einen Durchbruch in der Astrophysik, der ein völlig neues Fenster zur Beobachtung des Universums jenseits des sichtbaren Lichts geöffnet hat.",
+          "hintergrund": "Halzen ist einer der Hauptarchitekten des IceCube Neutrino Observatory, das tief im antarktischen Eis vergraben ist und winzige, kaum mit Materie wechselwirkende Teilchen registriert. Neutrinos gelten als Boten kosmischer Extremereignisse wie Supernovae oder verschmelzender schwarzer Löcher.\n\nDie Entdeckung kosmischer Neutrino-Quellen gilt als Geburtsstunde der sogenannten Multimessenger-Astronomie, bei der verschiedene Signalarten – Licht, Gravitationswellen und Teilchen – kombiniert werden, um das Universum umfassender zu verstehen als je zuvor.",
+          "tag": "Nobelpreis",
+          "emoji": "🔭",
           "quelle": "BBC",
-          "quelle_url": "https://www.bbc.co.uk/news/articles/ck1l34ed592no?at_medium=RSS&at_campaign=rss"
+          "quelle_url": "https://www.bbc.co.uk/news/articles/cq203mymlvkeo?at_medium=RSS&at_campaign=rss"
         }
       ]
     },
@@ -49,36 +49,36 @@
       "stories": [
         {
           "id": "wirtschaft-0",
-          "titel": "US-Supereme Court verhandelt Klimaklagen gegen Ölkonzerne",
-          "zusammenfassung": "Der Oberste Gerichtshof der Vereinigten Staaten hat sich zu Beginn seiner neuen Amtsperiode mit dem Versuch von Ölmultis wie ExxonMobil und Suncor Energy befasst, Klimaschutzklagen auf Bundesstaatsebene zu blockieren. Das Gericht hat noch kein Urteil gefällt, und seine Ausrichtung in dieser Frage gilt als ungewiss.",
-          "bedeutung": "Eine Entscheidung zugunsten der Konzerne würde es Bundesstaaten und Kommunen erheblich erschweren, die Ölindustrie für Klimaschäden haftbar zu machen, was globale Signalwirkung hätte.",
-          "hintergrund": "Zahlreiche US-Bundesstaaten und Städte haben in den vergangenen Jahren Klage gegen große Ölunternehmen eingereicht und werfen ihnen vor, trotz internen Wissens über den Klimawandel jahrzehntelang Fehlinformationen verbreitet zu haben. Die Konzerne argumentieren, solche Klagen seien Bundesrecht vorbehalten und dürften nicht vor staatlichen Gerichten verhandelt werden.\n\nDas Urteil des Supreme Court könnte die rechtliche Landschaft für Klimahaftungsfragen in den USA grundlegend verändern und als Präzedenzfall für ähnliche Verfahren in anderen Ländern dienen.",
-          "tag": "Klimarecht",
-          "emoji": "⚖️",
-          "quelle": "The Guardian",
-          "quelle_url": "https://www.theguardian.com/us-news/2026/oct/05/supreme-court-big-oil-climate-damage-lawsuits"
+          "titel": "Paramount und Warner Bros fusionieren zu Hollywood-Gigant",
+          "zusammenfassung": "Paramount und Warner Bros schließen sich in einem Deal im Wert von rund 110 Milliarden US-Dollar zusammen. Der Megakonzern entsteht nach monatelangen rechtlichen Auseinandersetzungen und intensiver kartellrechtlicher Prüfung.",
+          "bedeutung": "Die Fusion zweier der traditionsreichsten Filmstudios der Welt verändert die globale Medien- und Unterhaltungslandschaft grundlegend und verschärft den Wettbewerb mit Streamingriesen wie Netflix und Disney.",
+          "hintergrund": "Hollywood befindet sich seit Jahren in einem tiefgreifenden Strukturwandel, angetrieben durch den Siegeszug der Streaming-Plattformen und sinkende Einnahmen aus dem klassischen Kino- und Kabelgeschäft. Beide Studios hatten zuletzt mit schrumpfenden Marktanteilen und steigendem Kostendruck zu kämpfen.\n\nKritiker warnen vor einer gefährlichen Machtkonzentration im Contentmarkt und erwarten, dass Regulierungsbehörden in den USA und der EU dem Deal genaue Auflagen erteilen werden. Beobachter sehen in der Mega-Fusion zugleich ein Signal, dass die traditionellen Medienhäuser den Kampf gegen die Tech-Konzerne noch nicht aufgegeben haben.",
+          "tag": "Hollywood-Fusion",
+          "emoji": "🎬",
+          "quelle": "BBC",
+          "quelle_url": "https://www.bbc.co.uk/news/articles/cxj0604d33qzo?at_medium=RSS&at_campaign=rss"
         },
         {
           "id": "wirtschaft-1",
-          "titel": "Trump überträgt KI-Taskforce an Geheimdienstchef",
-          "zusammenfassung": "US-Präsident Donald Trump hat seinen nationalen Geheimdienstdirektor damit beauftragt, eine neu gegründete Arbeitsgruppe zu Künstlicher Intelligenz zu leiten. Der Schritt erfolgt inmitten wachsender Bedenken über die strategische Bedeutung und Risiken der KI-Technologie.",
-          "bedeutung": "Die Verknüpfung von Geheimdienst und KI-Politik unterstreicht, dass Washington KI zunehmend als sicherheitspolitische Kernfrage und nicht nur als wirtschaftliches Thema begreift.",
-          "hintergrund": "Die Entscheidung fällt kurz nachdem bekannt wurde, dass das Pentagon den KI-Anbieter Anthropic wegen Sicherheitsbedenken von seinen Lieferantenlisten gestrichen hat. Die Einrichtung einer hochrangig besetzten Taskforce signalisiert, dass die US-Regierung die Kontrolle über KI-Entwicklung und -Einsatz zentralisieren will.\n\nKritiker warnen, dass eine geheimdienstlich geprägte Steuerung von KI-Politik die zivile Aufsicht schwächen und Transparenz untergraben könnte. Andere sehen darin eine notwendige Antwort auf den wachsenden technologischen Wettbewerb mit China.",
-          "tag": "KI-Politik",
-          "emoji": "🤖",
+          "titel": "Amazon sichert sich weltweite Emmy-Übertragungsrechte",
+          "zusammenfassung": "Amazon hat einen Sechsjahresvertrag für die weltweiten Streaming-Rechte an der Emmy-Verleihung abgeschlossen. Die prestigeträchtige Fernsehgala verlässt damit erstmals die traditionellen amerikanischen Rundfunksender.",
+          "bedeutung": "Der Deal markiert einen symbolischen Wendepunkt im globalen Mediengeschäft und unterstreicht die wachsende Dominanz von Streaming-Plattformen gegenüber dem linearen Fernsehen.",
+          "hintergrund": "Die Emmys gelten als wichtigste Auszeichnung der Fernsehindustrie und zogen traditionell ein Millionenpublikum vor den Bildschirmen großer US-Networks an. Der Wechsel zu Amazon Prime Video spiegelt den anhaltenden Bedeutungsverlust des klassischen Rundfunks wider.\n\nFür Amazon ist der Erwerb der Übertragungsrechte ein weiterer Schritt zur Stärkung seiner Position als globale Unterhaltungsplattform, nachdem der Konzern bereits milliardenschwer in Eigenproduktionen und Sportrechte investiert hat.",
+          "tag": "Streaming",
+          "emoji": "📺",
           "quelle": "BBC",
-          "quelle_url": "https://www.bbc.co.uk/news/articles/cqj6jenp26zyo?at_medium=RSS&at_campaign=rss"
+          "quelle_url": "https://www.bbc.co.uk/news/articles/cqd09g77mygko?at_medium=RSS&at_campaign=rss"
         },
         {
           "id": "wirtschaft-2",
-          "titel": "Indiens Börse schwächelt trotz Rekordwachstum der Wirtschaft",
-          "zusammenfassung": "Obwohl Indien als am schnellsten wachsende große Volkswirtschaft der Welt gilt, gehört der indische Aktienmarkt im Jahr 2026 zu den schwächsten unter den bedeutenden Märkten. Analysten sehen dafür mehrere strukturelle und kurzfristige Ursachen.",
-          "bedeutung": "Das Auseinanderklaffen von wirtschaftlichem Wachstum und Börsenperformance wirft grundlegende Fragen über die Bewertung von Schwellenländermärkten und die Kapitalallokation globaler Investoren auf.",
-          "hintergrund": "Indiens Bruttoinlandsprodukt wächst seit Jahren robust, angetrieben von einer jungen Bevölkerung, digitalem Wandel und staatlichen Investitionen in Infrastruktur. Dennoch haben ausländische institutionelle Anleger in diesem Jahr erheblich Kapital aus dem Subkontinent abgezogen.\n\nAls Gründe gelten unter anderem hohe Aktienbewertungen nach dem Boom der Vorjahre, eine schwächelnde Unternehmensgewinndynamik, geopolitische Unsicherheiten sowie der starke US-Dollar, der Schwellenländeranlagen generell unter Druck setzt.",
-          "tag": "Indien-Märkte",
-          "emoji": "📉",
+          "titel": "Passkontrolle per Gesichtserkennung an Flughäfen startet",
+          "zusammenfassung": "An ausgewählten Flughäfen beginnt der schrittweise Einsatz von E-Gates, die Reisende allein anhand ihrer Gesichtszüge identifizieren – ohne den klassischen Reisepass vorzulegen. Das System gleicht biometrische Daten in Echtzeit mit Einreise- und Passinformationen ab.",
+          "bedeutung": "Der Rollout passwortfreier Grenzkontrollen könnte die Art, wie Millionen Menschen weltweit reisen, dauerhaft verändern und stellt zugleich wichtige Fragen zum Datenschutz.",
+          "hintergrund": "Biometrische Grenzkontrollsysteme werden seit Jahren erprobt, doch der flächendeckende Einsatz ohne physisches Dokument gilt als neuer Meilenstein. Befürworter versprechen schnellere Abfertigungen und höhere Sicherheit, da gefälschte Pässe keine Rolle mehr spielen würden.\n\nDatenschützer hingegen kritisieren die lückenlose Erfassung von Gesichtsbiometrie staatlicher Bürger und fordern klare rechtliche Rahmenbedingungen. Der Rollout dürfte eine breite gesellschaftliche Debatte über die Balance zwischen Sicherheit und Privatsphäre anstoßen.",
+          "tag": "Biometrie",
+          "emoji": "🛂",
           "quelle": "BBC",
-          "quelle_url": "https://www.bbc.co.uk/news/articles/cwp9g5p1gy7yo?at_medium=RSS&at_campaign=rss"
+          "quelle_url": "https://www.bbc.co.uk/news/articles/cmp3g5qg1gxzo?at_medium=RSS&at_campaign=rss"
         }
       ]
     },
@@ -89,25 +89,36 @@
       "stories": [
         {
           "id": "boerse-0",
-          "titel": "Brasilianische Aktien steigen nach Bolsonaro-Wahlerfolg",
-          "zusammenfassung": "An der brasilianischen Börse stiegen die Kurse deutlich, nachdem Flávio Bolsonaro die erste Runde der Präsidentschaftswahl gewonnen hatte und als Favorit für die Stichwahl gilt. Investoren reagierten positiv auf die Aussicht einer marktfreundlichen Regierung.",
-          "bedeutung": "Die Marktreaktion zeigt, wie eng politische Weichenstellungen in Schwellenländern mit Anlegervertrauen und Kapitalflüssen verknüpft sind.",
-          "hintergrund": "Der brasilianische Leitindex Bovespa verzeichnete nach Bekanntgabe der Wahlergebnisse spürbare Gewinne, da Marktteilnehmer eine wirtschaftspolitische Kontinuität in Richtung Deregulierung und Haushaltsdisziplin erwarten. Bolsonaros politische Positionierung gilt als investorenfreundlicher als jene des amtierenden Präsidenten Lula.\n\nAllerdings mahnen Analysten zur Vorsicht: Bis zur Stichwahl am 25. Oktober bleibt das Ergebnis offen, und mögliche politische Turbulenzen im Wahlkampf könnten die Märkte erneut unter Druck setzen.",
-          "tag": "Brasilien-Börse",
+          "titel": "S&P 500 erreicht neues Rekordhoch trotz Turbulenzen",
+          "zusammenfassung": "Der amerikanische Leitindex S&P 500 hat im Handelsverlauf ein neues Allzeithoch markiert. Kursgewinne bei Technologiewerten, nachgebende Ölpreise und leicht fallende Anleiherenditen trieben die Rally an.",
+          "bedeutung": "Ein neues Rekordhoch des S&P 500 signalisiert anhaltende Risikobereitschaft der Anleger und hat Signalwirkung für Aktienmärkte weltweit.",
+          "hintergrund": "Der Index hatte in den vergangenen Monaten mit einer Reihe von Schocks zu kämpfen, darunter geopolitische Spannungen, Zinsunsicherheiten und Handelskonflikte. Das neue Rekordhoch zeigt, dass die Märkte diese Belastungen zumindest kurzfristig verarbeitet haben.\n\nAnalysten warnen jedoch, dass die Rally stark auf den Technologiesektor konzentriert ist und eine breitere Marktbeteiligung fehlt. Die weitere Entwicklung dürfte entscheidend von den bevorstehenden Zinssignalen der US-Notenbank Fed abhängen.",
+          "tag": "Aktienmarkt",
           "emoji": "📈",
           "quelle": "CNBC",
-          "quelle_url": "https://www.cnbc.com/2026/10/05/brazilian-stocks-jump-bolsonaro-now-heavy-favorite-to-win-presidency.html"
+          "quelle_url": "https://www.cnbc.com/2026/10/06/chart-a-look-at-the-sp-500s-remarkable-and-defiant-trip-a-new-record.html"
         },
         {
           "id": "boerse-1",
-          "titel": "Bevölkerungsalterung bedroht Staatsfinanzen westlicher Länder",
-          "zusammenfassung": "Eine aktuelle Prognose von Moody's warnt, dass die Bevölkerungen westlicher Industrienationen ab 2029 absolut schrumpfen werden, was die öffentlichen Haushalte massiv belasten dürfte. Die Ratingagentur sieht fundamentale wirtschaftliche Konsequenzen auf die globale Wirtschaft zukommen.",
-          "bedeutung": "Demografischer Wandel gilt als einer der langfristig mächtigsten Treiber von Staatsverschuldung, Rentensystemen und Wachstumspotenzial – und rückt damit zunehmend in den Fokus der Finanzmärkte.",
-          "hintergrund": "Moody's prognostiziert, dass sinkende Geburtenraten und steigende Lebenserwartung in Kombination dazu führen werden, dass Länder wie Deutschland, Japan und Teile Südeuropas ab Ende des Jahrzehnts mit schrumpfenden Arbeitskräften und wachsenden Sozialausgaben konfrontiert sein werden. Dies dürfte den Spielraum für staatliche Investitionen erheblich einengen.\n\nFür die Finanzmärkte bedeutet dies langfristig niedrigere Wachstumserwartungen, steigende Renditen auf Staatsanleihen und erhöhten Reformdruck auf Rentensysteme. Regierungen, die diese Herausforderungen nicht frühzeitig adressieren, könnten Bonitätsabstufungen riskieren.",
-          "tag": "Demografie",
-          "emoji": "👴",
+          "titel": "Goldman: Dieselpreise bleiben bis 2027 hoch",
+          "zusammenfassung": "Analysten von Goldman Sachs erwarten, dass die Dieselpreise aufgrund knapper Raffineriekapazitäten bis weit ins Jahr 2027 erhöht bleiben. Um die Nachfrage zu dämpfen und Lagerbestände aufzubauen, seien anhaltend hohe Margen notwendig.",
+          "bedeutung": "Dauerhaft hohe Dieselpreise belasten Logistik, Landwirtschaft und Industrie weltweit und könnten Inflationserwartungen in mehreren Volkswirtschaften neu befeuern.",
+          "hintergrund": "Die globale Raffineriekapazität hat sich seit der Coronapandemie nur langsam erholt, während die Dieselnachfrage aus Schwellenländern und dem Güterverkehr weiter steigt. Neue Raffinerieprojekte benötigen Jahre bis zur Inbetriebnahme, was das Angebot strukturell eng hält.\n\nFür Europa, das stark auf Dieselkraftstoff angewiesen ist, hätten dauerhaft hohe Preise spürbare Konsequenzen für Transportkosten und damit auch für Verbraucherpreise. Goldman Sachs rät Investoren, den Energiesektor angesichts dieser Aussichten im Blick zu behalten.",
+          "tag": "Energie",
+          "emoji": "⛽",
           "quelle": "CNBC",
-          "quelle_url": "https://www.cnbc.com/2026/10/05/aging-population-moodys-public-finances.html"
+          "quelle_url": "https://www.cnbc.com/2026/10/06/diesel-oil-refinery-price-capacity-demand.html"
+        },
+        {
+          "id": "boerse-2",
+          "titel": "Weltbank hebt Wachstumsausblick für Ostasien an",
+          "zusammenfassung": "Die Weltbank hat ihre Wachstumsprognose für die Region Ostasien und Pazifik auf 4,5 Prozent für das laufende Jahr angehoben. Zugleich warnt sie vor Risiken durch eine zunehmende Konzentration im Bereich der Künstlichen Intelligenz.",
+          "bedeutung": "Der optimistischere Ausblick für eine der dynamischsten Wirtschaftsregionen der Welt ist ein positives Signal für den globalen Konjunkturverlauf, wird jedoch durch strukturelle Risiken getrübt.",
+          "hintergrund": "Das Wachstum in Ostasien wird laut Weltbank maßgeblich durch den boomenden Handel mit KI-bezogenen Gütern und Halbleitern getragen. Abseits dieses Segments sei das Handelswachstum jedoch schwach oder sogar rückläufig, was die Abhängigkeit von einem einzigen Technologietrend unterstreicht.\n\nDie Warnung vor KI-Konzentration bezieht sich auf die Gefahr, dass wenige Technologiekonzerne – vor allem aus den USA und China – die gesamte Wertschöpfungskette kontrollieren könnten, während viele Entwicklungsländer leer ausgehen. Die Weltbank fordert politische Maßnahmen, um eine breitere Teilhabe am KI-Boom zu ermöglichen.",
+          "tag": "Weltbank",
+          "emoji": "🌏",
+          "quelle": "CNBC",
+          "quelle_url": "https://www.cnbc.com/2026/10/06/world-bank-east-asia-growth-inflation-ai-exports-.html"
         }
       ]
     }
