@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-07T02:28:50.934189+00:00",
-  "datum": "Mittwoch, 7. Oktober 2026",
+  "generated_at": "2026-10-08T02:45:01.858067+00:00",
+  "datum": "Donnerstag, 8. Oktober 2026",
   "ressorts": [
     {
       "id": "politik",
@@ -9,36 +9,36 @@
       "stories": [
         {
           "id": "politik-0",
-          "titel": "Kenia meldet ersten Ebola-Tod bei Ausbruch",
-          "zusammenfassung": "Kenia hat seinen ersten Todesfall durch das Ebola-Virus bestätigt. Der Verstorbene hatte sich zuvor in der Demokratischen Republik Kongo aufgehalten, wo die Epidemie in diesem Jahr bereits mehr als 4.000 Menschenleben gefordert hat.",
-          "bedeutung": "Ein grenzüberschreitender Ebola-Fall in Ostafrika erhöht die Gefahr einer regionalen Ausbreitung und alarmiert die internationale Gesundheitsgemeinschaft.",
-          "hintergrund": "Die Demokratische Republik Kongo kämpft seit Monaten mit einem der schwersten Ebola-Ausbrüche der jüngeren Geschichte. Die hohe Mobilität der Bevölkerung zwischen den Ländern der Region macht eine Eindämmung des Virus besonders schwierig.\n\nGesundheitsbehörden in Kenia haben umgehend Kontaktverfolgung eingeleitet und warnen benachbarte Staaten. Die Weltgesundheitsorganisation beobachtet die Lage mit wachsender Besorgnis, da Ebola-Ausbrüche ohne rasche Reaktion exponentiell wachsen können.",
-          "tag": "Ebola",
-          "emoji": "🦠",
+          "titel": "Russischer Raketenangriff tötet 19 Menschen im Schlaf",
+          "zusammenfassung": "Eine russische Rakete zerstörte in der Nacht einen Wohnblock in der Nordukraine und riss 19 Menschen in den Tod, darunter fünf Kinder. Dreißig Wohnungen wurden vollständig vernichtet, während die Bewohner schliefen.",
+          "bedeutung": "Der Angriff auf zivile Wohngebäude verschärft den internationalen Druck auf Moskau und unterstreicht die anhaltende humanitäre Katastrophe im Ukraine-Krieg.",
+          "hintergrund": "Russland setzt seine Raketenkampagne gegen ukrainische Städte und Wohngebiete unvermindert fort. Angriffe auf zivile Infrastruktur gelten nach internationalem Recht als Kriegsverbrechen und werden von westlichen Regierungen wiederholt verurteilt.\n\nDie hohe Opferzahl – besonders unter Kindern – dürfte neue Forderungen nach weitreichenderen Waffenlieferungen an Kiew sowie nach einer Verschärfung der Sanktionen gegen Russland auslösen.",
+          "tag": "Ukraine-Krieg",
+          "emoji": "🕯️",
           "quelle": "BBC",
-          "quelle_url": "https://www.bbc.co.uk/news/articles/cqzrd7v1j163o?at_medium=RSS&at_campaign=rss"
+          "quelle_url": "https://www.bbc.co.uk/news/articles/ckr5ym098vdeo?at_medium=RSS&at_campaign=rss"
         },
         {
           "id": "politik-1",
-          "titel": "Ex-BND-Chef Hanning wegen Landesverrats verhaftet",
-          "zusammenfassung": "Der frühere Präsident des Bundesnachrichtendienstes, August Hanning, wurde unter dem Verdacht festgenommen, geheime Informationen an eine fremde Macht weitergegeben zu haben. Der Fall erschüttert das Vertrauen in die deutschen Sicherheitsbehörden.",
-          "bedeutung": "Die mutmaßliche Spionagetätigkeit eines ehemaligen Geheimdienstchefs stellt einen beispiellosen Sicherheitsvorfall für Deutschland dar und wirft ernste Fragen über den Schutz staatlicher Geheimnisse auf.",
-          "hintergrund": "August Hanning leitete den BND von 1998 bis 2005 und hatte in dieser Funktion Zugang zu hochsensiblen Informationen aus dem Bereich der nationalen und internationalen Sicherheit. Eine Verurteilung wegen Landesverrats würde zu den schwerwiegendsten Fällen in der Geschichte der deutschen Nachrichtendienste zählen.\n\nDer Fall dürfte die politische Debatte über Sicherheitsüberprüfungen und den Umgang mit ehemaligen Geheimdienstmitarbeitern neu entfachen. Auch Deutschlands Verbündete in der NATO verfolgen den Vorgang aufmerksam, da geteilte Geheimdienstinformationen potenziell kompromittiert sein könnten.",
-          "tag": "Spionage",
-          "emoji": "🕵️",
+          "titel": "Israel gedenkt der Hamas-Angriffe vom 7. Oktober",
+          "zusammenfassung": "Drei Jahre nach dem verheerenden Hamas-Überfall vom 7. Oktober 2023 haben in ganz Israel Gedenkveranstaltungen für die Opfer stattgefunden. Das Massaker gilt als der schlimmste Anschlag auf Juden seit dem Holocaust.",
+          "bedeutung": "Der Jahrestag markiert einen historischen Einschnitt, der die gesamte Nahostpolitik neu geformt und einen bis heute andauernden Krieg in Gaza ausgelöst hat.",
+          "hintergrund": "Der Angriff der Hamas kostete rund 1.200 Menschen das Leben und führte zur Verschleppung von über 250 Geiseln. Der darauffolgende israelische Militäreinsatz in Gaza hat nach palästinensischen Angaben seither Zehntausende Menschenleben gefordert und eine schwere humanitäre Krise ausgelöst.\n\nParallel zu den Gedenkfeiern wächst in Israel der innenpolitische Druck auf Ministerpräsident Netanjahu, der eine persönliche Verantwortung für das Versagen der Sicherheitsbehörden weiterhin ablehnt und eine staatliche Untersuchungskommission blockiert.",
+          "tag": "Nahost-Konflikt",
+          "emoji": "🕍",
           "quelle": "BBC",
-          "quelle_url": "https://www.bbc.co.uk/news/articles/c58jzyer1kr0o?at_medium=RSS&at_campaign=rss"
+          "quelle_url": "https://www.bbc.co.uk/news/articles/cwkgj0g30m5jo?at_medium=RSS&at_campaign=rss"
         },
         {
           "id": "politik-2",
-          "titel": "Nobelpreis für Physik geht an Teilchenforscher Halzen",
-          "zusammenfassung": "Der belgische Physiker Francis Halzen wurde mit dem Nobelpreis für Physik ausgezeichnet. Er erhält die Ehrung für seine wegweisende Arbeit an einem Observatorium, das sogenannte Geisterpartikel – Neutrinos – aus den Tiefen des Weltalls nachweist.",
-          "bedeutung": "Die Auszeichnung würdigt einen Durchbruch in der Astrophysik, der ein völlig neues Fenster zur Beobachtung des Universums jenseits des sichtbaren Lichts geöffnet hat.",
-          "hintergrund": "Halzen ist einer der Hauptarchitekten des IceCube Neutrino Observatory, das tief im antarktischen Eis vergraben ist und winzige, kaum mit Materie wechselwirkende Teilchen registriert. Neutrinos gelten als Boten kosmischer Extremereignisse wie Supernovae oder verschmelzender schwarzer Löcher.\n\nDie Entdeckung kosmischer Neutrino-Quellen gilt als Geburtsstunde der sogenannten Multimessenger-Astronomie, bei der verschiedene Signalarten – Licht, Gravitationswellen und Teilchen – kombiniert werden, um das Universum umfassender zu verstehen als je zuvor.",
-          "tag": "Nobelpreis",
-          "emoji": "🔭",
+          "titel": "Trump will mit Putin über Pestfall in Russland sprechen",
+          "zusammenfassung": "US-Präsident Trump kündigte an, den russischen Staatschef Putin wegen des Todes eines Mitarbeiters in einem russischen Pestlabor kontaktieren zu wollen. Der Verdacht auf Lungenpest hat international Forderungen nach mehr Transparenz von Moskau laut werden lassen.",
+          "bedeutung": "Ein möglicher Seuchenfall in einem russischen Hochsicherheitslabor birgt globale Gesundheitsrisiken und stellt die internationale Gemeinschaft vor drängende Fragen zur biologischen Sicherheit.",
+          "hintergrund": "Russland unterhält mehrere Forschungseinrichtungen, die mit hochgefährlichen Erregern arbeiten. Der ungeklärte Tod des Labormitarbeiters hat Erinnerungen an frühere Bedenken über den Umgang mit biologischen Agenten in postsowjetischen Ländern geweckt.\n\nDie Weltgesundheitsorganisation und westliche Regierungen drängen auf lückenlose Aufklärung. Lungenpest ist ohne sofortige Behandlung nahezu immer tödlich und kann von Mensch zu Mensch übertragen werden.",
+          "tag": "Biosicherheit",
+          "emoji": "🧫",
           "quelle": "BBC",
-          "quelle_url": "https://www.bbc.co.uk/news/articles/cq203mymlvkeo?at_medium=RSS&at_campaign=rss"
+          "quelle_url": "https://www.bbc.co.uk/news/articles/cqgm0vrl3xp7o?at_medium=RSS&at_campaign=rss"
         }
       ]
     },
@@ -49,36 +49,36 @@
       "stories": [
         {
           "id": "wirtschaft-0",
-          "titel": "Paramount und Warner Bros fusionieren zu Hollywood-Gigant",
-          "zusammenfassung": "Paramount und Warner Bros schließen sich in einem Deal im Wert von rund 110 Milliarden US-Dollar zusammen. Der Megakonzern entsteht nach monatelangen rechtlichen Auseinandersetzungen und intensiver kartellrechtlicher Prüfung.",
-          "bedeutung": "Die Fusion zweier der traditionsreichsten Filmstudios der Welt verändert die globale Medien- und Unterhaltungslandschaft grundlegend und verschärft den Wettbewerb mit Streamingriesen wie Netflix und Disney.",
-          "hintergrund": "Hollywood befindet sich seit Jahren in einem tiefgreifenden Strukturwandel, angetrieben durch den Siegeszug der Streaming-Plattformen und sinkende Einnahmen aus dem klassischen Kino- und Kabelgeschäft. Beide Studios hatten zuletzt mit schrumpfenden Marktanteilen und steigendem Kostendruck zu kämpfen.\n\nKritiker warnen vor einer gefährlichen Machtkonzentration im Contentmarkt und erwarten, dass Regulierungsbehörden in den USA und der EU dem Deal genaue Auflagen erteilen werden. Beobachter sehen in der Mega-Fusion zugleich ein Signal, dass die traditionellen Medienhäuser den Kampf gegen die Tech-Konzerne noch nicht aufgegeben haben.",
-          "tag": "Hollywood-Fusion",
-          "emoji": "🎬",
+          "titel": "KI-Chipboom: Samsung verbucht Rekordgewinn von 80 Milliarden",
+          "zusammenfassung": "Die boomende Nachfrage nach Halbleitern für Künstliche Intelligenz hat Samsung zu einem Rekordgewinn von umgerechnet rund 80 Milliarden US-Dollar verholfen. Zusätzlichen Rückenwind lieferten die neu eingeführten Falt-Smartphones des Konzerns.",
+          "bedeutung": "Samsungs Rekord spiegelt den globalen KI-Investitionsboom wider und zeigt, wie tief die Technologie bereits in die Gewinnentwicklung der größten Konzerne eingreift.",
+          "hintergrund": "Der weltweite Hunger nach leistungsstarken KI-Chips hat die gesamte Halbleiterbranche beflügelt. Samsung profitiert dabei sowohl als Chip-Hersteller als auch als Geräteanbieter von diesem Strukturwandel.\n\nDer Rekordgewinn setzt Konkurrenten wie TSMC und Intel weiter unter Druck und dürfte neue Investitionen in die Chip-Fertigung nach sich ziehen.",
+          "tag": "KI-Wirtschaft",
+          "emoji": "💾",
           "quelle": "BBC",
-          "quelle_url": "https://www.bbc.co.uk/news/articles/cxj0604d33qzo?at_medium=RSS&at_campaign=rss"
+          "quelle_url": "https://www.bbc.co.uk/news/articles/c687z8127302o?at_medium=RSS&at_campaign=rss"
         },
         {
           "id": "wirtschaft-1",
-          "titel": "Amazon sichert sich weltweite Emmy-Übertragungsrechte",
-          "zusammenfassung": "Amazon hat einen Sechsjahresvertrag für die weltweiten Streaming-Rechte an der Emmy-Verleihung abgeschlossen. Die prestigeträchtige Fernsehgala verlässt damit erstmals die traditionellen amerikanischen Rundfunksender.",
-          "bedeutung": "Der Deal markiert einen symbolischen Wendepunkt im globalen Mediengeschäft und unterstreicht die wachsende Dominanz von Streaming-Plattformen gegenüber dem linearen Fernsehen.",
-          "hintergrund": "Die Emmys gelten als wichtigste Auszeichnung der Fernsehindustrie und zogen traditionell ein Millionenpublikum vor den Bildschirmen großer US-Networks an. Der Wechsel zu Amazon Prime Video spiegelt den anhaltenden Bedeutungsverlust des klassischen Rundfunks wider.\n\nFür Amazon ist der Erwerb der Übertragungsrechte ein weiterer Schritt zur Stärkung seiner Position als globale Unterhaltungsplattform, nachdem der Konzern bereits milliardenschwer in Eigenproduktionen und Sportrechte investiert hat.",
-          "tag": "Streaming",
-          "emoji": "📺",
+          "titel": "ChatGPT für Jugendliche: Schutzmaßnahmen versagen laut Studie",
+          "zusammenfassung": "OpenAI behauptet, die Nutzung von ChatGPT durch Minderjährige sei begrenzt, doch neue Forschungsergebnisse widersprechen dem und stufen die Plattform als inakzeptables Risiko für Teenagerinnen und Teenager ein. Wichtige Schutzfilter scheiterten im Test regelmäßig.",
+          "bedeutung": "Die Ergebnisse verschärfen die globale Debatte über die Regulierung von KI-Plattformen und den Schutz junger Nutzer vor potenziell schädlichen Inhalten.",
+          "hintergrund": "ChatGPT gehört zu den meistgenutzten digitalen Werkzeugen weltweit und findet auch unter Jugendlichen rasant Verbreitung. Regulierungsbehörden in der EU, den USA und anderen Ländern prüfen zunehmend, welche Pflichten KI-Anbieter gegenüber minderjährigen Nutzern haben.\n\nDie Studie könnte den Druck auf Gesetzgeber erhöhen, verbindliche Jugendschutzstandards für generative KI-Systeme einzuführen.",
+          "tag": "KI-Regulierung",
+          "emoji": "🤖",
           "quelle": "BBC",
-          "quelle_url": "https://www.bbc.co.uk/news/articles/cqd09g77mygko?at_medium=RSS&at_campaign=rss"
+          "quelle_url": "https://www.bbc.co.uk/news/articles/cwz0vrmxkvy4o?at_medium=RSS&at_campaign=rss"
         },
         {
           "id": "wirtschaft-2",
-          "titel": "Passkontrolle per Gesichtserkennung an Flughäfen startet",
-          "zusammenfassung": "An ausgewählten Flughäfen beginnt der schrittweise Einsatz von E-Gates, die Reisende allein anhand ihrer Gesichtszüge identifizieren – ohne den klassischen Reisepass vorzulegen. Das System gleicht biometrische Daten in Echtzeit mit Einreise- und Passinformationen ab.",
-          "bedeutung": "Der Rollout passwortfreier Grenzkontrollen könnte die Art, wie Millionen Menschen weltweit reisen, dauerhaft verändern und stellt zugleich wichtige Fragen zum Datenschutz.",
-          "hintergrund": "Biometrische Grenzkontrollsysteme werden seit Jahren erprobt, doch der flächendeckende Einsatz ohne physisches Dokument gilt als neuer Meilenstein. Befürworter versprechen schnellere Abfertigungen und höhere Sicherheit, da gefälschte Pässe keine Rolle mehr spielen würden.\n\nDatenschützer hingegen kritisieren die lückenlose Erfassung von Gesichtsbiometrie staatlicher Bürger und fordern klare rechtliche Rahmenbedingungen. Der Rollout dürfte eine breite gesellschaftliche Debatte über die Balance zwischen Sicherheit und Privatsphäre anstoßen.",
-          "tag": "Biometrie",
-          "emoji": "🛂",
+          "titel": "Dürre halbiert Ernte – Bauern zahlen doppelt so viel",
+          "zusammenfassung": "Die anhaltende Dürre hat die Weizenernte 2026 drastisch einbrechen lassen, während Milchbauern gleichzeitig mit stark gestiegenen Betriebskosten kämpfen. Die Kombination aus Einnahmeausfall und Kostendruck gefährdet viele landwirtschaftliche Betriebe existenziell.",
+          "bedeutung": "Die Ernteausfälle drohen die Lebensmittelpreise weiter anzutreiben und unterstreichen die wachsende Anfälligkeit globaler Nahrungsmittelketten gegenüber dem Klimawandel.",
+          "hintergrund": "Extreme Trockenheit hat in mehreren europäischen und nordamerikanischen Regionen die landwirtschaftliche Produktion empfindlich getroffen. Gleichzeitig verteuern hohe Energiepreise und gestiegene Betriebsmittelkosten die Produktion auf den Höfen.\n\nExperten warnen, dass ohne strukturelle Anpassungen in der Landwirtschaft ähnliche Schocks künftig häufiger eintreten werden – mit spürbaren Folgen für Verbraucher weltweit.",
+          "tag": "Ernährungskrise",
+          "emoji": "🌾",
           "quelle": "BBC",
-          "quelle_url": "https://www.bbc.co.uk/news/articles/cmp3g5qg1gxzo?at_medium=RSS&at_campaign=rss"
+          "quelle_url": "https://www.bbc.co.uk/news/articles/c5rm9mdm79neo?at_medium=RSS&at_campaign=rss"
         }
       ]
     },
@@ -89,36 +89,36 @@
       "stories": [
         {
           "id": "boerse-0",
-          "titel": "S&P 500 erreicht neues Rekordhoch trotz Turbulenzen",
-          "zusammenfassung": "Der amerikanische Leitindex S&P 500 hat im Handelsverlauf ein neues Allzeithoch markiert. Kursgewinne bei Technologiewerten, nachgebende Ölpreise und leicht fallende Anleiherenditen trieben die Rally an.",
-          "bedeutung": "Ein neues Rekordhoch des S&P 500 signalisiert anhaltende Risikobereitschaft der Anleger und hat Signalwirkung für Aktienmärkte weltweit.",
-          "hintergrund": "Der Index hatte in den vergangenen Monaten mit einer Reihe von Schocks zu kämpfen, darunter geopolitische Spannungen, Zinsunsicherheiten und Handelskonflikte. Das neue Rekordhoch zeigt, dass die Märkte diese Belastungen zumindest kurzfristig verarbeitet haben.\n\nAnalysten warnen jedoch, dass die Rally stark auf den Technologiesektor konzentriert ist und eine breitere Marktbeteiligung fehlt. Die weitere Entwicklung dürfte entscheidend von den bevorstehenden Zinssignalen der US-Notenbank Fed abhängen.",
-          "tag": "Aktienmarkt",
-          "emoji": "📈",
+          "titel": "Fed-Protokoll: Weitere Zinserhöhung gilt als wahrscheinlich",
+          "zusammenfassung": "Aus dem Sitzungsprotokoll der US-Notenbank Federal Reserve vom September geht hervor, dass eine weitere Leitzinserhöhung von den Mitgliedern des Offenmarktausschusses als wahrscheinlich angesehen wird. Ein konkreter Zeitpunkt wurde jedoch nicht genannt.",
+          "bedeutung": "Jede Andeutung der Fed über künftige Zinsschritte bewegt weltweit Anleihemärkte, Währungen und Aktienbörsen und bestimmt die Finanzierungskosten für Unternehmen und Staaten.",
+          "hintergrund": "Die Fed befindet sich in einem schwierigen Balanceakt zwischen Inflationsbekämpfung und dem Risiko, das Wirtschaftswachstum abzuwürgen. Der September-Beschluss ließ den Leitzins unverändert, doch die Protokolle signalisieren, dass die Notenbank die Zügel bei Bedarf weiter anziehen wird.\n\nDie Unsicherheit über Zeitpunkt und Ausmaß künftiger Schritte hält die Finanzmärkte in Spannung und erschwert Planungen für Investoren weltweit.",
+          "tag": "Geldpolitik",
+          "emoji": "🏦",
           "quelle": "CNBC",
-          "quelle_url": "https://www.cnbc.com/2026/10/06/chart-a-look-at-the-sp-500s-remarkable-and-defiant-trip-a-new-record.html"
+          "quelle_url": "https://www.cnbc.com/2026/10/07/fed-officials-see-another-hike-coming-but-no-sign-as-to-when-minutes-show.html"
         },
         {
           "id": "boerse-1",
-          "titel": "Goldman: Dieselpreise bleiben bis 2027 hoch",
-          "zusammenfassung": "Analysten von Goldman Sachs erwarten, dass die Dieselpreise aufgrund knapper Raffineriekapazitäten bis weit ins Jahr 2027 erhöht bleiben. Um die Nachfrage zu dämpfen und Lagerbestände aufzubauen, seien anhaltend hohe Margen notwendig.",
-          "bedeutung": "Dauerhaft hohe Dieselpreise belasten Logistik, Landwirtschaft und Industrie weltweit und könnten Inflationserwartungen in mehreren Volkswirtschaften neu befeuern.",
-          "hintergrund": "Die globale Raffineriekapazität hat sich seit der Coronapandemie nur langsam erholt, während die Dieselnachfrage aus Schwellenländern und dem Güterverkehr weiter steigt. Neue Raffinerieprojekte benötigen Jahre bis zur Inbetriebnahme, was das Angebot strukturell eng hält.\n\nFür Europa, das stark auf Dieselkraftstoff angewiesen ist, hätten dauerhaft hohe Preise spürbare Konsequenzen für Transportkosten und damit auch für Verbraucherpreise. Goldman Sachs rät Investoren, den Energiesektor angesichts dieser Aussichten im Blick zu behalten.",
-          "tag": "Energie",
-          "emoji": "⛽",
+          "titel": "US-Inflationserwartungen steigen auf höchsten Stand seit 2023",
+          "zusammenfassung": "Eine neue Umfrage der Federal Reserve Bank of New York zeigt, dass die Verbraucher ihre Inflationserwartung für die kommenden zwölf Monate auf 3,9 Prozent nach oben geschraubt haben – den höchsten Wert seit Mai 2023. Dies erhöht den Druck auf die Notenbank erheblich.",
+          "bedeutung": "Steigende Inflationserwartungen können sich selbst erfüllend auswirken und erschweren der Fed die Zinspolitik, was wiederum direkt auf Anleiherenditen und Aktienmärkte durchschlägt.",
+          "hintergrund": "Hartnäckige Inflationserwartungen gelten in der Ökonomie als besonders gefährlich, weil sie Lohn- und Preissetzungsverhalten beeinflussen und damit die tatsächliche Inflation befeuern können. Die Fed beobachtet Stimmungsumfragen dieser Art deshalb sehr genau.\n\nGleichzeitig warnt IWF-Chefin Georgieva, dass der KI-Boom zwar das Wachstum beflügele, aber gleichzeitig inflationären Druck erzeugen und Anleiherenditen in die Höhe treiben könne.",
+          "tag": "Inflation",
+          "emoji": "📈",
           "quelle": "CNBC",
-          "quelle_url": "https://www.cnbc.com/2026/10/06/diesel-oil-refinery-price-capacity-demand.html"
+          "quelle_url": "https://www.cnbc.com/2026/10/07/inflation-fears-on-the-rise-as-one-year-outlook-in-fed-survey-hits-highest-since-may-2023.html"
         },
         {
           "id": "boerse-2",
-          "titel": "Weltbank hebt Wachstumsausblick für Ostasien an",
-          "zusammenfassung": "Die Weltbank hat ihre Wachstumsprognose für die Region Ostasien und Pazifik auf 4,5 Prozent für das laufende Jahr angehoben. Zugleich warnt sie vor Risiken durch eine zunehmende Konzentration im Bereich der Künstlichen Intelligenz.",
-          "bedeutung": "Der optimistischere Ausblick für eine der dynamischsten Wirtschaftsregionen der Welt ist ein positives Signal für den globalen Konjunkturverlauf, wird jedoch durch strukturelle Risiken getrübt.",
-          "hintergrund": "Das Wachstum in Ostasien wird laut Weltbank maßgeblich durch den boomenden Handel mit KI-bezogenen Gütern und Halbleitern getragen. Abseits dieses Segments sei das Handelswachstum jedoch schwach oder sogar rückläufig, was die Abhängigkeit von einem einzigen Technologietrend unterstreicht.\n\nDie Warnung vor KI-Konzentration bezieht sich auf die Gefahr, dass wenige Technologiekonzerne – vor allem aus den USA und China – die gesamte Wertschöpfungskette kontrollieren könnten, während viele Entwicklungsländer leer ausgehen. Die Weltbank fordert politische Maßnahmen, um eine breitere Teilhabe am KI-Boom zu ermöglichen.",
-          "tag": "Weltbank",
-          "emoji": "🌏",
+          "titel": "Goldman: Dieselpreise bleiben bis 2027 auf erhöhtem Niveau",
+          "zusammenfassung": "Analysten von Goldman Sachs prognostizieren, dass die Dieselpreise wegen knapper Raffineriekapazitäten bis weit in das Jahr 2027 hinein hoch bleiben werden. Hohe Margen seien nötig, um die Nachfrage zu dämpfen und Lagerbestände wieder aufzubauen.",
+          "bedeutung": "Anhaltend hohe Dieselpreise treffen Transportbranche, Landwirtschaft und Industrie weltweit und wirken als Inflationstreiber in nahezu allen Lieferketten.",
+          "hintergrund": "Die globale Raffineriekapazität hat sich nach der Pandemie und angesichts des Wandels hin zu erneuerbaren Energien nicht ausreichend erholt, um die aktuelle Nachfrage vollständig zu decken. Gleichzeitig sind in den vergangenen Jahren kaum neue Raffinerieprojekte gestartet worden.\n\nDie Goldman-Prognose trifft auf einen Markt, der ohnehin durch geopolitische Unsicherheiten im Nahen Osten und Förderentscheidungen der OPEC+ unter Druck steht.",
+          "tag": "Rohstoffmärkte",
+          "emoji": "⛽",
           "quelle": "CNBC",
-          "quelle_url": "https://www.cnbc.com/2026/10/06/world-bank-east-asia-growth-inflation-ai-exports-.html"
+          "quelle_url": "https://www.cnbc.com/2026/10/06/diesel-oil-refinery-price-capacity-demand.html"
         }
       ]
     }
