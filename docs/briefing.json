@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-09T02:59:43.525658+00:00",
-  "datum": "Freitag, 9. Oktober 2026",
+  "generated_at": "2026-10-10T02:25:30.012576+00:00",
+  "datum": "Samstag, 10. Oktober 2026",
   "ressorts": [
     {
       "id": "politik",
@@ -9,36 +9,36 @@
       "stories": [
         {
           "id": "politik-0",
-          "titel": "Russland tötet 30 Zivilisten in Bussen bei Kramatorsk",
-          "zusammenfassung": "Russische Streitkräfte haben nach ukrainischen Angaben zwei dicht besetzte Busse in der Frontstadt Kramatorsk mit Raketen beschossen und dabei mindestens 30 Menschen getötet. Kiew wirft Moskau vor, den Angriff bewusst auf zivile Fahrzeuge ausgerichtet zu haben, um maximale Opferzahlen zu erzielen.",
-          "bedeutung": "Der Angriff steht für eine neue Eskalationswelle gegen die Zivilbevölkerung und erhöht den Druck auf westliche Verbündete, weitere Waffenlieferungen zu beschleunigen.",
-          "hintergrund": "Kramatorsk gilt als strategisch wichtiger Knotenpunkt im Donbass und wird seit Monaten regelmäßig beschossen. Die Stadt dient als Versorgungszentrum für ukrainische Truppen und ist trotz ihrer Frontlage weiterhin teilweise bewohnt.\n\nDer jüngste Angriff reiht sich in eine Serie schwerer Schläge gegen zivile Infrastruktur ein, die internationale Beobachter als systematische Terrorstrategie werten. Humanitäre Organisationen fordern erneut sichere Korridore für die verbliebene Zivilbevölkerung.",
-          "tag": "Ukraine-Krieg",
-          "emoji": "🚌",
+          "titel": "Navi Pillay gewinnt den Friedensnobelpreis 2026",
+          "zusammenfassung": "Das Norwegische Nobelkomitee hat der früheren UN-Hochkommissarin für Menschenrechte, Navi Pillay, den Friedensnobelpreis verliehen. Sie wird für ihren jahrzehntelangen Einsatz für internationales Recht und eine friedlichere Weltordnung geehrt.",
+          "bedeutung": "Die Auszeichnung setzt ein globales Signal für den Wert internationaler Institutionen und Menschenrechtsnormen in einer Zeit zunehmender geopolitischer Spannungen.",
+          "hintergrund": "Navi Pillay, geboren in Südafrika, war von 2008 bis 2014 UN-Hochkommissarin für Menschenrechte und zuvor Richterin am Internationalen Strafgerichtshof. Ihre Karriere ist eng mit dem Kampf gegen Straflosigkeit und für universelle Menschenrechtsstandards verknüpft.\n\nDie Vergabe fällt in ein Jahr, in dem internationale Rechtsinstitutionen unter erheblichem Druck stehen, unter anderem durch US-Sanktionen gegen den Internationalen Strafgerichtshof. Das Komitee in Oslo dürfte die Wahl auch als bewusste Botschaft verstanden wissen wollen.",
+          "tag": "Nobelpreis",
+          "emoji": "🕊️",
           "quelle": "BBC",
-          "quelle_url": "https://www.bbc.co.uk/news/articles/c875pwq134l3o?at_medium=RSS&at_campaign=rss"
+          "quelle_url": "https://www.bbc.co.uk/news/articles/cm9wz5kng0x1o?at_medium=RSS&at_campaign=rss"
         },
         {
           "id": "politik-1",
-          "titel": "Kanadische Dichterin Anne Carson gewinnt Nobelpreis Literatur",
-          "zusammenfassung": "Die 76-jährige Kanadierin Anne Carson wurde mit dem Nobelpreis für Literatur ausgezeichnet, den ihr die Schwedische Akademie für ein Werk verlieh, das Poesie, Prosa und Wissenschaft auf ungewöhnliche Weise miteinander verbindet. Carson gilt als eine der originellsten Stimmen der englischsprachigen Gegenwartsliteratur.",
-          "bedeutung": "Die Auszeichnung lenkt die weltweite Aufmerksamkeit auf eine Autorin, die Gattungsgrenzen konsequent überschreitet und damit literarische Konventionen neu verhandelt.",
-          "hintergrund": "Anne Carson lehrte Jahrzehnte lang klassische Philologie und ließ antike Texte, vor allem griechische Lyrik, tief in ihr dichterisches Schaffen einfließen. Werke wie 'Autobiography of Red' oder 'Nox' wurden international als Meisterstücke hybrider Literatur gefeiert.\n\nMit der Vergabe an Carson setzt die Schwedische Akademie ihre Tendenz fort, Autoren zu ehren, die bestehende Kategorien sprengen. Kanada feiert die Auszeichnung als historischen Moment für seine Literaturszene, die in den vergangenen Jahren international stark an Sichtbarkeit gewonnen hat.",
-          "tag": "Nobelpreis",
-          "emoji": "📜",
+          "titel": "Trump sichert russisches Diesel – Selenskyj empört",
+          "zusammenfassung": "Die US-Regierung hat ein Abkommen über den Bezug russischen Diesels angekündigt. Der ukrainische Präsident Wolodymyr Selenskyj verurteilte den Schritt scharf als Unterstützung für die russische Kriegswirtschaft.",
+          "bedeutung": "Der Deal untergräbt die westliche Sanktionspolitik gegenüber Russland und stellt die Geschlossenheit der Ukraine-Unterstützer grundsätzlich infrage.",
+          "hintergrund": "Trumps Entscheidung, russischen Diesel einzukaufen, wird innenpolitisch mit dem Ziel verknüpft, vor den anstehenden Midterm-Wahlen die Kraftstoffpreise in den USA zu senken. Kritiker sehen darin eine gefährliche Vermengung kurzfristiger Wahlkampftaktik mit weitreichender Außenpolitik.\n\nFür die Ukraine bedeutet das Abkommen eine empfindliche diplomatische Niederlage, da es Moskau wirtschaftliche Einnahmen sichert und das Signal aussendet, dass die USA bereit sind, Sanktionsmechanismen zu umgehen, wenn es innenpolitisch opportun erscheint.",
+          "tag": "Ukraine-Krieg",
+          "emoji": "🛢️",
           "quelle": "BBC",
-          "quelle_url": "https://www.bbc.co.uk/news/articles/cq4g1j54nepyo?at_medium=RSS&at_campaign=rss"
+          "quelle_url": "https://www.bbc.co.uk/news/articles/cm1dwgr666wno?at_medium=RSS&at_campaign=rss"
         },
         {
           "id": "politik-2",
-          "titel": "USA klagen Ex-Präsident Maduro wegen Folterkomplott an",
-          "zusammenfassung": "Die US-Justiz hat gegen den früheren venezolanischen Staatschef Nicolás Maduro neue Anklagepunkte wegen Verschwörung zur Folter erhoben. Im Mittelpunkt stehen Vorwürfe, dass unter seiner Herrschaft festgehaltene US-Bürger systematisch misshandelt worden seien.",
-          "bedeutung": "Die Anklage verschärft den juristischen und diplomatischen Druck auf Maduro erheblich und könnte Auslieferungsverhandlungen mit Drittstaaten beeinflussen.",
-          "hintergrund": "Maduro hatte Venezuela im Juli 2024 nach umstrittenen Wahlen verlassen und hält sich seitdem im Exil auf. US-Behörden hatten ihn bereits zuvor wegen Drogenhandelsvorwürfen mit einem Kopfgeld belegt, die neuen Anklagepunkte kommen nun als eigenständiger Komplex hinzu.\n\nMenschenrechtsorganisationen dokumentierten während Maduros Amtszeit zahlreiche Fälle von Willkürinhaftierung und Folter, darunter auch Fälle mit Bezug zu ausländischen Staatsangehörigen. Die Anklage gilt als politisches Signal Washingtons an lateinamerikanische Regierungen, die Maduro bisher Schutz gewährt haben.",
-          "tag": "Venezuela",
+          "titel": "USA verhängen Sanktionen gegen Internationalen Strafgerichtshof",
+          "zusammenfassung": "Washington hat Sanktionen gegen den Internationalen Strafgerichtshof in Den Haag bekanntgegeben. Mehrere europäische Verbündete, darunter das Vereinigte Königreich, wiesen den Schritt entschieden zurück.",
+          "bedeutung": "Die Maßnahmen erschüttern das Fundament der regelbasierten internationalen Ordnung und belasten die transatlantischen Beziehungen erheblich.",
+          "hintergrund": "Der Internationale Strafgerichtshof hatte zuletzt Haftbefehle erlassen, die US-Interessen und Verbündete betrafen, was Washington als Anlass für die Sanktionen nennt. Der Gerichtshof selbst bezeichnete den Schritt als Angriff auf den Rechtsstaat.\n\nDie Reaktionen westlicher Partner zeigen eine wachsende Kluft zwischen den USA und ihren traditionellen Alliierten in Fragen des multilateralen Systems. Für den IStGH, der auf politische Rückendeckung angewiesen ist, um Urteile durchzusetzen, könnte dies langfristig gravierende Konsequenzen haben.",
+          "tag": "Völkerrecht",
           "emoji": "⚖️",
           "quelle": "BBC",
-          "quelle_url": "https://www.bbc.co.uk/news/articles/c5pvgn7xvxpzo?at_medium=RSS&at_campaign=rss"
+          "quelle_url": "https://www.bbc.co.uk/news/articles/cj20vkkx3rdvo?at_medium=RSS&at_campaign=rss"
         }
       ]
     },
@@ -49,36 +49,36 @@
       "stories": [
         {
           "id": "wirtschaft-0",
-          "titel": "Weißes Haus sperrt Microsoft aus Visaprogramm für Fachkräfte",
-          "zusammenfassung": "Die US-Regierung hat Microsoft den Zugang zu einem internationalen Visaprogramm entzogen, das Tech-Unternehmen bislang ermöglichte, hochqualifizierte Arbeitskräfte aus dem Ausland zu rekrutieren. Der Schritt trifft einen der größten Arbeitgeber der amerikanischen Technologiebranche und dürfte branchenweite Reaktionen auslösen.",
-          "bedeutung": "Die Maßnahme signalisiert eine weitere Verschärfung der US-Einwanderungspolitik im Technologiesektor und könnte den globalen Wettbewerb um Spitzenkräfte neu ordnen.",
-          "hintergrund": "Das betroffene Programm war jahrelang ein zentrales Instrument für amerikanische Konzerne, um Ingenieure, Datenwissenschaftler und andere Spezialisten vor allem aus Indien und China zu gewinnen. Ein Entzug des Zugangs für einen Konzern von Microsofts Größenordnung wäre ohne Präzedenzfall.\n\nKritiker sehen darin eine Fortsetzung protektionistischer Maßnahmen, die kurzfristig innenpolitisch wirksam sind, langfristig jedoch die Innovationskraft amerikanischer Unternehmen schwächen könnten. Europäische und asiatische Technologiezentren dürften die Entwicklung aufmerksam beobachten und möglicherweise gezielt um abgeworbene Talente werben.",
+          "titel": "White House blockiert Microsoft bei Ausländer-Visaprogramm",
+          "zusammenfassung": "Das Weiße Haus hat Microsoft den Zugang zu einem zentralen Visaprogramm verweigert, über das US-Technologiefirmen bislang hochqualifizierte Arbeitskräfte aus dem Ausland rekrutierten. Der Schritt trifft eine Branche, die stark auf internationale Talente angewiesen ist.",
+          "bedeutung": "Der Eingriff könnte die Innovationsfähigkeit des US-Technologiesektors schwächen und einen Präzedenzfall für weitere Beschränkungen gegenüber anderen Unternehmen setzen.",
+          "hintergrund": "Das betroffene Visaprogramm ist seit Jahren ein zentrales Instrument für amerikanische Tech-Konzerne, um Fachkräftemangel im Inland auszugleichen. Experten warnen, dass eine systematische Einschränkung die globale Wettbewerbsposition des Silicon Valley gefährden könnte.\n\nDer Schritt fügt sich in eine breitere protektionistische Agenda der Trump-Regierung ein, die auf Einschränkungen bei Einwanderung und Außenhandel setzt. Unternehmen der Branche beobachten die Entwicklung mit wachsender Sorge, da ähnliche Maßnahmen gegen weitere Konzerne nicht ausgeschlossen scheinen.",
           "tag": "Tech-Politik",
-          "emoji": "🖥️",
+          "emoji": "💼",
           "quelle": "BBC",
           "quelle_url": "https://www.bbc.co.uk/news/articles/ck5yngl2y4gpo?at_medium=RSS&at_campaign=rss"
         },
         {
           "id": "wirtschaft-1",
-          "titel": "Asos-Hackerangriff schwerwiegender als zunächst eingestanden",
-          "zusammenfassung": "Nach Recherchen stellt sich heraus, dass Cyberkriminelle beim jüngsten Angriff auf den britischen Onlinehändler Asos deutlich mehr persönliche Kundendaten erbeutet haben als das Unternehmen anfangs öffentlich eingeräumt hatte. Die Täter wandten sich selbst an die Presse, um auf den wahren Umfang des Datenlecks hinzuweisen.",
-          "bedeutung": "Der Fall zeigt exemplarisch, wie Unternehmen bei Datenpannen zur Verharmlosung neigen, und erhöht den Ruf nach strengerer Transparenzpflicht im Cyberbereich.",
-          "hintergrund": "Asos gehört zu den meistgenutzten Modeplattformen Europas mit tens of Millionen registrierten Kunden. Ein umfangreicher Datenverlust kann neben unmittelbaren Schäden für Betroffene auch das Vertrauen in den wachsenden Onlinehandel insgesamt erschüttern.\n\nDatenschutzbehörden in der EU und Großbritannien haben angekündigt, den Vorfall zu prüfen. Cybersicherheitsexperten verweisen darauf, dass die Praxis, Hacker-Angriffe zunächst kleinzureden, ein strukturelles Problem im Umgang börsennotierter Unternehmen mit Sicherheitsvorfällen darstellt.",
-          "tag": "Cybersicherheit",
-          "emoji": "🔓",
+          "titel": "Trump will Benzinpreise senken – Strategie vor Midterms",
+          "zusammenfassung": "Angesichts steigender Lebenshaltungskosten macht die US-Regierung die Senkung der Kraftstoffpreise zu einer innenpolitischen Priorität vor den Midterm-Wahlen im November. Experten zweifeln jedoch an der Wirksamkeit der geplanten Maßnahmen.",
+          "bedeutung": "Die Kraftstoffkosten sind ein Stimmungsbarometer für Millionen amerikanischer Wähler und könnten das Ergebnis der Zwischenwahlen maßgeblich beeinflussen.",
+          "hintergrund": "Die Benzinpreise in den USA haben sich in den vergangenen Monaten zu einem zentralen Reizthema entwickelt, das die Republikanische Partei unter Druck setzt. Ökonomen bezweifeln, dass kurzfristige Eingriffe auf globalen Energiemärkten nachhaltige Entlastung bringen können.\n\nGleichzeitig zeigt das Vorgehen, wie stark wirtschafts- und außenpolitische Entscheidungen – darunter auch der Deal über russischen Diesel – von innenpolitischen Wahlkampferwägungen überlagert werden. Kritiker sprechen von einer riskanten Vermischung von Interessen.",
+          "tag": "Energiepolitik",
+          "emoji": "⛽",
           "quelle": "BBC",
-          "quelle_url": "https://www.bbc.co.uk/news/articles/c3zxjdw5ywgpo?at_medium=RSS&at_campaign=rss"
+          "quelle_url": "https://www.bbc.co.uk/news/articles/cv2d6x749lwro?at_medium=RSS&at_campaign=rss"
         },
         {
           "id": "wirtschaft-2",
-          "titel": "Frankreich lockt Großbritannien zur Rückkehr in die EU",
-          "zusammenfassung": "Der französische Finanzminister Roland Lescure hat Großbritannien öffentlich aufgefordert, vollständig in die Europäische Union zurückzukehren. Er argumentierte, dass EU-Mitgliedschaft die beste Antwort auf die globalen wirtschaftlichen Herausforderungen der Gegenwart sei.",
-          "bedeutung": "Derartige Appelle aus Paris sind politisch ungewöhnlich und könnten eine neue Debatte über ein zweites Brexit-Referendum in Großbritannien anfachen.",
-          "hintergrund": "Seit dem Brexit 2020 haben britische und europäische Verhandler zwar das Verhältnis in mehreren Bereichen neu geregelt, doch tiefe wirtschaftliche Verwerfungen bestehen fort. Die britische Wirtschaft wächst langsamer als die meisten großen EU-Volkswirtschaften, was Befürwortern einer Annäherung Auftrieb gibt.\n\nDie britische Regierung hat bislang eine Rückkehr in den Binnenmarkt oder gar die Vollmitgliedschaft kategorisch ausgeschlossen. Lescures Vorstoß dürfte dennoch die innenpolitische Diskussion in London befeuern, zumal jüngere Umfragen in Großbritannien eine wachsende Mehrheit für engere EU-Beziehungen zeigen.",
-          "tag": "Brexit",
-          "emoji": "🇪🇺",
-          "quelle": "BBC",
-          "quelle_url": "https://www.bbc.co.uk/news/articles/cqdjvg3xww2go?at_medium=RSS&at_campaign=rss"
+          "titel": "New Yorker Fed: Zölle trieben Inflation bei Alltagsgütern",
+          "zusammenfassung": "Forscher der Federal Reserve Bank of New York haben ermittelt, dass US-Zölle in 67 Produktkategorien die Inflation bis Februar 2026 um fast drei Prozentpunkte angehoben haben. Betroffen sind vor allem Güter des täglichen Bedarfs.",
+          "bedeutung": "Die Studie liefert erstmals belastbare Zahlen dafür, wie stark die Handelspolitik der Trump-Regierung direkt die Kaufkraft amerikanischer Haushalte belastet.",
+          "hintergrund": "Seit Einführung umfassender Importzölle streiten Ökonomen und Politiker darüber, wer die Kosten letztlich trägt. Die neue Auswertung der New Yorker Fed deutet klar darauf hin, dass ein erheblicher Teil auf die Verbraucher abgewälzt wurde.\n\nDas hat politische Sprengkraft, denn es konterkariert das Narrativ der Regierung, Zölle schützten amerikanische Arbeitsplätze ohne nennenswerte Preiseffekte. Angesichts der bevorstehenden Midterms könnte das Papier die Debatte über Handelspolitik neu entfachen.",
+          "tag": "Inflation",
+          "emoji": "📊",
+          "quelle": "CNBC",
+          "quelle_url": "https://www.cnbc.com/2026/10/08/inflation-tariffs-trump-fed-consumer-goods.html"
         }
       ]
     },
@@ -89,36 +89,36 @@
       "stories": [
         {
           "id": "boerse-0",
-          "titel": "New Yorker Fed: Zölle trieben Inflation in Dutzenden Kategorien",
-          "zusammenfassung": "Forscher der Federal Reserve Bank of New York haben errechnet, dass US-Zölle bis Februar 2026 in 67 Warenkategorien für rund 2,9 Prozentpunkte zusätzliche Inflation verantwortlich waren. Damit sei der Preisanstieg bei vielen Alltagsgütern ausschließlich auf Handelsschranken zurückzuführen.",
-          "bedeutung": "Die Studie liefert das bisher schärfste empirische Argument gegen die Annahme, Zölle seien inflationsneutral, und erhöht den Druck auf die US-Geldpolitik.",
-          "hintergrund": "Die Ergebnisse erscheinen zu einem Zeitpunkt, an dem die US-Notenbank Fed abwägt, ob sie den Leitzins weiter anheben oder stabil halten soll. Eine durch Handelspolitik verursachte strukturelle Inflation lässt sich mit klassischen geldpolitischen Mitteln nur schwer bekämpfen, ohne gleichzeitig das Wachstum abzuwürgen.\n\nFür Verbraucher bedeutet die Analyse, dass ein erheblicher Teil der gestiegenen Lebenshaltungskosten politisch bedingt ist und bei einer Änderung der Zollpolitik grundsätzlich reversibel wäre. Handelspartner der USA dürften die Studie als Argument in laufenden Verhandlungen nutzen.",
-          "tag": "Inflation",
-          "emoji": "📈",
+          "titel": "US-Schuldenlast: Warnsignal auf Niveau der Finanzkrise",
+          "zusammenfassung": "Neue Forschungsdaten zeigen, dass die Fähigkeit amerikanischer Haushalte, ihre Schulden zu bedienen, auf den schlechtesten Stand seit der Großen Rezession gefallen ist. Während Vermögensungleichheiten leicht abnahmen, verschärfte sich die finanzielle Fragilität breiter Bevölkerungsschichten.",
+          "bedeutung": "Strukturelle Schwächen bei der Schuldentragfähigkeit können bei einem konjunkturellen Abschwung schnell systemische Risiken für den Finanzmarkt auslösen.",
+          "hintergrund": "Die Befunde erinnern an Muster, die vor der Finanzkrise 2008 beobachtet wurden, als steigende Verschuldung bei sinkender Tilgungsfähigkeit den Zusammenbruch des Hypothekenmarkts vorbereitete. Ökonomen mahnen zur Vorsicht, auch wenn das Gesamtbild noch kein unmittelbares Krisenzenario zeigt.\n\nFür die US-Notenbank Fed bedeuten diese Daten ein weiteres Argument, Zinssenkungen behutsam zu handhaben. Zu rasche Lockerungen könnten riskantes Kreditverhalten anheizen, während zu hohe Zinsen die Schuldenlast weiter verschärfen.",
+          "tag": "Schulden",
+          "emoji": "⚠️",
           "quelle": "CNBC",
-          "quelle_url": "https://www.cnbc.com/2026/10/08/inflation-tariffs-trump-fed-consumer-goods.html"
+          "quelle_url": "https://www.cnbc.com/2026/10/09/american-debt-delinquency.html"
         },
         {
           "id": "boerse-1",
-          "titel": "IWF-Chefin: KI treibt Wachstum und Inflation zugleich",
-          "zusammenfassung": "Kristalina Georgieva, Direktorin des Internationalen Währungsfonds, warnte auf einem internationalen Forum, dass künstliche Intelligenz zwar kurzfristig das Wirtschaftswachstum ankurbele, gleichzeitig aber Inflationsdruck und steigende Anleiherenditen begünstige. Die Kombination sei besonders heikel angesichts der global hohen Staatsverschuldung.",
-          "bedeutung": "Die Einschätzung der IWF-Chefin prägt die Erwartungshaltung der Finanzmärkte an eine Welt, in der technologischer Fortschritt makroökonomische Risiken neu verteilt.",
-          "hintergrund": "Georgieva bezog sich auf Analysen, wonach der massive Energiebedarf von Rechenzentren sowie gestiegene Investitionsausgaben für KI-Infrastruktur in mehreren Volkswirtschaften preistreibend wirken. Gleichzeitig erhöhen höhere Renditen die Finanzierungskosten für Staaten, die nach der Pandemie ohnehin hohe Schuldenstände aufgebaut haben.\n\nDie Aussagen fallen in eine Phase, in der viele Zentralbanken auf eine vorsichtige Zinssenkung setzen. Sollte der KI-bedingte Inflationsdruck anhalten, könnte sich dieser Spielraum schnell verengen, was Märkte für Staatsanleihen weltweit unter Druck setzen würde.",
-          "tag": "KI & Märkte",
-          "emoji": "🤖",
+          "titel": "Chinas Immobilienmarkt: Trendwende in Sicht?",
+          "zusammenfassung": "Die Ratingagentur S&P geht davon aus, dass sich Chinas Immobilienmärkte in den größten Städten bereits im kommenden Jahr erholen könnten. Nach Jahren anhaltender Krise mit Insolvenzen großer Entwickler wäre das eine bedeutende Wende.",
+          "bedeutung": "Eine Stabilisierung des chinesischen Immobilienmarkts hätte weitreichende Auswirkungen auf globale Rohstoffnachfrage, Finanzmärkte und das Wachstum der Weltwirtschaft.",
+          "hintergrund": "Chinas Immobiliensektor hatte jahrelang als Motor des Wirtschaftswachstums fungiert, bevor eine Schuldenkrise führende Entwickler wie Evergrande in die Insolvenz trieb. Die anhaltende Schwäche belastete nicht nur das chinesische BIP, sondern auch internationale Rohstoffmärkte.\n\nS&P verweist auf staatliche Stützungsmaßnahmen und eine langsam wiederkehrende Kaufbereitschaft in Metropolen als Indikatoren für eine mögliche Bodenbildung. Für Investoren, die in den vergangenen Jahren Verluste erlitten haben, wäre eine Erholung ein lang ersehntes Signal.",
+          "tag": "Immobilien",
+          "emoji": "🏙️",
           "quelle": "CNBC",
-          "quelle_url": "https://www.cnbc.com/2026/10/07/economy-inflation-ai-trade-imf-iran-hormuz-trump-.html"
+          "quelle_url": "https://www.cnbc.com/2026/10/08/chinas-real-estate-market-may-be-set-for-a-turnaround-sp-says.html"
         },
         {
           "id": "boerse-2",
-          "titel": "Indiens Zentralbank hebt Leitzins erstmals seit 2023 an",
-          "zusammenfassung": "Die Reserve Bank of India hat ihren Leitzins erstmals seit mehr als drei Jahren erhöht, um einer wieder anziehenden Inflation entgegenzuwirken. Analysten von HSBC und Goldman Sachs erwarten eine weitere Anhebung noch im laufenden Quartal.",
-          "bedeutung": "Als eine der größten Schwellenländernotenbanken setzt die RBI damit ein Signal, das Kapitalflüsse in der gesamten asiatischen Region beeinflussen dürfte.",
-          "hintergrund": "Indien verzeichnet seit Monaten steigende Nahrungsmittel- und Energiepreise, die von saisonal bedingten Angebotsengpässen und globalen Rohstoffpreisen verstärkt werden. Die Zentralbank hatte lange auf Zinssenkungen gesetzt, um das robuste Wirtschaftswachstum zu stützen, sieht sich nun aber zum Kurswechsel gezwungen.\n\nFür internationale Anleger verschiebt der Zinsschritt das Rendite-Risiko-Profil indischer Staatsanleihen und Aktien. Andere Schwellenländer in Südostasien, die ähnlichen Inflationstendenzen ausgesetzt sind, könnten dem Beispiel Indiens folgen und ebenfalls restriktivere Geldpolitik signalisieren.",
-          "tag": "Zinspolitik",
-          "emoji": "🏦",
+          "titel": "Nasdaq-Chefin: Tokenisierung könnte Milliarden freisetzen",
+          "zusammenfassung": "Nasdaq-Vorstandschefin Adena Friedman sieht in der Tokenisierung von Vermögenswerten ein Potenzial, Dutzende Milliarden Dollar an gebundenem Kapital auf den Markt zu bringen. Die Blockchain-Technologie könnte damit klassische Finanzmärkte grundlegend verändern.",
+          "bedeutung": "Wenn eine der weltweit wichtigsten Börsenbetreiberinnen Tokenisierung als ernstzunehmende Kraft benennt, signalisiert das eine beschleunigte Annäherung zwischen traditioneller Finanzwelt und digitalen Vermögenswerten.",
+          "hintergrund": "Tokenisierung bezeichnet die digitale Abbildung realer Vermögenswerte wie Immobilien, Anleihen oder Private-Equity-Anteile auf einer Blockchain. Bislang sind solche Anlagen oft illiquide und schwer handelbar, was Kapital langfristig bindet.\n\nMit wachsendem regulatorischen Rahmenwerk in den USA und Europa gewinnt das Thema an Fahrt. Institutionelle Investoren und Börsenbetreiber positionieren sich zunehmend, um von einer möglichen Tokenisierungswelle zu profitieren.",
+          "tag": "Krypto",
+          "emoji": "🔗",
           "quelle": "CNBC",
-          "quelle_url": "https://www.cnbc.com/2026/10/07/india-rbi-interest-rates-inflation.html"
+          "quelle_url": "https://www.cnbc.com/2026/10/09/nasdaq-ceo-tokenization-could-unleash-billions-in-trapped-capital-.html"
         }
       ]
     }
