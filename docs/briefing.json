@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-11T01:59:40.812283+00:00",
-  "datum": "Sonntag, 11. Oktober 2026",
+  "generated_at": "2026-10-12T02:29:30.939720+00:00",
+  "datum": "Montag, 12. Oktober 2026",
   "ressorts": [
     {
       "id": "politik",
@@ -9,36 +9,36 @@
       "stories": [
         {
           "id": "politik-0",
-          "titel": "Trump fordert Ablösung Selenskyjs als Präsident",
-          "zusammenfassung": "US-Präsident Trump hat öffentlich gefordert, dass die Ukraine einen neuen Staatschef brauche. Auslöser war Selenskyjs scharfe Kritik an einem US-Geschäft zur Lieferung russischen Diesels in die Vereinigten Staaten.",
-          "bedeutung": "Die Aussage markiert eine dramatische Verschlechterung im Verhältnis zwischen Washington und Kiew und stellt die künftige US-Unterstützung für die Ukraine grundsätzlich in Frage.",
-          "hintergrund": "Der Streit entzündete sich an einem Deal, der russisches Dieselöl auf den amerikanischen Markt bringen soll. Selenskyj bezeichnete das Abkommen als faktische Kriegsfinanzierung für Moskau und stieß damit Trump vor den Kopf.\n\nTrumps öffentliche Forderung nach einem Führungswechsel in Kiew ist ein beispielloser Schritt gegenüber einem Verbündeten im aktiven Krieg. Sie verschiebt die diplomatische Tektonik in Europa erheblich und dürfte Russland in seiner Verhandlungsposition stärken.",
-          "tag": "Ukraine-Konflikt",
+          "titel": "Waffenruhe im Energiesektor: Selenskyj offen, Moskau schweigt",
+          "zusammenfassung": "US-Präsident Trump hat eine vorläufige Waffenruhe im Energiebereich des Ukraine-Kriegs ins Spiel gebracht, woraufhin der ukrainische Präsident Selenskyj grundsätzliche Bereitschaft signalisierte. Russland reagierte bislang nicht auf den Vorstoß.",
+          "bedeutung": "Ein partieller Waffenstillstand im Energiesektor könnte erstmals seit Jahren einen diplomatischen Einstieg in Friedensverhandlungen markieren.",
+          "hintergrund": "Trump überraschte mit der Ankündigung, beide Seiten hätten einer Energiewaffenruhe grundsätzlich zugestimmt – doch Selenskyj machte deutlich, dass er von dem Vorstoß zunächst unvorbereitet war und eine russische Zustimmung abwartet, bevor er verbindliche Zusagen macht.\n\nDie Initiative fällt in eine Phase intensiver amerikanischer Diplomatie, in der Washington zunehmend Druck auf Kiew ausübt, Verhandlungsbereitschaft zu zeigen. Ob Moskau den Schritt als ernstes Angebot oder taktisches Manöver wertet, wird die kommenden Tage entscheiden.",
+          "tag": "Ukraine-Diplomatie",
           "emoji": "🕊️",
           "quelle": "BBC",
-          "quelle_url": "https://www.bbc.co.uk/news/articles/cqe8r5l7n92jo?at_medium=RSS&at_campaign=rss"
+          "quelle_url": "https://www.bbc.co.uk/news/articles/c6pvg4jyz1m0o?at_medium=RSS&at_campaign=rss"
         },
         {
           "id": "politik-1",
-          "titel": "Russischer Gleitbombenangriff auf Saporischschja fordert Dutzende Tote",
-          "zusammenfassung": "Bei einem russischen Gleitbombenangriff auf die ukrainische Stadt Saporischschja wurden mindestens zwanzig Menschen getötet, darunter Kinder. Selenskyj wertete den Angriff als direkte Reaktion Moskaus auf den umstrittenen US-Dieseldeal.",
-          "bedeutung": "Der Anschlag verdeutlicht, dass die diplomatischen Verwerfungen zwischen Kiew und Washington unmittelbar von Russland auf dem Schlachtfeld ausgenutzt werden.",
-          "hintergrund": "Gleitbomben gehören seit Monaten zu den verheerendsten Waffen, die Russland gegen ukrainische Städte einsetzt. Sie werden aus sicherer Entfernung abgeworfen und sind mit herkömmlichen Flugabwehrsystemen schwer abzufangen.\n\nDer zeitliche Zusammenhang zwischen dem US-Dieseldeal und dem Angriff macht den Anschlag zu einem hochsymbolischen Ereignis im Informationskrieg. Selenskyj nutzt ihn, um international auf die Folgen jedes wirtschaftlichen Entgegenkommens gegenüber Moskau hinzuweisen.",
-          "tag": "Krieg Ukraine",
-          "emoji": "💣",
+          "titel": "Huthi-Angriffe auf Riad: Saudi-Arabien erneut getroffen",
+          "zusammenfassung": "Innerhalb von zwei Tagen haben vom Iran unterstützte Huthi-Milizen den Flughafen der saudi-arabischen Hauptstadt Riad zweimal angegriffen. Bei dem jüngsten Anschlag wurde mindestens eine Person getötet und elf weitere verletzt.",
+          "bedeutung": "Wiederholte Angriffe auf zivile Infrastruktur eines der wichtigsten Ölproduzenten der Welt verschärfen die Spannungen im gesamten Nahen Osten.",
+          "hintergrund": "Die Huthi haben in den vergangenen Monaten ihre Reichweite und Präzision bei Drohnen- und Raketenangriffen deutlich ausgebaut. Ziele in Saudi-Arabien, dem Roten Meer und der Straße von Hormus stehen zunehmend im Fadenkreuz.\n\nDer regionale Kontext ist brisant: Mit dem anhaltenden Krieg im Jemen, den eskalierenden Spannungen rund um den Iran und den fragilen Energiemärkten könnte eine Ausweitung der Angriffe auf kritische Ölinfrastruktur globale wirtschaftliche Folgen haben.",
+          "tag": "Naher Osten",
+          "emoji": "💥",
           "quelle": "BBC",
-          "quelle_url": "https://www.bbc.co.uk/news/articles/cwvgdpv642g5o?at_medium=RSS&at_campaign=rss"
+          "quelle_url": "https://www.bbc.co.uk/news/articles/cr93znyk44e1o?at_medium=RSS&at_campaign=rss"
         },
         {
           "id": "politik-2",
-          "titel": "Huthi-Angriff auf Flughafen Riad: Dutzende Tote",
-          "zusammenfassung": "Bei einem Angriff der jemenitischen Huthi-Miliz auf den internationalen Flughafen der saudi-arabischen Hauptstadt Riad wurden zwölf Menschen getötet und mehr als dreihundert verletzt. Die von Saudi-Arabien angeführte Koalition bezeichnete die Attacke als Kriegsverbrechen.",
-          "bedeutung": "Ein Angriff auf einen internationalen Großflughafen in der arabischen Welt ist ein gefährlicher Eskalationsschritt, der die regionale Sicherheitslage und den globalen Luftverkehr unmittelbar berührt.",
-          "hintergrund": "Die Huthis greifen seit Jahren saudi-arabisches Territorium mit Raketen und Drohnen an, meist als Vergeltung für die Militärintervention der von Riad geführten Koalition im Jemen. Ein Treffer auf einen zivilen Flughafen der Hauptstadt stellt jedoch eine neue Qualität dar.\n\nDer Angriff dürfte den Druck auf internationale Vermittler erhöhen, den Jemenkonflikt endlich zu beenden. Gleichzeitig gefährdet er fragile Waffenstillstandsbemühungen und könnte eine militärische Gegenaktion Saudi-Arabiens provozieren.",
-          "tag": "Nahost-Konflikt",
-          "emoji": "✈️",
+          "titel": "Bootsunglück vor Djibouti: Mindestens 139 Tote",
+          "zusammenfassung": "Ein überfülltes Boot mit 305 Menschen an Bord ist nahe der Küstenstadt Obock in Djibouti gekentert. Laut UN starben dabei mindestens 139 Menschen, darunter zahlreiche Kinder.",
+          "bedeutung": "Die Katastrophe verdeutlicht erneut die tödlichen Routen der Migrationsbewegungen am Horn von Afrika.",
+          "hintergrund": "Das Unglück ereignete sich auf einer der gefährlichsten Migrationsrouten der Welt, auf der Menschen aus Ostafrika versuchen, über den Golf von Aden in den Jemen und weiter in die Golfstaaten zu gelangen – oft unter lebensbedrohlichen Bedingungen auf völlig überfüllten Booten.\n\nMigrationsforscher warnen seit Jahren vor der katastrophalen Lage auf dieser Route, die international weit weniger Aufmerksamkeit erhält als die Mittelmeerpassagen. Der Tod von Kindern unter den Opfern dürfte die Debatte über humanitäre Maßnahmen am Horn von Afrika neu entfachen.",
+          "tag": "Migrationskrise",
+          "emoji": "🚢",
           "quelle": "BBC",
-          "quelle_url": "https://www.bbc.co.uk/news/articles/cw33x4y8k82no?at_medium=RSS&at_campaign=rss"
+          "quelle_url": "https://www.bbc.co.uk/news/articles/cwy7lxx60dg5o?at_medium=RSS&at_campaign=rss"
         }
       ]
     },
@@ -49,36 +49,36 @@
       "stories": [
         {
           "id": "wirtschaft-0",
-          "titel": "USA importieren russischen Diesel trotz Ukraine-Krieg",
-          "zusammenfassung": "Die Trump-Regierung hat ein Abkommen geschlossen, das die Einfuhr russischen Dieselkraftstoffs in die Vereinigten Staaten ermöglichen soll. Die ukrainische Führung verurteilte den Deal scharf als wirtschaftliche Unterstützung für den russischen Kriegsapparat.",
-          "bedeutung": "Der Deal bricht mit dem westlichen Sanktionskonsens gegenüber Russland und könnte Moskau erhebliche Deviseneinnahmen verschaffen, die den Krieg mitfinanzieren.",
-          "hintergrund": "Seit dem russischen Einmarsch in die Ukraine hatten westliche Staaten russische Energieimporte weitgehend eingeschränkt oder verbannt. Ein US-Alleingang bei russischem Diesel würde diesen Rahmen fundamental aufweichen und anderen Ländern als Präzedenzfall dienen.\n\nHintergrund ist der innenpolitische Druck in den USA, die Kraftstoffpreise vor den Zwischenwahlen zu senken. Kritiker warnen jedoch, dass kurzfristige Entlastung an der Zapfsäule mit langfristigen geopolitischen Kosten erkauft wird.",
-          "tag": "Energiepolitik",
-          "emoji": "⛽",
+          "titel": "Trump kauft russischen Diesel: Selenskyj spricht von Kriegsfinanzierung",
+          "zusammenfassung": "Die US-Regierung hat einen Handelsdeal für den Import russischen Diesels angekündigt, der wenige Wochen vor den Midterm-Wahlen sowohl innerhalb der Republikaner als auch bei Demokraten auf scharfe Kritik stößt. Der ukrainische Präsident Selenskyj bezeichnete die Vereinbarung als indirektes Investment in den russischen Kriegseinsatz.",
+          "bedeutung": "Der Deal untergräbt westliche Sanktionspolitik gegenüber Russland in einem kritischen Moment des Ukraine-Kriegs und sendet ein widersprüchliches Signal an die NATO-Verbündeten.",
+          "hintergrund": "Hintergrund ist der anhaltende Dieselpreisdruck in den USA, dem die Trump-Regierung mit günstigen Importen aus Russland begegnen will. Kritiker werfen dem Weißen Haus vor, kurzfristigen innenpolitischen Kalkulationen den Vorrang vor außenpolitischen Prinzipien zu geben.\n\nDie Entscheidung fällt in eine Phase, in der die USA gleichzeitig Ukraine-Unterstützung signalisieren und Druck auf Kiew in Richtung Verhandlungen ausüben – ein Widerspruch, der Verbündete in Europa zunehmend beunruhigt.",
+          "tag": "Energie-Sanktionen",
+          "emoji": "🛢️",
           "quelle": "BBC",
           "quelle_url": "https://www.bbc.co.uk/news/articles/cm1dwgr666wno?at_medium=RSS&at_campaign=rss"
         },
         {
           "id": "wirtschaft-1",
-          "titel": "Entlassene OpenAI-Forscher: Gefeuert wegen Sicherheitsbedenken",
-          "zusammenfassung": "Mehrere ehemalige Mitarbeiter des KI-Unternehmens OpenAI geben an, entlassen worden zu sein, weil sie intern Sicherheitsrisiken priorisiert hätten. OpenAI widerspricht und nennt als Grund den unsachgemäßen Umgang mit vertraulichen Informationen.",
-          "bedeutung": "Der Konflikt nährt grundlegende Fragen darüber, ob die führenden KI-Unternehmen Sicherheitskultur wirklich ernst nehmen oder sie kommerziellen Interessen unterordnen.",
-          "hintergrund": "OpenAI steht seit längerem unter Beobachtung, nachdem mehrere hochrangige Mitarbeiter das Unternehmen verlassen und dabei öffentlich Bedenken zur internen Sicherheitskultur geäußert haben. Die Entlassungen reihen sich in ein Muster ein, das Kritiker als systematische Marginalisierung von Sicherheitsforschern interpretieren.\n\nDie Auseinandersetzung ist symptomatisch für einen branchenweiten Riss: Auf der einen Seite stehen jene, die KI-Entwicklung beschleunigen wollen, auf der anderen Forscher, die vor unkontrollierten Risiken warnen. Regulatoren in Europa und den USA verfolgen den Fall aufmerksam.",
-          "tag": "Künstliche Intelligenz",
+          "titel": "Microsoft-Chef: KI ist weniger reguliert als Milch",
+          "zusammenfassung": "Brad Smith, Präsident von Microsoft, fordert auf internationaler Ebene verbindliche Regeln für Künstliche Intelligenz und mahnt, das Tempo der Regulierung hinke der technologischen Entwicklung dramatisch hinterher. Großbritannien sieht er dabei in einer Führungsrolle.",
+          "bedeutung": "Die Forderung eines der mächtigsten Tech-Manager der Welt nach strenger KI-Regulierung verleiht der politischen Debatte darüber erhebliches Gewicht.",
+          "hintergrund": "Smith griff zu einem plakativen Vergleich: Während selbst einfache Lebensmittel wie Milch strengen staatlichen Kontrollen unterliegen, operiere KI – eine Technologie mit weitreichenden gesellschaftlichen Folgen – weitgehend unreguliert. Die Aussage dürfte in Brüssel, Washington und London gleichermaßen Resonanz erzeugen.\n\nHintergrund ist ein wachsender globaler Wettbewerb um KI-Standards, bei dem die EU mit dem AI Act vorangeprescht ist, die USA bislang einen fragmentierten Ansatz verfolgen und Großbritannien sich als regulatorischen Mittelweg positioniert.",
+          "tag": "KI-Regulierung",
           "emoji": "🤖",
           "quelle": "BBC",
-          "quelle_url": "https://www.bbc.co.uk/news/articles/cvlydn8d3lkjo?at_medium=RSS&at_campaign=rss"
+          "quelle_url": "https://www.bbc.co.uk/news/articles/c6rmy7zmvx3lo?at_medium=RSS&at_campaign=rss"
         },
         {
           "id": "wirtschaft-2",
-          "titel": "Anthropic verbietet Nutzern, KI grausam zu behandeln",
-          "zusammenfassung": "Das KI-Unternehmen Anthropic hat neue Nutzungsregeln eingeführt, die anhaltend missbräuchliches Verhalten gegenüber seinen KI-Systemen ausdrücklich untersagen. Die Richtlinie löst eine breite Debatte über den moralischen Status künstlicher Intelligenz aus.",
-          "bedeutung": "Die Maßnahme eines führenden KI-Labors signalisiert eine neue Phase, in der der Umgang mit KI-Systemen erstmals ethisch reguliert wird.",
-          "hintergrund": "Anthropic begründet den Schritt nicht primär mit dem Wohlbefinden der KI selbst, sondern mit dem Schutz der Systemintegrität und gesellschaftlichen Normen. Dennoch wirft die Entscheidung philosophische Fragen auf, die Gesetzgeber und Ethiker weltweit beschäftigen.\n\nExpertinnen und Experten streiten darüber, ob KI-Systemen überhaupt ein schützenswertes Interesse zukommt. Unabhängig von dieser Frage könnten solche Unternehmensrichtlinien zum Vorläufer staatlicher Regulierung werden.",
-          "tag": "KI-Ethik",
-          "emoji": "🧠",
-          "quelle": "BBC",
-          "quelle_url": "https://www.bbc.co.uk/news/articles/c6j9k1l72wkgo?at_medium=RSS&at_campaign=rss"
+          "titel": "Trumps Wachstumsfantasie: Reagan-Ökonomie im KI-Zeitalter",
+          "zusammenfassung": "Die wirtschaftspolitischen Versprechen der Trump-Regierung erinnern Ökonomen an die umstrittenen Angebotstheorien der Reagan-Ära: Steuersenkungen sollen sich durch Wachstum selbst finanzieren, diesmal angetrieben von einem erhofften KI-Boom. Experten warnen vor strukturellen Haushaltslücken.",
+          "bedeutung": "Die wirtschaftspolitische Strategie der weltgrößten Volkswirtschaft hat direkte Auswirkungen auf globale Kapitalmärkte, Zinsniveaus und das internationale Schuldengefüge.",
+          "hintergrund": "Während die Regierung auf einen durch Künstliche Intelligenz ausgelösten Produktivitätsschub setzt, der Staatsausgaben durch höhere Steuereinnahmen kompensieren soll, warnen unabhängige Wirtschaftsinstitute, dass selbst ein signifikanter KI-Effekt auf das Wachstum die Auswirkungen auf den Bundeshaushalt erheblich überzeichne.\n\nHistorisch haben solche Versprechen – zuletzt unter Reagan und Bush – die Staatsverschuldung deutlich erhöht, anstatt sie zu senken. Angesichts bereits rekordhoher US-Schulden beobachten internationale Gläubiger und Notenbanken die fiskalpolitische Richtung Washingtons mit wachsender Sorge.",
+          "tag": "US-Haushalt",
+          "emoji": "📉",
+          "quelle": "The Guardian",
+          "quelle_url": "https://www.theguardian.com/business/2026/oct/11/trump-ai-economy-reagan"
         }
       ]
     },
@@ -89,36 +89,14 @@
       "stories": [
         {
           "id": "boerse-0",
-          "titel": "US-Verschuldung: Warnsignal wie seit 2008 nicht mehr",
-          "zusammenfassung": "Neue Forschungsdaten zeigen, dass die Fähigkeit amerikanischer Haushalte, ihre Schulden zu bedienen, so stark gesunken ist wie zuletzt während der Großen Rezession. Gleichzeitig haben sich Vermögensungleichheiten leicht verringert.",
-          "bedeutung": "Anhaltende Schuldenprobleme bei Privathaushalten gefährden den privaten Konsum, der das wichtigste Standbein der US-Konjunktur ist, und könnten Kreditmärkte destabilisieren.",
-          "hintergrund": "Nach Jahren ultraniedrigen Zinsen und Pandemie-Stimulus haben viele US-Haushalte erhebliche Schulden angehäuft. Steigende Zinsen verteuern nun Kreditkarten, Hypotheken und Konsumkredite gleichzeitig – ein toxischer Mix für einkommensschwächere Bevölkerungsschichten.\n\nFür die Finanzmärkte ist das Signal ambivalent: Einerseits erhöht es den Druck auf die Fed, die Zinsen zu senken. Andererseits könnte eine Rezession durch schwachen Konsum die Unternehmensgewinne und damit die Aktienbewertungen unter Druck setzen.",
-          "tag": "Schulden USA",
-          "emoji": "📉",
-          "quelle": "CNBC",
-          "quelle_url": "https://www.cnbc.com/2026/10/09/american-debt-delinquency.html"
-        },
-        {
-          "id": "boerse-1",
-          "titel": "JPMorgan sieht historische Kaufchance bei Anleihen",
-          "zusammenfassung": "Portfoliomanager von JPMorgan bezeichnen den aktuellen Moment am Rentenmarkt als eine generationenübergreifende Gelegenheit und empfehlen, Kreditrisiken bei bonitätsstarken Unternehmen einzugehen. Das Institut setzt dabei insbesondere auf festverzinsliche Wertpapiere.",
-          "bedeutung": "Wenn eines der weltgrößten Finanzinstitute so deutig auf Anleihen setzt, bewegt das institutionelle Investoren weltweit und kann erhebliche Kapitalströme auslösen.",
-          "hintergrund": "Nach dem historischen Zinsanstieg der vergangenen Jahre werfen Anleihen erstmals seit einer Dekade wieder attraktive reale Renditen ab. Viele professionelle Anleger, die jahrelang in Aktien gedrängt wurden, schauen sich den Rentenmarkt neu an.\n\nJPMorgans Empfehlung zielt auf Unternehmensanleihen hoher Qualität, also Investment-Grade-Papiere. Damit wird ein Gleichgewicht zwischen Renditeerwartung und Ausfallrisiko gesucht, das in einem möglichen Konjunkturabschwung besonders attraktiv erscheint.",
-          "tag": "Anleihenmarkt",
+          "titel": "JPMorgan sieht generationelle Chance im Anleihenmarkt",
+          "zusammenfassung": "Portfoliomanagerin Priya Misra von JPMorgan Asset Management bezeichnet den aktuellen Moment im Bereich festverzinslicher Wertpapiere als eine Gelegenheit, wie sie nur einmal in einer Generation vorkommt. Besonders Unternehmensanleihen hoher Bonität stünden im Fokus.",
+          "bedeutung": "Wenn eine der größten Investmentbanken der Welt derart bullishe Signale für Anleihen sendet, beeinflusst das die Portfolioausrichtung institutioneller Investoren weltweit.",
+          "hintergrund": "Nach Jahren, in denen steigende Zinsen Anleihenkurse unter Druck setzten, sehen viele Marktbeobachter nun einen Wendepunkt: Mit erwarteten Zinssenkungen durch die US-Notenbank Fed könnten festverzinsliche Papiere sowohl Kurs- als auch Renditevorteile bieten.\n\nMisra betont, dass es dabei weniger um Staatsanleihen als um Unternehmensanleihen solider Schuldner gehe – also Emittenten mit starker Bilanz und stabilen Cashflows. Diese Klasse könnte in einem Umfeld moderater Rezessionsrisiken und sinkender Leitzinsen besonders attraktiv werden.",
+          "tag": "Anleihenmärkte",
           "emoji": "📊",
           "quelle": "CNBC",
           "quelle_url": "https://www.cnbc.com/2026/10/10/jpmorgan-sees-once-in-a-generation-opportunity-in-fixed-income-space.html"
-        },
-        {
-          "id": "boerse-2",
-          "titel": "Nasdaq-Chefin: Tokenisierung befreit Milliarden in Kapital",
-          "zusammenfassung": "Nasdaq-Vorstandschefin Adena Friedman erklärte, dass die Blockchain-basierte Tokenisierung von Vermögenswerten zig Milliarden Dollar an bislang schwer handelbarem Kapital freisetzen könnte. Sie sieht darin eine strukturelle Transformation der Finanzmärkte.",
-          "bedeutung": "Wenn eine der weltweit führenden Börsenbetreiberinnen Tokenisierung als transformativ einstuft, verleiht das der Technologie institutionelle Glaubwürdigkeit und dürfte Regulatoren unter Zugzwang setzen.",
-          "hintergrund": "Tokenisierung bezeichnet die digitale Abbildung realer Vermögenswerte wie Immobilien, Fonds oder Rohstoffe auf einer Blockchain. Dadurch werden bislang illiquide Anlageklassen handelbar und für einen breiteren Investorenkreis zugänglich.\n\nDie Äußerungen von Friedman kommen zu einem Zeitpunkt, an dem mehrere Großbanken und Vermögensverwalter eigene Tokenisierungsprojekte vorantreiben. Die regulatorische Rahmensetzung – besonders in den USA und der EU – gilt als entscheidend dafür, wie schnell sich das Potenzial tatsächlich entfalten kann.",
-          "tag": "Tokenisierung",
-          "emoji": "🔗",
-          "quelle": "CNBC",
-          "quelle_url": "https://www.cnbc.com/2026/10/09/nasdaq-ceo-tokenization-could-unleash-billions-in-trapped-capital-.html"
         }
       ]
     }
