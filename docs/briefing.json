@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-12T02:29:30.939720+00:00",
-  "datum": "Montag, 12. Oktober 2026",
+  "generated_at": "2026-10-13T03:38:53.396943+00:00",
+  "datum": "Dienstag, 13. Oktober 2026",
   "ressorts": [
     {
       "id": "politik",
@@ -9,36 +9,36 @@
       "stories": [
         {
           "id": "politik-0",
-          "titel": "Waffenruhe im Energiesektor: Selenskyj offen, Moskau schweigt",
-          "zusammenfassung": "US-Präsident Trump hat eine vorläufige Waffenruhe im Energiebereich des Ukraine-Kriegs ins Spiel gebracht, woraufhin der ukrainische Präsident Selenskyj grundsätzliche Bereitschaft signalisierte. Russland reagierte bislang nicht auf den Vorstoß.",
-          "bedeutung": "Ein partieller Waffenstillstand im Energiesektor könnte erstmals seit Jahren einen diplomatischen Einstieg in Friedensverhandlungen markieren.",
-          "hintergrund": "Trump überraschte mit der Ankündigung, beide Seiten hätten einer Energiewaffenruhe grundsätzlich zugestimmt – doch Selenskyj machte deutlich, dass er von dem Vorstoß zunächst unvorbereitet war und eine russische Zustimmung abwartet, bevor er verbindliche Zusagen macht.\n\nDie Initiative fällt in eine Phase intensiver amerikanischer Diplomatie, in der Washington zunehmend Druck auf Kiew ausübt, Verhandlungsbereitschaft zu zeigen. Ob Moskau den Schritt als ernstes Angebot oder taktisches Manöver wertet, wird die kommenden Tage entscheiden.",
-          "tag": "Ukraine-Diplomatie",
-          "emoji": "🕊️",
+          "titel": "Russland trifft ukrainische Energieanlagen trotz Waffenruhe",
+          "zusammenfassung": "Seit Trumps Ankündigung eines Energie-Waffenstillstands hat Russland nach ukrainischen Angaben bereits sechs Energiestandorte angegriffen. Kiew spricht von einer gezielten Fortführung der Infrastrukturangriffe trotz der diplomatischen Signale aus Washington.",
+          "bedeutung": "Der Vorfall stellt Trumps Vermittlerrolle im Ukraine-Konflikt unmittelbar in Frage und offenbart die Kluft zwischen diplomatischen Ankündigungen und militärischer Realität.",
+          "hintergrund": "Präsident Trump hatte öffentlich erklärt, beide Seiten hätten sich bereit erklärt, keine Energieinfrastruktur mehr zu beschießen. Die ukrainische Seite begrüßte die Initiative und signalisierte Gesprächsbereitschaft, doch die Angriffe auf Umspannwerke und Kraftwerke gingen seither unvermindert weiter.\n\nMoskau hat sich zu dem angeblichen Waffenstillstandsversprechen bislang kaum geäußert und weder eine Bestätigung noch eine offizielle Ablehnung kommuniziert. Beobachter werten das Schweigen des Kremls als Zeichen, dass Russland sich an keine verbindliche Zusage gebunden fühlt und die Wintermonate strategisch nutzen will, um den ukrainischen Energiesektor weiter unter Druck zu setzen.",
+          "tag": "Ukraine-Krieg",
+          "emoji": "💥",
           "quelle": "BBC",
-          "quelle_url": "https://www.bbc.co.uk/news/articles/c6pvg4jyz1m0o?at_medium=RSS&at_campaign=rss"
+          "quelle_url": "https://www.bbc.co.uk/news/articles/cvlyd4pdlwkxo?at_medium=RSS&at_campaign=rss"
         },
         {
           "id": "politik-1",
-          "titel": "Huthi-Angriffe auf Riad: Saudi-Arabien erneut getroffen",
-          "zusammenfassung": "Innerhalb von zwei Tagen haben vom Iran unterstützte Huthi-Milizen den Flughafen der saudi-arabischen Hauptstadt Riad zweimal angegriffen. Bei dem jüngsten Anschlag wurde mindestens eine Person getötet und elf weitere verletzt.",
-          "bedeutung": "Wiederholte Angriffe auf zivile Infrastruktur eines der wichtigsten Ölproduzenten der Welt verschärfen die Spannungen im gesamten Nahen Osten.",
-          "hintergrund": "Die Huthi haben in den vergangenen Monaten ihre Reichweite und Präzision bei Drohnen- und Raketenangriffen deutlich ausgebaut. Ziele in Saudi-Arabien, dem Roten Meer und der Straße von Hormus stehen zunehmend im Fadenkreuz.\n\nDer regionale Kontext ist brisant: Mit dem anhaltenden Krieg im Jemen, den eskalierenden Spannungen rund um den Iran und den fragilen Energiemärkten könnte eine Ausweitung der Angriffe auf kritische Ölinfrastruktur globale wirtschaftliche Folgen haben.",
-          "tag": "Naher Osten",
-          "emoji": "💥",
+          "titel": "Saudi-Arabien droht Huthi mit ernsthafter Vergeltung",
+          "zusammenfassung": "Nach Drohnenangriffen der jemenitischen Huthi-Miliz auf zwei Flughäfen in Saudi-Arabien, bei denen 13 Menschen ums Leben kamen, kündigte ein saudischer Minister eine entschiedene Antwort an. Der Angriff auf den internationalen Flughafen Riad markiert eine deutliche Eskalation des Konflikts.",
+          "bedeutung": "Angriffe auf zivile Luftverkehrsinfrastruktur in einer der größten Volkswirtschaften der Golfregion bedrohen die regionale Stabilität und könnten den seit Jahren schwelenden Jemen-Krieg neu entfachen.",
+          "hintergrund": "Die Huthi hatten in der Vergangenheit wiederholt Drohnen und Raketen auf saudisches Gebiet abgefeuert, doch die Attacke auf den stark frequentierten Flughafen der Hauptstadt Riad gilt als bislang folgenschwerster Angriff dieser Art. Neben den Todesopfern wurden mehrere Maschinen beschädigt und der Flugbetrieb zeitweise unterbrochen.\n\nDer Vorfall fällt in eine Phase, in der saudi-jemenitische Friedensgespräche unter internationaler Vermittlung zuletzt als zerbrechlich galten. Eine saudische Militärantwort könnte die diplomatischen Bemühungen zunichtemachen und den gesamten Nahen Osten in eine neue Instabilität treiben.",
+          "tag": "Nahost-Konflikt",
+          "emoji": "✈️",
           "quelle": "BBC",
-          "quelle_url": "https://www.bbc.co.uk/news/articles/cr93znyk44e1o?at_medium=RSS&at_campaign=rss"
+          "quelle_url": "https://www.bbc.co.uk/news/articles/cjly0zqq27e4o?at_medium=RSS&at_campaign=rss"
         },
         {
           "id": "politik-2",
-          "titel": "Bootsunglück vor Djibouti: Mindestens 139 Tote",
-          "zusammenfassung": "Ein überfülltes Boot mit 305 Menschen an Bord ist nahe der Küstenstadt Obock in Djibouti gekentert. Laut UN starben dabei mindestens 139 Menschen, darunter zahlreiche Kinder.",
-          "bedeutung": "Die Katastrophe verdeutlicht erneut die tödlichen Routen der Migrationsbewegungen am Horn von Afrika.",
-          "hintergrund": "Das Unglück ereignete sich auf einer der gefährlichsten Migrationsrouten der Welt, auf der Menschen aus Ostafrika versuchen, über den Golf von Aden in den Jemen und weiter in die Golfstaaten zu gelangen – oft unter lebensbedrohlichen Bedingungen auf völlig überfüllten Booten.\n\nMigrationsforscher warnen seit Jahren vor der katastrophalen Lage auf dieser Route, die international weit weniger Aufmerksamkeit erhält als die Mittelmeerpassagen. Der Tod von Kindern unter den Opfern dürfte die Debatte über humanitäre Maßnahmen am Horn von Afrika neu entfachen.",
-          "tag": "Migrationskrise",
-          "emoji": "🚢",
+          "titel": "US-Einwanderungsbehörde durchsucht Haus von Abgeordneter Omar",
+          "zusammenfassung": "Bundesagenten der Einwanderungsbehörde ICE haben das Haus der demokratischen Kongress­abgeordneten Ilhan Omar durchsucht. Omar, eine der profiliertesten Kritikerinnen von Präsident Trump, bezeichnete die Aktion als politisch motivierten Einschüchterungsversuch.",
+          "bedeutung": "Die Durchsuchung des Wohnsitzes einer gewählten Volksvertreterin durch eine dem Weißen Haus nahestehende Behörde wirft fundamentale Fragen zur Gewaltenteilung und zum Schutz politischer Opposition in den USA auf.",
+          "hintergrund": "Ilhan Omar gehört zur progressiven Fraktion der Demokraten und hat sich wiederholt scharf gegen Trumps Einwanderungs- und Außenpolitik ausgesprochen. Sie bestritt, dass die Durchsuchung einem legitimen Strafverfolgungszweck diente, und deutete an, es handle sich um staatlichen Druck gegen Andersdenkende.\n\nDer Vorfall reiht sich in eine Serie von Maßnahmen ein, bei denen Kritiker der Regierung von Bundesbehörden ins Visier genommen wurden. Bürgerrechtsorganisationen kündigten rechtliche Schritte an und warnten vor einer systematischen Erosion demokratischer Normen.",
+          "tag": "Demokratie USA",
+          "emoji": "🏛️",
           "quelle": "BBC",
-          "quelle_url": "https://www.bbc.co.uk/news/articles/cwy7lxx60dg5o?at_medium=RSS&at_campaign=rss"
+          "quelle_url": "https://www.bbc.co.uk/news/articles/cvp8glg97393o?at_medium=RSS&at_campaign=rss"
         }
       ]
     },
@@ -49,36 +49,36 @@
       "stories": [
         {
           "id": "wirtschaft-0",
-          "titel": "Trump kauft russischen Diesel: Selenskyj spricht von Kriegsfinanzierung",
-          "zusammenfassung": "Die US-Regierung hat einen Handelsdeal für den Import russischen Diesels angekündigt, der wenige Wochen vor den Midterm-Wahlen sowohl innerhalb der Republikaner als auch bei Demokraten auf scharfe Kritik stößt. Der ukrainische Präsident Selenskyj bezeichnete die Vereinbarung als indirektes Investment in den russischen Kriegseinsatz.",
-          "bedeutung": "Der Deal untergräbt westliche Sanktionspolitik gegenüber Russland in einem kritischen Moment des Ukraine-Kriegs und sendet ein widersprüchliches Signal an die NATO-Verbündeten.",
-          "hintergrund": "Hintergrund ist der anhaltende Dieselpreisdruck in den USA, dem die Trump-Regierung mit günstigen Importen aus Russland begegnen will. Kritiker werfen dem Weißen Haus vor, kurzfristigen innenpolitischen Kalkulationen den Vorrang vor außenpolitischen Prinzipien zu geben.\n\nDie Entscheidung fällt in eine Phase, in der die USA gleichzeitig Ukraine-Unterstützung signalisieren und Druck auf Kiew in Richtung Verhandlungen ausüben – ein Widerspruch, der Verbündete in Europa zunehmend beunruhigt.",
-          "tag": "Energie-Sanktionen",
-          "emoji": "🛢️",
-          "quelle": "BBC",
-          "quelle_url": "https://www.bbc.co.uk/news/articles/cm1dwgr666wno?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "id": "wirtschaft-1",
-          "titel": "Microsoft-Chef: KI ist weniger reguliert als Milch",
-          "zusammenfassung": "Brad Smith, Präsident von Microsoft, fordert auf internationaler Ebene verbindliche Regeln für Künstliche Intelligenz und mahnt, das Tempo der Regulierung hinke der technologischen Entwicklung dramatisch hinterher. Großbritannien sieht er dabei in einer Führungsrolle.",
-          "bedeutung": "Die Forderung eines der mächtigsten Tech-Manager der Welt nach strenger KI-Regulierung verleiht der politischen Debatte darüber erhebliches Gewicht.",
-          "hintergrund": "Smith griff zu einem plakativen Vergleich: Während selbst einfache Lebensmittel wie Milch strengen staatlichen Kontrollen unterliegen, operiere KI – eine Technologie mit weitreichenden gesellschaftlichen Folgen – weitgehend unreguliert. Die Aussage dürfte in Brüssel, Washington und London gleichermaßen Resonanz erzeugen.\n\nHintergrund ist ein wachsender globaler Wettbewerb um KI-Standards, bei dem die EU mit dem AI Act vorangeprescht ist, die USA bislang einen fragmentierten Ansatz verfolgen und Großbritannien sich als regulatorischen Mittelweg positioniert.",
+          "titel": "Microsoft-Chef: KI weniger reguliert als Milch",
+          "zusammenfassung": "Brad Smith, Präsident von Microsoft, forderte auf einer internationalen Konferenz verbindliche globale Regeln für Künstliche Intelligenz. Er betonte, der Regulierungsrahmen für KI hinke dem für viele Grundnahrungs­mittel weit hinterher.",
+          "bedeutung": "Die Forderung eines der mächtigsten Tech-Konzernlenker nach staatlicher Aufsicht signalisiert einen Wendepunkt in der KI-Debatte und erhöht den Druck auf Gesetzgeber weltweit.",
+          "hintergrund": "Smith argumentierte, dass die rasante Verbreitung von KI-Systemen in Medizin, Finanzen und Infrastruktur ein regulatorisches Vakuum hinterlassen hat, das erhebliche gesellschaftliche Risiken birgt. Er sieht Großbritannien in einer besonders guten Ausgangsposition, eine internationale Führungsrolle bei der Standardsetzung zu übernehmen.\n\nDie Aussage kommt zu einem Zeitpunkt, da auch der Internationale Währungsfonds vor einem KI-bedingten Beschäftigungsschock warnt und Regierungen weltweit um kohärente Antworten ringen. Die Debatte dürfte die globale Tech-Regulierung in den kommenden Jahren maßgeblich prägen.",
           "tag": "KI-Regulierung",
           "emoji": "🤖",
           "quelle": "BBC",
           "quelle_url": "https://www.bbc.co.uk/news/articles/c6rmy7zmvx3lo?at_medium=RSS&at_campaign=rss"
         },
         {
+          "id": "wirtschaft-1",
+          "titel": "IWF warnt: KI trifft Arbeitsmarkt wie Tsunami",
+          "zusammenfassung": "IWF-Chefin Kristalina Georgieva beschrieb den Einfluss von Künstlicher Intelligenz auf den globalen Arbeitsmarkt als schleichenden, aber verheerenden Tsunami. Besonders Berufseinsteiger und junge Arbeitnehmer seien unverhältnismäßig stark betroffen.",
+          "bedeutung": "Eine derartige Warnung von höchster multilateraler Ebene unterstreicht, dass KI-bedingte Jobverluste kein fernes Zukunftsszenario mehr sind, sondern bereits messbare wirtschaftspolitische Konsequenzen haben.",
+          "hintergrund": "Der Weltbank-Beschäftigungsrat schloss sich der Einschätzung an und rief zu Unterstützungsmaßnahmen auf dem Niveau von Krisenzeiten auf – darunter erweiterte Umschulungsprogramme und gezielte soziale Absicherung für vulnerable Berufsgruppen.\n\nDie Warnung kommt, während viele Industriestaaten noch mit den Nachwirkungen pandemiebedingter Arbeitsmarktverschiebungen kämpfen. Ökonomen mahnen, der politische Handlungsspielraum müsse jetzt genutzt werden, bevor Automatisierungswellen eine neue Generation ohne ausreichenden Schutz treffen.",
+          "tag": "KI & Arbeit",
+          "emoji": "🌊",
+          "quelle": "CNBC",
+          "quelle_url": "https://www.cnbc.com/2026/10/12/imf-world-bank-ai-jobs-inflation-.html"
+        },
+        {
           "id": "wirtschaft-2",
-          "titel": "Trumps Wachstumsfantasie: Reagan-Ökonomie im KI-Zeitalter",
-          "zusammenfassung": "Die wirtschaftspolitischen Versprechen der Trump-Regierung erinnern Ökonomen an die umstrittenen Angebotstheorien der Reagan-Ära: Steuersenkungen sollen sich durch Wachstum selbst finanzieren, diesmal angetrieben von einem erhofften KI-Boom. Experten warnen vor strukturellen Haushaltslücken.",
-          "bedeutung": "Die wirtschaftspolitische Strategie der weltgrößten Volkswirtschaft hat direkte Auswirkungen auf globale Kapitalmärkte, Zinsniveaus und das internationale Schuldengefüge.",
-          "hintergrund": "Während die Regierung auf einen durch Künstliche Intelligenz ausgelösten Produktivitätsschub setzt, der Staatsausgaben durch höhere Steuereinnahmen kompensieren soll, warnen unabhängige Wirtschaftsinstitute, dass selbst ein signifikanter KI-Effekt auf das Wachstum die Auswirkungen auf den Bundeshaushalt erheblich überzeichne.\n\nHistorisch haben solche Versprechen – zuletzt unter Reagan und Bush – die Staatsverschuldung deutlich erhöht, anstatt sie zu senken. Angesichts bereits rekordhoher US-Schulden beobachten internationale Gläubiger und Notenbanken die fiskalpolitische Richtung Washingtons mit wachsender Sorge.",
-          "tag": "US-Haushalt",
-          "emoji": "📉",
-          "quelle": "The Guardian",
-          "quelle_url": "https://www.theguardian.com/business/2026/oct/11/trump-ai-economy-reagan"
+          "titel": "IWF hebt Prognose für Großbritannien an – warnt vor 2027",
+          "zusammenfassung": "Der Internationale Währungsfonds hat seine Wachstumserwartungen für die britische Wirtschaft leicht nach oben korrigiert, mahnt jedoch, dass steigende Energiepreise und anhaltend hohe Zinsen ab 2027 zunehmend belasten werden. Der Bericht erscheint kurz vor dem ersten Haushalt unter dem neuen Premierminister Andy Burnham.",
+          "bedeutung": "Die gemischte IWF-Bewertung setzt die neue britische Regierung unter Druck, im anstehenden Budget gleichzeitig Wachstumspolitik zu betreiben und fiskalische Risiken zu begrenzen.",
+          "hintergrund": "Trotz der kurzfristigen Aufwärtsrevision zeichnet der IWF ein vorsichtiges Bild für die mittlere Frist: Die Kombination aus weiterhin restriktiver Geldpolitik und volatilen Energiemärkten könnte Konsum und Investitionen dämpfen. Besonders Haushalte mit variablen Hypothekenzinsen dürften die Zinslast spüren.\n\nPremierminister Burnham steht vor dem Balanceakt, soziale Versprechen aus dem Wahlkampf zu erfüllen und gleichzeitig die Haushaltsdisziplin zu wahren. Denkfabriken wie das Institute for Fiscal Studies beziffern die Finanzierungslücke auf bis zu 35 Milliarden Pfund.",
+          "tag": "UK-Wirtschaft",
+          "emoji": "🇬🇧",
+          "quelle": "BBC",
+          "quelle_url": "https://www.bbc.co.uk/news/articles/cmglw0r21zexo?at_medium=RSS&at_campaign=rss"
         }
       ]
     },
@@ -89,14 +89,36 @@
       "stories": [
         {
           "id": "boerse-0",
-          "titel": "JPMorgan sieht generationelle Chance im Anleihenmarkt",
-          "zusammenfassung": "Portfoliomanagerin Priya Misra von JPMorgan Asset Management bezeichnet den aktuellen Moment im Bereich festverzinslicher Wertpapiere als eine Gelegenheit, wie sie nur einmal in einer Generation vorkommt. Besonders Unternehmensanleihen hoher Bonität stünden im Fokus.",
-          "bedeutung": "Wenn eine der größten Investmentbanken der Welt derart bullishe Signale für Anleihen sendet, beeinflusst das die Portfolioausrichtung institutioneller Investoren weltweit.",
-          "hintergrund": "Nach Jahren, in denen steigende Zinsen Anleihenkurse unter Druck setzten, sehen viele Marktbeobachter nun einen Wendepunkt: Mit erwarteten Zinssenkungen durch die US-Notenbank Fed könnten festverzinsliche Papiere sowohl Kurs- als auch Renditevorteile bieten.\n\nMisra betont, dass es dabei weniger um Staatsanleihen als um Unternehmensanleihen solider Schuldner gehe – also Emittenten mit starker Bilanz und stabilen Cashflows. Diese Klasse könnte in einem Umfeld moderater Rezessionsrisiken und sinkender Leitzinsen besonders attraktiv werden.",
-          "tag": "Anleihenmärkte",
-          "emoji": "📊",
+          "titel": "IWF warnt vor ungeordnetem Anstieg der Anleiherenditen",
+          "zusammenfassung": "Der Internationale Währungsfonds hat gewarnt, dass die Risiken an den globalen Staatsanleihemärkten erheblich gestiegen sind und ein abrupter, ungeordneter Renditeanstieg drohen könnte. Als Haupttreiber nennt der Fonds wachsende Staatsschulden und persistenten Inflationsdruck.",
+          "bedeutung": "Ein disruptiver Renditeschock an den Bondmärkten hätte Kettenreaktionen auf Aktienmärkte, Immobiliensektoren und Schwellenländer-Finanzierungen weltweit zur Folge.",
+          "hintergrund": "Der IWF verwies darauf, dass viele Industriestaaten ihre Verschuldungsquoten während der Pandemie deutlich ausgeweitet haben und nun bei gleichzeitig erhöhter Inflation nur begrenzten fiskalischen Spielraum besitzen. Die Kombination aus strukturellen Defiziten und geopolitischen Unsicherheiten mache die Märkte anfällig für plötzliche Stimmungsumschwünge.\n\nInvestoren beobachten die Entwicklung der US-Staatsanleihen und europäischer Bundesanleihen besonders aufmerksam. Steigende Risikoprämien könnten die Kreditkosten für Unternehmen und Staaten gleichermaßen in die Höhe treiben und damit das ohnehin gebremste Wachstumsumfeld weiter belasten.",
+          "tag": "Anleihenmarkt",
+          "emoji": "📉",
           "quelle": "CNBC",
-          "quelle_url": "https://www.cnbc.com/2026/10/10/jpmorgan-sees-once-in-a-generation-opportunity-in-fixed-income-space.html"
+          "quelle_url": "https://www.cnbc.com/2026/10/13/treasury-yields-imf-debt-inflation-.html"
+        },
+        {
+          "id": "boerse-1",
+          "titel": "Fed-Vertreterin: Zinsen könnten weiter steigen müssen",
+          "zusammenfassung": "Die Präsidentin der Federal Reserve Bank of Cleveland, Beth Hammack, signalisierte, dass eine weitere Straffung der US-Geldpolitik notwendig sein könnte, um eine Verfestigung von Inflationserwartungen zu verhindern. Sie warnte vor einer sogenannten inflationären Mentalität in der Bevölkerung.",
+          "bedeutung": "Hawkische Töne aus der Fed erhöhen die Wahrscheinlichkeit eines weiteren Zinsschritts und belasten wachstumsabhängige Anlageklassen von Technologieaktien bis zu Unternehmensanleihen.",
+          "hintergrund": "Hammack argumentierte, die bisherige Zinserhöhungspolitik habe zwar erste Wirkung gezeigt, reiche jedoch möglicherweise noch nicht aus, um Inflationserwartungen dauerhaft auf das Zwei-Prozent-Ziel zu verankern. Eine zu frühe Lockerung berge das Risiko, hart erkämpfte Fortschritte zu verspielen.\n\nDer Kommentar erscheint kurz nach Daten, die zeigen, dass die Kerninflation in den USA hartnäckiger als erwartet bleibt. An den Terminmärkten wurden daraufhin die Erwartungen an baldige Zinssenkungen erneut zurückgeschraubt, was den Dollar stärkte und die Aktienfutures belastete.",
+          "tag": "Fed & Zinsen",
+          "emoji": "🏦",
+          "quelle": "CNBC",
+          "quelle_url": "https://www.cnbc.com/2026/10/12/beth-hammack-fed-inflation-policy.html"
+        },
+        {
+          "id": "boerse-2",
+          "titel": "Vier Jahre Bullenmarkt: Kann der S&P 500 weiterlaufen?",
+          "zusammenfassung": "Der US-Aktienmarkt feiert den vierjährigen Jahrestag des aktuellen Bullenmarkts – seit dem Tiefpunkt im Oktober 2022 hat der S&P 500 rund 120 Prozent zugelegt. Analysten und Investoren zeigen sich jedoch zunehmend skeptisch, ob ein fünftes Jahr möglich ist.",
+          "bedeutung": "Die Frage nach der Nachhaltigkeit des Bullenmarkts bewegt globale Portfolioentscheidungen und beeinflusst, wie Billionen von Dollar in Renten-, Aktien- und Alternativanlagen verteilt werden.",
+          "hintergrund": "Als Gegenwind werden vor allem hartnäckige Inflation, die restriktive Haltung der Federal Reserve sowie hohe Bewertungsniveaus bei Technologieaktien genannt. Zudem sorgen geopolitische Risiken, darunter der anhaltende Ukraine-Konflikt und Spannungen im Nahen Osten, für erhöhte Unsicherheit.\n\nBullen verweisen hingegen auf die Widerstandsfähigkeit des US-Arbeitsmarkts, robuste Unternehmensgewinne und den anhaltenden KI-Investitionsboom als Stützen für weitere Kursgewinne. Die kommenden Quartalsergebnisse der großen Tech-Konzerne dürften richtungsweisend sein.",
+          "tag": "Bullenmarkt S&P",
+          "emoji": "🐂",
+          "quelle": "CNBC",
+          "quelle_url": "https://www.cnbc.com/2026/10/12/the-bull-market-just-turned-four-after-climbing-a-wall-of-worry.html"
         }
       ]
     }
