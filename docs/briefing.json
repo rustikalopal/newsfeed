@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-15T01:34:08.437560+00:00",
-  "datum": "Donnerstag, 15. Oktober 2026",
+  "generated_at": "2026-10-16T01:29:18.858850+00:00",
+  "datum": "Freitag, 16. Oktober 2026",
   "ressorts": [
     {
       "id": "politik",
@@ -9,36 +9,36 @@
       "stories": [
         {
           "id": "politik-0",
-          "titel": "Nord-Stream-Prozess: Ukrainer vor deutschem Gericht",
-          "zusammenfassung": "In Deutschland hat der Strafprozess gegen einen ukrainischen Staatsbürger begonnen, dem die Beteiligung an der Sprengung der Nord-Stream-Pipelines vorgeworfen wird. Der Anschlag auf die russischen Gasleitungen hatte vor vier Jahren internationale Erschütterungen ausgelöst.",
-          "bedeutung": "Der Prozess könnte erstmals gerichtlich belastbare Erkenntnisse über einen der folgenreichsten Sabotageakte des Ukraine-Krieges liefern.",
-          "hintergrund": "Serhii Kuznetsov steht in Deutschland vor Gericht, beschuldigt, die Detonationen an den Nord-Stream-Pipelines in der Ostsee mitgeplant zu haben. Die Anschläge hatten 2022 die europäische Energieversorgung destabilisiert und eine bis heute andauernde internationale Schulddebatte ausgelöst.\n\nMehrere Länder, darunter Deutschland, Schweden und Dänemark, ermittelten jahrelang, ohne offiziell Verantwortliche zu benennen. Der nun eröffnete Prozess ist damit ein juristischer Meilenstein – auch wenn Beobachter warnen, dass die Beweislage komplex und politisch hoch aufgeladen bleibt.",
-          "tag": "Nord Stream",
-          "emoji": "💣",
+          "titel": "Ukraine nimmt Angriffe auf russische Energieinfrastruktur wieder auf",
+          "zusammenfassung": "Präsident Selenskyj erklärte die Pause bei Angriffen auf Energieanlagen für beendet, nachdem Russland seinerseits erneut ukrainische Infrastruktur attackiert hatte. In der Folge meldete Moskau einen ukrainischen Drohnenangriff auf eine Ölraffinerie.",
+          "bedeutung": "Die Eskalation im Energiekrieg zwischen Russland und der Ukraine bedroht nicht nur die Versorgungssicherheit beider Länder, sondern könnte auch europäische Energiemärkte im bevorstehenden Winter unter Druck setzen.",
+          "hintergrund": "Seit Kriegsbeginn haben beide Seiten wiederholt Energieinfrastruktur ins Visier genommen – Kraftwerke, Pipelines und Raffinerien. Eine informelle Zurückhaltung auf ukrainischer Seite galt zuletzt als stillschweigendes taktisches Signal, das nun offenbar ausgelaufen ist.\n\nDie Wiederaufnahme dieser Angriffe fällt in eine kritische Phase: Europa hat seine Gasspeicher zwar aufgefüllt, doch anhaltende Schäden an Förder- und Transportkapazitäten könnten die Rohstoffpreise erneut antreiben und die ohnehin fragile Energieversorgung des Kontinents destabilisieren.",
+          "tag": "Ukraine-Krieg",
+          "emoji": "🔥",
           "quelle": "BBC",
-          "quelle_url": "https://www.bbc.co.uk/news/articles/cw99zpmnxzmjo?at_medium=RSS&at_campaign=rss"
+          "quelle_url": "https://www.bbc.co.uk/news/articles/cqwyrnwd9dw1o?at_medium=RSS&at_campaign=rss"
         },
         {
           "id": "politik-1",
-          "titel": "Musk: US-Regierung drosselt Drohnen-Starlink der Ukraine",
-          "zusammenfassung": "Elon Musk hat öffentlich erklärt, die US-Regierung könnte hinter der Verlangsamung von Starlink-Signalen stehen, die ukrainische Drohnenmissionen beeinträchtigen. Die Ukraine bestätigte anhaltende Geschwindigkeitsbeschränkungen, lobte aber gleichzeitig verbesserten Gesamtzugang zum Satellitennetz.",
-          "bedeutung": "Die Aussagen werfen ein Schlaglicht auf die fragile technologische Abhängigkeit der Ukraine von privaten US-Unternehmen in einem aktiven Kriegsgebiet.",
-          "hintergrund": "Starlink von SpaceX ist seit Kriegsbeginn eine zentrale Kommunikations- und Steuerungsinfrastruktur für die ukrainischen Streitkräfte. Bereits in der Vergangenheit hatte Musk Einschränkungen des Dienstes in umkämpften Regionen eingeräumt und damit Kontroversen ausgelöst.\n\nDie neuerlichen Vorwürfe, dass staatliche Stellen aktiv in die Signalqualität eingreifen, verschärfen die Debatte über die Grenzen privater Kriegsinfrastruktur – und darüber, wer letztlich die Kontrolle über lebensnotwendige Militärtechnologie ausübt.",
-          "tag": "Ukraine-Krieg",
-          "emoji": "🛰️",
+          "titel": "Tanker im Schwarzen Meer nach Drohnenangriff in Flammen",
+          "zusammenfassung": "Ein Frachtschiff geriet vor der rumänischen Küste nach einem Drohnenangriff in Brand, sieben Besatzungsmitglieder werden vermisst. Eine Such- und Rettungsaktion wurde unverzüglich eingeleitet.",
+          "bedeutung": "Der Angriff auf einen Tanker in unmittelbarer Nähe eines NATO-Mitglieds unterstreicht, wie sehr sich der Ukrainekonflikt auf internationale Schifffahrtsrouten und die Sicherheit in der erweiterten europäischen Nachbarschaft ausweitet.",
+          "hintergrund": "Das Schwarze Meer ist seit Kriegsbeginn 2022 zunehmend zur Konfliktzone geworden. Angriffe auf Handelsschiffe häufen sich und treffen Drittstaaten, deren Flaggen oder Ladungen nichts mit dem Krieg zu tun haben – mit spürbaren Folgen für Versicherungen und Frachtpreise.\n\nDer Vorfall nahe der rumänischen Hoheitsgewässer dürfte die NATO alarmieren und erneut Fragen nach dem Schutz ziviler Seewege in der Region aufwerfen. Rumänien ist als EU- und NATO-Mitglied unmittelbar in den geopolitischen Kontext eingebettet.",
+          "tag": "Schwarzes Meer",
+          "emoji": "🚢",
           "quelle": "BBC",
-          "quelle_url": "https://www.bbc.co.uk/news/articles/c8wy9veedgygo?at_medium=RSS&at_campaign=rss"
+          "quelle_url": "https://www.bbc.co.uk/news/articles/c60qkgpp592yo?at_medium=RSS&at_campaign=rss"
         },
         {
           "id": "politik-2",
-          "titel": "Kenia meldet zweiten Ebola-Fall nach Reise aus Kongo",
-          "zusammenfassung": "Kenia hat einen zweiten bestätigten Ebola-Fall registriert – ein enger Kontakt des ersten Patienten, der nach einer Reise aus der Demokratischen Republik Kongo verstorben war. Gesundheitsbehörden haben die Kontaktverfolgung intensiviert.",
-          "bedeutung": "Ein zweiter Fall signalisiert lokale Übertragung und erhöht das Risiko einer regionalen Ausbreitung in Ostafrika erheblich.",
-          "hintergrund": "Ebola gilt als eine der gefährlichsten bekannten Infektionskrankheiten mit einer Sterblichkeitsrate von bis zu 90 Prozent in früheren Ausbrüchen. Die Demokratische Republik Kongo ist das Land mit den meisten historischen Ebola-Ausbrüchen weltweit.\n\nDass sich die Infektionskette nun auf Kenia ausgedehnt hat, beunruhigt internationale Gesundheitsorganisationen. Die WHO beobachtet die Lage genau – insbesondere wegen der Verkehrsknotenpunkte Nairobi, die eine schnelle Ausbreitung auf andere Regionen begünstigen könnten.",
-          "tag": "Ebola",
-          "emoji": "🦠",
+          "titel": "Dacheinsturz in Pakistan tötet 33 Schüler und Lehrerin",
+          "zusammenfassung": "In Pakistan stürzte das Dach einer Schule ein und begrub dabei Kinder unter den Trümmern dreier Klassenzimmer. Mindestens 33 Schülerinnen und Schüler sowie eine Lehrkraft kamen ums Leben.",
+          "bedeutung": "Die Katastrophe wirft ein Schlaglicht auf den desolaten Zustand öffentlicher Schulgebäude in Pakistan und die strukturellen Versäumnisse bei Bildungsinfrastruktur in einkommensschwachen Ländern weltweit.",
+          "hintergrund": "Pakistan leidet seit Jahren unter chronisch unterfinanzierter öffentlicher Infrastruktur. Viele Schulgebäude, insbesondere in ländlichen und ärmeren Regionen, wurden nie erdbebensicher gebaut oder seitdem ernsthaft saniert – obwohl das Land zu den seismisch aktivsten der Welt gehört.\n\nDas Unglück ereignet sich in einem Land, das noch immer mit den Folgen der verheerenden Überschwemmungen von 2022 kämpft, welche Tausende Schulen zerstörten. Internationale Hilfsorganisationen fordern seit langem stärkere Investitionen in sichere Bildungseinrichtungen.",
+          "tag": "Pakistan",
+          "emoji": "🏫",
           "quelle": "BBC",
-          "quelle_url": "https://www.bbc.co.uk/news/articles/cw5yn8rn04ljo?at_medium=RSS&at_campaign=rss"
+          "quelle_url": "https://www.bbc.co.uk/news/articles/cked326llddgo?at_medium=RSS&at_campaign=rss"
         }
       ]
     },
@@ -49,36 +49,36 @@
       "stories": [
         {
           "id": "wirtschaft-0",
-          "titel": "Anthropic erzielt 16,8 Mrd. Dollar Umsatz vor Börsengang",
-          "zusammenfassung": "Das KI-Unternehmen Anthropic hat seinen Jahresumsatz auf 16,8 Milliarden Dollar gesteigert und bereitet damit den Boden für einen spektakulären Börsengang noch in diesem Jahr. Das Wachstum unterstreicht die rasant steigende kommerzielle Nachfrage nach KI-Sprachmodellen.",
-          "bedeutung": "Anthropics Zahlen setzen neue Maßstäbe für die Bewertung von KI-Unternehmen und könnten den gesamten Technologiesektor an den Märkten neu entfachen.",
-          "hintergrund": "Anthropic, bekannt für seinen KI-Assistenten Claude, hat sich innerhalb weniger Jahre zu einem der engsten Konkurrenten von OpenAI entwickelt. Großinvestoren wie Amazon haben Milliarden in das Unternehmen gepumpt, das auf sichere und steuerbare KI setzt.\n\nDer bevorstehende Börsengang gilt als einer der meisterwarteten Kapitalmarkttransaktionen des Jahres. Analysten sehen das Unternehmen als Gradmesser dafür, wie Investoren KI-Unternehmen jenseits der großen Technologiekonzerne bewerten – und wie nachhaltig der aktuelle Boom tatsächlich ist.",
-          "tag": "KI-Boom",
+          "titel": "Netflix streicht weltweit rund 1.000 Stellen",
+          "zusammenfassung": "Der Streamingkonzern Netflix baut seine Belegschaft um rund sechs Prozent ab – der größte Stellenabbau seit 2022. Betroffen sind Mitarbeitende weltweit.",
+          "bedeutung": "Der Schritt eines der profitabelsten Streaming-Unternehmen signalisiert, dass selbst wirtschaftlich erfolgreiche Digitalkonzerne zunehmend auf Effizienz trimmen und das Wachstumsparadigma der Branche neu bewerten.",
+          "hintergrund": "Netflix hatte in den vergangenen Jahren massiv in Eigenproduktionen und internationale Expansion investiert. Nach einem Rücksetzer beim Abonnentenwachstum 2022 hat das Unternehmen zwar mit werbegestützten Abo-Modellen und Maßnahmen gegen das Passwort-Teilen wieder Boden gutgemacht – doch der Stellenabbau deutet auf einen strukturellen Kostendruck hin.\n\nInmitten eines härter werdenden Wettbewerbs mit Amazon, Disney+ und Apple TV+ sowie steigenden Lizenz- und Produktionskosten setzen viele Medienhäuser auf Konsolidierung. Der Netflix-Schritt könnte in der Branche weitere Sparrunden auslösen.",
+          "tag": "Streaming",
+          "emoji": "📺",
+          "quelle": "BBC",
+          "quelle_url": "https://www.bbc.co.uk/news/articles/c6zxj0gzk4x4o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "id": "wirtschaft-1",
+          "titel": "KI-Firma Anthropic umwirbt Investoren vor Börsengang",
+          "zusammenfassung": "Der Künstliche-Intelligenz-Entwickler Anthropic sucht aktiv nach neuen Geldgebern und bereitet offenbar seinen Börsengang vor. Dies geschieht zu einem Zeitpunkt, an dem Zweifel am Return-on-Investment massiver KI-Infrastrukturausgaben wachsen.",
+          "bedeutung": "Anthropics Vorstoß ist ein Gradmesser für die aktuelle Stimmung am KI-Investmentmarkt: Einerseits ist der Hype ungebrochen, andererseits hinterfragen institutionelle Anleger zunehmend, ob die enormen Kapitalflüsse in die KI-Infrastruktur nachhaltig rentabel sein können.",
+          "hintergrund": "Anthropic, gegründet von ehemaligen OpenAI-Führungskräften, zählt neben OpenAI und Google DeepMind zu den führenden Entwicklern großer Sprachmodelle. Das Unternehmen hat bereits Milliarden von Amazon und Google eingeworben, will sich nun aber breiter am Kapitalmarkt aufstellen.\n\nDer geplante Börsengang rückt in eine Phase, in der die Bewertungen von KI-Unternehmen unter Beobachtung stehen. Investoren stellen vermehrt die Frage, wann und ob die enormen Rechenzentrumsausgaben der Branche in stabile Gewinne münden werden.",
+          "tag": "Künstliche Intelligenz",
           "emoji": "🤖",
           "quelle": "BBC",
           "quelle_url": "https://www.bbc.co.uk/news/articles/cqzjx448vxkgo?at_medium=RSS&at_campaign=rss"
         },
         {
-          "id": "wirtschaft-1",
-          "titel": "IWF warnt vor KI als 'Tsunami' am Arbeitsmarkt",
-          "zusammenfassung": "IWF-Chefin Kristalina Georgieva verglich die Auswirkungen von Künstlicher Intelligenz auf den globalen Arbeitsmarkt mit einem langsam heranrollenden Tsunami. Besonders gefährdet seien junge Menschen, die gerade erst ins Berufsleben eintreten.",
-          "bedeutung": "Die Mahnung der IWF-Spitze verleiht wachsenden Sorgen um KI-bedingte Jobverluste höchste institutionelle Autorität und drängt Regierungen weltweit zum Handeln.",
-          "hintergrund": "Während Technologiekonzerne den wirtschaftlichen Nutzen von KI betonen, wächst in internationalen Institutionen die Sorge um strukturelle Verwerfungen am Arbeitsmarkt. Der IWF hatte bereits frühere Analysen vorgelegt, wonach KI rund 40 Prozent aller Berufe weltweit verändern könnte.\n\nParallel dazu hat der Beschäftigungsrat der Weltbank Maßnahmen gefordert, die an Krisenzeiten erinnern: Umschulungsprogramme, erweiterte Sozialleistungen und gezielte Investitionen in zukunftsfähige Berufsfelder. Die doppelte Warnung beider Institutionen an einem Tag verleiht dem Thema besondere politische Dringlichkeit.",
-          "tag": "Arbeitsmarkt",
-          "emoji": "🌊",
-          "quelle": "CNBC",
-          "quelle_url": "https://www.cnbc.com/2026/10/12/imf-world-bank-ai-jobs-inflation-.html"
-        },
-        {
           "id": "wirtschaft-2",
-          "titel": "Royal Mail verliert wöchentlich Hunderte Mitarbeiter",
-          "zusammenfassung": "Seit Einführung eines neuen Effizienzprogramms verlässt jede Woche eine dreistellige Zahl von Beschäftigten den britischen Postdienstleister Royal Mail. Die Gewerkschaft CWU kritisiert das neue Zustellsystem als dysfunktional.",
-          "bedeutung": "Die Personalflucht gefährdet die flächendeckende Postversorgung in Großbritannien und zeigt, wie umstrittene Rationalisierungsmaßnahmen einen traditionsreichen Infrastrukturdienstleister destabilisieren können.",
-          "hintergrund": "Royal Mail steckt seit Jahren in einer Strukturkrise: sinkende Briefmengen, steigende Paketvolumina und massiver Wettbewerbsdruck durch private Logistiker zwingen das Unternehmen zu tiefgreifenden Umbauten. Das neue Zustellmodell soll Routen effizienter gestalten, führt laut Gewerkschaft aber in hunderten Verteilzentren zu chaotischen Abläufen.\n\nDer anhaltende Aderlass an erfahrenem Personal droht die ohnehin fragile Dienstqualität weiter zu verschlechtern. Für Millionen Haushalte und kleine Unternehmen, die auf verlässliche Zustellung angewiesen sind, könnte das spürbare Folgen haben.",
-          "tag": "Arbeitskrise",
-          "emoji": "📬",
-          "quelle": "BBC",
-          "quelle_url": "https://www.bbc.co.uk/news/articles/cm5ynp0vz3p7o?at_medium=RSS&at_campaign=rss"
+          "titel": "China sichert EU weitere Lieferung seltener Erden zu",
+          "zusammenfassung": "Peking signalisierte, die Ausfuhr seltener Erden in die Europäische Union fortzusetzen – ungeachtet des Auslaufens eines Handelsabkommens mit den USA. EU-Handelskommissar Maroš Sefčovič hatte zuvor Gespräche mit Chinas Handelsminister geführt.",
+          "bedeutung": "Seltene Erden sind unverzichtbar für Elektrofahrzeuge, Windkraftanlagen und Rüstungstechnologie – Chinas Zusage entlastet die EU in einem strategisch kritischen Rohstoffbereich und schwächt zugleich den Druck, die Lieferketten rasch zu diversifizieren.",
+          "hintergrund": "China kontrolliert einen Großteil der weltweiten Förderung und Verarbeitung seltener Erden. Die EU hat zwar mit dem Critical Raw Materials Act Bemühungen zur Eigenversorgung angestoßen, ist aber auf absehbare Zeit noch stark von chinesischen Importen abhängig.\n\nDie Zusage Pekings fällt in eine Phase handelspolitischer Spannungen zwischen China und den USA. Für Brüssel bedeutet sie kurzfristige Versorgungssicherheit – wirft aber langfristig die Frage auf, inwieweit Europa geopolitisch anfällig bleibt, solange eine echte Rohstoffsouveränität fehlt.",
+          "tag": "Rohstoffe",
+          "emoji": "⚗️",
+          "quelle": "CNBC",
+          "quelle_url": "https://www.cnbc.com/2026/10/15/china-rare-earth-exports-europe.html"
         }
       ]
     },
@@ -89,36 +89,36 @@
       "stories": [
         {
           "id": "boerse-0",
-          "titel": "IWF hebt Wachstumsprognose an – warnt aber vor Risiken",
-          "zusammenfassung": "Der Internationale Währungsfonds hat seine globale Wachstumsprognose für 2026 auf 3,1 Prozent angehoben und verweist auf den KI-Boom als wichtigen Puffer gegen Kriegsfolgen. Gleichzeitig warnt der IWF, dass die Widerstandsfähigkeit der Weltwirtschaft an ihre Grenzen stoße.",
-          "bedeutung": "Die revidierte IWF-Prognose beeinflusst direkt die Erwartungen an Zentralbankpolitik und Kapitalströme weltweit.",
-          "hintergrund": "Energieengpässe, anhaltende geopolitische Spannungen und wachsende Staatsverschuldung belasten viele Volkswirtschaften gleichzeitig. Der IWF sieht im KI-induzierten Produktivitätsschub derzeit den wichtigsten Stabilisator – warnt aber, dieser Effekt könne die strukturellen Risiken nicht dauerhaft kompensieren.\n\nFür Anleger bedeutet das eine zwiespältige Botschaft: Kurzfristig stützt die Prognose risikofreudige Positionen, während mittelfristige fiskalische Risiken und mögliche Schuldenschnitte in hochverschuldeten Ländern die Portfolioplanung erschweren.",
-          "tag": "IWF-Ausblick",
-          "emoji": "📊",
+          "titel": "US-Erzeugerpreise steigen stärker als erwartet – Fed unter Druck",
+          "zusammenfassung": "Die amerikanischen Großhandelspreise legten im September auf Jahresbasis um 6,3 Prozent zu – der stärkste Anstieg seit 2022 und deutlich über den Erwartungen. Ökonomen warnen nun offen vor einer weiteren Zinserhöhung der US-Notenbank.",
+          "bedeutung": "Der überraschend starke Anstieg der Erzeugerpreise erhöht den Druck auf die Federal Reserve, ihre restriktive Geldpolitik fortzusetzen, und schürt Befürchtungen über eine anhaltend hohe Inflation auf allen Wirtschaftsstufen.",
+          "hintergrund": "Die Produzentenpreise gelten als Frühindikator für die Verbraucherpreisentwicklung: Was Unternehmen mehr zahlen, geben sie in der Regel weiter. Der überraschend starke Septemberwert nährt daher die Sorge, dass die Inflation hartnäckiger ist als von der Fed erhofft.\n\nAn den Finanzmärkten stiegen die Renditen kurzlaufender US-Staatsanleihen unmittelbar nach der Veröffentlichung. Händler preisen nun eine höhere Wahrscheinlichkeit für einen weiteren Zinsschritt auf der nächsten Fed-Sitzung ein – ein Szenario, das Aktien- und Anleihemärkte gleichermaßen belastet.",
+          "tag": "Inflation",
+          "emoji": "📈",
           "quelle": "CNBC",
-          "quelle_url": "https://www.cnbc.com/2026/10/12/imf-world-bank-annual-meetings-october-bangkok-asia-.html"
+          "quelle_url": "https://www.cnbc.com/2026/10/15/september-producer-price-index-retail-sales-data.html"
         },
         {
           "id": "boerse-1",
-          "titel": "IWF warnt vor unkontrolliertem Anstieg der Anleiherenditen",
-          "zusammenfassung": "Der IWF hat gewarnt, dass sich die Risiken an den globalen Anleihemärkten deutlich verschlechtert haben und Renditen sprunghaft und ungeordnet ansteigen könnten. Steigende Staatsverschuldung und hartnäckige Inflation werden als Haupttreiber genannt.",
-          "bedeutung": "Ein ungeordneter Renditeanstieg würde Staatsfinanzierungen verteuern, Aktienmärkte belasten und könnte eine neue globale Finanzmarktanspannung auslösen.",
-          "hintergrund": "Anleiherenditen sind in den vergangenen Monaten bereits in mehreren großen Volkswirtschaften gestiegen, was die Finanzierungskosten für Staaten und Unternehmen erhöht. Der IWF beobachtet insbesondere Länder mit hohem Schuldenstand wie die USA, Japan und mehrere europäische Staaten.\n\nDie Warnung erscheint im Herbst-Stabilitätsbericht des Fonds und hat unmittelbare Signalwirkung für Zentralbanken und Finanzministerien. Investoren dürften die Hinweise als Argument für eine länger andauernde restriktive Geldpolitik interpretieren.",
-          "tag": "Anleihemarkt",
-          "emoji": "📉",
+          "titel": "5-Prozent-Rendite und 2-Billionen-Defizit: Amerikas Schuldendilemma wächst",
+          "zusammenfassung": "Renditen zehnjähriger US-Staatsanleihen verharren über der psychologisch wichtigen Fünf-Prozent-Marke, während das Haushaltsdefizit die Marke von zwei Billionen Dollar überschritten hat. Analysten warnen vor einem sich selbst verstärkenden Finanzierungsproblem.",
+          "bedeutung": "Steigende Refinanzierungskosten bei gleichzeitig explodierendem Defizit bilden eine gefährliche Spirale, die nicht nur amerikanische Haushalte belastet, sondern durch höhere Kapitalkosten weltweit die Finanzmärkte und Investitionsbereitschaft unter Druck setzt.",
+          "hintergrund": "Wenn der Staat zu hohen Zinsen immer mehr Schulden aufnehmen muss, verdrängt er private Kreditnehmer vom Kapitalmarkt – Ökonomen nennen das den Crowding-out-Effekt. Für Hypotheken, Unternehmenskredite und Konsumfinanzierungen bedeutet das dauerhaft höhere Kosten.\n\nGleichzeitig sorgt das schiere Volumen neuer Staatsanleihen für Druck auf die Kurse bestehender Papiere. Internationale Investoren beobachten die US-Fiskallage zunehmend kritisch – ein Vertrauensverlust in den weltgrößten Anleihemarkt hätte globale Konsequenzen.",
+          "tag": "US-Staatsanleihen",
+          "emoji": "💸",
           "quelle": "CNBC",
-          "quelle_url": "https://www.cnbc.com/2026/10/13/treasury-yields-imf-debt-inflation-.html"
+          "quelle_url": "https://www.cnbc.com/2026/10/15/treasury-yields-deficit-national-debt-ai.html"
         },
         {
           "id": "boerse-2",
-          "titel": "Morgan Stanley übertrifft Erwartungen dank Aktienhandel",
-          "zusammenfassung": "Die US-Investmentbank Morgan Stanley hat im dritten Quartal sowohl beim Umsatz als auch beim Gewinn die Analystenprognosen übertroffen. Besonders der Handel mit Aktien lieferte mit rund 900 Millionen Dollar über den Erwartungen ein außergewöhnliches Ergebnis.",
-          "bedeutung": "Die starken Quartalszahlen setzen ein positives Signal für den gesamten Wall-Street-Bankensektor und könnten die Stimmung an den Finanzmärkten kurzfristig aufhellen.",
-          "hintergrund": "Der Aktienhandel profitierte von erhöhter Marktvolatilität und reger Handelsaktivität institutioneller Investoren. Gleichzeitig zeigte das Investmentbanking erste Erholungszeichen nach einer längeren Flaute bei Fusionen und Börsengängen.\n\nDie Ergebnisse von Morgan Stanley werden von Marktbeobachtern auch als Frühindikator für den Gesundheitszustand der gesamten Finanzbranche gewertet. In einer Woche, in der der IWF vor globalen Marktrisiken warnt, liefern die Zahlen einen willkommenen Kontrapunkt.",
-          "tag": "Bankensektor",
-          "emoji": "🏦",
+          "titel": "Frankreich ringt um Haushalt 2027 – Schuldenfalle bedroht Euro-Stabilität",
+          "zusammenfassung": "Das französische Parlament debattiert einen Haushaltsentwurf für 2027, der angesichts hoher Defizite, steigender Staatsverschuldung und gesellschaftlicher Proteste unter erheblichem Druck steht. Frankreich gilt als Schlüsseltest für die Haushaltsdisziplin im Euroraum.",
+          "bedeutung": "Als zweitgrößte Volkswirtschaft der Eurozone kann Frankreichs fiskalische Instabilität die gesamte Währungsunion destabilisieren und europäische Anleihemärkte unter Druck setzen.",
+          "hintergrund": "Frankreich verzeichnet seit Jahren strukturell hohe Haushaltsdefizite und hat Schwierigkeiten, die EU-Vorgabe einer Defizitquote unter drei Prozent des BIP einzuhalten. Die Europäische Kommission hat bereits ein Defizitverfahren gegen Paris eingeleitet.\n\nDie Debatte um den Haushalt 2027 fällt in eine innenpolitisch volatile Phase: Studentenproteste und Gewerkschaftsdruck erschweren tiefgreifende Sparmaßnahmen, während die Märkte höhere Risikoaufschläge für französische Staatsanleihen gegenüber deutschen Bundesanleihen verlangen – ein Warnsignal für die Stabilität des gesamten Euroraums.",
+          "tag": "Staatsverschuldung",
+          "emoji": "🇫🇷",
           "quelle": "CNBC",
-          "quelle_url": "https://www.cnbc.com/2026/10/14/morgan-stanley-ms-q3-2026-earnings.html"
+          "quelle_url": "https://www.cnbc.com/2026/10/13/france-2027-budget-debt.html"
         }
       ]
     }
