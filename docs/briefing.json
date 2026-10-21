@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-20T01:55:20.198755+00:00",
-  "datum": "Dienstag, 20. Oktober 2026",
+  "generated_at": "2026-10-21T01:42:15.450174+00:00",
+  "datum": "Mittwoch, 21. Oktober 2026",
   "ressorts": [
     {
       "id": "politik",
@@ -9,36 +9,36 @@
       "stories": [
         {
           "id": "politik-0",
-          "titel": "Ausgangssperren in Paris nach schweren Unruhen",
-          "zusammenfassung": "Nach landesweiten Ausschreitungen haben französische Behörden in Teilen von Paris und weiteren Städten Ausgangssperren verhängt. Innenminister räumte ein, dass die Polizei in einigen Städten die Kontrolle verloren habe.",
-          "bedeutung": "Die Unruhen in einer der größten Volkswirtschaften Europas und einem ständigen Mitglied des UN-Sicherheitsrats stellen die innere Stabilität Frankreichs grundlegend in Frage.",
-          "hintergrund": "Frankreich erlebt eine der schwersten innenpolitischen Krisen seit Jahren. Bilder von brennenden Fahrzeugen und geplünderten Geschäften gingen um die Welt und erinnern an die Unruhen von 2005 und 2023.\n\nDie Regierung steht unter enormem Druck, schnell Ordnung wiederherzustellen, ohne die gesellschaftlichen Spannungen weiter zu verschärfen, die als eigentlicher Auslöser der Gewalt gelten.",
-          "tag": "Frankreich-Unruhen",
-          "emoji": "🔥",
+          "titel": "Selenskyj: US-Geheimdienstkooperation funktioniert wieder",
+          "zusammenfassung": "Nach Gesprächen mit dem US-Sondergesandten Steve Witkoff in Oslo erklärte Wolodymyr Selenskyj, der Informationsaustausch mit Washington laufe wieder reibungslos. Zuvor hatte Kiew dem amerikanischen Geheimdienst vorgeworfen, wichtige Lageerkenntnisse zurückzuhalten – was Washington als haltlos zurückwies.",
+          "bedeutung": "Die Frage, ob die USA der Ukraine verlässliche Geheimdienstunterstützung gewähren, ist militärisch wie politisch entscheidend für den weiteren Kriegsverlauf.",
+          "hintergrund": "Der Osloer Austausch zwischen Selenskyj und Witkoff gilt als einer der seltenen direkten Kontakte zwischen Kiew und dem Trump-Lager auf hoher Ebene. Dass Selenskyj danach öffentlich von einer funktionierenden Zusammenarbeit sprach, deutet auf eine zumindest vorübergehende Entspannung im transatlantischen Verhältnis hin.\n\nGleichzeitig warnen Beobachter vor voreiligem Optimismus: Grundlegende Meinungsverschiedenheiten zwischen Washington und Kiew über Friedensbedingungen und die künftige Sicherheitsarchitektur Europas bleiben ungelöst. Die Szene eines herzlichen Umarmungsmoments zwischen Selenskyj und Witkoff verdecke tiefere strategische Spannungen, heißt es aus diplomatischen Kreisen.",
+          "tag": "Ukraine-Krieg",
+          "emoji": "🕊️",
           "quelle": "BBC",
-          "quelle_url": "https://www.bbc.co.uk/news/articles/cx30ez03djyqo?at_medium=RSS&at_campaign=rss"
+          "quelle_url": "https://www.bbc.co.uk/news/articles/cq5ynkx3xy11o?at_medium=RSS&at_campaign=rss"
         },
         {
           "id": "politik-1",
-          "titel": "Zelensky-Berater: US-Geheimdienstlücken kosten Ukrainer das Leben",
-          "zusammenfassung": "Ein enger Berater des ukrainischen Präsidenten Zelensky erhebt schwere Vorwürfe gegen Washington: Eingeschränkter Informationsaustausch lasse zu wenig Zeit, die Bevölkerung vor Raketenangriffen zu warnen. Das Weiße Haus wies die Darstellung zurück und erklärte, es habe keine Änderungen gegeben.",
-          "bedeutung": "Der öffentliche Vorwurf eines Verbündeten gegenüber dem wichtigsten westlichen Unterstützer gefährdet das Vertrauen in die NATO-Koalition und könnte die Gefechtslage für die Ukraine unmittelbar verschlechtern.",
-          "hintergrund": "Seit Monaten wird hinter den Kulissen über den Umfang der amerikanischen Geheimdienstunterstützung für Kiew gestritten. Dass ein ranghoher ukrainischer Offizielle diesen Konflikt nun öffentlich macht, deutet auf erhebliche Frustration hin.\n\nDer Widerspruch zwischen Kyiw und Washington fällt in eine Phase, in der die Ukraine an der Front unter starkem russischen Druck steht und auf westliche Hilfe stärker angewiesen ist denn je.",
-          "tag": "Ukraine-Krieg",
-          "emoji": "🚀",
+          "titel": "Sudanesische Drohnen töten über 300 Trauernde und Zivilisten",
+          "zusammenfassung": "Drohnen der sudanesischen Armee griffen ein Beerdigungsprozession sowie einen Markt an, der angeblich die rivalisierende RSF-Miliz mit Treibstoff versorgte, und töteten dabei mehr als 300 Menschen. Es handelt sich um einen der blutigsten Einzelangriffe seit Beginn des Bürgerkriegs.",
+          "bedeutung": "Das Massaker verdeutlicht das katastrophale Ausmaß des weitgehend aus dem Blickfeld der Weltöffentlichkeit geratenen Sudankonflikts, der bereits Hunderttausende das Leben gekostet hat.",
+          "hintergrund": "Seit April 2023 kämpfen die sudanesischen Streitkräfte und die paramilitärische Rapid Support Forces um die Kontrolle des Landes. Beide Seiten sind wiederholt für schwere Verstöße gegen das humanitäre Völkerrecht verantwortlich gemacht worden.\n\nDer gezielte Angriff auf eine Trauergesellschaft und einen Zivilmarkt dürfte internationale Forderungen nach einer Untersuchung durch den Internationalen Strafgerichtshof neu entfachen. Humanitäre Organisationen warnen, die Lage im Sudan sei eine der schlimmsten Verdrängungskrisen weltweit – mit kaum ausreichender globaler Aufmerksamkeit oder diplomatischem Druck.",
+          "tag": "Sudan-Krieg",
+          "emoji": "💀",
           "quelle": "BBC",
-          "quelle_url": "https://www.bbc.co.uk/news/articles/cmj47yx572z5o?at_medium=RSS&at_campaign=rss"
+          "quelle_url": "https://www.bbc.co.uk/news/articles/cr3el70jz1nqo?at_medium=RSS&at_campaign=rss"
         },
         {
           "id": "politik-2",
-          "titel": "Ex-OpenAI-Mitarbeiter soll saudische Unterstützung gehabt haben",
-          "zusammenfassung": "Einem ehemaligen OpenAI-Beschäftigten, der verdächtig wird, im Unternehmen ein Abhörgerät installiert zu haben, soll dabei die saudische Regierung geholfen haben. Das geht aus einer Gerichtseinreichung hervor; Riad äußerte sich zunächst nicht dazu.",
-          "bedeutung": "Der Fall verbindet Fragen der Wirtschaftsspionage, staatlicher Einflussnahme und der Sicherheit sensibler KI-Forschung zu einem brisanten geopolitischen Thema.",
-          "hintergrund": "OpenAI gilt als eines der strategisch bedeutsamsten Technologieunternehmen der Welt. Ein mutmaßlicher Spionageversuch mit staatlicher Unterstützung rückt die Sicherheit von KI-Laboren in den Fokus internationaler Sicherheitsdiskussionen.\n\nDer Vorfall dürfte die Debatte über den Schutz westlicher KI-Entwicklung vor ausländischer Einflussnahme deutlich intensivieren und könnte neue gesetzliche Regulierungen anstoßen.",
-          "tag": "KI-Spionage",
-          "emoji": "🕵️",
+          "titel": "Trump wegen Kanada-Zöllen vor Gericht gezerrt",
+          "zusammenfassung": "Eine neue Klage in den USA wirft der Trump-Regierung vor, bei der Verhängung von Zöllen auf kanadische Waren die gesetzlichen Befugnisse des Präsidenten überschritten zu haben. Die Kläger argumentieren, amerikanische Unternehmen erlitten durch die Maßnahmen unmittelbare wirtschaftliche Schäden.",
+          "bedeutung": "Das Verfahren könnte grundsätzlich klären, wie weit die Exekutivgewalt des Präsidenten im Bereich der Handelspolitik reicht – mit weitreichenden Folgen für die gesamte Zollstrategie der Regierung.",
+          "hintergrund": "Die Zölle auf kanadische Waren sind Teil einer breiten protektionistischen Wende der Trump-Regierung, die bereits mehrere Handelspartner getroffen hat. Kanada ist nach wie vor einer der engsten Wirtschaftspartner der USA; der transatlantische Handelsstreit belastet Lieferketten von der Automobilindustrie bis zur Landwirtschaft.\n\nMehrere ähnliche Klagen gegen Trumps Zollpolitik sind bereits anhängig. Sollte ein Gericht die Maßnahmen für illegal erklären, würde das die Handlungsspielräume des Weißen Hauses in der Handelspolitik empfindlich einschränken – und könnte weitere Klagen gegen Zölle gegenüber anderen Ländern nach sich ziehen.",
+          "tag": "Handelspolitik",
+          "emoji": "⚖️",
           "quelle": "BBC",
-          "quelle_url": "https://www.bbc.co.uk/news/articles/c6gel2dlyxvyo?at_medium=RSS&at_campaign=rss"
+          "quelle_url": "https://www.bbc.co.uk/news/articles/cqrkyj13m588o?at_medium=RSS&at_campaign=rss"
         }
       ]
     },
@@ -49,36 +49,36 @@
       "stories": [
         {
           "id": "wirtschaft-0",
-          "titel": "Chinas Wirtschaft zieht dank KI-Exportboom an",
-          "zusammenfassung": "Die chinesische Volkswirtschaft hat ihr Wachstumstempo erhöht, angetrieben von boomenden Exporten im Technologie- und KI-Sektor. Schwache Binnennachfrage sowie wachsende Handelsspannungen und Zweifel an der Nachhaltigkeit des KI-Booms trüben jedoch den Ausblick.",
-          "bedeutung": "Als zweitgrößte Volkswirtschaft der Welt beeinflusst Chinas Wachstumskurs die globalen Lieferketten, Rohstoffpreise und die Strategie westlicher Industrieländer unmittelbar.",
-          "hintergrund": "Trotz anhaltender Immobilienkrise und verhaltener Konsumlaune im Inland gelingt es China, über den Exportkanal Wachstum zu generieren. Besonders Technologieprodukte und Güter rund um den KI-Sektor finden weltweit starke Abnehmer.\n\nDie internationalen Handelspartner beobachten diese Entwicklung mit gemischten Gefühlen: Einerseits profitieren sie von günstigeren Produkten, andererseits wächst der Druck, eigene Industrien durch Zölle und Exportkontrollen zu schützen.",
-          "tag": "China-Wachstum",
-          "emoji": "📈",
-          "quelle": "BBC",
-          "quelle_url": "https://www.bbc.co.uk/news/articles/cm5yn098xz8lo?at_medium=RSS&at_campaign=rss"
+          "titel": "Weltfinanzchefs: Schulden und KI verdrängen China als Hauptsorge",
+          "zusammenfassung": "Beim Jahrestreffen von IWF und Weltbank in Bangkok dominierten Staatsschulden, Künstliche Intelligenz und der Ukraine-Krieg die Agenda der globalen Finanzminister. China, noch 2018 das beherrschende Gesprächsthema, trat dabei deutlich in den Hintergrund.",
+          "bedeutung": "Die Verschiebung der Risikowahrnehmung unter den führenden Finanzpolitikern der Welt gibt wichtige Hinweise darauf, welche Herausforderungen die globale Wirtschaftsordnung in den kommenden Jahren prägen werden.",
+          "hintergrund": "Das IWF-Weltbank-Jahrestreffen gilt als zuverlässiger Seismograf für die kollektive Einschätzung globaler Risiken durch Finanzminister, Notenbankchefs und Ökonomen. Dass Themen wie KI-bedingte Arbeitsmarktumbrüche und ausufernde Staatsverschuldung China als Top-Sorge abgelöst haben, spiegelt sowohl Beijing pragmatischen Kurs als auch die gewachsene Eigenständigkeit anderer Risikofaktoren wider.\n\nBesonders die Schuldentragfähigkeit vieler Schwellen- und Entwicklungsländer gilt als kritischer Stressfaktor. Gleichzeitig diskutierten die Teilnehmer intensiv, wie KI Produktivitätsgewinne ermöglichen, aber auch Beschäftigung in bislang sicheren Sektoren gefährden könnte – ohne dass es einen internationalen Ordnungsrahmen dafür gibt.",
+          "tag": "Weltwirtschaft",
+          "emoji": "🌐",
+          "quelle": "CNBC",
+          "quelle_url": "https://www.cnbc.com/2026/10/20/imf-debt-yields-russia-china-takeaway-.html"
         },
         {
           "id": "wirtschaft-1",
-          "titel": "USA verbieten DeepSeek-KI für Regierungsbehörden",
-          "zusammenfassung": "Die US-Regierung hat den Einsatz des chinesischen KI-Modells DeepSeek in Bundesbehörden untersagt. Der Schritt gilt als weiterer Eskalationsschritt im Technologiekonflikt zwischen Washington und Peking.",
-          "bedeutung": "Das Verbot signalisiert, dass der Wettbewerb um KI-Dominanz zunehmend zur Sicherheitsfrage wird und globale Standards für den Einsatz chinesischer Technologie im Westen prägen dürfte.",
-          "hintergrund": "DeepSeek hatte mit seiner leistungsstarken und vergleichsweise kostengünstigen KI-Architektur international für Aufsehen gesorgt und westliche Anbieter unter Druck gesetzt. Nun reagieren die USA mit einem klaren ordnungspolitischen Signal.\n\nDas Verbot reiht sich in eine Serie von Maßnahmen ein, mit denen Washington chinesische Technologieunternehmen vom US-Markt fernhalten will, von TikTok bis Huawei. Andere westliche Länder könnten dem Beispiel folgen.",
-          "tag": "Tech-Konflikt",
-          "emoji": "🤖",
-          "quelle": "BBC",
-          "quelle_url": "https://www.bbc.co.uk/news/articles/cjkgeq0k1wevo?at_medium=RSS&at_campaign=rss"
+          "titel": "JPMorgan investiert fünf Milliarden Dollar in Rüstungstechnologie",
+          "zusammenfassung": "Die US-Großbank JPMorgan Chase hat bereits fünf Milliarden Dollar direkt in Verteidigungstechnologie, Drohnen, Roboterfabriken und Hyperschallraketen investiert. Das Institut baut damit gezielt ein Portfolio in einem Sektor auf, der zuvor für institutionelle Anleger weitgehend tabu war.",
+          "bedeutung": "Das Engagement der weltgrößten Bank signalisiert eine grundlegende Neubewertung von Rüstungsinvestitionen durch den institutionellen Finanzsektor und dürfte weitere Kapitalströme in den Verteidigungsbereich anstoßen.",
+          "hintergrund": "Jahrelang hielten viele Großinvestoren Rüstungsunternehmen aus ESG-Gründen auf Distanz. Der Krieg in der Ukraine, steigende NATO-Rüstungsbudgets und geopolitische Spannungen im Indopazifik haben dieses Kalkül verändert. JPMorgan nutzt eigene Bilanzressourcen – kein Kundenkapital – für direkte Beteiligungen an Hardware, Lieferketten und Technologiefirmen.\n\nDie Investitionen umfassen unter anderem autonome Fabriksysteme und Hyperschallwaffentechnologie – Bereiche, in denen die USA und ihre Verbündeten gegenüber China und Russland aufzuholen versuchen. Kritiker warnen vor einer zunehmenden Verflechtung von Finanzsektor und Rüstungsindustrie ohne ausreichende demokratische Kontrolle.",
+          "tag": "Rüstungsfinanzierung",
+          "emoji": "🏦",
+          "quelle": "CNBC",
+          "quelle_url": "https://www.cnbc.com/2026/10/19/jpmorgan-security-defense-investments.html"
         },
         {
           "id": "wirtschaft-2",
-          "titel": "Musk und Anthropic planen Aktiengeschenke für die Öffentlichkeit",
-          "zusammenfassung": "Sowohl Elon Musks Unternehmen als auch das KI-Start-up Anthropic haben angekündigt, im Zuge bevorstehender Börsengänge Aktien kostenlos an die breite Öffentlichkeit abzugeben. Anthropic will zudem einen gemeinnützigen Fonds einrichten.",
-          "bedeutung": "Die Ankündigungen könnten das Modell des Börsengangs neu definieren und den Druck auf andere Tech-Konzerne erhöhen, breitere Bevölkerungsschichten am wirtschaftlichen Erfolg von KI-Unternehmen zu beteiligen.",
-          "hintergrund": "Hintergrund ist eine wachsende gesellschaftliche Debatte darüber, wer von den enormen Wertzuwächsen im KI-Sektor profitiert. Mit dem öffentlichen Aktienversprechen versuchen beide Unternehmen, einem Image als elitärer Tech-Zirkel entgegenzuwirken.\n\nFür Anthropic kommt die Ankündigung kurz vor dem mit Spannung erwarteten Börsengang, der als letzter großer Tech-IPO des Jahres 2026 gilt, nachdem OpenAI seinen Börsengang verschoben hat.",
-          "tag": "Tech-IPO",
-          "emoji": "🎁",
-          "quelle": "BBC",
-          "quelle_url": "https://www.bbc.co.uk/news/articles/cm2kez327gdko?at_medium=RSS&at_campaign=rss"
+          "titel": "KI-Jobverluste treffen Frauen besonders hart",
+          "zusammenfassung": "Historische Parallelen zu früheren Technologiewellen – etwa der Automatisierung von Telefonvermittlungen oder der PC-Revolution – legen nahe, dass der KI-Strukturwandel am Arbeitsmarkt Frauen überproportional treffen wird. Besonders betroffen sind administrative und kommunikationsnahe Berufe.",
+          "bedeutung": "Wenn KI die Beschäftigung systematisch entlang von Geschlechterlinien verändert, hätte das weitreichende Folgen für Lohngleichheit, Altersvorsorge und sozialen Zusammenhalt weltweit.",
+          "hintergrund": "Frauen sind in jenen Berufsfeldern überrepräsentiert, die als besonders anfällig für KI-gestützte Automatisierung gelten: Büroarbeit, Dateneingabe, Kundendienst und einfache Sachbearbeitungstätigkeiten. Männer hingegen sind stärker in manuellen Berufen vertreten, die physische Präsenz erfordern und schwerer zu automatisieren sind.\n\nForscherinnen und Forscher verweisen auf die Geschichte: Als in den 1970ern Telefonvermittlungen wegfielen, traf das fast ausschließlich Frauen. Ähnliche Muster zeigten sich beim Aufkommen von Textverarbeitungssoftware. Ohne gezielte Umschulungsprogramme und politische Steuerung drohe sich diese Ungleichheit bei der KI-Transition zu wiederholen.",
+          "tag": "KI & Arbeit",
+          "emoji": "🤖",
+          "quelle": "CNBC",
+          "quelle_url": "https://www.cnbc.com/2026/10/19/ai-job-losses-women-automation-risk.html"
         }
       ]
     },
@@ -89,36 +89,36 @@
       "stories": [
         {
           "id": "boerse-0",
-          "titel": "IWF-Treffen: Schulden, KI und Ukraine dominieren Agenda",
-          "zusammenfassung": "Bei den Jahrestagungen von IWF und Weltbank in Bangkok standen globale Verschuldung, die wirtschaftlichen Folgen von Künstlicher Intelligenz und die Finanzierung des Ukraine-Kriegs im Mittelpunkt. China, das 2018 noch das beherrschende Thema war, spielte diesmal eine deutlich geringere Rolle.",
-          "bedeutung": "Die Weichenstellungen dieser Treffen beeinflussen die Kreditvergabe an Schwellenländer, globale Zinspfade und die internationale Koordination in Krisenzeiten direkt.",
-          "hintergrund": "Die Frühherbst-Tagungen von IWF und Weltbank gelten als wichtigster Taktgeber für die globale Wirtschaftspolitik. Dass Schulden erneut ganz oben auf der Agenda stehen, spiegelt die nach der Zinswende angespannte Lage vieler Staaten wider.\n\nBesonders die Debatte um KI und Arbeitsmärkte sorgte für Diskussionen: Mehrere Delegationen forderten internationale Leitlinien, um soziale Verwerfungen durch den rasanten technologischen Wandel abzufedern.",
-          "tag": "IWF-Weltbank",
-          "emoji": "🏦",
+          "titel": "US-Immobilienmarkt schwächelt – Fed unter Druck",
+          "zusammenfassung": "Aktuelle September-Daten zeigen eine weitere Eintrübung des amerikanischen Immobilienmarkts mit sinkenden Baubeginnen und schwächerer Nachfrage. Die Zahlen verschärfen die Debatte, ob die Federal Reserve weitere Zinserhöhungen riskieren kann.",
+          "bedeutung": "Der Immobilienmarkt gilt als einer der empfindlichsten Indikatoren für die Zinspolitik; anhaltende Schwäche könnte die Fed zu einer Kehrtwende zwingen und damit globale Anleihemärkte bewegen.",
+          "hintergrund": "Nach einer langen Phase historisch hoher Hypothekenzinsen zeigt sich der US-Wohnungsmarkt zunehmend unter Druck: Bauträger drosseln Neubauprojekte, Kaufinteressenten halten sich zurück, und die Lagerbestände unverkaufter Häuser steigen. Das belastet nicht nur die Baubranche, sondern dämpft auch den privaten Konsum – eine der tragenden Säulen des US-Wachstums.\n\nFür die Fed ist die Lage heikel: Einerseits bleibt die Kerninflation hartnäckig, andererseits mehren sich Signale, dass weitere Zinserhöhungen den Immobiliensektor in eine tiefere Krise treiben könnten. Märkte preisen derzeit eine erhöhte Unsicherheit über den geldpolitischen Kurs bis ins erste Quartal 2027 ein.",
+          "tag": "Zinspolitik",
+          "emoji": "🏠",
           "quelle": "CNBC",
-          "quelle_url": "https://www.cnbc.com/2026/10/20/imf-debt-yields-russia-china-takeaway-.html"
+          "quelle_url": "https://www.cnbc.com/2026/10/20/housing-mortgage-rates-real-estate-federal-reserve.html"
         },
         {
           "id": "boerse-1",
-          "titel": "Anthropic-Börsengang: Letzte große IPO-Hoffnung des Jahres",
-          "zusammenfassung": "Das KI-Unternehmen Anthropic gilt laut Prognosemärkten als letzter bedeutender Börsenkandidat im Jahr 2026, nachdem OpenAI und mehrere andere Tech-Firmen ihre geplanten Börsengänge verschoben haben. Investoren beobachten den Prozess mit großer Aufmerksamkeit.",
-          "bedeutung": "Der Ausgang des Anthropic-IPO dürfte als Stimmungsbarometer für den gesamten KI-Sektor und die Risikobereitschaft an den globalen Aktienmärkten gelten.",
-          "hintergrund": "Der IPO-Markt hatte 2026 deutlich unter Unsicherheiten gelitten: Zinsniveau, geopolitische Spannungen und hohe Bewertungserwartungen schreckten viele Unternehmen vom Börsengang ab. Anthropic könnte nun das Eis brechen.\n\nMit einer Bewertung im dreistelligen Milliardenbereich würde ein erfolgreicher Börsengang nicht nur Investoren, sondern auch Konkurrenten wie Google und Microsoft unter Druck setzen, ihre KI-Beteiligungen neu zu bewerten.",
+          "titel": "Anthropic als letzte große IPO-Hoffnung des Jahres",
+          "zusammenfassung": "Nachdem OpenAI seinen Börsengang verschoben hat und andere Tech-Unternehmen ebenfalls zögern, gilt Anthropic laut Prognosemärkten als letzter ernsthafter IPO-Kandidat im Jahr 2026. Ein erfolgreicher Börsengang des KI-Unternehmens würde dem strauchelnden Neuemissionsmarkt dringend benötigten Auftrieb geben.",
+          "bedeutung": "Ob Anthropic an die Börse geht, wird zum Stimmungstest für den gesamten KI-Sektor und die Risikobereitschaft institutioneller Investoren im laufenden Jahr.",
+          "hintergrund": "Der IPO-Markt hat 2026 bislang enttäuscht: Mehrere hochbewertete Tech-Unternehmen haben ihre Börsenpläne auf Eis gelegt, teils wegen Marktvolatilität, teils wegen regulatorischer Unsicherheit rund um KI. OpenAIs Entscheidung, den eigenen Börsengang zu verschieben, hat die Erwartungen zusätzlich gedämpft.\n\nAnthropic – Entwickler des KI-Assistenten Claude und gut finanziert durch Amazon und Google – wird auf Prognoseplattformen wie Kalshi noch als realistischer Kandidat gehandelt. Ein erfolgreicher Börsengang könnte das Vertrauen in KI-Bewertungen stärken und den Weg für weitere Emissionen im Jahr 2027 bereiten.",
           "tag": "KI-Börsengang",
-          "emoji": "💹",
+          "emoji": "📈",
           "quelle": "CNBC",
           "quelle_url": "https://www.cnbc.com/2026/10/19/anthropic-ipo-ai-trade.html"
         },
         {
           "id": "boerse-2",
-          "titel": "JPMorgan investiert fünf Milliarden Dollar in Rüstungstechnologie",
-          "zusammenfassung": "JPMorgan Chase hat bereits fünf Milliarden Dollar direkt in Verteidigungstechnologie investiert, darunter Roboterfabriken, Hyperschallraketen und militärische Lieferketten. Die Bank setzt damit ein deutliches Signal für die Privatfinanzierung des Rüstungssektors.",
-          "bedeutung": "Dass die größte US-Bank massiv in Rüstungstech drängt, könnte einen Paradigmenwechsel in der Kapitalallokation auslösen und weitere institutionelle Investoren in den Verteidigungssektor ziehen.",
-          "hintergrund": "Lange Zeit mieden viele Großbanken und Fondsgesellschaften Rüstungsinvestments aus ESG-Gründen. Der Ukraine-Krieg und wachsende geopolitische Spannungen haben dieses Bild grundlegend verändert: Verteidigung gilt nun vielerorts als strategisch notwendig und renditeträchtig.\n\nJPMorgans Engagement umfasst laut Berichten sowohl Direktinvestitionen als auch Beteiligungen an Start-ups, die an autonomen Waffensystemen und hyperschallschnellen Trägersystemen arbeiten – ein Bereich, in dem auch China und Russland massiv aufrüsten.",
-          "tag": "Rüstungsfinanzierung",
-          "emoji": "🛡️",
+          "titel": "HSBC-Chef warnt: Nicht jedes Rechenzentrum ist ein gutes Investment",
+          "zusammenfassung": "Der Vorstandschef der HSBC mahnte, der KI-getriebene Boom bei Rechenzentren werde nicht pauschal rentabel sein – Investoren müssten Standort, Energieversorgung und Auslastung genau prüfen. Die Warnung kommt inmitten einer globalen Investitionswelle in KI-Infrastruktur.",
+          "bedeutung": "Die Skepsis eines der weltgrößten Bankchefs gegenüber pauschalen Rechenzentrums-Investments könnte institutionelle Anleger zu mehr Selektivität bewegen und überhitzte Bewertungen korrigieren.",
+          "hintergrund": "Rechenzentren gelten als Rückgrat der KI-Revolution und zogen zuletzt Hunderte von Milliarden Dollar an Investitionen an – von Staatsfonds bis zu Pensionskassen. Doch Energieengpässe, steigende Baukosten und ungewisse Auslastungsquoten machen die Qualität einzelner Projekte sehr unterschiedlich.\n\nDie Mahnung des HSBC-Chefs fügt sich in eine wachsende Diskussion ein, ob der Rechenzentrum-Hype teilweise spekulativer Natur ist. Experten verweisen auf strukturelle Probleme: Viele neue Kapazitäten entstehen in Regionen mit unzuverlässiger Stromversorgung oder unzureichender Kühlinfrastruktur – was langfristige Renditen gefährdet.",
+          "tag": "KI-Infrastruktur",
+          "emoji": "🖥️",
           "quelle": "CNBC",
-          "quelle_url": "https://www.cnbc.com/2026/10/19/jpmorgan-security-defense-investments.html"
+          "quelle_url": "https://www.cnbc.com/2026/10/20/data-center-financing-ai-debt-hsbc.html"
         }
       ]
     }
