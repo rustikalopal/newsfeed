@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-22T01:37:19.773760+00:00",
-  "datum": "Donnerstag, 22. Oktober 2026",
+  "generated_at": "2026-10-23T01:38:00.863141+00:00",
+  "datum": "Freitag, 23. Oktober 2026",
   "ressorts": [
     {
       "id": "politik",
@@ -9,36 +9,36 @@
       "stories": [
         {
           "id": "politik-0",
-          "titel": "Russland signalisiert Gesprächsbereitschaft, Kiew wird beschossen",
-          "zusammenfassung": "Moskau erklärt sich grundsätzlich bereit, Friedensgespräche über die Ukraine wiederaufzunehmen. Gleichzeitig trafen Raketen die ukrainische Hauptstadt – ein fatales Signal an die internationale Gemeinschaft.",
-          "bedeutung": "Der Widerspruch zwischen Gesprächssignalen und fortgesetzten Angriffen offenbart, wie fragil jede Annäherung im Ukraine-Krieg bleibt.",
-          "hintergrund": "US-Präsident Donald Trump bezeichnete die aktuelle Lage als die vielversprechendste seit Kriegsbeginn und drängt auf eine diplomatische Lösung. Russlands Bereitschaftserklärung wird von Beobachtern jedoch als taktisches Manöver gewertet, das keine echte Kompromissbereitschaft erkennen lässt.\n\nDer Raketenbeschuss auf Kiew unmittelbar nach den russischen Äußerungen verstärkt Zweifel an Moskaus Aufrichtigkeit. Militäranalysten sehen darin ein Muster: Verhandlungssignale werden gesendet, während die militärische Druckausübung unvermindert anhält – eine Strategie, die westliche Partner tief beunruhigt.",
-          "tag": "Ukraine-Krieg",
-          "emoji": "🕊️",
+          "titel": "RSF greift Sudans Krankenhäuser gezielt an",
+          "zusammenfassung": "Eine BBC-Recherche belegt, dass Kämpfer der sudanesischen Schnellen Unterstützungskräfte systematisch Krankenhäuser attackiert haben. UN-Menschenrechtschef Volker Türk wertet die wiederholten Angriffe als mögliche Kriegsverbrechen.",
+          "bedeutung": "Die Dokumentation gezielter Angriffe auf medizinische Einrichtungen könnte internationale Strafverfolgungsmaßnahmen gegen die RSF auslösen und den Druck auf den UN-Sicherheitsrat erhöhen.",
+          "hintergrund": "Der Sudan befindet sich seit April 2023 in einem verheerenden Bürgerkrieg zwischen der sudanesischen Armee und den RSF. Millionen Menschen sind auf der Flucht, die humanitäre Lage gilt als eine der schlimmsten weltweit.\n\nGezielte Angriffe auf Gesundheitseinrichtungen verstoßen gegen das humanitäre Völkerrecht. Die neuen Belege könnten den Internationalen Strafgerichtshof zu Ermittlungen veranlassen – doch politische Blockaden im UN-Sicherheitsrat haben wirksame Maßnahmen bislang verhindert.",
+          "tag": "Sudan-Krieg",
+          "emoji": "🏥",
           "quelle": "BBC",
-          "quelle_url": "https://www.bbc.co.uk/news/articles/cq3djn5nxx12o?at_medium=RSS&at_campaign=rss"
+          "quelle_url": "https://www.bbc.co.uk/news/articles/c54g1kxw4nvvo?at_medium=RSS&at_campaign=rss"
         },
         {
           "id": "politik-1",
-          "titel": "Meta zu 25-Milliarden-Strafe wegen Datenschutzverstößen verurteilt",
-          "zusammenfassung": "Facebook-Mutterkonzern Meta ist mit einer Rekordstrafe von 25 Milliarden Dollar belegt worden, nachdem Behörden dem Unternehmen bewusste Täuschung über den Umgang mit Nutzerdaten vorwarfen. Es handelt sich um die bisher höchste Geldbuße, die je gegen einen Tech-Konzern wegen Datenschutzvergehen verhängt wurde.",
-          "bedeutung": "Das Urteil setzt einen historischen Präzedenzfall für die globale Regulierung von Technologiekonzernen und deren Verantwortung gegenüber Nutzerdaten.",
-          "hintergrund": "Die Strafe übertrifft einen früheren Vergleich Metas mit dem US-Bundesstaat Kalifornien in Höhe von 18 Milliarden Dollar deutlich und markiert eine neue Eskalationsstufe in der weltweiten Auseinandersetzung zwischen Regulierungsbehörden und der Plattformökonomie.\n\nKritiker werfen Meta vor, über Jahre hinweg systematisch falsche Angaben darüber gemacht zu haben, wie Nutzerdaten gespeichert, weitergegeben und kommerziell genutzt werden. Der Fall dürfte die laufenden Gesetzgebungsdebatten zu KI-gestützter Datenverarbeitung und digitalen Persönlichkeitsrechten in Europa und den USA weiter befeuern.",
-          "tag": "Datenschutz",
-          "emoji": "🔒",
+          "titel": "Merz: Deutschland im Visier intensiver russischer Spionage",
+          "zusammenfassung": "Nach der Festnahme eines ukrainischen Staatsbürgers unter Spionageverdacht für Russland hat Bundeskanzler Friedrich Merz Deutschland als bevorzugtes Ziel intensiver Auslandsaufklärung bezeichnet. Der Fall reiht sich in eine Serie ähnlicher Verhaftungen in diesem Jahr ein.",
+          "bedeutung": "Die Häufung mutmaßlicher Spionagefälle zeigt, dass Russland seine Geheimdienstoperationen in Europa trotz des Krieges gegen die Ukraine unvermindert fortsetzt.",
+          "hintergrund": "Seit dem russischen Angriff auf die Ukraine haben westliche Sicherheitsbehörden einen deutlichen Anstieg russischer Spionage- und Sabotageaktivitäten auf europäischem Boden registriert. Deutschland gilt dabei wegen seiner zentralen Rolle bei der Ukraine-Unterstützung als besonders attraktives Ziel.\n\nBemerkenswert ist, dass im aktuellen Fall ein ukrainischer Staatsbürger als mutmaßlicher russischer Agent agiert haben soll – ein Muster, das Geheimdienste als russische Taktik identifiziert haben, um Verdacht zu verschleiern und Misstrauen innerhalb der Ukraine-unterstützenden Staaten zu säen.",
+          "tag": "Spionage",
+          "emoji": "🕵️",
           "quelle": "BBC",
-          "quelle_url": "https://www.bbc.co.uk/news/articles/cqdr8zxrr3dxo?at_medium=RSS&at_campaign=rss"
+          "quelle_url": "https://www.bbc.co.uk/news/articles/cmx28y5e04ggo?at_medium=RSS&at_campaign=rss"
         },
         {
           "id": "politik-2",
-          "titel": "Papst erholt sich: Kein weiterer Eingriff nach Krebsdiagnose nötig",
-          "zusammenfassung": "Nach einer Operation wegen eines Lungenkrebses vom Typ Adenokarzinom haben aktuelle Befunde ergeben, dass der Tumor lokal begrenzt war und keine weiteren medizinischen Eingriffe erforderlich sind. Das Oberhaupt der katholischen Kirche gilt damit als stabil.",
-          "bedeutung": "Die Gesundheit des Papstes berührt weltweit über eine Milliarde Gläubige und hat unmittelbare Auswirkungen auf die Führungskontinuität der römisch-katholischen Kirche.",
-          "hintergrund": "Die Diagnose eines Lungenadenokarzinoms hatte international für Besorgnis gesorgt und Spekulationen über eine mögliche Amtsübergabe ausgelöst. Die nun vorliegenden medizinischen Ergebnisse geben Entwarnung und deuten darauf hin, dass der Tumor frühzeitig erkannt und vollständig entfernt werden konnte.\n\nVatikanische Kreise betonten, der Papst befinde sich auf dem Weg der Genesung und werde schrittweise wieder offizielle Aufgaben übernehmen. Dennoch dürfte die Erkrankung die innerkirchliche Debatte über Nachfolge und institutionelle Stabilität erneut entfachen.",
-          "tag": "Vatikan",
-          "emoji": "✝️",
+          "titel": "Lula fordert Bolsonaros Disqualifikation wegen Meta-Einfluss",
+          "zusammenfassung": "Brasiliens Präsident Luiz Inácio Lula da Silva wirft dem Tech-Konzern Meta vor, im bevorstehenden Wahlkampf den Oppositionskandidaten Flávio Bolsonaro zu bevorzugen. Er fordert deshalb dessen Ausschluss vom Rennen – Meta weist die Anschuldigungen zurück.",
+          "bedeutung": "Der Vorwurf politischer Einflussnahme durch Social-Media-Plattformen vor einer Wahl im bevölkerungsreichsten Land Lateinamerikas wirft grundsätzliche Fragen über die Rolle von Tech-Konzernen in Demokratien auf.",
+          "hintergrund": "Brasilien steht vor wegweisenden Präsidentschaftswahlen, bei denen der Einfluss digitaler Plattformen auf die öffentliche Meinung heiß umstritten ist. Bereits bei der Wahl 2022 spielten Social-Media-Algorithmen eine viel diskutierte Rolle.\n\nDie Auseinandersetzung zwischen Lula und Meta spiegelt einen globalen Trend wider: Demokratisch gewählte Regierungen weltweit ringen darum, wie Tech-Giganten im Wahlkampf reguliert werden können, ohne die Meinungsfreiheit einzuschränken.",
+          "tag": "Wahlkampf",
+          "emoji": "🗳️",
           "quelle": "BBC",
-          "quelle_url": "https://www.bbc.co.uk/news/articles/cqrly2dg5xzzo?at_medium=RSS&at_campaign=rss"
+          "quelle_url": "https://www.bbc.co.uk/news/articles/c6pwgve2lk5go?at_medium=RSS&at_campaign=rss"
         }
       ]
     },
@@ -49,36 +49,36 @@
       "stories": [
         {
           "id": "wirtschaft-0",
-          "titel": "KI entdeckt kritische Sicherheitslücken: Websites weltweit offline",
-          "zusammenfassung": "Eine schwerwiegende Schwachstelle in PHP, einer der meistgenutzten Programmiersprachen im Internet, hat zur vorübergehenden Abschaltung zahlreicher Websites weltweit geführt. Die Lücken wurden durch künstliche Intelligenz identifiziert und gelten als die folgenreichsten in der Geschichte der Sprache.",
-          "bedeutung": "Der Vorfall zeigt, wie verwundbar die globale digitale Infrastruktur ist – und wie KI sowohl bei der Entdeckung als auch bei der Ausnutzung von Sicherheitslücken eine wachsende Rolle spielt.",
-          "hintergrund": "PHP ist die Grundlage für einen erheblichen Teil des modernen Internets, darunter Millionen von Unternehmenswebseiten, Content-Management-Systeme und E-Commerce-Plattformen. Die entdeckten Schwachstellen ermöglichen es Angreifern potenziell, Systeme aus der Ferne zu kompromittieren und Nutzerdaten abzugreifen.\n\nSicherheitsbehörden und Entwicklergemeinschaften riefen weltweit zu sofortigen Systemaktualisierungen auf. Der Vorfall entfacht erneut die Debatte darüber, ob KI-gestützte Sicherheitsanalyse künftig verpflichtend in kritische Infrastrukturen integriert werden sollte.",
-          "tag": "Cybersicherheit",
-          "emoji": "🛡️",
+          "titel": "Meta zu 25 Milliarden Dollar Strafe verurteilt",
+          "zusammenfassung": "Der Facebook-Mutterkonzern Meta ist wegen irreführender Aussagen zum Datenschutz seiner Nutzer mit der bislang höchsten jemals verhängten Geldstrafe in dieser Kategorie belegt worden. Die Summe von 25 Milliarden Dollar übertrifft einen früheren Vergleich mit Kalifornien deutlich.",
+          "bedeutung": "Das Rekordurteil setzt einen neuen globalen Maßstab für die Ahndung von Datenschutzverstößen und dürfte die Regulierungsdebatte rund um Big Tech erheblich verschärfen.",
+          "hintergrund": "Meta steht seit Jahren unter dem Vorwurf, Nutzer und Behörden über den tatsächlichen Umgang mit persönlichen Daten getäuscht zu haben. Frühere Bußgelder wurden vom Unternehmen als Betriebskosten eingepreist, ohne das Geschäftsmodell grundlegend zu verändern.\n\nDie neue Strafe ist so dimensioniert, dass sie auch für ein Unternehmen mit Metas Marktkapitalisierung spürbaren Druck erzeugt. Regulatoren in der EU und anderen Ländern dürften das Urteil als Präzedenzfall für eigene Verfahren heranziehen.",
+          "tag": "Datenschutz",
+          "emoji": "⚖️",
           "quelle": "BBC",
-          "quelle_url": "https://www.bbc.co.uk/news/articles/cmly0lg3w5x2o?at_medium=RSS&at_campaign=rss"
+          "quelle_url": "https://www.bbc.co.uk/news/articles/cqdr8zxrr3dxo?at_medium=RSS&at_campaign=rss"
         },
         {
           "id": "wirtschaft-1",
-          "titel": "Britische Inflation steigt auf 3,5 Prozent vor Haushaltsplan",
-          "zusammenfassung": "Die Inflationsrate im Vereinigten Königreich hat sich im September auf 3,5 Prozent beschleunigt, angetrieben vor allem durch stark gestiegene Kraftstoffkosten. Die Zahlen erhöhen den Druck auf Schatzkanzler John Healey, der kommende Woche seinen Haushalt vorstellt.",
-          "bedeutung": "Die Daten signalisieren, dass die wirtschaftliche Handlungsfähigkeit der britischen Regierung stärker eingeschränkt ist als erwartet – mit möglichen Folgen für Zinsentscheidungen und öffentliche Ausgaben.",
-          "hintergrund": "Die aktuellen Inflationsdaten übertrafen die Erwartungen der meisten Ökonomen und komplizieren die Budgetplanung erheblich. Eine hartnäckig hohe Inflation schränkt den fiskalischen Spielraum für Ausgabenprogramme ein und erhöht gleichzeitig die Wahrscheinlichkeit weiterer Zinserhöhungen durch die Bank of England.\n\nDer Haushalt am 28. Oktober gilt als einer der politisch sensibelsten seit Jahren. Die Regierung steht unter Druck, sowohl Wachstumsimpulse zu setzen als auch die Staatsverschuldung unter Kontrolle zu halten – ein Spagat, der durch die neuen Inflationsdaten noch schwieriger wird.",
-          "tag": "Konjunktur",
-          "emoji": "📉",
+          "titel": "Großbritannien fertigt erstmals seit 20 Jahren wieder Kanonrohre",
+          "zusammenfassung": "Die britische Rüstungsindustrie hat nach zwei Jahrzehnten Pause die Produktion von Panzerrohrläufen im eigenen Land wieder aufgenommen. Verteidigungsminister Richard Tindall bezeichnete den Schritt als Teil einer umfassenden Wiederbewaffnungsstrategie.",
+          "bedeutung": "Die Entscheidung signalisiert eine strukturelle Abkehr westlicher Nationen von der Auslagerung von Rüstungsproduktion und markiert eine neue Phase europäischer Verteidigungsautonomie.",
+          "hintergrund": "Jahrelang wurden sicherheitsrelevante Rüstungskomponenten von Großbritannien im Ausland beschafft, was nach dem Beginn des Ukrainekriegs als strategische Verwundbarkeit erkannt wurde. Die stark gestiegene Nachfrage nach Artilleriemunition und schwerem Gerät hat westliche Lagerbestände vielerorts nahezu aufgebraucht.\n\nDie Wiederinbetriebnahme heimischer Kapazitäten ist Teil eines breiteren NATO-Trends: Mehrere Mitgliedsstaaten investieren massiv in die Reaktivierung und den Ausbau nationaler Rüstungsproduktion, um langfristige Liefersicherheit zu gewährleisten.",
+          "tag": "Rüstung",
+          "emoji": "🏭",
           "quelle": "BBC",
-          "quelle_url": "https://www.bbc.co.uk/news/articles/c6gel2xv4493o?at_medium=RSS&at_campaign=rss"
+          "quelle_url": "https://www.bbc.co.uk/news/articles/cm70pj51zdk4o?at_medium=RSS&at_campaign=rss"
         },
         {
           "id": "wirtschaft-2",
-          "titel": "Britischer Staatsfonds hätte Billionen einbringen können",
-          "zusammenfassung": "Das britische Finanzministerium hat erstmals berechnet, wie viel Vermögen das Vereinigte Königreich hätte ansparen können, wenn es die Erlöse aus der Nordseeölförderung nach norwegischem Vorbild in einem Staatsfonds angelegt hätte. Die Summe geht in den Billionenbereich britischer Pfund.",
-          "bedeutung": "Die Analyse befeuert eine grundsätzliche politische Debatte darüber, wie Staaten Rohstoffreichtum langfristig für ihre Bürger nutzbar machen sollten.",
-          "hintergrund": "Norwegen hat mit seinem Staatsfonds, dem weltweit größten seiner Art, ein global beachtetes Modell für ressourcenbasierte Vermögensbildung geschaffen. Großbritannien hingegen verbrauchte die Einnahmen aus dem Nordseeöl weitgehend direkt, ohne langfristige Rücklagen zu bilden.\n\nDie Veröffentlichung der Berechnungen fällt in eine Zeit wirtschaftlicher Anspannung und wachsender Ungleichheit in Großbritannien. Befürworter eines nationalen Investitionsfonds sehen sich durch die Zahlen bestätigt, während Kritiker darauf hinweisen, dass der historische Vergleich politisch komplex und wirtschaftlich nicht ohne Weiteres übertragbar sei.",
-          "tag": "Rohstoffe",
-          "emoji": "🛢️",
+          "titel": "Barclays streicht 5.000 Stellen wegen KI-Einsatz",
+          "zusammenfassung": "Die britische Großbank Barclays baut rund fünf Prozent ihrer weltweiten Belegschaft ab und begründet dies ausdrücklich mit dem verstärkten Einsatz von Künstlicher Intelligenz. Der Stellenabbau gilt als eines der bislang deutlichsten Signale für den strukturellen Wandel im Finanzsektor durch KI.",
+          "bedeutung": "Wenn eine der größten europäischen Banken KI offen als Grund für Massenentlassungen nennt, verschärft das die gesellschaftliche Debatte über Arbeitsplatzverluste durch Automatisierung erheblich.",
+          "hintergrund": "Banken und Finanzdienstleister gehören zu den Branchen, die am intensivsten in KI-gestützte Prozesse investieren – von der Betrugserkennung über Kreditprüfung bis hin zur Kundenbetreuung. Bislang vermieden es viele Institute, KI explizit als Ursache für Stellenstreichungen zu benennen.\n\nDer Barclays-Fall könnte Schule machen: Analysten erwarten, dass weitere Großbanken ähnliche Maßnahmen ankündigen werden, sobald der öffentliche Druck durch regulatorische Unsicherheit nachlässt.",
+          "tag": "KI-Jobabbau",
+          "emoji": "🤖",
           "quelle": "BBC",
-          "quelle_url": "https://www.bbc.co.uk/news/articles/cm4g1zrl2nrqo?at_medium=RSS&at_campaign=rss"
+          "quelle_url": "https://www.bbc.co.uk/news/articles/cm4g1p347qgxo?at_medium=RSS&at_campaign=rss"
         }
       ]
     },
@@ -89,36 +89,36 @@
       "stories": [
         {
           "id": "boerse-0",
-          "titel": "UK-Inflation heizt Zinserhöhungserwartungen am Markt an",
-          "zusammenfassung": "Der überraschend starke Anstieg der britischen Inflation auf 3,5 Prozent hat an den Finanzmärkten die Erwartung weiterer Zinserhöhungen durch die Bank of England merklich verstärkt. Vor allem gestiegene Kraftstoffpreise trieben den Anstieg.",
-          "bedeutung": "Steigende Zinserwartungen belasten Anleihen, verteuern Kredite und beeinflussen Aktien- sowie Devisenmärkte weltweit.",
-          "hintergrund": "Händler und Investoren haben ihre Wetten auf weitere geldpolitische Straffung nach der Veröffentlichung der Inflationsdaten deutlich erhöht. Britische Staatsanleihen gaben nach, während das Pfund Sterling gegenüber dem Dollar leicht zulegte, da höhere Zinsen die Währung tendenziell attraktiver machen.\n\nDie Entwicklung stellt die Bank of England vor ein klassisches Dilemma: Zinserhöhungen bekämpfen die Inflation, bremsen aber gleichzeitig Wirtschaftswachstum und Immobilienmarkt – beides Bereiche, die bereits unter Druck stehen.",
-          "tag": "Zinspolitik",
-          "emoji": "📊",
+          "titel": "UK-Inflation springt auf 3,5 Prozent – Zinserhöhung wahrscheinlich",
+          "zusammenfassung": "Die britische Inflationsrate ist im September stärker als erwartet auf 3,5 Prozent gestiegen, angetrieben vor allem durch stark gestiegene Kraftstoffpreise. Ökonomen halten eine baldige Zinserhöhung durch die Bank of England nun für nahezu sicher.",
+          "bedeutung": "Unerwartet hohe Inflationsdaten in der fünftgrößten Volkswirtschaft der Welt verschieben die geldpolitischen Erwartungen und beeinflussen Anleihemärkte sowie den Pfund-Kurs unmittelbar.",
+          "hintergrund": "Großbritannien kämpft schon länger als die meisten anderen entwickelten Volkswirtschaften mit hartnäckiger Inflation. Während die Europäische Zentralbank zuletzt die Zinsen gesenkt hat, könnte die Bank of England nun einen anderen Kurs einschlagen.\n\nFür Finanzmärkte bedeutet eine Zinserhöhung steigende Renditen für britische Staatsanleihen, Druck auf den Immobilienmarkt und mögliche Kursverluste bei zinssensitiven Aktien. Investoren beobachten die Entwicklung auch als Indikator dafür, ob der globale Inflationstrend doch noch nicht überwunden ist.",
+          "tag": "Inflation",
+          "emoji": "📈",
           "quelle": "CNBC",
           "quelle_url": "https://www.cnbc.com/2026/10/21/inflation-uk-cpi-interest-rates.html"
         },
         {
           "id": "boerse-1",
-          "titel": "IWF-Treffen: Schulden und KI verdrängen China als Topthema",
-          "zusammenfassung": "Beim Jahrestreffen von IWF und Weltbank in Bangkok dominierten staatliche Schuldenlasten, künstliche Intelligenz und der Ukraine-Krieg die Gespräche der globalen Finanzverantwortlichen. China, das noch 2018 als größtes Risiko galt, spielte diesmal eine untergeordnete Rolle.",
-          "bedeutung": "Die Verschiebung der Risikowahrnehmung unter den weltweiten Finanzchefs gibt Aufschluss darüber, welche Faktoren künftig die globale Wirtschaftsordnung prägen werden.",
-          "hintergrund": "Die veränderten Prioritäten spiegeln eine neue geopolitische und wirtschaftliche Realität wider: Steigende Staatsverschuldung in Industrie- und Schwellenländern gilt als systemisches Risiko, während der rasante Aufstieg von KI-Technologien sowohl Chancen als auch regulatorische Fragen aufwirft.\n\nDass China aus dem Zentrum der Sorgenagenda gerückt ist, bedeutet nicht, dass Spannungen verschwunden sind – sondern vielmehr, dass andere Krisen dringlicher erscheinen. Beobachter werten dies als Hinweis auf eine zunehmend multipolare Risikolandschaft, in der keine einzelne Volkswirtschaft mehr allein den Takt vorgibt.",
-          "tag": "Weltwirtschaft",
-          "emoji": "🌐",
+          "titel": "Goldman, JPMorgan und Morgan Stanley dominieren KI-Aktienboom",
+          "zusammenfassung": "Die drei US-Investmentbanken haben in diesem Jahr gemeinsam rund 52 Milliarden Dollar Umsatz im Aktienhandel erzielt und damit etwa 80 Prozent des gesamten Marktvolumens auf sich vereint. Treiber ist vor allem die stark gestiegene Margenkreditvergabe an Hedgefonds im Zuge des KI-Aktienbooms.",
+          "bedeutung": "Die extreme Marktkonzentration bei wenigen Wall-Street-Häusern erhöht systemische Risiken und verdeutlicht, wie sehr der KI-Hype die Kräfteverhältnisse im globalen Kapitalmarkt verschiebt.",
+          "hintergrund": "Der Boom bei KI-Aktien hat eine Welle gehebelter Investitionen ausgelöst, von der vor allem jene Banken profitieren, die über die nötige Infrastruktur für großvolumige Margenkredite verfügen. Kleinere Wettbewerber werden strukturell weiter zurückgedrängt.\n\nKritiker warnen, dass die Konzentration dieser Aktivitäten bei drei Instituten die Anfälligkeit des Systems im Falle einer KI-Marktkorrektur erhöht. Regulatoren in den USA und Europa prüfen, ob die bestehenden Kapitalanforderungen für diese Art von Hebelgeschäften noch ausreichen.",
+          "tag": "Wall Street",
+          "emoji": "💹",
           "quelle": "CNBC",
-          "quelle_url": "https://www.cnbc.com/2026/10/20/imf-debt-yields-russia-china-takeaway-.html"
+          "quelle_url": "https://www.cnbc.com/2026/10/21/goldman-sachs-jpmorgan-morgan-stanley-ai-trading.html"
         },
         {
           "id": "boerse-2",
-          "titel": "Wall-Street-Banken beherrschen KI-Aktienhandel mit 52 Milliarden Dollar",
-          "zusammenfassung": "Goldman Sachs, JPMorgan und Morgan Stanley haben in diesem Jahr gemeinsam rund 52 Milliarden Dollar im Aktienhandel erwirtschaftet und damit etwa 80 Prozent des Marktanteils auf sich vereint. Treiber ist vor allem die steigende Nachfrage nach Margenkrediten für Hedgefonds im KI-Boom.",
-          "bedeutung": "Die Marktkonzentration unter den drei Großbanken signalisiert eine strukturelle Machtverschiebung im globalen Finanzwesen, die kleinere Wettbewerber zunehmend marginalisiert.",
-          "hintergrund": "Der Boom rund um KI-Aktien hat den Wertpapierhandel zu einem Wachstumsmotor für die Wall Street gemacht. Durch die Vergabe von Margenkrediten an Hedgefonds, die stark in KI-bezogene Titel investieren, profitieren die Großbanken doppelt: als Händler und als Kreditgeber.\n\nKritiker warnen vor einer gefährlichen Konzentration von Marktmacht und systemischen Risiken, falls die KI-Euphorie an den Märkten abrupt enden sollte. Regulierungsbehörden in den USA und Europa beobachten die Entwicklung mit wachsender Aufmerksamkeit.",
-          "tag": "Banken",
-          "emoji": "🏦",
+          "titel": "US-Erstanträge auf Arbeitslosenhilfe auf historischem Tief",
+          "zusammenfassung": "Die wöchentlichen Erstanträge auf Arbeitslosenunterstützung in den USA sind auf 194.000 gefallen – den niedrigsten Stand seit den 1960er Jahren. Der anhaltende Trend spiegelt einen außergewöhnlich robusten US-Arbeitsmarkt wider.",
+          "bedeutung": "Ein derart angespannter Arbeitsmarkt erhöht den Lohndruck und erschwert der Federal Reserve die Entscheidung über künftige Zinssenkungen, was globale Kapitalmärkte direkt beeinflusst.",
+          "hintergrund": "Die US-Wirtschaft zeigt sich trotz mehrjähriger Hochzinspolitik der Fed erstaunlich widerstandsfähig. Niedrige Entlassungsquoten signalisieren, dass Unternehmen qualifizierte Arbeitskräfte nicht abbauen wollen – auch wenn die Neueinstellungen zurückgegangen sind.\n\nFür die Geldpolitik ist das ein zweischneidiges Signal: Einerseits spricht die wirtschaftliche Stärke gegen dringende Zinssenkungen, andererseits wächst die Sorge, dass ein überhitzter Arbeitsmarkt Inflation neu entfachen könnte.",
+          "tag": "Arbeitsmarkt",
+          "emoji": "📊",
           "quelle": "CNBC",
-          "quelle_url": "https://www.cnbc.com/2026/10/21/goldman-sachs-jpmorgan-morgan-stanley-ai-trading.html"
+          "quelle_url": "https://www.cnbc.com/2026/10/22/jobless-claims-record-low-weekly.html"
         }
       ]
     }
