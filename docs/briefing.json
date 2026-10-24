@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-23T01:38:00.863141+00:00",
-  "datum": "Freitag, 23. Oktober 2026",
+  "generated_at": "2026-10-24T01:41:31.807444+00:00",
+  "datum": "Samstag, 24. Oktober 2026",
   "ressorts": [
     {
       "id": "politik",
@@ -9,36 +9,36 @@
       "stories": [
         {
           "id": "politik-0",
-          "titel": "RSF greift Sudans Krankenhäuser gezielt an",
-          "zusammenfassung": "Eine BBC-Recherche belegt, dass Kämpfer der sudanesischen Schnellen Unterstützungskräfte systematisch Krankenhäuser attackiert haben. UN-Menschenrechtschef Volker Türk wertet die wiederholten Angriffe als mögliche Kriegsverbrechen.",
-          "bedeutung": "Die Dokumentation gezielter Angriffe auf medizinische Einrichtungen könnte internationale Strafverfolgungsmaßnahmen gegen die RSF auslösen und den Druck auf den UN-Sicherheitsrat erhöhen.",
-          "hintergrund": "Der Sudan befindet sich seit April 2023 in einem verheerenden Bürgerkrieg zwischen der sudanesischen Armee und den RSF. Millionen Menschen sind auf der Flucht, die humanitäre Lage gilt als eine der schlimmsten weltweit.\n\nGezielte Angriffe auf Gesundheitseinrichtungen verstoßen gegen das humanitäre Völkerrecht. Die neuen Belege könnten den Internationalen Strafgerichtshof zu Ermittlungen veranlassen – doch politische Blockaden im UN-Sicherheitsrat haben wirksame Maßnahmen bislang verhindert.",
-          "tag": "Sudan-Krieg",
-          "emoji": "🏥",
+          "titel": "Schützen töten sieben Menschen bei Beerdigungsfeier in Jordanien",
+          "zusammenfassung": "Bei einer Beerdigung in der südjordanischen Gouverneursschaft Karak haben Bewaffnete das Feuer auf Trauernde eröffnet und dabei sieben Menschen getötet sowie 34 weitere verletzt. Die Behörden haben eine Großfahndung nach den Tätern eingeleitet.",
+          "bedeutung": "Der Anschlag auf eine Beerdigungsgesellschaft in einem der stabilsten Länder des Nahen Ostens erschüttert die regionale Sicherheitslage und schürt Sorgen vor wachsender Instabilität in Jordanien.",
+          "hintergrund": "Jordanien gilt seit Jahrzehnten als verlässlicher Stabilitätsanker in einer von Konflikten geprägten Region. Gewaltsame Anschläge dieses Ausmaßes sind äußerst selten und werden von der Regierung in Amman als direkter Angriff auf die innere Sicherheit gewertet.\n\nDer Tatort in der Gouverneursschaft Karak hat historische Bedeutung – die Region war bereits 2016 Schauplatz eines tödlichen Anschlags mit Bezug zur Terrormiliz Islamischer Staat. Die Ermittlungsbehörden prüfen derzeit Hintergründe und Motivation der Schützen.",
+          "tag": "Terroranschlag",
+          "emoji": "🕊️",
           "quelle": "BBC",
-          "quelle_url": "https://www.bbc.co.uk/news/articles/c54g1kxw4nvvo?at_medium=RSS&at_campaign=rss"
+          "quelle_url": "https://www.bbc.co.uk/news/articles/ck87zlpzny15o?at_medium=RSS&at_campaign=rss"
         },
         {
           "id": "politik-1",
-          "titel": "Merz: Deutschland im Visier intensiver russischer Spionage",
-          "zusammenfassung": "Nach der Festnahme eines ukrainischen Staatsbürgers unter Spionageverdacht für Russland hat Bundeskanzler Friedrich Merz Deutschland als bevorzugtes Ziel intensiver Auslandsaufklärung bezeichnet. Der Fall reiht sich in eine Serie ähnlicher Verhaftungen in diesem Jahr ein.",
-          "bedeutung": "Die Häufung mutmaßlicher Spionagefälle zeigt, dass Russland seine Geheimdienstoperationen in Europa trotz des Krieges gegen die Ukraine unvermindert fortsetzt.",
-          "hintergrund": "Seit dem russischen Angriff auf die Ukraine haben westliche Sicherheitsbehörden einen deutlichen Anstieg russischer Spionage- und Sabotageaktivitäten auf europäischem Boden registriert. Deutschland gilt dabei wegen seiner zentralen Rolle bei der Ukraine-Unterstützung als besonders attraktives Ziel.\n\nBemerkenswert ist, dass im aktuellen Fall ein ukrainischer Staatsbürger als mutmaßlicher russischer Agent agiert haben soll – ein Muster, das Geheimdienste als russische Taktik identifiziert haben, um Verdacht zu verschleiern und Misstrauen innerhalb der Ukraine-unterstützenden Staaten zu säen.",
-          "tag": "Spionage",
-          "emoji": "🕵️",
+          "titel": "Melania Trump vermittelt Waffenruhe für bedrohte Ukraine-Stadt",
+          "zusammenfassung": "Das Weiße Haus gibt bekannt, dass Melania Trump eine Waffenruhe für die russisch besetzte Stadt Oleschky ausgehandelt hat, deren Bevölkerung unter extremer Nahrungsmittelknappheit leidet. Sowohl Kiew als auch Moskau haben die Vereinbarung bestätigt.",
+          "bedeutung": "Die ungewöhnliche diplomatische Rolle der First Lady deutet auf informelle Kommunikationskanäle im Ukraine-Krieg hin und könnte auf eine veränderte amerikanische Vermittlungsstrategie hinweisen.",
+          "hintergrund": "Oleschky am linken Dnipro-Ufer steht seit Monaten unter russischer Kontrolle und ist weitgehend von Versorgungswegen abgeschnitten. Bewohner sollen nach Medienberichten auf Wildpflanzen aus Vorgärten angewiesen sein, um zu überleben.\n\nDass eine First Lady öffentlich als Konfliktmediatorin auftritt, ist in der modernen US-Geschichte ohne klaren Präzedenzfall. Beobachter werten den Schritt als Signal, dass die Trump-Administration neben offiziellen Verhandlungsformaten auch persönliche Netzwerke zur Kriegsdiplomatie einsetzt.",
+          "tag": "Ukraine-Krieg",
+          "emoji": "🕊️",
           "quelle": "BBC",
-          "quelle_url": "https://www.bbc.co.uk/news/articles/cmx28y5e04ggo?at_medium=RSS&at_campaign=rss"
+          "quelle_url": "https://www.bbc.co.uk/news/articles/c6vgxkvl4w5eo?at_medium=RSS&at_campaign=rss"
         },
         {
           "id": "politik-2",
-          "titel": "Lula fordert Bolsonaros Disqualifikation wegen Meta-Einfluss",
-          "zusammenfassung": "Brasiliens Präsident Luiz Inácio Lula da Silva wirft dem Tech-Konzern Meta vor, im bevorstehenden Wahlkampf den Oppositionskandidaten Flávio Bolsonaro zu bevorzugen. Er fordert deshalb dessen Ausschluss vom Rennen – Meta weist die Anschuldigungen zurück.",
-          "bedeutung": "Der Vorwurf politischer Einflussnahme durch Social-Media-Plattformen vor einer Wahl im bevölkerungsreichsten Land Lateinamerikas wirft grundsätzliche Fragen über die Rolle von Tech-Konzernen in Demokratien auf.",
-          "hintergrund": "Brasilien steht vor wegweisenden Präsidentschaftswahlen, bei denen der Einfluss digitaler Plattformen auf die öffentliche Meinung heiß umstritten ist. Bereits bei der Wahl 2022 spielten Social-Media-Algorithmen eine viel diskutierte Rolle.\n\nDie Auseinandersetzung zwischen Lula und Meta spiegelt einen globalen Trend wider: Demokratisch gewählte Regierungen weltweit ringen darum, wie Tech-Giganten im Wahlkampf reguliert werden können, ohne die Meinungsfreiheit einzuschränken.",
-          "tag": "Wahlkampf",
-          "emoji": "🗳️",
+          "titel": "Freigelassener US-Bürger soll in russischer Haft gefoltert worden sein",
+          "zusammenfassung": "Ehemalige ukrainische Mithäftlinge berichten, dass ein inzwischen freigelassener amerikanischer Staatsbürger während seiner Inhaftierung in Russland systematisch misshandelt wurde, darunter Schläge und sexuelle Erniedrigung durch Wachpersonal. Der Mann selbst ist nun außerhalb Russlands in Sicherheit.",
+          "bedeutung": "Die Vorwürfe belasten das ohnehin angespannte Verhältnis zwischen Washington und Moskau weiter und erhöhen den Druck auf die US-Regierung, Rechenschaft von Russland zu fordern.",
+          "hintergrund": "Berichte über Folter und unmenschliche Behandlung in russischen Haftanstalten sind seit Beginn des Ukrainekrieges deutlich häufiger geworden. Internationale Menschenrechtsorganisationen dokumentieren entsprechende Fälle, stoßen jedoch mit Forderungen nach unabhängiger Überprüfung regelmäßig auf russischen Widerstand.\n\nDer konkrete Fall gewinnt besonderes Gewicht, weil es sich um einen US-amerikanischen Staatsbürger handelt – ein Umstand, der den Fall zu einer diplomatischen Angelegenheit zwischen zwei Atommächten macht und die Forderungen nach einem umfassenden Rechenschaftsmechanismus für in Russland inhaftierte Ausländer verstärkt.",
+          "tag": "Menschenrechte",
+          "emoji": "🔒",
           "quelle": "BBC",
-          "quelle_url": "https://www.bbc.co.uk/news/articles/c6pwgve2lk5go?at_medium=RSS&at_campaign=rss"
+          "quelle_url": "https://www.bbc.co.uk/news/articles/cx7vpmn6qzmlo?at_medium=RSS&at_campaign=rss"
         }
       ]
     },
@@ -49,36 +49,36 @@
       "stories": [
         {
           "id": "wirtschaft-0",
-          "titel": "Meta zu 25 Milliarden Dollar Strafe verurteilt",
-          "zusammenfassung": "Der Facebook-Mutterkonzern Meta ist wegen irreführender Aussagen zum Datenschutz seiner Nutzer mit der bislang höchsten jemals verhängten Geldstrafe in dieser Kategorie belegt worden. Die Summe von 25 Milliarden Dollar übertrifft einen früheren Vergleich mit Kalifornien deutlich.",
-          "bedeutung": "Das Rekordurteil setzt einen neuen globalen Maßstab für die Ahndung von Datenschutzverstößen und dürfte die Regulierungsdebatte rund um Big Tech erheblich verschärfen.",
-          "hintergrund": "Meta steht seit Jahren unter dem Vorwurf, Nutzer und Behörden über den tatsächlichen Umgang mit persönlichen Daten getäuscht zu haben. Frühere Bußgelder wurden vom Unternehmen als Betriebskosten eingepreist, ohne das Geschäftsmodell grundlegend zu verändern.\n\nDie neue Strafe ist so dimensioniert, dass sie auch für ein Unternehmen mit Metas Marktkapitalisierung spürbaren Druck erzeugt. Regulatoren in der EU und anderen Ländern dürften das Urteil als Präzedenzfall für eigene Verfahren heranziehen.",
-          "tag": "Datenschutz",
-          "emoji": "⚖️",
+          "titel": "USA heben Zölle auf einige kanadische Waren vor Midterms an",
+          "zusammenfassung": "Ab dem 30. Oktober lockern die Vereinigten Staaten Importzölle auf ausgewählte kanadische Produkte, darunter bestimmte Maschinen, während gleichzeitig neue Abgaben auf andere Warengruppen wie Teppiche eingeführt werden. Der Schritt erfolgt wenige Tage vor den US-Zwischenwahlen.",
+          "bedeutung": "Die gezielte Anpassung der Zollpolitik gegenüber dem wichtigsten Handelspartner der USA zeigt, wie eng Außenhandelsentscheidungen mit innenpolitischen Wahlkampfkalkülen verknüpft sind.",
+          "hintergrund": "Die Handelsbeziehungen zwischen den USA und Kanada stehen seit der Neuverhandlung des USMCA-Abkommens unter erhöhter Beobachtung. Zollstreitigkeiten über Stahl, Aluminium und Agrarprodukte haben das Verhältnis wiederholt belastet und zu Vergeltungsmaßnahmen auf beiden Seiten geführt.\n\nDie selektive Entlastung bestimmter Branchen kurz vor den Midterm-Wahlen wird von Wirtschaftsanalysten als kalkuliertes Signal an spezifische Wählergruppen gewertet, ohne die protektionistischen Kernpositionen der Regierung aufzugeben.",
+          "tag": "Handelspolitik",
+          "emoji": "🤝",
           "quelle": "BBC",
-          "quelle_url": "https://www.bbc.co.uk/news/articles/cqdr8zxrr3dxo?at_medium=RSS&at_campaign=rss"
+          "quelle_url": "https://www.bbc.co.uk/news/articles/c60qk573yzz8o?at_medium=RSS&at_campaign=rss"
         },
         {
           "id": "wirtschaft-1",
-          "titel": "Großbritannien fertigt erstmals seit 20 Jahren wieder Kanonrohre",
-          "zusammenfassung": "Die britische Rüstungsindustrie hat nach zwei Jahrzehnten Pause die Produktion von Panzerrohrläufen im eigenen Land wieder aufgenommen. Verteidigungsminister Richard Tindall bezeichnete den Schritt als Teil einer umfassenden Wiederbewaffnungsstrategie.",
-          "bedeutung": "Die Entscheidung signalisiert eine strukturelle Abkehr westlicher Nationen von der Auslagerung von Rüstungsproduktion und markiert eine neue Phase europäischer Verteidigungsautonomie.",
-          "hintergrund": "Jahrelang wurden sicherheitsrelevante Rüstungskomponenten von Großbritannien im Ausland beschafft, was nach dem Beginn des Ukrainekriegs als strategische Verwundbarkeit erkannt wurde. Die stark gestiegene Nachfrage nach Artilleriemunition und schwerem Gerät hat westliche Lagerbestände vielerorts nahezu aufgebraucht.\n\nDie Wiederinbetriebnahme heimischer Kapazitäten ist Teil eines breiteren NATO-Trends: Mehrere Mitgliedsstaaten investieren massiv in die Reaktivierung und den Ausbau nationaler Rüstungsproduktion, um langfristige Liefersicherheit zu gewährleisten.",
-          "tag": "Rüstung",
-          "emoji": "🏭",
+          "titel": "L'Oréal warnt: Abnehmspritzen belasten Schönheitsumsätze",
+          "zusammenfassung": "Der weltgrößte Kosmetikkonzern stellt fest, dass die wachsende Verbreitung von GLP-1-Abnehmpräparaten die Nachfrage nach Beauty- und Hautpflegeprodukten merklich dämpft. Der Konzernchef bezeichnet den Trend als strategisch bedeutsam für das gesamte Unternehmen.",
+          "bedeutung": "Dass ein Pharma-Megatrend nun messbare Auswirkungen auf die Konsumgüterindustrie hat, signalisiert eine branchenübergreifende Disruption mit Folgen für Investoren und Markenstrategien weltweit.",
+          "hintergrund": "GLP-1-Medikamente wie Semaglutid wurden ursprünglich zur Diabetesbehandlung entwickelt, haben sich aber zu einem globalen Massenphänomen bei der Gewichtsreduktion entwickelt. Ihr Einfluss auf Kaufverhalten und Körperwahrnehmung wirft nun neue Fragen für die Konsumgüterbranche auf.\n\nFür L'Oréal, das Produkte von der Basispflege bis zur Luxuskosmetik vermarktet, bedeutet der Wandel eine strategische Herausforderung: Schlankere Körper verändern möglicherweise Pflegebedürfnisse und Kaufmuster, was eine Neuausrichtung des Produktportfolios notwendig machen könnte.",
+          "tag": "Konsumwandel",
+          "emoji": "💊",
           "quelle": "BBC",
-          "quelle_url": "https://www.bbc.co.uk/news/articles/cm70pj51zdk4o?at_medium=RSS&at_campaign=rss"
+          "quelle_url": "https://www.bbc.co.uk/news/articles/cvglwgwpgrlpo?at_medium=RSS&at_campaign=rss"
         },
         {
           "id": "wirtschaft-2",
-          "titel": "Barclays streicht 5.000 Stellen wegen KI-Einsatz",
-          "zusammenfassung": "Die britische Großbank Barclays baut rund fünf Prozent ihrer weltweiten Belegschaft ab und begründet dies ausdrücklich mit dem verstärkten Einsatz von Künstlicher Intelligenz. Der Stellenabbau gilt als eines der bislang deutlichsten Signale für den strukturellen Wandel im Finanzsektor durch KI.",
-          "bedeutung": "Wenn eine der größten europäischen Banken KI offen als Grund für Massenentlassungen nennt, verschärft das die gesellschaftliche Debatte über Arbeitsplatzverluste durch Automatisierung erheblich.",
-          "hintergrund": "Banken und Finanzdienstleister gehören zu den Branchen, die am intensivsten in KI-gestützte Prozesse investieren – von der Betrugserkennung über Kreditprüfung bis hin zur Kundenbetreuung. Bislang vermieden es viele Institute, KI explizit als Ursache für Stellenstreichungen zu benennen.\n\nDer Barclays-Fall könnte Schule machen: Analysten erwarten, dass weitere Großbanken ähnliche Maßnahmen ankündigen werden, sobald der öffentliche Druck durch regulatorische Unsicherheit nachlässt.",
-          "tag": "KI-Jobabbau",
-          "emoji": "🤖",
+          "titel": "Zuckerberg umgeht Milliardärssteuer mit Meta-Sonderdeal",
+          "zusammenfassung": "Mark Zuckerberg hat eine Sondervereinbarung mit Meta ausgehandelt, die ihm helfen soll, eine mögliche kalifornische Vermögenssteuer zu kompensieren – nachdem er angedroht hatte, den Bundesstaat zu verlassen. Das Steuergesetz ist bislang noch nicht in Kraft getreten.",
+          "bedeutung": "Der Fall illustriert, wie milliardenschwere Tech-Unternehmer politischen Druck auf Regierungen ausüben können, und entfacht eine neue Debatte über Steuergerechtigkeit im Silicon Valley.",
+          "hintergrund": "Kalifornien diskutiert seit Längerem Modelle zur stärkeren Besteuerung extremer Vermögen. Zuckerbergs öffentliche Drohung, den Staat zu verlassen, wurde von Steuerrechtlern als klassisches Beispiel für die Verhandlungsmacht von Superreichen gegenüber demokratisch gewählten Gesetzgebern gewertet.\n\nDass Meta – ein börsennotiertes Unternehmen mit Verpflichtungen gegenüber allen Aktionären – eine Vereinbarung primär zum persönlichen finanziellen Vorteil seines Gründers abschließt, wirft zusätzliche Corporate-Governance-Fragen auf.",
+          "tag": "Steuerpolitik",
+          "emoji": "💰",
           "quelle": "BBC",
-          "quelle_url": "https://www.bbc.co.uk/news/articles/cm4g1p347qgxo?at_medium=RSS&at_campaign=rss"
+          "quelle_url": "https://www.bbc.co.uk/news/articles/cky83vwnyglno?at_medium=RSS&at_campaign=rss"
         }
       ]
     },
@@ -89,36 +89,25 @@
       "stories": [
         {
           "id": "boerse-0",
-          "titel": "UK-Inflation springt auf 3,5 Prozent – Zinserhöhung wahrscheinlich",
-          "zusammenfassung": "Die britische Inflationsrate ist im September stärker als erwartet auf 3,5 Prozent gestiegen, angetrieben vor allem durch stark gestiegene Kraftstoffpreise. Ökonomen halten eine baldige Zinserhöhung durch die Bank of England nun für nahezu sicher.",
-          "bedeutung": "Unerwartet hohe Inflationsdaten in der fünftgrößten Volkswirtschaft der Welt verschieben die geldpolitischen Erwartungen und beeinflussen Anleihemärkte sowie den Pfund-Kurs unmittelbar.",
-          "hintergrund": "Großbritannien kämpft schon länger als die meisten anderen entwickelten Volkswirtschaften mit hartnäckiger Inflation. Während die Europäische Zentralbank zuletzt die Zinsen gesenkt hat, könnte die Bank of England nun einen anderen Kurs einschlagen.\n\nFür Finanzmärkte bedeutet eine Zinserhöhung steigende Renditen für britische Staatsanleihen, Druck auf den Immobilienmarkt und mögliche Kursverluste bei zinssensitiven Aktien. Investoren beobachten die Entwicklung auch als Indikator dafür, ob der globale Inflationstrend doch noch nicht überwunden ist.",
-          "tag": "Inflation",
-          "emoji": "📈",
+          "titel": "US-Erstanträge auf Arbeitslosenhilfe auf Tiefstand seit den 1960ern",
+          "zusammenfassung": "Die Zahl der wöchentlichen Erstanträge auf Arbeitslosenunterstützung in den USA ist auf saisonbereinigt 194.000 gesunken – ein Niveau, das zuletzt in den 1960er-Jahren verzeichnet wurde. Der anhaltende Trend niedriger Entlassungen stützt die Erwartungen an den Arbeitsmarkt.",
+          "bedeutung": "Ein derart robuster Arbeitsmarkt kompliziert die Zinspolitik der US-Notenbank Federal Reserve, da anhaltend niedrige Arbeitslosigkeit den Inflationsdruck aufrechterhalten kann.",
+          "hintergrund": "Die Fed beobachtet Arbeitsmarktdaten als Schlüsselindikator für ihre geldpolitischen Entscheidungen. Ein historisch enger Arbeitsmarkt gibt ihr weniger Spielraum für Zinssenkungen, auch wenn andere Konjunkturindikatoren eine Abschwächung signalisieren.\n\nFür Anleger bedeutet dies eine anhaltend unsichere Zinslandschaft: Zinssensitive Sektoren wie Immobilien und Technologie reagieren empfindlich auf jede Neueinschätzung des Fed-Kurses, weshalb die wöchentlichen Jobdaten an den Finanzmärkten mit besonderer Aufmerksamkeit verfolgt werden.",
+          "tag": "Arbeitsmarkt",
+          "emoji": "📉",
           "quelle": "CNBC",
-          "quelle_url": "https://www.cnbc.com/2026/10/21/inflation-uk-cpi-interest-rates.html"
+          "quelle_url": "https://www.cnbc.com/2026/10/22/jobless-claims-record-low-weekly.html"
         },
         {
           "id": "boerse-1",
-          "titel": "Goldman, JPMorgan und Morgan Stanley dominieren KI-Aktienboom",
-          "zusammenfassung": "Die drei US-Investmentbanken haben in diesem Jahr gemeinsam rund 52 Milliarden Dollar Umsatz im Aktienhandel erzielt und damit etwa 80 Prozent des gesamten Marktvolumens auf sich vereint. Treiber ist vor allem die stark gestiegene Margenkreditvergabe an Hedgefonds im Zuge des KI-Aktienbooms.",
-          "bedeutung": "Die extreme Marktkonzentration bei wenigen Wall-Street-Häusern erhöht systemische Risiken und verdeutlicht, wie sehr der KI-Hype die Kräfteverhältnisse im globalen Kapitalmarkt verschiebt.",
-          "hintergrund": "Der Boom bei KI-Aktien hat eine Welle gehebelter Investitionen ausgelöst, von der vor allem jene Banken profitieren, die über die nötige Infrastruktur für großvolumige Margenkredite verfügen. Kleinere Wettbewerber werden strukturell weiter zurückgedrängt.\n\nKritiker warnen, dass die Konzentration dieser Aktivitäten bei drei Instituten die Anfälligkeit des Systems im Falle einer KI-Marktkorrektur erhöht. Regulatoren in den USA und Europa prüfen, ob die bestehenden Kapitalanforderungen für diese Art von Hebelgeschäften noch ausreichen.",
-          "tag": "Wall Street",
-          "emoji": "💹",
+          "titel": "Trumps Wirtschaftsbewertung auf Rekordtief vor Midterm-Wahlen",
+          "zusammenfassung": "Einer aktuellen CNBC-Umfrage zufolge beurteilen acht von zehn Amerikanern die wirtschaftliche Lage als schlecht oder allenfalls mittelmäßig – Trumps Zustimmungswerte in der Wirtschaftspolitik haben damit einen neuen historischen Tiefpunkt erreicht. Für republikanische Kandidaten bedeutet das schwierige Ausgangsbedingungen bei den Zwischenwahlen.",
+          "bedeutung": "Wirtschaftliche Unzufriedenheit gilt als stärkster Prädiktor für Stimmungswechsel bei Parlamentswahlen und könnte die Mehrheitsverhältnisse im US-Kongress entscheidend beeinflussen.",
+          "hintergrund": "Die Umfragewerte spiegeln eine wachsende Kluft zwischen makroökonomischen Kennzahlen wie Beschäftigung und Börsenkursen einerseits und dem persönlichen Wohlstandsgefühl der Bevölkerung andererseits wider. Inflation, hohe Zinsen und gestiegene Lebenshaltungskosten belasten viele Haushalte trotz nominell starker Arbeitsmarktdaten.\n\nFür die Finanzmärkte ist der politische Kontext relevant: Ein möglicher Wechsel der Kongressmehrheiten könnte Haushaltspolitik, Regulierung und Zollgesetzgebung erheblich verändern – mit direkten Auswirkungen auf Unternehmensgewinne und Anleiherenditen.",
+          "tag": "Midterms",
+          "emoji": "🗳️",
           "quelle": "CNBC",
-          "quelle_url": "https://www.cnbc.com/2026/10/21/goldman-sachs-jpmorgan-morgan-stanley-ai-trading.html"
-        },
-        {
-          "id": "boerse-2",
-          "titel": "US-Erstanträge auf Arbeitslosenhilfe auf historischem Tief",
-          "zusammenfassung": "Die wöchentlichen Erstanträge auf Arbeitslosenunterstützung in den USA sind auf 194.000 gefallen – den niedrigsten Stand seit den 1960er Jahren. Der anhaltende Trend spiegelt einen außergewöhnlich robusten US-Arbeitsmarkt wider.",
-          "bedeutung": "Ein derart angespannter Arbeitsmarkt erhöht den Lohndruck und erschwert der Federal Reserve die Entscheidung über künftige Zinssenkungen, was globale Kapitalmärkte direkt beeinflusst.",
-          "hintergrund": "Die US-Wirtschaft zeigt sich trotz mehrjähriger Hochzinspolitik der Fed erstaunlich widerstandsfähig. Niedrige Entlassungsquoten signalisieren, dass Unternehmen qualifizierte Arbeitskräfte nicht abbauen wollen – auch wenn die Neueinstellungen zurückgegangen sind.\n\nFür die Geldpolitik ist das ein zweischneidiges Signal: Einerseits spricht die wirtschaftliche Stärke gegen dringende Zinssenkungen, andererseits wächst die Sorge, dass ein überhitzter Arbeitsmarkt Inflation neu entfachen könnte.",
-          "tag": "Arbeitsmarkt",
-          "emoji": "📊",
-          "quelle": "CNBC",
-          "quelle_url": "https://www.cnbc.com/2026/10/22/jobless-claims-record-low-weekly.html"
+          "quelle_url": "https://www.cnbc.com/2026/10/22/trump-economic-approval-rating-midterms-poll.html"
         }
       ]
     }
