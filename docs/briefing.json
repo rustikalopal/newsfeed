@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-24T01:41:31.807444+00:00",
-  "datum": "Samstag, 24. Oktober 2026",
+  "generated_at": "2026-10-25T01:17:27.102495+00:00",
+  "datum": "Sonntag, 25. Oktober 2026",
   "ressorts": [
     {
       "id": "politik",
@@ -9,36 +9,36 @@
       "stories": [
         {
           "id": "politik-0",
-          "titel": "Schützen töten sieben Menschen bei Beerdigungsfeier in Jordanien",
-          "zusammenfassung": "Bei einer Beerdigung in der südjordanischen Gouverneursschaft Karak haben Bewaffnete das Feuer auf Trauernde eröffnet und dabei sieben Menschen getötet sowie 34 weitere verletzt. Die Behörden haben eine Großfahndung nach den Tätern eingeleitet.",
-          "bedeutung": "Der Anschlag auf eine Beerdigungsgesellschaft in einem der stabilsten Länder des Nahen Ostens erschüttert die regionale Sicherheitslage und schürt Sorgen vor wachsender Instabilität in Jordanien.",
-          "hintergrund": "Jordanien gilt seit Jahrzehnten als verlässlicher Stabilitätsanker in einer von Konflikten geprägten Region. Gewaltsame Anschläge dieses Ausmaßes sind äußerst selten und werden von der Regierung in Amman als direkter Angriff auf die innere Sicherheit gewertet.\n\nDer Tatort in der Gouverneursschaft Karak hat historische Bedeutung – die Region war bereits 2016 Schauplatz eines tödlichen Anschlags mit Bezug zur Terrormiliz Islamischer Staat. Die Ermittlungsbehörden prüfen derzeit Hintergründe und Motivation der Schützen.",
-          "tag": "Terroranschlag",
-          "emoji": "🕊️",
+          "titel": "Massenproteste in Frankreich: Fast 1.000 Festnahmen",
+          "zusammenfassung": "Bei landesweiten Demonstrationen in Frankreich wurden nahezu 1.000 Menschen festgenommen, nachdem es nach den Kundgebungen zu Auseinandersetzungen gekommen war. Die Behörden konnten eine Wiederholung der schweren Ausschreitungen der Vorwoche vorerst verhindern.",
+          "bedeutung": "Die anhaltenden Massenproteste offenbaren eine tiefe gesellschaftliche Spaltung in Frankreich und stellen die Stabilität einer der größten Volkswirtschaften Europas auf die Probe.",
+          "hintergrund": "Hunderttausende Menschen gingen erneut in zahlreichen französischen Städten auf die Straße. Die Demonstrationen verliefen zunächst weitgehend friedlich, doch im Anschluss kam es zu teils gewaltsamen Zusammenstößen zwischen Protestierenden und Sicherheitskräften.\n\nDie Regierung hatte nach den Ausschreitungen der Vorwoche die Sicherheitspräsenz erheblich verstärkt. Dennoch blieben Spannungen bestehen, die die politische Führung in Paris unter erheblichen Druck setzen.",
+          "tag": "Frankreich-Proteste",
+          "emoji": "🇫🇷",
           "quelle": "BBC",
-          "quelle_url": "https://www.bbc.co.uk/news/articles/ck87zlpzny15o?at_medium=RSS&at_campaign=rss"
+          "quelle_url": "https://www.bbc.co.uk/news/articles/c95ynd587ynzo?at_medium=RSS&at_campaign=rss"
         },
         {
           "id": "politik-1",
-          "titel": "Melania Trump vermittelt Waffenruhe für bedrohte Ukraine-Stadt",
-          "zusammenfassung": "Das Weiße Haus gibt bekannt, dass Melania Trump eine Waffenruhe für die russisch besetzte Stadt Oleschky ausgehandelt hat, deren Bevölkerung unter extremer Nahrungsmittelknappheit leidet. Sowohl Kiew als auch Moskau haben die Vereinbarung bestätigt.",
-          "bedeutung": "Die ungewöhnliche diplomatische Rolle der First Lady deutet auf informelle Kommunikationskanäle im Ukraine-Krieg hin und könnte auf eine veränderte amerikanische Vermittlungsstrategie hinweisen.",
-          "hintergrund": "Oleschky am linken Dnipro-Ufer steht seit Monaten unter russischer Kontrolle und ist weitgehend von Versorgungswegen abgeschnitten. Bewohner sollen nach Medienberichten auf Wildpflanzen aus Vorgärten angewiesen sein, um zu überleben.\n\nDass eine First Lady öffentlich als Konfliktmediatorin auftritt, ist in der modernen US-Geschichte ohne klaren Präzedenzfall. Beobachter werten den Schritt als Signal, dass die Trump-Administration neben offiziellen Verhandlungsformaten auch persönliche Netzwerke zur Kriegsdiplomatie einsetzt.",
-          "tag": "Ukraine-Krieg",
-          "emoji": "🕊️",
+          "titel": "Zweiter Ebola-Todesfall in Kenia bestätigt",
+          "zusammenfassung": "Eine 65-jährige Frau ist in Kenia an Ebola gestorben – sie war enges Familienmitglied des ersten Opfers, das zuvor aus der Demokratischen Republik Kongo eingereist war. Die Behörden befürchten nun eine weitere Ausbreitung des Virus.",
+          "bedeutung": "Ebola-Fälle außerhalb bekannter Endemiegebiete wecken internationale Alarmbereitschaft und erinnern an die Notwendigkeit funktionierender globaler Gesundheitssysteme.",
+          "hintergrund": "Der erste Todesfall hatte einen Mann betroffen, der Reisekontakte in die Demokratische Republik Kongo hatte – einem Land, das regelmäßig mit Ebola-Ausbrüchen kämpft. Die Übertragung auf eine Familienangehörige deutet auf engen Kontakt ohne ausreichenden Schutz hin.\n\nGesundheitsbehörden in Kenia und internationale Organisationen haben inzwischen Kontaktverfolgungsmaßnahmen eingeleitet. Die Sorge gilt vor allem dem städtischen Umfeld, in dem eine Ausbreitung schwerer zu kontrollieren wäre als in ländlichen Regionen.",
+          "tag": "Ebola Kenia",
+          "emoji": "🦠",
           "quelle": "BBC",
-          "quelle_url": "https://www.bbc.co.uk/news/articles/c6vgxkvl4w5eo?at_medium=RSS&at_campaign=rss"
+          "quelle_url": "https://www.bbc.co.uk/news/articles/c6x2355448eyo?at_medium=RSS&at_campaign=rss"
         },
         {
           "id": "politik-2",
-          "titel": "Freigelassener US-Bürger soll in russischer Haft gefoltert worden sein",
-          "zusammenfassung": "Ehemalige ukrainische Mithäftlinge berichten, dass ein inzwischen freigelassener amerikanischer Staatsbürger während seiner Inhaftierung in Russland systematisch misshandelt wurde, darunter Schläge und sexuelle Erniedrigung durch Wachpersonal. Der Mann selbst ist nun außerhalb Russlands in Sicherheit.",
-          "bedeutung": "Die Vorwürfe belasten das ohnehin angespannte Verhältnis zwischen Washington und Moskau weiter und erhöhen den Druck auf die US-Regierung, Rechenschaft von Russland zu fordern.",
-          "hintergrund": "Berichte über Folter und unmenschliche Behandlung in russischen Haftanstalten sind seit Beginn des Ukrainekrieges deutlich häufiger geworden. Internationale Menschenrechtsorganisationen dokumentieren entsprechende Fälle, stoßen jedoch mit Forderungen nach unabhängiger Überprüfung regelmäßig auf russischen Widerstand.\n\nDer konkrete Fall gewinnt besonderes Gewicht, weil es sich um einen US-amerikanischen Staatsbürger handelt – ein Umstand, der den Fall zu einer diplomatischen Angelegenheit zwischen zwei Atommächten macht und die Forderungen nach einem umfassenden Rechenschaftsmechanismus für in Russland inhaftierte Ausländer verstärkt.",
-          "tag": "Menschenrechte",
-          "emoji": "🔒",
+          "titel": "Starlink-Verbindung in Ukraine wieder stabil",
+          "zusammenfassung": "Nach rund einer Woche eingeschränkter Übertragungskapazitäten meldet die Ukraine, dass die Starlink-Verbindungen wieder zuverlässig funktionieren. Die Unterbrechungen hatten spürbare Auswirkungen auf militärische Operationen und den Drohneneinsatz gehabt.",
+          "bedeutung": "Der Vorfall unterstreicht, wie stark moderne Kriegsführung von kommerzieller Satellitenkommunikation abhängt – und welche Verwundbarkeit daraus entsteht.",
+          "hintergrund": "Starlink des US-Unternehmens SpaceX gilt als kritische Infrastruktur für die ukrainischen Streitkräfte, insbesondere für die Koordination von Drohnenangriffen und die Kommunikation an der Front. Die zeitweiligen Einschränkungen hatten die militärische Einsatzfähigkeit beeinträchtigt und Fragen über die Verlässlichkeit privatwirtschaftlicher Anbieter in Konfliktzonen aufgeworfen.\n\nDer Betreiber hatte die Drosselung nicht öffentlich kommentiert. Beobachter sehen den Vorfall als Warnung: Die Abhängigkeit von einem einzelnen kommerziellen Satellitennetz stellt ein strategisches Risiko für die ukrainische Verteidigung dar.",
+          "tag": "Ukraine Starlink",
+          "emoji": "🛰️",
           "quelle": "BBC",
-          "quelle_url": "https://www.bbc.co.uk/news/articles/cx7vpmn6qzmlo?at_medium=RSS&at_campaign=rss"
+          "quelle_url": "https://www.bbc.co.uk/news/articles/cwkg5md14j8go?at_medium=RSS&at_campaign=rss"
         }
       ]
     },
@@ -49,36 +49,36 @@
       "stories": [
         {
           "id": "wirtschaft-0",
-          "titel": "USA heben Zölle auf einige kanadische Waren vor Midterms an",
-          "zusammenfassung": "Ab dem 30. Oktober lockern die Vereinigten Staaten Importzölle auf ausgewählte kanadische Produkte, darunter bestimmte Maschinen, während gleichzeitig neue Abgaben auf andere Warengruppen wie Teppiche eingeführt werden. Der Schritt erfolgt wenige Tage vor den US-Zwischenwahlen.",
-          "bedeutung": "Die gezielte Anpassung der Zollpolitik gegenüber dem wichtigsten Handelspartner der USA zeigt, wie eng Außenhandelsentscheidungen mit innenpolitischen Wahlkampfkalkülen verknüpft sind.",
-          "hintergrund": "Die Handelsbeziehungen zwischen den USA und Kanada stehen seit der Neuverhandlung des USMCA-Abkommens unter erhöhter Beobachtung. Zollstreitigkeiten über Stahl, Aluminium und Agrarprodukte haben das Verhältnis wiederholt belastet und zu Vergeltungsmaßnahmen auf beiden Seiten geführt.\n\nDie selektive Entlastung bestimmter Branchen kurz vor den Midterm-Wahlen wird von Wirtschaftsanalysten als kalkuliertes Signal an spezifische Wählergruppen gewertet, ohne die protektionistischen Kernpositionen der Regierung aufzugeben.",
-          "tag": "Handelspolitik",
-          "emoji": "🤝",
+          "titel": "KI entdeckt kritische PHP-Lücke: Globale Cyber-Reaktion",
+          "zusammenfassung": "Künstliche Intelligenz hat lange verborgene Sicherheitslücken in der weit verbreiteten Programmiersprache PHP aufgedeckt und damit eine seltene koordinierte Reaktion der globalen Cybersicherheits-Community ausgelöst. Millionen von Webservern weltweit könnten betroffen sein.",
+          "bedeutung": "Der Fall zeigt exemplarisch, wie KI-gestützte Sicherheitsanalysen die Bedrohungslandschaft fundamental verändern – und wie verwundbar selbst jahrzehntealte digitale Infrastruktur ist.",
+          "hintergrund": "PHP ist eine der meistgenutzten Programmiersprachen im Web und betreibt einen erheblichen Teil globaler Websites und Online-Dienste. Sicherheitslücken in diesem Fundament der digitalen Infrastruktur haben daher potenziell weitreichende Folgen für Unternehmen, Behörden und Privatnutzer weltweit.\n\nDass die Schwachstellen nicht von menschlichen Forschern, sondern durch KI-Systeme entdeckt wurden, markiert eine neue Qualität in der Cybersicherheit. Experten diskutieren seither intensiv, welche weiteren bislang unentdeckten Schwachstellen in verbreiteter Software schlummern könnten.",
+          "tag": "Cybersicherheit KI",
+          "emoji": "🔐",
           "quelle": "BBC",
-          "quelle_url": "https://www.bbc.co.uk/news/articles/c60qk573yzz8o?at_medium=RSS&at_campaign=rss"
+          "quelle_url": "https://www.bbc.co.uk/news/articles/c3qjnwye0ep5o?at_medium=RSS&at_campaign=rss"
         },
         {
           "id": "wirtschaft-1",
-          "titel": "L'Oréal warnt: Abnehmspritzen belasten Schönheitsumsätze",
-          "zusammenfassung": "Der weltgrößte Kosmetikkonzern stellt fest, dass die wachsende Verbreitung von GLP-1-Abnehmpräparaten die Nachfrage nach Beauty- und Hautpflegeprodukten merklich dämpft. Der Konzernchef bezeichnet den Trend als strategisch bedeutsam für das gesamte Unternehmen.",
-          "bedeutung": "Dass ein Pharma-Megatrend nun messbare Auswirkungen auf die Konsumgüterindustrie hat, signalisiert eine branchenübergreifende Disruption mit Folgen für Investoren und Markenstrategien weltweit.",
-          "hintergrund": "GLP-1-Medikamente wie Semaglutid wurden ursprünglich zur Diabetesbehandlung entwickelt, haben sich aber zu einem globalen Massenphänomen bei der Gewichtsreduktion entwickelt. Ihr Einfluss auf Kaufverhalten und Körperwahrnehmung wirft nun neue Fragen für die Konsumgüterbranche auf.\n\nFür L'Oréal, das Produkte von der Basispflege bis zur Luxuskosmetik vermarktet, bedeutet der Wandel eine strategische Herausforderung: Schlankere Körper verändern möglicherweise Pflegebedürfnisse und Kaufmuster, was eine Neuausrichtung des Produktportfolios notwendig machen könnte.",
-          "tag": "Konsumwandel",
-          "emoji": "💊",
+          "titel": "Indische Arbeiter trainieren KI mit Alltagsvideos",
+          "zusammenfassung": "In Indien werden zunehmend Arbeitskräfte damit beauftragt, sich selbst bei alltäglichen Tätigkeiten zu filmen – das Videomaterial dient anschließend als Trainingsdaten für künstliche Intelligenz. Das Modell wirft Fragen zu Datenschutz, Arbeitsbedingungen und der globalen KI-Lieferkette auf.",
+          "bedeutung": "Das Phänomen beleuchtet die oft unsichtbare menschliche Arbeit hinter KI-Systemen und rückt Fragen nach fairer Vergütung und Datensouveränität in Schwellenländern in den Fokus.",
+          "hintergrund": "Hinter den scheinbar autonomen Fähigkeiten moderner KI-Modelle steckt ein enormer Aufwand an menschlicher Datenbeschaffung und -kennzeichnung, der häufig in Länder mit niedrigem Lohnniveau ausgelagert wird. Indien entwickelt sich dabei zu einem wichtigen Knotenpunkt dieser globalen KI-Datenlieferkette.\n\nKritiker bemängeln die geringen Löhne und mangelnde Transparenz darüber, wie die aufgezeichneten persönlichen Daten langfristig verwendet werden. Befürworter sehen in dem Modell eine neue Einkommensquelle für breite Bevölkerungsschichten – ein Spannungsfeld, das mit dem weiteren KI-Boom an Bedeutung gewinnen dürfte.",
+          "tag": "KI Arbeit",
+          "emoji": "📹",
           "quelle": "BBC",
-          "quelle_url": "https://www.bbc.co.uk/news/articles/cvglwgwpgrlpo?at_medium=RSS&at_campaign=rss"
+          "quelle_url": "https://www.bbc.co.uk/news/articles/ckvgyml6pdm9o?at_medium=RSS&at_campaign=rss"
         },
         {
           "id": "wirtschaft-2",
-          "titel": "Zuckerberg umgeht Milliardärssteuer mit Meta-Sonderdeal",
-          "zusammenfassung": "Mark Zuckerberg hat eine Sondervereinbarung mit Meta ausgehandelt, die ihm helfen soll, eine mögliche kalifornische Vermögenssteuer zu kompensieren – nachdem er angedroht hatte, den Bundesstaat zu verlassen. Das Steuergesetz ist bislang noch nicht in Kraft getreten.",
-          "bedeutung": "Der Fall illustriert, wie milliardenschwere Tech-Unternehmer politischen Druck auf Regierungen ausüben können, und entfacht eine neue Debatte über Steuergerechtigkeit im Silicon Valley.",
-          "hintergrund": "Kalifornien diskutiert seit Längerem Modelle zur stärkeren Besteuerung extremer Vermögen. Zuckerbergs öffentliche Drohung, den Staat zu verlassen, wurde von Steuerrechtlern als klassisches Beispiel für die Verhandlungsmacht von Superreichen gegenüber demokratisch gewählten Gesetzgebern gewertet.\n\nDass Meta – ein börsennotiertes Unternehmen mit Verpflichtungen gegenüber allen Aktionären – eine Vereinbarung primär zum persönlichen finanziellen Vorteil seines Gründers abschließt, wirft zusätzliche Corporate-Governance-Fragen auf.",
-          "tag": "Steuerpolitik",
-          "emoji": "💰",
+          "titel": "Großbritannien investiert 100 Millionen in KI-Biosicherheitslabor",
+          "zusammenfassung": "Die britische Regierung plant, 100 Millionen Pfund in ein weltweit erstes KI-gestütztes Biosicherheitslabor zu investieren, um biologische Bedrohungen frühzeitig zu erkennen und abzuwehren. Die Ankündigung soll im Rahmen des Haushalts erfolgen.",
+          "bedeutung": "Die Investition setzt ein international beachtetes Signal für den Einsatz von KI zur Stärkung nationaler und globaler Sicherheitsarchitektur im Bereich Bioschutz.",
+          "hintergrund": "Mit dem geplanten Labor will Großbritannien eine Vorreiterrolle bei der Verbindung von künstlicher Intelligenz und Biosicherheit einnehmen. Hintergrund sind wachsende Sorgen vor sowohl natürlichen Pandemien als auch dem potenziellen Missbrauch biotechnologischer Möglichkeiten durch staatliche und nichtstaatliche Akteure.\n\nDie Ankündigung fällt in eine Zeit, in der westliche Regierungen verstärkt in Dual-Use-Technologien investieren, die sowohl zivilen als auch sicherheitspolitischen Zwecken dienen. Experten sehen in der Verknüpfung von KI und Biosicherheit eines der drängendsten Zukunftsfelder staatlicher Vorsorge.",
+          "tag": "KI Biosicherheit",
+          "emoji": "🧬",
           "quelle": "BBC",
-          "quelle_url": "https://www.bbc.co.uk/news/articles/cky83vwnyglno?at_medium=RSS&at_campaign=rss"
+          "quelle_url": "https://www.bbc.co.uk/news/articles/cqdjv8xllvyyo?at_medium=RSS&at_campaign=rss"
         }
       ]
     },
@@ -89,23 +89,12 @@
       "stories": [
         {
           "id": "boerse-0",
-          "titel": "US-Erstanträge auf Arbeitslosenhilfe auf Tiefstand seit den 1960ern",
-          "zusammenfassung": "Die Zahl der wöchentlichen Erstanträge auf Arbeitslosenunterstützung in den USA ist auf saisonbereinigt 194.000 gesunken – ein Niveau, das zuletzt in den 1960er-Jahren verzeichnet wurde. Der anhaltende Trend niedriger Entlassungen stützt die Erwartungen an den Arbeitsmarkt.",
-          "bedeutung": "Ein derart robuster Arbeitsmarkt kompliziert die Zinspolitik der US-Notenbank Federal Reserve, da anhaltend niedrige Arbeitslosigkeit den Inflationsdruck aufrechterhalten kann.",
-          "hintergrund": "Die Fed beobachtet Arbeitsmarktdaten als Schlüsselindikator für ihre geldpolitischen Entscheidungen. Ein historisch enger Arbeitsmarkt gibt ihr weniger Spielraum für Zinssenkungen, auch wenn andere Konjunkturindikatoren eine Abschwächung signalisieren.\n\nFür Anleger bedeutet dies eine anhaltend unsichere Zinslandschaft: Zinssensitive Sektoren wie Immobilien und Technologie reagieren empfindlich auf jede Neueinschätzung des Fed-Kurses, weshalb die wöchentlichen Jobdaten an den Finanzmärkten mit besonderer Aufmerksamkeit verfolgt werden.",
-          "tag": "Arbeitsmarkt",
+          "titel": "Trumps Wirtschaftsbewertung auf historischem Tiefstand",
+          "zusammenfassung": "Laut einer aktuellen CNBC-Umfrage bewerten acht von zehn Amerikanern die Wirtschaftslage als schlecht oder mittelmäßig – Trumps Zustimmungswerte in diesem Bereich haben einen neuen Negativrekord erreicht. Mit den nahenden Zwischenwahlen geraten republikanische Kandidaten zunehmend unter Druck.",
+          "bedeutung": "Anhaltend schlechte Wirtschaftsstimmung in der größten Volkswirtschaft der Welt beeinflusst nicht nur die US-Innenpolitik, sondern auch das globale Investorenvertrauen und die Markterwartungen.",
+          "hintergrund": "Die Umfragedaten zeigen eine breite Unzufriedenheit der US-Bevölkerung mit der wirtschaftlichen Entwicklung unter der aktuellen Regierung. Themen wie Inflation, Kaufkraftverlust und Jobsicherheit prägen die Wahrnehmung, unabhängig von offiziellen Konjunkturkennzahlen.\n\nFür die Finanzmärkte sind solche Stimmungsindikatoren relevant, weil sie den politischen Druck auf Wirtschaftspolitik und Notenbankentscheidungen abbilden. Je näher die Midterms rücken, desto stärker dürften innenpolitische Spannungen auch internationale Märkte beschäftigen.",
+          "tag": "US-Wirtschaft Midterms",
           "emoji": "📉",
-          "quelle": "CNBC",
-          "quelle_url": "https://www.cnbc.com/2026/10/22/jobless-claims-record-low-weekly.html"
-        },
-        {
-          "id": "boerse-1",
-          "titel": "Trumps Wirtschaftsbewertung auf Rekordtief vor Midterm-Wahlen",
-          "zusammenfassung": "Einer aktuellen CNBC-Umfrage zufolge beurteilen acht von zehn Amerikanern die wirtschaftliche Lage als schlecht oder allenfalls mittelmäßig – Trumps Zustimmungswerte in der Wirtschaftspolitik haben damit einen neuen historischen Tiefpunkt erreicht. Für republikanische Kandidaten bedeutet das schwierige Ausgangsbedingungen bei den Zwischenwahlen.",
-          "bedeutung": "Wirtschaftliche Unzufriedenheit gilt als stärkster Prädiktor für Stimmungswechsel bei Parlamentswahlen und könnte die Mehrheitsverhältnisse im US-Kongress entscheidend beeinflussen.",
-          "hintergrund": "Die Umfragewerte spiegeln eine wachsende Kluft zwischen makroökonomischen Kennzahlen wie Beschäftigung und Börsenkursen einerseits und dem persönlichen Wohlstandsgefühl der Bevölkerung andererseits wider. Inflation, hohe Zinsen und gestiegene Lebenshaltungskosten belasten viele Haushalte trotz nominell starker Arbeitsmarktdaten.\n\nFür die Finanzmärkte ist der politische Kontext relevant: Ein möglicher Wechsel der Kongressmehrheiten könnte Haushaltspolitik, Regulierung und Zollgesetzgebung erheblich verändern – mit direkten Auswirkungen auf Unternehmensgewinne und Anleiherenditen.",
-          "tag": "Midterms",
-          "emoji": "🗳️",
           "quelle": "CNBC",
           "quelle_url": "https://www.cnbc.com/2026/10/22/trump-economic-approval-rating-midterms-poll.html"
         }
