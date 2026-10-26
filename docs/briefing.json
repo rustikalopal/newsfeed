@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-25T01:17:27.102495+00:00",
-  "datum": "Sonntag, 25. Oktober 2026",
+  "generated_at": "2026-10-26T01:18:42.489740+00:00",
+  "datum": "Montag, 26. Oktober 2026",
   "ressorts": [
     {
       "id": "politik",
@@ -9,36 +9,36 @@
       "stories": [
         {
           "id": "politik-0",
-          "titel": "Massenproteste in Frankreich: Fast 1.000 Festnahmen",
-          "zusammenfassung": "Bei landesweiten Demonstrationen in Frankreich wurden nahezu 1.000 Menschen festgenommen, nachdem es nach den Kundgebungen zu Auseinandersetzungen gekommen war. Die Behörden konnten eine Wiederholung der schweren Ausschreitungen der Vorwoche vorerst verhindern.",
-          "bedeutung": "Die anhaltenden Massenproteste offenbaren eine tiefe gesellschaftliche Spaltung in Frankreich und stellen die Stabilität einer der größten Volkswirtschaften Europas auf die Probe.",
-          "hintergrund": "Hunderttausende Menschen gingen erneut in zahlreichen französischen Städten auf die Straße. Die Demonstrationen verliefen zunächst weitgehend friedlich, doch im Anschluss kam es zu teils gewaltsamen Zusammenstößen zwischen Protestierenden und Sicherheitskräften.\n\nDie Regierung hatte nach den Ausschreitungen der Vorwoche die Sicherheitspräsenz erheblich verstärkt. Dennoch blieben Spannungen bestehen, die die politische Führung in Paris unter erheblichen Druck setzen.",
-          "tag": "Frankreich-Proteste",
-          "emoji": "🇫🇷",
+          "titel": "Serbiens Ära Vučić endet nach Protestwahl",
+          "zusammenfassung": "Nach zwölf Jahren an der Macht räumt Aleksandar Vučić eine Niederlage seiner Partei bei der als Richtungsentscheidung für Serbiens Zukunft geltenden Wahl ein. Eine von Studierenden angeführte Protestbewegung feiert den Ausgang als historischen Wendepunkt.",
+          "bedeutung": "Das Ende der Ära Vučić könnte Serbiens Kurs zwischen EU-Annäherung und autoritärer Rückwärtsentwicklung grundlegend neu bestimmen.",
+          "hintergrund": "Monatelange Massenproteste, angeführt von Studierenden und der Zivilgesellschaft, hatten den Druck auf den langjährigen Staatspräsidenten stetig erhöht. Die Abstimmung galt vielen Beobachtern als Schicksalswahl über Demokratie, Rechtsstaatlichkeit und die europäische Ausrichtung des Landes.\n\nVučić hatte Serbien seit 2014 mit zunehmend autoritären Methoden regiert und zuletzt wegen Korruptionsvorwürfen, Medienunfreiheit und einer ambivalenten Haltung gegenüber Russland massiv an Rückhalt verloren. Ob nun eine pro-europäische Koalition die Regierungsverantwortung übernimmt, entscheidet sich in den kommenden Wochen.",
+          "tag": "Demokratie",
+          "emoji": "🗳️",
           "quelle": "BBC",
-          "quelle_url": "https://www.bbc.co.uk/news/articles/c95ynd587ynzo?at_medium=RSS&at_campaign=rss"
+          "quelle_url": "https://www.bbc.co.uk/news/articles/cw5yn3xlprpmo?at_medium=RSS&at_campaign=rss"
         },
         {
           "id": "politik-1",
-          "titel": "Zweiter Ebola-Todesfall in Kenia bestätigt",
-          "zusammenfassung": "Eine 65-jährige Frau ist in Kenia an Ebola gestorben – sie war enges Familienmitglied des ersten Opfers, das zuvor aus der Demokratischen Republik Kongo eingereist war. Die Behörden befürchten nun eine weitere Ausbreitung des Virus.",
-          "bedeutung": "Ebola-Fälle außerhalb bekannter Endemiegebiete wecken internationale Alarmbereitschaft und erinnern an die Notwendigkeit funktionierender globaler Gesundheitssysteme.",
-          "hintergrund": "Der erste Todesfall hatte einen Mann betroffen, der Reisekontakte in die Demokratische Republik Kongo hatte – einem Land, das regelmäßig mit Ebola-Ausbrüchen kämpft. Die Übertragung auf eine Familienangehörige deutet auf engen Kontakt ohne ausreichenden Schutz hin.\n\nGesundheitsbehörden in Kenia und internationale Organisationen haben inzwischen Kontaktverfolgungsmaßnahmen eingeleitet. Die Sorge gilt vor allem dem städtischen Umfeld, in dem eine Ausbreitung schwerer zu kontrollieren wäre als in ländlichen Regionen.",
-          "tag": "Ebola Kenia",
-          "emoji": "🦠",
+          "titel": "Israel wählt: Kriegsmüde Nation vor Richtungsentscheidung",
+          "zusammenfassung": "Nach drei Jahren regionalen Krieges steht Israel am Dienstag vor einer der bedeutsamsten Parlamentswahlen seiner jüngeren Geschichte. Die tief gespaltene Gesellschaft debattiert über Sicherheit, Geiseln und die politische Zukunft nach dem Konflikt.",
+          "bedeutung": "Das Wahlergebnis wird nicht nur Israels innenpolitische Ausrichtung prägen, sondern auch die Perspektiven für Waffenstillstandsverhandlungen und eine regionale Nachkriegsordnung beeinflussen.",
+          "hintergrund": "Die Wahl findet in einem Klima extremer gesellschaftlicher Zerrissenheit statt: Während ein Teil der Bevölkerung einen militärischen Kurs bis zum vollständigen Sieg fordert, drängen Angehörige der Geiseln und Teile der Opposition auf Verhandlungslösungen. Ministerpräsident Netanjahu steht wegen des Kriegsmanagements und laufender Korruptionsverfahren unter starkem Druck.\n\nParallel zur Wahl kündigte die israelische Armee an, die Westbank-Grenzübergänge am Wahltag zu schließen und die Bewegungsfreiheit palästinensischer Arbeitnehmer einzuschränken – ein Schritt, der international für scharfe Kritik sorgte.",
+          "tag": "Israel-Wahl",
+          "emoji": "🗳️",
           "quelle": "BBC",
-          "quelle_url": "https://www.bbc.co.uk/news/articles/c6x2355448eyo?at_medium=RSS&at_campaign=rss"
+          "quelle_url": "https://www.bbc.co.uk/news/articles/ckpdgy6pl7xlo?at_medium=RSS&at_campaign=rss"
         },
         {
           "id": "politik-2",
-          "titel": "Starlink-Verbindung in Ukraine wieder stabil",
-          "zusammenfassung": "Nach rund einer Woche eingeschränkter Übertragungskapazitäten meldet die Ukraine, dass die Starlink-Verbindungen wieder zuverlässig funktionieren. Die Unterbrechungen hatten spürbare Auswirkungen auf militärische Operationen und den Drohneneinsatz gehabt.",
-          "bedeutung": "Der Vorfall unterstreicht, wie stark moderne Kriegsführung von kommerzieller Satellitenkommunikation abhängt – und welche Verwundbarkeit daraus entsteht.",
-          "hintergrund": "Starlink des US-Unternehmens SpaceX gilt als kritische Infrastruktur für die ukrainischen Streitkräfte, insbesondere für die Koordination von Drohnenangriffen und die Kommunikation an der Front. Die zeitweiligen Einschränkungen hatten die militärische Einsatzfähigkeit beeinträchtigt und Fragen über die Verlässlichkeit privatwirtschaftlicher Anbieter in Konfliktzonen aufgeworfen.\n\nDer Betreiber hatte die Drosselung nicht öffentlich kommentiert. Beobachter sehen den Vorfall als Warnung: Die Abhängigkeit von einem einzelnen kommerziellen Satellitennetz stellt ein strategisches Risiko für die ukrainische Verteidigung dar.",
-          "tag": "Ukraine Starlink",
-          "emoji": "🛰️",
+          "titel": "Venezuelas Oppositionsführerin Machado kehrt aus dem Exil zurück",
+          "zusammenfassung": "María Machado ist nach monatelangem Exil nach Venezuela zurückgekehrt, nur wenige Wochen nachdem US-Behörden Präsident Nicolás Maduro festgenommen hatten. Ihre Rückkehr gilt als Signal für eine mögliche politische Neuordnung des Landes.",
+          "bedeutung": "Nach dem Zugriff der USA auf Maduro und Machados Rückkehr steht Venezuela an einem machtpolitischen Scheideweg mit weitreichenden Folgen für die gesamte Region.",
+          "hintergrund": "Machado hatte Venezuela verlassen, als die Repression gegen die Opposition unter Maduro einen neuen Höhepunkt erreichte. Als bekannteste Galionsfigur der Demokratiebewegung war sie zuvor mit Ausreiseverboten und Verhaftungsdrohungen konfrontiert.\n\nIhre Rückkehr fällt in eine Phase außergewöhnlicher politischer Instabilität: Mit der Festnahme Maduros durch US-Behörden ist ein Machtvakuum entstanden, das Venezuelas Zukunft und die geopolitischen Interessen mehrerer Großmächte in Lateinamerika neu ordnen könnte.",
+          "tag": "Venezuela",
+          "emoji": "🇻🇪",
           "quelle": "BBC",
-          "quelle_url": "https://www.bbc.co.uk/news/articles/cwkg5md14j8go?at_medium=RSS&at_campaign=rss"
+          "quelle_url": "https://www.bbc.co.uk/news/articles/cq8ez592pp0eo?at_medium=RSS&at_campaign=rss"
         }
       ]
     },
@@ -49,36 +49,36 @@
       "stories": [
         {
           "id": "wirtschaft-0",
-          "titel": "KI entdeckt kritische PHP-Lücke: Globale Cyber-Reaktion",
-          "zusammenfassung": "Künstliche Intelligenz hat lange verborgene Sicherheitslücken in der weit verbreiteten Programmiersprache PHP aufgedeckt und damit eine seltene koordinierte Reaktion der globalen Cybersicherheits-Community ausgelöst. Millionen von Webservern weltweit könnten betroffen sein.",
-          "bedeutung": "Der Fall zeigt exemplarisch, wie KI-gestützte Sicherheitsanalysen die Bedrohungslandschaft fundamental verändern – und wie verwundbar selbst jahrzehntealte digitale Infrastruktur ist.",
-          "hintergrund": "PHP ist eine der meistgenutzten Programmiersprachen im Web und betreibt einen erheblichen Teil globaler Websites und Online-Dienste. Sicherheitslücken in diesem Fundament der digitalen Infrastruktur haben daher potenziell weitreichende Folgen für Unternehmen, Behörden und Privatnutzer weltweit.\n\nDass die Schwachstellen nicht von menschlichen Forschern, sondern durch KI-Systeme entdeckt wurden, markiert eine neue Qualität in der Cybersicherheit. Experten diskutieren seither intensiv, welche weiteren bislang unentdeckten Schwachstellen in verbreiteter Software schlummern könnten.",
-          "tag": "Cybersicherheit KI",
-          "emoji": "🔐",
+          "titel": "Britische Firmen stoppen Einstellungen vor Haushaltsplan",
+          "zusammenfassung": "Zahlreiche Unternehmen in Großbritannien halten Neueinstellungen zurück und warten ab, welche Entscheidungen der Haushalt von Finanzminister John Healey zu den Beschäftigungskosten bringen wird. Die Zurückhaltung belastet bereits spürbar den Arbeitsmarkt.",
+          "bedeutung": "Wenn Betriebe flächendeckend Investitionen in Personal auf Eis legen, droht eine Verlangsamung des britischen Wirtschaftswachstums genau in einem ohnehin unsicheren globalen Umfeld.",
+          "hintergrund": "Der erste Haushalt der Labour-Regierung steht unter dem Doppeldruck, einerseits öffentliche Dienste zu finanzieren und andererseits keine Wachstumsbremsen zu setzen. Viele Arbeitgeber fürchten Erhöhungen bei Sozialabgaben oder dem Mindestlohn und halten sich deshalb mit Personalentscheidungen zurück.\n\nDie Unsicherheit ist symptomatisch für eine breitere Vertrauenskrise: Obwohl makroökonomische Daten die britische Wirtschaft derzeit noch als stabil ausweisen, warnen Analysten, dass anhaltende Investitionszurückhaltung die Erholung gefährden könnte.",
+          "tag": "Arbeitsmarkt",
+          "emoji": "📉",
           "quelle": "BBC",
-          "quelle_url": "https://www.bbc.co.uk/news/articles/c3qjnwye0ep5o?at_medium=RSS&at_campaign=rss"
+          "quelle_url": "https://www.bbc.co.uk/news/articles/c62kep355q02o?at_medium=RSS&at_campaign=rss"
         },
         {
           "id": "wirtschaft-1",
-          "titel": "Indische Arbeiter trainieren KI mit Alltagsvideos",
-          "zusammenfassung": "In Indien werden zunehmend Arbeitskräfte damit beauftragt, sich selbst bei alltäglichen Tätigkeiten zu filmen – das Videomaterial dient anschließend als Trainingsdaten für künstliche Intelligenz. Das Modell wirft Fragen zu Datenschutz, Arbeitsbedingungen und der globalen KI-Lieferkette auf.",
-          "bedeutung": "Das Phänomen beleuchtet die oft unsichtbare menschliche Arbeit hinter KI-Systemen und rückt Fragen nach fairer Vergütung und Datensouveränität in Schwellenländern in den Fokus.",
-          "hintergrund": "Hinter den scheinbar autonomen Fähigkeiten moderner KI-Modelle steckt ein enormer Aufwand an menschlicher Datenbeschaffung und -kennzeichnung, der häufig in Länder mit niedrigem Lohnniveau ausgelagert wird. Indien entwickelt sich dabei zu einem wichtigen Knotenpunkt dieser globalen KI-Datenlieferkette.\n\nKritiker bemängeln die geringen Löhne und mangelnde Transparenz darüber, wie die aufgezeichneten persönlichen Daten langfristig verwendet werden. Befürworter sehen in dem Modell eine neue Einkommensquelle für breite Bevölkerungsschichten – ein Spannungsfeld, das mit dem weiteren KI-Boom an Bedeutung gewinnen dürfte.",
-          "tag": "KI Arbeit",
-          "emoji": "📹",
+          "titel": "Britischer Haushalt: Wachstum jetzt, Risiken ab Januar",
+          "zusammenfassung": "Großbritanniens Wirtschaft präsentiert sich vor dem Haushalt von Finanzminister Healey in vergleichsweise guter Verfassung, doch Experten warnen, dass sich das Bild zu Jahresbeginn 2027 deutlich eintrüben könnte. Die Labour-Regierung steht vor der Aufgabe, kurzfristige Stabilität mit langfristiger Haushaltskonsolidierung zu verbinden.",
+          "bedeutung": "Der Haushalt setzt einen Präzedenzfall dafür, ob die neue britische Regierung wirtschaftliche Handlungsfähigkeit und soziale Verpflichtungen dauerhaft in Einklang bringen kann.",
+          "hintergrund": "Steigende globale Zinsen, nachlassende Kaufkraft der Mittelschicht und unsichere Handelsbedingungen nach dem Brexit bilden den Rahmen, in dem Healey seinen ersten Etat vorlegt. Die Erwartungen sind hoch: Von Investitionen in Wohnungsbau über Infrastruktur bis zu Steuerfragen reicht die Agenda.\n\nBesonders die sogenannte 'squeezed middle' – Haushalte mit mittlerem Einkommen – berichtet, kaum noch Spielraum für weitere Belastungen zu haben. Wie die Regierung diesen Erwartungsdruck kanalisiert, wird das wirtschaftspolitische Klima der kommenden Monate prägen.",
+          "tag": "Haushaltspolitik",
+          "emoji": "💷",
           "quelle": "BBC",
-          "quelle_url": "https://www.bbc.co.uk/news/articles/ckvgyml6pdm9o?at_medium=RSS&at_campaign=rss"
+          "quelle_url": "https://www.bbc.co.uk/news/articles/ck87z4ng2l03o?at_medium=RSS&at_campaign=rss"
         },
         {
           "id": "wirtschaft-2",
-          "titel": "Großbritannien investiert 100 Millionen in KI-Biosicherheitslabor",
-          "zusammenfassung": "Die britische Regierung plant, 100 Millionen Pfund in ein weltweit erstes KI-gestütztes Biosicherheitslabor zu investieren, um biologische Bedrohungen frühzeitig zu erkennen und abzuwehren. Die Ankündigung soll im Rahmen des Haushalts erfolgen.",
-          "bedeutung": "Die Investition setzt ein international beachtetes Signal für den Einsatz von KI zur Stärkung nationaler und globaler Sicherheitsarchitektur im Bereich Bioschutz.",
-          "hintergrund": "Mit dem geplanten Labor will Großbritannien eine Vorreiterrolle bei der Verbindung von künstlicher Intelligenz und Biosicherheit einnehmen. Hintergrund sind wachsende Sorgen vor sowohl natürlichen Pandemien als auch dem potenziellen Missbrauch biotechnologischer Möglichkeiten durch staatliche und nichtstaatliche Akteure.\n\nDie Ankündigung fällt in eine Zeit, in der westliche Regierungen verstärkt in Dual-Use-Technologien investieren, die sowohl zivilen als auch sicherheitspolitischen Zwecken dienen. Experten sehen in der Verknüpfung von KI und Biosicherheit eines der drängendsten Zukunftsfelder staatlicher Vorsorge.",
-          "tag": "KI Biosicherheit",
-          "emoji": "🧬",
+          "titel": "London plant Milliarden-Investition in sozialen Wohnungsbau",
+          "zusammenfassung": "Der britische Haushalt soll eine zusätzliche Milliarde Pfund für sozialen und erschwinglichen Wohnraum bereitstellen, womit das Gesamtvolumen des zehnjährigen Programms auf über 40 Milliarden Pfund steigt. Die Maßnahme gilt als zentrale sozialpolitische Weichenstellung der Labour-Regierung.",
+          "bedeutung": "Die Wohnungskrise in Großbritannien ist strukturell und politisch explosiv – staatliche Großinvestitionen in erschwinglichen Wohnraum könnten Maßstäbe für andere europäische Länder mit ähnlichen Problemen setzen.",
+          "hintergrund": "Insbesondere in London und anderen Ballungsräumen hat der jahrelange Mangel an bezahlbarem Wohnraum soziale Ungleichheit verschärft und politischen Sprengstoff angehäuft. Labour hatte im Wahlkampf versprochen, hier entschieden gegenzusteuern.\n\nKritikergruppen begrüßen die Mittelaufstockung, zweifeln jedoch daran, ob das Baugenehmigungssystem und der Fachkräftemangel im Bausektor eine schnelle Umsetzung erlauben. Die Ankündigung sendet gleichwohl ein klares politisches Signal über Prioritäten in einer Zeit knapper öffentlicher Kassen.",
+          "tag": "Wohnungsbau",
+          "emoji": "🏗️",
           "quelle": "BBC",
-          "quelle_url": "https://www.bbc.co.uk/news/articles/cqdjv8xllvyyo?at_medium=RSS&at_campaign=rss"
+          "quelle_url": "https://www.bbc.co.uk/news/articles/cqm24j9y9zn7o?at_medium=RSS&at_campaign=rss"
         }
       ]
     },
@@ -86,19 +86,7 @@
       "id": "boerse",
       "label": "Märkte & Börse",
       "emoji": "📈",
-      "stories": [
-        {
-          "id": "boerse-0",
-          "titel": "Trumps Wirtschaftsbewertung auf historischem Tiefstand",
-          "zusammenfassung": "Laut einer aktuellen CNBC-Umfrage bewerten acht von zehn Amerikanern die Wirtschaftslage als schlecht oder mittelmäßig – Trumps Zustimmungswerte in diesem Bereich haben einen neuen Negativrekord erreicht. Mit den nahenden Zwischenwahlen geraten republikanische Kandidaten zunehmend unter Druck.",
-          "bedeutung": "Anhaltend schlechte Wirtschaftsstimmung in der größten Volkswirtschaft der Welt beeinflusst nicht nur die US-Innenpolitik, sondern auch das globale Investorenvertrauen und die Markterwartungen.",
-          "hintergrund": "Die Umfragedaten zeigen eine breite Unzufriedenheit der US-Bevölkerung mit der wirtschaftlichen Entwicklung unter der aktuellen Regierung. Themen wie Inflation, Kaufkraftverlust und Jobsicherheit prägen die Wahrnehmung, unabhängig von offiziellen Konjunkturkennzahlen.\n\nFür die Finanzmärkte sind solche Stimmungsindikatoren relevant, weil sie den politischen Druck auf Wirtschaftspolitik und Notenbankentscheidungen abbilden. Je näher die Midterms rücken, desto stärker dürften innenpolitische Spannungen auch internationale Märkte beschäftigen.",
-          "tag": "US-Wirtschaft Midterms",
-          "emoji": "📉",
-          "quelle": "CNBC",
-          "quelle_url": "https://www.cnbc.com/2026/10/22/trump-economic-approval-rating-midterms-poll.html"
-        }
-      ]
+      "stories": []
     }
   ]
 }
