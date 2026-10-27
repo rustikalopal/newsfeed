@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-26T01:18:42.489740+00:00",
-  "datum": "Montag, 26. Oktober 2026",
+  "generated_at": "2026-10-27T02:09:49.816786+00:00",
+  "datum": "Dienstag, 27. Oktober 2026",
   "ressorts": [
     {
       "id": "politik",
@@ -9,33 +9,33 @@
       "stories": [
         {
           "id": "politik-0",
-          "titel": "Serbiens Ära Vučić endet nach Protestwahl",
-          "zusammenfassung": "Nach zwölf Jahren an der Macht räumt Aleksandar Vučić eine Niederlage seiner Partei bei der als Richtungsentscheidung für Serbiens Zukunft geltenden Wahl ein. Eine von Studierenden angeführte Protestbewegung feiert den Ausgang als historischen Wendepunkt.",
-          "bedeutung": "Das Ende der Ära Vučić könnte Serbiens Kurs zwischen EU-Annäherung und autoritärer Rückwärtsentwicklung grundlegend neu bestimmen.",
-          "hintergrund": "Monatelange Massenproteste, angeführt von Studierenden und der Zivilgesellschaft, hatten den Druck auf den langjährigen Staatspräsidenten stetig erhöht. Die Abstimmung galt vielen Beobachtern als Schicksalswahl über Demokratie, Rechtsstaatlichkeit und die europäische Ausrichtung des Landes.\n\nVučić hatte Serbien seit 2014 mit zunehmend autoritären Methoden regiert und zuletzt wegen Korruptionsvorwürfen, Medienunfreiheit und einer ambivalenten Haltung gegenüber Russland massiv an Rückhalt verloren. Ob nun eine pro-europäische Koalition die Regierungsverantwortung übernimmt, entscheidet sich in den kommenden Wochen.",
-          "tag": "Demokratie",
+          "titel": "Lula gewinnt dramatisch vierte Amtszeit in Brasilien",
+          "zusammenfassung": "Der linksgerichtete Amtsinhaber Luiz Inácio Lula da Silva hat sich in der Stichwahl gegen den rechten Herausforderer Flávio Bolsonaro durchgesetzt, nachdem er die erste Runde noch verloren hatte. Das Ergebnis gilt als spektakuläre politische Aufholjagd des erfahrenen Linkspolitikers.",
+          "bedeutung": "Als bevölkerungsreichstes Land Lateinamerikas und bedeutende Schwellenvolkswirtschaft hat Brasiliens politische Ausrichtung erhebliche Auswirkungen auf die Region und globale Handelsdynamiken.",
+          "hintergrund": "Lula, der Brasilien bereits von 2003 bis 2010 regiert hatte und danach wegen Korruptionsvorwürfen inhaftiert war, kehrt nun erneut an die Staatsspitze zurück. Sein Sieg trotz eines schwachen ersten Wahlgangs zeigt die tiefe politische Spaltung des Landes.\n\nDer unterlegene Flávio Bolsonaro, Sohn des früheren Präsidenten Jair Bolsonaro, hatte im Wahlkampf auf eine nationalkonservative Linie gesetzt. Beobachter werten das Ergebnis als Signal, dass Brasiliens Wählerschaft nach Jahren politischer Polarisierung einen moderaten Kurswechsel anstrebt.",
+          "tag": "Brasilien-Wahl",
           "emoji": "🗳️",
+          "quelle": "BBC",
+          "quelle_url": "https://www.bbc.co.uk/news/articles/ckm23y3mg1yyo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "id": "politik-1",
+          "titel": "Serbien: Vučić verliert Wahl gegen Protestbewegung",
+          "zusammenfassung": "Nach zwölf Jahren an der Macht hat der serbische Präsident Aleksandar Vučić eine historische Niederlage eingestanden, nachdem eine von Studierenden angeführte Protestbewegung seinen Machtanspruch erfolgreich herausgefordert hat. Die Abstimmung wurde weithin als Richtungsentscheidung über Serbiens Zukunft gewertet.",
+          "bedeutung": "Serbien liegt an einer geopolitischen Schlüsselstelle auf dem Westbalkan, und ein Regierungswechsel könnte die Annäherung des Landes an die Europäische Union erheblich beschleunigen.",
+          "hintergrund": "Die Protestbewegung, die ursprünglich aus Studentenprotesten gegen Korruption und staatliche Willkür hervorgegangen war, hat sich zu einer breiten zivilgesellschaftlichen Kraft entwickelt. Ihr Wahlerfolg gilt als eines der überraschendsten politischen Ereignisse in der Region seit Jahren.\n\nVučić hatte die serbische Politik durch einen autoritären Führungsstil geprägt und dabei einen Balanceakt zwischen Moskau und Brüssel vollzogen. Wie sein Rückzug die außenpolitische Ausrichtung Serbiens und den EU-Beitrittsprozess beeinflussen wird, dürfte die europäische Diplomatie in den kommenden Monaten intensiv beschäftigen.",
+          "tag": "Demokratie Serbien",
+          "emoji": "✊",
           "quelle": "BBC",
           "quelle_url": "https://www.bbc.co.uk/news/articles/cw5yn3xlprpmo?at_medium=RSS&at_campaign=rss"
         },
         {
-          "id": "politik-1",
-          "titel": "Israel wählt: Kriegsmüde Nation vor Richtungsentscheidung",
-          "zusammenfassung": "Nach drei Jahren regionalen Krieges steht Israel am Dienstag vor einer der bedeutsamsten Parlamentswahlen seiner jüngeren Geschichte. Die tief gespaltene Gesellschaft debattiert über Sicherheit, Geiseln und die politische Zukunft nach dem Konflikt.",
-          "bedeutung": "Das Wahlergebnis wird nicht nur Israels innenpolitische Ausrichtung prägen, sondern auch die Perspektiven für Waffenstillstandsverhandlungen und eine regionale Nachkriegsordnung beeinflussen.",
-          "hintergrund": "Die Wahl findet in einem Klima extremer gesellschaftlicher Zerrissenheit statt: Während ein Teil der Bevölkerung einen militärischen Kurs bis zum vollständigen Sieg fordert, drängen Angehörige der Geiseln und Teile der Opposition auf Verhandlungslösungen. Ministerpräsident Netanjahu steht wegen des Kriegsmanagements und laufender Korruptionsverfahren unter starkem Druck.\n\nParallel zur Wahl kündigte die israelische Armee an, die Westbank-Grenzübergänge am Wahltag zu schließen und die Bewegungsfreiheit palästinensischer Arbeitnehmer einzuschränken – ein Schritt, der international für scharfe Kritik sorgte.",
-          "tag": "Israel-Wahl",
-          "emoji": "🗳️",
-          "quelle": "BBC",
-          "quelle_url": "https://www.bbc.co.uk/news/articles/ckpdgy6pl7xlo?at_medium=RSS&at_campaign=rss"
-        },
-        {
           "id": "politik-2",
-          "titel": "Venezuelas Oppositionsführerin Machado kehrt aus dem Exil zurück",
-          "zusammenfassung": "María Machado ist nach monatelangem Exil nach Venezuela zurückgekehrt, nur wenige Wochen nachdem US-Behörden Präsident Nicolás Maduro festgenommen hatten. Ihre Rückkehr gilt als Signal für eine mögliche politische Neuordnung des Landes.",
-          "bedeutung": "Nach dem Zugriff der USA auf Maduro und Machados Rückkehr steht Venezuela an einem machtpolitischen Scheideweg mit weitreichenden Folgen für die gesamte Region.",
-          "hintergrund": "Machado hatte Venezuela verlassen, als die Repression gegen die Opposition unter Maduro einen neuen Höhepunkt erreichte. Als bekannteste Galionsfigur der Demokratiebewegung war sie zuvor mit Ausreiseverboten und Verhaftungsdrohungen konfrontiert.\n\nIhre Rückkehr fällt in eine Phase außergewöhnlicher politischer Instabilität: Mit der Festnahme Maduros durch US-Behörden ist ein Machtvakuum entstanden, das Venezuelas Zukunft und die geopolitischen Interessen mehrerer Großmächte in Lateinamerika neu ordnen könnte.",
-          "tag": "Venezuela",
+          "titel": "Venezuelas Oppositionsführerin Machado kehrt aus Exil zurück",
+          "zusammenfassung": "María Machado ist nach mehreren Monaten im Ausland nach Venezuela zurückgekehrt, kurz nachdem die US-Regierung den venezolanischen Präsidenten Nicolás Maduro festgenommen hatte. Ihre Rückkehr markiert einen bedeutenden Moment für die venezolanische Oppositionsbewegung.",
+          "bedeutung": "Das Schicksal Venezuelas berührt nicht nur die regionale Stabilität Lateinamerikas, sondern auch globale Energiemärkte und die humanitäre Krise, die Millionen von Migranten in Nachbarstaaten getrieben hat.",
+          "hintergrund": "Machado hatte Venezuela verlassen, nachdem das Maduro-Regime massiven Druck auf die Opposition ausgeübt hatte. Ihr Exil fiel in eine Phase, in der die internationale Gemeinschaft zunehmend Sanktionen und diplomatischen Druck auf Caracas ausübte.\n\nDie Festnahme Maduros durch US-Behörden und Machados gleichzeitige Rückkehr deuten auf eine dramatische Verschiebung der politischen Kräfteverhältnisse hin. Beobachter verfolgen nun gespannt, ob Venezuela an der Schwelle zu einem politischen Neuanfang steht oder ob loyale Maduro-Kräfte das Machtvakuum füllen werden.",
+          "tag": "Venezuela Opposition",
           "emoji": "🇻🇪",
           "quelle": "BBC",
           "quelle_url": "https://www.bbc.co.uk/news/articles/cq8ez592pp0eo?at_medium=RSS&at_campaign=rss"
@@ -49,36 +49,36 @@
       "stories": [
         {
           "id": "wirtschaft-0",
-          "titel": "Britische Firmen stoppen Einstellungen vor Haushaltsplan",
-          "zusammenfassung": "Zahlreiche Unternehmen in Großbritannien halten Neueinstellungen zurück und warten ab, welche Entscheidungen der Haushalt von Finanzminister John Healey zu den Beschäftigungskosten bringen wird. Die Zurückhaltung belastet bereits spürbar den Arbeitsmarkt.",
-          "bedeutung": "Wenn Betriebe flächendeckend Investitionen in Personal auf Eis legen, droht eine Verlangsamung des britischen Wirtschaftswachstums genau in einem ohnehin unsicheren globalen Umfeld.",
-          "hintergrund": "Der erste Haushalt der Labour-Regierung steht unter dem Doppeldruck, einerseits öffentliche Dienste zu finanzieren und andererseits keine Wachstumsbremsen zu setzen. Viele Arbeitgeber fürchten Erhöhungen bei Sozialabgaben oder dem Mindestlohn und halten sich deshalb mit Personalentscheidungen zurück.\n\nDie Unsicherheit ist symptomatisch für eine breitere Vertrauenskrise: Obwohl makroökonomische Daten die britische Wirtschaft derzeit noch als stabil ausweisen, warnen Analysten, dass anhaltende Investitionszurückhaltung die Erholung gefährden könnte.",
-          "tag": "Arbeitsmarkt",
-          "emoji": "📉",
+          "titel": "Anthropic-Börsengang: Erstmals KI-Firma wagt den Sprung",
+          "zusammenfassung": "Der KI-Entwickler Anthropic steht kurz vor seinem Börsendebüt und gilt als erste genuine Künstliche-Intelligenz-Gesellschaft, die den Gang an die Börse wagt. Der umfangreiche Börsenprospekt enthüllt bislang unbekannte Details über das Unternehmen und seine Risikoabschätzungen.",
+          "bedeutung": "Der Börsengang von Anthropic könnte einen Meilenstein für die gesamte KI-Branche setzen und den Maßstab für Bewertungen und Regulierungsdiskussionen im Technologiesektor weltweit neu definieren.",
+          "hintergrund": "Anthropic, gegründet von ehemaligen OpenAI-Mitarbeitern, hat sich mit seinem KI-System Claude als ernstzunehmende Alternative zu ChatGPT positioniert. Das Unternehmen hat zuletzt wiederholt vor existenziellen Risiken durch unkontrollierte KI-Entwicklung gewarnt und setzt sich für eine stärkere Branchenregulierung ein.\n\nDer Schritt an die Börse kommt zu einem Zeitpunkt, an dem Tech-Konzerne weltweit Milliarden in KI-Infrastruktur investieren. Investoren und Regulierer werden den Prospekt genau auf Hinweise zur Profitabilität, Datenstrategie und Sicherheitsarchitektur des Unternehmens analysieren.",
+          "tag": "KI-Börsengang",
+          "emoji": "🤖",
           "quelle": "BBC",
-          "quelle_url": "https://www.bbc.co.uk/news/articles/c62kep355q02o?at_medium=RSS&at_campaign=rss"
+          "quelle_url": "https://www.bbc.co.uk/news/articles/cwn8d7g29vd9o?at_medium=RSS&at_campaign=rss"
         },
         {
           "id": "wirtschaft-1",
-          "titel": "Britischer Haushalt: Wachstum jetzt, Risiken ab Januar",
-          "zusammenfassung": "Großbritanniens Wirtschaft präsentiert sich vor dem Haushalt von Finanzminister Healey in vergleichsweise guter Verfassung, doch Experten warnen, dass sich das Bild zu Jahresbeginn 2027 deutlich eintrüben könnte. Die Labour-Regierung steht vor der Aufgabe, kurzfristige Stabilität mit langfristiger Haushaltskonsolidierung zu verbinden.",
-          "bedeutung": "Der Haushalt setzt einen Präzedenzfall dafür, ob die neue britische Regierung wirtschaftliche Handlungsfähigkeit und soziale Verpflichtungen dauerhaft in Einklang bringen kann.",
-          "hintergrund": "Steigende globale Zinsen, nachlassende Kaufkraft der Mittelschicht und unsichere Handelsbedingungen nach dem Brexit bilden den Rahmen, in dem Healey seinen ersten Etat vorlegt. Die Erwartungen sind hoch: Von Investitionen in Wohnungsbau über Infrastruktur bis zu Steuerfragen reicht die Agenda.\n\nBesonders die sogenannte 'squeezed middle' – Haushalte mit mittlerem Einkommen – berichtet, kaum noch Spielraum für weitere Belastungen zu haben. Wie die Regierung diesen Erwartungsdruck kanalisiert, wird das wirtschaftspolitische Klima der kommenden Monate prägen.",
-          "tag": "Haushaltspolitik",
-          "emoji": "💷",
+          "titel": "Rechenzentren: Wachsender Widerstand gegen digitale Infrastruktur",
+          "zusammenfassung": "Rund um die Welt formiert sich Widerstand gegen den massiven Ausbau von Rechenzentren, die zwar als unverzichtbare Infrastruktur der digitalen Wirtschaft gelten, aber zunehmend wegen ihres enormen Energie- und Wasserverbrauchs in die Kritik geraten. Anwohner und Umweltgruppen machen mobil gegen neue Projekte.",
+          "bedeutung": "Der Rechenzentrumsausbau ist untrennbar mit dem globalen KI-Boom verknüpft, und Konflikte um seine Umweltfolgen könnten die digitale Transformation verlangsamen oder verteuern.",
+          "hintergrund": "Rechenzentren verbrauchen weltweit enorme Mengen an Strom und Kühlwasser und werden in ihrer Gesamtwirkung häufig unterschätzt. Mit dem exponentiellen Wachstum von KI-Anwendungen steigt der Bedarf an Rechenkapazität weiter rasant an, was Energie- und Wasserressourcen in vielen Regionen unter Druck setzt.\n\nKommunen in Europa und den USA berichten von lautstarken Protesten und Planungsblockaden rund um neue Datenzentrum-Projekte. Die Debatte offenbart einen grundlegenden Zielkonflikt zwischen der Nachfrage nach digitalen Diensten und den Anforderungen einer nachhaltigen Infrastrukturpolitik.",
+          "tag": "Rechenzentren Umwelt",
+          "emoji": "🏭",
           "quelle": "BBC",
-          "quelle_url": "https://www.bbc.co.uk/news/articles/ck87z4ng2l03o?at_medium=RSS&at_campaign=rss"
+          "quelle_url": "https://www.bbc.co.uk/news/articles/cq2e9we7w2ejo?at_medium=RSS&at_campaign=rss"
         },
         {
           "id": "wirtschaft-2",
-          "titel": "London plant Milliarden-Investition in sozialen Wohnungsbau",
-          "zusammenfassung": "Der britische Haushalt soll eine zusätzliche Milliarde Pfund für sozialen und erschwinglichen Wohnraum bereitstellen, womit das Gesamtvolumen des zehnjährigen Programms auf über 40 Milliarden Pfund steigt. Die Maßnahme gilt als zentrale sozialpolitische Weichenstellung der Labour-Regierung.",
-          "bedeutung": "Die Wohnungskrise in Großbritannien ist strukturell und politisch explosiv – staatliche Großinvestitionen in erschwinglichen Wohnraum könnten Maßstäbe für andere europäische Länder mit ähnlichen Problemen setzen.",
-          "hintergrund": "Insbesondere in London und anderen Ballungsräumen hat der jahrelange Mangel an bezahlbarem Wohnraum soziale Ungleichheit verschärft und politischen Sprengstoff angehäuft. Labour hatte im Wahlkampf versprochen, hier entschieden gegenzusteuern.\n\nKritikergruppen begrüßen die Mittelaufstockung, zweifeln jedoch daran, ob das Baugenehmigungssystem und der Fachkräftemangel im Bausektor eine schnelle Umsetzung erlauben. Die Ankündigung sendet gleichwohl ein klares politisches Signal über Prioritäten in einer Zeit knapper öffentlicher Kassen.",
-          "tag": "Wohnungsbau",
-          "emoji": "🏗️",
+          "titel": "Großbritannien vor Haushalt: Healey unter Druck",
+          "zusammenfassung": "Schatzkanzler John Healey wird morgen seinen Haushalt vorlegen und dabei einen schwierigen Spagat vollziehen müssen: Er soll die wirtschaftliche Erholung stützen, gleichzeitig einkommensschwache Haushalte entlasten und fiskalische Glaubwürdigkeit wahren. Verschiedene Interessengruppen melden konkurrierende Forderungen an.",
+          "bedeutung": "Als fünftgrößte Volkswirtschaft der Welt hat Großbritanniens Haushaltspolitik weitreichende Signalwirkung für internationale Kapitalmärkte und die wirtschaftliche Stabilität Westeuropas.",
+          "hintergrund": "Die Labour-Regierung steht vor der Herausforderung, nach Jahren der Haushaltsdisziplin unter den Konservativen eigene wirtschaftspolitische Akzente zu setzen, ohne das Vertrauen der Finanzmärkte zu verspielen. Geplant sind unter anderem Zollsenkungen auf bestimmte Alltagsgüter sowie Maßnahmen zum Schutz einkommensschwacher Rentner vor der Einkommenssteuerpflicht.\n\nÖkonomen warnen, dass sich das wirtschaftliche Umfeld ab Jahresanfang 2027 eintrüben könnte, was den Handlungsspielraum der Regierung einschränken dürfte. Der Haushalt gilt deshalb als Weichenstellung nicht nur für das kommende Jahr, sondern für die gesamte wirtschaftspolitische Agenda der Labour-Regierung.",
+          "tag": "UK Haushalt",
+          "emoji": "💷",
           "quelle": "BBC",
-          "quelle_url": "https://www.bbc.co.uk/news/articles/cqm24j9y9zn7o?at_medium=RSS&at_campaign=rss"
+          "quelle_url": "https://www.bbc.co.uk/news/articles/c6x2zrjl7kjno?at_medium=RSS&at_campaign=rss"
         }
       ]
     },
@@ -86,7 +86,19 @@
       "id": "boerse",
       "label": "Märkte & Börse",
       "emoji": "📈",
-      "stories": []
+      "stories": [
+        {
+          "id": "boerse-0",
+          "titel": "US-Staatsanleihen über 5 %: Billionen-Defizit alarmiert Märkte",
+          "zusammenfassung": "Die Renditen amerikanischer Staatsanleihen haben die Marke von fünf Prozent überschritten und erhöhen damit die Finanzierungskosten für Verbraucher, Unternehmen und den Bundesstaat gleichermaßen. Angesichts eines Haushaltsdefizits von zwei Billionen Dollar wächst die Sorge um die langfristige Schuldentragfähigkeit der größten Volkswirtschaft der Welt.",
+          "bedeutung": "Steigende US-Staatsanleiherenditen beeinflussen über den Dollar und globale Kapitalflüsse nahezu alle Finanzmärkte weltweit und gelten als einer der wichtigsten Stimmungsbarometer für das internationale Investitionsklima.",
+          "hintergrund": "Ein strukturell hohes Haushaltsdefizit zwingt Washington, kontinuierlich neue Anleihen zu emittieren, was das Angebot am Bondmarkt erhöht und die Kurse unter Druck setzt. Steigende Renditen wiederum verteuern Hypotheken, Unternehmenskredite und die staatliche Zinsbelastung gleichermaßen – ein sich selbst verstärkender Kreislauf.\n\nAnalysten sehen in der Kombination aus hartnäckig hohem Defizit und erhöhten Zinsniveaus eine ernste Herausforderung für die US-Wirtschaft. Besonders die Frage, wie lange globale Investoren bereit sind, amerikanische Staatsschulden zu diesen Konditionen zu absorbieren, steht zunehmend im Fokus der Finanzmärkte.",
+          "tag": "US-Staatsanleihen",
+          "emoji": "📈",
+          "quelle": "CNBC",
+          "quelle_url": "https://www.cnbc.com/2026/10/15/treasury-yields-deficit-national-debt-ai.html"
+        }
+      ]
     }
   ]
 }
