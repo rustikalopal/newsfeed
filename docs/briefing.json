@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-29T02:30:38.183595+00:00",
-  "datum": "Donnerstag, 29. Oktober 2026",
+  "generated_at": "2026-10-30T02:41:16.784936+00:00",
+  "datum": "Freitag, 30. Oktober 2026",
   "ressorts": [
     {
       "id": "politik",
@@ -9,36 +9,36 @@
       "stories": [
         {
           "id": "politik-0",
-          "titel": "Zugunglück in Spanien fordert mindestens 68 Todesopfer",
-          "zusammenfassung": "Im spanischen Toledo prallte ein fahrender Zug auf einen stehenden Zug – Verkehrsminister spricht von einem unerklärlichen menschlichen Fehler. Die Zahl der Toten stieg auf mindestens 68, Dutzende weitere wurden verletzt.",
-          "bedeutung": "Es handelt sich um eines der schwersten Eisenbahnunglücke Europas der vergangenen Jahre und wirft grundlegende Fragen zur Sicherheit des Schienenverkehrs auf.",
-          "hintergrund": "Das Unglück ereignete sich am Mittwochabend auf einer Strecke in der Provinz Toledo, als ein Zug mit hoher Geschwindigkeit auf ein bereits haltendes Fahrzeug auffuhr. Rettungskräfte waren stundenlang im Einsatz, um Überlebende aus den Trümmern zu bergen.\n\nSpanier und internationale Beobachter fordern nun eine vollständige Untersuchung. Die EU-Eisenbahnagentur kündigte Unterstützung an. Im Zentrum steht die Frage, ob technisches Versagen oder menschliches Fehlverhalten die Katastrophe ausgelöst hat.",
-          "tag": "Zugunglück Spanien",
-          "emoji": "🚆",
+          "titel": "Xi verschärft Säuberungen: Rekordzahl an Parteiausschlüssen",
+          "zusammenfassung": "Beim jüngsten Parteitreffen in China hat Xi Jinping eine beispiellose Welle von Säuberungen angeordnet und dabei besonders die Stärkung der Parteidisziplin betont. Beobachter sehen darin weniger eine echte Antikorruptionskampagne als vielmehr ein Instrument zur Festigung seiner persönlichen Machtstellung.",
+          "bedeutung": "Die innenpolitische Konsolidierung Xis hat unmittelbare Folgen für Chinas außenpolitischen Kurs und die globale wirtschaftliche Stabilität.",
+          "hintergrund": "Xi Jinping nutzt die unter dem Banner der Korruptionsbekämpfung laufenden Säuberungen systematisch, um potenzielle Rivalen innerhalb der Kommunistischen Partei auszuschalten. Die Zahl der betroffenen Funktionäre hat in dieser Runde alle bisherigen Rekorde übertroffen.\n\nInternationale Chinaexperten warnen, dass eine derart zentralisierte Macht die Entscheidungsfindung in Peking zunehmend unberechenbar mache – mit Folgen für Handelsbeziehungen, Taiwanpolitik und globale Sicherheitsarchitektur.",
+          "tag": "China-Politik",
+          "emoji": "🇨🇳",
           "quelle": "BBC",
-          "quelle_url": "https://www.bbc.co.uk/news/articles/c6p3g84kjqjlo?at_medium=RSS&at_campaign=rss"
+          "quelle_url": "https://www.bbc.co.uk/news/articles/cq5ynw94k7kzo?at_medium=RSS&at_campaign=rss"
         },
         {
           "id": "politik-1",
-          "titel": "Netanyahus Block führt – verfehlt aber Mehrheit",
-          "zusammenfassung": "Nach Auszählung von 85 Prozent der Stimmen liegt das Likud-Bündnis bei rund 53 Mandaten im 120 Sitze umfassenden Knesset – zu wenig für eine regierungsfähige Mehrheit. Eine politische Blockade zeichnet sich ab, neue Wahlen gelten als wahrscheinlichstes Szenario.",
-          "bedeutung": "Israel steckt erneut in einer Regierungskrise, die das Land inmitten des laufenden regionalen Konflikts politisch lähmt.",
-          "hintergrund": "Israel hat in den vergangenen Jahren mehrfach Neuwahlen abhalten müssen, weil keine Seite eine stabile Koalition bilden konnte. Auch diesmal deuten die Hochrechnungen auf ein Patt hin, das alle vier denkbaren Koalitionsszenarien mit erheblichen Hürden belastet.\n\nDer Ausgang ist besonders brisant, da das Land seit dem Ausbruch des Gaza-Kriegs und den regionalen Spannungen mit dem Iran unter enormem sicherheitspolitischen Druck steht. Eine handlungsunfähige Übergangsregierung könnte die strategische Entscheidungsfindung weiter erschweren.",
-          "tag": "Israel Wahl",
-          "emoji": "🗳️",
+          "titel": "Russischer Drohnenangriff auf Dnipro tötet mindestens 14",
+          "zusammenfassung": "Ein russischer Drohnenangriff hat einen belebten Bahnhof in der zentralukrainischen Stadt Dnipro getroffen und mindestens 14 Menschen das Leben gekostet. Unter den zahlreichen Verletzten befindet sich auch ein elfjähriges Kind.",
+          "bedeutung": "Der gezielte Angriff auf zivile Infrastruktur unterstreicht Russlands fortgesetzte Strategie, ukrainische Städte abseits der Frontlinie zu destabilisieren.",
+          "hintergrund": "Bahnhöfe gelten in der Ukraine als lebenswichtige Knotenpunkte für die Evakuierung von Zivilisten und den Transport militärischer Güter. Angriffe auf sie treffen damit sowohl die humanitäre Versorgung als auch die Logistik der ukrainischen Streitkräfte.\n\nDer Anschlag ereignete sich in einem Moment, in dem andernorts – etwa in Cherson – ein temporärer Waffenstillstand brüchige Hoffnungen auf Ruhe geweckt hatte, was die widersprüchliche Dynamik des Konflikts deutlich macht.",
+          "tag": "Ukraine-Krieg",
+          "emoji": "💥",
           "quelle": "BBC",
-          "quelle_url": "https://www.bbc.co.uk/news/articles/cmdx3knq1xexo?at_medium=RSS&at_campaign=rss"
+          "quelle_url": "https://www.bbc.co.uk/news/articles/c9p8gdlz1p2ko?at_medium=RSS&at_campaign=rss"
         },
         {
           "id": "politik-2",
-          "titel": "Serbe greift Polizisten vor israelischer Botschaft an",
-          "zusammenfassung": "Ein jugendlicher Angreifer eröffnete in Belgrad vor der israelischen Botschaft einen Angriff auf einen Sicherheitsbeamten und wurde dabei erschossen. Der Täter war den serbischen Behörden nach eigenen Angaben bereits bekannt.",
-          "bedeutung": "Der Vorfall reiht sich in eine Serie sicherheitsrelevanter Ereignisse rund um israelische Auslandsvertretungen ein und zeigt die erhöhte Bedrohungslage für diplomatische Einrichtungen weltweit.",
-          "hintergrund": "Serbische Sicherheitsbehörden bestätigten, dass der Angreifer unter Beobachtung stand, bevor es zur Eskalation kam. Details zur Motivation wurden zunächst nicht genannt.\n\nDer Angriff erfolgt in einem internationalen Klima erhöhter Wachsamkeit gegenüber israelischen Botschaften und Konsulaten, nachdem es in mehreren Ländern zu Drohungen und Vorfällen gekommen war.",
-          "tag": "Terroranschlag Botschaft",
-          "emoji": "🏛️",
+          "titel": "Netanyahu beschuldigt Opposition nach Wahlniederlage des Betrugs",
+          "zusammenfassung": "Nach dem Verlust der parlamentarischen Mehrheit wirft Netanyahus Likud-Partei arabischstämmigen Parteien vor, die Wahl manipuliert zu haben, und behauptet ausländische Einmischung. Die israelische Opposition reagiert mit dem Vorwurf, der Premier versuche das Wahlergebnis systematisch zu delegitimieren.",
+          "bedeutung": "Israels innenpolitische Zerreißprobe nach der Wahl gefährdet die Stabilität einer ohnehin angespannten Region und könnte die Regierungsbildung auf Monate blockieren.",
+          "hintergrund": "Israel befindet sich in einer tiefen politischen Krise: Die Wahlen fanden in einem Land statt, das seit Jahren von juristischen Auseinandersetzungen um Netanyahus Person und von gesellschaftlichen Spaltungen geprägt ist. Ein Angriff auf die Legitimität des Ergebnisses könnte demokratische Institutionen nachhaltig beschädigen.\n\nInternationale Beobachter und westliche Verbündete verfolgen die Entwicklung mit Sorge, da ein destabilisiertes Israel die gesamte nahöstliche Sicherheitsarchitektur beeinflusst.",
+          "tag": "Israel-Wahl",
+          "emoji": "🗳️",
           "quelle": "BBC",
-          "quelle_url": "https://www.bbc.co.uk/news/articles/ck5ynj4eeyj2o?at_medium=RSS&at_campaign=rss"
+          "quelle_url": "https://www.bbc.co.uk/news/articles/ckdd8qdl9e0eo?at_medium=RSS&at_campaign=rss"
         }
       ]
     },
@@ -49,36 +49,36 @@
       "stories": [
         {
           "id": "wirtschaft-0",
-          "titel": "Microsoft-Gewinne steigen trotz massivem Stellenabbau",
-          "zusammenfassung": "Microsoft meldete einen deutlichen Gewinnanstieg, nur wenige Tage nachdem der Konzern angekündigt hatte, rund 60.000 Stellen durch freiwillige Abgangsprogramme abzubauen. Die Zahlen unterstreichen den wachsenden Effizienzdruck in der Technologiebranche.",
-          "bedeutung": "Das Beispiel Microsoft zeigt exemplarisch, wie große Tech-Konzerne gleichzeitig Rekordgewinne ausweisen und massiv Personal reduzieren – mit weitreichenden Folgen für den Arbeitsmarkt.",
-          "hintergrund": "Der Stellenabbau bei Microsoft ist Teil eines branchenweiten Trends, bei dem KI-gestützte Automatisierung traditionelle Aufgaben übernimmt und Unternehmen ihre Kostenstrukturen grundlegend neu ordnen. Der Konzern investiert gleichzeitig Milliarden in seine KI-Infrastruktur.\n\nKritiker sehen in solchen Meldungen ein wachsendes Spannungsfeld zwischen Shareholder-Value und sozialer Verantwortung großer Technologieunternehmen. Gewerkschaften in mehreren Ländern haben angekündigt, die Entwicklung genau zu beobachten.",
-          "tag": "Tech Stellenabbau",
-          "emoji": "💼",
+          "titel": "Google verliert 500 Milliarden: KI schadet eigenem Werbegeschäft",
+          "zusammenfassung": "Der Technologieriese Alphabet hat eingestanden, dass die KI-gestützten Suchzusammenfassungen die Werbeeinnahmen spürbar belasten, woraufhin der Aktienkurs auf ein Sechsmonatstief abstürzte. Der Kursverfall vernichtete Börsenwert in Höhe von rund 500 Milliarden US-Dollar.",
+          "bedeutung": "Der Fall zeigt exemplarisch das strukturelle Dilemma der großen Technologiekonzerne: Ihre KI-Investitionen untergraben das klassische Geschäftsmodell, das sie finanziert.",
+          "hintergrund": "Googles Kerngeschäft basiert seit Jahrzehnten auf Suchanzeigen – einem Modell, das funktioniert, weil Nutzer auf Links klicken. Liefert die KI jedoch fertige Antworten direkt in der Suche, sinken Klickzahlen und damit Werbeeinnahmen erheblich.\n\nDie Branche beobachtet Googles Dilemma genau, denn ähnliche Fragen stellen sich für alle Plattformen, die auf KI setzen. Analysten sprechen von einem möglicherweise strukturellen Wandel im digitalen Werbemarkt.",
+          "tag": "KI & Werbung",
+          "emoji": "📉",
           "quelle": "BBC",
-          "quelle_url": "https://www.bbc.co.uk/news/articles/c6m24klyjr8no?at_medium=RSS&at_campaign=rss"
+          "quelle_url": "https://www.bbc.co.uk/news/articles/cm9qzdqpxy48o?at_medium=RSS&at_campaign=rss"
         },
         {
           "id": "wirtschaft-1",
-          "titel": "Putin lobt Musk als Genie – enge Kontakte bestätigt",
-          "zusammenfassung": "Russlands Präsident Wladimir Putin bezeichnete Elon Musk öffentlich als wahres Genie und bestätigte, in engem Austausch mit dem SpaceX-Chef zu stehen. Hintergrund sind offenbar Gespräche über Satellitentechnologie.",
-          "bedeutung": "Die Annäherung zwischen dem Kreml und einem der einflussreichsten Tech-Unternehmer der Welt wirft geopolitische und sicherheitspolitische Fragen auf, insbesondere im Hinblick auf die Nutzung von Starlink in Konfliktregionen.",
-          "hintergrund": "SpaceX und sein Satellitennetzwerk Starlink spielen seit dem russischen Angriff auf die Ukraine eine wichtige militärische Rolle – ursprünglich zugunsten Kyjiws. Berichte über eingeschränkte Zugänge und direkte Kommunikation zwischen Musk und russischen Stellen hatten bereits früher für Aufsehen gesorgt.\n\nDie jüngste öffentliche Lobeserklärung Putins dürfte die Debatten in westlichen Regierungen über die Kontrolle privater Raumfahrtinfrastruktur weiter anheizen.",
-          "tag": "Musk Putin Geopolitik",
-          "emoji": "🛰️",
+          "titel": "Fed hält Zinsen stabil: US-Wirtschaft wächst überraschend stark",
+          "zusammenfassung": "Die US-Notenbank Federal Reserve hat ihren Leitzins unverändert gelassen, während die amerikanische Wirtschaft im dritten Quartal mit 3,4 Prozent deutlich stärker als erwartet gewachsen ist. Gleichzeitig stiegen die Preise im September schneller als prognostiziert, was die geldpolitische Lage verkompliziert.",
+          "bedeutung": "Das robuste Wachstum bei gleichzeitig anziehender Inflation erhöht den Druck auf die Fed und hat weitreichende Konsequenzen für Kreditmärkte und Verbraucher weltweit.",
+          "hintergrund": "Fed-Chef Kevin Warsh signalisierte eine eher restriktive Haltung und ließ offen, ob weitere Zinserhöhungen folgen könnten – abhängig von der weiteren Datenlage. Die Kombination aus starkem Wachstum und hartnäckiger Inflation macht eine einfache geldpolitische Kurskorrektur schwierig.\n\nUS-Finanzminister Bessent äußerte, eine erneute Zinserhöhung sei nicht zwingend ein Fehler, was die Markterwartungen weiter verunsichert und den Dollar unter Aufwärtsdruck setzt.",
+          "tag": "US-Konjunktur",
+          "emoji": "🏦",
           "quelle": "BBC",
-          "quelle_url": "https://www.bbc.co.uk/news/articles/c63djl148n3eo?at_medium=RSS&at_campaign=rss"
+          "quelle_url": "https://www.bbc.co.uk/news/articles/cr15jxzv4w24o?at_medium=RSS&at_campaign=rss"
         },
         {
           "id": "wirtschaft-2",
-          "titel": "Britanniens neues Budget: Energierabatt, Banksteuer, Rüstung",
-          "zusammenfassung": "Schatzkanzler John Healey präsentierte sein erstes Haushaltsbudget mit einem Energiekostenzuschuss von 100 Pfund für Haushalte, höheren Steuern auf Banken sowie verstärkten Ausgaben für Verteidigung und Künstliche Intelligenz. Oppositionsparteien kritisierten fehlende strukturelle Reformen.",
-          "bedeutung": "Das Budget setzt Prioritäten in einem von globaler wirtschaftlicher Unsicherheit und einem laufenden Nahostkonflikt geprägten Umfeld und dürfte Signalwirkung für andere europäische Regierungen haben.",
-          "hintergrund": "Großbritannien steht vor einer Kombination aus hoher Inflation, gestiegenen Energiepreisen und einer schwächelnden Wachstumsdynamik. Healey versuchte mit gezielten Entlastungsmaßnahmen für Haushalte Druck abzubauen, ohne den Haushaltsspielraum zu stark zu belasten.\n\nDas Büro für Haushaltverantwortung (OBR) warnte, dass höhere Energiepreise Löhne, Lebensstandard und Wirtschaftswachstum weiterhin unter Druck setzen werden. Analysten bezweifeln, ob die Maßnahmen ausreichen, um strukturelle Probleme zu lösen.",
-          "tag": "UK Budget",
-          "emoji": "🇬🇧",
+          "titel": "DoorDash kauft Instacart für 17 Milliarden Dollar",
+          "zusammenfassung": "Der US-Lieferdienst DoorDash übernimmt den Lebensmittellieferanten Instacart in einem 17-Milliarden-Dollar-Deal und schafft damit eine der mächtigsten Liefer-Plattformen Nordamerikas. Kunden sollen künftig über eine kombinierte Plattform Zugang zu 150.000 Geschäften erhalten.",
+          "bedeutung": "Die Megafusion verändert die Wettbewerbslandschaft im boomenden Liefermarkt grundlegend und dürfte Regulierungsbehörden auf beiden Seiten des Atlantiks auf den Plan rufen.",
+          "hintergrund": "Beide Unternehmen stehen unter anhaltendem Druck, nach der pandemiebedingten Hochphase profitabel zu werden. Die Fusion soll Skaleneffekte schaffen und die Marktposition gegenüber Konkurrenten wie Uber Eats stärken.\n\nKritiker warnen vor einer weiteren Konzentration im Plattformsektor und erwarten eine eingehende kartellrechtliche Prüfung durch die US-Wettbewerbsbehörde FTC.",
+          "tag": "Tech-Fusion",
+          "emoji": "🛒",
           "quelle": "BBC",
-          "quelle_url": "https://www.bbc.co.uk/news/articles/cqpvgxz3y49go?at_medium=RSS&at_campaign=rss"
+          "quelle_url": "https://www.bbc.co.uk/news/articles/cm79pjg2l57yo?at_medium=RSS&at_campaign=rss"
         }
       ]
     },
@@ -89,36 +89,36 @@
       "stories": [
         {
           "id": "boerse-0",
-          "titel": "Fed-Entscheid: Zinspause – aber mit Überraschungen",
-          "zusammenfassung": "Das Offenmarktausschuss der US-Notenbank ließ die Zinsen erwartungsgemäß unverändert, doch die Pressekonferenz von Fed-Chef Kevin Warsh lieferte unerwartete Signale für den weiteren geldpolitischen Kurs. Märkte reagierten mit erhöhter Volatilität.",
-          "bedeutung": "Jede Äußerung der Federal Reserve bewegt globale Märkte, Anleiherenditen und Währungen – die kommunikativen Nuancen dieser Sitzung werden Investoren weltweit noch Wochen beschäftigen.",
-          "hintergrund": "Die Fed steht unter dem Druck widersprüchlicher Signale: einerseits nachlassende Inflation, andererseits ein robuster Arbeitsmarkt und neue geopolitisch bedingte Preissteigerungsrisiken. Warsh deutete an, dass weitere Zinserhöhungen nicht ausgeschlossen seien, ohne einen konkreten Zeitplan zu nennen.\n\nBesonders aufmerksam verfolgten Anleger die Formulierungen zur künftigen Datenbasis der Entscheidungen. Ökonomen sehen die Notenbank in einer schwierigen Abwägungsphase, die globale Kapitalmärkte bis weit ins nächste Quartal hinein beeinflussen dürfte.",
-          "tag": "Fed Zinspolitik",
-          "emoji": "🏦",
+          "titel": "EZB hält Zinsen bei 2,5 Prozent – Dezemberhike wahrscheinlich",
+          "zusammenfassung": "Die Europäische Zentralbank ließ ihren Leitzins auf der Oktober-Sitzung bei 2,5 Prozent unverändert, sendete aber restriktive Signale, die Märkte als hawkishe Pause interpretierten. Händler preisen mittlerweile eine Wahrscheinlichkeit von 67 Prozent für eine Zinserhöhung im Dezember ein.",
+          "bedeutung": "Die veränderten Markterwartungen erhöhen den Finanzierungsdruck für Unternehmen und Staaten in der Eurozone und belasten die ohnehin schwache Konjunktur in Deutschland und Frankreich.",
+          "hintergrund": "Die EZB steht vor einem schwierigen Balanceakt: Die Inflation im Euroraum bleibt hartnäckiger als erhofft, während die Konjunktur in wichtigen Mitgliedstaaten stagniert. Eine weitere Zinserhöhung würde die Kreditkosten weiter in die Höhe treiben.\n\nZusätzlich sorgt die angekündigte Amtsniederlegung von EZB-Präsidentin Christine Lagarde im Februar für Unsicherheit an den Märkten, da die Nachfolgediskussion die geldpolitische Orientierung der Bank beeinflussen könnte.",
+          "tag": "EZB-Zinsen",
+          "emoji": "🏛️",
           "quelle": "CNBC",
-          "quelle_url": "https://www.cnbc.com/2026/10/28/fed-rate-decision-warsh-takeaways.html"
+          "quelle_url": "https://www.cnbc.com/2026/10/29/european-central-bank-interest-rates.html"
         },
         {
           "id": "boerse-1",
-          "titel": "Bessent: Weitere Zinserhöhung der Fed kein Fehler",
-          "zusammenfassung": "US-Finanzminister Scott Bessent äußerte sich in einem CNBC-Interview offen dazu, dass eine erneute Anhebung der Leitzinsen durch die Federal Reserve nicht zwingend falsch wäre. Die Aussage überraschte Märkte und Analysten gleichermaßen.",
-          "bedeutung": "Ein Finanzminister, der öffentlich für mögliche Zinserhöhungen plädiert, sendet ein ungewöhnliches politisches Signal und deutet auf wachsende Sorgen vor Inflationspersistenz hin.",
-          "hintergrund": "Normalerweise mahnen Regierungsvertreter eher zur Zinszurückhaltung, um Wirtschaftswachstum nicht zu gefährden. Bessents abweichende Haltung lässt auf interne Debatten innerhalb der US-Regierung über den richtigen geldpolitischen Kurs schließen.\n\nFür Schwellenländer und exportabhängige Volkswirtschaften hätte eine erneute Zinserhöhung in den USA erhebliche Folgewirkungen über steigende Kapitalabflüsse und einen stärkeren Dollar.",
-          "tag": "US Geldpolitik",
-          "emoji": "📈",
+          "titel": "Lagarde kündigt EZB-Rücktritt an: Wer folgt nach?",
+          "zusammenfassung": "EZB-Präsidentin Christine Lagarde hat angekündigt, ihr Amt am 7. Februar niederzulegen, und löst damit intensive Spekulationen über ihre Nachfolge aus. Die politische Dimension der Personenfrage könnte die geldpolitische Ausrichtung der Eurozone für die kommenden Jahre prägen.",
+          "bedeutung": "Die Besetzung der EZB-Spitze ist eine hochpolitische Entscheidung, die unmittelbare Auswirkungen auf Euro-Kurs, Staatsanleiherenditen und Wachstumsperspektiven der gesamten Eurozone hat.",
+          "hintergrund": "Als mögliche Nachfolger werden Kandidaten aus Deutschland, Frankreich und anderen großen Mitgliedstaaten gehandelt, wobei die Diskussion über eine eher zurückhaltende oder weiterhin restriktive Geldpolitik im Zentrum steht. Deutschland drängt traditionell auf Kandidaten, die der Preisstabilität Vorrang einräumen.\n\nDer Zeitpunkt ist heikel: Eine unklare Führung an der EZB-Spitze fällt zusammen mit einer unsicheren Konjunkturlage und steigenden Inflationserwartungen, was Märkte und Investoren verunsichert.",
+          "tag": "EZB-Nachfolge",
+          "emoji": "🔑",
           "quelle": "CNBC",
-          "quelle_url": "https://www.cnbc.com/2026/10/28/scott-bessent-interview.html"
+          "quelle_url": "https://www.cnbc.com/2026/10/29/lagarde-ecb-stand-down.html"
         },
         {
           "id": "boerse-2",
-          "titel": "Weltbank: KI-Boom treibt globale Kapitalkosten hoch",
-          "zusammenfassung": "Weltbank-Präsident Ajay Banga erklärte, die Verfügbarkeit von Kapital sei grundsätzlich kein Problem – die rasant steigende Nachfrage durch KI-Investitionen treibe jedoch die Finanzierungskosten weltweit nach oben. Dies könnte ärmere Länder besonders belasten.",
-          "bedeutung": "Steigende Kapitalkosten infolge des KI-Investitionsbooms gefährden die Finanzierungsbasis von Entwicklungs- und Schwellenländern, die ohnehin unter Schulden- und Währungsdruck leiden.",
-          "hintergrund": "Der globale Hunger nach Rechenzentren, Halbleitern und Energieinfrastruktur für KI-Anwendungen zieht enorme Kapitalmengen in wenige entwickelte Volkswirtschaften. Das verändert globale Kapitalströme und erhöht den Druck auf Anleiherenditen weltweit.\n\nBanga betonte, dass internationale Finanzinstitutionen gegensteuern müssten, um sicherzustellen, dass KI nicht ausschließlich Industriestaaten zugutekomme, sondern auch in ärmeren Regionen produktive Investitionen ermögliche.",
-          "tag": "KI Kapitalkosten",
-          "emoji": "🌍",
-          "quelle": "CNBC",
-          "quelle_url": "https://www.cnbc.com/2026/10/27/world-bank-president-ajay-banga.html"
+          "titel": "Mutmaßlicher Binance-Hack legt Krypto-Werte in Milliardenhöhe lahm",
+          "zusammenfassung": "Nach einem offenbar massiven Hackerangriff auf die weltgrößte Kryptobörse Binance wurden Vermögenswerte in Milliardenhöhe eingefroren. Experten aus der Branche schätzen den möglicherweise entwendeten Betrag auf über fünf Milliarden US-Dollar.",
+          "bedeutung": "Ein Angriff dieser Größenordnung erschüttert das ohnehin fragile Vertrauen in die Sicherheit zentralisierter Kryptobörsen und könnte regulatorischen Druck weltweit massiv verstärken.",
+          "hintergrund": "Binance wickelt täglich Transaktionen im Milliardenbereich ab und ist damit ein systemrelevanter Akteur im globalen Kryptomarkt. Ein bestätigter Hack in dieser Größenordnung wäre einer der folgenreichsten in der Geschichte digitaler Währungen.\n\nDas Unternehmen hielt sich zunächst bedeckt und machte keine offiziellen Angaben zur Schadenshöhe. Die Unsicherheit trieb viele Kryptowährungen auf Talfahrt und ließ Forderungen nach strengerer internationaler Regulierung laut werden.",
+          "tag": "Krypto-Hack",
+          "emoji": "🔓",
+          "quelle": "BBC",
+          "quelle_url": "https://www.bbc.co.uk/news/articles/cwg7xp8kx4v5o?at_medium=RSS&at_campaign=rss"
         }
       ]
     }
