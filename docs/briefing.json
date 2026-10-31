@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-30T02:41:16.784936+00:00",
-  "datum": "Freitag, 30. Oktober 2026",
+  "generated_at": "2026-10-31T02:30:57.008773+00:00",
+  "datum": "Samstag, 31. Oktober 2026",
   "ressorts": [
     {
       "id": "politik",
@@ -9,36 +9,36 @@
       "stories": [
         {
           "id": "politik-0",
-          "titel": "Xi verschärft Säuberungen: Rekordzahl an Parteiausschlüssen",
-          "zusammenfassung": "Beim jüngsten Parteitreffen in China hat Xi Jinping eine beispiellose Welle von Säuberungen angeordnet und dabei besonders die Stärkung der Parteidisziplin betont. Beobachter sehen darin weniger eine echte Antikorruptionskampagne als vielmehr ein Instrument zur Festigung seiner persönlichen Machtstellung.",
-          "bedeutung": "Die innenpolitische Konsolidierung Xis hat unmittelbare Folgen für Chinas außenpolitischen Kurs und die globale wirtschaftliche Stabilität.",
-          "hintergrund": "Xi Jinping nutzt die unter dem Banner der Korruptionsbekämpfung laufenden Säuberungen systematisch, um potenzielle Rivalen innerhalb der Kommunistischen Partei auszuschalten. Die Zahl der betroffenen Funktionäre hat in dieser Runde alle bisherigen Rekorde übertroffen.\n\nInternationale Chinaexperten warnen, dass eine derart zentralisierte Macht die Entscheidungsfindung in Peking zunehmend unberechenbar mache – mit Folgen für Handelsbeziehungen, Taiwanpolitik und globale Sicherheitsarchitektur.",
-          "tag": "China-Politik",
-          "emoji": "🇨🇳",
+          "titel": "USA liefern 500 Patriot-Raketen an die Ukraine",
+          "zusammenfassung": "Washington hat den Verkauf von 500 Patriot-Abfangraketen an Kiew genehmigt. Die Waffen gelten als einziges wirksames Mittel gegen russische ballistische Raketen.",
+          "bedeutung": "Die Lieferung stärkt die ukrainische Luftverteidigung erheblich und signalisiert eine anhaltende amerikanische Unterstützung trotz innenpolitischer Debatten in den USA.",
+          "hintergrund": "Die Patriot-Raketen sind bislang das einzige westliche Waffensystem, das russische ballistische Raketen zuverlässig abschießen kann. Kiew hatte seit Monaten dringend um Nachschub gebeten, da die vorhandenen Bestände durch den intensiven Einsatz rapide geschwunden waren.\n\nDie Entscheidung fällt in eine Phase wachsender russischer Raketenangriffe auf ukrainische Städte und Infrastruktur. Militärexperten sehen die Genehmigung als eines der bedeutendsten US-Rüstungspakete seit Kriegsbeginn.",
+          "tag": "Ukraine-Krieg",
+          "emoji": "🛡️",
           "quelle": "BBC",
-          "quelle_url": "https://www.bbc.co.uk/news/articles/cq5ynw94k7kzo?at_medium=RSS&at_campaign=rss"
+          "quelle_url": "https://www.bbc.co.uk/news/articles/c3vgxznlx7jzo?at_medium=RSS&at_campaign=rss"
         },
         {
           "id": "politik-1",
-          "titel": "Russischer Drohnenangriff auf Dnipro tötet mindestens 14",
-          "zusammenfassung": "Ein russischer Drohnenangriff hat einen belebten Bahnhof in der zentralukrainischen Stadt Dnipro getroffen und mindestens 14 Menschen das Leben gekostet. Unter den zahlreichen Verletzten befindet sich auch ein elfjähriges Kind.",
-          "bedeutung": "Der gezielte Angriff auf zivile Infrastruktur unterstreicht Russlands fortgesetzte Strategie, ukrainische Städte abseits der Frontlinie zu destabilisieren.",
-          "hintergrund": "Bahnhöfe gelten in der Ukraine als lebenswichtige Knotenpunkte für die Evakuierung von Zivilisten und den Transport militärischer Güter. Angriffe auf sie treffen damit sowohl die humanitäre Versorgung als auch die Logistik der ukrainischen Streitkräfte.\n\nDer Anschlag ereignete sich in einem Moment, in dem andernorts – etwa in Cherson – ein temporärer Waffenstillstand brüchige Hoffnungen auf Ruhe geweckt hatte, was die widersprüchliche Dynamik des Konflikts deutlich macht.",
-          "tag": "Ukraine-Krieg",
-          "emoji": "💥",
+          "titel": "Globaler Naturpakt beschlossen – Finanzierung weiter offen",
+          "zusammenfassung": "Bei internationalen Naturschutzverhandlungen haben sich die Teilnehmerstaaten auf ein Abkommen zur Eindämmung des weltweiten Artenverlusts geeinigt. Die entscheidende Frage der Finanzierung bleibt jedoch ungeklärt.",
+          "bedeutung": "Ein verbindliches globales Abkommen zum Schutz der Natur ist essenziell, um den beschleunigten Verlust von Ökosystemen zu stoppen – doch ohne gesicherte Mittel droht es ein weiteres Papierversprechen zu bleiben.",
+          "hintergrund": "Seit dem historischen Rahmenabkommen von Kunming-Montreal 2022 ringen die Staaten darum, konkrete Mechanismen zur Umsetzung zu schaffen. Entwicklungsländer fordern von reichen Nationen deutlich mehr Geld für Schutzmaßnahmen, was die Verhandlungen immer wieder blockiert hat.\n\nDer jetzt erzielte Kompromiss wird von Umweltorganisationen als Fortschritt, aber nicht als Durchbruch gewertet. Kritiker warnen, dass ohne verbindliche Finanzzusagen die ambitionierten Ziele zur Wiederherstellung von 30 Prozent der weltweiten Ökosysteme bis 2030 unerreichbar bleiben.",
+          "tag": "Naturschutz",
+          "emoji": "🌿",
           "quelle": "BBC",
-          "quelle_url": "https://www.bbc.co.uk/news/articles/c9p8gdlz1p2ko?at_medium=RSS&at_campaign=rss"
+          "quelle_url": "https://www.bbc.co.uk/news/articles/cw1l32qyj8pqo?at_medium=RSS&at_campaign=rss"
         },
         {
           "id": "politik-2",
-          "titel": "Netanyahu beschuldigt Opposition nach Wahlniederlage des Betrugs",
-          "zusammenfassung": "Nach dem Verlust der parlamentarischen Mehrheit wirft Netanyahus Likud-Partei arabischstämmigen Parteien vor, die Wahl manipuliert zu haben, und behauptet ausländische Einmischung. Die israelische Opposition reagiert mit dem Vorwurf, der Premier versuche das Wahlergebnis systematisch zu delegitimieren.",
-          "bedeutung": "Israels innenpolitische Zerreißprobe nach der Wahl gefährdet die Stabilität einer ohnehin angespannten Region und könnte die Regierungsbildung auf Monate blockieren.",
-          "hintergrund": "Israel befindet sich in einer tiefen politischen Krise: Die Wahlen fanden in einem Land statt, das seit Jahren von juristischen Auseinandersetzungen um Netanyahus Person und von gesellschaftlichen Spaltungen geprägt ist. Ein Angriff auf die Legitimität des Ergebnisses könnte demokratische Institutionen nachhaltig beschädigen.\n\nInternationale Beobachter und westliche Verbündete verfolgen die Entwicklung mit Sorge, da ein destabilisiertes Israel die gesamte nahöstliche Sicherheitsarchitektur beeinflusst.",
-          "tag": "Israel-Wahl",
-          "emoji": "🗳️",
+          "titel": "G20-Familienfoto abgesagt wegen russischem Minister",
+          "zusammenfassung": "Das traditionelle Gruppenfoto des G20-Außenministertreffens wurde abgesagt, nachdem mehrere westliche Delegationen gegen die Anwesenheit des russischen Außenministers protestierten. Der britische Außenminister konfrontierte seinen russischen Kollegen direkt mit Vorwürfen ziviler Kriegsverbrechen.",
+          "bedeutung": "Der Vorfall verdeutlicht, wie tief gespalten die G20 in der Ukraine-Frage ist, und zeigt die anhaltende diplomatische Isolation Russlands im westlich geprägten Multilateralismus.",
+          "hintergrund": "Das gemeinsame Foto gilt als Symbol der Einigkeit und Arbeitsfähigkeit des Formats – sein Ausfall ist ein seltenes und öffentlich wirksames Zeichen des Bruchs. Bereits frühere G20-Treffen waren durch den Ukraine-Konflikt belastet worden, doch ein Abbruch des Protokolls dieser Art ist ungewöhnlich.\n\nGroßbritanniens Außenminister Ed Miliband nutzte das Treffen für eine direkte Konfrontation mit dem russischen Ressortchef. Moskau wies die Vorwürfe erwartungsgemäß zurück. Das Ereignis unterstreicht die zunehmende Schwierigkeit, Russland in multilateralen Formaten einzubinden, ohne diplomatische Glaubwürdigkeit zu riskieren.",
+          "tag": "Diplomatie",
+          "emoji": "🌐",
           "quelle": "BBC",
-          "quelle_url": "https://www.bbc.co.uk/news/articles/ckdd8qdl9e0eo?at_medium=RSS&at_campaign=rss"
+          "quelle_url": "https://www.bbc.co.uk/news/articles/cmd6dp2y576do?at_medium=RSS&at_campaign=rss"
         }
       ]
     },
@@ -49,36 +49,36 @@
       "stories": [
         {
           "id": "wirtschaft-0",
-          "titel": "Google verliert 500 Milliarden: KI schadet eigenem Werbegeschäft",
-          "zusammenfassung": "Der Technologieriese Alphabet hat eingestanden, dass die KI-gestützten Suchzusammenfassungen die Werbeeinnahmen spürbar belasten, woraufhin der Aktienkurs auf ein Sechsmonatstief abstürzte. Der Kursverfall vernichtete Börsenwert in Höhe von rund 500 Milliarden US-Dollar.",
-          "bedeutung": "Der Fall zeigt exemplarisch das strukturelle Dilemma der großen Technologiekonzerne: Ihre KI-Investitionen untergraben das klassische Geschäftsmodell, das sie finanziert.",
-          "hintergrund": "Googles Kerngeschäft basiert seit Jahrzehnten auf Suchanzeigen – einem Modell, das funktioniert, weil Nutzer auf Links klicken. Liefert die KI jedoch fertige Antworten direkt in der Suche, sinken Klickzahlen und damit Werbeeinnahmen erheblich.\n\nDie Branche beobachtet Googles Dilemma genau, denn ähnliche Fragen stellen sich für alle Plattformen, die auf KI setzen. Analysten sprechen von einem möglicherweise strukturellen Wandel im digitalen Werbemarkt.",
-          "tag": "KI & Werbung",
-          "emoji": "📉",
+          "titel": "Google verliert 500 Mrd. Dollar – KI frisst Werbeeinnahmen",
+          "zusammenfassung": "Der Börsenwert von Alphabet ist um rund 500 Milliarden Dollar eingebrochen, nachdem Google eingestanden hatte, dass die eigene KI-Suchfunktion das Anzeigengeschäft beeinträchtigt. Die Aktie fiel auf ein Sechsmonatstief.",
+          "bedeutung": "Der Einbruch zeigt das strukturelle Dilemma der großen Plattformkonzerne: Eigene KI-Produkte kannibalisieren das Kerngeschäft, auf dem ihr gesamtes Geschäftsmodell beruht.",
+          "hintergrund": "Google hatte jahrzehntelang mit bezahlten Suchanzeigen seinen dominanten Umsatz generiert. Nun zeigt sich, dass die KI-gestützten Zusammenfassungen in den Suchergebnissen dazu führen, dass Nutzer seltener auf Werbeanzeigen klicken, weil sie Antworten direkt auf der Ergebnisseite erhalten.\n\nInvestoren reagierten mit Panikverkäufen, da das Werbegeschäft bislang als stabiles Fundament des Konzerns galt. Analysten sehen darin einen Wendepunkt für die gesamte digitale Werbeindustrie: Nicht nur Google, auch Meta und andere werbefinanzierte Plattformen könnten langfristig unter dem Wandel durch generative KI leiden.",
+          "tag": "Tech & KI",
+          "emoji": "🤖",
           "quelle": "BBC",
           "quelle_url": "https://www.bbc.co.uk/news/articles/cm9qzdqpxy48o?at_medium=RSS&at_campaign=rss"
         },
         {
           "id": "wirtschaft-1",
-          "titel": "Fed hält Zinsen stabil: US-Wirtschaft wächst überraschend stark",
-          "zusammenfassung": "Die US-Notenbank Federal Reserve hat ihren Leitzins unverändert gelassen, während die amerikanische Wirtschaft im dritten Quartal mit 3,4 Prozent deutlich stärker als erwartet gewachsen ist. Gleichzeitig stiegen die Preise im September schneller als prognostiziert, was die geldpolitische Lage verkompliziert.",
-          "bedeutung": "Das robuste Wachstum bei gleichzeitig anziehender Inflation erhöht den Druck auf die Fed und hat weitreichende Konsequenzen für Kreditmärkte und Verbraucher weltweit.",
-          "hintergrund": "Fed-Chef Kevin Warsh signalisierte eine eher restriktive Haltung und ließ offen, ob weitere Zinserhöhungen folgen könnten – abhängig von der weiteren Datenlage. Die Kombination aus starkem Wachstum und hartnäckiger Inflation macht eine einfache geldpolitische Kurskorrektur schwierig.\n\nUS-Finanzminister Bessent äußerte, eine erneute Zinserhöhung sei nicht zwingend ein Fehler, was die Markterwartungen weiter verunsichert und den Dollar unter Aufwärtsdruck setzt.",
-          "tag": "US-Konjunktur",
-          "emoji": "🏦",
+          "titel": "Binance-Hack: 6,3 Mrd. Dollar – Nordkorea im Verdacht",
+          "zusammenfassung": "Die Kryptobörse Binance ist Opfer eines massiven Cyberangriffs geworden, bei dem umgerechnet rund 6,3 Milliarden Dollar erbeutet wurden. Zwei Analysefirmen machen die nordkoreanische Hackergruppe TraderTraitor verantwortlich.",
+          "bedeutung": "Sollte sich der Nordkorea-Verdacht bestätigen, wäre es der größte Kryptohack der Geschichte und ein Beweis dafür, wie staatlich gesteuerte Cyberkriminalität zur Umgehung internationaler Sanktionen eingesetzt wird.",
+          "hintergrund": "Nordkorea gilt seit Jahren als führender staatlicher Akteur in der Welt der Cyberkriminalität. Durch den Diebstahl von Kryptowährungen soll das Regime Milliarden für sein Raketen- und Nuklearprogramm finanzieren, abseits des internationalen Finanzsystems.\n\nBinance beschreibt den Angriff als außergewöhnlich komplex und koordiniert. Der Vorfall wirft erneut Fragen nach der Sicherheit zentralisierter Kryptoplattformen auf und dürfte regulatorischen Druck auf die gesamte Branche erhöhen.",
+          "tag": "Cyberkriminalität",
+          "emoji": "💻",
           "quelle": "BBC",
-          "quelle_url": "https://www.bbc.co.uk/news/articles/cr15jxzv4w24o?at_medium=RSS&at_campaign=rss"
+          "quelle_url": "https://www.bbc.co.uk/news/articles/cwg7xp8kx4v5o?at_medium=RSS&at_campaign=rss"
         },
         {
           "id": "wirtschaft-2",
-          "titel": "DoorDash kauft Instacart für 17 Milliarden Dollar",
-          "zusammenfassung": "Der US-Lieferdienst DoorDash übernimmt den Lebensmittellieferanten Instacart in einem 17-Milliarden-Dollar-Deal und schafft damit eine der mächtigsten Liefer-Plattformen Nordamerikas. Kunden sollen künftig über eine kombinierte Plattform Zugang zu 150.000 Geschäften erhalten.",
-          "bedeutung": "Die Megafusion verändert die Wettbewerbslandschaft im boomenden Liefermarkt grundlegend und dürfte Regulierungsbehörden auf beiden Seiten des Atlantiks auf den Plan rufen.",
-          "hintergrund": "Beide Unternehmen stehen unter anhaltendem Druck, nach der pandemiebedingten Hochphase profitabel zu werden. Die Fusion soll Skaleneffekte schaffen und die Marktposition gegenüber Konkurrenten wie Uber Eats stärken.\n\nKritiker warnen vor einer weiteren Konzentration im Plattformsektor und erwarten eine eingehende kartellrechtliche Prüfung durch die US-Wettbewerbsbehörde FTC.",
-          "tag": "Tech-Fusion",
-          "emoji": "🛒",
+          "titel": "Britisches Budget: Klein, kalkuliert – und umstritten",
+          "zusammenfassung": "Schatzkanzler John Healey hat ein Haushaltspaket vorgelegt, das auf kleinteilige Maßnahmen setzt statt auf strukturelle Reformen. Kritiker sehen darin das Verfehlen eines ambitionierten wirtschaftlichen Neuanfangs.",
+          "bedeutung": "Großbritannien steht unter Druck, Produktivität und Wachstum anzukurbeln – ein bewusst zurückhaltendes Budget signalisiert fiskalische Vorsicht, könnte aber das Vertrauen in die Wirtschaftspolitik der Regierung schwächen.",
+          "hintergrund": "Die Labour-Regierung hatte vollmundig ein neues Wirtschaftsmodell für Großbritannien versprochen. Das nun vorgelegte Budget bleibt nach Einschätzung von Ökonomen weit hinter diesen Ankündigungen zurück und setzt vor allem auf kleinteilige Steueranreize und marginale Ausgabenerhöhungen.\n\nDie Zurückhaltung ist laut Beobachtern kalkuliert: Die Regierung will keine Schuldenschnitte riskieren und hält sich Spielraum für spätere, politisch wirksamere Ankündigungen offen. Ob diese Strategie aufgeht, hängt stark davon ab, wie sich die britische Konjunktur in den kommenden Quartalen entwickelt.",
+          "tag": "Fiskalpolitik",
+          "emoji": "💷",
           "quelle": "BBC",
-          "quelle_url": "https://www.bbc.co.uk/news/articles/cm79pjg2l57yo?at_medium=RSS&at_campaign=rss"
+          "quelle_url": "https://www.bbc.co.uk/news/articles/cwx283zynnv3o?at_medium=RSS&at_campaign=rss"
         }
       ]
     },
@@ -89,36 +89,36 @@
       "stories": [
         {
           "id": "boerse-0",
-          "titel": "EZB hält Zinsen bei 2,5 Prozent – Dezemberhike wahrscheinlich",
-          "zusammenfassung": "Die Europäische Zentralbank ließ ihren Leitzins auf der Oktober-Sitzung bei 2,5 Prozent unverändert, sendete aber restriktive Signale, die Märkte als hawkishe Pause interpretierten. Händler preisen mittlerweile eine Wahrscheinlichkeit von 67 Prozent für eine Zinserhöhung im Dezember ein.",
-          "bedeutung": "Die veränderten Markterwartungen erhöhen den Finanzierungsdruck für Unternehmen und Staaten in der Eurozone und belasten die ohnehin schwache Konjunktur in Deutschland und Frankreich.",
-          "hintergrund": "Die EZB steht vor einem schwierigen Balanceakt: Die Inflation im Euroraum bleibt hartnäckiger als erhofft, während die Konjunktur in wichtigen Mitgliedstaaten stagniert. Eine weitere Zinserhöhung würde die Kreditkosten weiter in die Höhe treiben.\n\nZusätzlich sorgt die angekündigte Amtsniederlegung von EZB-Präsidentin Christine Lagarde im Februar für Unsicherheit an den Märkten, da die Nachfolgediskussion die geldpolitische Orientierung der Bank beeinflussen könnte.",
-          "tag": "EZB-Zinsen",
-          "emoji": "🏛️",
+          "titel": "US-Wirtschaft wächst 3,4 % – Inflation zieht an",
+          "zusammenfassung": "Die amerikanische Wirtschaft ist im dritten Quartal stärker als erwartet um 3,4 Prozent gewachsen. Gleichzeitig beschleunigte sich die Inflation im September auf eine Jahresrate von 3,7 Prozent.",
+          "bedeutung": "Das robuste Wachstum bei gleichzeitig steigender Inflation erhöht den Druck auf die US-Notenbank Federal Reserve und nährt Erwartungen, dass Zinssenkungen vorerst ausbleiben.",
+          "hintergrund": "Die US-Konjunktur zeigt sich trotz hoher Zinsen erstaunlich widerstandsfähig, getragen von starkem Konsum und einem robusten Arbeitsmarkt. Doch die wieder anziehende Inflation trübt das Bild erheblich und stellt die Fed vor ein schwieriges Abwägungsproblem.\n\nMärkte preisen nach den Daten weniger Zinssenkungen für 2027 ein als noch vor wenigen Wochen. Fed-Chef Kevin Warsh hatte zuletzt signalisiert, im Zweifel eher an höheren Zinsen festzuhalten – die aktuellen Zahlen dürften diese Haltung bekräftigen.",
+          "tag": "US-Konjunktur",
+          "emoji": "📈",
+          "quelle": "CNBC",
+          "quelle_url": "https://www.cnbc.com/2026/10/29/pce-inflation-report-september-2026-.html"
+        },
+        {
+          "id": "boerse-1",
+          "titel": "EZB hält Zinsen – Märkte rechnen mit Dezember-Erhöhung",
+          "zusammenfassung": "Die Europäische Zentralbank hat ihren Leitzins unverändert bei 2,5 Prozent belassen. Märkte interpretierten die Entscheidung als hawkishe Pause und preisen eine Wahrscheinlichkeit von 67 Prozent für eine Zinserhöhung im Dezember ein.",
+          "bedeutung": "Die EZB-Entscheidung beeinflusst Kreditkosten für Millionen Haushalte und Unternehmen in der Eurozone und gibt den Ton für die Finanzierungsbedingungen im gesamten Euroraum vor.",
+          "hintergrund": "Die EZB hatte ihren Zinssenkungszyklus früher als erwartet gestoppt, da die Inflation im Euroraum hartnäckiger als erhofft bleibt. Besonders Dienstleistungspreise und Lohnwachstum bereiten den Währungshütern Sorgen.\n\nHinzu kommt die offene Nachfolgefrage: EZB-Präsidentin Christine Lagarde hat ihren vorzeitigen Rückzug zum 7. Februar 2027 angekündigt. Die Diskussion über ihre Nachfolge und die damit verbundene künftige geldpolitische Ausrichtung sorgt für zusätzliche Unsicherheit an den Märkten.",
+          "tag": "Geldpolitik",
+          "emoji": "🏦",
           "quelle": "CNBC",
           "quelle_url": "https://www.cnbc.com/2026/10/29/european-central-bank-interest-rates.html"
         },
         {
-          "id": "boerse-1",
-          "titel": "Lagarde kündigt EZB-Rücktritt an: Wer folgt nach?",
-          "zusammenfassung": "EZB-Präsidentin Christine Lagarde hat angekündigt, ihr Amt am 7. Februar niederzulegen, und löst damit intensive Spekulationen über ihre Nachfolge aus. Die politische Dimension der Personenfrage könnte die geldpolitische Ausrichtung der Eurozone für die kommenden Jahre prägen.",
-          "bedeutung": "Die Besetzung der EZB-Spitze ist eine hochpolitische Entscheidung, die unmittelbare Auswirkungen auf Euro-Kurs, Staatsanleiherenditen und Wachstumsperspektiven der gesamten Eurozone hat.",
-          "hintergrund": "Als mögliche Nachfolger werden Kandidaten aus Deutschland, Frankreich und anderen großen Mitgliedstaaten gehandelt, wobei die Diskussion über eine eher zurückhaltende oder weiterhin restriktive Geldpolitik im Zentrum steht. Deutschland drängt traditionell auf Kandidaten, die der Preisstabilität Vorrang einräumen.\n\nDer Zeitpunkt ist heikel: Eine unklare Führung an der EZB-Spitze fällt zusammen mit einer unsicheren Konjunkturlage und steigenden Inflationserwartungen, was Märkte und Investoren verunsichert.",
-          "tag": "EZB-Nachfolge",
-          "emoji": "🔑",
+          "id": "boerse-2",
+          "titel": "Lagarde tritt früh ab – EZB-Nachfolge wird zur Machtfrage",
+          "zusammenfassung": "EZB-Präsidentin Christine Lagarde hat ihren Rücktritt für den 7. Februar 2027 angekündigt und verlässt ihr Amt damit vor dem regulären Ende ihrer Amtszeit. Die Suche nach einer Nachfolge entwickelt sich bereits zur politischen Debatte.",
+          "bedeutung": "Die Führungsfrage bei der mächtigsten Zentralbank Europas entscheidet mit über die künftige Geldpolitik der Eurozone und berührt zentrale Interessen von Mitgliedsstaaten wie Deutschland, Frankreich und Italien.",
+          "hintergrund": "Lagardes früher Abgang überraschte Finanzmärkte und politische Hauptstädte gleichermaßen. Als mögliche Nachfolger werden hochrangige Notenbanker aus Deutschland, Frankreich und den Niederlanden gehandelt – ihre jeweilige geldpolitische Prägung könnte die EZB-Strategie erheblich verschieben.\n\nBesonders die Frage, ob ein eher restriktiver oder expansiver Kurs eingeschlagen wird, ist politisch brisant. Deutschland drängt traditionell auf Haushaltsdisziplin und Inflationsbekämpfung, während südeuropäische Länder eher auf Wachstumsförderung setzen. Das Rennen um die EZB-Spitze dürfte die europäische Wirtschaftspolitik der kommenden Jahre prägen.",
+          "tag": "EZB-Führung",
+          "emoji": "🇪🇺",
           "quelle": "CNBC",
           "quelle_url": "https://www.cnbc.com/2026/10/29/lagarde-ecb-stand-down.html"
-        },
-        {
-          "id": "boerse-2",
-          "titel": "Mutmaßlicher Binance-Hack legt Krypto-Werte in Milliardenhöhe lahm",
-          "zusammenfassung": "Nach einem offenbar massiven Hackerangriff auf die weltgrößte Kryptobörse Binance wurden Vermögenswerte in Milliardenhöhe eingefroren. Experten aus der Branche schätzen den möglicherweise entwendeten Betrag auf über fünf Milliarden US-Dollar.",
-          "bedeutung": "Ein Angriff dieser Größenordnung erschüttert das ohnehin fragile Vertrauen in die Sicherheit zentralisierter Kryptobörsen und könnte regulatorischen Druck weltweit massiv verstärken.",
-          "hintergrund": "Binance wickelt täglich Transaktionen im Milliardenbereich ab und ist damit ein systemrelevanter Akteur im globalen Kryptomarkt. Ein bestätigter Hack in dieser Größenordnung wäre einer der folgenreichsten in der Geschichte digitaler Währungen.\n\nDas Unternehmen hielt sich zunächst bedeckt und machte keine offiziellen Angaben zur Schadenshöhe. Die Unsicherheit trieb viele Kryptowährungen auf Talfahrt und ließ Forderungen nach strengerer internationaler Regulierung laut werden.",
-          "tag": "Krypto-Hack",
-          "emoji": "🔓",
-          "quelle": "BBC",
-          "quelle_url": "https://www.bbc.co.uk/news/articles/cwg7xp8kx4v5o?at_medium=RSS&at_campaign=rss"
         }
       ]
     }
