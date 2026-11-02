@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-01T02:19:24.746937+00:00",
-  "datum": "Sonntag, 1. November 2026",
+  "generated_at": "2026-11-02T02:35:50.853160+00:00",
+  "datum": "Montag, 2. November 2026",
   "ressorts": [
     {
       "id": "politik",
@@ -9,36 +9,36 @@
       "stories": [
         {
           "id": "politik-0",
-          "titel": "Ebola-Ausbruch im Kongo: Über 5.000 Tote",
-          "zusammenfassung": "Der schlimmste Ebola-Ausbruch in der Geschichte der Demokratischen Republik Kongo hat mehr als 5.000 Menschenleben gefordert. Insgesamt haben sich nach Regierungsangaben über 10.000 Menschen mit dem Virus infiziert.",
-          "bedeutung": "Der verheerende Ausbruch übertrifft alle früheren Ebola-Epidemien im Land und alarmiert die internationale Gesundheitsgemeinschaft.",
-          "hintergrund": "Die DR Kongo kämpft seit Monaten mit dem schwersten Ebola-Ausbruch ihrer Geschichte. Die Ausbreitung wird durch anhaltende Konflikte, unzureichende Gesundheitsinfrastruktur und schwierige Zugangsbedingungen in betroffenen Regionen massiv erschwert.\n\nInternationale Hilfsorganisationen und die Weltgesundheitsorganisation haben ihre Unterstützung ausgeweitet, warnen jedoch, dass ohne eine deutliche Verbesserung der Sicherheitslage und der Versorgungsketten eine vollständige Eindämmung des Virus kaum möglich sein wird.",
-          "tag": "Ebola-Krise",
-          "emoji": "🦠",
+          "titel": "Russische Angriffe treffen Ukraine nach Ende des Waffenstillstands",
+          "zusammenfassung": "Nach dem Ende eines humanitären Waffenstillstands in Cherson haben russische Streitkräfte erneut die ukrainische Energieinfrastruktur beschossen und Tausende Menschen ohne Strom gelassen. Die kurze Feuerpause hatte zuvor die Evakuierung von Zivilisten aus der besetzten Stadt Oleschky ermöglicht.",
+          "bedeutung": "Der Angriff auf zivile Infrastruktur im beginnenden Winter verschärft die humanitäre Lage in der Ukraine erheblich und zeigt die Grenzen lokaler Waffenstillstandsvereinbarungen.",
+          "hintergrund": "Der seltene humanitäre Waffenstillstand in der Region Cherson galt als zaghafte diplomatische Geste, um der Zivilbevölkerung in der russisch besetzten Stadt Oleschky die Flucht zu ermöglichen. Kaum war er abgelaufen, intensivierten russische Streitkräfte ihre Angriffe auf Strom- und Wärmeversorgungsanlagen.\n\nMit dem nahenden Winter gewinnt die gezielte Zerstörung von Energieinfrastruktur strategische Bedeutung: Millionen Ukrainer sind auf funktionierende Heizungen angewiesen. Internationale Hilfsorganisationen warnen vor einer dramatischen Verschlechterung der Lebensbedingungen in den betroffenen Gebieten.",
+          "tag": "Ukraine-Krieg",
+          "emoji": "🔌",
           "quelle": "BBC",
-          "quelle_url": "https://www.bbc.co.uk/news/articles/cj5ynryyep2yo?at_medium=RSS&at_campaign=rss"
+          "quelle_url": "https://www.bbc.co.uk/news/articles/c64g1y90p71eo?at_medium=RSS&at_campaign=rss"
         },
         {
           "id": "politik-1",
-          "titel": "Europaweit Proteste gegen Lebenshaltungskosten und schlechten Service",
-          "zusammenfassung": "In Frankreich gingen mehr als 320.000 Menschen auf die Straße, um gegen steigende Lebenshaltungskosten und den Verfall öffentlicher Dienstleistungen zu protestieren. Die Demonstrationen weiteten sich auf mehrere europäische Länder aus, teils begleitet von Auseinandersetzungen mit der Polizei.",
-          "bedeutung": "Die Proteste verdeutlichen eine wachsende gesellschaftliche Unzufriedenheit in ganz Europa, die zunehmend politischen Druck auf Regierungen ausübt.",
-          "hintergrund": "Die Demonstrationen in Frankreich gehören zu den größten des Landes seit Jahren. Neben der Kaufkraftkrise beklagen die Teilnehmer den spürbaren Abbau öffentlicher Dienstleistungen in Bereichen wie Gesundheit, Bildung und Verkehr.\n\nDie europaweite Dimension der Proteste zeigt, dass die wirtschaftlichen Belastungen der vergangenen Jahre – von Energiekrise bis Inflation – das Vertrauen vieler Bürgerinnen und Bürger in staatliche Institutionen nachhaltig erschüttert haben.",
-          "tag": "Sozialproteste",
-          "emoji": "✊",
+          "titel": "Warn-Apps in Ukraine und Russland gleichzeitig gehackt",
+          "zusammenfassung": "Die ukrainische Luftalarm-App wurde offenbar von Angreifern kompromittiert und sendete falsche Strahlungswarnungen an die Bevölkerung. Wenig später meldeten russische Behörden, dass auch ihre eigene Warn-App mit gefälschten Alarmen manipuliert worden sei.",
+          "bedeutung": "Angriffe auf staatliche Notfallkommunikation können Panik auslösen, das Vertrauen in Warnsysteme untergraben und im Kriegskontext gezielt zur Desinformation eingesetzt werden.",
+          "hintergrund": "Digitale Warnsysteme sind in Konfliktgebieten lebensrettende Infrastruktur. Werden sie durch Hacking-Angriffe für Falschmeldungen missbraucht, riskieren Behörden einen dauerhaften Vertrauensverlust in der Bevölkerung – mit potenziell fatalen Folgen, wenn echte Warnungen ignoriert werden.\n\nDass beide Seiten des Konflikts nahezu zeitgleich von solchen Angriffen betroffen waren, wirft Fragen über die Herkunft und Koordination der Angriffe auf. Experten für Cybersicherheit sehen darin ein Muster gezielter Informationskriegsführung, bei der die Verunsicherung der Zivilbevölkerung als Waffe eingesetzt wird.",
+          "tag": "Cyberangriff",
+          "emoji": "📡",
           "quelle": "BBC",
-          "quelle_url": "https://www.bbc.co.uk/news/videos/ck0j0y87j303o?at_medium=RSS&at_campaign=rss"
+          "quelle_url": "https://www.bbc.co.uk/news/articles/c51kdy1ew7zvo?at_medium=RSS&at_campaign=rss"
         },
         {
           "id": "politik-2",
-          "titel": "Autoritäre Dominosteine: Nach Orbán fällt auch Vučić",
-          "zusammenfassung": "Serbiens langjähriger Präsident Aleksandar Vučić hat bei der Parlamentswahl die Mehrheit verloren – ein Ergebnis, das frappierend an den Sturz von Ungarns Viktor Orbán erinnert. Beide Machtverluste folgten einem ähnlichen Muster aus wachsendem Protest, Wahlmobilisierung und dem Zerbrechen langjähriger Koalitionen.",
-          "bedeutung": "Der Wandel in Serbien signalisiert eine mögliche Trendwende für autoritär regierte Staaten in Mittel- und Südosteuropa.",
-          "hintergrund": "Vučić hatte Serbien über mehr als ein Jahrzehnt mit zunehmend autokratischen Mitteln regiert, Medien kontrolliert und politische Gegner unter Druck gesetzt. Der Wahlausgang überraschte viele Beobachter, nachdem jahrelange Massenproteste scheinbar keine nachhaltige Wirkung gezeigt hatten.\n\nDer Vergleich mit Orbáns Fall in Ungarn wirft grundsätzliche Fragen auf: Erleben populistische Bewegungen in Europa gerade einen strukturellen Rückgang, oder handelt es sich um einzelne politische Zäsuren ohne übergreifenden Zusammenhang? Die Entwicklungen in beiden Ländern dürften die Debatte über Demokratie und Rechtsstaatlichkeit in der EU neu befeuern.",
-          "tag": "Demokratiewandel",
-          "emoji": "🗳️",
+          "titel": "Kostenkrisen-Proteste in Deutschland werden gewalttätig",
+          "zusammenfassung": "In mehreren deutschen Großstädten, darunter Berlin, Hamburg und Frankfurt, eskalierten Demonstrationen gegen die steigenden Lebenshaltungskosten in Ausschreitungen und Plünderungen. Die Unruhen fallen zeitlich mit ähnlich großen Protesten in Frankreich zusammen, wo ebenfalls Hunderttausende auf die Straße gingen.",
+          "bedeutung": "Gleichzeitige soziale Unruhen in zwei der größten Volkswirtschaften Europas signalisieren wachsenden gesellschaftlichen Druck auf Regierungen, die wirtschaftliche Belastung der Bevölkerung wirksamer zu bekämpfen.",
+          "hintergrund": "Die Inflation und explodierenden Energiepreise belasten Haushalte in ganz Europa seit Monaten in einem historischen Ausmaß. Während Regierungen mit Entlastungspaketen reagiert haben, empfinden viele Bürger diese Maßnahmen als unzureichend – Frustration, die sich nun auf den Straßen entlädt.\n\nDie Gleichzeitigkeit der Proteste in Deutschland und Frankreich ist politisch brisant: Sie zeigt, dass die Unzufriedenheit kein nationales Einzelphänomen ist, sondern eine gesamteuropäische Dimension erreicht hat. Für die Regierungen in Berlin und Paris erhöht das den Druck, koordinierte und spürbare Antworten zu liefern.",
+          "tag": "Soziale Unruhen",
+          "emoji": "🔥",
           "quelle": "BBC",
-          "quelle_url": "https://www.bbc.co.uk/news/articles/c893z699q401o?at_medium=RSS&at_campaign=rss"
+          "quelle_url": "https://www.bbc.co.uk/news/articles/cqj34gnd3n30o?at_medium=RSS&at_campaign=rss"
         }
       ]
     },
@@ -49,36 +49,36 @@
       "stories": [
         {
           "id": "wirtschaft-0",
-          "titel": "Google-Aktie stürzt: KI-Suche schadet Werbeeinnahmen",
-          "zusammenfassung": "Der Technologieriese Google hat Investoren mit der Offenbarung erschreckt, dass die eigenen KI-generierten Suchantworten das Werbegeschäft empfindlich treffen. Der Aktienkurs fiel auf ein Sechsmonatstief, was die Marktkapitalisierung des Konzerns um rund 500 Milliarden Dollar schrumpfen ließ.",
-          "bedeutung": "Die Entwicklung zeigt erstmals in diesem Ausmaß, dass KI nicht nur Chancen birgt, sondern das Kerngeschäft etablierter Tech-Giganten fundamental bedrohen kann.",
-          "hintergrund": "Googles Werbemodell basiert seit Jahrzehnten darauf, dass Nutzer nach einer Suche auf Links klicken – und dabei Werbeanzeigen sehen. Mit dem Ausbau KI-gestützter Suchantworten, die Informationen direkt zusammenfassen, entfallen immer mehr dieser Klicks.\n\nFür die gesamte Digitalwirtschaft hat diese Entwicklung weitreichende Konsequenzen: Werbeabhängige Plattformen, Verlage und Online-Händler müssen ihre Strategien grundlegend überdenken, wenn das klassische Suchmaschinenmodell erodiert.",
-          "tag": "KI-Disruption",
-          "emoji": "📉",
+          "titel": "Binance-Hack: Nordkorea soll hinter Milliarden-Angriff stecken",
+          "zusammenfassung": "Nach dem bislang größten Hack einer Kryptobörse mit einem Schaden von 6,3 Milliarden Dollar hat das FBI Nordkorea als Verantwortlichen identifiziert. Die Börse Binance übernimmt nach eigenen Angaben rund 90 Prozent der entstandenen Verluste der betroffenen Nutzer.",
+          "bedeutung": "Der Angriff offenbart systemische Sicherheitslücken im globalen Kryptomarkt und bestätigt, dass staatlich gesteuerte Cyberkriminalität zur bedeutenden Einnahmequelle für sanktionierte Regime geworden ist.",
+          "hintergrund": "Nordkorea gilt Geheimdiensten und Cybersicherheitsforschern seit Jahren als einer der aktivsten staatlichen Akteure im Bereich digitaler Finanzkriminalität. Erlöse aus solchen Hacks sollen zur Umgehung internationaler Sanktionen und zur Finanzierung des Rüstungsprogramms genutzt werden.\n\nFür die Kryptobranche ist der Vorfall ein schwerer Reputationsschaden: Obwohl Binance die meisten Verluste abfedert, haben Nutzer in der Folge Milliarden abgezogen. Regulatoren weltweit dürften den Druck auf Kryptobörsen erhöhen, robustere Sicherheitsstandards nachzuweisen.",
+          "tag": "Kryptokriminalität",
+          "emoji": "💰",
           "quelle": "BBC",
-          "quelle_url": "https://www.bbc.co.uk/news/articles/cm9qzdqpxy48o?at_medium=RSS&at_campaign=rss"
+          "quelle_url": "https://www.bbc.co.uk/news/articles/ckpdg3ql4169o?at_medium=RSS&at_campaign=rss"
         },
         {
           "id": "wirtschaft-1",
-          "titel": "Deutsche Lebenshaltungskostenproteste eskalieren in Gewalt",
-          "zusammenfassung": "In mehreren deutschen Städten, darunter Frankfurt, Berlin, Hamburg und Köln, sind Demonstrationen gegen steigende Lebenshaltungskosten in gewaltsame Ausschreitungen umgeschlagen. Geschäfte wurden geplündert und die Polizei meldete schwere Krawalle in den Innenstädten.",
-          "bedeutung": "Die Eskalation in einer der größten Volkswirtschaften der Welt zeigt, wie stark die anhaltende Kaufkraftkrise den gesellschaftlichen Zusammenhalt gefährdet.",
-          "hintergrund": "Deutschland erlebt seit Monaten wachsenden sozialen Unmut über hohe Energie- und Lebensmittelpreise sowie steigende Mieten. Was zunächst als friedliche Protestbewegung begann, hat in einigen Städten eine gewaltbereite Dimension angenommen.\n\nPolitisch gerät die Bundesregierung damit unter erheblichen Druck, schnelle und konkrete Entlastungsmaßnahmen vorzulegen. Wirtschaftsverbände warnen zugleich vor den langfristigen Folgen für den Einzelhandel und die Innenstädte, die ohnehin unter dem Strukturwandel leiden.",
-          "tag": "Sozialkrise",
-          "emoji": "🔥",
+          "titel": "Virgin Media O2 streicht Tausende von Stellen",
+          "zusammenfassung": "Der britische Telekommunikationskonzern Virgin Media O2 plant einen massiven Stellenabbau, dessen genaues Ausmaß noch nicht feststeht, aber einem erheblichen Teil der Belegschaft betreffen soll. Das Unternehmen steht unter dem Druck steigender Betriebskosten und eines intensiven Wettbewerbs.",
+          "bedeutung": "Der geplante Kahlschlag bei einem der größten britischen Telekommunikationsanbieter ist ein weiteres Zeichen für den strukturellen Umbau der europäischen Tech- und Medienbranche unter dem Druck wirtschaftlicher Zwänge.",
+          "hintergrund": "Virgin Media O2 entstand 2021 aus der Fusion der Kabelnetz-Sparte von Virgin und dem Mobilfunkanbieter O2. Das fusionierte Unternehmen versprach Synergien, doch der wirtschaftliche Gegenwind durch Inflation und sinkende Konsumausgaben hat den Konsolidierungsdruck erhöht.\n\nDer Stellenabbau reiht sich in eine Welle ähnlicher Entscheidungen großer Technologie- und Telekommunikationsunternehmen weltweit ein. Für die britische Wirtschaft, die ohnehin mit schwachem Wachstum kämpft, sind solche Nachrichten ein zusätzliches Belastungssignal.",
+          "tag": "Stellenabbau",
+          "emoji": "📉",
           "quelle": "BBC",
-          "quelle_url": "https://www.bbc.co.uk/news/articles/cqj34gnd3n30o?at_medium=RSS&at_campaign=rss"
+          "quelle_url": "https://www.bbc.co.uk/news/articles/c6rry8x9d9qko?at_medium=RSS&at_campaign=rss"
         },
         {
           "id": "wirtschaft-2",
-          "titel": "KI-Boom belastet Tech-Aktien: Nasdaq auf Zweimonatstief",
-          "zusammenfassung": "Steigende Ausgaben für Künstliche Intelligenz, die sich der Marke von einer Billion Dollar nähern, haben an den Technologiebörsen zu starken Kursverlusten geführt. Der Nasdaq eröffnete auf dem niedrigsten Stand seit mehr als zwei Monaten, Intel-Aktien setzten ihren Abwärtstrend fort.",
-          "bedeutung": "Die Korrektur signalisiert, dass Investoren zunehmend hinterfragen, ob die massiven KI-Investitionen der Tech-Branche in absehbarer Zeit rentabel sein werden.",
-          "hintergrund": "Die Ausgaben für KI-Infrastruktur – von Rechenzentren über Chips bis hin zu Softwareentwicklung – haben in den vergangenen Jahren exponentiell zugenommen. Gleichzeitig bleibt der konkrete wirtschaftliche Ertrag für viele Unternehmen schwer messbar.\n\nAnalysten sprechen von einer möglichen Neubewertungsphase: Der blinde Optimismus der frühen KI-Euphorie weicht einer nüchterneren Betrachtung von Kosten, Zeitrahmen und tatsächlichem Umsatzpotenzial.",
-          "tag": "Tech-Korrektur",
-          "emoji": "💻",
-          "quelle": "BBC",
-          "quelle_url": "https://www.bbc.co.uk/news/articles/cvwy72e0n72yo?at_medium=RSS&at_campaign=rss"
+          "titel": "Trump-Plan: Geld für Eltern, die zu Hause bleiben",
+          "zusammenfassung": "Die US-Regierung unter Präsident Trump verfolgt ein Programm, das verheirateten Eltern finanzielle Anreize bieten soll, um für ihre Kinder zu Hause zu bleiben. Experten kritisieren, dass das Modell traditionelle Familienstrukturen bevorzuge und der Lebensrealität vieler Familien nicht gerecht werde.",
+          "bedeutung": "Das Programm könnte die gesellschaftliche Debatte über Familienpolitik, Erwerbstätigkeit von Frauen und staatliche Rollenvorstellungen in den USA neu entfachen und hat Signalwirkung für ähnliche politische Diskussionen weltweit.",
+          "hintergrund": "Familienpolitische Leistungen gehören zu den umstrittensten sozialpolitischen Feldern in den USA, wo ein ausgebautes staatliches Unterstützungssystem traditionell auf Widerstand stößt. Der Trump-Ansatz setzt bewusst auf das Leitbild der klassischen Einverdiener-Familie.\n\nKritiker aus dem sozialwissenschaftlichen Bereich weisen darauf hin, dass viele Familien schlicht nicht die wirtschaftliche Freiheit haben, auf ein Einkommen zu verzichten – unabhängig von ideologischen Präferenzen. Das Programm könnte daher in der Praxis vor allem obere Mittelschichtsfamilien begünstigen.",
+          "tag": "Familienpolitik",
+          "emoji": "🏠",
+          "quelle": "The Guardian",
+          "quelle_url": "https://www.theguardian.com/money/2026/oct/31/trump-married-parents-payments"
         }
       ]
     },
@@ -86,19 +86,7 @@
       "id": "boerse",
       "label": "Märkte & Börse",
       "emoji": "📈",
-      "stories": [
-        {
-          "id": "boerse-0",
-          "titel": "Eurozone wächst nur 0,4 Prozent – Frankreich schrumpft",
-          "zusammenfassung": "Das Wirtschaftswachstum der Eurozone hat im dritten Quartal lediglich 0,4 Prozent betragen und damit die Erwartungen vieler Analysten enttäuscht. Besonders auffällig: Frankreich als zweitgrößte Volkswirtschaft der Währungsunion verzeichnete sogar ein negatives Wachstum.",
-          "bedeutung": "Die schwachen Zahlen erhöhen den Druck auf die Europäische Zentralbank, ihre Geldpolitik weiter zu lockern, und dämpfen die Hoffnung auf eine rasche konjunkturelle Erholung.",
-          "hintergrund": "Trotz einer gewissen Widerstandsfähigkeit der Eurozone kämpft die Region mit strukturellen Problemen: schwache Produktivitätszuwächse, fehlende industrielle Wettbewerbsfähigkeit gegenüber den USA und China sowie ein demografischer Wandel, der das Wachstumspotenzial langfristig begrenzt.\n\nFrankreichs Kontraktion ist ein besonders beunruhigendes Signal, da das Land bereits vor der Bekanntgabe der Zahlen mit politischer Instabilität und hohen Staatsschulden zu kämpfen hatte. Marktteilnehmer beobachten nun genau, ob die EZB auf ihrer nächsten Sitzung mit weiteren Zinssenkungen reagieren wird.",
-          "tag": "Eurozone-Konjunktur",
-          "emoji": "📊",
-          "quelle": "CNBC",
-          "quelle_url": "https://www.cnbc.com/2026/10/30/euro-zone-gdp-france.html"
-        }
-      ]
+      "stories": []
     }
   ]
 }
