@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-02T02:35:50.853160+00:00",
-  "datum": "Montag, 2. November 2026",
+  "generated_at": "2026-11-03T03:58:09.925669+00:00",
+  "datum": "Dienstag, 3. November 2026",
   "ressorts": [
     {
       "id": "politik",
@@ -9,36 +9,36 @@
       "stories": [
         {
           "id": "politik-0",
-          "titel": "Russische Angriffe treffen Ukraine nach Ende des Waffenstillstands",
-          "zusammenfassung": "Nach dem Ende eines humanitären Waffenstillstands in Cherson haben russische Streitkräfte erneut die ukrainische Energieinfrastruktur beschossen und Tausende Menschen ohne Strom gelassen. Die kurze Feuerpause hatte zuvor die Evakuierung von Zivilisten aus der besetzten Stadt Oleschky ermöglicht.",
-          "bedeutung": "Der Angriff auf zivile Infrastruktur im beginnenden Winter verschärft die humanitäre Lage in der Ukraine erheblich und zeigt die Grenzen lokaler Waffenstillstandsvereinbarungen.",
-          "hintergrund": "Der seltene humanitäre Waffenstillstand in der Region Cherson galt als zaghafte diplomatische Geste, um der Zivilbevölkerung in der russisch besetzten Stadt Oleschky die Flucht zu ermöglichen. Kaum war er abgelaufen, intensivierten russische Streitkräfte ihre Angriffe auf Strom- und Wärmeversorgungsanlagen.\n\nMit dem nahenden Winter gewinnt die gezielte Zerstörung von Energieinfrastruktur strategische Bedeutung: Millionen Ukrainer sind auf funktionierende Heizungen angewiesen. Internationale Hilfsorganisationen warnen vor einer dramatischen Verschlechterung der Lebensbedingungen in den betroffenen Gebieten.",
-          "tag": "Ukraine-Krieg",
-          "emoji": "🔌",
+          "titel": "USA greifen iranische Insel vor Midterms an",
+          "zusammenfassung": "US-Streitkräfte haben Ziele auf der iranischen Insel Qeschm attackiert, kurz vor den US-Zwischenwahlen. Washington stufte die Angriffe als begrenzt und defensiv ein.",
+          "bedeutung": "Ein US-Militärangriff auf Iran unmittelbar vor den Midterm-Wahlen erhöht das Eskalationsrisiko im Nahen Osten dramatisch und dürfte globale politische Schockwellen auslösen.",
+          "hintergrund": "Die Vereinigten Staaten haben nach Angaben amerikanischer Regierungsbeamter Militärschläge gegen die iranische Insel Qeschm durchgeführt. Die Angriffe wurden offiziell als defensiver und eng begrenzter Akt dargestellt, ohne weitergehende territoriale Ambitionen.\n\nDer Zeitpunkt – einen Tag vor den Zwischenwahlen – verleiht dem Vorfall eine besondere innenpolitische Brisanz. Kritiker und Verbündete fragen gleichermaßen, ob der Schritt strategisch motiviert war, während Teheran mit Gegenmaßnahmen droht und der Ölmarkt nervös reagiert.",
+          "tag": "Naher Osten",
+          "emoji": "💥",
           "quelle": "BBC",
-          "quelle_url": "https://www.bbc.co.uk/news/articles/c64g1y90p71eo?at_medium=RSS&at_campaign=rss"
+          "quelle_url": "https://www.bbc.co.uk/news/articles/cx240mrm3g8vo?at_medium=RSS&at_campaign=rss"
         },
         {
           "id": "politik-1",
-          "titel": "Warn-Apps in Ukraine und Russland gleichzeitig gehackt",
-          "zusammenfassung": "Die ukrainische Luftalarm-App wurde offenbar von Angreifern kompromittiert und sendete falsche Strahlungswarnungen an die Bevölkerung. Wenig später meldeten russische Behörden, dass auch ihre eigene Warn-App mit gefälschten Alarmen manipuliert worden sei.",
-          "bedeutung": "Angriffe auf staatliche Notfallkommunikation können Panik auslösen, das Vertrauen in Warnsysteme untergraben und im Kriegskontext gezielt zur Desinformation eingesetzt werden.",
-          "hintergrund": "Digitale Warnsysteme sind in Konfliktgebieten lebensrettende Infrastruktur. Werden sie durch Hacking-Angriffe für Falschmeldungen missbraucht, riskieren Behörden einen dauerhaften Vertrauensverlust in der Bevölkerung – mit potenziell fatalen Folgen, wenn echte Warnungen ignoriert werden.\n\nDass beide Seiten des Konflikts nahezu zeitgleich von solchen Angriffen betroffen waren, wirft Fragen über die Herkunft und Koordination der Angriffe auf. Experten für Cybersicherheit sehen darin ein Muster gezielter Informationskriegsführung, bei der die Verunsicherung der Zivilbevölkerung als Waffe eingesetzt wird.",
-          "tag": "Cyberangriff",
-          "emoji": "📡",
+          "titel": "Russischer Bombenangriff tötet 26 im ukrainischen Hilfszentrum",
+          "zusammenfassung": "Russische Streitkräfte haben ein Hilfszentrum in einem südukrainischen Dorf mit mindestens neun Schwerbomben attackiert, dabei kamen nach ukrainischen Angaben 26 Menschen ums Leben. Präsident Selenskyj verurteilte den Angriff als beispiellosen Zivilisten-Terror.",
+          "bedeutung": "Der gezielte Beschuss einer Hilfsinfrastruktur mit Drei-Tonnen-Bomben markiert eine neue Eskalationsstufe und dürfte die internationale Debatte über Waffenlieferungen und Kriegsverbrechertribunale neu entfachen.",
+          "hintergrund": "Neun russische Gleitbomben vom Typ FAB-3000 schlugen nahezu gleichzeitig in einem Dorf der Südukraine ein und verwandelten das dortige Versorgungszentrum in Trümmer. Die Bilder gingen rasch um die Welt und lösten Bestürzung unter westlichen Regierungschefs aus.\n\nDer Angriff ereignete sich nur wenige Tage nach dem Ende der sechstägigen Waffenruhe, die bereits als fragil galt. Humanitäre Organisationen fordern nun verstärkten Schutz für zivile Versorgungseinrichtungen, während die NATO-Außenminister zu einer Dringlichkeitssitzung zusammenkommen wollen.",
+          "tag": "Ukraine-Krieg",
+          "emoji": "💣",
           "quelle": "BBC",
-          "quelle_url": "https://www.bbc.co.uk/news/articles/c51kdy1ew7zvo?at_medium=RSS&at_campaign=rss"
+          "quelle_url": "https://www.bbc.co.uk/news/articles/cjy56dndlyz0o?at_medium=RSS&at_campaign=rss"
         },
         {
           "id": "politik-2",
-          "titel": "Kostenkrisen-Proteste in Deutschland werden gewalttätig",
-          "zusammenfassung": "In mehreren deutschen Großstädten, darunter Berlin, Hamburg und Frankfurt, eskalierten Demonstrationen gegen die steigenden Lebenshaltungskosten in Ausschreitungen und Plünderungen. Die Unruhen fallen zeitlich mit ähnlich großen Protesten in Frankreich zusammen, wo ebenfalls Hunderttausende auf die Straße gingen.",
-          "bedeutung": "Gleichzeitige soziale Unruhen in zwei der größten Volkswirtschaften Europas signalisieren wachsenden gesellschaftlichen Druck auf Regierungen, die wirtschaftliche Belastung der Bevölkerung wirksamer zu bekämpfen.",
-          "hintergrund": "Die Inflation und explodierenden Energiepreise belasten Haushalte in ganz Europa seit Monaten in einem historischen Ausmaß. Während Regierungen mit Entlastungspaketen reagiert haben, empfinden viele Bürger diese Maßnahmen als unzureichend – Frustration, die sich nun auf den Straßen entlädt.\n\nDie Gleichzeitigkeit der Proteste in Deutschland und Frankreich ist politisch brisant: Sie zeigt, dass die Unzufriedenheit kein nationales Einzelphänomen ist, sondern eine gesamteuropäische Dimension erreicht hat. Für die Regierungen in Berlin und Paris erhöht das den Druck, koordinierte und spürbare Antworten zu liefern.",
-          "tag": "Soziale Unruhen",
-          "emoji": "🔥",
+          "titel": "Europa probt Truppenverlegung in die Ukraine",
+          "zusammenfassung": "Tausende europäische Soldaten sollen in einem groß angelegten Manöver den möglichen Einsatz einer Friedenstruppe in der Ukraine simulieren. Westliche Militärplaner betonen, dass eine solche Truppe keinerlei Kampfhandlungen durchführen würde.",
+          "bedeutung": "Die Übung signalisiert, dass Europa konkrete militärische Szenarien für den Tag nach einem Waffenstillstand ausarbeitet – ein Schritt von erheblicher geopolitischer Tragweite.",
+          "hintergrund": "Hinter den Kulissen laufen seit Monaten Planspiele westlicher Verteidigungsministerien, wie eine mögliche europäische Beobachtungs- und Sicherungstruppe für die Ukraine aufgestellt werden könnte. Die nun angekündigte Übung ist der bisher sichtbarste Schritt in diese Richtung.\n\nDie Teilnehmerländer legten Wert auf die Unterscheidung zwischen einer Friedenstruppe und einer Kampftruppe, um Russland keine Rechtfertigung für weitere Eskalationen zu liefern. Dennoch dürfte Moskau die Manöver als Provokation deuten, was die ohnehin angespannte Lage weiter kompliziert.",
+          "tag": "Europäische Sicherheit",
+          "emoji": "🪖",
           "quelle": "BBC",
-          "quelle_url": "https://www.bbc.co.uk/news/articles/cqj34gnd3n30o?at_medium=RSS&at_campaign=rss"
+          "quelle_url": "https://www.bbc.co.uk/news/articles/cm3wv085ne6po?at_medium=RSS&at_campaign=rss"
         }
       ]
     },
@@ -49,36 +49,36 @@
       "stories": [
         {
           "id": "wirtschaft-0",
-          "titel": "Binance-Hack: Nordkorea soll hinter Milliarden-Angriff stecken",
-          "zusammenfassung": "Nach dem bislang größten Hack einer Kryptobörse mit einem Schaden von 6,3 Milliarden Dollar hat das FBI Nordkorea als Verantwortlichen identifiziert. Die Börse Binance übernimmt nach eigenen Angaben rund 90 Prozent der entstandenen Verluste der betroffenen Nutzer.",
-          "bedeutung": "Der Angriff offenbart systemische Sicherheitslücken im globalen Kryptomarkt und bestätigt, dass staatlich gesteuerte Cyberkriminalität zur bedeutenden Einnahmequelle für sanktionierte Regime geworden ist.",
-          "hintergrund": "Nordkorea gilt Geheimdiensten und Cybersicherheitsforschern seit Jahren als einer der aktivsten staatlichen Akteure im Bereich digitaler Finanzkriminalität. Erlöse aus solchen Hacks sollen zur Umgehung internationaler Sanktionen und zur Finanzierung des Rüstungsprogramms genutzt werden.\n\nFür die Kryptobranche ist der Vorfall ein schwerer Reputationsschaden: Obwohl Binance die meisten Verluste abfedert, haben Nutzer in der Folge Milliarden abgezogen. Regulatoren weltweit dürften den Druck auf Kryptobörsen erhöhen, robustere Sicherheitsstandards nachzuweisen.",
-          "tag": "Kryptokriminalität",
-          "emoji": "💰",
+          "titel": "UK und EU einigen sich auf Post-Brexit-Handelsabkommen bei Lebensmitteln",
+          "zusammenfassung": "Großbritannien und die Europäische Union haben sich auf einen Rahmenvertrag geeinigt, der bürokratische Handelshemmnisse bei Lebensmittelexporten deutlich reduzieren soll. Die Einigung gilt als bedeutendster Schritt des sogenannten Brexit-Reset vor dem bevorstehenden EU-UK-Gipfel.",
+          "bedeutung": "Das Abkommen könnte Lieferketten erleichtern, Preise senken und das seit Jahren angespannte Verhältnis zwischen London und Brüssel nachhaltig verbessern.",
+          "hintergrund": "Seit dem offiziellen Brexit-Vollzug haben aufwendige Grenzkontrollen und Zertifizierungspflichten den Handel mit Frisch- und Kühlwaren erheblich erschwert. Britische Exporteure klagten über massive Kostensteigerungen, während europäische Einzelhändler Engpässe bei Produkten aus dem Vereinigten Königreich meldeten.\n\nDer nun erzielte Entwurf soll diese Reibungspunkte beseitigen und gilt als Blaupause für weitreichendere Abkommen in anderen Sektoren. Beobachter sehen darin ein politisches Signal beider Seiten, pragmatische Zusammenarbeit über ideologische Brexit-Grundsatzdebatten zu stellen.",
+          "tag": "Brexit",
+          "emoji": "🤝",
           "quelle": "BBC",
-          "quelle_url": "https://www.bbc.co.uk/news/articles/ckpdg3ql4169o?at_medium=RSS&at_campaign=rss"
+          "quelle_url": "https://www.bbc.co.uk/news/articles/cmp3grwre9xdo?at_medium=RSS&at_campaign=rss"
         },
         {
           "id": "wirtschaft-1",
-          "titel": "Virgin Media O2 streicht Tausende von Stellen",
-          "zusammenfassung": "Der britische Telekommunikationskonzern Virgin Media O2 plant einen massiven Stellenabbau, dessen genaues Ausmaß noch nicht feststeht, aber einem erheblichen Teil der Belegschaft betreffen soll. Das Unternehmen steht unter dem Druck steigender Betriebskosten und eines intensiven Wettbewerbs.",
-          "bedeutung": "Der geplante Kahlschlag bei einem der größten britischen Telekommunikationsanbieter ist ein weiteres Zeichen für den strukturellen Umbau der europäischen Tech- und Medienbranche unter dem Druck wirtschaftlicher Zwänge.",
-          "hintergrund": "Virgin Media O2 entstand 2021 aus der Fusion der Kabelnetz-Sparte von Virgin und dem Mobilfunkanbieter O2. Das fusionierte Unternehmen versprach Synergien, doch der wirtschaftliche Gegenwind durch Inflation und sinkende Konsumausgaben hat den Konsolidierungsdruck erhöht.\n\nDer Stellenabbau reiht sich in eine Welle ähnlicher Entscheidungen großer Technologie- und Telekommunikationsunternehmen weltweit ein. Für die britische Wirtschaft, die ohnehin mit schwachem Wachstum kämpft, sind solche Nachrichten ein zusätzliches Belastungssignal.",
+          "titel": "Binance-Nutzer ziehen Milliarden nach Rekord-Krypto-Hack ab",
+          "zusammenfassung": "Nach dem bislang größten Hacking-Angriff in der Geschichte des Kryptomarkts zogen Nutzer der Börse Binance innerhalb kurzer Zeit umgerechnet 3,6 Milliarden US-Dollar ab. Die Plattform fror daraufhin Transaktionen ein, während Ermittler nordkoreanische Angreifer verantwortlich machen.",
+          "bedeutung": "Der Abzug von Kapital in dieser Größenordnung stellt die Vertrauenswürdigkeit zentralisierter Kryptobörsen grundsätzlich in Frage und könnte regulatorischen Druck weltweit verschärfen.",
+          "hintergrund": "US-Behörden und unabhängige Sicherheitsforscher zeigen mit dem Finger auf staatlich gelenkte Hackergruppen aus Nordkorea, die demnach hinter dem 6,3-Milliarden-Dollar-Angriff stecken sollen. Pjöngjang wies jede Beteiligung zurück. Binance erklärte, rund 90 Prozent der entstandenen Schäden aus Eigenmitteln abzudecken.\n\nDer Vorfall reiht sich in eine Serie staatlich gesponserter Cyberangriffe auf Kryptoplattformen ein, die nach Schätzungen der UN Nordkoreas Raketen- und Atomprogramm mitfinanzieren. Regulatoren in der EU, den USA und Südkorea signalisierten, ihre Aufsicht über digitale Vermögensbörsen zu verschärfen.",
+          "tag": "Krypto-Sicherheit",
+          "emoji": "🔓",
+          "quelle": "BBC",
+          "quelle_url": "https://www.bbc.co.uk/news/articles/cwj34gdmnly4o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "id": "wirtschaft-2",
+          "titel": "Virgin Media O2 streicht tausende Stellen",
+          "zusammenfassung": "Der britische Telekommunikationskonzern Virgin Media O2 plant einen umfangreichen Stellenabbau, um die Betriebskosten zu senken. Die genaue Zahl der betroffenen Arbeitsplätze steht noch nicht fest, soll jedoch erheblich sein.",
+          "bedeutung": "Der geplante Massenabbau im britischen Telekommunikationssektor spiegelt branchenweiten Kostendruck durch Inflation, Investitionen in 5G-Netze und stagnierenden Umsatzwachstum wider.",
+          "hintergrund": "Virgin Media O2, Ergebnis der Fusion zwischen dem Kabelanbieter Virgin Media und dem Mobilfunker O2, steht wie viele europäische Telekomkonzerne unter enormem Margendruck. Steigende Energiekosten, notwendige Netzinvestitionen und ein gesättigter Markt zwingen das Unternehmen zu strukturellen Anpassungen.\n\nGewerkschaften kündigten an, die Pläne genau zu prüfen und Verhandlungen über Abfindungen und Sozialpläne einzufordern. Analysten sehen den Schritt als Teil eines breiteren Konsolidierungstrends in der europäischen Telekommunikationsbranche.",
           "tag": "Stellenabbau",
           "emoji": "📉",
           "quelle": "BBC",
           "quelle_url": "https://www.bbc.co.uk/news/articles/c6rry8x9d9qko?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "id": "wirtschaft-2",
-          "titel": "Trump-Plan: Geld für Eltern, die zu Hause bleiben",
-          "zusammenfassung": "Die US-Regierung unter Präsident Trump verfolgt ein Programm, das verheirateten Eltern finanzielle Anreize bieten soll, um für ihre Kinder zu Hause zu bleiben. Experten kritisieren, dass das Modell traditionelle Familienstrukturen bevorzuge und der Lebensrealität vieler Familien nicht gerecht werde.",
-          "bedeutung": "Das Programm könnte die gesellschaftliche Debatte über Familienpolitik, Erwerbstätigkeit von Frauen und staatliche Rollenvorstellungen in den USA neu entfachen und hat Signalwirkung für ähnliche politische Diskussionen weltweit.",
-          "hintergrund": "Familienpolitische Leistungen gehören zu den umstrittensten sozialpolitischen Feldern in den USA, wo ein ausgebautes staatliches Unterstützungssystem traditionell auf Widerstand stößt. Der Trump-Ansatz setzt bewusst auf das Leitbild der klassischen Einverdiener-Familie.\n\nKritiker aus dem sozialwissenschaftlichen Bereich weisen darauf hin, dass viele Familien schlicht nicht die wirtschaftliche Freiheit haben, auf ein Einkommen zu verzichten – unabhängig von ideologischen Präferenzen. Das Programm könnte daher in der Praxis vor allem obere Mittelschichtsfamilien begünstigen.",
-          "tag": "Familienpolitik",
-          "emoji": "🏠",
-          "quelle": "The Guardian",
-          "quelle_url": "https://www.theguardian.com/money/2026/oct/31/trump-married-parents-payments"
         }
       ]
     },
@@ -86,7 +86,41 @@
       "id": "boerse",
       "label": "Märkte & Börse",
       "emoji": "📈",
-      "stories": []
+      "stories": [
+        {
+          "id": "boerse-0",
+          "titel": "Australiens Zentralbank hebt Leitzins auf 18-Jahres-Hoch",
+          "zusammenfassung": "Die Reserve Bank of Australia hat ihren Leitzins zum fünften Mal in diesem Jahr angehoben und damit den höchsten Stand seit 18 Jahren erreicht. Der Schritt entspricht den Erwartungen der Märkte und zielt auf die Eindämmung hartnäckiger Inflation.",
+          "bedeutung": "Australiens Zinsentscheid sendet ein globales Signal, dass Zentralbanken noch keine Kehrtwende in ihrer restriktiven Geldpolitik in Sicht haben – mit direkten Folgen für Anleihemärkte und Hausbauer weltweit.",
+          "hintergrund": "Die australische Notenbank folgt damit dem Kurs der meisten großen Zentralbanken, die trotz Konjunkturabkühlung an straffer Geldpolitik festhalten. Immobilieneigentümer im Land, das zu den Märkten mit den höchsten Hypothekenverschuldungen weltweit zählt, geraten durch steigende variable Zinsen zunehmend unter Druck.\n\nÖkonomen diskutieren, ob die RBA damit das Risiko einer Rezession in Kauf nimmt. Rohstoffexporte stützen bislang das Wachstum, doch eine schwächelnde Nachfrage aus China dämpft den Optimismus der Investoren.",
+          "tag": "Geldpolitik",
+          "emoji": "🏦",
+          "quelle": "CNBC",
+          "quelle_url": "https://www.cnbc.com/2026/11/03/australia-hikes-rates-18-year-high-finflation.html"
+        },
+        {
+          "id": "boerse-1",
+          "titel": "S&P 500: Midterms historisch ein Kaufsignal",
+          "zusammenfassung": "Historische Marktdaten zeigen, dass US-Zwischenwahlen dem S&P 500 in der Regel einen starken Folgejahresimpuls geben – unabhängig davon, welche Partei das Rennen macht. Anleger beobachten die laufenden Wahlen mit entsprechend großer Aufmerksamkeit.",
+          "bedeutung": "Sollte sich das historische Muster wiederholen, könnten die Midterms einen strategischen Einstiegszeitpunkt für Aktienanleger markieren und die Stimmung an den globalen Börsen stützen.",
+          "hintergrund": "Seit Jahrzehnten verläuft das erste Jahr nach US-Zwischenwahlen an den Aktienmärkten überdurchschnittlich positiv – ein Phänomen, das Analysten mit der Reduktion politischer Unsicherheit und einer typischerweise expansiveren Fiskalpolitik in der Wahlperiodenmitte erklären.\n\nIn diesem Zyklus kommt hinzu, dass Märkte zusätzliche Unsicherheitsfaktoren wie den Iran-Konflikt, die Krypto-Krise und die anhaltenden Zinserhöhungen einpreisen müssen. Ob die historische Faustregel diesmal greift, bleibt deshalb umstritten – Strategen raten zu selektivem Vorgehen statt blindem Optimismus.",
+          "tag": "US-Wahlen Börse",
+          "emoji": "📊",
+          "quelle": "CNBC",
+          "quelle_url": "https://www.cnbc.com/2026/11/02/stock-market-after-midterm-elections-sp-500-history.html"
+        },
+        {
+          "id": "boerse-2",
+          "titel": "Südkorea investiert Rekordsumme in Sovereign AI",
+          "zusammenfassung": "Seoul hat im Haushaltsentwurf für 2027 eine Rekordinvestition von umgerechnet rund 15 Milliarden Euro in Halbleiter, physische KI und KI-Rechenzentren angekündigt. Ziel ist ein souveränes KI-Modell mit weltführender Leistungsfähigkeit.",
+          "bedeutung": "Südkoreas staatliche KI-Offensive zeigt, dass der globale Wettlauf um technologische Souveränität eine neue Dimension erreicht hat – mit direkten Folgen für Chipaktien und internationale Technologiekonzerne.",
+          "hintergrund": "Das südkoreanische Parlament verabschiedete einen Gesamthaushalt von rund 820 Billionen Won für 2027, was einem Anstieg von knapp 13 Prozent gegenüber dem Vorjahr entspricht. Der Technologieanteil ist dabei überproportional gewachsen und fokussiert sich auf die Stärkung nationaler KI-Kapazitäten.\n\nDie Initiative steht im Kontext eines verschärften Technologiewettbewerbs zwischen den USA, China, der EU und aufstrebenden Wirtschaftsnationen. Analysten erwarten, dass Seouls Vorstoß andere asiatische Regierungen zu ähnlichen Budgetentscheidungen veranlassen wird – und Chip-Hersteller wie Samsung und SK Hynix direkt begünstigt.",
+          "tag": "Sovereign AI",
+          "emoji": "🤖",
+          "quelle": "CNBC",
+          "quelle_url": "https://www.cnbc.com/2026/11/02/south-korea-ai-spending-budget.html"
+        }
+      ]
     }
   ]
 }
