@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-05T03:33:29.822155+00:00",
-  "datum": "Donnerstag, 5. November 2026",
+  "generated_at": "2026-11-06T03:29:48.498138+00:00",
+  "datum": "Freitag, 6. November 2026",
   "ressorts": [
     {
       "id": "politik",
@@ -9,36 +9,36 @@
       "stories": [
         {
           "id": "politik-0",
-          "titel": "Midterm-Schlappe: Republikaner geben Trump die Schuld",
-          "zusammenfassung": "Nach der deutlichen Niederlage der Republikaner bei den US-Zwischenwahlen machen führende Parteivertreter offen Präsident Trump für das Desaster verantwortlich. Sie werfen ihm vor, eigene Interessen über die Sorgen der Wählerinnen und Wähler gestellt zu haben.",
-          "bedeutung": "Die innerparteiliche Kritik an Trump markiert einen möglichen Wendepunkt für die Republikanische Partei und könnte die politische Landschaft der USA grundlegend neu ordnen.",
-          "hintergrund": "Die Demokraten haben bei den Midterms eine breite Mehrheit zurückerobert – ein Ergebnis, das viele Beobachter schon vor Monaten andeuteten, als Trumps Zustimmungswerte im Zuge außenpolitischer Konflikte und wirtschaftlicher Spannungen sanken. Innerhalb der GOP wächst nun der Ruf nach einem Neuanfang.\n\nExperten sehen in der Wahlschlappe auch ein Signal der Wählerinnen und Wähler gegen eine Politik, die auf kulturelle Reizthemen und persönliche Loyalität zu Trump setzte, statt auf konkrete Lösungen bei Inflation, Gesundheit und Beschäftigung.",
-          "tag": "US-Midterms",
-          "emoji": "🗳️",
+          "titel": "Frankreich: Massendemos gegen Lebenshaltungskosten",
+          "zusammenfassung": "Hunderttausende Menschen sind in ganz Frankreich auf die Straße gegangen, um gegen die gestiegenen Lebenshaltungskosten zu protestieren. Gewerkschaften begleiten die Demonstrationen mit Streiks und sprechen von einer Beteiligung weit über den offiziellen Schätzungen von 600.000 Teilnehmern.",
+          "bedeutung": "Die Proteste signalisieren wachsenden sozialen Druck in einer der größten Volkswirtschaften der Eurozone und könnten politischen Reformdruck erzeugen.",
+          "hintergrund": "Frankreich kämpft wie viele europäische Länder mit anhaltend hoher Inflation, die Haushalte mit niedrigen und mittleren Einkommen besonders hart trifft. Die Beteiligung der großen Gewerkschaften verleiht den Protesten eine strukturelle Dimension, die über spontane Bürgerunruhen hinausgeht.\n\nBeobachter sehen in der Mobilisierung Parallelen zur Gelbwesten-Bewegung von 2018, die damals die Regierung zu erheblichen sozialpolitischen Zugeständnissen zwang. Regierung und Opposition stehen nun unter Druck, rasch auf die Forderungen zu reagieren.",
+          "tag": "Soziale Unruhen",
+          "emoji": "🇫🇷",
           "quelle": "BBC",
-          "quelle_url": "https://www.bbc.co.uk/news/articles/c6x29rr8djy3o?at_medium=RSS&at_campaign=rss"
+          "quelle_url": "https://www.bbc.co.uk/news/articles/ckx2qzv835pgo?at_medium=RSS&at_campaign=rss"
         },
         {
           "id": "politik-1",
-          "titel": "Russlands Doppelschlag tötet mindestens 40 Zivilisten",
-          "zusammenfassung": "Bodycam-Aufnahmen belegen einen russischen Doppelangriff auf ein ukrainisches Dorf, bei dem mindestens 40 Menschen ums Leben kamen. Weitere 30 Personen werden noch unter den Trümmern vermutet.",
-          "bedeutung": "Der dokumentierte Angriff auf zivile Gebiete erhöht den internationalen Druck auf Russland und könnte neue Debatten über Waffenlieferungen und Kriegsverbrechertribunale auslösen.",
-          "hintergrund": "Die sogenannte Doppelschlag-Taktik – bei der ein zweiter Angriff gezielt Ersthelfer trifft – gilt nach internationalem Humanitärem Völkerrecht als schweres Kriegsverbrechen. Die Ukraine setzt Bodycam-Material zunehmend als Beweismittel ein, um derartige Angriffe international zu dokumentieren.\n\nDer Vorfall reiht sich in eine Serie von Angriffen auf zivile Infrastruktur ein, die in den vergangenen Wochen eskaliert ist. Kyjiw fordert erneut verstärkte Luftabwehrsysteme von seinen westlichen Partnern.",
-          "tag": "Ukraine-Krieg",
-          "emoji": "💣",
+          "titel": "Papst Leo reist nach Lungenoperation nach Lateinamerika",
+          "zusammenfassung": "Papst Leo hat wenige Wochen nach einer Lungenoperation, bei der ihm ein Teil des Lungengewebes entfernt wurde, eine ausgedehnte Reise nach Lateinamerika angetreten. Auf dem Programm stehen Besuche in Uruguay, Argentinien und Peru.",
+          "bedeutung": "Die Reise sendet ein Signal päpstlicher Handlungsfähigkeit, wirft aber Fragen zur Gesundheit des Kirchenoberhaupts auf, die weltweit 1,4 Milliarden Katholiken betreffen.",
+          "hintergrund": "Es ist das erste Mal seit seiner Krebsdiagnose und dem anschließenden Eingriff, dass der Pontifex eine derart lange Auslandsreise unternimmt. Lateinamerika gilt als das demographisch dynamischste Kerngebiet des Weltkatholizismus, und päpstliche Visiten haben dort traditionell große spirituelle wie politische Strahlkraft.\n\nMedizinische Experten haben Bedenken geäußert, ob eine solch anstrengende Reise zu diesem frühen Zeitpunkt der Erholung vertretbar sei. Der Vatikan betonte dagegen, der Papst befinde sich auf einem guten Weg der Genesung und sei reisefähig.",
+          "tag": "Vatikan",
+          "emoji": "✈️",
           "quelle": "BBC",
-          "quelle_url": "https://www.bbc.co.uk/news/articles/c98rz6penv86o?at_medium=RSS&at_campaign=rss"
+          "quelle_url": "https://www.bbc.co.uk/news/articles/cqn06j0y61k6o?at_medium=RSS&at_campaign=rss"
         },
         {
           "id": "politik-2",
-          "titel": "Israel nach Wahl im Deadlock: Präsident warnt Parteien",
-          "zusammenfassung": "Israels Staatspräsident Herzog hat nach einem erneuten Wahlpatt Konsultationen mit allen Parteien aufgenommen. Er mahnte die Politikerinnen und Politiker, nicht alle Versprechen des Wahlkampfs könnten erfüllt werden, wenn ein weiterer Urnengang vermieden werden solle.",
-          "bedeutung": "Ein anhaltender Regierungsstillstand in Israel schwächt die Handlungsfähigkeit des Landes in einer regional ohnehin angespannten Sicherheitslage erheblich.",
-          "hintergrund": "Israel erlebt damit eine weitere Runde politischer Instabilität, die das Land seit Jahren lähmt. Die Unfähigkeit der Parteien, stabile Koalitionen zu bilden, hat das Vertrauen in die demokratischen Institutionen merklich erschüttert.\n\nIm Hintergrund stehen tiefe gesellschaftliche Spaltungen über Justizreform, Siedlungspolitik und die Rolle der ultraorthodoxen Gemeinschaft im Staatsgefüge – Konflikte, die durch Neuwahlen allein kaum aufzulösen sind.",
-          "tag": "Israel-Politik",
-          "emoji": "🇮🇱",
+          "titel": "Bombendrohungen lähmen europäischen Luftverkehr erneut",
+          "zusammenfassung": "Zum zweiten Mal innerhalb einer Woche haben gefälschte Bombendrohungen Dutzende Flüge in ganz Europa betroffen und zu erheblichen Störungen geführt. Mindestens 21 Maschinen waren betroffen; die britische Regierung stuft die Vorfälle als gezielte böswillige Aktion ein.",
+          "bedeutung": "Serielle Falschmeldungen dieser Art können die Sicherheitsinfrastruktur ganzer Kontinente destabilisieren und sind als koordinierter Angriff auf kritische Infrastruktur zu werten.",
+          "hintergrund": "Behörden in mehreren Ländern ermitteln, ob hinter den Drohungen eine koordinierte Kampagne steckt, etwa mit dem Ziel, Sicherheitsbehörden zu überlasten oder wirtschaftlichen Schaden anzurichten. Derartige Angriffsmuster wurden in der Vergangenheit teils staatlichen oder halbstaatlichen Akteuren zugeschrieben.\n\nDie Vorfälle erhöhen den Druck auf europäische Regierungen, die Kooperation der Strafverfolgungsbehörden im Bereich Luftsicherheit zu intensivieren und schnellere Verifikationsverfahren für Bedrohungsmeldungen zu entwickeln.",
+          "tag": "Luftsicherheit",
+          "emoji": "✈️",
           "quelle": "BBC",
-          "quelle_url": "https://www.bbc.co.uk/news/articles/c6z98z5z91ppo?at_medium=RSS&at_campaign=rss"
+          "quelle_url": "https://www.bbc.co.uk/news/articles/cmpqg08nz3pqo?at_medium=RSS&at_campaign=rss"
         }
       ]
     },
@@ -49,36 +49,36 @@
       "stories": [
         {
           "id": "wirtschaft-0",
-          "titel": "UK und EU einigen sich: Brexit-Handelshürden fallen",
-          "zusammenfassung": "Großbritannien und die Europäische Union haben einen Entwurf für ein Abkommen ausgehandelt, das bürokratische Hemmnisse beim Lebensmittelhandel seit dem Brexit deutlich reduzieren soll. Die Einigung gilt als bislang bedeutendster Schritt des sogenannten Brexit-Resets.",
-          "bedeutung": "Das Abkommen könnte britischen Exporteuren Milliardenerleichterungen bringen und ist ein politisches Signal für eine neue Phase der EU-UK-Beziehungen.",
-          "hintergrund": "Seit dem Brexit haben umfangreiche Kontrollen und Zertifizierungspflichten den Handel mit Lebensmitteln zwischen dem Vereinigten Königreich und der EU stark belastet. Besonders britische Landwirte und Lebensmittelproduzenten hatten unter den Zusatzkosten gelitten.\n\nDie Einigung kommt wenige Wochen vor einem geplanten EU-UK-Gipfel und wird in London als Durchbruch gewertet. Kritiker warnen allerdings, das Abkommen könnte Zugeständnisse in anderen Bereichen – etwa bei Fischerei oder Binnenmarktregeln – erfordern.",
-          "tag": "Brexit-Reset",
-          "emoji": "🤝",
+          "titel": "Bank of England erhöht Leitzins erstmals seit drei Jahren",
+          "zusammenfassung": "Die Bank of England hat ihren Leitzins von 3,75 auf 4,0 Prozent angehoben – die erste Zinserhöhung seit über drei Jahren. Der Schritt war von den meisten Marktteilnehmern erwartet worden und soll der hartnäckigen Inflation entgegenwirken.",
+          "bedeutung": "Eine Zinserhöhung der Bank of England beeinflusst unmittelbar Hypothekenzinsen, Verbraucherkredite und die Sparrenditen für Millionen britischer Haushalte.",
+          "hintergrund": "Großbritannien kämpft mit einer Inflationsrate, die deutlich über dem Zielwert der Notenbank liegt. Der Zinsschritt folgt einer Reihe ähnlicher Entscheidungen anderer Zentralbanken weltweit, die versuchen, den Preisdruck ohne eine schwere Rezession zu bremsen.\n\nÖkonomen diskutieren, ob weitere Erhöhungen folgen werden oder ob die Notenbank nun eine Pause einlegt, um die Auswirkungen auf Konjunktur und Arbeitsmarkt zu beobachten. Die Entscheidung fällt in eine Phase, in der britische Verbraucher bereits unter hohen Energie- und Lebensmittelpreisen leiden.",
+          "tag": "Geldpolitik",
+          "emoji": "🏦",
           "quelle": "BBC",
-          "quelle_url": "https://www.bbc.co.uk/news/articles/cmp3grwre9xdo?at_medium=RSS&at_campaign=rss"
+          "quelle_url": "https://www.bbc.co.uk/news/articles/ck5ynw45jrgqo?at_medium=RSS&at_campaign=rss"
         },
         {
           "id": "wirtschaft-1",
-          "titel": "Gefälschte Jobinterviews: Binance Opfer von Milliarden-Hack",
-          "zusammenfassung": "Beim Krypto-Börsenbetreiber Binance haben Hacker über fingierte Vorstellungsgespräche Zugang zu sensiblen Systemen erlangt und einen Schaden von 6,3 Milliarden Dollar verursacht. Ein Mitarbeiter wurde über eine seriöse Jobplattform kontaktiert und in die Falle gelockt.",
-          "bedeutung": "Der Angriff zeigt die zunehmende Raffinesse von Social-Engineering-Attacken auf die Finanz- und Kryptoindustrie und stellt globale Regulierungsbehörden vor neue Herausforderungen.",
-          "hintergrund": "Bei der Methode handelt es sich um eine Variante des sogenannten Spear-Phishings: Angreifer gaben sich als Personalverantwortliche seriöser Unternehmen aus und nutzten professionelle Plattformen zur Kontaktaufnahme, um das Vertrauen des Opfers zu gewinnen. Der betroffene Ingenieur hatte keine Möglichkeit, die Fälschung auf den ersten Blick zu erkennen.\n\nFür Binance ist es nicht der erste schwere Sicherheitsvorfall. Der Fall dürfte den Ruf nach verbindlichen Cybersicherheitsstandards für Kryptounternehmen erneut verstärken – ein Thema, das in den USA und der EU bereits auf der regulatorischen Agenda steht.",
-          "tag": "Krypto-Hack",
-          "emoji": "🔐",
+          "titel": "Pfund Sterling auf höchstem Stand seit Brexit-Referendum",
+          "zusammenfassung": "Das britische Pfund hat gegenüber einem Währungskorb den höchsten Stand seit dem Brexit-Referendum vor einem Jahrzehnt erreicht. Hinter dem Anstieg stehen verbesserte Wirtschaftsaussichten und die Zinsentscheidung der Bank of England.",
+          "bedeutung": "Ein starkes Pfund verbilligt Importe und dämpft damit die Inflation, belastet aber gleichzeitig britische Exporteure im internationalen Wettbewerb.",
+          "hintergrund": "Die Aufwertung des Pfunds ist ein bemerkenswertes Signal: Seit dem Brexit-Votum von 2016 hatte die britische Währung gegenüber Euro und Dollar erheblich an Wert verloren und galt als Barometer für die wirtschaftlichen Risiken des EU-Austritts. Die aktuelle Stärke zeigt, dass sich die Stimmung gegenüber dem britischen Wirtschaftsstandort spürbar verbessert hat.\n\nExperten warnen jedoch, dass eine weitere Aufwertung Risiken birgt, insbesondere für Branchen wie die Rüstungs- und Pharmaindustrie, die stark auf Exportmärkte angewiesen sind. Wie nachhaltig die Erholung ist, hängt maßgeblich von der weiteren Inflationsentwicklung und dem geldpolitischen Kurs ab.",
+          "tag": "Devisenmärkte",
+          "emoji": "💷",
           "quelle": "BBC",
-          "quelle_url": "https://www.bbc.co.uk/news/articles/ck5ynwz9gy67o?at_medium=RSS&at_campaign=rss"
+          "quelle_url": "https://www.bbc.co.uk/news/articles/c6lykq2qjn2vo?at_medium=RSS&at_campaign=rss"
         },
         {
           "id": "wirtschaft-2",
-          "titel": "Canva streicht über 1.000 Stellen nach hartem Jahr",
-          "zusammenfassung": "Das australische Design-Einhorn Canva baut mehr als 1.000 Stellen ab oder ordnet Mitarbeiterinnen und Mitarbeiter in neue Rollen um. Gründerin Melanie Perkins sprach offen vom schwierigsten Jahr der Unternehmensgeschichte.",
-          "bedeutung": "Der Stellenabbau bei einem der wertvollsten Tech-Start-ups der Welt spiegelt den anhaltenden Druck auf wachstumsstarke Digitalunternehmen wider, Profitabilität gegenüber Expansion zu priorisieren.",
-          "hintergrund": "Canva war in der Pandemie zur Lieblingsplattform für Design ohne Vorkenntnisse geworden und hatte sich zuletzt mit einer Bewertung von rund 26 Milliarden Dollar zu den bedeutendsten privaten Tech-Unternehmen weltweit gezählt. Der Stellenabbau folgt einem branchenweiten Trend: Zahlreiche ehemals hochbewertete Start-ups reagieren auf gestiegene Zinsen und sinkende Investorengeduld mit Effizienzprogrammen.\n\nCanva steht zusätzlich unter dem Druck, sich gegenüber KI-gestützten Design-Tools zu behaupten, die in den vergangenen zwei Jahren den Markt verändert haben.",
-          "tag": "Tech-Stellenabbau",
-          "emoji": "📉",
+          "titel": "Paraguay: Präsident Peña tritt nach Bankenkollaps zurück",
+          "zusammenfassung": "Paraguays Präsident Santiago Peña hat sein Amt niedergelegt, nachdem ein bedeutender Bankzusammenbruch das Land erschüttert und das Abgeordnetenhaus ein Amtsenthebungsverfahren eingeleitet hatte. Der Rücktritt löst eine politische Krise in dem südamerikanischen Land aus.",
+          "bedeutung": "Ein erzwungener Regierungswechsel infolge eines Bankenkollapses gefährdet die wirtschaftliche Stabilität Paraguays und könnte Ansteckungseffekte auf Nachbarstaaten haben.",
+          "hintergrund": "Paraguay ist zwar eine verhältnismäßig kleine Volkswirtschaft, aber ein wichtiges Bindeglied im südamerikanischen Handels- und Finanzgefüge. Ein politisches Vakuum in Kombination mit einem Bankenkollaps kann ausländische Investoren verschrecken und die Landeswährung Guaraní unter Druck setzen.\n\nDie Krise offenbart strukturelle Schwächen in der paraguayischen Finanzaufsicht und stellt die Nachfolgeregierung vor die schwierige Aufgabe, Vertrauen wiederherzustellen und gleichzeitig akute wirtschaftliche Schäden zu begrenzen.",
+          "tag": "Regierungskrise",
+          "emoji": "🇵🇾",
           "quelle": "BBC",
-          "quelle_url": "https://www.bbc.co.uk/news/articles/cw77pg7neydmo?at_medium=RSS&at_campaign=rss"
+          "quelle_url": "https://www.bbc.co.uk/news/articles/c6p9g39vln3yo?at_medium=RSS&at_campaign=rss"
         }
       ]
     },
@@ -89,36 +89,36 @@
       "stories": [
         {
           "id": "boerse-0",
-          "titel": "Eurozone-Inflation auf Dreijahreshoch: Zinswende droht",
-          "zusammenfassung": "Die Inflation in der Eurozone ist erstmals seit drei Jahren auf vier Prozent gestiegen, angetrieben vor allem von einem Energiepreisanstieg von über 20 Prozent im Oktober. Eine baldige Zinserhöhung der EZB gilt als wahrscheinlicher denn je.",
-          "bedeutung": "Die Rückkehr hoher Inflation setzt die Europäische Zentralbank unter akuten Handlungsdruck und könnte an den europäischen Bondmärkten und im gesamten Euroraum für erhebliche Turbulenzen sorgen.",
-          "hintergrund": "Die EZB hatte zuletzt die Zinsen stabil gehalten, um die konjunkturelle Erholung nicht zu gefährden. Die neuen Daten machen diesen Kurs jedoch immer schwerer zu verteidigen – zumal die Kerninflation ebenfalls anzieht und die Preissteigerungen damit nicht mehr allein auf den volatilen Energiesektor zurückzuführen sind.\n\nAnalystinnen und Analysten rechnen mit einer Erhöhung um mindestens 25 Basispunkte auf der nächsten EZB-Sitzung. Für Staatsanleihemärkte und exportabhängige Unternehmen im Euroraum wäre das ein bedeutender Einschnitt.",
-          "tag": "EZB-Inflation",
+          "titel": "Nasdaq rutscht in Korrekturterritorium – wie geht es weiter?",
+          "zusammenfassung": "Der Nasdaq-Composite-Index ist um mehr als zehn Prozent von seinem jüngsten Höchststand gefallen und hat damit offiziell Korrekturterritorium erreicht. Auslöser sind wachsende Sorgen über eine Verlangsamung beim Thema Künstliche Intelligenz sowie politische Unsicherheiten nach den US-Midterms.",
+          "bedeutung": "Korrekturen am Nasdaq betreffen Billionen Dollar an Marktkapitalisierung und beeinflussen Altersvorsorgedepots und Fonds weltweit.",
+          "hintergrund": "Historisch hat der Nasdaq nach Korrekturen in einem Großteil der Fälle innerhalb von sechs bis zwölf Monaten neue Höchststände erreicht, doch die aktuelle Kombination aus Zinsdruck, KI-Skepsis und politischer Unsicherheit macht Prognosen schwieriger als üblich. Viele Marktteilnehmer suchen nach Signalen, ob es sich um eine vorübergehende Korrektur oder den Beginn eines längeren Abschwungs handelt.\n\nBesonders tech-lastige Portfolios sind betroffen, da Schwergewichte wie Chip- und Cloud-Unternehmen überproportional abgestraft wurden. Analysten beobachten nun genau, ob institutionelle Anleger die niedrigeren Kurse als Kaufgelegenheit nutzen oder weitere Mittel abziehen.",
+          "tag": "Tech-Aktien",
+          "emoji": "📉",
+          "quelle": "CNBC",
+          "quelle_url": "https://www.cnbc.com/2026/11/05/nasdaq-drops-into-correction-territory-heres-what-typically-happens-next.html"
+        },
+        {
+          "id": "boerse-1",
+          "titel": "Eurozone-Inflation springt auf vier Prozent – Zinserhöhung droht",
+          "zusammenfassung": "Die Inflationsrate in der Eurozone hat erstmals seit drei Jahren die Vier-Prozent-Marke überschritten, angetrieben vor allem von Energiepreisen, die im Oktober um mehr als zwanzig Prozent stiegen. Die Entwicklung erhöht den Druck auf die Europäische Zentralbank, ihren geldpolitischen Kurs zu verschärfen.",
+          "bedeutung": "Steigende Inflation in der Eurozone bedeutet Kaufkraftverlust für rund 350 Millionen Menschen und könnte eine Zinswende einleiten, die Staatshaushalte und Schuldner unter Druck setzt.",
+          "hintergrund": "Die EZB hatte zuletzt betont, Inflationsschübe seien vorübergehender Natur. Angesichts eines erneuten Anstiegs auf dieses Niveau gerät diese Einschätzung unter erheblichen Rechtfertigungsdruck. Besonders energieintensive Volkswirtschaften wie Deutschland und die südeuropäischen Staaten sind von der Entwicklung betroffen.\n\nMärkte preisen mittlerweile eine baldige Zinsanhebung durch die EZB ein, was die Finanzierungskosten für Staaten mit hoher Schuldenlast wie Italien und Griechenland spürbar erhöhen würde. Die Herbst-Prognosen der Notenbank dürften entsprechend nach oben revidiert werden.",
+          "tag": "Inflation",
           "emoji": "📊",
           "quelle": "CNBC",
           "quelle_url": "https://www.cnbc.com/2026/11/04/euro-zone-cpi-inflation-october-ecb-rate-hike.html"
         },
         {
-          "id": "boerse-1",
-          "titel": "Treasury-Renditen sinken, Öl fällt nach Demokraten-Sieg",
-          "zusammenfassung": "Nach dem starken Abschneiden der Demokraten bei den US-Midterms sind die Renditen zehnjähriger US-Staatsanleihen gesunken, während die Ölpreise nachgaben. Investoren bewerten das veränderte politische Machtgefüge in Washington neu.",
-          "bedeutung": "Die Marktreaktionen zeigen, dass der demokratische Sieg die Erwartungen an Fiskalpolitik, Schuldenbremse und Energiepolitik merklich verschoben hat.",
-          "hintergrund": "An den Terminmärkten wird nun verstärkt über eine mögliche Konfrontation beim Schuldendeckel spekuliert: Demokraten könnten ihre neu gewonnene Verhandlungsmacht nutzen, um fiskalische Zugeständnisse von der Regierung zu erzwingen – eine Konstellation, die historisch für Volatilität an den Bondmärkten gesorgt hat.\n\nSinkende Ölpreise reflektieren zugleich die Hoffnung, dass ein weniger konfrontatives geopolitisches Klima unter einer stärker kontrollierten Trump-Regierung den Druck auf die Rohstoffmärkte mindern könnte.",
-          "tag": "US-Märkte",
-          "emoji": "📉",
-          "quelle": "CNBC",
-          "quelle_url": "https://www.cnbc.com/2026/11/03/treasury-yields-fall-as-democrats-win-big-in-us-midterm-elections.html"
-        },
-        {
           "id": "boerse-2",
-          "titel": "Australien hebt Leitzins auf 18-Jahres-Hoch",
-          "zusammenfassung": "Die australische Zentralbank hat ihren Leitzins zum fünften Mal in diesem Jahr angehoben und damit das höchste Niveau seit 18 Jahren erreicht. Der Schritt war von Ökonomen erwartet worden und soll die hartnäckige Inflation bekämpfen.",
-          "bedeutung": "Australiens aggressive Zinsstraffung ist Teil einer globalen Zinswende und sendet ein klares Signal an andere Zentralbanken, dass der Kampf gegen Inflation noch nicht gewonnen ist.",
-          "hintergrund": "Die Reserve Bank of Australia steht vor einem Dilemma: Einerseits bleibt die Inflation über dem Zielkorridor, andererseits wächst die Sorge vor einer Abkühlung des Immobilienmarkts und einer steigenden Belastung privater Haushalte durch höhere Hypothekenzinsen.\n\nInternationale Investoren beobachten den australischen Kurs aufmerksam, da das Land als Frühindikator für rohstoffabhängige Volkswirtschaften gilt. Die Entscheidung könnte auch Einfluss auf die geldpolitischen Überlegungen in Kanada und Neuseeland haben.",
-          "tag": "Zinspolitik",
-          "emoji": "🏦",
+          "titel": "Schuldenobergrenze: Demokraten unter Zugzwang, Märkte nervös",
+          "zusammenfassung": "Nach den deutlichen Verlusten der Republikaner bei den Midterms erwägen führende Demokraten, die anstehende Debatte über die US-Schuldenobergrenze für politische Zugeständnisse zu nutzen. Analysten warnen, dass ein solches Tauziehen massive Marktturbulenzen und im schlimmsten Fall einen Zahlungsausfall auslösen könnte.",
+          "bedeutung": "Ein politisch motivierter Streit um die US-Schuldenobergrenze kann globale Finanzmärkte erschüttern, da US-Staatsanleihen als sicherste Anlageform der Welt gelten.",
+          "hintergrund": "Die Schuldenobergrenze war bislang ein traditionelles Druckmittel der jeweiligen Oppositionspartei, um haushaltspolitische Zugeständnisse zu erzwingen. Dass nun die Demokraten trotz ihrer Wahlgewinne in dieser Rolle agieren könnten, stellt eine ungewöhnliche Verschiebung der politischen Dynamik in Washington dar.\n\nInvestoren reagieren auf derartige Szenarien regelmäßig mit erhöhter Volatilität. Besonders Anleihe- und Währungsmärkte könnten unter Druck geraten, sollte keine rasche Einigung erzielt werden. Rating-Agenturen haben in der Vergangenheit bereits bei ähnlichen Situationen mit einer Herabstufung der US-Kreditwürdigkeit gedroht.",
+          "tag": "US-Schulden",
+          "emoji": "🏛️",
           "quelle": "CNBC",
-          "quelle_url": "https://www.cnbc.com/2026/11/03/australia-hikes-rates-18-year-high-finflation.html"
+          "quelle_url": "https://www.cnbc.com/2026/11/04/democrats-trump-debt-ceiling-fight.html"
         }
       ]
     }
