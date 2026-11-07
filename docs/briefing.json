@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-06T03:29:48.498138+00:00",
-  "datum": "Freitag, 6. November 2026",
+  "generated_at": "2026-11-07T02:55:13.326479+00:00",
+  "datum": "Samstag, 7. November 2026",
   "ressorts": [
     {
       "id": "politik",
@@ -9,36 +9,36 @@
       "stories": [
         {
           "id": "politik-0",
-          "titel": "Frankreich: Massendemos gegen Lebenshaltungskosten",
-          "zusammenfassung": "Hunderttausende Menschen sind in ganz Frankreich auf die Straße gegangen, um gegen die gestiegenen Lebenshaltungskosten zu protestieren. Gewerkschaften begleiten die Demonstrationen mit Streiks und sprechen von einer Beteiligung weit über den offiziellen Schätzungen von 600.000 Teilnehmern.",
-          "bedeutung": "Die Proteste signalisieren wachsenden sozialen Druck in einer der größten Volkswirtschaften der Eurozone und könnten politischen Reformdruck erzeugen.",
-          "hintergrund": "Frankreich kämpft wie viele europäische Länder mit anhaltend hoher Inflation, die Haushalte mit niedrigen und mittleren Einkommen besonders hart trifft. Die Beteiligung der großen Gewerkschaften verleiht den Protesten eine strukturelle Dimension, die über spontane Bürgerunruhen hinausgeht.\n\nBeobachter sehen in der Mobilisierung Parallelen zur Gelbwesten-Bewegung von 2018, die damals die Regierung zu erheblichen sozialpolitischen Zugeständnissen zwang. Regierung und Opposition stehen nun unter Druck, rasch auf die Forderungen zu reagieren.",
-          "tag": "Soziale Unruhen",
-          "emoji": "🇫🇷",
+          "titel": "Bombendrohungen treffen europäische Fluggesellschaften",
+          "zusammenfassung": "Eine neue Welle von Bombendrohungen hat mehrere europäische Fluggesellschaften getroffen und zu erheblichen Sicherheitseinsätzen geführt. Bislang wurden keine Sprengstoffe gefunden, und ein Zusammenhang mit ähnlichen Drohungen gegen Medienunternehmen ist nicht belegt.",
+          "bedeutung": "Die koordinierten Drohungen gegen den Luftverkehr mehrerer Länder zeigen, wie anfällig kritische Infrastruktur für hybride Bedrohungsszenarien ist.",
+          "hintergrund": "Innerhalb weniger Tage häuften sich Bombendrohungen gegen Maschinen verschiedener europäischer Carrier. Behörden in mehreren Ländern leiteten Sicherheitsprotokolle ein, Flüge wurden teils umgeleitet oder am Boden gehalten – ohne dass sich die Drohungen bisher als real erwiesen hätten.\n\nParallel dazu hatten zuvor Medienorganisationen ähnliche Drohungen erhalten. Ermittler prüfen, ob extremistische Gruppen dahinterstecken; eine russische Splittergruppe wies jede Verantwortung von sich. Der Vorfall verdeutlicht die wachsende Belastung europäischer Sicherheitsbehörden durch staatlich oder ideologisch motivierte Desinformations- und Einschüchterungskampagnen.",
+          "tag": "Luftsicherheit",
+          "emoji": "✈️",
           "quelle": "BBC",
-          "quelle_url": "https://www.bbc.co.uk/news/articles/ckx2qzv835pgo?at_medium=RSS&at_campaign=rss"
+          "quelle_url": "https://www.bbc.co.uk/news/articles/cq62yy064vjpo?at_medium=RSS&at_campaign=rss"
         },
         {
           "id": "politik-1",
-          "titel": "Papst Leo reist nach Lungenoperation nach Lateinamerika",
-          "zusammenfassung": "Papst Leo hat wenige Wochen nach einer Lungenoperation, bei der ihm ein Teil des Lungengewebes entfernt wurde, eine ausgedehnte Reise nach Lateinamerika angetreten. Auf dem Programm stehen Besuche in Uruguay, Argentinien und Peru.",
-          "bedeutung": "Die Reise sendet ein Signal päpstlicher Handlungsfähigkeit, wirft aber Fragen zur Gesundheit des Kirchenoberhaupts auf, die weltweit 1,4 Milliarden Katholiken betreffen.",
-          "hintergrund": "Es ist das erste Mal seit seiner Krebsdiagnose und dem anschließenden Eingriff, dass der Pontifex eine derart lange Auslandsreise unternimmt. Lateinamerika gilt als das demographisch dynamischste Kerngebiet des Weltkatholizismus, und päpstliche Visiten haben dort traditionell große spirituelle wie politische Strahlkraft.\n\nMedizinische Experten haben Bedenken geäußert, ob eine solch anstrengende Reise zu diesem frühen Zeitpunkt der Erholung vertretbar sei. Der Vatikan betonte dagegen, der Papst befinde sich auf einem guten Weg der Genesung und sei reisefähig.",
+          "titel": "Papst reist trotz Lungenkrebsoperation nach Lateinamerika",
+          "zusammenfassung": "Papst Leo bricht wenige Wochen nach einer Lungenteiloperation zu einer ausgedehnten Reise durch Uruguay, Argentinien und Peru auf. Die Visite gilt als deutliches Zeichen seines Willens, trotz gesundheitlicher Einschränkungen die Bindung der Kirche an ihren zentralen Kontinent zu stärken.",
+          "bedeutung": "Die Reise sendet ein global beachtetes Signal über die Belastbarkeit des Kirchenoberhauptes und die strategische Priorität Lateinamerikas für den Vatikan.",
+          "hintergrund": "Lateinamerika beheimatet einen Großteil der weltweiten Katholiken, und die Region steht kirchenpolitisch unter Druck durch wachsenden Einfluss evangelikaler Bewegungen sowie soziale Spannungen. Der Papst hatte erst vor wenigen Wochen einen chirurgischen Eingriff an der Lunge hinter sich gebracht, was die Reise medizinisch wie symbolisch bemerkenswert macht.\n\nBeobachter werten den Besuch als Versuch, die institutionelle Präsenz Roms in einer für die Kirche existenziell wichtigen Region zu festigen. Gleichzeitig dürften die gesundheitlichen Risiken das Reiseprogramm maßgeblich beeinflussen und stehen im Fokus internationaler Medien.",
           "tag": "Vatikan",
-          "emoji": "✈️",
+          "emoji": "✝️",
           "quelle": "BBC",
           "quelle_url": "https://www.bbc.co.uk/news/articles/cqn06j0y61k6o?at_medium=RSS&at_campaign=rss"
         },
         {
           "id": "politik-2",
-          "titel": "Bombendrohungen lähmen europäischen Luftverkehr erneut",
-          "zusammenfassung": "Zum zweiten Mal innerhalb einer Woche haben gefälschte Bombendrohungen Dutzende Flüge in ganz Europa betroffen und zu erheblichen Störungen geführt. Mindestens 21 Maschinen waren betroffen; die britische Regierung stuft die Vorfälle als gezielte böswillige Aktion ein.",
-          "bedeutung": "Serielle Falschmeldungen dieser Art können die Sicherheitsinfrastruktur ganzer Kontinente destabilisieren und sind als koordinierter Angriff auf kritische Infrastruktur zu werten.",
-          "hintergrund": "Behörden in mehreren Ländern ermitteln, ob hinter den Drohungen eine koordinierte Kampagne steckt, etwa mit dem Ziel, Sicherheitsbehörden zu überlasten oder wirtschaftlichen Schaden anzurichten. Derartige Angriffsmuster wurden in der Vergangenheit teils staatlichen oder halbstaatlichen Akteuren zugeschrieben.\n\nDie Vorfälle erhöhen den Druck auf europäische Regierungen, die Kooperation der Strafverfolgungsbehörden im Bereich Luftsicherheit zu intensivieren und schnellere Verifikationsverfahren für Bedrohungsmeldungen zu entwickeln.",
-          "tag": "Luftsicherheit",
-          "emoji": "✈️",
+          "titel": "Kenianischer Sektenchef wegen 191-fachen Mordes verurteilt",
+          "zusammenfassung": "Paul Mackenzie, Anführer einer apokalyptischen Sekte in Kenia, ist zu lebenslanger Haft verurteilt worden. Er hatte seine Anhänger dazu gebracht, ihre Kinder in einem Wald verhungern zu lassen, um ihnen angeblich die Begegnung mit Jesus zu ermöglichen.",
+          "bedeutung": "Das Urteil ist eines der schwersten in der Geschichte religiöser Massengräueltaten in Afrika und wirft grundlegende Fragen über staatliche Aufsicht über extremistische Religionsgemeinschaften auf.",
+          "hintergrund": "Die Massengräber wurden 2023 in einem Waldgebiet in der Küstenregion Kenias entdeckt. Die Opferzahl von mindestens 191 Toten – darunter zahlreiche Kinder – schockierte das Land und die internationale Gemeinschaft. Mackenzie predigte, das Fasten bis zum Tod sei der einzige Weg zur Erlösung.\n\nDer Fall löste eine breite Debatte über die Regulierung religiöser Gruppen in Kenia und anderen afrikanischen Staaten aus. Kritiker werfen den Behörden vor, trotz früherer Warnzeichen nicht rechtzeitig eingegriffen zu haben. Das Urteil wird als historisches Signal gegen religiösen Extremismus gewertet.",
+          "tag": "Religionsextremismus",
+          "emoji": "⚖️",
           "quelle": "BBC",
-          "quelle_url": "https://www.bbc.co.uk/news/articles/cmpqg08nz3pqo?at_medium=RSS&at_campaign=rss"
+          "quelle_url": "https://www.bbc.co.uk/news/articles/cm5yne5984l0o?at_medium=RSS&at_campaign=rss"
         }
       ]
     },
@@ -49,10 +49,10 @@
       "stories": [
         {
           "id": "wirtschaft-0",
-          "titel": "Bank of England erhöht Leitzins erstmals seit drei Jahren",
-          "zusammenfassung": "Die Bank of England hat ihren Leitzins von 3,75 auf 4,0 Prozent angehoben – die erste Zinserhöhung seit über drei Jahren. Der Schritt war von den meisten Marktteilnehmern erwartet worden und soll der hartnäckigen Inflation entgegenwirken.",
-          "bedeutung": "Eine Zinserhöhung der Bank of England beeinflusst unmittelbar Hypothekenzinsen, Verbraucherkredite und die Sparrenditen für Millionen britischer Haushalte.",
-          "hintergrund": "Großbritannien kämpft mit einer Inflationsrate, die deutlich über dem Zielwert der Notenbank liegt. Der Zinsschritt folgt einer Reihe ähnlicher Entscheidungen anderer Zentralbanken weltweit, die versuchen, den Preisdruck ohne eine schwere Rezession zu bremsen.\n\nÖkonomen diskutieren, ob weitere Erhöhungen folgen werden oder ob die Notenbank nun eine Pause einlegt, um die Auswirkungen auf Konjunktur und Arbeitsmarkt zu beobachten. Die Entscheidung fällt in eine Phase, in der britische Verbraucher bereits unter hohen Energie- und Lebensmittelpreisen leiden.",
+          "titel": "Bank of England hebt Leitzins erstmals seit Jahren an",
+          "zusammenfassung": "Die Bank of England hat ihren Leitzins von 3,75 auf 4,0 Prozent erhöht – die erste Anhebung seit mehr als drei Jahren. Analysten hatten den Schritt mehrheitlich erwartet, warnen aber vor weiteren Konsequenzen für Haushalte und Unternehmen.",
+          "bedeutung": "Der Zinsschritt der Bank of England beeinflusst Millionen Hypotheken- und Kreditnehmer im Vereinigten Königreich und sendet ein Signal an andere Zentralbanken weltweit.",
+          "hintergrund": "Der Schritt erfolgt vor dem Hintergrund hartnäckig hoher Inflation, die Verbraucher und Unternehmen gleichermaßen belastet. Die Zentralbank sieht sich gezwungen, die Nachfrage zu dämpfen, um die Preisstabilität wiederherzustellen – auch wenn dies das Wachstum bremst.\n\nFür Sparer bedeutet die Anhebung tendenziell höhere Erträge, während Kreditnehmer mit variablen Zinssätzen höhere Monatsraten erwarten müssen. Ökonomen diskutieren, ob weitere Erhöhungen folgen werden oder ob die Zentralbank eine Pause einlegen wird, sobald sich erste Dämpfungseffekte zeigen.",
           "tag": "Geldpolitik",
           "emoji": "🏦",
           "quelle": "BBC",
@@ -60,25 +60,25 @@
         },
         {
           "id": "wirtschaft-1",
-          "titel": "Pfund Sterling auf höchstem Stand seit Brexit-Referendum",
-          "zusammenfassung": "Das britische Pfund hat gegenüber einem Währungskorb den höchsten Stand seit dem Brexit-Referendum vor einem Jahrzehnt erreicht. Hinter dem Anstieg stehen verbesserte Wirtschaftsaussichten und die Zinsentscheidung der Bank of England.",
-          "bedeutung": "Ein starkes Pfund verbilligt Importe und dämpft damit die Inflation, belastet aber gleichzeitig britische Exporteure im internationalen Wettbewerb.",
-          "hintergrund": "Die Aufwertung des Pfunds ist ein bemerkenswertes Signal: Seit dem Brexit-Votum von 2016 hatte die britische Währung gegenüber Euro und Dollar erheblich an Wert verloren und galt als Barometer für die wirtschaftlichen Risiken des EU-Austritts. Die aktuelle Stärke zeigt, dass sich die Stimmung gegenüber dem britischen Wirtschaftsstandort spürbar verbessert hat.\n\nExperten warnen jedoch, dass eine weitere Aufwertung Risiken birgt, insbesondere für Branchen wie die Rüstungs- und Pharmaindustrie, die stark auf Exportmärkte angewiesen sind. Wie nachhaltig die Erholung ist, hängt maßgeblich von der weiteren Inflationsentwicklung und dem geldpolitischen Kurs ab.",
-          "tag": "Devisenmärkte",
-          "emoji": "💷",
+          "titel": "US-Midterms lösen KI-Aktienverkaufswelle aus",
+          "zusammenfassung": "Der Wahlsieg der Demokraten bei den US-Zwischenwahlen hat Sorgen vor schärferer KI-Regulierung geschürt und zu einem breiten Ausverkauf von Technologieaktien geführt. Investoren befürchten, dass eine demokratisch kontrollierte Legislative den Ausbau der Künstlichen Intelligenz bremsen könnte.",
+          "bedeutung": "Die Marktreaktion zeigt, wie eng politische Machtverhältnisse und die Bewertung ganzer Technologiesektoren mittlerweile miteinander verknüpft sind.",
+          "hintergrund": "Bereits vor den Midterms hatten sich Zweifel an den enormen Bewertungen im KI-Sektor gemehrt. Der Wahlausgang hat diese Unsicherheiten verstärkt: Führende demokratische Politiker fordern offen ein Moratorium für neue Rechenzentren und strengere Auflagen für KI-Unternehmen.\n\nAnalysten warnen, dass eine übermäßig restriktive Regulierung die globale Wettbewerbsfähigkeit der USA im KI-Rennen mit China gefährden könnte. Gleichzeitig sehen einige Marktbeobachter in der Korrektur eine gesunde Neubewertung eines überhitzten Segments, das zuletzt von spekulativen Investitionen getrieben wurde.",
+          "tag": "KI-Regulierung",
+          "emoji": "🤖",
           "quelle": "BBC",
-          "quelle_url": "https://www.bbc.co.uk/news/articles/c6lykq2qjn2vo?at_medium=RSS&at_campaign=rss"
+          "quelle_url": "https://www.bbc.co.uk/news/articles/crlykkzwwpydo?at_medium=RSS&at_campaign=rss"
         },
         {
           "id": "wirtschaft-2",
-          "titel": "Paraguay: Präsident Peña tritt nach Bankenkollaps zurück",
-          "zusammenfassung": "Paraguays Präsident Santiago Peña hat sein Amt niedergelegt, nachdem ein bedeutender Bankzusammenbruch das Land erschüttert und das Abgeordnetenhaus ein Amtsenthebungsverfahren eingeleitet hatte. Der Rücktritt löst eine politische Krise in dem südamerikanischen Land aus.",
-          "bedeutung": "Ein erzwungener Regierungswechsel infolge eines Bankenkollapses gefährdet die wirtschaftliche Stabilität Paraguays und könnte Ansteckungseffekte auf Nachbarstaaten haben.",
-          "hintergrund": "Paraguay ist zwar eine verhältnismäßig kleine Volkswirtschaft, aber ein wichtiges Bindeglied im südamerikanischen Handels- und Finanzgefüge. Ein politisches Vakuum in Kombination mit einem Bankenkollaps kann ausländische Investoren verschrecken und die Landeswährung Guaraní unter Druck setzen.\n\nDie Krise offenbart strukturelle Schwächen in der paraguayischen Finanzaufsicht und stellt die Nachfolgeregierung vor die schwierige Aufgabe, Vertrauen wiederherzustellen und gleichzeitig akute wirtschaftliche Schäden zu begrenzen.",
-          "tag": "Regierungskrise",
-          "emoji": "🇵🇾",
-          "quelle": "BBC",
-          "quelle_url": "https://www.bbc.co.uk/news/articles/c6p9g39vln3yo?at_medium=RSS&at_campaign=rss"
+          "titel": "KI-Schulden werden teurer: CoreWeave-Anleihen unter Druck",
+          "zusammenfassung": "Die Anleiherenditen des KI-Infrastrukturanbieters CoreWeave haben die Marke von 16 Prozent überschritten – ein Warnsignal für die gesamte Branche. Investoren verlieren zunehmend das Vertrauen in die Rentabilität massiver Datenzentrumsausgaben.",
+          "bedeutung": "Steigende Risikoaufschläge im KI-Schuldenmarkt könnten die Finanzierungsbasis der gesamten Infrastrukturoffensive rund um Künstliche Intelligenz erschüttern.",
+          "hintergrund": "CoreWeave hat sich als einer der wichtigsten Vermieter von Rechenkapazität für KI-Modelle etabliert und dafür milliardenschwere Schulden aufgenommen. Die explodierenden Renditen seiner Anleihen signalisieren, dass Gläubiger erhebliche Zweifel an der Fähigkeit des Unternehmens hegen, diese Verbindlichkeiten aus künftigen Erträgen zu bedienen.\n\nDer Trend könnte weitreichende Folgen haben: Viele KI-Startups und Hyperscaler sind auf günstige Fremdfinanzierung angewiesen, um ihre Rechenzentren auszubauen. Verteuert sich diese Finanzierung dauerhaft, droht eine Investitionsbremse in einem Sektor, der bisher als nahezu unaufhaltsam galt.",
+          "tag": "KI-Finanzierung",
+          "emoji": "📉",
+          "quelle": "CNBC",
+          "quelle_url": "https://www.cnbc.com/2026/11/06/coreweave-bond-yield-tops-16percent-as-ai-credit-stress-rises.html"
         }
       ]
     },
@@ -89,36 +89,36 @@
       "stories": [
         {
           "id": "boerse-0",
+          "titel": "US-Jobmarkt überrascht: 165.000 neue Stellen im Oktober",
+          "zusammenfassung": "Die amerikanische Wirtschaft hat im Oktober 165.000 neue Arbeitsplätze geschaffen – weit mehr als die erwarteten 59.000. Die Arbeitslosenquote sank leicht auf 4,1 Prozent und signalisiert eine nach wie vor robuste Beschäftigungslage.",
+          "bedeutung": "Der überraschend starke Jobbericht beeinflusst die Erwartungen an die künftige Zinspolitik der US-Notenbank und damit die globalen Kapitalmärkte.",
+          "hintergrund": "Der Bericht des Bureau of Labor Statistics überraschte Ökonomen und Märkte gleichermaßen. Ein derart starkes Beschäftigungswachstum in einem Umfeld hoher Zinsen deutet darauf hin, dass die US-Wirtschaft widerstandsfähiger ist als vielfach angenommen.\n\nGleichzeitig werfen die Zahlen Fragen auf: Denn unter der robusten Oberfläche verbergen sich Hinweise auf eine steigende Langzeitarbeitslosigkeit. Die durchschnittliche Dauer einer Jobsuche überschritt im Oktober erstmals seit einem Jahrzehnt – außerhalb der Pandemie – die Marke von 27 Wochen, was auf strukturelle Verwerfungen im Arbeitsmarkt hindeutet.",
+          "tag": "Arbeitsmarkt",
+          "emoji": "📊",
+          "quelle": "CNBC",
+          "quelle_url": "https://www.cnbc.com/2026/11/06/jobs-report-october-2026.html"
+        },
+        {
+          "id": "boerse-1",
           "titel": "Nasdaq rutscht in Korrekturterritorium – wie geht es weiter?",
-          "zusammenfassung": "Der Nasdaq-Composite-Index ist um mehr als zehn Prozent von seinem jüngsten Höchststand gefallen und hat damit offiziell Korrekturterritorium erreicht. Auslöser sind wachsende Sorgen über eine Verlangsamung beim Thema Künstliche Intelligenz sowie politische Unsicherheiten nach den US-Midterms.",
-          "bedeutung": "Korrekturen am Nasdaq betreffen Billionen Dollar an Marktkapitalisierung und beeinflussen Altersvorsorgedepots und Fonds weltweit.",
-          "hintergrund": "Historisch hat der Nasdaq nach Korrekturen in einem Großteil der Fälle innerhalb von sechs bis zwölf Monaten neue Höchststände erreicht, doch die aktuelle Kombination aus Zinsdruck, KI-Skepsis und politischer Unsicherheit macht Prognosen schwieriger als üblich. Viele Marktteilnehmer suchen nach Signalen, ob es sich um eine vorübergehende Korrektur oder den Beginn eines längeren Abschwungs handelt.\n\nBesonders tech-lastige Portfolios sind betroffen, da Schwergewichte wie Chip- und Cloud-Unternehmen überproportional abgestraft wurden. Analysten beobachten nun genau, ob institutionelle Anleger die niedrigeren Kurse als Kaufgelegenheit nutzen oder weitere Mittel abziehen.",
-          "tag": "Tech-Aktien",
+          "zusammenfassung": "Der Nasdaq-Composite-Index ist um mehr als zehn Prozent von seinem jüngsten Höchststand gefallen und hat damit offiziell Korrekturterritorium erreicht. Auslöser sind politische Unsicherheiten nach den Midterms und die Neubewertung von Technologiewerten.",
+          "bedeutung": "Korrekturen am Nasdaq haben historisch Signalwirkung für globale Technologiemärkte und können Risikoaversion bei Investoren weltweit auslösen.",
+          "hintergrund": "Der technologielastige Index war in den vergangenen Jahren stark von KI- und Wachstumswerten getragen worden. Nun trifft ihn eine Kombination aus politischem Gegenwind, steigenden Zinsen und enttäuschenden Bewertungskorrekturen besonders hart.\n\nHistorische Daten zeigen, dass auf Korrekturen des Nasdaq in der Mehrheit der Fälle innerhalb von sechs bis zwölf Monaten eine Erholung folgte. Ob dies diesmal gelingt, hängt nach Einschätzung von Analysten maßgeblich davon ab, wie aggressiv die neue demokratische Kongressmehrheit KI-Regulierungen durchsetzen wird.",
+          "tag": "Börsenkorrektur",
           "emoji": "📉",
           "quelle": "CNBC",
           "quelle_url": "https://www.cnbc.com/2026/11/05/nasdaq-drops-into-correction-territory-heres-what-typically-happens-next.html"
         },
         {
-          "id": "boerse-1",
-          "titel": "Eurozone-Inflation springt auf vier Prozent – Zinserhöhung droht",
-          "zusammenfassung": "Die Inflationsrate in der Eurozone hat erstmals seit drei Jahren die Vier-Prozent-Marke überschritten, angetrieben vor allem von Energiepreisen, die im Oktober um mehr als zwanzig Prozent stiegen. Die Entwicklung erhöht den Druck auf die Europäische Zentralbank, ihren geldpolitischen Kurs zu verschärfen.",
-          "bedeutung": "Steigende Inflation in der Eurozone bedeutet Kaufkraftverlust für rund 350 Millionen Menschen und könnte eine Zinswende einleiten, die Staatshaushalte und Schuldner unter Druck setzt.",
-          "hintergrund": "Die EZB hatte zuletzt betont, Inflationsschübe seien vorübergehender Natur. Angesichts eines erneuten Anstiegs auf dieses Niveau gerät diese Einschätzung unter erheblichen Rechtfertigungsdruck. Besonders energieintensive Volkswirtschaften wie Deutschland und die südeuropäischen Staaten sind von der Entwicklung betroffen.\n\nMärkte preisen mittlerweile eine baldige Zinsanhebung durch die EZB ein, was die Finanzierungskosten für Staaten mit hoher Schuldenlast wie Italien und Griechenland spürbar erhöhen würde. Die Herbst-Prognosen der Notenbank dürften entsprechend nach oben revidiert werden.",
-          "tag": "Inflation",
-          "emoji": "📊",
-          "quelle": "CNBC",
-          "quelle_url": "https://www.cnbc.com/2026/11/04/euro-zone-cpi-inflation-october-ecb-rate-hike.html"
-        },
-        {
           "id": "boerse-2",
-          "titel": "Schuldenobergrenze: Demokraten unter Zugzwang, Märkte nervös",
-          "zusammenfassung": "Nach den deutlichen Verlusten der Republikaner bei den Midterms erwägen führende Demokraten, die anstehende Debatte über die US-Schuldenobergrenze für politische Zugeständnisse zu nutzen. Analysten warnen, dass ein solches Tauziehen massive Marktturbulenzen und im schlimmsten Fall einen Zahlungsausfall auslösen könnte.",
-          "bedeutung": "Ein politisch motivierter Streit um die US-Schuldenobergrenze kann globale Finanzmärkte erschüttern, da US-Staatsanleihen als sicherste Anlageform der Welt gelten.",
-          "hintergrund": "Die Schuldenobergrenze war bislang ein traditionelles Druckmittel der jeweiligen Oppositionspartei, um haushaltspolitische Zugeständnisse zu erzwingen. Dass nun die Demokraten trotz ihrer Wahlgewinne in dieser Rolle agieren könnten, stellt eine ungewöhnliche Verschiebung der politischen Dynamik in Washington dar.\n\nInvestoren reagieren auf derartige Szenarien regelmäßig mit erhöhter Volatilität. Besonders Anleihe- und Währungsmärkte könnten unter Druck geraten, sollte keine rasche Einigung erzielt werden. Rating-Agenturen haben in der Vergangenheit bereits bei ähnlichen Situationen mit einer Herabstufung der US-Kreditwürdigkeit gedroht.",
-          "tag": "US-Schulden",
-          "emoji": "🏛️",
+          "titel": "Bank of England warnt: Inflation könnte auf fünf Prozent steigen",
+          "zusammenfassung": "Im Zuge der Leitzinserhöhung auf vier Prozent hat die Bank of England eine deutliche Warnung herausgegeben: Die Inflation könnte in naher Zukunft auf nahezu fünf Prozent klettern. Einzelne Mitglieder des geldpolitischen Ausschusses sprachen sich sogar für eine noch stärkere Anhebung aus.",
+          "bedeutung": "Die Inflationsprognose der Bank of England ist ein zentrales Signal für Rentenmärkte, Währungskurse und die Kaufkraft britischer Verbraucher.",
+          "hintergrund": "Die Warnung vor einer Inflation von fast fünf Prozent übersteigt frühere Schätzungen und erhöht den Druck auf die Zentralbank, ihren Straffungskurs fortzusetzen. Für Verbraucher bedeutet dies anhaltend hohe Lebenshaltungskosten, insbesondere bei Energie und Lebensmitteln.\n\nAn den Anleihemärkten reagierten Investoren mit steigenden Renditen für britische Staatsanleihen. Das Pfund Sterling legte gegenüber dem Euro leicht zu, da Händler nun eine höhere Wahrscheinlichkeit weiterer Zinsschritte einpreisen. Die Entwicklung wird auch von der Europäischen Zentralbank und der US-Fed aufmerksam verfolgt.",
+          "tag": "Inflation",
+          "emoji": "🔺",
           "quelle": "CNBC",
-          "quelle_url": "https://www.cnbc.com/2026/11/04/democrats-trump-debt-ceiling-fight.html"
+          "quelle_url": "https://www.cnbc.com/2026/11/05/interest-rates-inflation-uk.html"
         }
       ]
     }
