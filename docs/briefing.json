@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-07T02:55:13.326479+00:00",
-  "datum": "Samstag, 7. November 2026",
+  "generated_at": "2026-11-08T02:33:52.735061+00:00",
+  "datum": "Sonntag, 8. November 2026",
   "ressorts": [
     {
       "id": "politik",
@@ -9,36 +9,36 @@
       "stories": [
         {
           "id": "politik-0",
-          "titel": "Bombendrohungen treffen europäische Fluggesellschaften",
-          "zusammenfassung": "Eine neue Welle von Bombendrohungen hat mehrere europäische Fluggesellschaften getroffen und zu erheblichen Sicherheitseinsätzen geführt. Bislang wurden keine Sprengstoffe gefunden, und ein Zusammenhang mit ähnlichen Drohungen gegen Medienunternehmen ist nicht belegt.",
-          "bedeutung": "Die koordinierten Drohungen gegen den Luftverkehr mehrerer Länder zeigen, wie anfällig kritische Infrastruktur für hybride Bedrohungsszenarien ist.",
-          "hintergrund": "Innerhalb weniger Tage häuften sich Bombendrohungen gegen Maschinen verschiedener europäischer Carrier. Behörden in mehreren Ländern leiteten Sicherheitsprotokolle ein, Flüge wurden teils umgeleitet oder am Boden gehalten – ohne dass sich die Drohungen bisher als real erwiesen hätten.\n\nParallel dazu hatten zuvor Medienorganisationen ähnliche Drohungen erhalten. Ermittler prüfen, ob extremistische Gruppen dahinterstecken; eine russische Splittergruppe wies jede Verantwortung von sich. Der Vorfall verdeutlicht die wachsende Belastung europäischer Sicherheitsbehörden durch staatlich oder ideologisch motivierte Desinformations- und Einschüchterungskampagnen.",
-          "tag": "Luftsicherheit",
-          "emoji": "✈️",
+          "titel": "Schütze tötet sechs Menschen auf Krakaus Hauptplatz",
+          "zusammenfassung": "Bei einem offenbar wahllosen Schusswaffenangriff auf dem zentralen Marktplatz von Krakau kamen sechs Menschen ums Leben. Im Haus des Täters entdeckten Ermittler weitere drei Leichen.",
+          "bedeutung": "Der Anschlag mitten in einer der meistbesuchten Touristenstädte Europas erschüttert das Sicherheitsgefühl auf dem Kontinent und wirft Fragen nach Waffenkontrollen auf.",
+          "hintergrund": "Die Tat ereignete sich ohne erkennbaren politischen Hintergrund und traf völlig zufällige Passanten und Touristen auf einem der bekanntesten Plätze Polens. Behörden sicherten umgehend die gesamte Innenstadt ab.\n\nPolnische Sicherheitsbehörden ermitteln nun sowohl zu den Tatumständen als auch zur Frage, ob der Täter Komplizen hatte. Die genauen Hintergründe und das Motiv sind bislang unklar.",
+          "tag": "Schusswaffe Krakau",
+          "emoji": "🚨",
           "quelle": "BBC",
-          "quelle_url": "https://www.bbc.co.uk/news/articles/cq62yy064vjpo?at_medium=RSS&at_campaign=rss"
+          "quelle_url": "https://www.bbc.co.uk/news/articles/cmd7q15drwgeo?at_medium=RSS&at_campaign=rss"
         },
         {
           "id": "politik-1",
-          "titel": "Papst reist trotz Lungenkrebsoperation nach Lateinamerika",
-          "zusammenfassung": "Papst Leo bricht wenige Wochen nach einer Lungenteiloperation zu einer ausgedehnten Reise durch Uruguay, Argentinien und Peru auf. Die Visite gilt als deutliches Zeichen seines Willens, trotz gesundheitlicher Einschränkungen die Bindung der Kirche an ihren zentralen Kontinent zu stärken.",
-          "bedeutung": "Die Reise sendet ein global beachtetes Signal über die Belastbarkeit des Kirchenoberhauptes und die strategische Priorität Lateinamerikas für den Vatikan.",
-          "hintergrund": "Lateinamerika beheimatet einen Großteil der weltweiten Katholiken, und die Region steht kirchenpolitisch unter Druck durch wachsenden Einfluss evangelikaler Bewegungen sowie soziale Spannungen. Der Papst hatte erst vor wenigen Wochen einen chirurgischen Eingriff an der Lunge hinter sich gebracht, was die Reise medizinisch wie symbolisch bemerkenswert macht.\n\nBeobachter werten den Besuch als Versuch, die institutionelle Präsenz Roms in einer für die Kirche existenziell wichtigen Region zu festigen. Gleichzeitig dürften die gesundheitlichen Risiken das Reiseprogramm maßgeblich beeinflussen und stehen im Fokus internationaler Medien.",
-          "tag": "Vatikan",
-          "emoji": "✝️",
+          "titel": "Israels Präsident beauftragt Oppositionschef Eisenkot",
+          "zusammenfassung": "Nach der Parlamentswahl in Israel hat Staatspräsident Herzog den Oppositionspolitiker Gadi Eisenkot mit der Regierungsbildung beauftragt. Weder das Lager von Ministerpräsident Netanyahu noch das seiner Rivalen hatte eine klare Mehrheit errungen.",
+          "bedeutung": "Israelische Koalitionsverhandlungen nach einer knappen Wahl entscheiden über die künftige Ausrichtung des Landes in einem geopolitisch hochsensiblen Moment im Nahen Osten.",
+          "hintergrund": "Das Wahlergebnis spiegelt eine tiefe politische Spaltung der israelischen Gesellschaft wider. Netanyahu, der seit Jahren die Politik dominiert, konnte seine Machtbasis nicht ausbauen, während auch das Oppositionslager keine eindeutige Führungsrolle beanspruchen konnte.\n\nEisenkot, ein ehemaliger Generalstabschef der israelischen Armee, gilt als moderate Figur. Seine Beauftragung eröffnet nun einen offenen Ausgang für die Regierungsbildung in einem Land, das außenpolitisch unter enormem Druck steht.",
+          "tag": "Israel Wahl",
+          "emoji": "🗳️",
           "quelle": "BBC",
-          "quelle_url": "https://www.bbc.co.uk/news/articles/cqn06j0y61k6o?at_medium=RSS&at_campaign=rss"
+          "quelle_url": "https://www.bbc.co.uk/news/articles/cmy8367lj5xlo?at_medium=RSS&at_campaign=rss"
         },
         {
           "id": "politik-2",
-          "titel": "Kenianischer Sektenchef wegen 191-fachen Mordes verurteilt",
-          "zusammenfassung": "Paul Mackenzie, Anführer einer apokalyptischen Sekte in Kenia, ist zu lebenslanger Haft verurteilt worden. Er hatte seine Anhänger dazu gebracht, ihre Kinder in einem Wald verhungern zu lassen, um ihnen angeblich die Begegnung mit Jesus zu ermöglichen.",
-          "bedeutung": "Das Urteil ist eines der schwersten in der Geschichte religiöser Massengräueltaten in Afrika und wirft grundlegende Fragen über staatliche Aufsicht über extremistische Religionsgemeinschaften auf.",
-          "hintergrund": "Die Massengräber wurden 2023 in einem Waldgebiet in der Küstenregion Kenias entdeckt. Die Opferzahl von mindestens 191 Toten – darunter zahlreiche Kinder – schockierte das Land und die internationale Gemeinschaft. Mackenzie predigte, das Fasten bis zum Tod sei der einzige Weg zur Erlösung.\n\nDer Fall löste eine breite Debatte über die Regulierung religiöser Gruppen in Kenia und anderen afrikanischen Staaten aus. Kritiker werfen den Behörden vor, trotz früherer Warnzeichen nicht rechtzeitig eingegriffen zu haben. Das Urteil wird als historisches Signal gegen religiösen Extremismus gewertet.",
-          "tag": "Religionsextremismus",
-          "emoji": "⚖️",
+          "titel": "Trump macht Miller zum Stabschef – Konflikte programmiert",
+          "zusammenfassung": "US-Präsident Donald Trump hat seinen engen Vertrauten Stephen Miller zum neuen Stabschef des Weißen Hauses ernannt. Die Beförderung des als kompromisslos geltenden Partisanen dürfte zu erheblichen Spannungen mit dem Kongress führen.",
+          "bedeutung": "Die Personalie signalisiert, dass Trump seinen innenpolitischen Kurs verschärfen will – mit weitreichenden Folgen für die US-Gesetzgebung und das politische Klima in Washington.",
+          "hintergrund": "Miller ist eine der umstrittensten Figuren in Trumps politischem Umfeld und bekannt für seine harte Linie in der Einwanderungspolitik sowie seinen konfrontativen Stil gegenüber politischen Gegnern. Seine Ernennung zum mächtigsten Stabsposten im Weißen Haus gilt als klares Signal an Kritiker und Institutionen gleichermaßen.\n\nBeobachter erwarten, dass Miller versuchen wird, die Exekutivgewalt des Präsidenten maximal auszureizen und legislative Kompromisse weitgehend zu meiden. Der Kongress, der in Teilen auch innerhalb der Republikanischen Partei heterogen zusammengesetzt ist, dürfte darauf mit zunehmendem Widerstand reagieren.",
+          "tag": "Trump Stabschef",
+          "emoji": "🇺🇸",
           "quelle": "BBC",
-          "quelle_url": "https://www.bbc.co.uk/news/articles/cm5yne5984l0o?at_medium=RSS&at_campaign=rss"
+          "quelle_url": "https://www.bbc.co.uk/news/articles/crp3gg2z171go?at_medium=RSS&at_campaign=rss"
         }
       ]
     },
@@ -49,36 +49,36 @@
       "stories": [
         {
           "id": "wirtschaft-0",
-          "titel": "Bank of England hebt Leitzins erstmals seit Jahren an",
-          "zusammenfassung": "Die Bank of England hat ihren Leitzins von 3,75 auf 4,0 Prozent erhöht – die erste Anhebung seit mehr als drei Jahren. Analysten hatten den Schritt mehrheitlich erwartet, warnen aber vor weiteren Konsequenzen für Haushalte und Unternehmen.",
-          "bedeutung": "Der Zinsschritt der Bank of England beeinflusst Millionen Hypotheken- und Kreditnehmer im Vereinigten Königreich und sendet ein Signal an andere Zentralbanken weltweit.",
-          "hintergrund": "Der Schritt erfolgt vor dem Hintergrund hartnäckig hoher Inflation, die Verbraucher und Unternehmen gleichermaßen belastet. Die Zentralbank sieht sich gezwungen, die Nachfrage zu dämpfen, um die Preisstabilität wiederherzustellen – auch wenn dies das Wachstum bremst.\n\nFür Sparer bedeutet die Anhebung tendenziell höhere Erträge, während Kreditnehmer mit variablen Zinssätzen höhere Monatsraten erwarten müssen. Ökonomen diskutieren, ob weitere Erhöhungen folgen werden oder ob die Zentralbank eine Pause einlegen wird, sobald sich erste Dämpfungseffekte zeigen.",
-          "tag": "Geldpolitik",
-          "emoji": "🏦",
+          "titel": "Musk begraben Cybertruck zugunsten autonomer Taxis",
+          "zusammenfassung": "Tesla-Chef Elon Musk hat das Ende der Produktion des Cybertrucks angedeutet, um Kapazitäten für die Fertigung autonomer Robotaxis freizumachen. Die sogenannten Cybercabs sollen ohne Fahrer auskommen und Teslas nächste große Einnahmequelle werden.",
+          "bedeutung": "Die strategische Kehrtwende bei Tesla zeigt, wie schnell sich Prioritäten in der Automobilbranche verschieben und unterstreicht den globalen Wettlauf um autonomes Fahren.",
+          "hintergrund": "Der Cybertruck war seit seiner Markteinführung von Lieferverzögerungen, technischen Problemen und enttäuschenden Verkaufszahlen geplagt. Obwohl das Fahrzeug zunächst als Symbol für Teslas Innovationskraft gehandelt wurde, blieb der kommerzielle Durchbruch aus.\n\nMit der Fokussierung auf Cybercabs setzt Musk auf das Zukunftsfeld autonomes Fahren, in dem Tesla gegen Rivalen wie Waymo und eine wachsende Zahl chinesischer Hersteller antritt. Ob die strategische Neuausrichtung gelingt, wird maßgeblich davon abhängen, ob Tesla die regulatorischen Hürden für selbstfahrende Fahrzeuge überwinden kann.",
+          "tag": "Tesla Autonomes Fahren",
+          "emoji": "🚖",
           "quelle": "BBC",
-          "quelle_url": "https://www.bbc.co.uk/news/articles/ck5ynw45jrgqo?at_medium=RSS&at_campaign=rss"
+          "quelle_url": "https://www.bbc.co.uk/news/articles/cq1j33w7d232o?at_medium=RSS&at_campaign=rss"
         },
         {
           "id": "wirtschaft-1",
-          "titel": "US-Midterms lösen KI-Aktienverkaufswelle aus",
-          "zusammenfassung": "Der Wahlsieg der Demokraten bei den US-Zwischenwahlen hat Sorgen vor schärferer KI-Regulierung geschürt und zu einem breiten Ausverkauf von Technologieaktien geführt. Investoren befürchten, dass eine demokratisch kontrollierte Legislative den Ausbau der Künstlichen Intelligenz bremsen könnte.",
-          "bedeutung": "Die Marktreaktion zeigt, wie eng politische Machtverhältnisse und die Bewertung ganzer Technologiesektoren mittlerweile miteinander verknüpft sind.",
-          "hintergrund": "Bereits vor den Midterms hatten sich Zweifel an den enormen Bewertungen im KI-Sektor gemehrt. Der Wahlausgang hat diese Unsicherheiten verstärkt: Führende demokratische Politiker fordern offen ein Moratorium für neue Rechenzentren und strengere Auflagen für KI-Unternehmen.\n\nAnalysten warnen, dass eine übermäßig restriktive Regulierung die globale Wettbewerbsfähigkeit der USA im KI-Rennen mit China gefährden könnte. Gleichzeitig sehen einige Marktbeobachter in der Korrektur eine gesunde Neubewertung eines überhitzten Segments, das zuletzt von spekulativen Investitionen getrieben wurde.",
-          "tag": "KI-Regulierung",
+          "titel": "US-Midterms lösen Kursrutsch bei KI-Aktien aus",
+          "zusammenfassung": "Die Ergebnisse der US-Zwischenwahlen haben Sorgen über eine strengere Regulierung von Künstlicher Intelligenz geweckt und zu deutlichen Kursverlusten bei KI-Aktien geführt. Anleger befürchten, dass ein verändertes Machtgefüge im Kongress neue gesetzliche Schranken für die Branche bedeuten könnte.",
+          "bedeutung": "Der Einbruch verdeutlicht, wie stark politische Weichenstellungen globale Technologiemärkte beeinflussen und wie nervös Investoren angesichts der noch ungeklärten KI-Regulierungsfrage sind.",
+          "hintergrund": "Bereits vor den Wahlen hatten sich in der Investorengemeinschaft Bedenken über die Nachhaltigkeit des KI-Booms angesammelt. Fragen zu Datenschutz, Haftung und Marktmacht großer Plattformen stehen in Washington zunehmend auf der Agenda.\n\nEin möglicher Politikwechsel könnte insbesondere Hyperscaler und Chiphersteller treffen, die bislang von einem weitgehend regulierungsfreien Umfeld profitiert hatten. Marktbeobachter warnen, dass die Unsicherheit kurzfristig anhalten könnte.",
+          "tag": "KI Regulierung",
           "emoji": "🤖",
           "quelle": "BBC",
           "quelle_url": "https://www.bbc.co.uk/news/articles/crlykkzwwpydo?at_medium=RSS&at_campaign=rss"
         },
         {
           "id": "wirtschaft-2",
-          "titel": "KI-Schulden werden teurer: CoreWeave-Anleihen unter Druck",
-          "zusammenfassung": "Die Anleiherenditen des KI-Infrastrukturanbieters CoreWeave haben die Marke von 16 Prozent überschritten – ein Warnsignal für die gesamte Branche. Investoren verlieren zunehmend das Vertrauen in die Rentabilität massiver Datenzentrumsausgaben.",
-          "bedeutung": "Steigende Risikoaufschläge im KI-Schuldenmarkt könnten die Finanzierungsbasis der gesamten Infrastrukturoffensive rund um Künstliche Intelligenz erschüttern.",
-          "hintergrund": "CoreWeave hat sich als einer der wichtigsten Vermieter von Rechenkapazität für KI-Modelle etabliert und dafür milliardenschwere Schulden aufgenommen. Die explodierenden Renditen seiner Anleihen signalisieren, dass Gläubiger erhebliche Zweifel an der Fähigkeit des Unternehmens hegen, diese Verbindlichkeiten aus künftigen Erträgen zu bedienen.\n\nDer Trend könnte weitreichende Folgen haben: Viele KI-Startups und Hyperscaler sind auf günstige Fremdfinanzierung angewiesen, um ihre Rechenzentren auszubauen. Verteuert sich diese Finanzierung dauerhaft, droht eine Investitionsbremse in einem Sektor, der bisher als nahezu unaufhaltsam galt.",
-          "tag": "KI-Finanzierung",
-          "emoji": "📉",
-          "quelle": "CNBC",
-          "quelle_url": "https://www.cnbc.com/2026/11/06/coreweave-bond-yield-tops-16percent-as-ai-credit-stress-rises.html"
+          "titel": "Speck-Chips und Brexit: Namensstreit um britischen Snack",
+          "zusammenfassung": "Ein nach dem Brexit ausgehandeltes Lebensmittelabkommen zwischen Großbritannien und der EU hat eine unerwartete Debatte ausgelöst: Beliebte britische Chips mit Speckgeschmack könnten unter EU-Herkunftsregeln nicht mehr unter ihrem gewohnten Namen vermarktet werden. Der Streit steht symbolisch für die fortdauernden Handelsspannungen nach dem EU-Austritt.",
+          "bedeutung": "Scheinbar kleinliche Produktnamen-Streitigkeiten illustrieren, wie tiefgreifend das Brexit-Regelwerk in den Alltag von Verbrauchern und Unternehmen eingreift.",
+          "hintergrund": "Im Zuge der EU-Lebensmittelkennzeichnungsregeln, denen Großbritannien im Rahmen eines Nachfolgeabkommens teilweise zugestimmt hat, geraten nun Produkte unter Druck, deren Bezeichnungen geografische oder produktbezogene Herkunftsangaben implizieren könnten.\n\nDer Fall zeigt exemplarisch, dass die Folgen des Brexits für die britische Wirtschaft und Lebensmittelindustrie auch Jahre nach dem Austritt noch nicht vollständig absehbar sind und weiterhin zu politischen Auseinandersetzungen führen.",
+          "tag": "Brexit Handel",
+          "emoji": "🥓",
+          "quelle": "BBC",
+          "quelle_url": "https://www.bbc.co.uk/news/articles/cm1dwwqrr1kvo?at_medium=RSS&at_campaign=rss"
         }
       ]
     },
@@ -89,36 +89,36 @@
       "stories": [
         {
           "id": "boerse-0",
-          "titel": "US-Jobmarkt überrascht: 165.000 neue Stellen im Oktober",
-          "zusammenfassung": "Die amerikanische Wirtschaft hat im Oktober 165.000 neue Arbeitsplätze geschaffen – weit mehr als die erwarteten 59.000. Die Arbeitslosenquote sank leicht auf 4,1 Prozent und signalisiert eine nach wie vor robuste Beschäftigungslage.",
-          "bedeutung": "Der überraschend starke Jobbericht beeinflusst die Erwartungen an die künftige Zinspolitik der US-Notenbank und damit die globalen Kapitalmärkte.",
-          "hintergrund": "Der Bericht des Bureau of Labor Statistics überraschte Ökonomen und Märkte gleichermaßen. Ein derart starkes Beschäftigungswachstum in einem Umfeld hoher Zinsen deutet darauf hin, dass die US-Wirtschaft widerstandsfähiger ist als vielfach angenommen.\n\nGleichzeitig werfen die Zahlen Fragen auf: Denn unter der robusten Oberfläche verbergen sich Hinweise auf eine steigende Langzeitarbeitslosigkeit. Die durchschnittliche Dauer einer Jobsuche überschritt im Oktober erstmals seit einem Jahrzehnt – außerhalb der Pandemie – die Marke von 27 Wochen, was auf strukturelle Verwerfungen im Arbeitsmarkt hindeutet.",
-          "tag": "Arbeitsmarkt",
-          "emoji": "📊",
+          "titel": "US-Arbeitsmarkt überrascht: 165.000 neue Stellen im Oktober",
+          "zusammenfassung": "Die amerikanische Wirtschaft schuf im Oktober mit 165.000 neuen Stellen fast dreimal so viele Jobs wie von Analysten erwartet. Die Arbeitslosenquote sank leicht auf 4,1 Prozent.",
+          "bedeutung": "Die robusten Arbeitsmarktdaten deuten auf eine anhaltende Stärke der US-Konjunktur hin, nähren aber gleichzeitig Spekulationen über weitere Zinserhöhungen der Federal Reserve.",
+          "hintergrund": "Ökonomen hatten im Vorfeld lediglich mit rund 59.000 neuen Stellen gerechnet, da Hurrikanschäden und Streikaktivitäten den Arbeitsmarkt belasten sollten. Die deutliche Übertreffung der Erwartungen signalisiert eine bemerkenswerte Widerstandsfähigkeit der Wirtschaft.\n\nGleichzeitig warnen Experten, dass die starken Zahlen den Druck auf die US-Notenbank erhöhen, die Leitzinsen weiter anzuheben, um die hartnäckige Inflation einzudämmen. Dies könnte die Finanzmärkte kurzfristig belasten.",
+          "tag": "US Arbeitsmarkt",
+          "emoji": "📈",
           "quelle": "CNBC",
           "quelle_url": "https://www.cnbc.com/2026/11/06/jobs-report-october-2026.html"
         },
         {
           "id": "boerse-1",
-          "titel": "Nasdaq rutscht in Korrekturterritorium – wie geht es weiter?",
-          "zusammenfassung": "Der Nasdaq-Composite-Index ist um mehr als zehn Prozent von seinem jüngsten Höchststand gefallen und hat damit offiziell Korrekturterritorium erreicht. Auslöser sind politische Unsicherheiten nach den Midterms und die Neubewertung von Technologiewerten.",
-          "bedeutung": "Korrekturen am Nasdaq haben historisch Signalwirkung für globale Technologiemärkte und können Risikoaversion bei Investoren weltweit auslösen.",
-          "hintergrund": "Der technologielastige Index war in den vergangenen Jahren stark von KI- und Wachstumswerten getragen worden. Nun trifft ihn eine Kombination aus politischem Gegenwind, steigenden Zinsen und enttäuschenden Bewertungskorrekturen besonders hart.\n\nHistorische Daten zeigen, dass auf Korrekturen des Nasdaq in der Mehrheit der Fälle innerhalb von sechs bis zwölf Monaten eine Erholung folgte. Ob dies diesmal gelingt, hängt nach Einschätzung von Analysten maßgeblich davon ab, wie aggressiv die neue demokratische Kongressmehrheit KI-Regulierungen durchsetzen wird.",
-          "tag": "Börsenkorrektur",
-          "emoji": "📉",
+          "titel": "Fed-Bankerin: Inflation hält Amerikaner auf Tretmühle",
+          "zusammenfassung": "Die Präsidentin der San Francisco Federal Reserve, Mary Daly, bezeichnete den starken Jobmarkt als gute Nachricht, warnte aber gleichzeitig, dass die anhaltend hohe Inflation die Haushaltskassen der Bevölkerung stark belaste. Weitere Zinserhöhungen seien wahrscheinlich.",
+          "bedeutung": "Klare Signale aus der Fed-Führung über den künftigen Zinskurs bewegen global Anleihe- und Aktienmärkte und beeinflussen die Kreditkosten für Millionen von Haushalten und Unternehmen weltweit.",
+          "hintergrund": "Daly betonte, dass trotz des positiven Arbeitsmarktberichts keine Entwarnung bei der Inflation gegeben werden könne. Viele Amerikaner litten weiterhin unter hohen Preisen für Lebensmittel, Mieten und Energie, was die Kaufkraft nachhaltig schmälere.\n\nDie Aussicht auf weiter steigende Zinsen erhöht den Druck auf Hypothekenschuldner und Kreditnehmer, während Anleger an den Rentenmärkten ihre Erwartungen neu kalibrieren müssen.",
+          "tag": "Fed Zinsen",
+          "emoji": "💸",
           "quelle": "CNBC",
-          "quelle_url": "https://www.cnbc.com/2026/11/05/nasdaq-drops-into-correction-territory-heres-what-typically-happens-next.html"
+          "quelle_url": "https://www.cnbc.com/2026/11/06/fed-daly-interest-rates-inflation.html"
         },
         {
           "id": "boerse-2",
-          "titel": "Bank of England warnt: Inflation könnte auf fünf Prozent steigen",
-          "zusammenfassung": "Im Zuge der Leitzinserhöhung auf vier Prozent hat die Bank of England eine deutliche Warnung herausgegeben: Die Inflation könnte in naher Zukunft auf nahezu fünf Prozent klettern. Einzelne Mitglieder des geldpolitischen Ausschusses sprachen sich sogar für eine noch stärkere Anhebung aus.",
-          "bedeutung": "Die Inflationsprognose der Bank of England ist ein zentrales Signal für Rentenmärkte, Währungskurse und die Kaufkraft britischer Verbraucher.",
-          "hintergrund": "Die Warnung vor einer Inflation von fast fünf Prozent übersteigt frühere Schätzungen und erhöht den Druck auf die Zentralbank, ihren Straffungskurs fortzusetzen. Für Verbraucher bedeutet dies anhaltend hohe Lebenshaltungskosten, insbesondere bei Energie und Lebensmitteln.\n\nAn den Anleihemärkten reagierten Investoren mit steigenden Renditen für britische Staatsanleihen. Das Pfund Sterling legte gegenüber dem Euro leicht zu, da Händler nun eine höhere Wahrscheinlichkeit weiterer Zinsschritte einpreisen. Die Entwicklung wird auch von der Europäischen Zentralbank und der US-Fed aufmerksam verfolgt.",
-          "tag": "Inflation",
-          "emoji": "🔺",
+          "titel": "Nasdaq rutscht in Korrekturzone – was kommt als nächstes?",
+          "zusammenfassung": "Der technologielastige Nasdaq-Index ist nach anhaltenden Verlusten in die sogenannte Korrekturzone gerutscht, was einem Rückgang von mehr als zehn Prozent vom jüngsten Höchststand entspricht. Markthistoriker analysieren, wie schnell sich der Index in der Vergangenheit nach solchen Phasen erholt hat.",
+          "bedeutung": "Korrekturen am Nasdaq betreffen aufgrund der globalen Verflechtungen von Technologieaktien Anleger weltweit und können Rückkopplungseffekte auf andere Märkte auslösen.",
+          "hintergrund": "Auslöser des jüngsten Rückgangs sind eine Kombination aus KI-Regulierungssorgen, enttäuschenden Quartalsergebnissen einiger Technologieriesen sowie der Erwartung weiter steigender Zinsen. Die Stimmung unter institutionellen Investoren hat sich merklich eingetrübt.\n\nHistorisch gesehen hat der Nasdaq Korrekturen oft innerhalb weniger Monate aufgeholt, sofern keine tiefgreifende Rezession folgte. Analysten sind jedoch gespalten, ob die aktuellen Rahmenbedingungen mit früheren Erholungsphasen vergleichbar sind.",
+          "tag": "Nasdaq Korrektur",
+          "emoji": "📉",
           "quelle": "CNBC",
-          "quelle_url": "https://www.cnbc.com/2026/11/05/interest-rates-inflation-uk.html"
+          "quelle_url": "https://www.cnbc.com/2026/11/05/nasdaq-drops-into-correction-territory-heres-what-typically-happens-next.html"
         }
       ]
     }
