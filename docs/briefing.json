@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-08T02:33:52.735061+00:00",
-  "datum": "Sonntag, 8. November 2026",
+  "generated_at": "2026-11-09T02:44:53.949164+00:00",
+  "datum": "Montag, 9. November 2026",
   "ressorts": [
     {
       "id": "politik",
@@ -9,36 +9,36 @@
       "stories": [
         {
           "id": "politik-0",
-          "titel": "Schütze tötet sechs Menschen auf Krakaus Hauptplatz",
-          "zusammenfassung": "Bei einem offenbar wahllosen Schusswaffenangriff auf dem zentralen Marktplatz von Krakau kamen sechs Menschen ums Leben. Im Haus des Täters entdeckten Ermittler weitere drei Leichen.",
-          "bedeutung": "Der Anschlag mitten in einer der meistbesuchten Touristenstädte Europas erschüttert das Sicherheitsgefühl auf dem Kontinent und wirft Fragen nach Waffenkontrollen auf.",
-          "hintergrund": "Die Tat ereignete sich ohne erkennbaren politischen Hintergrund und traf völlig zufällige Passanten und Touristen auf einem der bekanntesten Plätze Polens. Behörden sicherten umgehend die gesamte Innenstadt ab.\n\nPolnische Sicherheitsbehörden ermitteln nun sowohl zu den Tatumständen als auch zur Frage, ob der Täter Komplizen hatte. Die genauen Hintergründe und das Motiv sind bislang unklar.",
-          "tag": "Schusswaffe Krakau",
-          "emoji": "🚨",
+          "titel": "Russland beschießt Ukraine vor Abu-Dhabi-Gesprächen",
+          "zusammenfassung": "Russische Angriffe verletzten neun Menschen und beschädigten erneut die ukrainische Energieinfrastruktur. Die Attacken fallen in die Tage vor geplanten trilateralen Verhandlungen in Abu Dhabi.",
+          "bedeutung": "Der Zeitpunkt der Angriffe unmittelbar vor den Friedensgesprächen wirft grundlegende Fragen über Moskaus Verhandlungsbereitschaft auf.",
+          "hintergrund": "Die russischen Streitkräfte haben erneut gezielt Teile des ukrainischen Stromnetzes angegriffen und damit Millionen Zivilisten im Vorwinter in ihrer Energieversorgung bedroht. Neun Personen wurden bei den jüngsten Schlägen verletzt.\n\nIn der kommenden Woche sollen ukrainische und russische Delegationen erstmals seit Langem in Abu Dhabi an trilateralen Gesprächen teilnehmen. Militärexperten sehen in den aktuellen Angriffen ein klassisches Druckmittel, mit dem Moskau die eigene Verhandlungsposition stärken will.",
+          "tag": "Ukraine-Krieg",
+          "emoji": "💥",
           "quelle": "BBC",
-          "quelle_url": "https://www.bbc.co.uk/news/articles/cmd7q15drwgeo?at_medium=RSS&at_campaign=rss"
+          "quelle_url": "https://www.bbc.co.uk/news/articles/cm4g1nq8158po?at_medium=RSS&at_campaign=rss"
         },
         {
           "id": "politik-1",
-          "titel": "Israels Präsident beauftragt Oppositionschef Eisenkot",
-          "zusammenfassung": "Nach der Parlamentswahl in Israel hat Staatspräsident Herzog den Oppositionspolitiker Gadi Eisenkot mit der Regierungsbildung beauftragt. Weder das Lager von Ministerpräsident Netanyahu noch das seiner Rivalen hatte eine klare Mehrheit errungen.",
-          "bedeutung": "Israelische Koalitionsverhandlungen nach einer knappen Wahl entscheiden über die künftige Ausrichtung des Landes in einem geopolitisch hochsensiblen Moment im Nahen Osten.",
-          "hintergrund": "Das Wahlergebnis spiegelt eine tiefe politische Spaltung der israelischen Gesellschaft wider. Netanyahu, der seit Jahren die Politik dominiert, konnte seine Machtbasis nicht ausbauen, während auch das Oppositionslager keine eindeutige Führungsrolle beanspruchen konnte.\n\nEisenkot, ein ehemaliger Generalstabschef der israelischen Armee, gilt als moderate Figur. Seine Beauftragung eröffnet nun einen offenen Ausgang für die Regierungsbildung in einem Land, das außenpolitisch unter enormem Druck steht.",
-          "tag": "Israel Wahl",
-          "emoji": "🗳️",
+          "titel": "Huthis treffen Aramco-Tower im Herzen Riads",
+          "zusammenfassung": "Jemenitische Huthi-Rebellen haben erneut Ziele in Saudi-Arabien angegriffen und dabei das Aramco-Hochhaus im zentralen Finanzbezirk Riads getroffen. Authentifiziertes Bildmaterial belegt sichtbare Schäden an dem markanten Gebäude.",
+          "bedeutung": "Ein Angriff auf das Symbol des saudischen Ölreichtums mitten in der Hauptstadt zeigt, wie weit die Huthi-Reichweite inzwischen reicht und wie verwundbar kritische Infrastruktur des Königreichs ist.",
+          "hintergrund": "Die Huthis haben in den vergangenen Monaten ihre Drohnen- und Raketenkapazitäten massiv ausgebaut und treffen zunehmend tief ins saudische Kernland. Der Aramco-Tower gilt als eines der bekanntesten Symbole der saudischen Ölindustrie und des Finanzsektors.\n\nDer Angriff dürfte die ohnehin angespannte Lage am Golf weiter verschärfen und könnte internationale Debatten über die Sicherheit von Energieinfrastruktur und Versicherungsprämien für die Region neu entfachen.",
+          "tag": "Naher Osten",
+          "emoji": "🚀",
           "quelle": "BBC",
-          "quelle_url": "https://www.bbc.co.uk/news/articles/cmy8367lj5xlo?at_medium=RSS&at_campaign=rss"
+          "quelle_url": "https://www.bbc.co.uk/news/articles/c6ly3mjx958eo?at_medium=RSS&at_campaign=rss"
         },
         {
           "id": "politik-2",
-          "titel": "Trump macht Miller zum Stabschef – Konflikte programmiert",
-          "zusammenfassung": "US-Präsident Donald Trump hat seinen engen Vertrauten Stephen Miller zum neuen Stabschef des Weißen Hauses ernannt. Die Beförderung des als kompromisslos geltenden Partisanen dürfte zu erheblichen Spannungen mit dem Kongress führen.",
-          "bedeutung": "Die Personalie signalisiert, dass Trump seinen innenpolitischen Kurs verschärfen will – mit weitreichenden Folgen für die US-Gesetzgebung und das politische Klima in Washington.",
-          "hintergrund": "Miller ist eine der umstrittensten Figuren in Trumps politischem Umfeld und bekannt für seine harte Linie in der Einwanderungspolitik sowie seinen konfrontativen Stil gegenüber politischen Gegnern. Seine Ernennung zum mächtigsten Stabsposten im Weißen Haus gilt als klares Signal an Kritiker und Institutionen gleichermaßen.\n\nBeobachter erwarten, dass Miller versuchen wird, die Exekutivgewalt des Präsidenten maximal auszureizen und legislative Kompromisse weitgehend zu meiden. Der Kongress, der in Teilen auch innerhalb der Republikanischen Partei heterogen zusammengesetzt ist, dürfte darauf mit zunehmendem Widerstand reagieren.",
-          "tag": "Trump Stabschef",
-          "emoji": "🇺🇸",
+          "titel": "Iran richtet drei Männer nach Januarprotesten hin",
+          "zusammenfassung": "Die iranischen Behörden haben drei Männer hingerichtet, denen vorgeworfen wird, an antiregierungsnahen Unruhen Anfang des Jahres beteiligt gewesen zu sein. Menschenrechtsorganisationen kritisieren die Verfahren als politisch motiviert.",
+          "bedeutung": "Die Hinrichtungen offenbaren, mit welcher Härte Teheran Dissens unterdrückt, und erhöhen den Druck auf die internationale Gemeinschaft, Stellung zur iranischen Menschenrechtslage zu beziehen.",
+          "hintergrund": "Hassan Dioband, Hamid Kazemi und Reza Zanganeh wurden laut iranischen Staatsmedien wegen bewaffneter Unruhen verurteilt und exekutiert. Kritiker bezweifeln die Rechtmäßigkeit der schnellen Prozesse, bei denen Angeklagte offenbar nur eingeschränkten Zugang zu unabhängigen Anwälten hatten.\n\nIran steht seit den massiven Protestwellen der vergangenen Jahre unter verstärkter internationaler Beobachtung. Die erneuten Hinrichtungen politischer Gefangener dürften die Verhandlungen über ein mögliches Atomabkommen zusätzlich belasten.",
+          "tag": "Menschenrechte",
+          "emoji": "⚖️",
           "quelle": "BBC",
-          "quelle_url": "https://www.bbc.co.uk/news/articles/crp3gg2z171go?at_medium=RSS&at_campaign=rss"
+          "quelle_url": "https://www.bbc.co.uk/news/articles/ckly0ex633ydo?at_medium=RSS&at_campaign=rss"
         }
       ]
     },
@@ -49,36 +49,36 @@
       "stories": [
         {
           "id": "wirtschaft-0",
-          "titel": "Musk begraben Cybertruck zugunsten autonomer Taxis",
-          "zusammenfassung": "Tesla-Chef Elon Musk hat das Ende der Produktion des Cybertrucks angedeutet, um Kapazitäten für die Fertigung autonomer Robotaxis freizumachen. Die sogenannten Cybercabs sollen ohne Fahrer auskommen und Teslas nächste große Einnahmequelle werden.",
-          "bedeutung": "Die strategische Kehrtwende bei Tesla zeigt, wie schnell sich Prioritäten in der Automobilbranche verschieben und unterstreicht den globalen Wettlauf um autonomes Fahren.",
-          "hintergrund": "Der Cybertruck war seit seiner Markteinführung von Lieferverzögerungen, technischen Problemen und enttäuschenden Verkaufszahlen geplagt. Obwohl das Fahrzeug zunächst als Symbol für Teslas Innovationskraft gehandelt wurde, blieb der kommerzielle Durchbruch aus.\n\nMit der Fokussierung auf Cybercabs setzt Musk auf das Zukunftsfeld autonomes Fahren, in dem Tesla gegen Rivalen wie Waymo und eine wachsende Zahl chinesischer Hersteller antritt. Ob die strategische Neuausrichtung gelingt, wird maßgeblich davon abhängen, ob Tesla die regulatorischen Hürden für selbstfahrende Fahrzeuge überwinden kann.",
-          "tag": "Tesla Autonomes Fahren",
-          "emoji": "🚖",
-          "quelle": "BBC",
-          "quelle_url": "https://www.bbc.co.uk/news/articles/cq1j33w7d232o?at_medium=RSS&at_campaign=rss"
+          "titel": "Fünf EU-Staaten fordern engere Zusammenarbeit mit Großbritannien",
+          "zusammenfassung": "Die Regierungschefs Deutschlands, Belgiens, der Niederlande, Luxemburgs und Dänemarks haben sich kurz vor einem EU-Großbritannien-Gipfel für eine deutlich intensivierte Partnerschaft ausgesprochen. Im Mittelpunkt steht eine gemeinsame Agenda für saubere Energie.",
+          "bedeutung": "Ein geschlossener Vorstoß mehrerer führender EU-Mitglieder könnte die post-Brexit-Beziehungen auf eine neue Grundlage stellen und wirtschaftlich bedeutsame Kooperationsfelder erschließen.",
+          "hintergrund": "Seit dem Brexit haben die wirtschaftlichen und diplomatischen Beziehungen zwischen der EU und dem Vereinigten Königreich unter erheblichen Reibungsverlusten gelitten. Der bevorstehende Gipfel in Brüssel gilt als möglicherweise wichtigster Meilenstein seit dem Handels- und Kooperationsabkommen von 2020.\n\nBesonders die Zusammenarbeit bei erneuerbaren Energien, Offshore-Wind und dem gemeinsamen Netzausbau steht im Vordergrund. Ökonomen auf beiden Seiten des Ärmelkanals betonen, dass engere Energiekooperation die Energiesicherheit Europas insgesamt stärken und die Verbraucherpreise dämpfen könnte.",
+          "tag": "Brexit-Nachfolge",
+          "emoji": "🤝",
+          "quelle": "The Guardian",
+          "quelle_url": "https://www.theguardian.com/world/2026/nov/07/europe-leaders-call-closer-eu-uk-ties-brussels-summit"
         },
         {
           "id": "wirtschaft-1",
-          "titel": "US-Midterms lösen Kursrutsch bei KI-Aktien aus",
-          "zusammenfassung": "Die Ergebnisse der US-Zwischenwahlen haben Sorgen über eine strengere Regulierung von Künstlicher Intelligenz geweckt und zu deutlichen Kursverlusten bei KI-Aktien geführt. Anleger befürchten, dass ein verändertes Machtgefüge im Kongress neue gesetzliche Schranken für die Branche bedeuten könnte.",
-          "bedeutung": "Der Einbruch verdeutlicht, wie stark politische Weichenstellungen globale Technologiemärkte beeinflussen und wie nervös Investoren angesichts der noch ungeklärten KI-Regulierungsfrage sind.",
-          "hintergrund": "Bereits vor den Wahlen hatten sich in der Investorengemeinschaft Bedenken über die Nachhaltigkeit des KI-Booms angesammelt. Fragen zu Datenschutz, Haftung und Marktmacht großer Plattformen stehen in Washington zunehmend auf der Agenda.\n\nEin möglicher Politikwechsel könnte insbesondere Hyperscaler und Chiphersteller treffen, die bislang von einem weitgehend regulierungsfreien Umfeld profitiert hatten. Marktbeobachter warnen, dass die Unsicherheit kurzfristig anhalten könnte.",
-          "tag": "KI Regulierung",
-          "emoji": "🤖",
+          "titel": "Nvidia untersucht Affäre von CEO Huang mit mutmaßlicher Spionin",
+          "zusammenfassung": "Der Chiphersteller Nvidia hat eine interne Untersuchung eingeleitet, nachdem CEO Jensen Huang eine außereheliche Beziehung zu einer Frau eingeräumt hat, der Verbindungen zu chinesischen Geheimdiensten vorgeworfen werden. Huang kündigte vollständige Kooperation mit den Sicherheitsbehörden an.",
+          "bedeutung": "Der Vorfall berührt sensible Fragen nationaler Sicherheit im Halbleitersektor, der sich im Zentrum des technologischen Rivalitätskampfes zwischen den USA und China befindet.",
+          "hintergrund": "Nvidia gilt als weltweiter Marktführer bei KI-Chips und steht seit Jahren im Fokus amerikanischer Exportkontrollpolitik gegenüber China. Eine mögliche Kompromittierung der Unternehmensführung könnte regulatorische und geheimdienstliche Konsequenzen haben, die weit über das Unternehmen hinausgehen.\n\nDie Affäre wirft zugleich Fragen zur Corporate Governance auf: Investoren und Aufsichtsgremien werden prüfen müssen, ob und in welchem Ausmaß sicherheitsrelevante Unternehmensinformationen gefährdet wurden. Die Aktie dürfte unter erhöhtem Beobachtungsdruck stehen.",
+          "tag": "Tech-Sicherheit",
+          "emoji": "🔍",
           "quelle": "BBC",
-          "quelle_url": "https://www.bbc.co.uk/news/articles/crlykkzwwpydo?at_medium=RSS&at_campaign=rss"
+          "quelle_url": "https://www.bbc.co.uk/news/articles/c3dxw10rjn9no?at_medium=RSS&at_campaign=rss"
         },
         {
           "id": "wirtschaft-2",
-          "titel": "Speck-Chips und Brexit: Namensstreit um britischen Snack",
-          "zusammenfassung": "Ein nach dem Brexit ausgehandeltes Lebensmittelabkommen zwischen Großbritannien und der EU hat eine unerwartete Debatte ausgelöst: Beliebte britische Chips mit Speckgeschmack könnten unter EU-Herkunftsregeln nicht mehr unter ihrem gewohnten Namen vermarktet werden. Der Streit steht symbolisch für die fortdauernden Handelsspannungen nach dem EU-Austritt.",
-          "bedeutung": "Scheinbar kleinliche Produktnamen-Streitigkeiten illustrieren, wie tiefgreifend das Brexit-Regelwerk in den Alltag von Verbrauchern und Unternehmen eingreift.",
-          "hintergrund": "Im Zuge der EU-Lebensmittelkennzeichnungsregeln, denen Großbritannien im Rahmen eines Nachfolgeabkommens teilweise zugestimmt hat, geraten nun Produkte unter Druck, deren Bezeichnungen geografische oder produktbezogene Herkunftsangaben implizieren könnten.\n\nDer Fall zeigt exemplarisch, dass die Folgen des Brexits für die britische Wirtschaft und Lebensmittelindustrie auch Jahre nach dem Austritt noch nicht vollständig absehbar sind und weiterhin zu politischen Auseinandersetzungen führen.",
-          "tag": "Brexit Handel",
-          "emoji": "🥓",
-          "quelle": "BBC",
-          "quelle_url": "https://www.bbc.co.uk/news/articles/cm1dwwqrr1kvo?at_medium=RSS&at_campaign=rss"
+          "titel": "Demokraten übernehmen Kongress – doch Wirtschaftsprobleme bleiben",
+          "zusammenfassung": "Trotz des Wahlsiegs der Demokraten und der Niederlage Donald Trumps stehen die neuen Mehrheitsverhältnisse im US-Kongress vor strukturellen Schranken, wenn es darum geht, die hohen Lebenshaltungskosten spürbar zu senken. Analysten warnen vor überhöhten Erwartungen der Wählerschaft.",
+          "bedeutung": "Die wirtschaftliche Enttäuschung der amerikanischen Mittelschicht bleibt ein politisches Pulverfass, unabhängig davon, welche Partei gerade regiert.",
+          "hintergrund": "Die gestiegenen Verbraucherpreise der vergangenen Jahre haben das politische Klima in den USA grundlegend verändert und Trumps Rückkehr möglicherweise verhindert – doch die strukturellen Ursachen von Inflation und Wohnkostenkrise lassen sich nicht per Kongressbeschluss beheben. Fiskalpolitische Spielräume sind durch die hohe Staatsverschuldung eng.\n\nFür die Demokraten bedeutet das eine heikle Ausgangslage: Sie tragen nun die Regierungsverantwortung, haben aber nur begrenzte Instrumente, um kurzfristige Entlastung zu schaffen. Ökonomen rechnen damit, dass die Preisentspannung vor allem von der Geldpolitik der Federal Reserve abhängen wird, nicht vom Gesetzgeber.",
+          "tag": "US-Kongress",
+          "emoji": "🏛️",
+          "quelle": "The Guardian",
+          "quelle_url": "https://www.theguardian.com/business/2026/nov/07/democrats-economy-affordability-crisis"
         }
       ]
     },
@@ -89,36 +89,36 @@
       "stories": [
         {
           "id": "boerse-0",
-          "titel": "US-Arbeitsmarkt überrascht: 165.000 neue Stellen im Oktober",
-          "zusammenfassung": "Die amerikanische Wirtschaft schuf im Oktober mit 165.000 neuen Stellen fast dreimal so viele Jobs wie von Analysten erwartet. Die Arbeitslosenquote sank leicht auf 4,1 Prozent.",
-          "bedeutung": "Die robusten Arbeitsmarktdaten deuten auf eine anhaltende Stärke der US-Konjunktur hin, nähren aber gleichzeitig Spekulationen über weitere Zinserhöhungen der Federal Reserve.",
-          "hintergrund": "Ökonomen hatten im Vorfeld lediglich mit rund 59.000 neuen Stellen gerechnet, da Hurrikanschäden und Streikaktivitäten den Arbeitsmarkt belasten sollten. Die deutliche Übertreffung der Erwartungen signalisiert eine bemerkenswerte Widerstandsfähigkeit der Wirtschaft.\n\nGleichzeitig warnen Experten, dass die starken Zahlen den Druck auf die US-Notenbank erhöhen, die Leitzinsen weiter anzuheben, um die hartnäckige Inflation einzudämmen. Dies könnte die Finanzmärkte kurzfristig belasten.",
-          "tag": "US Arbeitsmarkt",
+          "titel": "Chinas Erzeugerpreise steigen stärker als erwartet",
+          "zusammenfassung": "Der chinesische Erzeugerpreisindex (PPI) ist im Oktober auf den höchsten Stand seit mehr als vier Jahren gestiegen und übertraf mit 5,7 Prozent die Prognosen der Analysten deutlich. Gleichzeitig verlangsamte sich der Anstieg der Verbraucherpreise, was auf ein gespaltenes Inflationsbild hindeutet.",
+          "bedeutung": "Steigende chinesische Erzeugerpreise können sich über globale Lieferketten auf Importpreise in Europa und den USA auswirken und die Inflationsbekämpfung der Zentralbanken verkomplizieren.",
+          "hintergrund": "China ist als weltgrößte Fabriknation ein zentraler Taktgeber für globale Güterpreise. Ein anhaltender Anstieg der Erzeugerpreise könnte bedeuten, dass sich der Preisdruck erneut in die westlichen Volkswirtschaften exportiert – genau dann, wenn Fed und EZB auf eine sanfte Landung hoffen.\n\nMarktteilnehmer werden die Zahlen genau im Hinblick auf künftige Zinsentscheidungen analysieren. Rohstoff- und Industrieaktien reagierten vorbörslich mit leichten Aufschlägen, da höhere Erzeugerpreise kurzfristig auf stärkere Nachfrage hindeuten können.",
+          "tag": "Inflation China",
           "emoji": "📈",
           "quelle": "CNBC",
-          "quelle_url": "https://www.cnbc.com/2026/11/06/jobs-report-october-2026.html"
+          "quelle_url": "https://www.cnbc.com/2026/11/09/china-wholesale-inflation-rises-consumer.html"
         },
         {
           "id": "boerse-1",
-          "titel": "Fed-Bankerin: Inflation hält Amerikaner auf Tretmühle",
-          "zusammenfassung": "Die Präsidentin der San Francisco Federal Reserve, Mary Daly, bezeichnete den starken Jobmarkt als gute Nachricht, warnte aber gleichzeitig, dass die anhaltend hohe Inflation die Haushaltskassen der Bevölkerung stark belaste. Weitere Zinserhöhungen seien wahrscheinlich.",
-          "bedeutung": "Klare Signale aus der Fed-Führung über den künftigen Zinskurs bewegen global Anleihe- und Aktienmärkte und beeinflussen die Kreditkosten für Millionen von Haushalten und Unternehmen weltweit.",
-          "hintergrund": "Daly betonte, dass trotz des positiven Arbeitsmarktberichts keine Entwarnung bei der Inflation gegeben werden könne. Viele Amerikaner litten weiterhin unter hohen Preisen für Lebensmittel, Mieten und Energie, was die Kaufkraft nachhaltig schmälere.\n\nDie Aussicht auf weiter steigende Zinsen erhöht den Druck auf Hypothekenschuldner und Kreditnehmer, während Anleger an den Rentenmärkten ihre Erwartungen neu kalibrieren müssen.",
-          "tag": "Fed Zinsen",
-          "emoji": "💸",
+          "titel": "Berkshire verdoppelt Aktienrückkäufe trotz sinkender Gewinne",
+          "zusammenfassung": "Warren Buffetts Beteiligungsgesellschaft Berkshire Hathaway hat im dritten Quartal das Volumen der Aktienrückkäufe mehr als verdoppelt, obwohl sowohl das operative Ergebnis als auch der Gesamtgewinn zurückgingen. Der Schritt signalisiert, dass das Management die eigene Aktie als unterbewertet ansieht.",
+          "bedeutung": "Berkshires Rückkaufentscheidung gilt an den Märkten als eines der beachteten Bewertungssignale überhaupt und könnte Kapitalzuflüsse in den Titel und verwandte Value-Aktien auslösen.",
+          "hintergrund": "Berkshire Hathaway hält mit seinem riesigen Kassenbestand seit Monaten die Aufmerksamkeit der Investorenwelt. Die Entscheidung, trotz Gewinnrückgangs massiv zurückzukaufen, legt nahe, dass Buffett und sein Team attraktivere Renditen im eigenen Papier sehen als in alternativen Investitionen am derzeitigen Markt.\n\nAusserdem stieg Berkshires Cash-Position erneut auf einen Rekordwert, was viele Marktbeobachter als implizites Signal der Vorsicht gegenüber den allgemeinen Aktienbewertungen werten.",
+          "tag": "Value-Investing",
+          "emoji": "💰",
           "quelle": "CNBC",
-          "quelle_url": "https://www.cnbc.com/2026/11/06/fed-daly-interest-rates-inflation.html"
+          "quelle_url": "https://www.cnbc.com/2026/11/07/berkshire-hathaway-q3-2026-earnings-buybacks.html"
         },
         {
           "id": "boerse-2",
-          "titel": "Nasdaq rutscht in Korrekturzone – was kommt als nächstes?",
-          "zusammenfassung": "Der technologielastige Nasdaq-Index ist nach anhaltenden Verlusten in die sogenannte Korrekturzone gerutscht, was einem Rückgang von mehr als zehn Prozent vom jüngsten Höchststand entspricht. Markthistoriker analysieren, wie schnell sich der Index in der Vergangenheit nach solchen Phasen erholt hat.",
-          "bedeutung": "Korrekturen am Nasdaq betreffen aufgrund der globalen Verflechtungen von Technologieaktien Anleger weltweit und können Rückkopplungseffekte auf andere Märkte auslösen.",
-          "hintergrund": "Auslöser des jüngsten Rückgangs sind eine Kombination aus KI-Regulierungssorgen, enttäuschenden Quartalsergebnissen einiger Technologieriesen sowie der Erwartung weiter steigender Zinsen. Die Stimmung unter institutionellen Investoren hat sich merklich eingetrübt.\n\nHistorisch gesehen hat der Nasdaq Korrekturen oft innerhalb weniger Monate aufgeholt, sofern keine tiefgreifende Rezession folgte. Analysten sind jedoch gespalten, ob die aktuellen Rahmenbedingungen mit früheren Erholungsphasen vergleichbar sind.",
-          "tag": "Nasdaq Korrektur",
-          "emoji": "📉",
+          "titel": "Gesundheitsaktien unter Druck nach Demokraten-Sieg im Kongress",
+          "zusammenfassung": "Mit dem bevorstehenden Machtwechsel im US-Kongress wächst die Unsicherheit im Gesundheitssektor: Anleger befürchten verschärfte Regulierung von Arzneimittelpreisen und Änderungen bei Krankenversicherungsprogrammen. Analysten sehen für Healthcare-Titel kurzfristig begrenztes Aufwärtspotenzial.",
+          "bedeutung": "Der Gesundheitssektor gehört zu den schwergewichtigsten Komponenten globaler Aktienindizes; politischer Gegenwind aus Washington kann Milliarden an Marktkapitalisierung bewegen.",
+          "hintergrund": "Demokratische Mehrheiten im Kongress gehen historisch mit einem erhöhten Regulierungsdruck auf Pharma- und Versicherungskonzerne einher. Besonders Unternehmen, die stark von Medicare- und Medicaid-Erstattungen abhängen, könnten im Fadenkreuz neuer Gesetzgebung stehen.\n\nFür Portfoliomanager stellt sich nun die Frage, ob defensivere Titel im Sektor – etwa Medizintechnik oder Generikahersteller – eine Ausweichoption bieten, bevor die neue Kongressmehrheit ihre Agenda konkretisiert.",
+          "tag": "Healthcare-Aktien",
+          "emoji": "🏥",
           "quelle": "CNBC",
-          "quelle_url": "https://www.cnbc.com/2026/11/05/nasdaq-drops-into-correction-territory-heres-what-typically-happens-next.html"
+          "quelle_url": "https://www.cnbc.com/2026/11/07/healthcare-stocks-may-face-trouble-due-to-midterm-results.html"
         }
       ]
     }
