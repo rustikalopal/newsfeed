@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-09T02:44:53.949164+00:00",
-  "datum": "Montag, 9. November 2026",
+  "generated_at": "2026-11-10T04:41:11.741297+00:00",
+  "datum": "Dienstag, 10. November 2026",
   "ressorts": [
     {
       "id": "politik",
@@ -9,36 +9,36 @@
       "stories": [
         {
           "id": "politik-0",
-          "titel": "Russland beschießt Ukraine vor Abu-Dhabi-Gesprächen",
-          "zusammenfassung": "Russische Angriffe verletzten neun Menschen und beschädigten erneut die ukrainische Energieinfrastruktur. Die Attacken fallen in die Tage vor geplanten trilateralen Verhandlungen in Abu Dhabi.",
-          "bedeutung": "Der Zeitpunkt der Angriffe unmittelbar vor den Friedensgesprächen wirft grundlegende Fragen über Moskaus Verhandlungsbereitschaft auf.",
-          "hintergrund": "Die russischen Streitkräfte haben erneut gezielt Teile des ukrainischen Stromnetzes angegriffen und damit Millionen Zivilisten im Vorwinter in ihrer Energieversorgung bedroht. Neun Personen wurden bei den jüngsten Schlägen verletzt.\n\nIn der kommenden Woche sollen ukrainische und russische Delegationen erstmals seit Langem in Abu Dhabi an trilateralen Gesprächen teilnehmen. Militärexperten sehen in den aktuellen Angriffen ein klassisches Druckmittel, mit dem Moskau die eigene Verhandlungsposition stärken will.",
+          "titel": "Ukraine-Friedensgespräche: Erstmals trilaterales Treffen seit Februar",
+          "zusammenfassung": "In den Vereinigten Arabischen Emiraten kommen Delegationen aus Kiew, Washington und Moskau zu den ersten gemeinsamen Verhandlungen seit fast neun Monaten zusammen. US-Vertreter sprechen von einem gewissen Entgegenkommen auf beiden Seiten.",
+          "bedeutung": "Das Treffen könnte einen entscheidenden Wendepunkt im längsten europäischen Konflikt seit dem Zweiten Weltkrieg markieren.",
+          "hintergrund": "Seit dem Beginn der russischen Invasion im Februar 2022 sind direkte Dreier-Gespräche zwischen den Kriegsparteien und den USA eine Seltenheit geblieben. Die Wiederaufnahme signalisiert, dass zumindest die Bereitschaft zum Dialog auf diplomatischer Ebene wieder vorhanden ist.\n\nDie Wahl der Emirate als neutraler Verhandlungsort unterstreicht die wachsende Rolle der Golfstaaten als Vermittler in internationalen Konflikten. Beobachter warnen jedoch, dass bloße Gesprächsbereitschaft noch weit von einem belastbaren Waffenstillstand entfernt ist.",
           "tag": "Ukraine-Krieg",
-          "emoji": "💥",
+          "emoji": "🕊️",
           "quelle": "BBC",
-          "quelle_url": "https://www.bbc.co.uk/news/articles/cm4g1nq8158po?at_medium=RSS&at_campaign=rss"
+          "quelle_url": "https://www.bbc.co.uk/news/articles/cqpvgvrpjvv8o?at_medium=RSS&at_campaign=rss"
         },
         {
           "id": "politik-1",
-          "titel": "Huthis treffen Aramco-Tower im Herzen Riads",
-          "zusammenfassung": "Jemenitische Huthi-Rebellen haben erneut Ziele in Saudi-Arabien angegriffen und dabei das Aramco-Hochhaus im zentralen Finanzbezirk Riads getroffen. Authentifiziertes Bildmaterial belegt sichtbare Schäden an dem markanten Gebäude.",
-          "bedeutung": "Ein Angriff auf das Symbol des saudischen Ölreichtums mitten in der Hauptstadt zeigt, wie weit die Huthi-Reichweite inzwischen reicht und wie verwundbar kritische Infrastruktur des Königreichs ist.",
-          "hintergrund": "Die Huthis haben in den vergangenen Monaten ihre Drohnen- und Raketenkapazitäten massiv ausgebaut und treffen zunehmend tief ins saudische Kernland. Der Aramco-Tower gilt als eines der bekanntesten Symbole der saudischen Ölindustrie und des Finanzsektors.\n\nDer Angriff dürfte die ohnehin angespannte Lage am Golf weiter verschärfen und könnte internationale Debatten über die Sicherheit von Energieinfrastruktur und Versicherungsprämien für die Region neu entfachen.",
-          "tag": "Naher Osten",
-          "emoji": "🚀",
+          "titel": "Russlands letzte unabhängige Zeitung stellt Betrieb ein",
+          "zusammenfassung": "Eine der wenigen verbliebenen unabhängigen Redaktionen Russlands wurde aus ihren seit Jahrzehnten genutzten Büroräumen vertrieben und von Spendenkanälen abgeschnitten. Die Schließung markiert einen weiteren Schritt bei der Einschränkung der Pressefreiheit im Land.",
+          "bedeutung": "Mit diesem Schritt verliert die russische Zivilgesellschaft einen ihrer letzten institutionalisierten Orte freier Berichterstattung.",
+          "hintergrund": "Unabhängige Medien stehen in Russland spätestens seit dem Beginn des Ukraine-Krieges unter massivem staatlichen Druck. Zahlreiche Redaktionen wurden als 'ausländische Agenten' eingestuft, zwangsgeschlossen oder ins Exil gedrängt.\n\nDie Kombination aus Rauswurf und Blockade von Finanzierungsquellen legt nahe, dass es sich um eine koordinierte Maßnahme handelt. International dürfte dies die Kritik an Moskaus Umgang mit Meinungsfreiheit weiter verschärfen.",
+          "tag": "Pressefreiheit",
+          "emoji": "📰",
           "quelle": "BBC",
-          "quelle_url": "https://www.bbc.co.uk/news/articles/c6ly3mjx958eo?at_medium=RSS&at_campaign=rss"
+          "quelle_url": "https://www.bbc.co.uk/news/videos/cvrlylj9r11go?at_medium=RSS&at_campaign=rss"
         },
         {
           "id": "politik-2",
-          "titel": "Iran richtet drei Männer nach Januarprotesten hin",
-          "zusammenfassung": "Die iranischen Behörden haben drei Männer hingerichtet, denen vorgeworfen wird, an antiregierungsnahen Unruhen Anfang des Jahres beteiligt gewesen zu sein. Menschenrechtsorganisationen kritisieren die Verfahren als politisch motiviert.",
-          "bedeutung": "Die Hinrichtungen offenbaren, mit welcher Härte Teheran Dissens unterdrückt, und erhöhen den Druck auf die internationale Gemeinschaft, Stellung zur iranischen Menschenrechtslage zu beziehen.",
-          "hintergrund": "Hassan Dioband, Hamid Kazemi und Reza Zanganeh wurden laut iranischen Staatsmedien wegen bewaffneter Unruhen verurteilt und exekutiert. Kritiker bezweifeln die Rechtmäßigkeit der schnellen Prozesse, bei denen Angeklagte offenbar nur eingeschränkten Zugang zu unabhängigen Anwälten hatten.\n\nIran steht seit den massiven Protestwellen der vergangenen Jahre unter verstärkter internationaler Beobachtung. Die erneuten Hinrichtungen politischer Gefangener dürften die Verhandlungen über ein mögliches Atomabkommen zusätzlich belasten.",
-          "tag": "Menschenrechte",
-          "emoji": "⚖️",
+          "titel": "Frankreich beschuldigt Iran: Supermarkt-Kühlketten gehackt",
+          "zusammenfassung": "Paris wirft Teheran vor, im vergangenen Monat Kühl- und Gefriersysteme in Hunderten französischen Supermärkten manipuliert zu haben, was zu massiven Lebensmittelverlusten führte. Der Angriff gilt als gezielter Cyberangriff auf kritische Versorgungsinfrastruktur.",
+          "bedeutung": "Der Vorfall zeigt, dass staatlich gesteuerte Cyberangriffe zunehmend auf alltägliche Infrastruktur abzielen und direkte Auswirkungen auf die Bevölkerung haben.",
+          "hintergrund": "Cyberangriffe auf Industriesteuerungssysteme, sogenannte OT-Angriffe, gelten als neue Dimension hybrider Kriegsführung. Bislang standen vor allem Energieversorger, Krankenhäuser und Behörden im Visier – der gezielte Angriff auf Kühlketten im Einzelhandel wäre ein neuartiges Vorgehen.\n\nFrankreich und Iran unterhalten seit Jahren angespannte Beziehungen, unter anderem wegen des Atomprogramms und der Unterstützung Teherans für nichtstaatliche Akteure im Nahen Osten. Eine offizielle Reaktion Irans auf die Vorwürfe steht bislang aus.",
+          "tag": "Cyberangriff",
+          "emoji": "🧊",
           "quelle": "BBC",
-          "quelle_url": "https://www.bbc.co.uk/news/articles/ckly0ex633ydo?at_medium=RSS&at_campaign=rss"
+          "quelle_url": "https://www.bbc.co.uk/news/articles/cmg474vk6dyqo?at_medium=RSS&at_campaign=rss"
         }
       ]
     },
@@ -49,36 +49,36 @@
       "stories": [
         {
           "id": "wirtschaft-0",
-          "titel": "Fünf EU-Staaten fordern engere Zusammenarbeit mit Großbritannien",
-          "zusammenfassung": "Die Regierungschefs Deutschlands, Belgiens, der Niederlande, Luxemburgs und Dänemarks haben sich kurz vor einem EU-Großbritannien-Gipfel für eine deutlich intensivierte Partnerschaft ausgesprochen. Im Mittelpunkt steht eine gemeinsame Agenda für saubere Energie.",
-          "bedeutung": "Ein geschlossener Vorstoß mehrerer führender EU-Mitglieder könnte die post-Brexit-Beziehungen auf eine neue Grundlage stellen und wirtschaftlich bedeutsame Kooperationsfelder erschließen.",
-          "hintergrund": "Seit dem Brexit haben die wirtschaftlichen und diplomatischen Beziehungen zwischen der EU und dem Vereinigten Königreich unter erheblichen Reibungsverlusten gelitten. Der bevorstehende Gipfel in Brüssel gilt als möglicherweise wichtigster Meilenstein seit dem Handels- und Kooperationsabkommen von 2020.\n\nBesonders die Zusammenarbeit bei erneuerbaren Energien, Offshore-Wind und dem gemeinsamen Netzausbau steht im Vordergrund. Ökonomen auf beiden Seiten des Ärmelkanals betonen, dass engere Energiekooperation die Energiesicherheit Europas insgesamt stärken und die Verbraucherpreise dämpfen könnte.",
-          "tag": "Brexit-Nachfolge",
-          "emoji": "🤝",
-          "quelle": "The Guardian",
-          "quelle_url": "https://www.theguardian.com/world/2026/nov/07/europe-leaders-call-closer-eu-uk-ties-brussels-summit"
+          "titel": "Klimaziele vs. Lebenshaltungskosten: Zerreißprobe für Netto-Null",
+          "zusammenfassung": "Extreme Wetterereignisse wie Überschwemmungen, Waldbrände und Hitzewellen haben 2026 den Klimawandel für viele Menschen in Großbritannien spürbar gemacht. Gleichzeitig stellt die anhaltende Teuerung die politische Unterstützung für ambitionierte Klimaschutzmaßnahmen zunehmend in Frage.",
+          "bedeutung": "Die Spannung zwischen ökonomischem Druck auf Haushalte und dem Tempo der Dekarbonisierung ist eine der zentralen politischen Herausforderungen westlicher Regierungen.",
+          "hintergrund": "Viele Bürger sind grundsätzlich bereit, für den Klimaschutz einzutreten – solange die eigenen Energierechnungen und Lebenshaltungskosten es zulassen. Steigen diese jedoch weiter an, gerät die Klimapolitik schnell unter populistischen Beschuss.\n\nGroßbritannien steht dabei exemplarisch für ein Dilemma, das auch andere europäische Länder kennen: Wie lässt sich der ökologische Umbau sozial gerecht gestalten, ohne breite Bevölkerungsschichten zu überfordern? Energiepolitiker betonen, dass langfristig erneuerbare Energien die Abhängigkeit von volatilen Rohstoffpreisen reduzieren könnten.",
+          "tag": "Klimapolitik",
+          "emoji": "🌡️",
+          "quelle": "BBC",
+          "quelle_url": "https://www.bbc.co.uk/news/videos/cm1dwd4e4ywvo?at_medium=RSS&at_campaign=rss"
         },
         {
           "id": "wirtschaft-1",
-          "titel": "Nvidia untersucht Affäre von CEO Huang mit mutmaßlicher Spionin",
-          "zusammenfassung": "Der Chiphersteller Nvidia hat eine interne Untersuchung eingeleitet, nachdem CEO Jensen Huang eine außereheliche Beziehung zu einer Frau eingeräumt hat, der Verbindungen zu chinesischen Geheimdiensten vorgeworfen werden. Huang kündigte vollständige Kooperation mit den Sicherheitsbehörden an.",
-          "bedeutung": "Der Vorfall berührt sensible Fragen nationaler Sicherheit im Halbleitersektor, der sich im Zentrum des technologischen Rivalitätskampfes zwischen den USA und China befindet.",
-          "hintergrund": "Nvidia gilt als weltweiter Marktführer bei KI-Chips und steht seit Jahren im Fokus amerikanischer Exportkontrollpolitik gegenüber China. Eine mögliche Kompromittierung der Unternehmensführung könnte regulatorische und geheimdienstliche Konsequenzen haben, die weit über das Unternehmen hinausgehen.\n\nDie Affäre wirft zugleich Fragen zur Corporate Governance auf: Investoren und Aufsichtsgremien werden prüfen müssen, ob und in welchem Ausmaß sicherheitsrelevante Unternehmensinformationen gefährdet wurden. Die Aktie dürfte unter erhöhtem Beobachtungsdruck stehen.",
-          "tag": "Tech-Sicherheit",
-          "emoji": "🔍",
+          "titel": "London lockert offenbar Elektroauto-Pflichtziele",
+          "zusammenfassung": "Die britische Regierung soll noch in dieser Woche ihre bisherigen Vorgaben für den Absatz von Elektrofahrzeugen abmildern. Hintergrund sind wirtschaftlicher Druck auf Hersteller und schleppende Nachfrage bei Verbrauchern.",
+          "bedeutung": "Eine Aufweichung der Ausbauziele könnte Signalwirkung für andere Länder haben und die europäische Verkehrswende verzögern.",
+          "hintergrund": "Ursprünglich sollten ab 2030 keine neuen Benzin- oder Dieselautos mehr verkauft werden, ab 2035 nur noch emissionsfreie Neufahrzeuge. Doch die Autoindustrie hat wiederholt vor unrealistischen Zeitplänen gewarnt und auf fehlende Ladeinfrastruktur sowie zu hohe Fahrzeugpreise hingewiesen.\n\nSollte London die Ziele offiziell abschwächen, stünden auch andere europäische Regierungen unter Druck, ähnliche Anpassungen vorzunehmen – zumal in mehreren Mitgliedsstaaten der EU ähnliche Debatten geführt werden. Klimaschützer warnen, dass jede Verzögerung die Erreichung der Pariser Klimaziele gefährdet.",
+          "tag": "Elektromobilität",
+          "emoji": "🚗",
           "quelle": "BBC",
-          "quelle_url": "https://www.bbc.co.uk/news/articles/c3dxw10rjn9no?at_medium=RSS&at_campaign=rss"
+          "quelle_url": "https://www.bbc.co.uk/news/articles/cqkg5g2970epo?at_medium=RSS&at_campaign=rss"
         },
         {
           "id": "wirtschaft-2",
-          "titel": "Demokraten übernehmen Kongress – doch Wirtschaftsprobleme bleiben",
-          "zusammenfassung": "Trotz des Wahlsiegs der Demokraten und der Niederlage Donald Trumps stehen die neuen Mehrheitsverhältnisse im US-Kongress vor strukturellen Schranken, wenn es darum geht, die hohen Lebenshaltungskosten spürbar zu senken. Analysten warnen vor überhöhten Erwartungen der Wählerschaft.",
-          "bedeutung": "Die wirtschaftliche Enttäuschung der amerikanischen Mittelschicht bleibt ein politisches Pulverfass, unabhängig davon, welche Partei gerade regiert.",
-          "hintergrund": "Die gestiegenen Verbraucherpreise der vergangenen Jahre haben das politische Klima in den USA grundlegend verändert und Trumps Rückkehr möglicherweise verhindert – doch die strukturellen Ursachen von Inflation und Wohnkostenkrise lassen sich nicht per Kongressbeschluss beheben. Fiskalpolitische Spielräume sind durch die hohe Staatsverschuldung eng.\n\nFür die Demokraten bedeutet das eine heikle Ausgangslage: Sie tragen nun die Regierungsverantwortung, haben aber nur begrenzte Instrumente, um kurzfristige Entlastung zu schaffen. Ökonomen rechnen damit, dass die Preisentspannung vor allem von der Geldpolitik der Federal Reserve abhängen wird, nicht vom Gesetzgeber.",
-          "tag": "US-Kongress",
-          "emoji": "🏛️",
-          "quelle": "The Guardian",
-          "quelle_url": "https://www.theguardian.com/business/2026/nov/07/democrats-economy-affordability-crisis"
+          "titel": "Britische Billigkette Poundland vor dem Zusammenbruch",
+          "zusammenfassung": "Der bekannte Discounter kämpft ums Überleben: Laut Insidern kann das Unternehmen kaum noch neue Waren einkaufen und arbeitet an der Grenze seiner Zahlungsfähigkeit. Eine Insolvenz gilt als zunehmend realistisches Szenario.",
+          "bedeutung": "Der drohende Kollaps eines der bekanntesten britischen Discounter verdeutlicht den anhaltenden Druck auf den stationären Einzelhandel in Zeiten hoher Kosten und veränderter Konsumgewohnheiten.",
+          "hintergrund": "Poundland war jahrelang ein Symbol für günstige Alltagsversorgung in Großbritannien und betreibt Hunderte Filialen im ganzen Land. Doch steigende Betriebskosten, Inflation bei Einkaufspreisen und die wachsende Konkurrenz durch Online-Händler haben das Geschäftsmodell unter Druck gesetzt.\n\nSollte die Kette kollabieren, wären tausende Arbeitsplätze bedroht. Zugleich würden einkommensschwache Haushalte, die besonders häufig bei Poundland einkaufen, einen wichtigen Versorgungskanal verlieren.",
+          "tag": "Einzelhandel",
+          "emoji": "🛒",
+          "quelle": "BBC",
+          "quelle_url": "https://www.bbc.co.uk/news/articles/cw1l3lmem165o?at_medium=RSS&at_campaign=rss"
         }
       ]
     },
@@ -89,36 +89,36 @@
       "stories": [
         {
           "id": "boerse-0",
-          "titel": "Chinas Erzeugerpreise steigen stärker als erwartet",
-          "zusammenfassung": "Der chinesische Erzeugerpreisindex (PPI) ist im Oktober auf den höchsten Stand seit mehr als vier Jahren gestiegen und übertraf mit 5,7 Prozent die Prognosen der Analysten deutlich. Gleichzeitig verlangsamte sich der Anstieg der Verbraucherpreise, was auf ein gespaltenes Inflationsbild hindeutet.",
-          "bedeutung": "Steigende chinesische Erzeugerpreise können sich über globale Lieferketten auf Importpreise in Europa und den USA auswirken und die Inflationsbekämpfung der Zentralbanken verkomplizieren.",
-          "hintergrund": "China ist als weltgrößte Fabriknation ein zentraler Taktgeber für globale Güterpreise. Ein anhaltender Anstieg der Erzeugerpreise könnte bedeuten, dass sich der Preisdruck erneut in die westlichen Volkswirtschaften exportiert – genau dann, wenn Fed und EZB auf eine sanfte Landung hoffen.\n\nMarktteilnehmer werden die Zahlen genau im Hinblick auf künftige Zinsentscheidungen analysieren. Rohstoff- und Industrieaktien reagierten vorbörslich mit leichten Aufschlägen, da höhere Erzeugerpreise kurzfristig auf stärkere Nachfrage hindeuten können.",
-          "tag": "Inflation China",
-          "emoji": "📈",
+          "titel": "Chinas Exporte überraschend stark – Handelsbilanzüberschuss schrumpft",
+          "zusammenfassung": "Im Oktober stiegen die chinesischen Warenausfuhren um mehr als 35 Prozent gegenüber dem Vorjahr und übertrafen damit die Erwartungen der Analysten deutlich. Gleichzeitig zogen auch die Importe kräftig an, was den Überschuss in der Handelsbilanz merklich reduzierte.",
+          "bedeutung": "Starke chinesische Handelsströme bewegen globale Rohstoff- und Devisenmärkte und liefern Hinweise auf den Zustand der Weltwirtschaft.",
+          "hintergrund": "Die unerwartet hohen Exportzahlen deuten darauf hin, dass chinesische Unternehmen trotz geopolitischer Spannungen und US-Zolldrohungen ihre Auslandsgeschäfte ausbauen konnten. Manche Analysten sehen darin auch Vorzieheffekte vor möglichen neuen Handelsbeschränkungen.\n\nDer gleichzeitige Anstieg der Importe könnte auf eine leichte Belebung der Binnennachfrage hinweisen, was an den Märkten positiv aufgenommen wurde. Für Rohstoffmärkte, insbesondere Industriemetalle und Energie, sind chinesische Handelsdaten ein wichtiger Stimmungsindikator.",
+          "tag": "Welthandel",
+          "emoji": "📦",
           "quelle": "CNBC",
-          "quelle_url": "https://www.cnbc.com/2026/11/09/china-wholesale-inflation-rises-consumer.html"
+          "quelle_url": "https://www.cnbc.com/2026/11/10/china-trade-october-exports-imports-surplus-.html"
         },
         {
           "id": "boerse-1",
-          "titel": "Berkshire verdoppelt Aktienrückkäufe trotz sinkender Gewinne",
-          "zusammenfassung": "Warren Buffetts Beteiligungsgesellschaft Berkshire Hathaway hat im dritten Quartal das Volumen der Aktienrückkäufe mehr als verdoppelt, obwohl sowohl das operative Ergebnis als auch der Gesamtgewinn zurückgingen. Der Schritt signalisiert, dass das Management die eigene Aktie als unterbewertet ansieht.",
-          "bedeutung": "Berkshires Rückkaufentscheidung gilt an den Märkten als eines der beachteten Bewertungssignale überhaupt und könnte Kapitalzuflüsse in den Titel und verwandte Value-Aktien auslösen.",
-          "hintergrund": "Berkshire Hathaway hält mit seinem riesigen Kassenbestand seit Monaten die Aufmerksamkeit der Investorenwelt. Die Entscheidung, trotz Gewinnrückgangs massiv zurückzukaufen, legt nahe, dass Buffett und sein Team attraktivere Renditen im eigenen Papier sehen als in alternativen Investitionen am derzeitigen Markt.\n\nAusserdem stieg Berkshires Cash-Position erneut auf einen Rekordwert, was viele Marktbeobachter als implizites Signal der Vorsicht gegenüber den allgemeinen Aktienbewertungen werten.",
-          "tag": "Value-Investing",
-          "emoji": "💰",
+          "titel": "US-Inflationsdaten für Oktober heute im Fokus der Märkte",
+          "zusammenfassung": "Am heutigen Dienstag werden die amerikanischen Verbraucherpreisdaten für Oktober veröffentlicht, die Aufschluss über den weiteren Zinspfad der US-Notenbank geben sollen. Ökonomen erwarten einen moderaten Anstieg der Gesamt- und Kernrate.",
+          "bedeutung": "Die CPI-Daten sind derzeit der wichtigste kurzfristige Kurstreiber an den globalen Aktien- und Anleihemärkten.",
+          "hintergrund": "Nach einer Phase hartnäckig erhöhter Inflation haben die USA zuletzt Fortschritte beim Rückgang der Teuerung verzeichnet. Die Frage ist nun, ob dieser Trend anhält oder ob neue Preisimpulse – etwa durch Lohnwachstum oder Energiekosten – eine Pause bei Zinssenkungen erzwingen.\n\nDie Federal Reserve hat signalisiert, dass sie datenabhängig entscheiden wird. Ein überraschend hoher CPI-Wert dürfte die Erwartungen an baldige Zinssenkungen dämpfen und den Dollar stärken, während Aktien und Anleihen unter Druck geraten könnten.",
+          "tag": "Inflation",
+          "emoji": "📊",
           "quelle": "CNBC",
-          "quelle_url": "https://www.cnbc.com/2026/11/07/berkshire-hathaway-q3-2026-earnings-buybacks.html"
+          "quelle_url": "https://www.cnbc.com/2026/11/09/october-cpi-report-2026-inflation.html"
         },
         {
           "id": "boerse-2",
-          "titel": "Gesundheitsaktien unter Druck nach Demokraten-Sieg im Kongress",
-          "zusammenfassung": "Mit dem bevorstehenden Machtwechsel im US-Kongress wächst die Unsicherheit im Gesundheitssektor: Anleger befürchten verschärfte Regulierung von Arzneimittelpreisen und Änderungen bei Krankenversicherungsprogrammen. Analysten sehen für Healthcare-Titel kurzfristig begrenztes Aufwärtspotenzial.",
-          "bedeutung": "Der Gesundheitssektor gehört zu den schwergewichtigsten Komponenten globaler Aktienindizes; politischer Gegenwind aus Washington kann Milliarden an Marktkapitalisierung bewegen.",
-          "hintergrund": "Demokratische Mehrheiten im Kongress gehen historisch mit einem erhöhten Regulierungsdruck auf Pharma- und Versicherungskonzerne einher. Besonders Unternehmen, die stark von Medicare- und Medicaid-Erstattungen abhängen, könnten im Fadenkreuz neuer Gesetzgebung stehen.\n\nFür Portfoliomanager stellt sich nun die Frage, ob defensivere Titel im Sektor – etwa Medizintechnik oder Generikahersteller – eine Ausweichoption bieten, bevor die neue Kongressmehrheit ihre Agenda konkretisiert.",
-          "tag": "Healthcare-Aktien",
-          "emoji": "🏥",
+          "titel": "Chinas Erzeugerpreise auf Vierjahreshoch – Konsum bleibt schwach",
+          "zusammenfassung": "Der chinesische Produzentenpreisindex kletterte im Oktober auf den höchsten Stand seit mehr als vier Jahren und übertraf damit Analystenprognosen deutlich. Die Verbraucherpreise hingegen stiegen weiterhin nur verhalten an.",
+          "bedeutung": "Die Schere zwischen boomenden Erzeuger- und schwachen Verbraucherpreisen in China ist ein Warnsignal für globale Lieferketten und Inflationsdynamiken.",
+          "hintergrund": "Steigende Produzentenpreise in China können als Vorbote von Importinflation in anderen Ländern wirken, da China als weltgrößte Exportnation Preistrends in globalen Lieferketten maßgeblich prägt. Besonders betroffen wären Länder mit hoher Abhängigkeit von chinesischen Vorleistungsgütern.\n\nDass die Konsumpreise nicht entsprechend mitziehen, deutet auf eine nach wie vor zurückhaltende Binnennachfrage hin. Peking steht damit weiterhin vor der Herausforderung, Wachstum stärker auf inländischen Konsum zu stützen, was bislang nur begrenzt gelingt.",
+          "tag": "Erzeugerpreise",
+          "emoji": "🏭",
           "quelle": "CNBC",
-          "quelle_url": "https://www.cnbc.com/2026/11/07/healthcare-stocks-may-face-trouble-due-to-midterm-results.html"
+          "quelle_url": "https://www.cnbc.com/2026/11/09/china-wholesale-inflation-rises-consumer.html"
         }
       ]
     }
