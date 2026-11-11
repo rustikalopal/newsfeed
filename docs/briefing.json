@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-10T04:41:11.741297+00:00",
-  "datum": "Dienstag, 10. November 2026",
+  "generated_at": "2026-11-11T02:51:59.017005+00:00",
+  "datum": "Mittwoch, 11. November 2026",
   "ressorts": [
     {
       "id": "politik",
@@ -9,36 +9,36 @@
       "stories": [
         {
           "id": "politik-0",
-          "titel": "Ukraine-Friedensgespräche: Erstmals trilaterales Treffen seit Februar",
-          "zusammenfassung": "In den Vereinigten Arabischen Emiraten kommen Delegationen aus Kiew, Washington und Moskau zu den ersten gemeinsamen Verhandlungen seit fast neun Monaten zusammen. US-Vertreter sprechen von einem gewissen Entgegenkommen auf beiden Seiten.",
-          "bedeutung": "Das Treffen könnte einen entscheidenden Wendepunkt im längsten europäischen Konflikt seit dem Zweiten Weltkrieg markieren.",
-          "hintergrund": "Seit dem Beginn der russischen Invasion im Februar 2022 sind direkte Dreier-Gespräche zwischen den Kriegsparteien und den USA eine Seltenheit geblieben. Die Wiederaufnahme signalisiert, dass zumindest die Bereitschaft zum Dialog auf diplomatischer Ebene wieder vorhanden ist.\n\nDie Wahl der Emirate als neutraler Verhandlungsort unterstreicht die wachsende Rolle der Golfstaaten als Vermittler in internationalen Konflikten. Beobachter warnen jedoch, dass bloße Gesprächsbereitschaft noch weit von einem belastbaren Waffenstillstand entfernt ist.",
-          "tag": "Ukraine-Krieg",
-          "emoji": "🕊️",
+          "titel": "Iran-Netzwerk plante Anschläge auf US-Militäranlagen in UK",
+          "zusammenfassung": "US-Behörden haben drei Verdächtige identifiziert, die im Auftrag des Iran eine Serie von Anschlägen geplant haben sollen, darunter einen Vorfall nahe dem britischen Luftwaffenstützpunkt RAF Fairford. Die Männer sollen Teil eines weitreichenden iranischen Spionage- und Sabotage-Netzwerks gewesen sein.",
+          "bedeutung": "Der Fall offenbart das Ausmaß iranischer Destabilisierungsversuche gegen westliche Militärinfrastruktur auf britischem Boden.",
+          "hintergrund": "RAF Fairford gilt als strategisch bedeutsamer Stützpunkt, da er regelmäßig von US-Streitkräften genutzt wird – unter anderem für Langstreckenbomber. Ein erfolgreicher Anschlag hätte erhebliche sicherheitspolitische Konsequenzen gehabt.\n\nDie Ermittlungen unterstreichen die anhaltende Bedrohung durch staatlich gelenkte Akteure und dürften die Geheimdienstkooperation zwischen Washington und London weiter intensivieren.",
+          "tag": "Iran-Terrorabwehr",
+          "emoji": "🛡️",
           "quelle": "BBC",
-          "quelle_url": "https://www.bbc.co.uk/news/articles/cqpvgvrpjvv8o?at_medium=RSS&at_campaign=rss"
+          "quelle_url": "https://www.bbc.co.uk/news/articles/c3rryrryk59zo?at_medium=RSS&at_campaign=rss"
         },
         {
           "id": "politik-1",
-          "titel": "Russlands letzte unabhängige Zeitung stellt Betrieb ein",
-          "zusammenfassung": "Eine der wenigen verbliebenen unabhängigen Redaktionen Russlands wurde aus ihren seit Jahrzehnten genutzten Büroräumen vertrieben und von Spendenkanälen abgeschnitten. Die Schließung markiert einen weiteren Schritt bei der Einschränkung der Pressefreiheit im Land.",
-          "bedeutung": "Mit diesem Schritt verliert die russische Zivilgesellschaft einen ihrer letzten institutionalisierten Orte freier Berichterstattung.",
-          "hintergrund": "Unabhängige Medien stehen in Russland spätestens seit dem Beginn des Ukraine-Krieges unter massivem staatlichen Druck. Zahlreiche Redaktionen wurden als 'ausländische Agenten' eingestuft, zwangsgeschlossen oder ins Exil gedrängt.\n\nDie Kombination aus Rauswurf und Blockade von Finanzierungsquellen legt nahe, dass es sich um eine koordinierte Maßnahme handelt. International dürfte dies die Kritik an Moskaus Umgang mit Meinungsfreiheit weiter verschärfen.",
-          "tag": "Pressefreiheit",
-          "emoji": "📰",
+          "titel": "US-Soldat wegen Russland-Spionage in London verhaftet",
+          "zusammenfassung": "Ein 41-jähriger ranghoher Soldat der US-Armee wurde in London festgenommen und wird wegen mutmaßlicher Verstöße gegen die nationale Sicherheit befragt. Die Festnahme erfolgte auf britischem Boden und wird von Geheimdiensten beider Länder gemeinsam untersucht.",
+          "bedeutung": "Der Fall zeigt, dass Russland weiterhin aktiv versucht, Personal innerhalb westlicher Streitkräfte zu kompromittieren.",
+          "hintergrund": "Spionagefälle innerhalb des US-Militärs haben in den vergangenen Jahren zugenommen und betreffen zunehmend auch Verbündete als Schauplatz der Operationen. Die Festnahme auf britischem Boden deutet auf eine enge Zusammenarbeit der Nachrichtendienste hin.\n\nDer Vorfall kommt zu einem Zeitpunkt erhöhter geopolitischer Spannungen mit Russland und könnte diplomatische Reaktionen nach sich ziehen, insbesondere im NATO-Kontext.",
+          "tag": "Russland-Spionage",
+          "emoji": "🕵️",
           "quelle": "BBC",
-          "quelle_url": "https://www.bbc.co.uk/news/videos/cvrlylj9r11go?at_medium=RSS&at_campaign=rss"
+          "quelle_url": "https://www.bbc.co.uk/news/articles/c6d7q77xgw0vo?at_medium=RSS&at_campaign=rss"
         },
         {
           "id": "politik-2",
-          "titel": "Frankreich beschuldigt Iran: Supermarkt-Kühlketten gehackt",
-          "zusammenfassung": "Paris wirft Teheran vor, im vergangenen Monat Kühl- und Gefriersysteme in Hunderten französischen Supermärkten manipuliert zu haben, was zu massiven Lebensmittelverlusten führte. Der Angriff gilt als gezielter Cyberangriff auf kritische Versorgungsinfrastruktur.",
-          "bedeutung": "Der Vorfall zeigt, dass staatlich gesteuerte Cyberangriffe zunehmend auf alltägliche Infrastruktur abzielen und direkte Auswirkungen auf die Bevölkerung haben.",
-          "hintergrund": "Cyberangriffe auf Industriesteuerungssysteme, sogenannte OT-Angriffe, gelten als neue Dimension hybrider Kriegsführung. Bislang standen vor allem Energieversorger, Krankenhäuser und Behörden im Visier – der gezielte Angriff auf Kühlketten im Einzelhandel wäre ein neuartiges Vorgehen.\n\nFrankreich und Iran unterhalten seit Jahren angespannte Beziehungen, unter anderem wegen des Atomprogramms und der Unterstützung Teherans für nichtstaatliche Akteure im Nahen Osten. Eine offizielle Reaktion Irans auf die Vorwürfe steht bislang aus.",
-          "tag": "Cyberangriff",
-          "emoji": "🧊",
+          "titel": "Israels neues Parlament tritt zusammen – Eisenkot fordert Netanyahu heraus",
+          "zusammenfassung": "Das neu gewählte israelische Parlament ist vereidigt worden, und Netanyahus schärfster politischer Konkurrent Gadi Eisenkot hat als erster die Möglichkeit erhalten, eine Regierung zu bilden. Gelingt ihm dies, könnte er den langjährigen Premierminister ablösen.",
+          "bedeutung": "Israel steht vor einem politischen Wendepunkt, der die Regierungsbildung nach einer der turbulentesten Wahlperioden des Landes entscheiden wird.",
+          "hintergrund": "Benjamin Netanyahu gilt zwar nach wie vor als politisch erfahrener Akteur, steht jedoch unter erheblichem Druck durch laufende Korruptionsverfahren sowie innerkoalitionäre Spannungen. Eisenkot, ein ehemaliger Generalstabschef, genießt parteiübergreifende Glaubwürdigkeit.\n\nDie Regierungsbildung in Israel gilt als komplexes Vorhaben, da das Verhältniswahlrecht eine breite Koalitionsbildung erfordert. Internationale Beobachter verfolgen den Prozess angesichts der Lage im Nahen Osten mit besonderem Interesse.",
+          "tag": "Israel-Politik",
+          "emoji": "🇮🇱",
           "quelle": "BBC",
-          "quelle_url": "https://www.bbc.co.uk/news/articles/cmg474vk6dyqo?at_medium=RSS&at_campaign=rss"
+          "quelle_url": "https://www.bbc.co.uk/news/articles/crd939lpzjp9o?at_medium=RSS&at_campaign=rss"
         }
       ]
     },
@@ -49,36 +49,36 @@
       "stories": [
         {
           "id": "wirtschaft-0",
-          "titel": "Klimaziele vs. Lebenshaltungskosten: Zerreißprobe für Netto-Null",
-          "zusammenfassung": "Extreme Wetterereignisse wie Überschwemmungen, Waldbrände und Hitzewellen haben 2026 den Klimawandel für viele Menschen in Großbritannien spürbar gemacht. Gleichzeitig stellt die anhaltende Teuerung die politische Unterstützung für ambitionierte Klimaschutzmaßnahmen zunehmend in Frage.",
-          "bedeutung": "Die Spannung zwischen ökonomischem Druck auf Haushalte und dem Tempo der Dekarbonisierung ist eine der zentralen politischen Herausforderungen westlicher Regierungen.",
-          "hintergrund": "Viele Bürger sind grundsätzlich bereit, für den Klimaschutz einzutreten – solange die eigenen Energierechnungen und Lebenshaltungskosten es zulassen. Steigen diese jedoch weiter an, gerät die Klimapolitik schnell unter populistischen Beschuss.\n\nGroßbritannien steht dabei exemplarisch für ein Dilemma, das auch andere europäische Länder kennen: Wie lässt sich der ökologische Umbau sozial gerecht gestalten, ohne breite Bevölkerungsschichten zu überfordern? Energiepolitiker betonen, dass langfristig erneuerbare Energien die Abhängigkeit von volatilen Rohstoffpreisen reduzieren könnten.",
-          "tag": "Klimapolitik",
-          "emoji": "🌡️",
+          "titel": "KI-Firma Anthropic plant Börsengang mit Billion-Dollar-Bewertung",
+          "zusammenfassung": "Der Entwickler des Claude-Chatbots, Anthropic, strebt einen Börsengang an, der das Unternehmen mit rund 1,3 Billionen US-Dollar bewerten würde. Die angebotenen Aktien sollen zwischen 70 und 78 Dollar ausgegeben werden – etwas unterhalb der ursprünglichen Erwartungen.",
+          "bedeutung": "Der Börsengang wäre einer der größten der Tech-Geschichte und spiegelt den anhaltenden Investorenhunger auf KI-Infrastruktur wider.",
+          "hintergrund": "Anthropic positioniert sich als sicherheitsorientierter Gegenpol zu OpenAI und hat trotz eigener Warnungen vor den potenziell katastrophalen Risiken von KI ein enormes Investoreninteresse geweckt. Führende Kapitalgeber wie Google und Amazon haben bereits Milliarden in das Unternehmen gesteckt.\n\nDas etwas konservative Ausgabepreis-Band könnte auf Vorsicht im Marktumfeld hindeuten, signalisiert aber auch das Bemühen, einen stabilen Handelsauftakt zu sichern. Der Börsengang dürfte die Debatte über KI-Bewertungen und Regulierung weiter anheizen.",
+          "tag": "KI-Börsengang",
+          "emoji": "🤖",
           "quelle": "BBC",
-          "quelle_url": "https://www.bbc.co.uk/news/videos/cm1dwd4e4ywvo?at_medium=RSS&at_campaign=rss"
+          "quelle_url": "https://www.bbc.co.uk/news/articles/crpdgd723x2zo?at_medium=RSS&at_campaign=rss"
         },
         {
           "id": "wirtschaft-1",
-          "titel": "London lockert offenbar Elektroauto-Pflichtziele",
-          "zusammenfassung": "Die britische Regierung soll noch in dieser Woche ihre bisherigen Vorgaben für den Absatz von Elektrofahrzeugen abmildern. Hintergrund sind wirtschaftlicher Druck auf Hersteller und schleppende Nachfrage bei Verbrauchern.",
-          "bedeutung": "Eine Aufweichung der Ausbauziele könnte Signalwirkung für andere Länder haben und die europäische Verkehrswende verzögern.",
-          "hintergrund": "Ursprünglich sollten ab 2030 keine neuen Benzin- oder Dieselautos mehr verkauft werden, ab 2035 nur noch emissionsfreie Neufahrzeuge. Doch die Autoindustrie hat wiederholt vor unrealistischen Zeitplänen gewarnt und auf fehlende Ladeinfrastruktur sowie zu hohe Fahrzeugpreise hingewiesen.\n\nSollte London die Ziele offiziell abschwächen, stünden auch andere europäische Regierungen unter Druck, ähnliche Anpassungen vorzunehmen – zumal in mehreren Mitgliedsstaaten der EU ähnliche Debatten geführt werden. Klimaschützer warnen, dass jede Verzögerung die Erreichung der Pariser Klimaziele gefährdet.",
-          "tag": "Elektromobilität",
-          "emoji": "🚗",
+          "titel": "US-Inflation im Oktober über Erwartungen – Preisdruck hält an",
+          "zusammenfassung": "Die Verbraucherpreise in den USA stiegen im Oktober um 0,4 Prozent gegenüber dem Vormonat und lagen damit über den Prognosen der Ökonomen. Steigende Kosten für Wohnen, Lebensmittel und Energie waren die Haupttreiber.",
+          "bedeutung": "Die hartnäckig hohe Inflation erhöht den Druck auf die US-Notenbank und erschwert eine baldige Zinssenkung.",
+          "hintergrund": "Die Daten kommen zu einem kritischen Zeitpunkt für die Federal Reserve, die zwischen dem Ziel der Preisstabilität und den Risiken einer wirtschaftlichen Abkühlung abwägen muss. Eine anhaltend hohe Inflation könnte die zuletzt gesunkenen Zinssenkungserwartungen weiter dämpfen.\n\nFür Verbraucherinnen und Verbraucher bedeutet die Entwicklung, dass die finanzielle Belastung durch höhere Lebenshaltungskosten noch nicht nachlässt – mit Folgen für das Konsumklima und die konjunkturelle Entwicklung.",
+          "tag": "US-Inflation",
+          "emoji": "📈",
           "quelle": "BBC",
-          "quelle_url": "https://www.bbc.co.uk/news/articles/cqkg5g2970epo?at_medium=RSS&at_campaign=rss"
+          "quelle_url": "https://www.bbc.co.uk/news/articles/cwy8lx3pg4k2o?at_medium=RSS&at_campaign=rss"
         },
         {
           "id": "wirtschaft-2",
-          "titel": "Britische Billigkette Poundland vor dem Zusammenbruch",
-          "zusammenfassung": "Der bekannte Discounter kämpft ums Überleben: Laut Insidern kann das Unternehmen kaum noch neue Waren einkaufen und arbeitet an der Grenze seiner Zahlungsfähigkeit. Eine Insolvenz gilt als zunehmend realistisches Szenario.",
-          "bedeutung": "Der drohende Kollaps eines der bekanntesten britischen Discounter verdeutlicht den anhaltenden Druck auf den stationären Einzelhandel in Zeiten hoher Kosten und veränderter Konsumgewohnheiten.",
-          "hintergrund": "Poundland war jahrelang ein Symbol für günstige Alltagsversorgung in Großbritannien und betreibt Hunderte Filialen im ganzen Land. Doch steigende Betriebskosten, Inflation bei Einkaufspreisen und die wachsende Konkurrenz durch Online-Händler haben das Geschäftsmodell unter Druck gesetzt.\n\nSollte die Kette kollabieren, wären tausende Arbeitsplätze bedroht. Zugleich würden einkommensschwache Haushalte, die besonders häufig bei Poundland einkaufen, einen wichtigen Versorgungskanal verlieren.",
-          "tag": "Einzelhandel",
-          "emoji": "🛒",
+          "titel": "Nvidia-Chef Huang im Fokus: KI, China und nationale Sicherheit",
+          "zusammenfassung": "Nvidia-Chef Jensen Huang steht im Mittelpunkt einer Untersuchung, die auch mutmaßliche Verbindungen zu einer chinesischen Spionin umfasst. Beobachter betonen, dass Huang und sein Unternehmen für die globale technologische Machtbalance eine Schlüsselrolle spielen.",
+          "bedeutung": "Nvidia kontrolliert den weltweiten Markt für KI-Chips – sein Führungspersonal und dessen geopolitische Verflechtungen haben damit strategische Bedeutung weit über das Unternehmen hinaus.",
+          "hintergrund": "Die Abhängigkeit der globalen KI-Entwicklung von Nvidias Grafikprozessoren macht das Unternehmen zu einem geopolitischen Faktor ersten Ranges. Exportbeschränkungen für Hochleistungschips nach China und die Rivalität zwischen Washington und Peking im Technologiebereich sind eng mit Nvidias Geschäftsstrategie verknüpft.\n\nDie laufenden Ermittlungen könnten das Vertrauen von Investoren und Partnern belasten, auch wenn Prognose-Plattformen eine vorzeitige Ablösung Huangs derzeit als unwahrscheinlich einschätzen.",
+          "tag": "Nvidia-Geopolitik",
+          "emoji": "🖥️",
           "quelle": "BBC",
-          "quelle_url": "https://www.bbc.co.uk/news/articles/cw1l3lmem165o?at_medium=RSS&at_campaign=rss"
+          "quelle_url": "https://www.bbc.co.uk/news/articles/c64g1gzy2vdzo?at_medium=RSS&at_campaign=rss"
         }
       ]
     },
@@ -89,36 +89,36 @@
       "stories": [
         {
           "id": "boerse-0",
-          "titel": "Chinas Exporte überraschend stark – Handelsbilanzüberschuss schrumpft",
-          "zusammenfassung": "Im Oktober stiegen die chinesischen Warenausfuhren um mehr als 35 Prozent gegenüber dem Vorjahr und übertrafen damit die Erwartungen der Analysten deutlich. Gleichzeitig zogen auch die Importe kräftig an, was den Überschuss in der Handelsbilanz merklich reduzierte.",
-          "bedeutung": "Starke chinesische Handelsströme bewegen globale Rohstoff- und Devisenmärkte und liefern Hinweise auf den Zustand der Weltwirtschaft.",
-          "hintergrund": "Die unerwartet hohen Exportzahlen deuten darauf hin, dass chinesische Unternehmen trotz geopolitischer Spannungen und US-Zolldrohungen ihre Auslandsgeschäfte ausbauen konnten. Manche Analysten sehen darin auch Vorzieheffekte vor möglichen neuen Handelsbeschränkungen.\n\nDer gleichzeitige Anstieg der Importe könnte auf eine leichte Belebung der Binnennachfrage hinweisen, was an den Märkten positiv aufgenommen wurde. Für Rohstoffmärkte, insbesondere Industriemetalle und Energie, sind chinesische Handelsdaten ein wichtiger Stimmungsindikator.",
-          "tag": "Welthandel",
-          "emoji": "📦",
+          "titel": "Fed-Gouverneur signalisiert Zinserhöhung im Dezember",
+          "zusammenfassung": "Fed-Gouverneur Christopher Waller hat sich klar für eine weitere Zinserhöhung im Dezember ausgesprochen und schließt dabei auch einen besonders großen Schritt von einem halben Prozentpunkt nicht aus. Die endgültige Entscheidung werde von den kommenden Inflationsdaten abhängen.",
+          "bedeutung": "Eine weitere Straffung der US-Geldpolitik würde globale Kapitalmärkte, Kreditmärkte und Wechselkurse erheblich beeinflussen.",
+          "hintergrund": "Wallers Aussagen kommen unmittelbar nach den unerwartet starken Inflationsdaten für Oktober und verstärken die Erwartung, dass die Fed ihren restriktiven Kurs fortsetzt. Die Märkte hatten zuletzt auf eine mögliche Pause gehofft.\n\nEin Zinsschritt von 50 Basispunkten wäre ungewöhnlich aggressiv und würde das Risiko einer wirtschaftlichen Abschwächung erhöhen. Anleiherenditen stiegen nach den Aussagen, während Aktienindizes unter Druck gerieten.",
+          "tag": "Fed-Zinspolitik",
+          "emoji": "🏦",
+          "quelle": "CNBC",
+          "quelle_url": "https://www.cnbc.com/2026/11/10/fed-governor-waller-sees-december-hike-likely.html"
+        },
+        {
+          "id": "boerse-1",
+          "titel": "Chinas Handelsüberschuss übersteigt erneut eine Billion Dollar",
+          "zusammenfassung": "China hat im bisherigen Jahresverlauf bis Oktober zum zweiten Mal in Folge einen Warenhandelsüberschuss von über einer Billion US-Dollar erzielt. Die Entwicklung verstärkt internationale Kritik am chinesischen Exportmodell und billigen Warenpreisen.",
+          "bedeutung": "Ein derart massiver Handelsüberschuss schürt Protektionismus und könnte Handelskonflikte mit den USA und der EU weiter eskalieren lassen.",
+          "hintergrund": "China exportiert weiterhin in hohem Volumen und zu wettbewerbsfähigen Preisen, was bei Handelspartnern zu Forderungen nach Ausgleichszöllen und einer Neuausrichtung der chinesischen Binnenwirtschaft führt. Die Frage, ob Peking den Konsum stärken oder weiter auf Exporte setzen wird, bleibt offen.\n\nFür die globalen Kapitalmärkte bedeutet der anhaltende Überschuss erheblichen Druck auf Wechselkurse und Rohstoffmärkte. Gleichzeitig nährt er Spekulationen über weitere handelspolitische Gegenmaßnahmen westlicher Staaten noch vor Jahresende.",
+          "tag": "China-Handelsüberschuss",
+          "emoji": "🚢",
           "quelle": "CNBC",
           "quelle_url": "https://www.cnbc.com/2026/11/10/china-trade-october-exports-imports-surplus-.html"
         },
         {
-          "id": "boerse-1",
-          "titel": "US-Inflationsdaten für Oktober heute im Fokus der Märkte",
-          "zusammenfassung": "Am heutigen Dienstag werden die amerikanischen Verbraucherpreisdaten für Oktober veröffentlicht, die Aufschluss über den weiteren Zinspfad der US-Notenbank geben sollen. Ökonomen erwarten einen moderaten Anstieg der Gesamt- und Kernrate.",
-          "bedeutung": "Die CPI-Daten sind derzeit der wichtigste kurzfristige Kurstreiber an den globalen Aktien- und Anleihemärkten.",
-          "hintergrund": "Nach einer Phase hartnäckig erhöhter Inflation haben die USA zuletzt Fortschritte beim Rückgang der Teuerung verzeichnet. Die Frage ist nun, ob dieser Trend anhält oder ob neue Preisimpulse – etwa durch Lohnwachstum oder Energiekosten – eine Pause bei Zinssenkungen erzwingen.\n\nDie Federal Reserve hat signalisiert, dass sie datenabhängig entscheiden wird. Ein überraschend hoher CPI-Wert dürfte die Erwartungen an baldige Zinssenkungen dämpfen und den Dollar stärken, während Aktien und Anleihen unter Druck geraten könnten.",
-          "tag": "Inflation",
-          "emoji": "📊",
-          "quelle": "CNBC",
-          "quelle_url": "https://www.cnbc.com/2026/11/09/october-cpi-report-2026-inflation.html"
-        },
-        {
           "id": "boerse-2",
-          "titel": "Chinas Erzeugerpreise auf Vierjahreshoch – Konsum bleibt schwach",
-          "zusammenfassung": "Der chinesische Produzentenpreisindex kletterte im Oktober auf den höchsten Stand seit mehr als vier Jahren und übertraf damit Analystenprognosen deutlich. Die Verbraucherpreise hingegen stiegen weiterhin nur verhalten an.",
-          "bedeutung": "Die Schere zwischen boomenden Erzeuger- und schwachen Verbraucherpreisen in China ist ein Warnsignal für globale Lieferketten und Inflationsdynamiken.",
-          "hintergrund": "Steigende Produzentenpreise in China können als Vorbote von Importinflation in anderen Ländern wirken, da China als weltgrößte Exportnation Preistrends in globalen Lieferketten maßgeblich prägt. Besonders betroffen wären Länder mit hoher Abhängigkeit von chinesischen Vorleistungsgütern.\n\nDass die Konsumpreise nicht entsprechend mitziehen, deutet auf eine nach wie vor zurückhaltende Binnennachfrage hin. Peking steht damit weiterhin vor der Herausforderung, Wachstum stärker auf inländischen Konsum zu stützen, was bislang nur begrenzt gelingt.",
-          "tag": "Erzeugerpreise",
-          "emoji": "🏭",
+          "titel": "Goldman-Chef: KI-Finanzierung trotz Marktunsicherheit robust",
+          "zusammenfassung": "Goldman-Sachs-Chef David Solomon erklärt, das Investoreninteresse an KI-Infrastruktur bleibe trotz eines Kursrückgangs bei Tech-Aktien und politischer Unsicherheit rund um Rechenzentren weiterhin stark. Kapitalzuflüsse in den Sektor seien ungebrochen.",
+          "bedeutung": "Die Einschätzung eines der einflussreichsten Bankchefs weltweit gibt dem KI-Sektor trotz Marktschwankungen eine wichtige Vertrauensbotschaft.",
+          "hintergrund": "Zuletzt hatten Bewertungskorrekturen bei KI-Aktien sowie regulatorische Debatten über den Energieverbrauch und die Standortpolitik von Rechenzentren für Nervosität bei Investoren gesorgt. Solomons Aussagen deuten darauf hin, dass institutionelle Investoren ihren langfristigen Kurs halten.\n\nFür Märkte und Analysten ist die Haltung von Goldman Sachs ein wichtiger Stimmungsindikator: Hält das Investmentbanking KI für strukturell intakt, dürften Kapitalmärkte trotz kurzfristiger Volatilität weiterhin erhebliche Mittel in den Sektor lenken.",
+          "tag": "KI-Investitionen",
+          "emoji": "💹",
           "quelle": "CNBC",
-          "quelle_url": "https://www.cnbc.com/2026/11/09/china-wholesale-inflation-rises-consumer.html"
+          "quelle_url": "https://www.cnbc.com/2026/11/09/goldman-ceo-ai-financing-market.html"
         }
       ]
     }
