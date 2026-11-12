@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-11T02:51:59.017005+00:00",
-  "datum": "Mittwoch, 11. November 2026",
+  "generated_at": "2026-11-12T03:54:52.959541+00:00",
+  "datum": "Donnerstag, 12. November 2026",
   "ressorts": [
     {
       "id": "politik",
@@ -9,36 +9,36 @@
       "stories": [
         {
           "id": "politik-0",
-          "titel": "Iran-Netzwerk plante Anschläge auf US-Militäranlagen in UK",
-          "zusammenfassung": "US-Behörden haben drei Verdächtige identifiziert, die im Auftrag des Iran eine Serie von Anschlägen geplant haben sollen, darunter einen Vorfall nahe dem britischen Luftwaffenstützpunkt RAF Fairford. Die Männer sollen Teil eines weitreichenden iranischen Spionage- und Sabotage-Netzwerks gewesen sein.",
-          "bedeutung": "Der Fall offenbart das Ausmaß iranischer Destabilisierungsversuche gegen westliche Militärinfrastruktur auf britischem Boden.",
-          "hintergrund": "RAF Fairford gilt als strategisch bedeutsamer Stützpunkt, da er regelmäßig von US-Streitkräften genutzt wird – unter anderem für Langstreckenbomber. Ein erfolgreicher Anschlag hätte erhebliche sicherheitspolitische Konsequenzen gehabt.\n\nDie Ermittlungen unterstreichen die anhaltende Bedrohung durch staatlich gelenkte Akteure und dürften die Geheimdienstkooperation zwischen Washington und London weiter intensivieren.",
-          "tag": "Iran-Terrorabwehr",
-          "emoji": "🛡️",
+          "titel": "Russland-Ukraine-Gespräche enden ohne Durchbruch",
+          "zusammenfassung": "In Abu Dhabi haben Vertreter Russlands und der Ukraine über die europäische Sicherheitsarchitektur nach einem möglichen Kriegsende verhandelt. Eine Einigung blieb aus; US-Sondergesandte sollen noch heute mit Putin und Selenskyj zusammentreffen.",
+          "bedeutung": "Die Gespräche sind der bislang konkreteste Versuch, einen Nachkriegsrahmen zu skizzieren – ihr Ausgang wird die Haltung westlicher Verbündeter maßgeblich beeinflussen.",
+          "hintergrund": "Die Verhandlungen in Abu Dhabi markieren eine neue Phase des Konflikts: Erstmals stehen nicht nur Waffenstillstandsbedingungen, sondern langfristige Sicherheitsgarantien für Europa auf der Agenda. Beide Seiten blieben in Kernfragen weit auseinander.\n\nDer Besuch US-amerikanischer Diplomaten bei beiden Staatschefs am heutigen Donnerstag gilt als entscheidender Stresstest für die Vermittlerrolle Washingtons. Beobachter warnen, dass ohne belastbare Sicherheitszusagen kein dauerhafter Frieden möglich ist.",
+          "tag": "Friedensgespräche",
+          "emoji": "🕊️",
           "quelle": "BBC",
-          "quelle_url": "https://www.bbc.co.uk/news/articles/c3rryrryk59zo?at_medium=RSS&at_campaign=rss"
+          "quelle_url": "https://www.bbc.co.uk/news/articles/ck792we7zrz4o?at_medium=RSS&at_campaign=rss"
         },
         {
           "id": "politik-1",
-          "titel": "US-Soldat wegen Russland-Spionage in London verhaftet",
-          "zusammenfassung": "Ein 41-jähriger ranghoher Soldat der US-Armee wurde in London festgenommen und wird wegen mutmaßlicher Verstöße gegen die nationale Sicherheit befragt. Die Festnahme erfolgte auf britischem Boden und wird von Geheimdiensten beider Länder gemeinsam untersucht.",
-          "bedeutung": "Der Fall zeigt, dass Russland weiterhin aktiv versucht, Personal innerhalb westlicher Streitkräfte zu kompromittieren.",
-          "hintergrund": "Spionagefälle innerhalb des US-Militärs haben in den vergangenen Jahren zugenommen und betreffen zunehmend auch Verbündete als Schauplatz der Operationen. Die Festnahme auf britischem Boden deutet auf eine enge Zusammenarbeit der Nachrichtendienste hin.\n\nDer Vorfall kommt zu einem Zeitpunkt erhöhter geopolitischer Spannungen mit Russland und könnte diplomatische Reaktionen nach sich ziehen, insbesondere im NATO-Kontext.",
-          "tag": "Russland-Spionage",
-          "emoji": "🕵️",
+          "titel": "Historischer Sieg: Erster schwarzer Senator aus Mississippi",
+          "zusammenfassung": "Scott Colom von den Demokraten hat den Senatssitz in Mississippi gewonnen und ist damit der erste Afroamerikaner aus diesem Bundesstaat im US-Senat seit mehr als 140 Jahren. Der Wahlsieg gilt als bedeutsames Symbol für den politischen Wandel im tiefen Süden der USA.",
+          "bedeutung": "Das Ergebnis bricht eine mehr als ein Jahrhundert alte Barriere und könnte die politische Landschaft eines der konservativsten Bundesstaaten nachhaltig verschieben.",
+          "hintergrund": "Mississippi gilt als einer der Bundesstaaten mit der bewegtesten Geschichte in Fragen von Rassengleichheit und Bürgerrechten. Seit dem Ende der Rekonstruktionsära nach dem Bürgerkrieg war kein Schwarzer mehr aus diesem Staat in den Senat gewählt worden.\n\nColoms Sieg wird überparteilich als historischer Moment gewertet und reiht sich in eine Reihe symbolisch bedeutsamer Wahlergebnisse ein, die die demografischen Verschiebungen in den Südstaaten widerspiegeln.",
+          "tag": "US-Politik",
+          "emoji": "🗳️",
           "quelle": "BBC",
-          "quelle_url": "https://www.bbc.co.uk/news/articles/c6d7q77xgw0vo?at_medium=RSS&at_campaign=rss"
+          "quelle_url": "https://www.bbc.co.uk/news/articles/cw7vppyr80eeo?at_medium=RSS&at_campaign=rss"
         },
         {
           "id": "politik-2",
-          "titel": "Israels neues Parlament tritt zusammen – Eisenkot fordert Netanyahu heraus",
-          "zusammenfassung": "Das neu gewählte israelische Parlament ist vereidigt worden, und Netanyahus schärfster politischer Konkurrent Gadi Eisenkot hat als erster die Möglichkeit erhalten, eine Regierung zu bilden. Gelingt ihm dies, könnte er den langjährigen Premierminister ablösen.",
-          "bedeutung": "Israel steht vor einem politischen Wendepunkt, der die Regierungsbildung nach einer der turbulentesten Wahlperioden des Landes entscheiden wird.",
-          "hintergrund": "Benjamin Netanyahu gilt zwar nach wie vor als politisch erfahrener Akteur, steht jedoch unter erheblichem Druck durch laufende Korruptionsverfahren sowie innerkoalitionäre Spannungen. Eisenkot, ein ehemaliger Generalstabschef, genießt parteiübergreifende Glaubwürdigkeit.\n\nDie Regierungsbildung in Israel gilt als komplexes Vorhaben, da das Verhältniswahlrecht eine breite Koalitionsbildung erfordert. Internationale Beobachter verfolgen den Prozess angesichts der Lage im Nahen Osten mit besonderem Interesse.",
-          "tag": "Israel-Politik",
-          "emoji": "🇮🇱",
+          "titel": "Indonesiens Vizepräsident tritt zurück – Regierungskoalition wackelt",
+          "zusammenfassung": "Indonesiens Vizepräsident hat sein Amt niedergelegt, was auf wachsende Spannungen innerhalb der regierenden Koalition hindeutet. Präsident Prabowo sieht sich zugleich mit einem offenen Zerwürfnis mit seinem Amtsvorgänger Joko Widodo konfrontiert.",
+          "bedeutung": "Als viertbevölkerungsreichstes Land der Welt und wichtige Wirtschaftsmacht Südostasiens hat politische Instabilität in Indonesien regionale und globale Tragweite.",
+          "hintergrund": "Der Rücktritt kommt zu einem heiklen Zeitpunkt für Präsident Prabowo Subianto, dessen Regierung noch keine zwei Jahre im Amt ist. Der wachsende Riss mit dem einflussreichen Ex-Präsidenten Widodo, dessen politisches Netzwerk tief in Partei und Staatsapparat verwurzelt ist, bedroht die Regierungsstabilität.\n\nBeobachter sehen in dem Vorgang ein Zeichen dafür, dass die Allianz, die Prabowo an die Macht gebracht hatte, brüchig wird. Für ausländische Investoren und regionale Partner erhöht die Unsicherheit das Risiko politischer Neuausrichtungen in einer geostrategisch bedeutsamen Nation.",
+          "tag": "Indonesien",
+          "emoji": "🇮🇩",
           "quelle": "BBC",
-          "quelle_url": "https://www.bbc.co.uk/news/articles/crd939lpzjp9o?at_medium=RSS&at_campaign=rss"
+          "quelle_url": "https://www.bbc.co.uk/news/articles/cmvgxgz87qqro?at_medium=RSS&at_campaign=rss"
         }
       ]
     },
@@ -49,36 +49,25 @@
       "stories": [
         {
           "id": "wirtschaft-0",
-          "titel": "KI-Firma Anthropic plant Börsengang mit Billion-Dollar-Bewertung",
-          "zusammenfassung": "Der Entwickler des Claude-Chatbots, Anthropic, strebt einen Börsengang an, der das Unternehmen mit rund 1,3 Billionen US-Dollar bewerten würde. Die angebotenen Aktien sollen zwischen 70 und 78 Dollar ausgegeben werden – etwas unterhalb der ursprünglichen Erwartungen.",
-          "bedeutung": "Der Börsengang wäre einer der größten der Tech-Geschichte und spiegelt den anhaltenden Investorenhunger auf KI-Infrastruktur wider.",
-          "hintergrund": "Anthropic positioniert sich als sicherheitsorientierter Gegenpol zu OpenAI und hat trotz eigener Warnungen vor den potenziell katastrophalen Risiken von KI ein enormes Investoreninteresse geweckt. Führende Kapitalgeber wie Google und Amazon haben bereits Milliarden in das Unternehmen gesteckt.\n\nDas etwas konservative Ausgabepreis-Band könnte auf Vorsicht im Marktumfeld hindeuten, signalisiert aber auch das Bemühen, einen stabilen Handelsauftakt zu sichern. Der Börsengang dürfte die Debatte über KI-Bewertungen und Regulierung weiter anheizen.",
-          "tag": "KI-Börsengang",
-          "emoji": "🤖",
-          "quelle": "BBC",
-          "quelle_url": "https://www.bbc.co.uk/news/articles/crpdgd723x2zo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "id": "wirtschaft-1",
-          "titel": "US-Inflation im Oktober über Erwartungen – Preisdruck hält an",
-          "zusammenfassung": "Die Verbraucherpreise in den USA stiegen im Oktober um 0,4 Prozent gegenüber dem Vormonat und lagen damit über den Prognosen der Ökonomen. Steigende Kosten für Wohnen, Lebensmittel und Energie waren die Haupttreiber.",
-          "bedeutung": "Die hartnäckig hohe Inflation erhöht den Druck auf die US-Notenbank und erschwert eine baldige Zinssenkung.",
-          "hintergrund": "Die Daten kommen zu einem kritischen Zeitpunkt für die Federal Reserve, die zwischen dem Ziel der Preisstabilität und den Risiken einer wirtschaftlichen Abkühlung abwägen muss. Eine anhaltend hohe Inflation könnte die zuletzt gesunkenen Zinssenkungserwartungen weiter dämpfen.\n\nFür Verbraucherinnen und Verbraucher bedeutet die Entwicklung, dass die finanzielle Belastung durch höhere Lebenshaltungskosten noch nicht nachlässt – mit Folgen für das Konsumklima und die konjunkturelle Entwicklung.",
-          "tag": "US-Inflation",
+          "titel": "US-Inflation im Oktober höher als erwartet",
+          "zusammenfassung": "Die Verbraucherpreise in den USA stiegen im Oktober um 0,4 Prozent gegenüber dem Vormonat – mehr als von Analysten erwartet. Haupttreiber waren höhere Kosten für Wohnen, Lebensmittel und Energie.",
+          "bedeutung": "Die überraschend hartnäckige Inflation erschwert die Entscheidungen der US-Notenbank und nährt Spekulationen über weitere Zinserhöhungen.",
+          "hintergrund": "Der Inflationsbericht kommt zu einem kritischen Zeitpunkt: Die Federal Reserve hatte gehofft, dass sich der Preisdruck weiter abschwächt. Die aktuellen Daten deuten jedoch darauf hin, dass die letzte Meile der Inflationsbekämpfung besonders zäh wird.\n\nFür Verbraucher bedeutet dies anhaltende Belastungen bei den Lebenshaltungskosten. Ökonomen warnen, dass ohne eine spürbare Abkühlung des Arbeitsmarkts oder der Energiepreise der Spielraum der Fed für Zinssenkungen weiter schwindet.",
+          "tag": "Inflation",
           "emoji": "📈",
           "quelle": "BBC",
           "quelle_url": "https://www.bbc.co.uk/news/articles/cwy8lx3pg4k2o?at_medium=RSS&at_campaign=rss"
         },
         {
-          "id": "wirtschaft-2",
-          "titel": "Nvidia-Chef Huang im Fokus: KI, China und nationale Sicherheit",
-          "zusammenfassung": "Nvidia-Chef Jensen Huang steht im Mittelpunkt einer Untersuchung, die auch mutmaßliche Verbindungen zu einer chinesischen Spionin umfasst. Beobachter betonen, dass Huang und sein Unternehmen für die globale technologische Machtbalance eine Schlüsselrolle spielen.",
-          "bedeutung": "Nvidia kontrolliert den weltweiten Markt für KI-Chips – sein Führungspersonal und dessen geopolitische Verflechtungen haben damit strategische Bedeutung weit über das Unternehmen hinaus.",
-          "hintergrund": "Die Abhängigkeit der globalen KI-Entwicklung von Nvidias Grafikprozessoren macht das Unternehmen zu einem geopolitischen Faktor ersten Ranges. Exportbeschränkungen für Hochleistungschips nach China und die Rivalität zwischen Washington und Peking im Technologiebereich sind eng mit Nvidias Geschäftsstrategie verknüpft.\n\nDie laufenden Ermittlungen könnten das Vertrauen von Investoren und Partnern belasten, auch wenn Prognose-Plattformen eine vorzeitige Ablösung Huangs derzeit als unwahrscheinlich einschätzen.",
-          "tag": "Nvidia-Geopolitik",
-          "emoji": "🖥️",
+          "id": "wirtschaft-1",
+          "titel": "Nvidia beauftragt Anwälte nach mutmaßlicher Spionageaffäre",
+          "zusammenfassung": "Chip-Riese Nvidia hat eine führende US-Anwaltskanzlei damit beauftragt, eine mutmaßliche Spionageaffäre rund um Konzernchef Jensen Huang zu untersuchen. Hintergrund ist der Vorwurf, Huang habe eine Beziehung zu einer Frau gehabt, die angeblich für den chinesischen Geheimdienst tätig ist.",
+          "bedeutung": "Die Affäre berührt hochsensible Fragen zu Technologietransfer und nationaler Sicherheit bei einem Unternehmen, das im Zentrum des globalen KI-Chip-Wettbewerbs steht.",
+          "hintergrund": "Nvidia ist derzeit das wichtigste Unternehmen für die Lieferkette von KI-Beschleunigern weltweit. Eine mögliche Kompromittierung auf Führungsebene wäre daher nicht nur ein unternehmensinternes Problem, sondern könnte geopolitische Konsequenzen haben.\n\nDie USA und China liefern sich seit Jahren einen intensiven Wettstreit um die Vorherrschaft bei Halbleitern und KI. Der Fall Huang rückt erneut ins Bewusstsein, wie stark kommerzielle Technologiekonzerne im Visier staatlicher Nachrichtendienste stehen.",
+          "tag": "Spionage & Tech",
+          "emoji": "🔍",
           "quelle": "BBC",
-          "quelle_url": "https://www.bbc.co.uk/news/articles/c64g1gzy2vdzo?at_medium=RSS&at_campaign=rss"
+          "quelle_url": "https://www.bbc.co.uk/news/articles/ck1wvwwl3x0go?at_medium=RSS&at_campaign=rss"
         }
       ]
     },
@@ -89,36 +78,36 @@
       "stories": [
         {
           "id": "boerse-0",
-          "titel": "Fed-Gouverneur signalisiert Zinserhöhung im Dezember",
-          "zusammenfassung": "Fed-Gouverneur Christopher Waller hat sich klar für eine weitere Zinserhöhung im Dezember ausgesprochen und schließt dabei auch einen besonders großen Schritt von einem halben Prozentpunkt nicht aus. Die endgültige Entscheidung werde von den kommenden Inflationsdaten abhängen.",
-          "bedeutung": "Eine weitere Straffung der US-Geldpolitik würde globale Kapitalmärkte, Kreditmärkte und Wechselkurse erheblich beeinflussen.",
-          "hintergrund": "Wallers Aussagen kommen unmittelbar nach den unerwartet starken Inflationsdaten für Oktober und verstärken die Erwartung, dass die Fed ihren restriktiven Kurs fortsetzt. Die Märkte hatten zuletzt auf eine mögliche Pause gehofft.\n\nEin Zinsschritt von 50 Basispunkten wäre ungewöhnlich aggressiv und würde das Risiko einer wirtschaftlichen Abschwächung erhöhen. Anleiherenditen stiegen nach den Aussagen, während Aktienindizes unter Druck gerieten.",
-          "tag": "Fed-Zinspolitik",
+          "titel": "Fed-Vertreter nennt Inflationsdaten 'beunruhigend'",
+          "zusammenfassung": "Notenbanker Austan Goolsbee von der Federal Reserve bezeichnete den jüngsten US-Inflationsbericht als an der Grenze des Beunruhigenden. Die Daten heizen die Debatte über weitere Zinserhöhungen spürbar an.",
+          "bedeutung": "Klare Signale aus der Fed beeinflussen Anleiherenditen, Aktienindizes und Währungsmärkte unmittelbar – weltweit.",
+          "hintergrund": "Der Verbraucherpreisindex stieg im Oktober stärker als erwartet, was die Hoffnungen auf ein baldiges Ende des Zinserhöhungszyklus dämpft. Fed-Vertreter Goolsbee gehört zu den einflussreicheren Stimmen im geldpolitischen Ausschuss.\n\nAn den Märkten reagierten Anleger mit Zurückhaltung: Staatsanleihen gaben nach, während Aktien unter Druck gerieten. Entscheidend wird nun sein, ob die Fed auf ihrer nächsten Sitzung die Leitzinsen abermals anhebt oder eine Pause einlegt.",
+          "tag": "Fed & Zinsen",
           "emoji": "🏦",
+          "quelle": "CNBC",
+          "quelle_url": "https://www.cnbc.com/2026/11/11/goolsbee-october-inflation-fed-rates-disturbing-distressing.html"
+        },
+        {
+          "id": "boerse-1",
+          "titel": "Fed-Gouverneur Waller hält Dezember-Zinserhöhung für wahrscheinlich",
+          "zusammenfassung": "Fed-Gouverneur Christopher Waller hat sich klar für eine weitere Zinserhöhung im Dezember ausgesprochen und schließt dabei auch einen großen Schritt von einem halben Prozentpunkt nicht aus. Seine Haltung hänge von den kommenden Inflationsdaten ab.",
+          "bedeutung": "Die Aussagen eines stimmberechtigten Fed-Mitglieds setzen unmittelbar Maßstäbe für die Markterwartungen an Zinspfad und Risikoappetit der Investoren.",
+          "hintergrund": "Wallers Aussagen kommen kurz nach den überraschend hohen Inflationszahlen für Oktober und verstärken den Eindruck, dass die US-Notenbank noch nicht bereit ist, den Fuß vom Bremspedal zu nehmen. Ein Halbpunktschritt wäre der aggressivste Zug seit Monaten.\n\nFür globale Märkte hätte ein solcher Schritt weitreichende Folgen: Höhere US-Zinsen stärken den Dollar, belasten Schwellenländerwährungen und verteuern Kapital weltweit. Investoren beginnen, ihre Portfolios entsprechend umzuschichten.",
+          "tag": "Geldpolitik",
+          "emoji": "📊",
           "quelle": "CNBC",
           "quelle_url": "https://www.cnbc.com/2026/11/10/fed-governor-waller-sees-december-hike-likely.html"
         },
         {
-          "id": "boerse-1",
-          "titel": "Chinas Handelsüberschuss übersteigt erneut eine Billion Dollar",
-          "zusammenfassung": "China hat im bisherigen Jahresverlauf bis Oktober zum zweiten Mal in Folge einen Warenhandelsüberschuss von über einer Billion US-Dollar erzielt. Die Entwicklung verstärkt internationale Kritik am chinesischen Exportmodell und billigen Warenpreisen.",
-          "bedeutung": "Ein derart massiver Handelsüberschuss schürt Protektionismus und könnte Handelskonflikte mit den USA und der EU weiter eskalieren lassen.",
-          "hintergrund": "China exportiert weiterhin in hohem Volumen und zu wettbewerbsfähigen Preisen, was bei Handelspartnern zu Forderungen nach Ausgleichszöllen und einer Neuausrichtung der chinesischen Binnenwirtschaft führt. Die Frage, ob Peking den Konsum stärken oder weiter auf Exporte setzen wird, bleibt offen.\n\nFür die globalen Kapitalmärkte bedeutet der anhaltende Überschuss erheblichen Druck auf Wechselkurse und Rohstoffmärkte. Gleichzeitig nährt er Spekulationen über weitere handelspolitische Gegenmaßnahmen westlicher Staaten noch vor Jahresende.",
-          "tag": "China-Handelsüberschuss",
-          "emoji": "🚢",
+          "id": "boerse-2",
+          "titel": "Chinas Handelsüberschuss überschreitet erneut die Billion-Dollar-Marke",
+          "zusammenfassung": "China hat im bisherigen Jahresverlauf erneut einen Warenhandelsüberschuss von mehr als einer Billion US-Dollar angehäuft. Die Zahl schürt bei Handelspartnern weltweit Kritik an Pekings Exportstrategie und dem Strom billiger Güter.",
+          "bedeutung": "Ein Überschuss dieser Größenordnung befeuert handelspolitische Spannungen mit den USA, der EU und anderen Partnern und erhöht den Druck auf neue Zollmaßnahmen.",
+          "hintergrund": "Bereits im Vorjahr hatte China die Billion-Dollar-Marke beim Handelsüberschuss erreicht – das zweimalige Überschreiten in Folge macht das strukturelle Ungleichgewicht unübersehbar. Kritiker werfen Peking vor, durch Subventionen und eine schwache Währung den Export künstlich zu begünstigen.\n\nFür die Märkte ist das Signal ambivalent: Einerseits zeugt es von chinesischer Industriestärke, andererseits wächst die Wahrscheinlichkeit neuer Handelskonflikte, die globale Lieferketten und Rohstoffpreise in Mitleidenschaft ziehen könnten.",
+          "tag": "Welthandel",
+          "emoji": "🌐",
           "quelle": "CNBC",
           "quelle_url": "https://www.cnbc.com/2026/11/10/china-trade-october-exports-imports-surplus-.html"
-        },
-        {
-          "id": "boerse-2",
-          "titel": "Goldman-Chef: KI-Finanzierung trotz Marktunsicherheit robust",
-          "zusammenfassung": "Goldman-Sachs-Chef David Solomon erklärt, das Investoreninteresse an KI-Infrastruktur bleibe trotz eines Kursrückgangs bei Tech-Aktien und politischer Unsicherheit rund um Rechenzentren weiterhin stark. Kapitalzuflüsse in den Sektor seien ungebrochen.",
-          "bedeutung": "Die Einschätzung eines der einflussreichsten Bankchefs weltweit gibt dem KI-Sektor trotz Marktschwankungen eine wichtige Vertrauensbotschaft.",
-          "hintergrund": "Zuletzt hatten Bewertungskorrekturen bei KI-Aktien sowie regulatorische Debatten über den Energieverbrauch und die Standortpolitik von Rechenzentren für Nervosität bei Investoren gesorgt. Solomons Aussagen deuten darauf hin, dass institutionelle Investoren ihren langfristigen Kurs halten.\n\nFür Märkte und Analysten ist die Haltung von Goldman Sachs ein wichtiger Stimmungsindikator: Hält das Investmentbanking KI für strukturell intakt, dürften Kapitalmärkte trotz kurzfristiger Volatilität weiterhin erhebliche Mittel in den Sektor lenken.",
-          "tag": "KI-Investitionen",
-          "emoji": "💹",
-          "quelle": "CNBC",
-          "quelle_url": "https://www.cnbc.com/2026/11/09/goldman-ceo-ai-financing-market.html"
         }
       ]
     }
