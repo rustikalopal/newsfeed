@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-12T03:54:52.959541+00:00",
-  "datum": "Donnerstag, 12. November 2026",
+  "generated_at": "2026-11-13T03:28:13.079215+00:00",
+  "datum": "Freitag, 13. November 2026",
   "ressorts": [
     {
       "id": "politik",
@@ -9,36 +9,36 @@
       "stories": [
         {
           "id": "politik-0",
-          "titel": "Russland-Ukraine-Gespräche enden ohne Durchbruch",
-          "zusammenfassung": "In Abu Dhabi haben Vertreter Russlands und der Ukraine über die europäische Sicherheitsarchitektur nach einem möglichen Kriegsende verhandelt. Eine Einigung blieb aus; US-Sondergesandte sollen noch heute mit Putin und Selenskyj zusammentreffen.",
-          "bedeutung": "Die Gespräche sind der bislang konkreteste Versuch, einen Nachkriegsrahmen zu skizzieren – ihr Ausgang wird die Haltung westlicher Verbündeter maßgeblich beeinflussen.",
-          "hintergrund": "Die Verhandlungen in Abu Dhabi markieren eine neue Phase des Konflikts: Erstmals stehen nicht nur Waffenstillstandsbedingungen, sondern langfristige Sicherheitsgarantien für Europa auf der Agenda. Beide Seiten blieben in Kernfragen weit auseinander.\n\nDer Besuch US-amerikanischer Diplomaten bei beiden Staatschefs am heutigen Donnerstag gilt als entscheidender Stresstest für die Vermittlerrolle Washingtons. Beobachter warnen, dass ohne belastbare Sicherheitszusagen kein dauerhafter Frieden möglich ist.",
-          "tag": "Friedensgespräche",
-          "emoji": "🕊️",
+          "titel": "Nvidia-CEO Huang tritt nach Spionage-Vorwürfen zurück",
+          "zusammenfassung": "Jensen Huang hat seinen Posten als Chef des KI-Chipherstellers Nvidia niedergelegt, nachdem Berichte über eine mutmaßliche Affäre mit einer chinesischen Geheimdienstagentin aufgetaucht waren. US-Gesetzgeber fordern nun eine Anhörung des Milliardärs im Kongress.",
+          "bedeutung": "Der Abgang des mächtigsten Mannes im KI-Halbleitersektor trifft eine Branche im Nerv und belastet gleichzeitig das ohnehin angespannte Verhältnis zwischen Washington und Peking.",
+          "hintergrund": "Jensen Huang hatte Nvidia innerhalb weniger Jahre zum wertvollsten Unternehmen der Welt aufgebaut – sein Name war nahezu synonym mit dem KI-Boom. Nun steht er im Zentrum eines Spionageskandals: Berichte deuten darauf hin, dass eine seiner außerehelichen Beziehungen mit einer Agentin des chinesischen Ministeriums für Staatssicherheit bestanden haben könnte.\n\nFür die USA hat der Fall unmittelbare sicherheitspolitische Dimensionen, denn Nvidia-Chips sind das strategisch bedeutsamste Gut im globalen KI-Wettlauf. Gleichzeitig findet der Skandal wenige Tage vor einem geplanten Gipfeltreffen von Präsident Trump mit Chinas Staats- und Parteichef Xi Jinping statt – das politische Klima dürfte dadurch erheblich vergiftet sein.",
+          "tag": "Spionage-Affäre",
+          "emoji": "🔐",
           "quelle": "BBC",
-          "quelle_url": "https://www.bbc.co.uk/news/articles/ck792we7zrz4o?at_medium=RSS&at_campaign=rss"
+          "quelle_url": "https://www.bbc.co.uk/news/articles/cmq5vd1wdgz6o?at_medium=RSS&at_campaign=rss"
         },
         {
           "id": "politik-1",
-          "titel": "Historischer Sieg: Erster schwarzer Senator aus Mississippi",
-          "zusammenfassung": "Scott Colom von den Demokraten hat den Senatssitz in Mississippi gewonnen und ist damit der erste Afroamerikaner aus diesem Bundesstaat im US-Senat seit mehr als 140 Jahren. Der Wahlsieg gilt als bedeutsames Symbol für den politischen Wandel im tiefen Süden der USA.",
-          "bedeutung": "Das Ergebnis bricht eine mehr als ein Jahrhundert alte Barriere und könnte die politische Landschaft eines der konservativsten Bundesstaaten nachhaltig verschieben.",
-          "hintergrund": "Mississippi gilt als einer der Bundesstaaten mit der bewegtesten Geschichte in Fragen von Rassengleichheit und Bürgerrechten. Seit dem Ende der Rekonstruktionsära nach dem Bürgerkrieg war kein Schwarzer mehr aus diesem Staat in den Senat gewählt worden.\n\nColoms Sieg wird überparteilich als historischer Moment gewertet und reiht sich in eine Reihe symbolisch bedeutsamer Wahlergebnisse ein, die die demografischen Verschiebungen in den Südstaaten widerspiegeln.",
-          "tag": "US-Politik",
-          "emoji": "🗳️",
+          "titel": "Selenskyj begrüßt Europas Rolle bei Ukraine-Friedensgesprächen",
+          "zusammenfassung": "Der ukrainische Präsident Wolodymyr Selenskyj hat es ausdrücklich begrüßt, dass die USA europäische Staaten in mögliche Friedensverhandlungen mit Russland einbinden wollen. Kiew betont, Europa sei als künftiger EU-Partner der Ukraine ein unverzichtbarer Akteur.",
+          "bedeutung": "Die Einbeziehung Europas in Verhandlungen könnte verhindern, dass ein Friedensdeal über die Köpfe der Ukrainer und ihrer engsten Partner hinweg ausgehandelt wird.",
+          "hintergrund": "Washington hatte in den vergangenen Wochen Signale ausgesendet, Europa stärker in potenzielle Gespräche über ein Kriegsende einzubinden. Selenskyj wertet das als Erfolg seiner Diplomatie: Ohne europäische Sicherheitsgarantien hält Kiew jeden Waffenstillstand für kaum tragfähig.\n\nDer Schritt ist auch innenpolitisch brisant – in mehreren europäischen Hauptstädten wächst der Druck, eigene Sicherheitsgarantien für die Ukraine zu übernehmen, falls die USA ihren Rückhalt weiter reduzieren. Eine strukturelle Einbindung Europas in die Verhandlungsarchitektur wäre ein Paradigmenwechsel gegenüber den bisherigen US-dominierten Formaten.",
+          "tag": "Ukraine-Diplomatie",
+          "emoji": "🕊️",
           "quelle": "BBC",
-          "quelle_url": "https://www.bbc.co.uk/news/articles/cw7vppyr80eeo?at_medium=RSS&at_campaign=rss"
+          "quelle_url": "https://www.bbc.co.uk/news/articles/ckn80j9jv3jxo?at_medium=RSS&at_campaign=rss"
         },
         {
           "id": "politik-2",
-          "titel": "Indonesiens Vizepräsident tritt zurück – Regierungskoalition wackelt",
-          "zusammenfassung": "Indonesiens Vizepräsident hat sein Amt niedergelegt, was auf wachsende Spannungen innerhalb der regierenden Koalition hindeutet. Präsident Prabowo sieht sich zugleich mit einem offenen Zerwürfnis mit seinem Amtsvorgänger Joko Widodo konfrontiert.",
-          "bedeutung": "Als viertbevölkerungsreichstes Land der Welt und wichtige Wirtschaftsmacht Südostasiens hat politische Instabilität in Indonesien regionale und globale Tragweite.",
-          "hintergrund": "Der Rücktritt kommt zu einem heiklen Zeitpunkt für Präsident Prabowo Subianto, dessen Regierung noch keine zwei Jahre im Amt ist. Der wachsende Riss mit dem einflussreichen Ex-Präsidenten Widodo, dessen politisches Netzwerk tief in Partei und Staatsapparat verwurzelt ist, bedroht die Regierungsstabilität.\n\nBeobachter sehen in dem Vorgang ein Zeichen dafür, dass die Allianz, die Prabowo an die Macht gebracht hatte, brüchig wird. Für ausländische Investoren und regionale Partner erhöht die Unsicherheit das Risiko politischer Neuausrichtungen in einer geostrategisch bedeutsamen Nation.",
-          "tag": "Indonesien",
-          "emoji": "🇮🇩",
+          "titel": "Ukrainische Drohne trifft erstmals russisches Schiff in der Ostsee",
+          "zusammenfassung": "Ein ukrainischer Drohnenangriff hat nach Angaben aus Kiew ein russisches Kriegsschiff im Finnischen Meerbusen beschädigt. Es soll der erste erfolgreiche ukrainische Drohnenangriff auf ein russisches Schiff in der offenen Ostsee sein.",
+          "bedeutung": "Der Angriff zeigt, dass die Ukraine ihre maritime Kampfreichweite erheblich ausgebaut hat und nun auch NATO-nahe Gewässer zum Schauplatz werden könnten.",
+          "hintergrund": "Bislang hatten sich ukrainische Seedrohnen-Operationen vor allem auf das Schwarze Meer konzentriert, wo sie erheblichen Schaden an der russischen Schwarzmeerflotte angerichtet haben. Ein erfolgreicher Treffer in der Ostsee markiert eine neue Qualität: Das Gebiet grenzt an mehrere NATO-Mitglieder, was die Frage nach möglichem Kollateralrisiko aufwirft.\n\nRussland unterhält in der Ostsee Stützpunkte unter anderem in Kaliningrad. Die Ausweitung ukrainischer Drohnenoperationen auf diese Region dürfte die Alarmbereitschaft der Anrainerstaaten erhöhen und innerhalb der NATO zu Debatten über Überwachung und Eskalationsgrenzen führen.",
+          "tag": "Seekrieg",
+          "emoji": "🚢",
           "quelle": "BBC",
-          "quelle_url": "https://www.bbc.co.uk/news/articles/cmvgxgz87qqro?at_medium=RSS&at_campaign=rss"
+          "quelle_url": "https://www.bbc.co.uk/news/articles/cmn0d33zz34zo?at_medium=RSS&at_campaign=rss"
         }
       ]
     },
@@ -49,25 +49,36 @@
       "stories": [
         {
           "id": "wirtschaft-0",
-          "titel": "US-Inflation im Oktober höher als erwartet",
-          "zusammenfassung": "Die Verbraucherpreise in den USA stiegen im Oktober um 0,4 Prozent gegenüber dem Vormonat – mehr als von Analysten erwartet. Haupttreiber waren höhere Kosten für Wohnen, Lebensmittel und Energie.",
-          "bedeutung": "Die überraschend hartnäckige Inflation erschwert die Entscheidungen der US-Notenbank und nährt Spekulationen über weitere Zinserhöhungen.",
-          "hintergrund": "Der Inflationsbericht kommt zu einem kritischen Zeitpunkt: Die Federal Reserve hatte gehofft, dass sich der Preisdruck weiter abschwächt. Die aktuellen Daten deuten jedoch darauf hin, dass die letzte Meile der Inflationsbekämpfung besonders zäh wird.\n\nFür Verbraucher bedeutet dies anhaltende Belastungen bei den Lebenshaltungskosten. Ökonomen warnen, dass ohne eine spürbare Abkühlung des Arbeitsmarkts oder der Energiepreise der Spielraum der Fed für Zinssenkungen weiter schwindet.",
-          "tag": "Inflation",
+          "titel": "Britische Wirtschaft wächst so stark wie seit Jahren nicht",
+          "zusammenfassung": "Das Vereinigte Königreich verzeichnete im dritten Quartal 2026 ein Wirtschaftswachstum von 0,7 Prozent – die stärkste Quartalsexpansion seit mehr als zwei Jahren. Ökonomen führen den Schwung unter anderem auf Investitionen im KI-Sektor zurück.",
+          "bedeutung": "Die Zahlen entlasten die Regierung politisch und deuten darauf hin, dass Großbritannien trotz anhaltender globaler Unsicherheiten eine solide Eigenentwicklung zeigt.",
+          "hintergrund": "Nach Jahren verhaltenen Wachstums, geprägt von Brexit-Folgen und Energieschocks, signalisiert das Quartalsergebnis eine gewisse Stabilisierung der britischen Volkswirtschaft. Der Dienstleistungssektor, insbesondere tech- und finanznahe Branchen, trug überproportional bei.\n\nAllerdings warnen Analysten vor voreiligem Optimismus: Die Inflation bleibt erhöht, die Reallöhne stehen unter Druck, und globale Handelsrisiken – vor allem durch US-Zollpolitik und den Nvidia-Schock – könnten das Bild im vierten Quartal wieder eintrüben.",
+          "tag": "Konjunktur",
           "emoji": "📈",
           "quelle": "BBC",
-          "quelle_url": "https://www.bbc.co.uk/news/articles/cwy8lx3pg4k2o?at_medium=RSS&at_campaign=rss"
+          "quelle_url": "https://www.bbc.co.uk/news/articles/ck3rgd429zd5o?at_medium=RSS&at_campaign=rss"
         },
         {
           "id": "wirtschaft-1",
-          "titel": "Nvidia beauftragt Anwälte nach mutmaßlicher Spionageaffäre",
-          "zusammenfassung": "Chip-Riese Nvidia hat eine führende US-Anwaltskanzlei damit beauftragt, eine mutmaßliche Spionageaffäre rund um Konzernchef Jensen Huang zu untersuchen. Hintergrund ist der Vorwurf, Huang habe eine Beziehung zu einer Frau gehabt, die angeblich für den chinesischen Geheimdienst tätig ist.",
-          "bedeutung": "Die Affäre berührt hochsensible Fragen zu Technologietransfer und nationaler Sicherheit bei einem Unternehmen, das im Zentrum des globalen KI-Chip-Wettbewerbs steht.",
-          "hintergrund": "Nvidia ist derzeit das wichtigste Unternehmen für die Lieferkette von KI-Beschleunigern weltweit. Eine mögliche Kompromittierung auf Führungsebene wäre daher nicht nur ein unternehmensinternes Problem, sondern könnte geopolitische Konsequenzen haben.\n\nDie USA und China liefern sich seit Jahren einen intensiven Wettstreit um die Vorherrschaft bei Halbleitern und KI. Der Fall Huang rückt erneut ins Bewusstsein, wie stark kommerzielle Technologiekonzerne im Visier staatlicher Nachrichtendienste stehen.",
-          "tag": "Spionage & Tech",
-          "emoji": "🔍",
+          "titel": "Microsoft-Ausfall legt Outlook und Teams weltweit lahm",
+          "zusammenfassung": "Ein globaler Ausfall bei Microsoft hat die Dienste Outlook und Teams über Stunden hinweg beeinträchtigt und Millionen von Nutzern in Unternehmen und Behörden weltweit getroffen. Als Ursache nannte Microsoft unerwartet ausgefallene Server, die eine Überlastung anderer Systeme auslösten.",
+          "bedeutung": "Der Vorfall verdeutlicht erneut die systemische Abhängigkeit der globalen Arbeitswelt von wenigen zentralisierten Cloud-Plattformen.",
+          "hintergrund": "Microsoft ist mit seinen Cloud-Diensten tief in die Infrastruktur von Konzernen, Regierungsbehörden und Bildungseinrichtungen integriert. Jeder Ausfall hat damit sofort spürbare wirtschaftliche Folgen – von unterbrochenen Lieferketten-Kommunikation bis zu blockierten Verwaltungsabläufen.\n\nFür Regulatoren in der EU und den USA, die ohnehin über Klumpenrisiken durch Big-Tech-Abhängigkeiten diskutieren, liefert der Vorfall neue Argumentationsmunition. Forderungen nach verpflichtenden Resilienzstandards für kritische digitale Infrastruktur dürften lauter werden.",
+          "tag": "Cloud-Ausfall",
+          "emoji": "☁️",
           "quelle": "BBC",
-          "quelle_url": "https://www.bbc.co.uk/news/articles/ck1wvwwl3x0go?at_medium=RSS&at_campaign=rss"
+          "quelle_url": "https://www.bbc.co.uk/news/articles/c5gm3g9ldz8xo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "id": "wirtschaft-2",
+          "titel": "Millionen Ebola-Hilfsgelder verschwunden, Personal unbezahlt",
+          "zusammenfassung": "Die Hilfsorganisation Médecins Sans Frontières warnt, dass erhebliche Teile internationaler Ebola-Hilfsgelder nicht bei den Betroffenen ankommen und medizinisches Personal vor Ort wochenlang ohne Bezahlung arbeitet. Es mangele zudem an Ausrüstung und Ausbildung, während das Virus sich weiter ausbreitet.",
+          "bedeutung": "Wenn Hilfsgelder versickern und Personal nicht bezahlt wird, gefährdet das direkt die Eindämmung eines der gefährlichsten Viren weltweit – mit potenziellen grenzüberschreitenden Folgen.",
+          "hintergrund": "Ebola-Ausbrüche haben in der Vergangenheit gezeigt, wie schnell ein Versagen lokaler Gesundheitsstrukturen zu regionalen und internationalen Krisen eskalieren kann. Die aktuellen MSF-Berichte deuten auf systemisches Versagen bei der Mittelverwaltung hin – ein Problem, das in humanitären Einsätzen chronisch ist, aber selten so offen benannt wird.\n\nDie Weltgesundheitsorganisation und internationale Geberländer stehen unter Druck, Rechenschaftsmechanismen zu stärken. Gleichzeitig rückt der Fall die breitere Debatte über Effizienz und Transparenz im globalen Gesundheitshilfesystem in den Fokus.",
+          "tag": "Gesundheitskrise",
+          "emoji": "🦠",
+          "quelle": "BBC",
+          "quelle_url": "https://www.bbc.co.uk/news/articles/cx98757ymm6zo?at_medium=RSS&at_campaign=rss"
         }
       ]
     },
@@ -78,36 +89,36 @@
       "stories": [
         {
           "id": "boerse-0",
-          "titel": "Fed-Vertreter nennt Inflationsdaten 'beunruhigend'",
-          "zusammenfassung": "Notenbanker Austan Goolsbee von der Federal Reserve bezeichnete den jüngsten US-Inflationsbericht als an der Grenze des Beunruhigenden. Die Daten heizen die Debatte über weitere Zinserhöhungen spürbar an.",
-          "bedeutung": "Klare Signale aus der Fed beeinflussen Anleiherenditen, Aktienindizes und Währungsmärkte unmittelbar – weltweit.",
-          "hintergrund": "Der Verbraucherpreisindex stieg im Oktober stärker als erwartet, was die Hoffnungen auf ein baldiges Ende des Zinserhöhungszyklus dämpft. Fed-Vertreter Goolsbee gehört zu den einflussreicheren Stimmen im geldpolitischen Ausschuss.\n\nAn den Märkten reagierten Anleger mit Zurückhaltung: Staatsanleihen gaben nach, während Aktien unter Druck gerieten. Entscheidend wird nun sein, ob die Fed auf ihrer nächsten Sitzung die Leitzinsen abermals anhebt oder eine Pause einlegt.",
-          "tag": "Fed & Zinsen",
+          "titel": "Fed-Banker alarmiert: Inflationsdaten 'beunruhigend'",
+          "zusammenfassung": "Der Präsident der Chicago Fed, Austan Goolsbee, hat die jüngsten US-Inflationsdaten als 'grenzwertig beunruhigend' bezeichnet, nachdem der Verbraucherpreisindex im Oktober stärker als erwartet gestiegen war. Die Äußerungen schüren Spekulationen, dass die Federal Reserve die Leitzinsen erneut anheben könnte.",
+          "bedeutung": "Stärker als erwartete Inflation verändert die Zinserwartungen der Märkte grundlegend und beeinflusst Anleiherenditen, Aktien und Währungen weltweit.",
+          "hintergrund": "Die US-Notenbank hatte zuletzt auf einen vorsichtig geldpolitisch entspannteren Kurs gesetzt, doch hartnäckige Inflation setzt diese Strategie unter Druck. Besonders Dienste und Wohnkosten erwiesen sich als preistreibend – Kategorien, die schwer durch Zinspolitik zu bändigen sind.\n\nFür die globalen Kapitalmärkte ist die Fed-Kommunikation der wichtigste Taktgeber. Sollten weitere Zinserhöhungen eingepreist werden, dürften vor allem Schwellenmärkte und hochverschuldete Unternehmen unter Druck geraten, während der US-Dollar tendenziell aufwertet.",
+          "tag": "Zinspolitik",
           "emoji": "🏦",
           "quelle": "CNBC",
           "quelle_url": "https://www.cnbc.com/2026/11/11/goolsbee-october-inflation-fed-rates-disturbing-distressing.html"
         },
         {
           "id": "boerse-1",
-          "titel": "Fed-Gouverneur Waller hält Dezember-Zinserhöhung für wahrscheinlich",
-          "zusammenfassung": "Fed-Gouverneur Christopher Waller hat sich klar für eine weitere Zinserhöhung im Dezember ausgesprochen und schließt dabei auch einen großen Schritt von einem halben Prozentpunkt nicht aus. Seine Haltung hänge von den kommenden Inflationsdaten ab.",
-          "bedeutung": "Die Aussagen eines stimmberechtigten Fed-Mitglieds setzen unmittelbar Maßstäbe für die Markterwartungen an Zinspfad und Risikoappetit der Investoren.",
-          "hintergrund": "Wallers Aussagen kommen kurz nach den überraschend hohen Inflationszahlen für Oktober und verstärken den Eindruck, dass die US-Notenbank noch nicht bereit ist, den Fuß vom Bremspedal zu nehmen. Ein Halbpunktschritt wäre der aggressivste Zug seit Monaten.\n\nFür globale Märkte hätte ein solcher Schritt weitreichende Folgen: Höhere US-Zinsen stärken den Dollar, belasten Schwellenländerwährungen und verteuern Kapital weltweit. Investoren beginnen, ihre Portfolios entsprechend umzuschichten.",
-          "tag": "Geldpolitik",
-          "emoji": "📊",
+          "titel": "Nvidia-Führungskrise erschüttert KI-Halbleitermarkt",
+          "zusammenfassung": "Der abrupte Abgang von Jensen Huang hat Nvidia-Aktien und das gesamte KI-Chip-Ökosystem in Turbulenzen gestürzt, da Nvidia durch seine engen Verflechtungen mit anderen Technologiekonzernen systemische Bedeutung wie eine Zentralbank besitzt. Analysten warnen vor weitreichenden wirtschaftlichen Schockwellen.",
+          "bedeutung": "Nvidia ist nicht nur ein Unternehmen, sondern das Rückgrat der globalen KI-Infrastruktur – ein anhaltender Vertrauensverlust könnte Milliarden an Marktkapitalisierung vernichten und Lieferketten destabilisieren.",
+          "hintergrund": "Kaum ein anderes Unternehmen ist so tief in die Wertschöpfungskette der KI-Revolution eingewoben wie Nvidia: Von Hyperscalern wie Microsoft und Google bis zu Start-ups sind unzählige Akteure auf Nvidia-GPUs angewiesen. Ein Führungsvakuum in dieser Schlüsselstellung erzeugt Unsicherheit über Strategie, Lieferverträge und technologische Roadmaps.\n\nDer Spionage-Aspekt macht die Lage für institutionelle Investoren besonders heikel: US-Behörden könnten Exportkontrollen verschärfen oder Geschäftsbeziehungen überprüfen lassen. Chinas Reaktion – darunter der Vorstoß von Alibaba, seinen eigenen Chip-Ableger T-Head an die Börse zu bringen – zeigt, dass Peking die Schwäche des US-Rivalen strategisch nutzen will.",
+          "tag": "Nvidia-Krise",
+          "emoji": "📉",
           "quelle": "CNBC",
-          "quelle_url": "https://www.cnbc.com/2026/11/10/fed-governor-waller-sees-december-hike-likely.html"
+          "quelle_url": "https://www.cnbc.com/2026/11/11/nvidia-jensen-huang-ai-financial-system-risk.html"
         },
         {
           "id": "boerse-2",
-          "titel": "Chinas Handelsüberschuss überschreitet erneut die Billion-Dollar-Marke",
-          "zusammenfassung": "China hat im bisherigen Jahresverlauf erneut einen Warenhandelsüberschuss von mehr als einer Billion US-Dollar angehäuft. Die Zahl schürt bei Handelspartnern weltweit Kritik an Pekings Exportstrategie und dem Strom billiger Güter.",
-          "bedeutung": "Ein Überschuss dieser Größenordnung befeuert handelspolitische Spannungen mit den USA, der EU und anderen Partnern und erhöht den Druck auf neue Zollmaßnahmen.",
-          "hintergrund": "Bereits im Vorjahr hatte China die Billion-Dollar-Marke beim Handelsüberschuss erreicht – das zweimalige Überschreiten in Folge macht das strukturelle Ungleichgewicht unübersehbar. Kritiker werfen Peking vor, durch Subventionen und eine schwache Währung den Export künstlich zu begünstigen.\n\nFür die Märkte ist das Signal ambivalent: Einerseits zeugt es von chinesischer Industriestärke, andererseits wächst die Wahrscheinlichkeit neuer Handelskonflikte, die globale Lieferketten und Rohstoffpreise in Mitleidenschaft ziehen könnten.",
-          "tag": "Welthandel",
-          "emoji": "🌐",
+          "titel": "Öl verteuert sich nach Trumps Konfrontationskurs gegen Iran",
+          "zusammenfassung": "Die Ölpreise zogen an, nachdem US-Präsident Donald Trump signalisiert hatte, kein Interesse an einem diplomatischen Deal mit dem Iran zu haben und auf militärische Kontrolle über die Straße von Hormus verwies. Die Aussagen nähren Befürchtungen, dass der US-Iran-Konflikt weiter eskalieren könnte.",
+          "bedeutung": "Die Straße von Hormus ist der Flaschenhals für rund ein Fünftel der weltweiten Öllieferungen – jede Eskalation dort wirkt sich unmittelbar auf Energiepreise und Inflationserwartungen global aus.",
+          "hintergrund": "Trumps Aussage, die USA hätten die Kontrolle über die strategisch entscheidende Meeresenge, wurde von Marktbeobachtern als Absage an laufende diplomatische Kanäle interpretiert. Bereits in den vergangenen Wochen hatten Spannungen im Persischen Golf die Rohölpreise volatil gehalten.\n\nFür Energieimporteure in Europa und Asien sind steigende Ölpreise eine doppelte Belastung: Sie treiben die Inflation an und bremsen gleichzeitig das Wirtschaftswachstum. Zentralbanken, die ohnehin mit hartnäckiger Teuerung kämpfen, stehen damit vor einer weiteren Komplikation.",
+          "tag": "Ölmarkt",
+          "emoji": "🛢️",
           "quelle": "CNBC",
-          "quelle_url": "https://www.cnbc.com/2026/11/10/china-trade-october-exports-imports-surplus-.html"
+          "quelle_url": "https://www.cnbc.com/2026/11/12/oil-prices-jump-after-trump-says-no-iran-deal-needed-weve-got-their-strait.html"
         }
       ]
     }
