@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-13T03:28:13.079215+00:00",
-  "datum": "Freitag, 13. November 2026",
+  "generated_at": "2026-11-14T03:23:49.351438+00:00",
+  "datum": "Samstag, 14. November 2026",
   "ressorts": [
     {
       "id": "politik",
@@ -9,36 +9,36 @@
       "stories": [
         {
           "id": "politik-0",
-          "titel": "Nvidia-CEO Huang tritt nach Spionage-Vorwürfen zurück",
-          "zusammenfassung": "Jensen Huang hat seinen Posten als Chef des KI-Chipherstellers Nvidia niedergelegt, nachdem Berichte über eine mutmaßliche Affäre mit einer chinesischen Geheimdienstagentin aufgetaucht waren. US-Gesetzgeber fordern nun eine Anhörung des Milliardärs im Kongress.",
-          "bedeutung": "Der Abgang des mächtigsten Mannes im KI-Halbleitersektor trifft eine Branche im Nerv und belastet gleichzeitig das ohnehin angespannte Verhältnis zwischen Washington und Peking.",
-          "hintergrund": "Jensen Huang hatte Nvidia innerhalb weniger Jahre zum wertvollsten Unternehmen der Welt aufgebaut – sein Name war nahezu synonym mit dem KI-Boom. Nun steht er im Zentrum eines Spionageskandals: Berichte deuten darauf hin, dass eine seiner außerehelichen Beziehungen mit einer Agentin des chinesischen Ministeriums für Staatssicherheit bestanden haben könnte.\n\nFür die USA hat der Fall unmittelbare sicherheitspolitische Dimensionen, denn Nvidia-Chips sind das strategisch bedeutsamste Gut im globalen KI-Wettlauf. Gleichzeitig findet der Skandal wenige Tage vor einem geplanten Gipfeltreffen von Präsident Trump mit Chinas Staats- und Parteichef Xi Jinping statt – das politische Klima dürfte dadurch erheblich vergiftet sein.",
-          "tag": "Spionage-Affäre",
-          "emoji": "🔐",
+          "titel": "Microsoft-Ausfall legt globale Digitalinfrastruktur lahm",
+          "zusammenfassung": "Ein massiver weltweiter Ausfall bei Microsoft unterbrach Dienste wie Outlook, Teams und das KI-System Copilot für Millionen Nutzer. Das Unternehmen entschuldigte sich und meldete eine schrittweise Wiederherstellung der Systeme.",
+          "bedeutung": "Der Vorfall verdeutlicht, wie gefährlich die Abhängigkeit der Weltwirtschaft von einer Handvoll dominanter Technologiekonzerne geworden ist.",
+          "hintergrund": "Stundenlang waren weltweit Unternehmen, Behörden und Privatpersonen von zentralen Kommunikations- und Produktivitätswerkzeugen abgeschnitten. Der Ausfall traf nicht nur einzelne Regionen, sondern machte sich auf nahezu allen Kontinenten bemerkbar.\n\nExperten warnen seit Jahren vor der strukturellen Fragilität einer Infrastruktur, die auf wenigen zentralen Anbietern ruht. Der Vorfall dürfte neue Debatten über Resilienz, Regulierung und digitale Souveränität anstoßen – sowohl in der EU als auch in den USA.",
+          "tag": "Digitale Infrastruktur",
+          "emoji": "💻",
           "quelle": "BBC",
-          "quelle_url": "https://www.bbc.co.uk/news/articles/cmq5vd1wdgz6o?at_medium=RSS&at_campaign=rss"
+          "quelle_url": "https://www.bbc.co.uk/news/articles/c6rrg51rkz09o?at_medium=RSS&at_campaign=rss"
         },
         {
           "id": "politik-1",
-          "titel": "Selenskyj begrüßt Europas Rolle bei Ukraine-Friedensgesprächen",
-          "zusammenfassung": "Der ukrainische Präsident Wolodymyr Selenskyj hat es ausdrücklich begrüßt, dass die USA europäische Staaten in mögliche Friedensverhandlungen mit Russland einbinden wollen. Kiew betont, Europa sei als künftiger EU-Partner der Ukraine ein unverzichtbarer Akteur.",
-          "bedeutung": "Die Einbeziehung Europas in Verhandlungen könnte verhindern, dass ein Friedensdeal über die Köpfe der Ukrainer und ihrer engsten Partner hinweg ausgehandelt wird.",
-          "hintergrund": "Washington hatte in den vergangenen Wochen Signale ausgesendet, Europa stärker in potenzielle Gespräche über ein Kriegsende einzubinden. Selenskyj wertet das als Erfolg seiner Diplomatie: Ohne europäische Sicherheitsgarantien hält Kiew jeden Waffenstillstand für kaum tragfähig.\n\nDer Schritt ist auch innenpolitisch brisant – in mehreren europäischen Hauptstädten wächst der Druck, eigene Sicherheitsgarantien für die Ukraine zu übernehmen, falls die USA ihren Rückhalt weiter reduzieren. Eine strukturelle Einbindung Europas in die Verhandlungsarchitektur wäre ein Paradigmenwechsel gegenüber den bisherigen US-dominierten Formaten.",
-          "tag": "Ukraine-Diplomatie",
+          "titel": "Putin erhöht Forderungen: Europas Sicherheit als Verhandlungsmasse",
+          "zusammenfassung": "Der russische Präsident Wladimir Putin besteht auf weitreichenden Zugeständnissen als Vorbedingung für Friedensgespräche mit der Ukraine. Dass nun auch die europäische Sicherheitsarchitektur Eingang in die Verhandlungsdiskussionen gefunden hat, wertet Moskau als strategischen Erfolg.",
+          "bedeutung": "Putins kompromisslose Haltung bremst jegliche Aussicht auf eine diplomatische Lösung und stellt die westliche Einheit vor eine ernste Belastungsprobe.",
+          "hintergrund": "Russland hat seine Maximalforderungen nicht nur nicht zurückgenommen, sondern offenbar ausgeweitet: Die gesamteuropäische Sicherheitsordnung soll nun Gegenstand potenzieller Verhandlungen werden – ein Terrain, das der Westen bislang kategorisch ausgeschlossen hatte. Für den Kreml signalisiert schon die bloße Diskussion darüber einen Durchbruch.\n\nBeobachter sehen darin ein taktisches Kalkül: Indem Moskau die Verhandlungsbasis immer weiter ausdehnt, erschwert es einen raschen Waffenstillstand und gewinnt Zeit. Für die Ukraine und ihre westlichen Partner bedeutet das: Der Druck, Kompromisse zu definieren und zu verteidigen, wächst.",
+          "tag": "Ukraine-Krieg",
           "emoji": "🕊️",
           "quelle": "BBC",
-          "quelle_url": "https://www.bbc.co.uk/news/articles/ckn80j9jv3jxo?at_medium=RSS&at_campaign=rss"
+          "quelle_url": "https://www.bbc.co.uk/news/articles/cq39glwprknjo?at_medium=RSS&at_campaign=rss"
         },
         {
           "id": "politik-2",
-          "titel": "Ukrainische Drohne trifft erstmals russisches Schiff in der Ostsee",
-          "zusammenfassung": "Ein ukrainischer Drohnenangriff hat nach Angaben aus Kiew ein russisches Kriegsschiff im Finnischen Meerbusen beschädigt. Es soll der erste erfolgreiche ukrainische Drohnenangriff auf ein russisches Schiff in der offenen Ostsee sein.",
-          "bedeutung": "Der Angriff zeigt, dass die Ukraine ihre maritime Kampfreichweite erheblich ausgebaut hat und nun auch NATO-nahe Gewässer zum Schauplatz werden könnten.",
-          "hintergrund": "Bislang hatten sich ukrainische Seedrohnen-Operationen vor allem auf das Schwarze Meer konzentriert, wo sie erheblichen Schaden an der russischen Schwarzmeerflotte angerichtet haben. Ein erfolgreicher Treffer in der Ostsee markiert eine neue Qualität: Das Gebiet grenzt an mehrere NATO-Mitglieder, was die Frage nach möglichem Kollateralrisiko aufwirft.\n\nRussland unterhält in der Ostsee Stützpunkte unter anderem in Kaliningrad. Die Ausweitung ukrainischer Drohnenoperationen auf diese Region dürfte die Alarmbereitschaft der Anrainerstaaten erhöhen und innerhalb der NATO zu Debatten über Überwachung und Eskalationsgrenzen führen.",
-          "tag": "Seekrieg",
-          "emoji": "🚢",
+          "titel": "Deutschland stärkt Geheimdienste gegen hybride Bedrohungen",
+          "zusammenfassung": "Die Bundesrepublik hat ihre Auslands- und Inlandsgeheimdienste mit deutlich erweiterten Befugnissen ausgestattet, um Spionage, Terrorismus und Sabotage effektiver bekämpfen zu können. Die Reform reagiert auf eine spürbar gestiegene Bedrohungslage aus dem Ausland.",
+          "bedeutung": "Die Ausweitung geheimdienstlicher Kompetenzen ist ein Signal an staatliche und nichtstaatliche Akteure, die Deutschland zunehmend als Ziel hybrider Operationen auswählen.",
+          "hintergrund": "In den vergangenen Jahren haben Sabotageakte an Infrastruktur, Cyberangriffe auf Behörden und Desinformationskampagnen zugenommen – vieles davon wird staatlich gesteuerten Akteuren zugeschrieben. Die Bundesregierung reagiert nun mit einer der weitreichendsten Geheimdienstrechtsreformen seit Jahren.\n\nKritiker mahnen, die neuen Befugnisse müssten von starken parlamentarischen Kontrollmechanismen begleitet werden, um Grundrechte zu schützen. Befürworter sehen die Reform als überfällige Anpassung an die Realitäten einer zunehmend instabilen geopolitischen Lage.",
+          "tag": "Innere Sicherheit",
+          "emoji": "🛡️",
           "quelle": "BBC",
-          "quelle_url": "https://www.bbc.co.uk/news/articles/cmn0d33zz34zo?at_medium=RSS&at_campaign=rss"
+          "quelle_url": "https://www.bbc.co.uk/news/articles/c6jre3z03w4go?at_medium=RSS&at_campaign=rss"
         }
       ]
     },
@@ -49,36 +49,36 @@
       "stories": [
         {
           "id": "wirtschaft-0",
+          "titel": "Ex-Nvidia-Chef Jensen Huang vor Kongress vorgeladen",
+          "zusammenfassung": "Der zurückgetretene Nvidia-Chef Jensen Huang soll vor dem US-Kongress aussagen – im Mittelpunkt stehen seine Verbindungen zu einer Frau, der Kontakte zu chinesischen Geheimdiensten vorgeworfen werden. Huang hatte seinen Rückzug angekündigt, nachdem entsprechende Berichte über eine außereheliche Affäre publik geworden waren.",
+          "bedeutung": "Der Skandal reicht weit über persönliche Verfehlungen hinaus und berührt zentrale Fragen der nationalen Sicherheit, des Technologieexports und der US-chinesischen Wirtschaftsbeziehungen.",
+          "hintergrund": "Nvidia gilt als Schlüsselunternehmen im globalen KI-Wettbewerb und beliefert Rechenzentren weltweit mit hochleistungsfähigen Chips. Dass der Konzernchef nun in einen Spionageskandal verwickelt ist, erschüttert das Vertrauen in die Governance eines der wertvollsten Unternehmen der Welt.\n\nInterimistisch übernimmt Finanzchefin Colette Kress die Führung, während die Suche nach einer dauerhaften Nachfolge beginnt. Politisch spitzt sich die Lage zu: Kabinettsmitglieder der Trump-Administration werfen sich gegenseitig vor, nicht rechtzeitig gehandelt zu haben, um Chip-Exporte an möglicherweise chinesisch unterwanderte Firmen zu unterbinden.",
+          "tag": "Nvidia-Skandal",
+          "emoji": "🔬",
+          "quelle": "BBC",
+          "quelle_url": "https://www.bbc.co.uk/news/articles/cmq5vd1wdgz6o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "id": "wirtschaft-1",
           "titel": "Britische Wirtschaft wächst so stark wie seit Jahren nicht",
-          "zusammenfassung": "Das Vereinigte Königreich verzeichnete im dritten Quartal 2026 ein Wirtschaftswachstum von 0,7 Prozent – die stärkste Quartalsexpansion seit mehr als zwei Jahren. Ökonomen führen den Schwung unter anderem auf Investitionen im KI-Sektor zurück.",
-          "bedeutung": "Die Zahlen entlasten die Regierung politisch und deuten darauf hin, dass Großbritannien trotz anhaltender globaler Unsicherheiten eine solide Eigenentwicklung zeigt.",
-          "hintergrund": "Nach Jahren verhaltenen Wachstums, geprägt von Brexit-Folgen und Energieschocks, signalisiert das Quartalsergebnis eine gewisse Stabilisierung der britischen Volkswirtschaft. Der Dienstleistungssektor, insbesondere tech- und finanznahe Branchen, trug überproportional bei.\n\nAllerdings warnen Analysten vor voreiligem Optimismus: Die Inflation bleibt erhöht, die Reallöhne stehen unter Druck, und globale Handelsrisiken – vor allem durch US-Zollpolitik und den Nvidia-Schock – könnten das Bild im vierten Quartal wieder eintrüben.",
+          "zusammenfassung": "Das Vereinigte Königreich verzeichnete im dritten Quartal ein Wirtschaftswachstum von 0,7 Prozent – der stärkste Zuwachs seit über zwei Jahren. Ökonomen nennen unter anderem den KI-Sektor als neuen Wachstumstreiber.",
+          "bedeutung": "Die Zahlen geben der britischen Regierung Rückenwind für ihre Wirtschaftsagenda, stellen aber zugleich die Frage, ob das Wachstum nachhaltig ist.",
+          "hintergrund": "Nach Jahren des Stagnierens infolge von Brexit-Unsicherheiten, Energiepreiskrisen und schwacher Binnennachfrage überrascht das britische Wachstum positiv. Besonders der Dienstleistungssektor und Investitionen in KI-Infrastruktur haben zur robusten Entwicklung beigetragen.\n\nGleichzeitig warnen Analysten vor zu viel Optimismus: Die Inflation bleibt erhöht, der Arbeitsmarkt zeigt erste Ermüdungserscheinungen, und die Handelsverhältnisse mit der EU sind noch nicht endgültig geklärt. Premier Burnham wirbt derweil für ein engeres Wirtschaftsabkommen mit Brüssel, das er als Vollendung des ursprünglichen Brexit-Versprechens vermarktet.",
           "tag": "Konjunktur",
           "emoji": "📈",
           "quelle": "BBC",
           "quelle_url": "https://www.bbc.co.uk/news/articles/ck3rgd429zd5o?at_medium=RSS&at_campaign=rss"
         },
         {
-          "id": "wirtschaft-1",
-          "titel": "Microsoft-Ausfall legt Outlook und Teams weltweit lahm",
-          "zusammenfassung": "Ein globaler Ausfall bei Microsoft hat die Dienste Outlook und Teams über Stunden hinweg beeinträchtigt und Millionen von Nutzern in Unternehmen und Behörden weltweit getroffen. Als Ursache nannte Microsoft unerwartet ausgefallene Server, die eine Überlastung anderer Systeme auslösten.",
-          "bedeutung": "Der Vorfall verdeutlicht erneut die systemische Abhängigkeit der globalen Arbeitswelt von wenigen zentralisierten Cloud-Plattformen.",
-          "hintergrund": "Microsoft ist mit seinen Cloud-Diensten tief in die Infrastruktur von Konzernen, Regierungsbehörden und Bildungseinrichtungen integriert. Jeder Ausfall hat damit sofort spürbare wirtschaftliche Folgen – von unterbrochenen Lieferketten-Kommunikation bis zu blockierten Verwaltungsabläufen.\n\nFür Regulatoren in der EU und den USA, die ohnehin über Klumpenrisiken durch Big-Tech-Abhängigkeiten diskutieren, liefert der Vorfall neue Argumentationsmunition. Forderungen nach verpflichtenden Resilienzstandards für kritische digitale Infrastruktur dürften lauter werden.",
-          "tag": "Cloud-Ausfall",
-          "emoji": "☁️",
-          "quelle": "BBC",
-          "quelle_url": "https://www.bbc.co.uk/news/articles/c5gm3g9ldz8xo?at_medium=RSS&at_campaign=rss"
-        },
-        {
           "id": "wirtschaft-2",
-          "titel": "Millionen Ebola-Hilfsgelder verschwunden, Personal unbezahlt",
-          "zusammenfassung": "Die Hilfsorganisation Médecins Sans Frontières warnt, dass erhebliche Teile internationaler Ebola-Hilfsgelder nicht bei den Betroffenen ankommen und medizinisches Personal vor Ort wochenlang ohne Bezahlung arbeitet. Es mangele zudem an Ausrüstung und Ausbildung, während das Virus sich weiter ausbreitet.",
-          "bedeutung": "Wenn Hilfsgelder versickern und Personal nicht bezahlt wird, gefährdet das direkt die Eindämmung eines der gefährlichsten Viren weltweit – mit potenziellen grenzüberschreitenden Folgen.",
-          "hintergrund": "Ebola-Ausbrüche haben in der Vergangenheit gezeigt, wie schnell ein Versagen lokaler Gesundheitsstrukturen zu regionalen und internationalen Krisen eskalieren kann. Die aktuellen MSF-Berichte deuten auf systemisches Versagen bei der Mittelverwaltung hin – ein Problem, das in humanitären Einsätzen chronisch ist, aber selten so offen benannt wird.\n\nDie Weltgesundheitsorganisation und internationale Geberländer stehen unter Druck, Rechenschaftsmechanismen zu stärken. Gleichzeitig rückt der Fall die breitere Debatte über Effizienz und Transparenz im globalen Gesundheitshilfesystem in den Fokus.",
-          "tag": "Gesundheitskrise",
-          "emoji": "🦠",
+          "titel": "UK und EU: Burnham drängt auf neues Wirtschaftsabkommen",
+          "zusammenfassung": "Der britische Premierminister Andy Burnham strebt ein vertieftes Handels- und Wirtschaftsabkommen mit der Europäischen Union an und bezeichnet es als eine für beide Seiten vorteilhafte Lösung. Er positioniert das Vorhaben als Einlösung des ursprünglichen Brexit-Versprechens.",
+          "bedeutung": "Eine engere Wirtschaftspartnerschaft zwischen dem Vereinigten Königreich und der EU würde Handelsströme, Regulierung und die geopolitische Ausrichtung Europas maßgeblich beeinflussen.",
+          "hintergrund": "Seit dem Austritt Großbritanniens aus dem EU-Binnenmarkt haben Handelsbarrieren und bürokratische Hürden britische Unternehmen belastet. Burnham versucht nun, das Thema neu zu rahmen: nicht als Rückkehr zu alten EU-Strukturen, sondern als pragmatische Modernisierung der Partnerschaft.\n\nIn Brüssel wird das Signal mit Interesse, aber auch mit Vorsicht aufgenommen. Die EU hat eigene Bedingungen – etwa in den Bereichen Fischereirechte, Personenfreizügigkeit und Binnenmarktregeln – die in London nach wie vor politisch heikel sind.",
+          "tag": "Brexit-Neustart",
+          "emoji": "🤝",
           "quelle": "BBC",
-          "quelle_url": "https://www.bbc.co.uk/news/articles/cx98757ymm6zo?at_medium=RSS&at_campaign=rss"
+          "quelle_url": "https://www.bbc.co.uk/news/articles/cm2l5n07l87vo?at_medium=RSS&at_campaign=rss"
         }
       ]
     },
@@ -89,33 +89,33 @@
       "stories": [
         {
           "id": "boerse-0",
-          "titel": "Fed-Banker alarmiert: Inflationsdaten 'beunruhigend'",
-          "zusammenfassung": "Der Präsident der Chicago Fed, Austan Goolsbee, hat die jüngsten US-Inflationsdaten als 'grenzwertig beunruhigend' bezeichnet, nachdem der Verbraucherpreisindex im Oktober stärker als erwartet gestiegen war. Die Äußerungen schüren Spekulationen, dass die Federal Reserve die Leitzinsen erneut anheben könnte.",
-          "bedeutung": "Stärker als erwartete Inflation verändert die Zinserwartungen der Märkte grundlegend und beeinflusst Anleiherenditen, Aktien und Währungen weltweit.",
-          "hintergrund": "Die US-Notenbank hatte zuletzt auf einen vorsichtig geldpolitisch entspannteren Kurs gesetzt, doch hartnäckige Inflation setzt diese Strategie unter Druck. Besonders Dienste und Wohnkosten erwiesen sich als preistreibend – Kategorien, die schwer durch Zinspolitik zu bändigen sind.\n\nFür die globalen Kapitalmärkte ist die Fed-Kommunikation der wichtigste Taktgeber. Sollten weitere Zinserhöhungen eingepreist werden, dürften vor allem Schwellenmärkte und hochverschuldete Unternehmen unter Druck geraten, während der US-Dollar tendenziell aufwertet.",
-          "tag": "Zinspolitik",
-          "emoji": "🏦",
+          "titel": "US-Erzeugerpreise steigen: Inflation bleibt hartnäckig",
+          "zusammenfassung": "Der amerikanische Erzeugerpreisindex legte im Oktober um 0,3 Prozent zu, was die Jahresinflationsrate auf Produzentenebene auf 6,5 Prozent treibt – den höchsten Stand seit fast vier Jahren. Die Daten schüren Sorgen, dass die Verbraucherpreise weiter unter Druck bleiben könnten.",
+          "bedeutung": "Anhaltend hohe Erzeugerpreise erschweren der US-Notenbank Fed eine baldige Zinssenkung und belasten die Markterwartungen.",
+          "hintergrund": "Ökonomen hatten mit einem etwas stärkeren Anstieg gerechnet, doch auch der tatsächliche Wert übersteigt das Komfortniveau der Notenbank deutlich. Rohstoffe, Energie und Dienstleistungskomponenten trugen gleichermaßen zum Anstieg bei.\n\nFed-Vertreter, darunter der Chicagoer Notenbankchef Austan Goolsbee, signalisierten unmissverständlich, dass die Zentralbank weiteren Handlungsbedarf sieht. Am Markt wurden Hoffnungen auf eine baldige Lockerung der Geldpolitik gedämpft, was Anleiherenditen nach oben und Aktienmärkte unter Druck trieb.",
+          "tag": "Inflation & Zinsen",
+          "emoji": "📊",
           "quelle": "CNBC",
-          "quelle_url": "https://www.cnbc.com/2026/11/11/goolsbee-october-inflation-fed-rates-disturbing-distressing.html"
+          "quelle_url": "https://www.cnbc.com/2026/11/13/ppi-inflation-report-october-2026.html"
         },
         {
           "id": "boerse-1",
-          "titel": "Nvidia-Führungskrise erschüttert KI-Halbleitermarkt",
-          "zusammenfassung": "Der abrupte Abgang von Jensen Huang hat Nvidia-Aktien und das gesamte KI-Chip-Ökosystem in Turbulenzen gestürzt, da Nvidia durch seine engen Verflechtungen mit anderen Technologiekonzernen systemische Bedeutung wie eine Zentralbank besitzt. Analysten warnen vor weitreichenden wirtschaftlichen Schockwellen.",
-          "bedeutung": "Nvidia ist nicht nur ein Unternehmen, sondern das Rückgrat der globalen KI-Infrastruktur – ein anhaltender Vertrauensverlust könnte Milliarden an Marktkapitalisierung vernichten und Lieferketten destabilisieren.",
-          "hintergrund": "Kaum ein anderes Unternehmen ist so tief in die Wertschöpfungskette der KI-Revolution eingewoben wie Nvidia: Von Hyperscalern wie Microsoft und Google bis zu Start-ups sind unzählige Akteure auf Nvidia-GPUs angewiesen. Ein Führungsvakuum in dieser Schlüsselstellung erzeugt Unsicherheit über Strategie, Lieferverträge und technologische Roadmaps.\n\nDer Spionage-Aspekt macht die Lage für institutionelle Investoren besonders heikel: US-Behörden könnten Exportkontrollen verschärfen oder Geschäftsbeziehungen überprüfen lassen. Chinas Reaktion – darunter der Vorstoß von Alibaba, seinen eigenen Chip-Ableger T-Head an die Börse zu bringen – zeigt, dass Peking die Schwäche des US-Rivalen strategisch nutzen will.",
-          "tag": "Nvidia-Krise",
-          "emoji": "📉",
+          "titel": "Fed warnt: KI-Risiken bedrohen globale Finanzstabilität",
+          "zusammenfassung": "In ihrer aktuellen Stabilitätsumfrage stuft die US-Notenbank Fed Risiken durch Künstliche Intelligenz erstmals als die größte Bedrohung für das Finanzsystem ein. Die rasante Ausbreitung von KI-Hyperscalern und Rechenzentren versetzt Märkte und Kommunen in Alarmbereitschaft.",
+          "bedeutung": "Wenn die mächtigste Zentralbank der Welt KI-Risiken an die Spitze ihrer Sorgenliste setzt, verändert das die Risikowahrnehmung institutioneller Investoren weltweit grundlegend.",
+          "hintergrund": "Die Fed beobachtet mit Sorge, dass KI-Infrastruktur zunehmend systemische Dimensionen annimmt: Ausfälle oder Fehlfunktionen großer KI-Plattformen könnten Kettenreaktionen im Finanzsystem auslösen. Gleichzeitig konzentrieren sich gewaltige Kapitalströme auf eine kleine Zahl von Technologieanbietern.\n\nDer Bericht erscheint zu einem Zeitpunkt, an dem der Nvidia-Führungsskandal die Frage aufwirft, wie abhängig die globale Finanz- und Technologieinfrastruktur von einzelnen Unternehmen und Persönlichkeiten geworden ist. Regulatoren in den USA und Europa dürften den Befund als Argument für schärfere Aufsicht nutzen.",
+          "tag": "KI-Systemrisiko",
+          "emoji": "⚠️",
           "quelle": "CNBC",
-          "quelle_url": "https://www.cnbc.com/2026/11/11/nvidia-jensen-huang-ai-financial-system-risk.html"
+          "quelle_url": "https://www.cnbc.com/2026/11/13/ai-risks-financial-system-federal-reserve.html"
         },
         {
           "id": "boerse-2",
-          "titel": "Öl verteuert sich nach Trumps Konfrontationskurs gegen Iran",
-          "zusammenfassung": "Die Ölpreise zogen an, nachdem US-Präsident Donald Trump signalisiert hatte, kein Interesse an einem diplomatischen Deal mit dem Iran zu haben und auf militärische Kontrolle über die Straße von Hormus verwies. Die Aussagen nähren Befürchtungen, dass der US-Iran-Konflikt weiter eskalieren könnte.",
-          "bedeutung": "Die Straße von Hormus ist der Flaschenhals für rund ein Fünftel der weltweiten Öllieferungen – jede Eskalation dort wirkt sich unmittelbar auf Energiepreise und Inflationserwartungen global aus.",
-          "hintergrund": "Trumps Aussage, die USA hätten die Kontrolle über die strategisch entscheidende Meeresenge, wurde von Marktbeobachtern als Absage an laufende diplomatische Kanäle interpretiert. Bereits in den vergangenen Wochen hatten Spannungen im Persischen Golf die Rohölpreise volatil gehalten.\n\nFür Energieimporteure in Europa und Asien sind steigende Ölpreise eine doppelte Belastung: Sie treiben die Inflation an und bremsen gleichzeitig das Wirtschaftswachstum. Zentralbanken, die ohnehin mit hartnäckiger Teuerung kämpfen, stehen damit vor einer weiteren Komplikation.",
-          "tag": "Ölmarkt",
+          "titel": "Ölpreise steigen nach Trumps Absage an Iran-Diplomatie",
+          "zusammenfassung": "Rohölpreise zogen an, nachdem US-Präsident Donald Trump signalisierte, ein Abkommen mit dem Iran sei nicht notwendig – und auf amerikanische Kontrolle über die Straße von Hormus verwies. Die Aussagen befeuerten Sorgen über eine anhaltende Eskalation im Nahen Osten.",
+          "bedeutung": "Trumps Rhetorik rund um den Iran wirkt direkt auf die Ölmärkte und erhöht die geopolitische Risikoprämie für Energieträger weltweit.",
+          "hintergrund": "Die Straße von Hormus ist einer der wichtigsten Energietransitkorridore der Welt – ein erheblicher Teil des global gehandelten Rohöls passiert sie täglich. Jede Andeutung einer Destabilisierung dieser Route lässt die Rohstoffmärkte unmittelbar reagieren.\n\nTrump hatte zuletzt noch Gespräche mit dem Iran angedeutet, vollzieht nun aber scheinbar eine erneute Kehrtwende. Für Ölkonzerne und Energieinvestoren bedeutet das: Die Planungsunsicherheit bleibt hoch, während Preisabsicherungen wieder an Bedeutung gewinnen.",
+          "tag": "Rohöl & Geopolitik",
           "emoji": "🛢️",
           "quelle": "CNBC",
           "quelle_url": "https://www.cnbc.com/2026/11/12/oil-prices-jump-after-trump-says-no-iran-deal-needed-weve-got-their-strait.html"
