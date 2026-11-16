@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-15T02:48:26.662560+00:00",
-  "datum": "Sonntag, 15. November 2026",
+  "generated_at": "2026-11-16T02:51:19.282504+00:00",
+  "datum": "Montag, 16. November 2026",
   "ressorts": [
     {
       "id": "politik",
@@ -9,36 +9,36 @@
       "stories": [
         {
           "id": "politik-0",
-          "titel": "Trump, Putin und Xi planen historisches Dreiergipfeltreffen",
-          "zusammenfassung": "Die Regierungen der USA, Russlands und Chinas haben ein beispielloses gemeinsames Gipfeltreffen in China für kommende Woche angekündigt. Im Mittelpunkt soll laut Weißem Haus die Reduzierung nuklearer Rüstung stehen.",
-          "bedeutung": "Ein gleichzeitiges Zusammentreffen der drei mächtigsten Staatsführer wäre ein diplomatischer Wendepunkt mit weitreichenden Folgen für die globale Sicherheitsarchitektur.",
-          "hintergrund": "Seit Jahrzehnten gab es kein vergleichbares trilaterales Format zwischen Washington, Moskau und Peking. Die Ankündigung fällt in eine Phase erhöhter geopolitischer Spannungen, in der alle drei Mächte ihre strategischen Rivalitäten neu justieren.\n\nBesonders brisant ist der Kontext: Die Ukraine-Verhandlungen laufen parallel, und das Timing unmittelbar vor dem Gipfel verleiht den Gesprächen über eine mögliche Gebietsabtretung durch Kiew zusätzliches Gewicht. Beobachter warnen, kleinere Staaten könnten über ihre Köpfe hinweg entschieden werden.",
-          "tag": "Weltgipfel",
-          "emoji": "🌐",
+          "titel": "Selenskyj fordert Musk: Starlink-Drossel aufheben",
+          "zusammenfassung": "Der ukrainische Präsident appelliert öffentlich an Elon Musk, die gedrosselte Starlink-Verbindung wiederherzustellen. Die eingeschränkte Internetverbindung erschwere nach Angaben Kyjiws die Abwehr russischer Angriffe erheblich.",
+          "bedeutung": "Die Abhängigkeit der Ukraine von einem privatwirtschaftlichen Kommunikationssystem eines einzelnen US-Milliardärs offenbart eine strukturelle Verwundbarkeit in der westlichen Unterstützungsstrategie.",
+          "hintergrund": "Seit Wochen berichten ukrainische Militäreinheiten von massiven Verbindungseinbußen beim Satellitendienst Starlink, den SpaceX-Gründer Elon Musk betreibt. Die gedrosselte Bandbreite beeinträchtigt laut Kyjiw die Drohnensteuerung sowie die Koordination von Verteidigungsoperationen an der Front.\n\nDer öffentliche Appell Selenskyjs markiert eine neue Eskalationsstufe in einem schwelenden Konflikt zwischen dem ukrainischen Staat und Musk, der in der Vergangenheit bereits Starlink-Dienste in bestimmten Kampfgebieten eigenmächtig eingeschränkt hatte. Die Episode wirft grundsätzliche Fragen über die Kontrolle kritischer Kriegsinfrastruktur durch private Akteure auf.",
+          "tag": "Ukraine-Krieg",
+          "emoji": "🛰️",
           "quelle": "BBC",
-          "quelle_url": "https://www.bbc.co.uk/news/articles/ckz74jzpy18do?at_medium=RSS&at_campaign=rss"
+          "quelle_url": "https://www.bbc.co.uk/news/articles/c6m25zg88k45o?at_medium=RSS&at_campaign=rss"
         },
         {
           "id": "politik-1",
-          "titel": "USA sollen Ukraine Gebietsabtretung gegen Nato-Mitgliedschaft angeboten haben",
-          "zusammenfassung": "Präsident Selenskyj zufolge haben die USA vorgeschlagen, dass die Ukraine Teile des Donbas an Russland abtritt, im Gegenzug für eine Nato-Mitgliedschaft des verbleibenden Landes. Washington bestätigte den Vorschlag nicht offiziell, räumte aber ein, dass zahlreiche Ideen diskutiert würden.",
-          "bedeutung": "Sollte sich der Bericht bestätigen, würde er eine fundamentale Verschiebung der westlichen Ukraine-Politik markieren und Grundprinzipien der europäischen Sicherheitsordnung infrage stellen.",
-          "hintergrund": "Seit Kriegsbeginn haben westliche Partner offiziell an der territorialen Integrität der Ukraine festgehalten. Ein Schwenk hin zu einer Kompromisslösung auf Kosten ukrainischen Territoriums würde erheblichen Druck auf die europäischen Verbündeten erzeugen, Stellung zu beziehen.\n\nSelenskyjs Offenlegung könnte taktisch motiviert sein, um öffentlichen Druck auf Washington zu erzeugen oder eigene Verhandlungsspielräume auszuloten. Die Reaktionen aus Berlin, Paris und Warschau werden in den kommenden Stunden mit Spannung erwartet.",
-          "tag": "Ukraine-Diplomatie",
-          "emoji": "🕊️",
+          "titel": "Nvidia-Spionageskandal weitet sich aus",
+          "zusammenfassung": "Ein mutmaßlicher chinesischer Spion, der mit dem früheren Nvidia-Chef in Verbindung gebracht wird, soll das Unternehmen bereits 2025 verlassen haben. Der Fall nährt Sorgen, dass trotz strenger US-Exportkontrollen hochentwickelte KI-Chips nach China gelangt sein könnten.",
+          "bedeutung": "Der Skandal gefährdet das Vertrauen in die US-amerikanischen Technologieexportkontrollen und könnte die geopolitische Rivalität im KI-Sektor weiter verschärfen.",
+          "hintergrund": "Die Affäre rund um Nvidia hat in Washington eine Debatte über die Wirksamkeit bestehender Chip-Exportrestriktionen ausgelöst. Behörden und Parlamentarier fragen, ob Kontrolllücken es ermöglichten, dass leistungsstarke Grafikkarten – das Rückgrat moderner KI-Systeme – trotz Handelsverboten nach China flossen.\n\nDer Fall belastet auch Handelsminister Howard Lutnick, dessen Familie offenbar finanzielle Verbindungen zu Nvidia unterhält. Parallel dazu stehen ETF-Analysten zufolge andere Chiphersteller und große Technologiekonzerne bereit, von einem möglichen Vertrauensverlust in Nvidia zu profitieren, sollte die Führungskrise des Unternehmens anhalten.",
+          "tag": "KI-Sicherheit",
+          "emoji": "🔍",
           "quelle": "BBC",
-          "quelle_url": "https://www.bbc.co.uk/news/articles/cwvg2l312ylqo?at_medium=RSS&at_campaign=rss"
+          "quelle_url": "https://www.bbc.co.uk/news/articles/cmdx1vpprk9vo?at_medium=RSS&at_campaign=rss"
         },
         {
           "id": "politik-2",
-          "titel": "Ungarn: 20 Millionen Dollar bei Ex-Orbán-Minister gefunden",
-          "zusammenfassung": "Ungarische Ermittlungsbehörden haben im Rahmen einer Antikorruptionsuntersuchung rund 20 Millionen Dollar bei einem früheren Minister der Orbán-Regierung sichergestellt. Premier Péter Magyar, der Orbán im April abgelöst hatte, hatte eine umfassende Korruptionsbekämpfung zu seinem zentralen Wahlversprechen gemacht.",
-          "bedeutung": "Der Fund belegt konkret das Ausmaß mutmaßlicher Korruption unter der alten Regierung und stärkt Magyars politische Agenda – mit möglicher Signalwirkung für andere EU-Staaten.",
-          "hintergrund": "Ungarn steht seit Jahren im Mittelpunkt von EU-Debatten über Rechtsstaatlichkeit und den Umgang mit Fördermitteln. Der Regierungswechsel im April hatte in Brüssel Hoffnungen auf eine Normalisierung geweckt.\n\nDie nun aufgedeckten Summen dürften die innenpolitische Debatte über Aufarbeitung und Justizreform weiter befeuern. Zugleich wächst der Druck auf die EU, die bis dato eingefrorenen Mittel für Ungarn neu zu bewerten.",
-          "tag": "Korruption",
-          "emoji": "💰",
+          "titel": "Tschechien: Proteste gegen Medienfinanzierungsreform",
+          "zusammenfassung": "Tausende Tschechinnen und Tschechen sind auf die Straße gegangen, um gegen Pläne der Regierung zu protestieren, die Finanzierung öffentlicher Medien umzugestalten. Kritiker sehen darin einen Angriff auf die Pressefreiheit, während die Regierung auf notwendige Kosteneinsparungen verweist.",
+          "bedeutung": "Der Konflikt steht exemplarisch für den wachsenden Druck auf öffentlich-rechtliche Medien in Mitteleuropa und berührt zentrale Fragen zur Unabhängigkeit des Journalismus.",
+          "hintergrund": "Die tschechische Regierung plant, die Finanzierungsströme für öffentliche Rundfunkanstalten grundlegend zu verändern. Medienverbände und Journalistenorganisationen warnen, dass die Reform die redaktionelle Unabhängigkeit untergraben und staatlichem Einfluss Tür und Tor öffnen könnte.\n\nDie Entwicklung in Prag fügt sich in ein breiteres europäisches Muster ein: In mehreren EU-Staaten geraten öffentliche Medien unter politischen und finanziellen Druck. Die EU-Kommission beobachtet solche Entwicklungen im Rahmen ihrer jährlichen Rechtsstaatlichkeitsberichte mit wachsender Sorge.",
+          "tag": "Pressefreiheit",
+          "emoji": "📢",
           "quelle": "BBC",
-          "quelle_url": "https://www.bbc.co.uk/news/articles/ckjwj03w4w0qo?at_medium=RSS&at_campaign=rss"
+          "quelle_url": "https://www.bbc.co.uk/news/articles/cm8e0knr7604o?at_medium=RSS&at_campaign=rss"
         }
       ]
     },
@@ -49,36 +49,36 @@
       "stories": [
         {
           "id": "wirtschaft-0",
-          "titel": "Ex-Nvidia-Chef Huang vor US-Kongress vorgeladen",
-          "zusammenfassung": "Der frühere Nvidia-Vorstandsvorsitzende Jensen Huang wurde nach seinem abrupten Rücktritt vom US-Kongress vorgeladen. Hintergrund sind Vorwürfe, er habe eine Beziehung zu einer Frau unterhalten, die US-Behörden als mutmaßliche chinesische Agentin einstufen.",
-          "bedeutung": "Der Fall verbindet persönliche Verfehlungen eines Tech-Vordenkers mit nationalen Sicherheitsfragen rund um Chip-Exporte und US-China-Rivalität auf eine politisch hochexplosive Weise.",
-          "hintergrund": "Nvidia ist als weltweiter Marktführer bei KI-Chips strategisch bedeutsam für die technologische Wettbewerbsfähigkeit der USA. Der Rücktritt Huangs hat bereits Schockwellen an den Märkten ausgelöst und Fragen über die Sicherheitskultur im Silicon Valley aufgeworfen.\n\nParallel gerät Handelsminister Howard Lutnick unter Druck, weil seine Familie enge Geschäftsbeziehungen zu Nvidia pflegt. Kritiker fordern eine umfassende Untersuchung möglicher Interessenkonflikte innerhalb der Trump-Administration.",
-          "tag": "Nvidia-Skandal",
-          "emoji": "🔬",
+          "titel": "Microsoft-Ausfall behoben: Globaler Diensteausfall überstanden",
+          "zusammenfassung": "Nach einem eintägigen weltweiten Ausfall hat Microsoft die Dienste Outlook, Teams und Copilot vollständig wiederhergestellt. Der Konzern bestätigte, das zugrundeliegende technische Problem sei behoben worden.",
+          "bedeutung": "Der Ausfall verdeutlicht die globale Abhängigkeit von Unternehmenskommunikation und KI-Produktivitätstools eines einzelnen Anbieters und stellt die Resilienz cloudbasierter Infrastruktur in Frage.",
+          "hintergrund": "Millionen Nutzerinnen und Nutzer weltweit waren zeitweise von zentralen Arbeitswerkzeugen abgeschnitten. Betroffen waren Unternehmen, Behörden und Einzelpersonen in zahlreichen Ländern, die auf die Microsoft-Cloud-Dienste für ihre tägliche Kommunikation angewiesen sind.\n\nDer Vorfall reiht sich in eine Serie großer Cloud-Ausfälle ein, die Regulatoren und Unternehmen zunehmend veranlassen, über Abhängigkeitsrisiken und Notfallpläne nachzudenken. Für Microsoft bedeutet er einen Imageschaden zum denkbar ungünstigen Zeitpunkt, da der Konzern seinen Ruf als verlässlicher KI-Partner der Wirtschaft aufbauen will.",
+          "tag": "Technologie",
+          "emoji": "💻",
           "quelle": "BBC",
-          "quelle_url": "https://www.bbc.co.uk/news/articles/cmq5vd1wdgz6o?at_medium=RSS&at_campaign=rss"
+          "quelle_url": "https://www.bbc.co.uk/news/articles/c6rrg51rkz09o?at_medium=RSS&at_campaign=rss"
         },
         {
           "id": "wirtschaft-1",
-          "titel": "Microsoft-Ausfall legt Outlook und Teams weltweit lahm",
-          "zusammenfassung": "Ein umfangreicher technischer Ausfall bei Microsoft hat zentrale Dienste wie Outlook und Teams für Millionen Nutzer weltweit stundenlang unzugänglich gemacht. Das Unternehmen arbeitet an der schrittweisen Wiederherstellung, kann jedoch nicht ausschließen, dass Daten verloren gegangen sind.",
-          "bedeutung": "Der Ausfall verdeutlicht die kritische Abhängigkeit von Unternehmen und Behörden weltweit von wenigen zentralen Cloud-Plattformen.",
-          "hintergrund": "Microsoft ist mit seinen Cloud-Diensten tief in die digitale Infrastruktur von Konzernen, Behörden und Bildungseinrichtungen integriert. Längere Ausfälle können erhebliche wirtschaftliche Schäden verursachen und Fragen zur Resilienz monopolartiger Plattformen aufwerfen.\n\nDer Vorfall reiht sich in eine Serie schwerwiegender Cloud-Ausfälle der vergangenen Jahre ein und dürfte Regulierungsdiskussionen über Systemrisiken durch Marktkonzentration neu entfachen.",
-          "tag": "Cloud-Ausfall",
-          "emoji": "☁️",
+          "titel": "Brexit-Reset: UK bekommt Stimme, aber kein Stimmrecht",
+          "zusammenfassung": "Großbritannien soll im Rahmen eines neuen Abkommens mit der EU zwar Einfluss auf Lebensmittelvorschriften erhalten, jedoch kein formales Abstimmungsrecht. EU-Minister Hamish Falconer verteidigte die Vereinbarung als pragmatischen Kompromiss.",
+          "bedeutung": "Das Abkommen zeigt, wie London versucht, handelspolitische Nähe zur EU zurückzugewinnen, ohne die roten Linien des Brexit-Votums formal zu überschreiten – ein schwieriger Balanceakt mit weitreichenden Konsequenzen für den Agrar- und Lebensmittelsektor.",
+          "hintergrund": "Seit dem Brexit ringt Großbritannien darum, Handelsbarrieren mit dem größten Nachbarmarkt abzubauen, ohne die Souveränitätsversprechen des Austrittsvotums zu verletzen. Im Lebensmittel- und Agrarsektor sind die regulatorischen Hürden besonders hoch, da beide Seiten unterschiedliche Standards und Kontrollmechanismen entwickelt haben.\n\nEin Mitspracherecht ohne Stimmrecht wird von Kritikern als unzulängliche Lösung bezeichnet, die Großbritannien zum Regelempfänger degradiert. Befürworter hingegen sehen darin einen realistischen ersten Schritt zu einer engeren wirtschaftlichen Partnerschaft.",
+          "tag": "Brexit",
+          "emoji": "🇬🇧",
           "quelle": "BBC",
-          "quelle_url": "https://www.bbc.co.uk/news/articles/cwvg238zrnm5o?at_medium=RSS&at_campaign=rss"
+          "quelle_url": "https://www.bbc.co.uk/news/articles/c6wy4l8nl42wo?at_medium=RSS&at_campaign=rss"
         },
         {
           "id": "wirtschaft-2",
-          "titel": "Jensen-Huang-Affäre belastet Singapurs Ruf als Chip-Drehscheibe",
-          "zusammenfassung": "Der Nvidia-Skandal wirft ein hartes Licht auf Singapurs Rolle als globales Zentrum der Halbleiterindustrie – und als möglicher Umschlagplatz für unerlaubte Technologietransfers. Die Stadtregierung steht unter Druck, ihre Aufsichtsstrukturen zu erklären.",
-          "bedeutung": "Singapurs wirtschaftliche Attraktivität für Technologiekonzerne hängt maßgeblich von seinem Ruf als stabiler, regelgebundener Standort ab – der nun erstmals ernsthaft in Frage gestellt wird.",
-          "hintergrund": "Der Stadtstaat hat sich in den vergangenen Jahren als bevorzugter asiatischer Hauptsitz für Halbleiterunternehmen und Chip-Investitionen positioniert. Zahlreiche globale Konzerne haben dort Forschungs- und Produktionskapazitäten aufgebaut.\n\nSollten sich Vorwürfe über illegale Chip-Handelsrouten erhärten, könnte dies nicht nur Singapurs internationales Ansehen beschädigen, sondern auch US-Exportkontrollen auf den Prüfstand stellen.",
-          "tag": "Halbleiter",
-          "emoji": "🇸🇬",
+          "titel": "Jobmarkt: Weniger Sozialabgaben für Unter-25-Jährige",
+          "zusammenfassung": "Ein neuer Regierungsbericht in Großbritannien empfiehlt, die Lohnnebenkosten für Arbeitgeber bei der Beschäftigung junger Menschen unter 25 Jahren schrittweise zu senken. Die Maßnahme soll über fünf Jahre greifen und Jugendarbeitslosigkeit bekämpfen.",
+          "bedeutung": "Jugendarbeitslosigkeit bleibt ein strukturelles Problem in vielen Industrieländern, und das britische Modell könnte als Vorlage für ähnliche Reformen in Europa dienen.",
+          "hintergrund": "Großbritannien verzeichnet anhaltend hohe Jugendarbeitslosigkeit, verschärft durch die wirtschaftlichen Nachwirkungen der Pandemie und gestiegene Lebenshaltungskosten. Der Bericht argumentiert, dass niedrigere Arbeitgeberkosten Unternehmen Anreize geben könnten, mehr Ausbildungs- und Einstiegsstellen zu schaffen.\n\nKritiker hingegen bezweifeln, ob Steuersenkungen allein strukturelle Hindernisse auf dem Arbeitsmarkt beheben können. Sie fordern ergänzende Investitionen in Qualifizierung und Bildung, um nachhaltige Beschäftigung zu sichern.",
+          "tag": "Jugendarbeitslosigkeit",
+          "emoji": "👷",
           "quelle": "BBC",
-          "quelle_url": "https://www.bbc.co.uk/news/articles/ck1exevgql4qo?at_medium=RSS&at_campaign=rss"
+          "quelle_url": "https://www.bbc.co.uk/news/articles/c6p9dzmj514ko?at_medium=RSS&at_campaign=rss"
         }
       ]
     },
@@ -89,32 +89,32 @@
       "stories": [
         {
           "id": "boerse-0",
-          "titel": "Fed warnt: KI-Risiken größte Gefahr für Finanzstabilität",
-          "zusammenfassung": "In ihrer jüngsten Erhebung zur Finanzstabilität identifiziert die US-Notenbank Federal Reserve Risiken rund um künstliche Intelligenz als die derzeit gravierendste Bedrohung für das globale Finanzsystem. Die Warnung erfolgt inmitten einer Marktkorrektur bei führenden KI-Werten.",
-          "bedeutung": "Eine solche Einschätzung durch die mächtigste Zentralbank der Welt hat das Potenzial, regulatorische Weichenstellungen für den gesamten KI-Sektor zu beschleunigen.",
-          "hintergrund": "Die Fed beobachtet mit wachsender Sorge die rasante Konzentration von Marktmacht bei wenigen KI-Hyperscalern sowie die gesellschaftlichen und infrastrukturellen Risiken durch die explosive Verbreitung von Rechenzentren. Beides gilt als systemrelevant.\n\nDer Bericht erscheint zu einem sensiblen Zeitpunkt: Der Nvidia-Führungsskandal hat den KI-Sektor bereits erschüttert, und steigende Erzeugerpreise erhöhen den Druck auf die Zinspolitik der Notenbank.",
-          "tag": "KI-Risiko",
-          "emoji": "🤖",
+          "titel": "Japan: Wirtschaft schrumpft unerwartet im dritten Quartal",
+          "zusammenfassung": "Japans Bruttoinlandsprodukt ist im dritten Quartal überraschend zurückgegangen, nachdem staatliche Energiesubventionen für Haushalte im September ausgelaufen waren. Die dadurch gestiegenen Energiekosten, verschärft durch den Iran-Krieg, belasteten Konsum und Produktion.",
+          "bedeutung": "Ein schrumpfendes Japan – die viertgrößte Volkswirtschaft der Welt – sendet ein Warnsignal für die globale Konjunktur und erhöht den Druck auf die Bank of Japan in ihrer Geldpolitik.",
+          "hintergrund": "Das Auslaufen der staatlichen Energiepreisbremsen traf japanische Verbraucher und Unternehmen zu einem ungünstigen Zeitpunkt. Der anhaltende Konflikt im Iran hält die globalen Energiepreise hoch, was exportabhängige Volkswirtschaften wie Japan besonders trifft.\n\nDie Daten dürften die Diskussion über den geldpolitischen Kurs der Bank of Japan neu entfachen. Eine weitere Zinserhöhung erscheint angesichts der Wachstumsschwäche zunehmend unwahrscheinlich, was den Yen unter Druck setzt und Kapitalflüsse in Asien beeinflusst.",
+          "tag": "Rezession",
+          "emoji": "📉",
           "quelle": "CNBC",
-          "quelle_url": "https://www.cnbc.com/2026/11/13/ai-risks-financial-system-federal-reserve.html"
+          "quelle_url": "https://www.cnbc.com/2026/11/16/japan-q3-gdp-energy-oil-prices.html"
         },
         {
           "id": "boerse-1",
-          "titel": "US-Erzeugerpreise steigen stärker als erwartet auf Vierjahreshoch",
-          "zusammenfassung": "Der amerikanische Erzeugerpreisindex legte im Oktober um 0,3 Prozent zu, was die Jahresrate auf 6,5 Prozent treibt – den höchsten Wert seit fast vier Jahren. Ökonomen hatten mit einem etwas stärkeren monatlichen Anstieg gerechnet, die Jahresrate übertrifft dennoch die Erwartungen.",
-          "bedeutung": "Anhaltend hohe Erzeugerpreise signalisieren, dass der Inflationsdruck in der Pipeline bleibt und die Fed ihre Zinspolitik möglicherweise länger restriktiv halten muss.",
-          "hintergrund": "Die Daten kommen zu einem Zeitpunkt, an dem Märkte und Fed-Vertreter intensiv über den weiteren Zinspfad debattieren. Chicago-Fed-Präsident Goolsbee mahnte zuletzt öffentlich, die Zentralbank habe bei der Inflationsbekämpfung noch erhebliche Arbeit vor sich.\n\nFür Anleger erhöht der Datenpunkt die Unsicherheit über den Zeitpunkt möglicher Zinssenkungen und belastet zinssensitive Sektoren wie Immobilien und Technologie.",
-          "tag": "Inflation",
-          "emoji": "📈",
+          "titel": "China: Wirtschaftsdaten verfehlen Erwartungen deutlich",
+          "zusammenfassung": "Im Oktober haben Industrieproduktion, Einzelhandelsumsätze und Investitionen in China die Markterwartungen allesamt verfehlt. Der anhaltende Abschwung am Immobilienmarkt zerstört seit fünf Jahren in Folge Haushaltsvermögen.",
+          "bedeutung": "Chinas Wachstumsschwäche trifft Rohstoffmärkte, Lieferketten und Handelspartner weltweit und erhöht den Druck auf Peking, weitere Konjunkturstimuli zu beschließen.",
+          "hintergrund": "Die chinesische Führung hat bereits mehrere Stützungsmaßnahmen für den strauchelnden Immobiliensektor angekündigt, doch Marktbeobachter halten diese bislang für unzureichend. Der strukturelle Einbruch bei Bauinvestitionen und Wohnungspreisen dämpft das Konsumvertrauen der Mittelschicht nachhaltig.\n\nFür globale Märkte sind die Daten ein wichtiges Signal: Chinas Importnachfrage nach Rohstoffen wie Kupfer, Eisenerz und Öl könnte weiter sinken, was Produzenten in Australien, Brasilien und dem Nahen Osten empfindlich trifft. Gleichzeitig wächst der Druck auf Peking, durch fiskalische Impulse gegenzusteuern.",
+          "tag": "China-Konjunktur",
+          "emoji": "🏗️",
           "quelle": "CNBC",
-          "quelle_url": "https://www.cnbc.com/2026/11/13/ppi-inflation-report-october-2026.html"
+          "quelle_url": "https://www.cnbc.com/2026/11/16/china-retail-sales-october-industrial-output-investment.html"
         },
         {
           "id": "boerse-2",
-          "titel": "Nvidia-Führungskrise verändert KI-Handelsstrategie an Märkten",
-          "zusammenfassung": "Experten für börsengehandelte Fonds sehen in Nvidias Führungschaos und der neuen Mehrheit der Demokraten im US-Kongress Katalysatoren für eine Umschichtung im KI-Sektor. Profiteure könnten alternative Chiphersteller und andere Technologieriesen sein.",
-          "bedeutung": "Eine Verschiebung der Kapitalströme weg von Nvidia würde die Bewertungslandschaft im gesamten Technologiesektor neu ordnen und milliardenschwere Portfolioanpassungen auslösen.",
-          "hintergrund": "Nvidia galt bislang als nahezu alternativlose Kerninvestition im KI-Boom. Der abrupte Abgang von Jensen Huang hat Fragen zur strategischen Kontinuität des Unternehmens aufgeworfen und Konkurrenten wie AMD oder Intel sowie Cloud-Anbieter in den Fokus gerückt.\n\nZugleich könnte ein demokratisch kontrollierter Kongress schärfere Exportkontrollen für KI-Chips durchsetzen, was die geopolitische Dimension des Handels weiter verschärft und den Druck auf die Branche erhöht.",
+          "titel": "Nvidia-Krise verändert KI-Investitionslandschaft",
+          "zusammenfassung": "Experten für börsengehandelte Fonds sehen in der Führungskrise bei Nvidia und dem demokratisch kontrollierten US-Kongress Katalysatoren für eine Neuverteilung der KI-Investitionen. Rivalisierende Chiphersteller und andere Technologiekonzerne könnten profitieren.",
+          "bedeutung": "Eine Verschiebung der Kapitalströme weg von Nvidia würde die gesamte KI-Investitionsthese neu kalibrieren und Bewertungen im gesamten Technologiesektor beeinflussen.",
+          "hintergrund": "Nvidia galt jahrelang als unangefochtener Profiteur des KI-Booms, doch die Spionageaffäre und der Führungswechsel erschüttern das Vertrauen institutioneller Investoren. ETF-Strategegen beobachten bereits erste Umschichtungen in Werte wie AMD, Broadcom und andere Halbleiterunternehmen.\n\nDer demokratisch kontrollierte Kongress könnte zusätzlich regulatorischen Druck auf Nvidia ausüben und strengere Exportkontrollen durchsetzen, was das Geschäftsmodell des Unternehmens weiter einschränken würde. Für Anleger stellt sich damit die Frage, ob der KI-Aufschwung breiter und resilienter wird – oder ob er ohne Nvidias Dominanz an Momentum verliert.",
           "tag": "KI-Aktien",
           "emoji": "💹",
           "quelle": "CNBC",
