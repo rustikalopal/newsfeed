@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-16T02:51:19.282504+00:00",
-  "datum": "Montag, 16. November 2026",
+  "generated_at": "2026-11-17T05:08:07.037019+00:00",
+  "datum": "Dienstag, 17. November 2026",
   "ressorts": [
     {
       "id": "politik",
@@ -9,36 +9,36 @@
       "stories": [
         {
           "id": "politik-0",
-          "titel": "Selenskyj fordert Musk: Starlink-Drossel aufheben",
-          "zusammenfassung": "Der ukrainische Präsident appelliert öffentlich an Elon Musk, die gedrosselte Starlink-Verbindung wiederherzustellen. Die eingeschränkte Internetverbindung erschwere nach Angaben Kyjiws die Abwehr russischer Angriffe erheblich.",
-          "bedeutung": "Die Abhängigkeit der Ukraine von einem privatwirtschaftlichen Kommunikationssystem eines einzelnen US-Milliardärs offenbart eine strukturelle Verwundbarkeit in der westlichen Unterstützungsstrategie.",
-          "hintergrund": "Seit Wochen berichten ukrainische Militäreinheiten von massiven Verbindungseinbußen beim Satellitendienst Starlink, den SpaceX-Gründer Elon Musk betreibt. Die gedrosselte Bandbreite beeinträchtigt laut Kyjiw die Drohnensteuerung sowie die Koordination von Verteidigungsoperationen an der Front.\n\nDer öffentliche Appell Selenskyjs markiert eine neue Eskalationsstufe in einem schwelenden Konflikt zwischen dem ukrainischen Staat und Musk, der in der Vergangenheit bereits Starlink-Dienste in bestimmten Kampfgebieten eigenmächtig eingeschränkt hatte. Die Episode wirft grundsätzliche Fragen über die Kontrolle kritischer Kriegsinfrastruktur durch private Akteure auf.",
-          "tag": "Ukraine-Krieg",
-          "emoji": "🛰️",
+          "titel": "Fünf EU-Staaten planen Abschiebezentrum in Ruanda",
+          "zusammenfassung": "Deutschland, Dänemark, Österreich, Griechenland und die Niederlande haben gemeinsam angekündigt, ein sogenanntes Rückführungszentrum in Ruanda einzurichten. Abgelehnte Asylbewerber sollen dort untergebracht werden, bevor sie in ihre Herkunftsländer zurückgebracht werden.",
+          "bedeutung": "Die Initiative markiert eine tiefgreifende Verschiebung der europäischen Migrationspolitik hin zu Auslagerungsmodellen außerhalb des Kontinents.",
+          "hintergrund": "Das Vorhaben folgt dem umstrittenen britischen Ruanda-Modell, das nach jahrelangem juristischem Streit letztlich scheiterte. Nun wagen fünf EU-Mitgliedstaaten einen ähnlichen Anlauf – diesmal als multilaterales Projekt, das europarechtliche Hürden leichter überwinden soll.\n\nKritiker aus Menschenrechtsorganisationen warnen vor einem Präzedenzfall, der Schutzsuchenden grundlegende Verfahrensrechte entzieht. Befürworter sehen darin ein notwendiges Signal der Handlungsfähigkeit angesichts steigender Ankunftszahlen und innenpolitischen Drucks in mehreren Mitgliedstaaten.",
+          "tag": "Migration",
+          "emoji": "🛂",
           "quelle": "BBC",
-          "quelle_url": "https://www.bbc.co.uk/news/articles/c6m25zg88k45o?at_medium=RSS&at_campaign=rss"
+          "quelle_url": "https://www.bbc.co.uk/news/articles/cw987343352go?at_medium=RSS&at_campaign=rss"
         },
         {
           "id": "politik-1",
-          "titel": "Nvidia-Spionageskandal weitet sich aus",
-          "zusammenfassung": "Ein mutmaßlicher chinesischer Spion, der mit dem früheren Nvidia-Chef in Verbindung gebracht wird, soll das Unternehmen bereits 2025 verlassen haben. Der Fall nährt Sorgen, dass trotz strenger US-Exportkontrollen hochentwickelte KI-Chips nach China gelangt sein könnten.",
-          "bedeutung": "Der Skandal gefährdet das Vertrauen in die US-amerikanischen Technologieexportkontrollen und könnte die geopolitische Rivalität im KI-Sektor weiter verschärfen.",
-          "hintergrund": "Die Affäre rund um Nvidia hat in Washington eine Debatte über die Wirksamkeit bestehender Chip-Exportrestriktionen ausgelöst. Behörden und Parlamentarier fragen, ob Kontrolllücken es ermöglichten, dass leistungsstarke Grafikkarten – das Rückgrat moderner KI-Systeme – trotz Handelsverboten nach China flossen.\n\nDer Fall belastet auch Handelsminister Howard Lutnick, dessen Familie offenbar finanzielle Verbindungen zu Nvidia unterhält. Parallel dazu stehen ETF-Analysten zufolge andere Chiphersteller und große Technologiekonzerne bereit, von einem möglichen Vertrauensverlust in Nvidia zu profitieren, sollte die Führungskrise des Unternehmens anhalten.",
-          "tag": "KI-Sicherheit",
-          "emoji": "🔍",
+          "titel": "Ukraine trifft Krim-Brücke mit Rekord-Drohnenangriff",
+          "zusammenfassung": "Russland meldete den bislang größten ukrainischen Drohnenangriff des Krieges mit über 2.000 eingesetzten Flugkörpern binnen eines Tages. Dabei wurde erneut die strategisch bedeutsame Brücke zur Krim getroffen, während über Kiew in einem einzigen Tag 17 Luftalarm-Sirenen ertönten.",
+          "bedeutung": "Der beispiellose Angriff signalisiert eine neue Eskalationsstufe im Ukraine-Krieg und erhöht den Druck auf beide Seiten sowie auf westliche Verbündete.",
+          "hintergrund": "Die Kertsch-Brücke zwischen der russischen Halbinsel Krim und dem Festland gilt als lebenswichtige Versorgungsader für russische Truppen im Süden der Ukraine. Wiederholte ukrainische Treffer zwingen Russland zu kostspieligen Reparaturen und erschweren die Logistik erheblich.\n\nDer massive Drohneneinsatz zeigt zugleich, wie sehr die Ukraine ihre Fähigkeit zur asymmetrischen Kriegführung ausgebaut hat. Angesichts begrenzter westlicher Waffenlieferungen setzt Kiew verstärkt auf günstig produzierbare Eigenentwicklungen, um tief ins russische Hinterland zu treffen.",
+          "tag": "Ukraine-Krieg",
+          "emoji": "💥",
           "quelle": "BBC",
-          "quelle_url": "https://www.bbc.co.uk/news/articles/cmdx1vpprk9vo?at_medium=RSS&at_campaign=rss"
+          "quelle_url": "https://www.bbc.co.uk/news/articles/ckx27v6dpjz0o?at_medium=RSS&at_campaign=rss"
         },
         {
           "id": "politik-2",
-          "titel": "Tschechien: Proteste gegen Medienfinanzierungsreform",
-          "zusammenfassung": "Tausende Tschechinnen und Tschechen sind auf die Straße gegangen, um gegen Pläne der Regierung zu protestieren, die Finanzierung öffentlicher Medien umzugestalten. Kritiker sehen darin einen Angriff auf die Pressefreiheit, während die Regierung auf notwendige Kosteneinsparungen verweist.",
-          "bedeutung": "Der Konflikt steht exemplarisch für den wachsenden Druck auf öffentlich-rechtliche Medien in Mitteleuropa und berührt zentrale Fragen zur Unabhängigkeit des Journalismus.",
-          "hintergrund": "Die tschechische Regierung plant, die Finanzierungsströme für öffentliche Rundfunkanstalten grundlegend zu verändern. Medienverbände und Journalistenorganisationen warnen, dass die Reform die redaktionelle Unabhängigkeit untergraben und staatlichem Einfluss Tür und Tor öffnen könnte.\n\nDie Entwicklung in Prag fügt sich in ein breiteres europäisches Muster ein: In mehreren EU-Staaten geraten öffentliche Medien unter politischen und finanziellen Druck. Die EU-Kommission beobachtet solche Entwicklungen im Rahmen ihrer jährlichen Rechtsstaatlichkeitsberichte mit wachsender Sorge.",
-          "tag": "Pressefreiheit",
-          "emoji": "📢",
+          "titel": "Huthi-Vormarsch bedroht Weltwirtschaft und Handelswege",
+          "zusammenfassung": "Die vom Iran unterstützten Huthi-Rebellen gewinnen im Jemen weiter an Boden und stellen eine wachsende Bedrohung für internationale Schifffahrtsrouten dar. Sicherheitsexperten warnen, dass eine weitere Destabilisierung der Region ernste Folgen für die globale Wirtschaft haben könnte.",
+          "bedeutung": "Der Jemen-Konflikt ist längst keine regionale Angelegenheit mehr – er berührt direkt die Sicherheit des Suezkanal-Zulaufs und damit einen der meistbefahrenen Handelswege der Welt.",
+          "hintergrund": "Seit Monaten greifen die Huthis Handelsschiffe im Roten Meer an und zwingen Reedereien, teure Umwege um das Kap der Guten Hoffnung zu nehmen. Die dadurch entstehenden Lieferverzögerungen und Kostensteigerungen belasten den globalen Handel spürbar.\n\nMit dem militärischen Erstarken der Huthis wächst die Sorge, dass westliche Marineoperationen zum Schutz der Handelsschifffahrt nicht ausreichen. Gleichzeitig bleibt eine politische Lösung des Jemen-Konflikts in weiter Ferne, was die Lage auf absehbare Zeit instabil hält.",
+          "tag": "Jemen",
+          "emoji": "🚢",
           "quelle": "BBC",
-          "quelle_url": "https://www.bbc.co.uk/news/articles/cm8e0knr7604o?at_medium=RSS&at_campaign=rss"
+          "quelle_url": "https://www.bbc.co.uk/news/articles/cmy97qperq9eo?at_medium=RSS&at_campaign=rss"
         }
       ]
     },
@@ -49,36 +49,36 @@
       "stories": [
         {
           "id": "wirtschaft-0",
-          "titel": "Microsoft-Ausfall behoben: Globaler Diensteausfall überstanden",
-          "zusammenfassung": "Nach einem eintägigen weltweiten Ausfall hat Microsoft die Dienste Outlook, Teams und Copilot vollständig wiederhergestellt. Der Konzern bestätigte, das zugrundeliegende technische Problem sei behoben worden.",
-          "bedeutung": "Der Ausfall verdeutlicht die globale Abhängigkeit von Unternehmenskommunikation und KI-Produktivitätstools eines einzelnen Anbieters und stellt die Resilienz cloudbasierter Infrastruktur in Frage.",
-          "hintergrund": "Millionen Nutzerinnen und Nutzer weltweit waren zeitweise von zentralen Arbeitswerkzeugen abgeschnitten. Betroffen waren Unternehmen, Behörden und Einzelpersonen in zahlreichen Ländern, die auf die Microsoft-Cloud-Dienste für ihre tägliche Kommunikation angewiesen sind.\n\nDer Vorfall reiht sich in eine Serie großer Cloud-Ausfälle ein, die Regulatoren und Unternehmen zunehmend veranlassen, über Abhängigkeitsrisiken und Notfallpläne nachzudenken. Für Microsoft bedeutet er einen Imageschaden zum denkbar ungünstigen Zeitpunkt, da der Konzern seinen Ruf als verlässlicher KI-Partner der Wirtschaft aufbauen will.",
-          "tag": "Technologie",
-          "emoji": "💻",
+          "titel": "Kalifornien verklagt OpenAI wegen Irreführung der Öffentlichkeit",
+          "zusammenfassung": "Der Generalstaatsanwalt Kaliforniens, Rob Bonta, hat Klage gegen OpenAI eingereicht und wirft dem KI-Unternehmen vor, die Öffentlichkeit in Bezug auf einen Angriff auf die Plattform Hugging Face getäuscht und gefährdet zu haben. Der Fall könnte weitreichende Konsequenzen für die Regulierung von KI-Unternehmen haben.",
+          "bedeutung": "Die Klage ist eine der ersten staatlichen Klagen gegen einen führenden KI-Konzern wegen Verbrauchertäuschung und könnte als Blaupause für künftige KI-Regulierung dienen.",
+          "hintergrund": "Hugging Face ist eine der meistgenutzten Plattformen für das Teilen und Trainieren von KI-Modellen. Ein Angriff auf diese Infrastruktur kann weitreichende Auswirkungen auf die gesamte KI-Entwicklergemeinschaft haben.\n\nDie Klage fügt sich in eine wachsende Welle staatlicher Aufsichtsmaßnahmen gegenüber großen KI-Unternehmen ein. Während auf Bundesebene in den USA eine einheitliche KI-Regulierung aussteht, prescht Kalifornien als bevölkerungsreichster Bundesstaat und Tech-Zentrum erneut mit eigenem rechtlichem Vorgehen vor.",
+          "tag": "KI-Regulierung",
+          "emoji": "⚖️",
           "quelle": "BBC",
-          "quelle_url": "https://www.bbc.co.uk/news/articles/c6rrg51rkz09o?at_medium=RSS&at_campaign=rss"
+          "quelle_url": "https://www.bbc.co.uk/news/articles/c6wy4xv2mxglo?at_medium=RSS&at_campaign=rss"
         },
         {
           "id": "wirtschaft-1",
-          "titel": "Brexit-Reset: UK bekommt Stimme, aber kein Stimmrecht",
-          "zusammenfassung": "Großbritannien soll im Rahmen eines neuen Abkommens mit der EU zwar Einfluss auf Lebensmittelvorschriften erhalten, jedoch kein formales Abstimmungsrecht. EU-Minister Hamish Falconer verteidigte die Vereinbarung als pragmatischen Kompromiss.",
-          "bedeutung": "Das Abkommen zeigt, wie London versucht, handelspolitische Nähe zur EU zurückzugewinnen, ohne die roten Linien des Brexit-Votums formal zu überschreiten – ein schwieriger Balanceakt mit weitreichenden Konsequenzen für den Agrar- und Lebensmittelsektor.",
-          "hintergrund": "Seit dem Brexit ringt Großbritannien darum, Handelsbarrieren mit dem größten Nachbarmarkt abzubauen, ohne die Souveränitätsversprechen des Austrittsvotums zu verletzen. Im Lebensmittel- und Agrarsektor sind die regulatorischen Hürden besonders hoch, da beide Seiten unterschiedliche Standards und Kontrollmechanismen entwickelt haben.\n\nEin Mitspracherecht ohne Stimmrecht wird von Kritikern als unzulängliche Lösung bezeichnet, die Großbritannien zum Regelempfänger degradiert. Befürworter hingegen sehen darin einen realistischen ersten Schritt zu einer engeren wirtschaftlichen Partnerschaft.",
-          "tag": "Brexit",
-          "emoji": "🇬🇧",
+          "titel": "Nvidia-Spionageskandal: Chinaverdächtiger verließ Firma 2025",
+          "zusammenfassung": "Ein mutmaßlicher chinesischer Spion, der mit dem früheren Nvidia-Chef Jensen Huang in Verbindung gebracht wird, hat das Unternehmen bereits im Jahr 2025 verlassen, wie das Technologieunternehmen Megaspeed mitteilte. Der Skandal wirft ernste Fragen auf, ob trotz US-Exportbeschränkungen fortschrittliche KI-Chips nach China gelangt sind.",
+          "bedeutung": "Der Fall offenbart mögliche Sicherheitslücken in den amerikanischen Exportkontrollen für Spitzentechnologie und belastet das geopolitisch ohnehin angespannte Verhältnis zwischen den USA und China weiter.",
+          "hintergrund": "Die USA haben in den vergangenen Jahren schrittweise strenge Ausfuhrverbote für hochleistungsfähige KI-Chips verhängt, um zu verhindern, dass China seine militärischen und technologischen Kapazitäten mit amerikanischer Technologie ausbaut. Nvidia steht dabei als weltgrößter Hersteller entsprechender Halbleiter besonders im Fokus.\n\nDer Spionageverdacht trifft das Unternehmen in einer ohnehin turbulenten Phase: Jensen Huang ist nach internem Druck als CEO zurückgetreten, und die Führungsfrage ist noch nicht abschließend geklärt. Aufsichtsbehörden und Investoren beobachten die Entwicklungen mit wachsender Besorgnis.",
+          "tag": "Chip-Spionage",
+          "emoji": "🕵️",
           "quelle": "BBC",
-          "quelle_url": "https://www.bbc.co.uk/news/articles/c6wy4l8nl42wo?at_medium=RSS&at_campaign=rss"
+          "quelle_url": "https://www.bbc.co.uk/news/articles/cmdx1vpprk9vo?at_medium=RSS&at_campaign=rss"
         },
         {
           "id": "wirtschaft-2",
-          "titel": "Jobmarkt: Weniger Sozialabgaben für Unter-25-Jährige",
-          "zusammenfassung": "Ein neuer Regierungsbericht in Großbritannien empfiehlt, die Lohnnebenkosten für Arbeitgeber bei der Beschäftigung junger Menschen unter 25 Jahren schrittweise zu senken. Die Maßnahme soll über fünf Jahre greifen und Jugendarbeitslosigkeit bekämpfen.",
-          "bedeutung": "Jugendarbeitslosigkeit bleibt ein strukturelles Problem in vielen Industrieländern, und das britische Modell könnte als Vorlage für ähnliche Reformen in Europa dienen.",
-          "hintergrund": "Großbritannien verzeichnet anhaltend hohe Jugendarbeitslosigkeit, verschärft durch die wirtschaftlichen Nachwirkungen der Pandemie und gestiegene Lebenshaltungskosten. Der Bericht argumentiert, dass niedrigere Arbeitgeberkosten Unternehmen Anreize geben könnten, mehr Ausbildungs- und Einstiegsstellen zu schaffen.\n\nKritiker hingegen bezweifeln, ob Steuersenkungen allein strukturelle Hindernisse auf dem Arbeitsmarkt beheben können. Sie fordern ergänzende Investitionen in Qualifizierung und Bildung, um nachhaltige Beschäftigung zu sichern.",
-          "tag": "Jugendarbeitslosigkeit",
-          "emoji": "👷",
+          "titel": "Großer US-Banken-Ausfall: Chase meldet Software-Fehler",
+          "zusammenfassung": "Mehrere große amerikanische Banken verzeichneten Serviceunterbrechungen, wobei JPMorgan Chase als größte US-Bank einen Software-Fehler als Ursache ausmachte. Das Institut betonte, es handle sich weder um ein systemisches Problem noch um einen Cyberangriff.",
+          "bedeutung": "Serviceausfälle bei systemrelevanten Banken können das Vertrauen in die digitale Finanzinfrastruktur erschüttern und zeigen die Verwundbarkeit moderner Bankensysteme.",
+          "hintergrund": "Digitale Infrastrukturausfälle im Bankensektor häufen sich weltweit und rücken die Frage der technischen Resilienz von Finanzinstituten in den Vordergrund. Aufsichtsbehörden fordern seit Jahren robustere Notfallsysteme.\n\nAuch wenn Chase in diesem Fall einen harmlosen Software-Bug als Ursache nannte, bleibt die Öffentlichkeit sensibilisiert: In einem Umfeld zunehmender Cyberangriffe auf kritische Infrastruktur reicht allein eine Unternehmensaussage oft nicht aus, um das Vertrauen der Kundschaft schnell wiederherzustellen.",
+          "tag": "Bankensystem",
+          "emoji": "🏦",
           "quelle": "BBC",
-          "quelle_url": "https://www.bbc.co.uk/news/articles/c6p9dzmj514ko?at_medium=RSS&at_campaign=rss"
+          "quelle_url": "https://www.bbc.co.uk/news/articles/cj752wvqneq6o?at_medium=RSS&at_campaign=rss"
         }
       ]
     },
@@ -89,36 +89,36 @@
       "stories": [
         {
           "id": "boerse-0",
-          "titel": "Japan: Wirtschaft schrumpft unerwartet im dritten Quartal",
-          "zusammenfassung": "Japans Bruttoinlandsprodukt ist im dritten Quartal überraschend zurückgegangen, nachdem staatliche Energiesubventionen für Haushalte im September ausgelaufen waren. Die dadurch gestiegenen Energiekosten, verschärft durch den Iran-Krieg, belasteten Konsum und Produktion.",
-          "bedeutung": "Ein schrumpfendes Japan – die viertgrößte Volkswirtschaft der Welt – sendet ein Warnsignal für die globale Konjunktur und erhöht den Druck auf die Bank of Japan in ihrer Geldpolitik.",
-          "hintergrund": "Das Auslaufen der staatlichen Energiepreisbremsen traf japanische Verbraucher und Unternehmen zu einem ungünstigen Zeitpunkt. Der anhaltende Konflikt im Iran hält die globalen Energiepreise hoch, was exportabhängige Volkswirtschaften wie Japan besonders trifft.\n\nDie Daten dürften die Diskussion über den geldpolitischen Kurs der Bank of Japan neu entfachen. Eine weitere Zinserhöhung erscheint angesichts der Wachstumsschwäche zunehmend unwahrscheinlich, was den Yen unter Druck setzt und Kapitalflüsse in Asien beeinflusst.",
-          "tag": "Rezession",
+          "titel": "Japans Wirtschaft schrumpft unerwartet im dritten Quartal",
+          "zusammenfassung": "Die japanische Volkswirtschaft ist im dritten Quartal überraschend geschrumpft, da gestiegene Energiekosten nach dem Auslaufen staatlicher Subventionen die Kaufkraft der Haushalte belasteten. Der Iran-Krieg hatte zuvor die Energiepreise in die Höhe getrieben.",
+          "bedeutung": "Das unerwartete Schrumpfen der drittgrößten Volkswirtschaft der Welt sendet ein Warnsignal für die globale Konjunktur und erhöht den Druck auf die japanische Zentralbank.",
+          "hintergrund": "Japan hatte Energiesubventionen eingeführt, um Verbraucher vor den Folgen der durch den Iran-Krieg ausgelösten Energiepreisschocks zu schützen. Als diese Hilfen im September ausliefen, traf die volle Wucht der höheren Preise die Haushalte und bremste den Konsum scharf ab.\n\nFür die Bank of Japan stellt die Entwicklung ein Dilemma dar: Einerseits kämpft sie seit Jahren gegen Deflation und hat zuletzt vorsichtig die Zinsen angehoben. Andererseits macht eine schwächelnde Wirtschaft weitere Zinsschritte politisch heikel. Die Märkte reagierten mit Kursverlusten beim Yen.",
+          "tag": "Japan-Rezession",
           "emoji": "📉",
           "quelle": "CNBC",
           "quelle_url": "https://www.cnbc.com/2026/11/16/japan-q3-gdp-energy-oil-prices.html"
         },
         {
           "id": "boerse-1",
-          "titel": "China: Wirtschaftsdaten verfehlen Erwartungen deutlich",
-          "zusammenfassung": "Im Oktober haben Industrieproduktion, Einzelhandelsumsätze und Investitionen in China die Markterwartungen allesamt verfehlt. Der anhaltende Abschwung am Immobilienmarkt zerstört seit fünf Jahren in Folge Haushaltsvermögen.",
-          "bedeutung": "Chinas Wachstumsschwäche trifft Rohstoffmärkte, Lieferketten und Handelspartner weltweit und erhöht den Druck auf Peking, weitere Konjunkturstimuli zu beschließen.",
-          "hintergrund": "Die chinesische Führung hat bereits mehrere Stützungsmaßnahmen für den strauchelnden Immobiliensektor angekündigt, doch Marktbeobachter halten diese bislang für unzureichend. Der strukturelle Einbruch bei Bauinvestitionen und Wohnungspreisen dämpft das Konsumvertrauen der Mittelschicht nachhaltig.\n\nFür globale Märkte sind die Daten ein wichtiges Signal: Chinas Importnachfrage nach Rohstoffen wie Kupfer, Eisenerz und Öl könnte weiter sinken, was Produzenten in Australien, Brasilien und dem Nahen Osten empfindlich trifft. Gleichzeitig wächst der Druck auf Peking, durch fiskalische Impulse gegenzusteuern.",
+          "titel": "Chinas Wirtschaft schwächelt: Alle Indikatoren verfehlen Prognosen",
+          "zusammenfassung": "Industrieproduktion, Einzelhandelsumsätze und Investitionen in China lagen im Oktober allesamt unter den Erwartungen der Analysten. Die zunehmende Abhängigkeit von Exportnachfrage macht die Volksrepublik anfälliger für externe Schocks.",
+          "bedeutung": "Eine anhaltende Wachstumsschwäche in der zweitgrößten Volkswirtschaft der Welt belastet Rohstoffpreise, globale Lieferketten und das Investitionsklima weltweit.",
+          "hintergrund": "Chinas Binnenkonsum erholt sich trotz verschiedener Konjunkturprogramme der Regierung nur schleppend. Die Immobilienkrise, hohe Jugendarbeitslosigkeit und gedämpftes Verbrauchervertrauen bremsen die Nachfrage im Inland weiterhin spürbar.\n\nGleichzeitig sieht sich Peking wachsendem Druck von außen ausgesetzt: Neue Zölle westlicher Länder auf chinesische Waren und die globale Nachfrageabkühlung treffen eine Volkswirtschaft, die strukturell dringend eine Stärkung des heimischen Konsums benötigt.",
           "tag": "China-Konjunktur",
-          "emoji": "🏗️",
+          "emoji": "🇨🇳",
           "quelle": "CNBC",
           "quelle_url": "https://www.cnbc.com/2026/11/16/china-retail-sales-october-industrial-output-investment.html"
         },
         {
           "id": "boerse-2",
-          "titel": "Nvidia-Krise verändert KI-Investitionslandschaft",
-          "zusammenfassung": "Experten für börsengehandelte Fonds sehen in der Führungskrise bei Nvidia und dem demokratisch kontrollierten US-Kongress Katalysatoren für eine Neuverteilung der KI-Investitionen. Rivalisierende Chiphersteller und andere Technologiekonzerne könnten profitieren.",
-          "bedeutung": "Eine Verschiebung der Kapitalströme weg von Nvidia würde die gesamte KI-Investitionsthese neu kalibrieren und Bewertungen im gesamten Technologiesektor beeinflussen.",
-          "hintergrund": "Nvidia galt jahrelang als unangefochtener Profiteur des KI-Booms, doch die Spionageaffäre und der Führungswechsel erschüttern das Vertrauen institutioneller Investoren. ETF-Strategegen beobachten bereits erste Umschichtungen in Werte wie AMD, Broadcom und andere Halbleiterunternehmen.\n\nDer demokratisch kontrollierte Kongress könnte zusätzlich regulatorischen Druck auf Nvidia ausüben und strengere Exportkontrollen durchsetzen, was das Geschäftsmodell des Unternehmens weiter einschränken würde. Für Anleger stellt sich damit die Frage, ob der KI-Aufschwung breiter und resilienter wird – oder ob er ohne Nvidias Dominanz an Momentum verliert.",
-          "tag": "KI-Aktien",
-          "emoji": "💹",
+          "titel": "Rohöl fällt auf 85 Dollar: Nahost-Exporte erholen sich",
+          "zusammenfassung": "Der US-Rohölpreis ist auf 85 Dollar je Barrel gesunken, da sich die Exporte aus dem Nahen Osten erholen und Analysten für das vierte Quartal ein Überangebot prognostizieren. Die Entspannung an den Ölmärkten könnte die Inflation weltweit dämpfen.",
+          "bedeutung": "Sinkende Ölpreise entlasten Verbraucher und Unternehmen und geben Zentralbanken mehr Spielraum bei der Zinspolitik.",
+          "hintergrund": "Nachdem der Iran-Krieg die Energiemärkte monatelang in Alarmbereitschaft versetzt hatte, deutet die Erholung der Exportströme auf eine schrittweise Normalisierung hin. Ölfördernde Länder im Nahen Osten können wieder zuverlässiger liefern, was das Angebot auf den Weltmärkten spürbar ausweitet.\n\nFür die großen Zentralbanken, darunter die Fed und die EZB, ist die Preisentwicklung am Ölmarkt ein wichtiger Indikator. Günstigere Energiekosten könnten die hartnäckige Kerninflation weiter drücken und den Weg für vorsichtige Zinssenkungen im kommenden Jahr ebnen.",
+          "tag": "Ölpreis",
+          "emoji": "🛢️",
           "quelle": "CNBC",
-          "quelle_url": "https://www.cnbc.com/2026/11/14/nvidia-ai-trade-data-centers-congress.html"
+          "quelle_url": "https://www.cnbc.com/2026/11/16/us-crude-oil-declines-to-87-a-barrel-on-recovering-middle-east-exports.html"
         }
       ]
     }
