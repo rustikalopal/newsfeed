@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-19T04:16:17.197368+00:00",
-  "datum": "Donnerstag, 19. November 2026",
+  "generated_at": "2026-11-20T04:02:44.795118+00:00",
+  "datum": "Freitag, 20. November 2026",
   "ressorts": [
     {
       "id": "politik",
@@ -9,36 +9,36 @@
       "stories": [
         {
           "id": "politik-0",
-          "titel": "UN-Gericht fällt historisches Urteil gegen Myanmar",
-          "zusammenfassung": "Der Internationale Gerichtshof hat Myanmar im Zusammenhang mit dem Massenmord an der Rohingya-Minderheit erstmals eines Völkermords für schuldig befunden. Es ist das erste Mal in der Geschichte des Gerichts, dass ein Staat dieses schwerste Verbrechen des Völkerrechts zugesprochen bekommt.",
-          "bedeutung": "Das Urteil setzt einen globalen Präzedenzfall für die strafrechtliche Ahndung von Völkermord auf Staatsebene und stärkt das internationale Rechtssystem erheblich.",
-          "hintergrund": "Die Militäroperationen Myanmars gegen die muslimische Rohingya-Bevölkerung im Jahr 2017 hatten hunderttausende Menschen zur Flucht nach Bangladesch gezwungen. Internationale Ermittler dokumentierten systematische Massentötungen, Vergewaltigungen und die Zerstörung von Dörfern.\n\nDas Verfahren vor dem höchsten UN-Gericht in Den Haag war von Gambia im Namen der islamischen Staatengemeinschaft angestrengt worden. Myanmar hatte die Vorwürfe stets zurückgewiesen und die Militäraktionen als Antiterroreinsatz bezeichnet.",
-          "tag": "Völkermord",
-          "emoji": "⚖️",
+          "titel": "Trump, Putin und Xi einigen sich auf Friedenserklärung",
+          "zusammenfassung": "Die Präsidenten der USA, Russlands und Chinas haben bei einem historischen Dreiertreffen eine gemeinsame Friedenserklärung verabschiedet. Es ist das erste Mal, dass die drei Staatschefs gleichzeitig an einem Tisch saßen.",
+          "bedeutung": "Ein solches Machtdreieck könnte die globale Ordnung grundlegend neu definieren und den Konflikt in der Ukraine in eine neue Phase führen.",
+          "hintergrund": "Das Treffen markiert einen Wendepunkt in der internationalen Diplomatie: Während Trump und Putin sowie Trump und Xi bereits bilaterale Gespräche geführt hatten, galt ein gemeinsames Format bislang als undenkbar. Die Erklärung wurde von Beobachtern weltweit mit Skepsis, aber auch mit vorsichtiger Hoffnung aufgenommen.\n\nDer genaue Inhalt der Erklärung wird noch analysiert. Kritiker warnen, dass ein solcher Deal auf Kosten der Ukraine gehen könnte, während Befürworter auf ein mögliches Ende eines der blutigsten Konflikte der jüngeren Geschichte hoffen.",
+          "tag": "Weltpolitik",
+          "emoji": "🌐",
           "quelle": "BBC",
-          "quelle_url": "https://www.bbc.co.uk/news/articles/c5m2l90ez144o?at_medium=RSS&at_campaign=rss"
+          "quelle_url": "https://www.bbc.co.uk/news/articles/c623j4ln97x7o?at_medium=RSS&at_campaign=rss"
         },
         {
           "id": "politik-1",
-          "titel": "Israel bricht Waffenruhe mit Bodenoperation in Gaza",
-          "zusammenfassung": "Die israelische Armee hat im Gazastreifen eine seltene Bodenoperation jenseits der sogenannten Gelben Linie durchgeführt und dabei nach eigenen Angaben einen Terrortunnel zerstört. Die Hamas wertet den Einsatz als eklatante Verletzung des bestehenden Waffenstillstandsabkommens.",
-          "bedeutung": "Die Aktion gefährdet die fragile Waffenruhe und könnte den ohnehin stockenden Friedensprozess im Nahen Osten erneut zum Scheitern bringen.",
-          "hintergrund": "Die sogenannte Gelbe Linie markiert eine militärische Demarkationslinie, deren Überschreitung nach den Bedingungen des Waffenstillstands als Bruch des Abkommens gilt. Israel begründet den Vorstoß mit dem Argument, unterirdische Angriffsinfrastruktur der Hamas zu neutralisieren.\n\nInternationale Vermittler aus Katar, Ägypten und den USA hatten monatelang an der Feuerpause gearbeitet. Der Vorfall dürfte neue Spannungen in den laufenden Verhandlungen über eine dauerhafte Lösung auslösen.",
-          "tag": "Gaza-Konflikt",
-          "emoji": "🚨",
+          "titel": "Europa signalisiert Gesprächsbereitschaft mit Russland",
+          "zusammenfassung": "Führende europäische Staaten haben beim Berlin-Gipfel eine gemeinsame Verhandlungsposition für mögliche Friedensgespräche mit Russland formuliert. Die Einigkeit der Verbündeten gilt als wichtiges Signal in der aktuellen diplomatischen Phase.",
+          "bedeutung": "Die europäische Geschlossenheit ist entscheidend, um bei möglichen Verhandlungen nicht von den Großmächten USA, Russland und China übergangen zu werden.",
+          "hintergrund": "Der Berliner Gipfel brachte die wichtigsten europäischen Ukraine-Unterstützer zusammen, um eine koordinierte Linie für Gespräche mit Moskau zu entwickeln. Hintergrund ist die zunehmende diplomatische Aktivität rund um das Dreier-Treffen zwischen Trump, Putin und Xi.\n\nEuropa besteht darauf, bei jeglichen Verhandlungen über eine Nachkriegsordnung einbezogen zu werden. Ohne europäische Beteiligung, so die Befürchtung, könnten Sicherheitsgarantien für die Ukraine substanzlos bleiben.",
+          "tag": "Ukraine-Krieg",
+          "emoji": "🕊️",
           "quelle": "BBC",
-          "quelle_url": "https://www.bbc.co.uk/news/articles/cw8r7510degno?at_medium=RSS&at_campaign=rss"
+          "quelle_url": "https://www.bbc.co.uk/news/articles/ckzd9nln5e6go?at_medium=RSS&at_campaign=rss"
         },
         {
           "id": "politik-2",
-          "titel": "Russischer Spion bei Palantir-Überwachung festgenommen",
-          "zusammenfassung": "Ermittler haben einen russischen Staatsbürger verhaftet, der Mitarbeiter des US-Technologiekonzerns Palantir beschattet haben soll, der die Ukraine im Krieg mit Software unterstützt. Bei dem Verdächtigen wurden gefälschte US-Ausweise sowie zwei russische Pässe sichergestellt.",
-          "bedeutung": "Der Fall belegt, wie intensiv russische Geheimdienste westliche Rüstungs- und Technologieunternehmen mit Ukrainebezug aktiv ausspähen.",
-          "hintergrund": "Palantir ist ein auf Datenanalyse spezialisiertes US-Unternehmen, das unter anderem Militär- und Geheimdienste mit Software versorgt und die ukrainischen Streitkräfte bei der Kriegsführung unterstützt. Die Firma gilt damit aus russischer Sicht als strategisches Ziel nachrichtendienstlicher Aktivitäten.\n\nDer Fall reiht sich in eine wachsende Zahl von Spionage- und Sabotageoperationen ein, die westliche Behörden russischen Akteuren zuschreiben. Experten warnen, dass solche Aktivitäten im Zuge des anhaltenden Ukraine-Krieges weiter zunehmen dürften.",
-          "tag": "Spionage",
-          "emoji": "🕵️",
+          "titel": "UN-Gericht verurteilt Myanmar wegen Rohingya-Genozids",
+          "zusammenfassung": "Der Internationale Gerichtshof hat in einem wegweisenden Urteil festgestellt, dass Myanmar an der Rohingya-Minderheit Völkermord begangen hat. Das Urteil bezieht sich auf eine Militärkampagne im Jahr 2017, bei der Tausende Menschen getötet wurden.",
+          "bedeutung": "Das Urteil ist historisch, weil es erstmals ein staatliches Vorgehen gegen die Rohingya völkerrechtlich als Genozid einstuft und internationale Konsequenzen nach sich ziehen könnte.",
+          "hintergrund": "Die Militäroperationen von 2017 trieben über 700.000 Rohingya zur Flucht nach Bangladesch und wurden von Menschenrechtsorganisationen früh als Vernichtungsfeldzug eingestuft. Myanmar hatte die Vorwürfe stets zurückgewiesen und die Aktionen als Antiterroreinsatz bezeichnet.\n\nDas Urteil des höchsten UN-Gerichts ist zwar bindend, aber die Durchsetzung bleibt schwierig, da Myanmar den Entscheidungen des Gerichts bisher wenig Folge geleistet hat. Dennoch schafft es eine wichtige rechtliche Grundlage für weitere internationale Maßnahmen und Reparationsforderungen.",
+          "tag": "Völkerrecht",
+          "emoji": "⚖️",
           "quelle": "BBC",
-          "quelle_url": "https://www.bbc.co.uk/news/articles/cq20xg80ly47o?at_medium=RSS&at_campaign=rss"
+          "quelle_url": "https://www.bbc.co.uk/news/articles/c804wzp20ddvo?at_medium=RSS&at_campaign=rss"
         }
       ]
     },
@@ -49,36 +49,36 @@
       "stories": [
         {
           "id": "wirtschaft-0",
-          "titel": "Europa will bei Photonen-Chips die Führung übernehmen",
-          "zusammenfassung": "Die Europäische Union setzt auf eine neue Generation von Computerchips, die statt elektrischer Signale Lichtteilchen zur Datenverarbeitung nutzen. Mit gezielten Investitionen will Europa in diesem Zukunftsmarkt eine globale Vorreiterrolle einnehmen und Abhängigkeiten von asiatischen und US-amerikanischen Herstellern abbauen.",
-          "bedeutung": "Photonenbasierte Chips gelten als möglicher nächster Quantensprung in der Rechenleistung und könnten Europas technologische Souveränität langfristig sichern.",
-          "hintergrund": "Konventionelle Siliziumchips stoßen physikalisch an ihre Leistungsgrenzen, während der Bedarf an Rechenkapazität durch künstliche Intelligenz und Datenzentren explosionsartig wächst. Optische Chips versprechen deutlich höhere Geschwindigkeiten bei geringerem Energieverbrauch.\n\nEuropa hat in der klassischen Halbleiterfertigung gegenüber Taiwan, Südkorea und den USA erheblich an Boden verloren. Die EU-Kommission sieht in der Photonik eine Chance, diesen Rückstand zu überspringen und in einer noch jungen Technologie frühzeitig Standards zu setzen.",
-          "tag": "Halbleiter",
-          "emoji": "💡",
+          "titel": "Besatzung kannte Risiken der Bayesian-Yacht nicht",
+          "zusammenfassung": "Ermittler haben festgestellt, dass die Crew der gesunkenen Luxusjacht Bayesian nicht ausreichend über die sicherheitsrelevanten Risiken des Schiffes informiert war. Bei dem Unglück vor der Küste Siziliens kamen sieben Menschen ums Leben, darunter der britische Technologieunternehmer Mike Lynch.",
+          "bedeutung": "Der Fall wirft grundlegende Fragen zur Sicherheitskultur in der Luxusschifffahrt und zur Verantwortung von Reedereien gegenüber ihrer Besatzung auf.",
+          "hintergrund": "Die Bayesian sank im Sommer 2024 unter dramatischen Umständen während eines Sturms. Neben Mike Lynch, der wenige Wochen zuvor in einem spektakulären US-Strafprozess freigesprochen worden war, starben weitere hochrangige Gäste. Der Fall hatte weltweit Aufsehen erregt.\n\nDie nun veröffentlichten Ermittlungsergebnisse deuten darauf hin, dass strukturelle Mängel in der Ausbildung und Kommunikation an Bord eine entscheidende Rolle gespielt haben könnten. Die Untersuchungen laufen weiterhin, und juristische Konsequenzen für Verantwortliche gelten als wahrscheinlich.",
+          "tag": "Schiffsunglück",
+          "emoji": "⚓",
           "quelle": "BBC",
-          "quelle_url": "https://www.bbc.co.uk/news/articles/cqglwjd450k0o?at_medium=RSS&at_campaign=rss"
+          "quelle_url": "https://www.bbc.co.uk/news/articles/c6e9kn15z9d7o?at_medium=RSS&at_campaign=rss"
         },
         {
           "id": "wirtschaft-1",
-          "titel": "Nvidia und Jensen Huang: Wie groß ist ihr Einfluss?",
-          "zusammenfassung": "Nvidias langjähriger Vorstandschef Jensen Huang hat das Unternehmen zum zentralen Profiteur des KI-Booms gemacht, dessen Chips heute die Grundlage nahezu aller großen KI-Systeme weltweit bilden. Analysten diskutieren, inwiefern ein einzelnes Unternehmen und seine Führungsfigur derart systemrelevant für die US-Wirtschaft sein können.",
-          "bedeutung": "Nvidias marktbeherrschende Stellung bei KI-Chips macht das Unternehmen zu einem geopolitischen und wirtschaftlichen Faktor ersten Ranges.",
-          "hintergrund": "Nvidia liefert die Grafikprozessoren, auf denen die Sprachmodelle und KI-Systeme der weltweit führenden Technologiekonzerne trainiert werden. Die Marktkapitalisierung des Unternehmens hat in den vergangenen Jahren die Drei-Billionen-Dollar-Marke überschritten.\n\nDie Abhängigkeit großer Teile der globalen KI-Infrastruktur von einem einzigen Zulieferer wird zunehmend als Risiko betrachtet. Regierungen und Konkurrenten arbeiten intensiv an Alternativen, doch Nvidias Vorsprung in Hard- und Software gilt derzeit als kaum einholbar.",
-          "tag": "KI-Wirtschaft",
-          "emoji": "🖥️",
+          "titel": "GTA 6 knackt zwei Milliarden Dollar Verkaufsmarke",
+          "zusammenfassung": "Das langerwartete Videospiel Grand Theft Auto 6 hat nach Branchenschätzungen bereits Umsätze von über zwei Milliarden Dollar erzielt. Der Titel gilt als der kommerziell erfolgreichste Entertainmentstart aller Zeiten.",
+          "bedeutung": "Der Rekord unterstreicht, dass die Videospielbranche klassische Medien wie Film und Musik als globale Unterhaltungsinstanz längst überholt hat.",
+          "hintergrund": "Rockstar Games ließ seine Fans 13 Jahre auf den Nachfolger von GTA 5 warten, einem der meistverkauften Spiele der Geschichte. Die Erwartungen waren enorm, und der Launch übertraf selbst optimistische Prognosen der Analysten.\n\nDie Zahlen haben Signalwirkung für die gesamte Kreativwirtschaft: Interaktive Unterhaltung zieht inzwischen mehr Kapital und Publikum an als Kinoblockbuster oder Streamingserien. Für Investoren und Entwickler bestätigt der Erfolg, dass Premium-Einzeltitel mit langen Produktionszyklen weiterhin eine tragfähige Strategie darstellen.",
+          "tag": "Gaming",
+          "emoji": "🎮",
           "quelle": "BBC",
-          "quelle_url": "https://www.bbc.co.uk/news/articles/c68798vdprwpo?at_medium=RSS&at_campaign=rss"
+          "quelle_url": "https://www.bbc.co.uk/news/articles/c9zr5nyv5dj2o?at_medium=RSS&at_campaign=rss"
         },
         {
           "id": "wirtschaft-2",
-          "titel": "Trump, Xi und Putin treffen sich erstmals zu Dreiergipfel",
-          "zusammenfassung": "US-Präsident Donald Trump, Chinas Staatschef Xi Jinping und Russlands Präsident Wladimir Putin sind am Rande des APEC-Gipfels zu einem seltenen trilateralen Treffen zusammengekommen. Das Gespräch der drei mächtigsten Staatschefs der Welt gilt als historisch und politisch höchst bedeutsam.",
-          "bedeutung": "Ein direkter Dialog zwischen Washington, Peking und Moskau könnte die globale Machtarchitektur und den Verlauf des Ukraine-Krieges grundlegend beeinflussen.",
-          "hintergrund": "Derartige Dreier-Begegnungen auf höchster Ebene sind in der modernen Diplomatie äußerst ungewöhnlich und kommen einem geopolitischen Erdbeben gleich. Im Hintergrund stehen der anhaltende Krieg in der Ukraine, Handelskonflikte und die Neuausrichtung globaler Allianzen.\n\nBeobachter werten das Treffen als Signal, dass sich die USA unter Trump stärker für eine Verhandlungslösung im Ukraine-Konflikt engagieren könnten. Gleichzeitig wächst in Europa die Sorge, dass westliche Interessen bei solchen Gesprächen übergangen werden könnten.",
-          "tag": "Weltpolitik",
-          "emoji": "🌐",
-          "quelle": "CNBC",
-          "quelle_url": "https://www.cnbc.com/2026/11/18/trump-xi-putin-apec-shenzhen-china.html"
+          "titel": "McDonald's steht wegen Missbrauchsvorwürfen vor Gericht",
+          "zusammenfassung": "Ein britisches Gericht hat entschieden, dass eine Sammelklage wegen sexuellen Missbrauchs gegen McDonald's verhandelt werden darf. Ehemalige Mitarbeiterinnen werfen dem Konzern vor, junge Angestellte systematisch unzureichend geschützt zu haben.",
+          "bedeutung": "Das Verfahren könnte weitreichende Konsequenzen für den Umgang globaler Konzerne mit dem Schutz junger und vulnerabler Beschäftigter haben.",
+          "hintergrund": "Bereits seit mehreren Jahren häufen sich Berichte über Missbrauchsfälle in McDonald's-Filialen, vor allem in Großbritannien. Betroffene schildern, dass Täter gezielt auf das Volljährigwerden jüngerer Kolleginnen gewartet haben sollen, um sie außerhalb gesetzlicher Schutzrahmen zu belästigen.\n\nDer Fall steht symbolisch für eine breitere Debatte über Machtmissbrauch im Niedriglohnsektor, wo junge Arbeitnehmerinnen und Arbeitnehmer besonders exponiert sind. Verbraucherschützer fordern nun verbindliche Konzernstandards für den Schutz minderjähriger Mitarbeiter weltweit.",
+          "tag": "Arbeitsrecht",
+          "emoji": "⚠️",
+          "quelle": "BBC",
+          "quelle_url": "https://www.bbc.co.uk/news/articles/c6x2eve321jno?at_medium=RSS&at_campaign=rss"
         }
       ]
     },
@@ -90,9 +90,9 @@
         {
           "id": "boerse-0",
           "titel": "Fed-Protokoll: Weitere Zinserhöhungen werden erwartet",
-          "zusammenfassung": "Die veröffentlichten Protokolle der Oktober-Sitzung der US-Notenbank zeigen, dass eine Mehrheit der Mitglieder des Offenmarktausschusses weitere Leitzinserhöhungen für notwendig hält. Die Fed beließ den Leitzins zuletzt in einer Spanne von 3,75 bis 4 Prozent, signalisiert aber eine restriktivere Haltung.",
-          "bedeutung": "Die hawkishe Ausrichtung der Fed belastet Aktienmärkte und Anleihekurse weltweit und beeinflusst Kreditkosten für Verbraucher und Unternehmen.",
-          "hintergrund": "Die anhaltend hohe Inflation oberhalb des Zwei-Prozent-Ziels der Notenbank zwingt die Fed zu einer aggressiveren Geldpolitik, als viele Marktteilnehmer noch vor Monaten erwartet hatten. Hinzu kommen Unsicherheiten über die langfristigen Auswirkungen des KI-Booms auf Produktivität und Preisniveau.\n\nEinige Notenbankmitglieder, darunter Gouverneur Christopher Waller, schließen laut den Protokollen sogar einen außergewöhnlich großen Zinsschritt von einem halben Prozentpunkt nicht aus. Die Märkte preisen entsprechend eine längere Phase erhöhter Zinsen ein.",
+          "zusammenfassung": "Die veröffentlichten Protokolle der Oktober-Sitzung der US-Notenbank Federal Reserve zeigen, dass eine Mehrheit der Mitglieder weitere Zinsschritte nach oben für notwendig hält. Zugleich äußerten Mitglieder Bedenken, dass der KI-Boom die Inflation zusätzlich anheizen könnte.",
+          "bedeutung": "Die Haltung der Fed beeinflusst direkt die globalen Kapitalströme, Anleihemärkte und die Kreditkosten für Unternehmen und Verbraucher weltweit.",
+          "hintergrund": "Trotz einer Leitzinsspanne von 3,75 bis 4 Prozent sehen viele Fed-Mitglieder die Inflation noch nicht ausreichend unter Kontrolle. Besonders die Sorge, dass Investitionen in Künstliche Intelligenz durch steigende Nachfrage und Energiekosten zusätzlichen Preisdruck erzeugen, gewinnt an Gewicht.\n\nDie Protokolle signalisieren, dass die Hoffnung auf baldige Zinssenkungen verfrüht sein dürfte. Anleger an den Anleihemärkten hatten zuletzt auf eine geldpolitische Lockerung gesetzt – diese Erwartungen dürften nun korrigiert werden.",
           "tag": "Geldpolitik",
           "emoji": "📈",
           "quelle": "CNBC",
@@ -100,25 +100,25 @@
         },
         {
           "id": "boerse-1",
-          "titel": "Japans Exporte springen im Oktober um 20 Prozent",
-          "zusammenfassung": "Die japanischen Ausfuhren legten im Oktober im Jahresvergleich um 20,5 Prozent zu und übertrafen damit die Erwartungen der Analysten deutlich. Haupttreiber war ein Boom bei Halbleiterexporten, deren Wert sich im Vergleich zum Vorjahreszeitraum fast verdoppelte.",
-          "bedeutung": "Der starke Exportanstieg verdeutlicht Japans wachsende Bedeutung in der globalen Halbleiter-Lieferkette inmitten des weltweiten KI-Booms.",
-          "hintergrund": "Japan profitiert von massiven staatlichen Investitionen in die Chipindustrie sowie von einer anhaltend schwachen Währung, die japanische Produkte auf den Weltmärkten wettbewerbsfähiger macht. Namhafte Hersteller wie TSMC haben Produktionswerke auf japanischem Boden errichtet.\n\nDie starken Handelsdaten geben der Bank of Japan zusätzlichen Spielraum, über eine weitere Normalisierung ihrer Geldpolitik nachzudenken. Gleichzeitig bleibt Japan stark von der globalen Nachfrage abhängig, die durch US-Exportkontrollen bei KI-Chips zunehmend unter Druck gerät.",
-          "tag": "Handel & Chips",
-          "emoji": "🇯🇵",
+          "titel": "Fed-Gouverneur droht mit aggressivem Zinsschritt",
+          "zusammenfassung": "Fed-Gouverneur Christopher Waller hat öffentlich in Erwägung gezogen, die Märkte mit einer außergewöhnlich starken Zinserhöhung um einen halben Prozentpunkt zu überraschen. Anhaltend hohe Inflationswerte seien der Auslöser für diese Überlegungen.",
+          "bedeutung": "Schon die Andeutung eines solchen Schrittes kann Aktien- und Anleihemärkte global erschüttern und die Finanzierungskosten für Staaten und Unternehmen spürbar verteuern.",
+          "hintergrund": "Wallers Aussage ist ungewöhnlich offen für einen amtierenden Notenbankvertreter und wird von Analysten als bewusstes Signal an die Märkte gewertet. Die Fed versucht damit offenbar, die Inflationserwartungen zu dämpfen, bevor es zu einer tatsächlichen Entscheidung kommt.\n\nDer potenzielle Schritt würde die ohnehin angespannten Bedingungen an den Kreditmärkten weiter verschärfen. Besonders Schwellenländer, die Schulden in US-Dollar halten, wären bei einem steigenden Dollar von einem solchen Schritt hart getroffen.",
+          "tag": "Zinspolitik",
+          "emoji": "🏦",
           "quelle": "CNBC",
-          "quelle_url": "https://www.cnbc.com/2026/11/18/japan-exports-october-imports-chips.html"
+          "quelle_url": "https://www.cnbc.com/2026/11/18/federal-reserve-governor-christopher-waller.html"
         },
         {
           "id": "boerse-2",
-          "titel": "US-Chipregeln bedrohen Südostasiens Datenzentrum-Boom",
-          "zusammenfassung": "Neue US-Exportvorschriften verpflichten Datenzentren in Südostasien dazu, für den Kauf fortschrittlicher KI-Chips eine Genehmigung aus Washington einzuholen. Das trifft eine Region, deren rasant wachsende Rechenzentrums-Infrastruktur zu großen Teilen von chinesischer Nachfrage getragen wird.",
-          "bedeutung": "Die Regelung könnte einen milliardenschweren Investitionszyklus in Schwellenländern abwürgen und den globalen KI-Wettbewerb zwischen den USA und China weiter verschärfen.",
-          "hintergrund": "Länder wie Malaysia, Singapur, Indonesien und Thailand haben in den vergangenen Jahren massiv in Rechenzentren investiert und dabei chinesische Technologiefirmen als Hauptkunden gewonnen. Die neuen US-Vorschriften zielen darauf ab zu verhindern, dass Peking über diesen Umweg an amerikanische KI-Spitzentechnologie gelangt.\n\nFür die betroffenen Staaten stellt das neue Regime ein erhebliches wirtschaftliches Risiko dar, da geplante Investitionen nun auf Eis gelegt werden könnten. Branchenvertreter warnen, dass die Regeln die regionale Digitalwirtschaft jahrelang zurückwerfen könnten.",
-          "tag": "Tech-Geopolitik",
-          "emoji": "🔌",
+          "titel": "Japans Kerninflation erreicht Jahreshöchststand",
+          "zusammenfassung": "Die japanische Kerninflation ist auf den höchsten Wert des laufenden Jahres gestiegen, nachdem staatliche Energiesubventionen ausgelaufen sind. Der Anstieg fiel gleichzeitig etwas geringer aus als von Ökonomen erwartet.",
+          "bedeutung": "Die Inflationsentwicklung in Japan ist entscheidend dafür, ob die Bank of Japan ihren ultralockeren geldpolitischen Kurs weiter anpassen und die globalen Anleihemärkte damit erneut in Bewegung setzen wird.",
+          "hintergrund": "Japan hatte lange Zeit mit Deflation zu kämpfen und gilt als Sonderfall unter den großen Volkswirtschaften. Das Ende der Energiesubventionen hat nun die Verbraucherpreise merklich angetrieben und erhöht den Druck auf die Zentralbank, über eine weitere Normalisierung der Zinspolitik nachzudenken.\n\nFür internationale Investoren ist Japan bedeutsam, weil japanische Institutionen zu den größten Haltern ausländischer Anleihen weltweit zählen. Eine geldpolitische Straffung in Tokio könnte Kapitalabflüsse aus anderen Märkten auslösen und globale Renditen beeinflussen.",
+          "tag": "Inflation Japan",
+          "emoji": "🇯🇵",
           "quelle": "CNBC",
-          "quelle_url": "https://www.cnbc.com/2026/11/18/nvidia-us-ai-chip-export-controls-data-centers-.html"
+          "quelle_url": "https://www.cnbc.com/2026/11/20/japan-inflation-cpi-october.html"
         }
       ]
     }
