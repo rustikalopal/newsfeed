@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-20T04:02:44.795118+00:00",
-  "datum": "Freitag, 20. November 2026",
+  "generated_at": "2026-11-21T04:02:43.699926+00:00",
+  "datum": "Samstag, 21. November 2026",
   "ressorts": [
     {
       "id": "politik",
@@ -9,36 +9,36 @@
       "stories": [
         {
           "id": "politik-0",
-          "titel": "Trump, Putin und Xi einigen sich auf Friedenserklärung",
-          "zusammenfassung": "Die Präsidenten der USA, Russlands und Chinas haben bei einem historischen Dreiertreffen eine gemeinsame Friedenserklärung verabschiedet. Es ist das erste Mal, dass die drei Staatschefs gleichzeitig an einem Tisch saßen.",
-          "bedeutung": "Ein solches Machtdreieck könnte die globale Ordnung grundlegend neu definieren und den Konflikt in der Ukraine in eine neue Phase führen.",
-          "hintergrund": "Das Treffen markiert einen Wendepunkt in der internationalen Diplomatie: Während Trump und Putin sowie Trump und Xi bereits bilaterale Gespräche geführt hatten, galt ein gemeinsames Format bislang als undenkbar. Die Erklärung wurde von Beobachtern weltweit mit Skepsis, aber auch mit vorsichtiger Hoffnung aufgenommen.\n\nDer genaue Inhalt der Erklärung wird noch analysiert. Kritiker warnen, dass ein solcher Deal auf Kosten der Ukraine gehen könnte, während Befürworter auf ein mögliches Ende eines der blutigsten Konflikte der jüngeren Geschichte hoffen.",
-          "tag": "Weltpolitik",
-          "emoji": "🌐",
+          "titel": "Russische Rakete trifft polnisches Territorium",
+          "zusammenfassung": "Eine russische Rakete schlug auf polnischem Boden ein, während Verbündete der Ukraine zeitgleich militärische Übungen abhielten. Es wurden keine Verletzten oder Sachschäden gemeldet, doch Warschau bezeichnete den Vorfall als gezielte Provokation Moskaus.",
+          "bedeutung": "Ein Einschlag auf NATO-Gebiet berührt den Bündnisfall und erhöht die Gefahr einer direkten Konfrontation zwischen Russland und dem Westen erheblich.",
+          "hintergrund": "Polen reagierte mit scharfer Kritik und bestellte den russischen Botschafter ein. Der Zeitpunkt des Einschlags während laufender westlicher Militärmanöver wird als kalkuliertes Signal Moskaus gewertet.\n\nDer Vorfall reiht sich in eine Eskalationsspirale ein, die zuletzt durch den ukrainischen Angriff auf die Krimbrücke weiter angeheizt wurde. Innerhalb der NATO wird nun intensiv beraten, wie das Bündnis auf derartige Grenzverletzungen reagieren soll, ohne eine offene Konfrontation zu riskieren.",
+          "tag": "NATO-Eskalation",
+          "emoji": "🚨",
           "quelle": "BBC",
-          "quelle_url": "https://www.bbc.co.uk/news/articles/c623j4ln97x7o?at_medium=RSS&at_campaign=rss"
+          "quelle_url": "https://www.bbc.co.uk/news/articles/cqx2x9dklxnro?at_medium=RSS&at_campaign=rss"
         },
         {
           "id": "politik-1",
-          "titel": "Europa signalisiert Gesprächsbereitschaft mit Russland",
-          "zusammenfassung": "Führende europäische Staaten haben beim Berlin-Gipfel eine gemeinsame Verhandlungsposition für mögliche Friedensgespräche mit Russland formuliert. Die Einigkeit der Verbündeten gilt als wichtiges Signal in der aktuellen diplomatischen Phase.",
-          "bedeutung": "Die europäische Geschlossenheit ist entscheidend, um bei möglichen Verhandlungen nicht von den Großmächten USA, Russland und China übergangen zu werden.",
-          "hintergrund": "Der Berliner Gipfel brachte die wichtigsten europäischen Ukraine-Unterstützer zusammen, um eine koordinierte Linie für Gespräche mit Moskau zu entwickeln. Hintergrund ist die zunehmende diplomatische Aktivität rund um das Dreier-Treffen zwischen Trump, Putin und Xi.\n\nEuropa besteht darauf, bei jeglichen Verhandlungen über eine Nachkriegsordnung einbezogen zu werden. Ohne europäische Beteiligung, so die Befürchtung, könnten Sicherheitsgarantien für die Ukraine substanzlos bleiben.",
+          "titel": "Russland startet massiven Luftangriff auf Kiew",
+          "zusammenfassung": "Russland hat einen der bislang schwersten Luftangriffe auf die ukrainische Hauptstadt geflogen, wenige Tage nachdem die Ukraine die Krimbrücke attackiert hatte. Moskau lehnte gleichzeitig jegliche Sicherheitsgarantien für die Ukraine kategorisch ab.",
+          "bedeutung": "Die eskalierende Dynamik zeigt, dass Russland militärische Vergeltung als strategisches Instrument nutzt und Verhandlungen weiter erschwert.",
+          "hintergrund": "Der Angriff auf Kiew richtete sich gezielt gegen kritische Infrastruktur und Verkehrsknotenpunkte. Ukrainische Luftabwehrsysteme wurden an mehreren Fronten gleichzeitig gefordert, was auf eine bewusste Überlastungsstrategie hindeutet.\n\nMoskaus Ablehnung von Sicherheitsgarantien für Kyjiw sendet ein eindeutiges politisches Signal an westliche Vermittler: Russland hat kein Interesse an einem Waffenstillstand zu westlichen Bedingungen. Dies dürfte die diplomatischen Bemühungen rund um den APEC-Gipfel weiter belasten.",
           "tag": "Ukraine-Krieg",
-          "emoji": "🕊️",
+          "emoji": "💣",
           "quelle": "BBC",
-          "quelle_url": "https://www.bbc.co.uk/news/articles/ckzd9nln5e6go?at_medium=RSS&at_campaign=rss"
+          "quelle_url": "https://www.bbc.co.uk/news/articles/c6x29gn4pdn9o?at_medium=RSS&at_campaign=rss"
         },
         {
           "id": "politik-2",
-          "titel": "UN-Gericht verurteilt Myanmar wegen Rohingya-Genozids",
-          "zusammenfassung": "Der Internationale Gerichtshof hat in einem wegweisenden Urteil festgestellt, dass Myanmar an der Rohingya-Minderheit Völkermord begangen hat. Das Urteil bezieht sich auf eine Militärkampagne im Jahr 2017, bei der Tausende Menschen getötet wurden.",
-          "bedeutung": "Das Urteil ist historisch, weil es erstmals ein staatliches Vorgehen gegen die Rohingya völkerrechtlich als Genozid einstuft und internationale Konsequenzen nach sich ziehen könnte.",
-          "hintergrund": "Die Militäroperationen von 2017 trieben über 700.000 Rohingya zur Flucht nach Bangladesch und wurden von Menschenrechtsorganisationen früh als Vernichtungsfeldzug eingestuft. Myanmar hatte die Vorwürfe stets zurückgewiesen und die Aktionen als Antiterroreinsatz bezeichnet.\n\nDas Urteil des höchsten UN-Gerichts ist zwar bindend, aber die Durchsetzung bleibt schwierig, da Myanmar den Entscheidungen des Gerichts bisher wenig Folge geleistet hat. Dennoch schafft es eine wichtige rechtliche Grundlage für weitere internationale Maßnahmen und Reparationsforderungen.",
-          "tag": "Völkerrecht",
-          "emoji": "⚖️",
+          "titel": "Trump droht US-Firmen mit KI-Datencenter-Verbot im Ausland",
+          "zusammenfassung": "US-Präsident Donald Trump stellte ein mögliches Verbot für amerikanische Unternehmen in den Raum, KI-Rechenzentren außerhalb der USA zu errichten. Konkrete Details blieb er schuldig; nach eigenen Angaben war der Vorstoß selbst für Teile seines Teams überraschend.",
+          "bedeutung": "Ein solches Verbot könnte globale KI-Infrastrukturprojekte massiv umgestalten und den Technologiewettlauf zwischen den USA und China grundlegend verschärfen.",
+          "hintergrund": "Der Vorstoß fällt in eine Phase intensiver geopolitischer Spannungen rund um Halbleiter und KI-Kapazitäten. Washington versucht seit Jahren, die Abhängigkeit kritischer Technologien von nicht-amerikanischen Standorten zu reduzieren.\n\nKritiker warnen, ein solches Dekret könnte US-Konzerne im internationalen Wettbewerb benachteiligen und Verbündete verprellen, die auf gemeinsame KI-Infrastruktur setzen. Die Ankündigung dürfte die ohnehin angespannte Lage beim APEC-Gipfel weiter komplizieren.",
+          "tag": "KI-Politik",
+          "emoji": "🏛️",
           "quelle": "BBC",
-          "quelle_url": "https://www.bbc.co.uk/news/articles/c804wzp20ddvo?at_medium=RSS&at_campaign=rss"
+          "quelle_url": "https://www.bbc.co.uk/news/articles/cmde1lw9y54ko?at_medium=RSS&at_campaign=rss"
         }
       ]
     },
@@ -49,36 +49,36 @@
       "stories": [
         {
           "id": "wirtschaft-0",
-          "titel": "Besatzung kannte Risiken der Bayesian-Yacht nicht",
-          "zusammenfassung": "Ermittler haben festgestellt, dass die Crew der gesunkenen Luxusjacht Bayesian nicht ausreichend über die sicherheitsrelevanten Risiken des Schiffes informiert war. Bei dem Unglück vor der Küste Siziliens kamen sieben Menschen ums Leben, darunter der britische Technologieunternehmer Mike Lynch.",
-          "bedeutung": "Der Fall wirft grundlegende Fragen zur Sicherheitskultur in der Luxusschifffahrt und zur Verantwortung von Reedereien gegenüber ihrer Besatzung auf.",
-          "hintergrund": "Die Bayesian sank im Sommer 2024 unter dramatischen Umständen während eines Sturms. Neben Mike Lynch, der wenige Wochen zuvor in einem spektakulären US-Strafprozess freigesprochen worden war, starben weitere hochrangige Gäste. Der Fall hatte weltweit Aufsehen erregt.\n\nDie nun veröffentlichten Ermittlungsergebnisse deuten darauf hin, dass strukturelle Mängel in der Ausbildung und Kommunikation an Bord eine entscheidende Rolle gespielt haben könnten. Die Untersuchungen laufen weiterhin, und juristische Konsequenzen für Verantwortliche gelten als wahrscheinlich.",
-          "tag": "Schiffsunglück",
-          "emoji": "⚓",
+          "titel": "Anthropic-Börsengang bewertet KI-Branche neu",
+          "zusammenfassung": "Anthropic hat seinen Börsengang vollzogen und ist damit das erste rein auf KI ausgerichtete Unternehmen, das öffentlich gehandelt wird. Die Marktkapitalisierung machte Anthropic schlagartig zu einem der wertvollsten Technologieunternehmen weltweit.",
+          "bedeutung": "Das Debüt gilt als Lackmustest für die Bewertung der gesamten KI-Branche und wird zeigen, ob Investoren bereit sind, langfristig auf KI-Rentabilität zu setzen.",
+          "hintergrund": "Mit einem IPO-Volumen von rund 81 Milliarden US-Dollar setzt Anthropic einen neuen Maßstab für Technologieemissionen. Gleichzeitig signalisiert der Schritt, dass die Branche in eine Phase der öffentlichen Rechenschaftspflicht eintritt, in der Quartalsergebnisse und Margenentwicklung unter genauer Beobachtung stehen werden.\n\nDer Zeitpunkt ist heikel: Erste Kursverluste nach dem Debüt deuten darauf hin, dass Marktskepsis über die tatsächliche Profitabilität von KI-Geschäftsmodellen zunimmt. Für Konkurrenten wie OpenAI oder xAI dürfte das Anthropic-Debüt ein wichtiger Referenzpunkt für eigene Börsenpläne sein.",
+          "tag": "KI-Börsengang",
+          "emoji": "🤖",
           "quelle": "BBC",
-          "quelle_url": "https://www.bbc.co.uk/news/articles/c6e9kn15z9d7o?at_medium=RSS&at_campaign=rss"
+          "quelle_url": "https://www.bbc.co.uk/news/articles/c3x29ggenz12o?at_medium=RSS&at_campaign=rss"
         },
         {
           "id": "wirtschaft-1",
-          "titel": "GTA 6 knackt zwei Milliarden Dollar Verkaufsmarke",
-          "zusammenfassung": "Das langerwartete Videospiel Grand Theft Auto 6 hat nach Branchenschätzungen bereits Umsätze von über zwei Milliarden Dollar erzielt. Der Titel gilt als der kommerziell erfolgreichste Entertainmentstart aller Zeiten.",
-          "bedeutung": "Der Rekord unterstreicht, dass die Videospielbranche klassische Medien wie Film und Musik als globale Unterhaltungsinstanz längst überholt hat.",
-          "hintergrund": "Rockstar Games ließ seine Fans 13 Jahre auf den Nachfolger von GTA 5 warten, einem der meistverkauften Spiele der Geschichte. Die Erwartungen waren enorm, und der Launch übertraf selbst optimistische Prognosen der Analysten.\n\nDie Zahlen haben Signalwirkung für die gesamte Kreativwirtschaft: Interaktive Unterhaltung zieht inzwischen mehr Kapital und Publikum an als Kinoblockbuster oder Streamingserien. Für Investoren und Entwickler bestätigt der Erfolg, dass Premium-Einzeltitel mit langen Produktionszyklen weiterhin eine tragfähige Strategie darstellen.",
-          "tag": "Gaming",
+          "titel": "GTA 6 bricht alle Verkaufsrekorde mit 3,8 Mrd. Dollar",
+          "zusammenfassung": "Das Videospiel GTA 6 erzielte an seinem Erscheinungstag einen weltweiten Umsatz von 3,8 Milliarden US-Dollar und übertraf damit jeden bisherigen Rekord in der Unterhaltungsbranche. Der Wert übertrifft sowohl alle Vorgänger-Spielstarts als auch Tageseinspielrekorde von Blockbuster-Filmen.",
+          "bedeutung": "Der Rekordstart unterstreicht, dass die Videospielbranche als Unterhaltungssektor inzwischen Hollywood und andere klassische Medien in der Umsatzkraft weit hinter sich lässt.",
+          "hintergrund": "GTA 6 war seit Jahren das mit Spannung erwartete Flaggschiff des Publishers Rockstar Games. Vorbestellungen in Rekordhöhe und ein globaler Marketing-Aufwand hatten die Erwartungen bereits ins Extreme getrieben.\n\nDie Zahlen dürften nun Druck auf Konkurrenten wie Sony, Microsoft und Nintendo erhöhen, ihre eigenen Releasing-Strategien zu überdenken. Auch für den Streaming-Markt sind die Daten relevant: Sie zeigen, dass interaktive Unterhaltung gegenüber passivem Konsum weiter an Marktanteilen gewinnt.",
+          "tag": "Gaming-Rekord",
           "emoji": "🎮",
           "quelle": "BBC",
           "quelle_url": "https://www.bbc.co.uk/news/articles/c9zr5nyv5dj2o?at_medium=RSS&at_campaign=rss"
         },
         {
           "id": "wirtschaft-2",
-          "titel": "McDonald's steht wegen Missbrauchsvorwürfen vor Gericht",
-          "zusammenfassung": "Ein britisches Gericht hat entschieden, dass eine Sammelklage wegen sexuellen Missbrauchs gegen McDonald's verhandelt werden darf. Ehemalige Mitarbeiterinnen werfen dem Konzern vor, junge Angestellte systematisch unzureichend geschützt zu haben.",
-          "bedeutung": "Das Verfahren könnte weitreichende Konsequenzen für den Umgang globaler Konzerne mit dem Schutz junger und vulnerabler Beschäftigter haben.",
-          "hintergrund": "Bereits seit mehreren Jahren häufen sich Berichte über Missbrauchsfälle in McDonald's-Filialen, vor allem in Großbritannien. Betroffene schildern, dass Täter gezielt auf das Volljährigwerden jüngerer Kolleginnen gewartet haben sollen, um sie außerhalb gesetzlicher Schutzrahmen zu belästigen.\n\nDer Fall steht symbolisch für eine breitere Debatte über Machtmissbrauch im Niedriglohnsektor, wo junge Arbeitnehmerinnen und Arbeitnehmer besonders exponiert sind. Verbraucherschützer fordern nun verbindliche Konzernstandards für den Schutz minderjähriger Mitarbeiter weltweit.",
-          "tag": "Arbeitsrecht",
-          "emoji": "⚠️",
+          "titel": "Kartellbehörden nehmen Nvidia wegen China-Chips ins Visier",
+          "zusammenfassung": "Kalifornische Behörden haben eine Untersuchung gegen Nvidia eingeleitet, die sich auf die Lieferung von KI-Chips nach China konzentriert. Der Schritt folgt auf den Abgang von Firmengründer und langjährigem CEO Jensen Huang.",
+          "bedeutung": "Eine Verurteilung oder erzwungene Beschränkung könnte Nvidias Marktstellung als weltweiter Leitanbieter von KI-Chips erheblich schwächen und globale Lieferketten neu ordnen.",
+          "hintergrund": "Nvidia befindet sich in einer Doppelzange: Einerseits setzt Washington den Konzern unter Druck, keine fortgeschrittenen Chips an chinesische Abnehmer zu liefern; andererseits ist der chinesische Markt für Nvidia nach wie vor eine bedeutende Einnahmequelle.\n\nDie Ermittlungen fallen in eine Phase interner Neuaufstellung des Unternehmens nach Huangs Rückzug. Analysten sehen in der Kombination aus Führungswechsel und regulatorischem Druck ein erhebliches Risiko für Nvidias Aktie, die bereits unter dem breiteren KI-Selloff leidet.",
+          "tag": "Nvidia-Regulierung",
+          "emoji": "⚡",
           "quelle": "BBC",
-          "quelle_url": "https://www.bbc.co.uk/news/articles/c6x2eve321jno?at_medium=RSS&at_campaign=rss"
+          "quelle_url": "https://www.bbc.co.uk/news/articles/cqn70vxp5p4no?at_medium=RSS&at_campaign=rss"
         }
       ]
     },
@@ -89,36 +89,36 @@
       "stories": [
         {
           "id": "boerse-0",
-          "titel": "Fed-Protokoll: Weitere Zinserhöhungen werden erwartet",
-          "zusammenfassung": "Die veröffentlichten Protokolle der Oktober-Sitzung der US-Notenbank Federal Reserve zeigen, dass eine Mehrheit der Mitglieder weitere Zinsschritte nach oben für notwendig hält. Zugleich äußerten Mitglieder Bedenken, dass der KI-Boom die Inflation zusätzlich anheizen könnte.",
-          "bedeutung": "Die Haltung der Fed beeinflusst direkt die globalen Kapitalströme, Anleihemärkte und die Kreditkosten für Unternehmen und Verbraucher weltweit.",
-          "hintergrund": "Trotz einer Leitzinsspanne von 3,75 bis 4 Prozent sehen viele Fed-Mitglieder die Inflation noch nicht ausreichend unter Kontrolle. Besonders die Sorge, dass Investitionen in Künstliche Intelligenz durch steigende Nachfrage und Energiekosten zusätzlichen Preisdruck erzeugen, gewinnt an Gewicht.\n\nDie Protokolle signalisieren, dass die Hoffnung auf baldige Zinssenkungen verfrüht sein dürfte. Anleger an den Anleihemärkten hatten zuletzt auf eine geldpolitische Lockerung gesetzt – diese Erwartungen dürften nun korrigiert werden.",
-          "tag": "Geldpolitik",
-          "emoji": "📈",
+          "titel": "Smarter Money steigt aus: Bullenmarkt in Gefahr",
+          "zusammenfassung": "Institutionelle Investoren und Unternehmen verlagern sich von Aktienrückkäufen hin zur Ausgabe neuer Aktien, was das Angebot am Markt spürbar erhöht. Anthropics milliardenschwerer Börsengang verschärft diesen Nachfrage-Angebots-Druck zusätzlich.",
+          "bedeutung": "Wenn die sogenannten Smart-Money-Akteure systematisch verkaufen und gleichzeitig neues Angebot in den Markt strömt, gerät das Fundament des laufenden Bullenmarkts ins Wanken.",
+          "hintergrund": "Aktienrückkäufe galten in den vergangenen Jahren als einer der wichtigsten Stützpfeiler für steigende Kurse. Der Schwenk vieler Konzerne zur Aktienemission deutet darauf hin, dass das Vertrauen in hohe Bewertungen schwindet und Firmen die aktuelle Preislage zum Verkauf nutzen.\n\nDie Entwicklung trifft auf einen Markt, der durch den KI-Hype strukturell überbewertet erscheint. Sollte Anthropics IPO die verfügbare Nachfrage weiter absorbieren, könnten Kurskorrekturen breiter und tiefer ausfallen als bislang erwartet.",
+          "tag": "Bullenmarkt-Risiko",
+          "emoji": "📉",
           "quelle": "CNBC",
-          "quelle_url": "https://www.cnbc.com/2026/11/18/fed-minutes-october-2026.html"
+          "quelle_url": "https://www.cnbc.com/2026/11/20/equity-issuance-bull-market-problem.html"
         },
         {
           "id": "boerse-1",
-          "titel": "Fed-Gouverneur droht mit aggressivem Zinsschritt",
-          "zusammenfassung": "Fed-Gouverneur Christopher Waller hat öffentlich in Erwägung gezogen, die Märkte mit einer außergewöhnlich starken Zinserhöhung um einen halben Prozentpunkt zu überraschen. Anhaltend hohe Inflationswerte seien der Auslöser für diese Überlegungen.",
-          "bedeutung": "Schon die Andeutung eines solchen Schrittes kann Aktien- und Anleihemärkte global erschüttern und die Finanzierungskosten für Staaten und Unternehmen spürbar verteuern.",
-          "hintergrund": "Wallers Aussage ist ungewöhnlich offen für einen amtierenden Notenbankvertreter und wird von Analysten als bewusstes Signal an die Märkte gewertet. Die Fed versucht damit offenbar, die Inflationserwartungen zu dämpfen, bevor es zu einer tatsächlichen Entscheidung kommt.\n\nDer potenzielle Schritt würde die ohnehin angespannten Bedingungen an den Kreditmärkten weiter verschärfen. Besonders Schwellenländer, die Schulden in US-Dollar halten, wären bei einem steigenden Dollar von einem solchen Schritt hart getroffen.",
-          "tag": "Zinspolitik",
-          "emoji": "🏦",
-          "quelle": "CNBC",
-          "quelle_url": "https://www.cnbc.com/2026/11/18/federal-reserve-governor-christopher-waller.html"
-        },
-        {
-          "id": "boerse-2",
-          "titel": "Japans Kerninflation erreicht Jahreshöchststand",
-          "zusammenfassung": "Die japanische Kerninflation ist auf den höchsten Wert des laufenden Jahres gestiegen, nachdem staatliche Energiesubventionen ausgelaufen sind. Der Anstieg fiel gleichzeitig etwas geringer aus als von Ökonomen erwartet.",
-          "bedeutung": "Die Inflationsentwicklung in Japan ist entscheidend dafür, ob die Bank of Japan ihren ultralockeren geldpolitischen Kurs weiter anpassen und die globalen Anleihemärkte damit erneut in Bewegung setzen wird.",
-          "hintergrund": "Japan hatte lange Zeit mit Deflation zu kämpfen und gilt als Sonderfall unter den großen Volkswirtschaften. Das Ende der Energiesubventionen hat nun die Verbraucherpreise merklich angetrieben und erhöht den Druck auf die Zentralbank, über eine weitere Normalisierung der Zinspolitik nachzudenken.\n\nFür internationale Investoren ist Japan bedeutsam, weil japanische Institutionen zu den größten Haltern ausländischer Anleihen weltweit zählen. Eine geldpolitische Straffung in Tokio könnte Kapitalabflüsse aus anderen Märkten auslösen und globale Renditen beeinflussen.",
-          "tag": "Inflation Japan",
+          "titel": "Japans Kerninflation springt auf Jahreshoch",
+          "zusammenfassung": "Die japanische Kerninflation hat den höchsten Stand des laufenden Jahres erreicht, nachdem staatliche Energiesubventionen ausgelaufen sind. Der Anstieg fiel dennoch etwas moderater aus als von Ökonomen prognostiziert.",
+          "bedeutung": "Steigende Inflation in Japan erhöht den Druck auf die Bank of Japan, ihre ultralockere Geldpolitik weiter zu straffen, was globale Kapitalflüsse und Anleihemärkte beeinflussen kann.",
+          "hintergrund": "Japan hat lange als Ausnahme unter den großen Industrienationen gegolten, die sich mit hartnäckiger Inflation konfrontiert sehen. Der Wegfall der Energiesubventionen macht nun sichtbar, in welchem Maß die Teuerung durch staatliche Eingriffe künstlich gedämpft worden war.\n\nFür die Bank of Japan ergibt sich daraus ein Dilemma: Eine Zinserhöhung könnte den Yen stärken und Exporteure belasten, während Untätigkeit die Inflationserwartungen weiter anheizt. Internationale Investoren beobachten die Lage genau, da japanische Kapitalumschichtungen erfahrungsgemäß globale Auswirkungen haben.",
+          "tag": "Japan-Inflation",
           "emoji": "🇯🇵",
           "quelle": "CNBC",
           "quelle_url": "https://www.cnbc.com/2026/11/20/japan-inflation-cpi-october.html"
+        },
+        {
+          "id": "boerse-2",
+          "titel": "APEC-Gipfel: Handelsstreit USA-China bleibt ungelöst",
+          "zusammenfassung": "Beim APEC-Treffen in Shenzhen kamen die USA und China trotz hochrangiger Begegnungen zu keinen konkreten Ergebnissen in den Bereichen Handel, Taiwan und Technologiestreit. Analysten bewerten die Gespräche als weitgehend ergebnislos.",
+          "bedeutung": "Anhaltende Unklarheit im sino-amerikanischen Verhältnis belastet Lieferketten, Investitionsentscheidungen und Markterwartungen weltweit.",
+          "hintergrund": "Die Begegnungen am Rande des APEC-Gipfels in Shenzhen hatten hohe Erwartungen geweckt, insbesondere nach dem separaten Treffen von Trump mit Xi Jinping. Doch substanzielle Fortschritte bei Zöllen, Technologieexportkontrollen oder dem Taiwankonflikt blieben aus.\n\nFür die Finanzmärkte bedeutet das fortgesetzte Unsicherheit. Besonders der Halbleitersektor reagiert sensibel auf jede Nachricht aus Washington und Peking. Solange kein stabiler Rahmen für den Technologiehandel existiert, dürften Volatilität und Risikoaufschläge erhöht bleiben.",
+          "tag": "US-China-Handel",
+          "emoji": "🌏",
+          "quelle": "CNBC",
+          "quelle_url": "https://www.cnbc.com/2026/11/20/apec-summit-trump-xi-china-trade-taiwan.html"
         }
       ]
     }
