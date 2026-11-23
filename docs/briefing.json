@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-22T03:17:34.875741+00:00",
-  "datum": "Sonntag, 22. November 2026",
+  "generated_at": "2026-11-23T03:46:59.212399+00:00",
+  "datum": "Montag, 23. November 2026",
   "ressorts": [
     {
       "id": "politik",
@@ -9,36 +9,36 @@
       "stories": [
         {
           "id": "politik-0",
-          "titel": "COP31-Klimagipfel steckt in Fossilenergie-Sackgasse",
-          "zusammenfassung": "Fast 200 Staaten ringen auf der Weltklimakonferenz COP31 um ein neues globales Klimaabkommen, doch ein Streit über die Zukunft fossiler Brennstoffe blockiert die Verhandlungen. Eine Einigung ist derzeit nicht in Sicht.",
-          "bedeutung": "Der Ausgang der COP31 entscheidet maßgeblich darüber, ob die Welt die Klimaziele des Pariser Abkommens noch einhalten kann.",
-          "hintergrund": "Öl- und gasexportierende Staaten widersetzen sich erneut verbindlichen Formulierungen zum Ausstieg aus fossilen Energieträgern, während kleine Inselstaaten und vulnerable Länder auf schärfere Maßnahmen drängen. Der Riss verläuft einmal mehr entlang wirtschaftlicher Interessen und historischer Emissionsverantwortung.\n\nNach dem mühsam errungenen Kompromiss von COP28 in Dubai, der erstmals explizit auf eine Abkehr von fossilen Brennstoffen verwies, droht der Fortschritt nun wieder eingefroren zu werden. Klimaschützer warnen, jedes weitere verlorene Jahr erhöhe die Kosten für Anpassung und Schäden weltweit dramatisch.",
-          "tag": "Klimapolitik",
+          "titel": "COP31 scheitert – Klimagipfel ohne Einigung",
+          "zusammenfassung": "Die UN-Klimakonferenz COP31 ist ohne ein bedeutendes Abschlussabkommen zu Ende gegangen. Tiefe Gräben zwischen den Teilnehmerstaaten, insbesondere über die Rolle fossiler Brennstoffe, machten eine Einigung unmöglich.",
+          "bedeutung": "Das Scheitern des Gipfels schwächt den internationalen Klimaschutzrahmen erheblich und stellt die Zukunft der UN-Klimadiplomatie in Frage.",
+          "hintergrund": "Die Verhandlungen auf der COP31 zogen sich so lange hin wie bei keiner anderen Klimakonferenz zuvor – sie dauerten noch zwei Tage über den offiziellen Schlusstermin an, ohne dass am Ende ein tragfähiger Kompromiss stand. Besonders der Streit darüber, ob fossile Brennstoffe im Abschlusstexte überhaupt erwähnt werden sollten, spaltete die Delegierten.\n\nDas Ergebnis wirft grundlegende Fragen auf: Ist das multilaterale Format der Klimagipfel noch in der Lage, verbindliche Fortschritte zu erzielen? Viele Beobachter fordern nun alternative Wege, etwa kleinere Koalitionen führender Staaten, um die Klimaziele des Pariser Abkommens doch noch zu retten.",
+          "tag": "Klimadiplomatie",
           "emoji": "🌍",
           "quelle": "BBC",
-          "quelle_url": "https://www.bbc.co.uk/news/articles/c6ly5w40eg07o?at_medium=RSS&at_campaign=rss"
+          "quelle_url": "https://www.bbc.co.uk/news/articles/cqwy06zrd26lo?at_medium=RSS&at_campaign=rss"
         },
         {
           "id": "politik-1",
-          "titel": "Selenskyj: Krim-Brücken-Angriff war angemessene Vergeltung",
-          "zusammenfassung": "Der ukrainische Präsident verteidigte den ukrainischen Angriff auf die Krimbrücke als direkte Reaktion auf 109 russische Luftangriffe auf ukrainische Brücken. Bei einem Treffen mit dem britischen Gesundheitsminister Streeting betonte er Kyiws Entschlossenheit.",
-          "bedeutung": "Die Eskalation an neuralgischen Infrastrukturpunkten zeigt, dass beide Seiten den Krieg trotz internationaler Vermittlungsbemühungen weiter intensivieren.",
-          "hintergrund": "Die Krimbrücke gilt als militärisch und symbolisch bedeutsamstes Bauwerk Russlands im Schwarzmeerraum und war bereits Ziel früherer ukrainischer Angriffe. Ihre sukzessive Beschädigung schwächt die russische Nachschublogistik auf der annektierten Halbinsel erheblich.\n\nSelenskyjs Aussagen unterstreichen die ukrainische Strategie, asymmetrischen Druck auf russische Verbindungslinien aufrechtzuerhalten. Gleichzeitig mehren sich westliche Debatten darüber, wie weit Kyiw bei Angriffen auf russisches oder besetztes Territorium unterstützt werden soll.",
+          "titel": "Siebenjähriger aus Trümmern nach Raketenangriff gerettet",
+          "zusammenfassung": "Nach einem russischen Raketenangriff auf ein Wohngebäude in der Ukraine wurde ein sieben Jahre altes Kind stundenlang nach dem Einschlag lebend aus den Trümmern befreit. Neun Menschen kamen bei dem Angriff ums Leben, die Suche nach weiteren Vermissten dauerte an.",
+          "bedeutung": "Der Angriff auf zivile Wohninfrastruktur unterstreicht die anhaltende humanitäre Dimension des Krieges in der Ukraine und hält das internationale Mitgefühl wach.",
+          "hintergrund": "Russische Streitkräfte haben erneut ein Wohngebäude in der Ukraine getroffen und damit zivile Opfer verursacht. Rettungskräfte arbeiteten stundenlang in den Trümmern, um Überlebende zu bergen – mit Erfolg im Fall des Kindes, das unverletzt geborgen werden konnte.\n\nSolche Angriffe auf Wohngebiete werden von der Ukraine und westlichen Regierungen regelmäßig als Kriegsverbrechen eingestuft. Internationale Organisationen fordern angesichts der anhaltenden Schläge gegen die Zivilbevölkerung verstärkte humanitäre Hilfe für die betroffenen Gebiete.",
           "tag": "Ukraine-Krieg",
-          "emoji": "🇺🇦",
+          "emoji": "🚨",
           "quelle": "BBC",
-          "quelle_url": "https://www.bbc.co.uk/news/articles/c6wy0qj7w5zqo?at_medium=RSS&at_campaign=rss"
+          "quelle_url": "https://www.bbc.co.uk/news/articles/cqdr15l32d3go?at_medium=RSS&at_campaign=rss"
         },
         {
           "id": "politik-2",
-          "titel": "Dänemark: Russland plante Mord an ukrainisch-amerikanischem Rapper",
-          "zusammenfassung": "Die dänischen Behörden werfen Russland vor, ein Attentat auf einen US-ukrainischen Rapper geplant zu haben, und haben daraufhin den russischen Verteidigungsattaché ausgewiesen. Moskau bestreitet die Anschuldigungen.",
-          "bedeutung": "Der Fall reiht sich in eine Serie westlicher Vorwürfe russischer Einschüchterungs- und Mordkomplotte auf europäischem Boden ein und belastet die ohnehin angespannten diplomatischen Beziehungen weiter.",
-          "hintergrund": "Westliche Geheimdienste verfolgen seit Jahren mutmaßliche russische Operationen gegen Dissidenten, Kriegsgegner und kremlkritische Personen in Europa. Ausweisung von Diplomaten ist dabei ein gängiges Mittel, um Missbilligung zu signalisieren, ohne eine direkte militärische Konfrontation zu riskieren.\n\nDer Vorfall dürfte die Forderungen nach schärferen Schutzmaßnahmen für gefährdete Personen mit Bezug zur Ukraine in EU- und NATO-Staaten verstärken und könnte weitere Ausweisungsrunden in anderen Hauptstädten nach sich ziehen.",
-          "tag": "Russland-Spionage",
-          "emoji": "🕵️",
+          "titel": "Ukrainische Drohne trifft russisches Schiff im Finnischen Meerbusen",
+          "zusammenfassung": "Ein auf Russland zufahrendes Schiff wurde im Finnischen Meerbusen durch einen Drohnenangriff beschädigt und musste abgeschleppt werden. Finnische Verteidigungskräfte gehen davon aus, dass die Ukraine hinter dem Angriff steckt, Kiew äußerte sich zunächst nicht.",
+          "bedeutung": "Der Vorfall weitet den maritimen Konflikt zwischen der Ukraine und Russland auf die sensible Ostseeregion aus und berührt damit direkt das Sicherheitsumfeld der NATO-Anrainerstaaten.",
+          "hintergrund": "Der Angriff ereignete sich im Finnischen Meerbusen, einem Meeresabschnitt, der von mehreren NATO-Staaten umgeben ist und für den Schiffsverkehr zwischen Russland und Europa von strategischer Bedeutung ist. Bereits zuvor hatten mutmaßliche ukrainische Drohnen russische Schiffe in der Ostseeregion ins Visier genommen.\n\nFinnland, das erst 2023 der NATO beigetreten ist, beobachtet die Entwicklung in seinen Gewässern mit wachsender Aufmerksamkeit. Der Vorfall verdeutlicht, wie sehr sich der Krieg inzwischen auch auf Seewege und internationale Schifffahrtskorridore im Norden Europas auswirkt.",
+          "tag": "Ostsee-Konflikt",
+          "emoji": "🚢",
           "quelle": "BBC",
-          "quelle_url": "https://www.bbc.co.uk/news/articles/cmde1lj4yjxno?at_medium=RSS&at_campaign=rss"
+          "quelle_url": "https://www.bbc.co.uk/news/articles/cj752ddve27ko?at_medium=RSS&at_campaign=rss"
         }
       ]
     },
@@ -49,36 +49,36 @@
       "stories": [
         {
           "id": "wirtschaft-0",
-          "titel": "GTA 6 bricht Rekorde: 3,8 Milliarden Dollar am Starttag",
-          "zusammenfassung": "Das lang erwartete Videospiel Grand Theft Auto 6 erzielte am ersten Verkaufstag einen Umsatz von 3,8 Milliarden US-Dollar und übertraf damit jeden bisherigen Launch in der gesamten Unterhaltungsbranche. Kein Film und kein früheres Spiel hatte je zuvor einen vergleichbaren Einzeltages-Erlös erreicht.",
-          "bedeutung": "Der Rekord verdeutlicht, dass interaktive Unterhaltung wirtschaftlich längst die traditionellen Medienmärkte überholt hat und Milliarden-IPOs in der Gaming-Branche neu bewertet werden müssen.",
-          "hintergrund": "Rockstar Games und Mutterkonzern Take-Two Interactive hatten den Titel nach jahrelanger Entwicklung mit einem beispiellosen Marketing-Aufwand lanciert. Vorabbestellungen übertrafen alle Vorgängermarken, und digitale Plattformen meldeten zeitweise Server-Engpässe durch den Ansturm.\n\nDie Zahlen setzen die gesamte Unterhaltungsindustrie unter Druck: Filmstudios, Streamingdienste und Musikkonzerne konkurrieren zunehmend um dasselbe Freizeitbudget der Konsumenten – und Gaming gewinnt diesen Kampf immer deutlicher.",
-          "tag": "Gaming-Wirtschaft",
-          "emoji": "🎮",
-          "quelle": "BBC",
-          "quelle_url": "https://www.bbc.co.uk/news/articles/c9zr5nyv5dj2o?at_medium=RSS&at_campaign=rss"
+          "titel": "KI-Boom auf Pump: CoreWeave als Warnsignal",
+          "zusammenfassung": "Der schuldenfinanzierte Cloud-Computing-Konzern CoreWeave gilt Kritikern als Symbol für die riskante Geschäftslogik des KI-Infrastrukturbooms. Milliarden werden in Rechenzentren investiert, während der wirtschaftliche Rückfluss noch weitgehend ungewiss ist.",
+          "bedeutung": "Das Modell schuldengefinanzierter Datenzentren könnte bei einer Marktabkühlung zu einer systemischen Belastung für den gesamten Technologiesektor werden.",
+          "hintergrund": "CoreWeave hat massiv in die für KI-Anwendungen benötigte Recheninfrastruktur investiert und dabei erhebliche Schulden aufgehäuft. Das Unternehmen steht exemplarisch für eine Branche, die auf kontinuierlich wachsende Nachfrage nach KI-Rechenkapazitäten setzt – eine Wette, die nicht ohne Risiko ist.\n\nKritiker sprechen bereits von einer KI-Blase: Wenn Nachfrage und Investitionsvolumen auseinanderdriften, drohen Abschreibungen in enormem Ausmaß. Der Fall zeigt, wie eng die euphorische Stimmung rund um künstliche Intelligenz mit klassischen Finanzierungsrisiken verknüpft ist.",
+          "tag": "KI-Blase",
+          "emoji": "💸",
+          "quelle": "The Guardian",
+          "quelle_url": "https://www.theguardian.com/business/2026/nov/21/debt-laden-cloud-computing-company-coreweave-ai-boom"
         },
         {
           "id": "wirtschaft-1",
-          "titel": "Lebenshaltungskosten-Proteste erfassen ganz Europa",
-          "zusammenfassung": "Studentisch geprägte Demonstrationen haben sich in zahlreichen europäischen Ländern ausgebreitet, getrieben von Unmut über steigende Lebenshaltungskosten, Wohnungsnot und unterfinanzierte Bildungssysteme. Die Proteste zeigen, wie breit die soziale Unzufriedenheit mittlerweile ist.",
-          "bedeutung": "Wenn junge Generationen koordiniert auf die Straße gehen, entsteht politischer Druck auf Regierungen, die zwischen Sparpolitik und sozialen Investitionen abwägen müssen.",
-          "hintergrund": "Hintergrund ist eine anhaltende Kaufkrafterosion, die trotz rückläufiger Inflationsraten besonders Haushalte mit niedrigem und mittlerem Einkommen belastet. Mieten in europäischen Metropolen haben sich in vielen Fällen in einem Jahrzehnt fast verdoppelt, während Löhne und Stipendien kaum mitgehalten haben.\n\nDie Bewegung erinnert in ihrer Dynamik an frühere europaweite Protestwellen, etwa die Gelbwesten in Frankreich oder die Klimastreiks. Politische Beobachter warnen, dass Regierungen ohne glaubwürdige Antworten auf die Wohnungsfrage riskieren, populistischen Bewegungen weiteren Zulauf zu verschaffen.",
-          "tag": "Sozialproteste",
-          "emoji": "✊",
-          "quelle": "BBC",
-          "quelle_url": "https://www.bbc.co.uk/news/videos/c62l5jweqr4ko?at_medium=RSS&at_campaign=rss"
+          "titel": "Häufigere Systemausfälle: Hacks, KI und Verschwörungstheorien",
+          "zusammenfassung": "Wiederholte großflächige IT-Ausfälle bei Fluggesellschaften, Banken und Technologiekonzernen verunsichern Verbraucher und Unternehmen weltweit. Die Häufung der Vorfälle nährt Verschwörungstheorien und Sorgen über die Anfälligkeit kritischer digitaler Infrastruktur.",
+          "bedeutung": "Die zunehmende Abhängigkeit moderner Gesellschaften von vernetzten IT-Systemen macht selbst kurze Ausfälle zu wirtschaftlich und gesellschaftlich folgenreichen Ereignissen.",
+          "hintergrund": "Ob Flugchaos durch Softwarefehler, Bankensysteme, die kollabieren, oder Plattformausfälle bei globalen Technologiekonzernen – die Schlagzahl solcher Ereignisse hat zuletzt merklich zugenommen. Experten diskutieren, ob dahinter strukturelle Schwachstellen in der IT-Architektur stecken oder ob Cyberangriffe eine wachsende Rolle spielen.\n\nParallel dazu entstehen neue Wirtschaftszweige, die von der Angst vor Systemausfällen profitieren – von Notfallgeneratoren bis zu Offline-Datenspeicherlösungen. Die Debatte über die Resilienz digitaler Infrastruktur ist längst in der Wirtschaftspolitik angekommen.",
+          "tag": "Cyberresilienz",
+          "emoji": "⚡",
+          "quelle": "The Guardian",
+          "quelle_url": "https://www.theguardian.com/technology/2026/nov/22/hacks-ai-internet-outages-airlines-banks-microsoft-apple"
         },
         {
           "id": "wirtschaft-2",
-          "titel": "UK und EU wollen Beziehungen nach neuem Deal vertiefen",
-          "zusammenfassung": "Nach dem am Freitag vereinbarten Abkommen zwischen Großbritannien und der Europäischen Union, das britische Lebensmittelexporte, den Emissionshandel und ein Jugendaustauschprogramm umfasst, signalisieren britische Politiker den Wunsch nach noch engerer Zusammenarbeit. Der Deal gilt als bisher weitreichendster seit dem Brexit.",
-          "bedeutung": "Eine schrittweise Annäherung zwischen London und Brüssel könnte langfristig Lieferketten stabilisieren, Handelsbarrieren abbauen und als Blaupause für weitere Kooperationsfelder dienen.",
-          "hintergrund": "Seit dem Brexit 2020 hatte das Verhältnis zwischen dem Vereinigten Königreich und der EU vor allem in Fragen von Warenhandel, Fischerei und Nordirland gelitten. Das neue Abkommen signalisiert eine pragmatische Neuausrichtung beider Seiten, die wirtschaftliche Realitäten über politische Symbole stellt.\n\nAllerdings warnen Ökonomen davor, die kurzfristigen Auswirkungen zu überschätzen: Strukturelle Hürden wie gegenseitige Anerkennung von Berufsqualifikationen oder voller Binnenmarktzugang bleiben weiterhin ungeklärt.",
-          "tag": "Brexit-Annäherung",
-          "emoji": "🤝",
-          "quelle": "BBC",
-          "quelle_url": "https://www.bbc.co.uk/news/articles/c6jreyqgw4e9o?at_medium=RSS&at_campaign=rss"
+          "titel": "Trumps Bewegung bekommt Risse – Konservative Medien uneins",
+          "zusammenfassung": "Zwei Wochen nach dem Wahlsieg der Demokraten im US-Kongress ringen konservative Medienformate mit ihrer künftigen Ausrichtung. Einige erwägen eine Distanzierung von Trump und der MAGA-Bewegung, andere setzen auf Kontinuität.",
+          "bedeutung": "Wie sich konservative Leitmedien positionieren, wird maßgeblich beeinflussen, wie die republikanische Partei ihre Niederlage verarbeitet und sich für die nächsten Wahlen neu aufstellt.",
+          "hintergrund": "Der Stimmungsumschwung in den USA nach dem demokratischen Erfolg bei den Kongresswahlen Anfang November hat eine Debatte innerhalb des konservativen Mediensystems ausgelöst. Einige Kommentatoren sehen in der Niederlage ein Signal, dass die MAGA-Strategie an ihre Grenzen gestoßen ist.\n\nAndere hingegen verweisen auf strukturelle Stärken der Bewegung und warnen vor einer voreiligen Distanzierung. Die Diskussion spiegelt einen breiteren Machtkampf innerhalb der amerikanischen Rechten wider, dessen Ausgang die politische Landschaft der USA in den kommenden Jahren prägen dürfte.",
+          "tag": "US-Politik",
+          "emoji": "🇺🇸",
+          "quelle": "The Guardian",
+          "quelle_url": "https://www.theguardian.com/us-news/2026/nov/22/conservative-media-trump-midterm-elections-results"
         }
       ]
     },
@@ -89,36 +89,36 @@
       "stories": [
         {
           "id": "boerse-0",
-          "titel": "Bullenmarkt in Gefahr: Institutionelle Investoren verkaufen",
-          "zusammenfassung": "Großunternehmen verlagern sich von Aktienrückkäufen hin zur Ausgabe neuer Aktien, was das Angebot am Markt erhöht und Kursdruck erzeugt. Der bevorstehende Börsengang von KI-Unternehmen Anthropic mit einer Bewertung von 81 Milliarden Dollar wird zum Stresstest für die Nachfrage.",
-          "bedeutung": "Wenn das sogenannte Smart Money netto verkauft, ist das ein klassisches Warnsignal für eine mögliche Trendwende nach einer langen Hausse.",
-          "hintergrund": "Aktienrückkäufe galten in den vergangenen Jahren als einer der wesentlichen Treiber steigender Kurse, insbesondere im S&P 500. Dreht sich dieser Mechanismus um, fehlt dem Markt ein bedeutender struktureller Kaufimpuls – und steigende Neuemissionen konkurrieren um dasselbe Kapital.\n\nDer Anthropic-IPO gilt als Lackmustest: Gelingt die Platzierung zum angestrebten Preis, wäre das ein Signal anhaltenden Vertrauens in KI-Wachstumsstorys. Scheitert sie oder kommt es zu Abschlägen, könnte das eine breitere Neubewertung des Tech-Sektors auslösen.",
-          "tag": "Aktienmarkt",
+          "titel": "Systemausfälle befeuern neue Doomsday-Ökonomie",
+          "zusammenfassung": "Wiederholte Technologieausfälle und Sorgen vor KI-gestützten Cyberangriffen auf kritische Infrastruktur treiben eine wachsende Nachfrage nach Krisenvorsorge-Produkten und -Dienstleistungen. Eine neue Marktnische entsteht rund um Resilienz und Notfallabsicherung.",
+          "bedeutung": "Anleger und Unternehmen beginnen, das Ausfallrisiko digitaler Infrastruktur als eigenständigen Investmentfaktor zu begreifen, was neue Marktsegmente und Bewertungsfragen aufwirft.",
+          "hintergrund": "Von Notstromaggregaten über physische Datenspeicher bis hin zu spezialisierten Cybersicherheitslösungen: Die sogenannte Doomsday-Ökonomie wächst, getrieben von realen Vorfällen und medialer Verstärkung. Investoren beobachten den Sektor mit zunehmendem Interesse.\n\nGleichzeitig warnen Analysten vor Übertreibungen: Nicht jeder Systemausfall ist auf einen koordinierten Angriff zurückzuführen. Die Herausforderung für Märkte besteht darin, zwischen echten strukturellen Risiken und kurzfristiger Panikstimmung zu unterscheiden.",
+          "tag": "Krisenökonomie",
           "emoji": "📉",
           "quelle": "CNBC",
-          "quelle_url": "https://www.cnbc.com/2026/11/20/equity-issuance-bull-market-problem.html"
+          "quelle_url": "https://www.cnbc.com/2026/11/21/emergency-prep-spending-tech-outages.html"
         },
         {
           "id": "boerse-1",
-          "titel": "KI-Ausverkauf trübt Börsenprognosemärkte für 2026",
-          "zusammenfassung": "Auf der Vorhersageplattform Kalshi sind die Chancen, dass der S&P 500 die Marke von 8.000 Punkten übersteigt, von ehemals über 70 Prozent auf ein sehr niedriges Niveau gefallen. Hintergrund ist ein anhaltender Ausverkauf bei KI-Aktien.",
-          "bedeutung": "Prognosemärkte gelten als aggregiertes Marktwissen und liefern ein Echtzeitsignal dafür, wie professionelle Marktteilnehmer die Wirtschaftsaussichten bewerten.",
-          "hintergrund": "Die Euphorie rund um künstliche Intelligenz hatte den US-Aktienmarkt über weite Strecken des Jahres 2025 und frühen 2026 auf Rekordstände getrieben. Nun setzt eine Ernüchterung ein, da Bewertungen hinterfragt werden und erste Unternehmen hinter den hochgesteckten Gewinnerwartungen zurückbleiben.\n\nAnalystInnen sehen darin eine klassische Korrektur nach einer spekulativ überhitzten Rally, nicht notwendigerweise ein strukturelles Ende des Bullenmarkts. Entscheidend wird sein, ob die kommenden Quartalsergebnisse der großen KI-Profiteure die Erwartungen stabilisieren können.",
-          "tag": "KI-Börse",
+          "titel": "KI-Roboter-Startup streicht Mitarbeiter-Krankenversicherung",
+          "zusammenfassung": "Ein von Eric Trump unterstütztes Robotik-Startup hat seinen Beschäftigten die Krankenversicherung gestrichen, da dem Unternehmen das Geld ausgeht. Das Unternehmen wartet auf eine Kapitalzufuhr von 150 Millionen Dollar aus Südkorea und verhandelt parallel mit Risikokapitalgebern.",
+          "bedeutung": "Der Fall zeigt exemplarisch die Liquiditätsprobleme, mit denen viele hochbewertete KI- und Robotik-Startups konfrontiert sind, wenn Finanzierungsrunden sich verzögern.",
+          "hintergrund": "Foundation, das betroffene Unternehmen, befindet sich in einer klassischen Cash-Crunch-Situation: Die zugesagten Mittel aus Südkorea sind noch nicht eingegangen, und laufende Betriebskosten – darunter Sozialleistungen für Mitarbeiter – können nicht mehr gedeckt werden. Notfallkredite sollen die Lücke überbrücken.\n\nDer Vorgang illustriert ein wachsendes Spannungsfeld im Technologiesektor: Hohe Bewertungen und ehrgeizige Investitionszusagen treffen auf die harte Realität von Kapitalabruf-Verzögerungen. Für Beschäftigte in der Branche bedeutet das ein wachsendes Risiko, das über bloße Jobsicherheit hinausgeht.",
+          "tag": "Startup-Krise",
           "emoji": "🤖",
           "quelle": "CNBC",
-          "quelle_url": "https://www.cnbc.com/2026/11/20/sp-500-8000-kalshi-odds-ai-selloff.html"
+          "quelle_url": "https://www.cnbc.com/2026/11/22/foundation-future-industries-health-benefits-payroll-base-group.html"
         },
         {
           "id": "boerse-2",
-          "titel": "APEC in Shenzhen: US-China-Spannungen bleiben ungelöst",
-          "zusammenfassung": "Trotz hochrangiger Treffen am Rande des APEC-Gipfels in Shenzhen blieben konkrete Ergebnisse im Handelsstreit zwischen den USA und China, in der Taiwan-Frage und bei Technologiekonflikten aus. Analysten zeigten sich enttäuscht über den Mangel an greifbaren Vereinbarungen.",
-          "bedeutung": "Anhaltende Unsicherheit im weltgrößten bilateralen Handelsverhältnis belastet globale Lieferketten und hält Investoren in exportabhängigen Sektoren in Alarmbereitschaft.",
-          "hintergrund": "US-Präsident Trump war nach Asien gereist mit dem erklärten Ziel, in zentralen Wirtschafts- und Sicherheitsfragen Fortschritte zu erzielen. Doch die strukturellen Differenzen – von Halbleiter-Exportkontrollen über Taiwan bis hin zu Zöllen auf chinesische Industriegüter – erwiesen sich als zu tiefgreifend für schnelle Kompromisse.\n\nFür die Finanzmärkte bedeutet das fortbestehende Risiko abrupter Eskalationen, etwa durch neue Sanktionsrunden oder Vergeltungszölle, die globale Handelsströme und damit Unternehmensgewinne empfindlich treffen könnten.",
-          "tag": "US-China-Handel",
-          "emoji": "🌐",
+          "titel": "Xi nutzt Gipfeldiplomatie zum Ausbau globalen Einflusses",
+          "zusammenfassung": "Chinas Präsident Xi Jinping setzt internationale Gipfeltreffen gezielt als Instrument zur Stärkung Pekings weltweiter Rolle ein. Die Strategie verbindet Handelspolitik, Investitionsversprechen und symbolische Bildwirkung zu einer konzertierten Einflusskampagne.",
+          "bedeutung": "Chinas aktive Gipfeldiplomatie verschiebt geopolitische Gewichte und beeinflusst direkt, wie internationale Märkte, Lieferketten und Investitionsströme sich künftig ausrichten.",
+          "hintergrund": "Xi Jinping hat in jüngster Zeit mehrere hochkarätige internationale Treffen genutzt, um Chinas Position als unverzichtbaren globalen Partner zu festigen. Dabei geht es nicht allein um politische Symbolik, sondern um konkrete wirtschaftliche Vereinbarungen und strategische Partnerschaften.\n\nFür Investoren und Unternehmen weltweit ist Pekings Diplomatie-Offensive ein Signal: China positioniert sich als stabiles Gegengewicht zu einer zunehmend unberechenbaren westlichen Weltordnung – und will dies auch in Handelsbedingungen und Marktzugang eingepreist sehen.",
+          "tag": "Geopolitik",
+          "emoji": "🐉",
           "quelle": "CNBC",
-          "quelle_url": "https://www.cnbc.com/2026/11/20/apec-summit-trump-xi-china-trade-taiwan.html"
+          "quelle_url": "https://www.cnbc.com/2026/11/21/china-xi-trump-putin-global-diplomacy-shenzhen.html"
         }
       ]
     }
