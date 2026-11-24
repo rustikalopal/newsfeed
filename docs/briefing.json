@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-23T03:46:59.212399+00:00",
-  "datum": "Montag, 23. November 2026",
+  "generated_at": "2026-11-24T06:59:54.099870+00:00",
+  "datum": "Dienstag, 24. November 2026",
   "ressorts": [
     {
       "id": "politik",
@@ -9,36 +9,36 @@
       "stories": [
         {
           "id": "politik-0",
-          "titel": "COP31 scheitert – Klimagipfel ohne Einigung",
-          "zusammenfassung": "Die UN-Klimakonferenz COP31 ist ohne ein bedeutendes Abschlussabkommen zu Ende gegangen. Tiefe Gräben zwischen den Teilnehmerstaaten, insbesondere über die Rolle fossiler Brennstoffe, machten eine Einigung unmöglich.",
-          "bedeutung": "Das Scheitern des Gipfels schwächt den internationalen Klimaschutzrahmen erheblich und stellt die Zukunft der UN-Klimadiplomatie in Frage.",
-          "hintergrund": "Die Verhandlungen auf der COP31 zogen sich so lange hin wie bei keiner anderen Klimakonferenz zuvor – sie dauerten noch zwei Tage über den offiziellen Schlusstermin an, ohne dass am Ende ein tragfähiger Kompromiss stand. Besonders der Streit darüber, ob fossile Brennstoffe im Abschlusstexte überhaupt erwähnt werden sollten, spaltete die Delegierten.\n\nDas Ergebnis wirft grundlegende Fragen auf: Ist das multilaterale Format der Klimagipfel noch in der Lage, verbindliche Fortschritte zu erzielen? Viele Beobachter fordern nun alternative Wege, etwa kleinere Koalitionen führender Staaten, um die Klimaziele des Pariser Abkommens doch noch zu retten.",
-          "tag": "Klimadiplomatie",
-          "emoji": "🌍",
+          "titel": "NATO rüstet sich gegen russische Weltraumbedrohung",
+          "zusammenfassung": "Der NATO-Generalsekretär hat angesichts Berichte über russische Pläne, einen Satelliten mit nuklearem Sprengkopf in den Weltraum zu bringen, entschlossene Gegenmaßnahmen angekündigt. Deutsche Medien hatten zuvor gemeldet, Moskau wolle dieses Vorhaben in den kommenden Wochen umsetzen.",
+          "bedeutung": "Eine nukleare Bewaffnung des Weltraums würde die globale Sicherheitsarchitektur grundlegend erschüttern und einen neuen Rüstungswettlauf außerhalb der Erdatmosphäre einläuten.",
+          "hintergrund": "Seit Jahren warnen westliche Geheimdienste vor der zunehmenden Militarisierung des Weltraums durch Russland und China. Konkrete Hinweise auf einen nuklearbestückten Satelliten würden jedoch eine neue Eskalationsstufe darstellen, die bestehende internationale Verträge wie den Weltraumvertrag von 1967 offen infrage stellt.\n\nDie NATO hatte zuletzt ihren Weltraumzweig ausgebaut und den Orbit offiziell als militärischen Operationsraum anerkannt. Angesichts der russischen Aggression in der Ukraine wächst innerhalb des Bündnisses die Sorge, dass Moskau bewusst auf eine Destabilisierung bestehender Sicherheitsstrukturen setzt.",
+          "tag": "Weltraumrüstung",
+          "emoji": "🛰️",
           "quelle": "BBC",
-          "quelle_url": "https://www.bbc.co.uk/news/articles/cqwy06zrd26lo?at_medium=RSS&at_campaign=rss"
+          "quelle_url": "https://www.bbc.co.uk/news/articles/c9x2er1ry2mzo?at_medium=RSS&at_campaign=rss"
         },
         {
           "id": "politik-1",
-          "titel": "Siebenjähriger aus Trümmern nach Raketenangriff gerettet",
-          "zusammenfassung": "Nach einem russischen Raketenangriff auf ein Wohngebäude in der Ukraine wurde ein sieben Jahre altes Kind stundenlang nach dem Einschlag lebend aus den Trümmern befreit. Neun Menschen kamen bei dem Angriff ums Leben, die Suche nach weiteren Vermissten dauerte an.",
-          "bedeutung": "Der Angriff auf zivile Wohninfrastruktur unterstreicht die anhaltende humanitäre Dimension des Krieges in der Ukraine und hält das internationale Mitgefühl wach.",
-          "hintergrund": "Russische Streitkräfte haben erneut ein Wohngebäude in der Ukraine getroffen und damit zivile Opfer verursacht. Rettungskräfte arbeiteten stundenlang in den Trümmern, um Überlebende zu bergen – mit Erfolg im Fall des Kindes, das unverletzt geborgen werden konnte.\n\nSolche Angriffe auf Wohngebiete werden von der Ukraine und westlichen Regierungen regelmäßig als Kriegsverbrechen eingestuft. Internationale Organisationen fordern angesichts der anhaltenden Schläge gegen die Zivilbevölkerung verstärkte humanitäre Hilfe für die betroffenen Gebiete.",
+          "titel": "Ukraine versenkt russisches Schiff in Libyen",
+          "zusammenfassung": "Die ukrainische Marine hat nach übereinstimmenden Berichten ein russisches Kriegsschiff im Hafen der libyschen Küstenstadt Misrata versenkt und damit den geographischen Radius des Krieges erheblich ausgeweitet. Der Angriff verdeutlicht, dass die Ukraine inzwischen in der Lage ist, russische Ziele weit jenseits ihrer eigenen Grenzen zu treffen.",
+          "bedeutung": "Der Angriff markiert eine gefährliche Ausweitung des Ukraine-Konflikts auf nordafrikanisches Terrain und zeigt, wie stark sich Russlands maritime Präsenz im Mittelmeerraum mit dem Krieg verflochten hat.",
+          "hintergrund": "Russland unterhält seit Jahren enge Verbindungen zu libyschen Milizkräften und nutzt Häfen an der nordafrikanischen Küste als Stützpunkte für seine Marine im Mittelmeer. Dass die Ukraine diese Infrastruktur nun offen angreift, signalisiert eine neue strategische Kühnheit und dürfte in europäischen Hauptstädten und bei der NATO intensive Debatten über Eskalationsrisiken auslösen.\n\nGleichzeitig rückt der Angriff Libyen stärker in den Fokus des Konflikts – ein Land, das ohnehin seit Jahren zwischen rivalisierenden Mächten und ausländischen Einflussnahmen zerrissen ist. Für die internationale Gemeinschaft stellt sich nun die Frage, wie eine weitere Ausweitung des Kriegsgeschehens auf Drittstaaten verhindert werden kann.",
           "tag": "Ukraine-Krieg",
-          "emoji": "🚨",
+          "emoji": "🚢",
           "quelle": "BBC",
-          "quelle_url": "https://www.bbc.co.uk/news/articles/cqdr15l32d3go?at_medium=RSS&at_campaign=rss"
+          "quelle_url": "https://www.bbc.co.uk/news/articles/cm894p88jzxpo?at_medium=RSS&at_campaign=rss"
         },
         {
           "id": "politik-2",
-          "titel": "Ukrainische Drohne trifft russisches Schiff im Finnischen Meerbusen",
-          "zusammenfassung": "Ein auf Russland zufahrendes Schiff wurde im Finnischen Meerbusen durch einen Drohnenangriff beschädigt und musste abgeschleppt werden. Finnische Verteidigungskräfte gehen davon aus, dass die Ukraine hinter dem Angriff steckt, Kiew äußerte sich zunächst nicht.",
-          "bedeutung": "Der Vorfall weitet den maritimen Konflikt zwischen der Ukraine und Russland auf die sensible Ostseeregion aus und berührt damit direkt das Sicherheitsumfeld der NATO-Anrainerstaaten.",
-          "hintergrund": "Der Angriff ereignete sich im Finnischen Meerbusen, einem Meeresabschnitt, der von mehreren NATO-Staaten umgeben ist und für den Schiffsverkehr zwischen Russland und Europa von strategischer Bedeutung ist. Bereits zuvor hatten mutmaßliche ukrainische Drohnen russische Schiffe in der Ostseeregion ins Visier genommen.\n\nFinnland, das erst 2023 der NATO beigetreten ist, beobachtet die Entwicklung in seinen Gewässern mit wachsender Aufmerksamkeit. Der Vorfall verdeutlicht, wie sehr sich der Krieg inzwischen auch auf Seewege und internationale Schifffahrtskorridore im Norden Europas auswirkt.",
-          "tag": "Ostsee-Konflikt",
-          "emoji": "🚢",
+          "titel": "Iran lässt Sängerin und Musiker auspeitschen",
+          "zusammenfassung": "Iranische Behörden haben die Sängerin Parastoo Ahmadi sowie drei Musiker und einen Produzenten mit je 74 Peitschenhieben bestrafen lassen, weil Ahmadi bei einem Auftritt kein Kopftuch getragen hatte. Der Vorfall ereignete sich in der Stadt Qom und wurde von Anwälten der Betroffenen öffentlich gemacht.",
+          "bedeutung": "Der Fall zeigt exemplarisch, mit welcher Brutalität das iranische Regime weiterhin Frauen verfolgt, die sich dem Verschleierungszwang widersetzen – trotz anhaltenden internationalen Drucks.",
+          "hintergrund": "Seit den landesweiten Protesten nach dem Tod von Mahsa Amini im Jahr 2022 haben iranische Behörden den Druck auf Frauen und Künstlerinnen, die sich öffentlich dem Hijab-Zwang widersetzen, verschärft statt gelockert. Körperstrafen wie Auspeitschungen sind im iranischen Rechtssystem gesetzlich verankert und werden regelmäßig gegen vermeintliche Verstöße gegen islamische Kleidungsvorschriften verhängt.\n\nInternationale Menschenrechtsorganisationen verurteilen die Praxis scharf, doch effektive Konsequenzen aus dem Ausland bleiben begrenzt. Für viele iranische Künstlerinnen bedeutet öffentlicher Auftritt ohne Kopftuch ein bewusstes politisches Statement – verbunden mit dem Risiko drastischer staatlicher Repression.",
+          "tag": "Menschenrechte",
+          "emoji": "✊",
           "quelle": "BBC",
-          "quelle_url": "https://www.bbc.co.uk/news/articles/cj752ddve27ko?at_medium=RSS&at_campaign=rss"
+          "quelle_url": "https://www.bbc.co.uk/news/articles/cq1j6585l5g6o?at_medium=RSS&at_campaign=rss"
         }
       ]
     },
@@ -49,36 +49,36 @@
       "stories": [
         {
           "id": "wirtschaft-0",
-          "titel": "KI-Boom auf Pump: CoreWeave als Warnsignal",
-          "zusammenfassung": "Der schuldenfinanzierte Cloud-Computing-Konzern CoreWeave gilt Kritikern als Symbol für die riskante Geschäftslogik des KI-Infrastrukturbooms. Milliarden werden in Rechenzentren investiert, während der wirtschaftliche Rückfluss noch weitgehend ungewiss ist.",
-          "bedeutung": "Das Modell schuldengefinanzierter Datenzentren könnte bei einer Marktabkühlung zu einer systemischen Belastung für den gesamten Technologiesektor werden.",
-          "hintergrund": "CoreWeave hat massiv in die für KI-Anwendungen benötigte Recheninfrastruktur investiert und dabei erhebliche Schulden aufgehäuft. Das Unternehmen steht exemplarisch für eine Branche, die auf kontinuierlich wachsende Nachfrage nach KI-Rechenkapazitäten setzt – eine Wette, die nicht ohne Risiko ist.\n\nKritiker sprechen bereits von einer KI-Blase: Wenn Nachfrage und Investitionsvolumen auseinanderdriften, drohen Abschreibungen in enormem Ausmaß. Der Fall zeigt, wie eng die euphorische Stimmung rund um künstliche Intelligenz mit klassischen Finanzierungsrisiken verknüpft ist.",
-          "tag": "KI-Blase",
-          "emoji": "💸",
-          "quelle": "The Guardian",
-          "quelle_url": "https://www.theguardian.com/business/2026/nov/21/debt-laden-cloud-computing-company-coreweave-ai-boom"
+          "titel": "Capita-Aktie bricht ein: Chef tritt ab",
+          "zusammenfassung": "Der britische Outsourcing-Konzern Capita hat einen dramatischen Kurseinbruch von rund 70 Prozent erlitten, nachdem der Vorstandsvorsitzende seinen Rücktritt erklärt hat. Auslöser ist ein massives Versagen bei der Verwaltung von Pensionszahlungen für Beschäftigte des öffentlichen Dienstes.",
+          "bedeutung": "Der Fall offenbart systemische Risiken bei der Auslagerung staatlicher Kernaufgaben an private Dienstleister und trifft Zehntausende britische Staatsbedienstete unmittelbar in ihrer finanziellen Absicherung.",
+          "hintergrund": "Capita verwaltet seit dem vergangenen Jahr die Pensionsauszahlungen für einen erheblichen Teil des britischen öffentlichen Dienstes. Verzögerungen und Fehler in diesem System haben nun nicht nur politischen Druck ausgelöst, sondern auch das Vertrauen der Kapitalmärkte in das Unternehmen massiv erschüttert.\n\nDer Vorfall reiht sich in eine Serie von Krisen bei britischen Outsourcing-Riesen ein – eine Branche, die nach dem Kollaps von Carillion im Jahr 2018 ohnehin unter besonderer Beobachtung steht. Kritiker fordern eine grundlegende Überprüfung, welche staatlichen Leistungen an private Anbieter vergeben werden dürfen.",
+          "tag": "Outsourcing-Krise",
+          "emoji": "📉",
+          "quelle": "BBC",
+          "quelle_url": "https://www.bbc.co.uk/news/articles/c65y1qqw3kjxo?at_medium=RSS&at_campaign=rss"
         },
         {
           "id": "wirtschaft-1",
-          "titel": "Häufigere Systemausfälle: Hacks, KI und Verschwörungstheorien",
-          "zusammenfassung": "Wiederholte großflächige IT-Ausfälle bei Fluggesellschaften, Banken und Technologiekonzernen verunsichern Verbraucher und Unternehmen weltweit. Die Häufung der Vorfälle nährt Verschwörungstheorien und Sorgen über die Anfälligkeit kritischer digitaler Infrastruktur.",
-          "bedeutung": "Die zunehmende Abhängigkeit moderner Gesellschaften von vernetzten IT-Systemen macht selbst kurze Ausfälle zu wirtschaftlich und gesellschaftlich folgenreichen Ereignissen.",
-          "hintergrund": "Ob Flugchaos durch Softwarefehler, Bankensysteme, die kollabieren, oder Plattformausfälle bei globalen Technologiekonzernen – die Schlagzahl solcher Ereignisse hat zuletzt merklich zugenommen. Experten diskutieren, ob dahinter strukturelle Schwachstellen in der IT-Architektur stecken oder ob Cyberangriffe eine wachsende Rolle spielen.\n\nParallel dazu entstehen neue Wirtschaftszweige, die von der Angst vor Systemausfällen profitieren – von Notfallgeneratoren bis zu Offline-Datenspeicherlösungen. Die Debatte über die Resilienz digitaler Infrastruktur ist längst in der Wirtschaftspolitik angekommen.",
-          "tag": "Cyberresilienz",
-          "emoji": "⚡",
-          "quelle": "The Guardian",
-          "quelle_url": "https://www.theguardian.com/technology/2026/nov/22/hacks-ai-internet-outages-airlines-banks-microsoft-apple"
+          "titel": "Weiteres Großunternehmen flieht von Londoner Börse",
+          "zusammenfassung": "Ein international tätiger Catering-Konzern hat angekündigt, seine primäre Börsennotierung von London in die USA zu verlagern, was den anhaltenden Exodus großer Unternehmen vom Londoner Kapitalmarkt weiter beschleunigt. Damit wächst der Druck auf den britischen Finanzplatz, seine Attraktivität für institutionelle Investoren zu verbessern.",
+          "bedeutung": "Die fortschreitende Abwanderung von Börsenschwergewichten aus London schwächt Großbritanniens Position als führendes europäisches Finanzzentrum und verschärft die wirtschaftspolitischen Herausforderungen nach dem Brexit.",
+          "hintergrund": "Seit dem Brexit-Referendum haben zahlreiche Konzerne ihre Hauptnotierungen in die USA oder auf den europäischen Kontinent verlagert, angelockt von tieferen Kapitalströmen, höheren Bewertungen und einer breiteren Investorenbasis in New York. Chips- und Technologieunternehmen sowie Konsumgüterhersteller gehen dabei voran.\n\nDie britische Regierung und die Londoner Börse haben zuletzt Reformen angestoßen, um Listings attraktiver zu gestalten. Doch der aktuelle Fall zeigt, dass diese Maßnahmen bislang nicht ausreichen, um den Trend umzukehren.",
+          "tag": "Finanzplatz London",
+          "emoji": "🏦",
+          "quelle": "BBC",
+          "quelle_url": "https://www.bbc.co.uk/news/articles/ckz74098jq5po?at_medium=RSS&at_campaign=rss"
         },
         {
           "id": "wirtschaft-2",
-          "titel": "Trumps Bewegung bekommt Risse – Konservative Medien uneins",
-          "zusammenfassung": "Zwei Wochen nach dem Wahlsieg der Demokraten im US-Kongress ringen konservative Medienformate mit ihrer künftigen Ausrichtung. Einige erwägen eine Distanzierung von Trump und der MAGA-Bewegung, andere setzen auf Kontinuität.",
-          "bedeutung": "Wie sich konservative Leitmedien positionieren, wird maßgeblich beeinflussen, wie die republikanische Partei ihre Niederlage verarbeitet und sich für die nächsten Wahlen neu aufstellt.",
-          "hintergrund": "Der Stimmungsumschwung in den USA nach dem demokratischen Erfolg bei den Kongresswahlen Anfang November hat eine Debatte innerhalb des konservativen Mediensystems ausgelöst. Einige Kommentatoren sehen in der Niederlage ein Signal, dass die MAGA-Strategie an ihre Grenzen gestoßen ist.\n\nAndere hingegen verweisen auf strukturelle Stärken der Bewegung und warnen vor einer voreiligen Distanzierung. Die Diskussion spiegelt einen breiteren Machtkampf innerhalb der amerikanischen Rechten wider, dessen Ausgang die politische Landschaft der USA in den kommenden Jahren prägen dürfte.",
-          "tag": "US-Politik",
-          "emoji": "🇺🇸",
-          "quelle": "The Guardian",
-          "quelle_url": "https://www.theguardian.com/us-news/2026/nov/22/conservative-media-trump-midterm-elections-results"
+          "titel": "Poundland vor dem Kollaps: Was lief schief?",
+          "zusammenfassung": "Der britische Billigwarenhändler Poundland steht kurz vor der Insolvenz und hat nach Angaben aus Unternehmenskreisen nur noch wenige Tage Zeit, einen Käufer zu finden. Der Fall wirft ein Schlaglicht auf die tiefe Krise des stationären Einzelhandels im preissensiblen Segment.",
+          "bedeutung": "Poundland ist ein Symbol des britischen Discount-Einzelhandels mit Hunderten Filialen und Tausenden Beschäftigten – sein möglicher Zusammenbruch wäre ein weiterer schwerer Schlag für den britischen High Street.",
+          "hintergrund": "Steigende Betriebskosten, höhere Mindestlöhne und der wachsende Wettbewerb durch Online-Anbieter und asiatische Plattformen wie Temu und Shein haben das Geschäftsmodell vieler Discount-Ketten unter enormen Druck gesetzt. Poundland hatte in den vergangenen Jahren versucht, durch Sortimentserweiterungen gegenzusteuern, doch ohne nachhaltigen Erfolg.\n\nSollte keine Übernahme gelingen, droht eine Insolvenz mit weitreichenden Folgen für Lieferanten, Mitarbeitende und betroffene Innenstädte. Der Fall steht exemplarisch für die Strukturkrise des britischen Präsenzhandels in einem Umfeld anhaltend hoher Lebenshaltungskosten.",
+          "tag": "Einzelhandel",
+          "emoji": "🛒",
+          "quelle": "BBC",
+          "quelle_url": "https://www.bbc.co.uk/news/articles/cm4g10p2r0g9o?at_medium=RSS&at_campaign=rss"
         }
       ]
     },
@@ -89,36 +89,36 @@
       "stories": [
         {
           "id": "boerse-0",
-          "titel": "Systemausfälle befeuern neue Doomsday-Ökonomie",
-          "zusammenfassung": "Wiederholte Technologieausfälle und Sorgen vor KI-gestützten Cyberangriffen auf kritische Infrastruktur treiben eine wachsende Nachfrage nach Krisenvorsorge-Produkten und -Dienstleistungen. Eine neue Marktnische entsteht rund um Resilienz und Notfallabsicherung.",
-          "bedeutung": "Anleger und Unternehmen beginnen, das Ausfallrisiko digitaler Infrastruktur als eigenständigen Investmentfaktor zu begreifen, was neue Marktsegmente und Bewertungsfragen aufwirft.",
-          "hintergrund": "Von Notstromaggregaten über physische Datenspeicher bis hin zu spezialisierten Cybersicherheitslösungen: Die sogenannte Doomsday-Ökonomie wächst, getrieben von realen Vorfällen und medialer Verstärkung. Investoren beobachten den Sektor mit zunehmendem Interesse.\n\nGleichzeitig warnen Analysten vor Übertreibungen: Nicht jeder Systemausfall ist auf einen koordinierten Angriff zurückzuführen. Die Herausforderung für Märkte besteht darin, zwischen echten strukturellen Risiken und kurzfristiger Panikstimmung zu unterscheiden.",
-          "tag": "Krisenökonomie",
-          "emoji": "📉",
+          "titel": "Fed-Banker Williams: Zinsen dürften weiter steigen",
+          "zusammenfassung": "Der einflussreiche New Yorker Fed-Präsident John Williams hat signalisiert, dass die US-Notenbank die Leitzinsen im Zeitverlauf voraussichtlich weiter anheben wird, um die Inflation nachhaltig zu dämpfen. Williams zeigte sich jedoch zuversichtlich, dass sich die Inflationsrate bis 2027 dem Zwei-Prozent-Ziel der Fed annähern werde.",
+          "bedeutung": "Aussagen eines der einflussreichsten Mitglieder des Fed-Offenmarktausschusses bewegen Anleihemärkte und Aktienindizes weltweit und sind für Investoren ein zentrales Signal zur künftigen Geldpolitik.",
+          "hintergrund": "Die US-Notenbank befindet sich seit 2022 in einem der aggressivsten Zinserhöhungszyklen ihrer Geschichte. Obwohl die Inflationsrate zuletzt zurückgegangen ist, bleibt sie oberhalb des Zielwerts, was den geldpolitischen Spielraum der Fed weiterhin einschränkt.\n\nFür die globalen Kapitalmärkte hat die Richtung der US-Zinspolitik unmittelbare Konsequenzen: Höhere Zinsen in den USA stärken den Dollar, belasten Schwellenländer mit Dollarschulden und erhöhen den Bewertungsdruck auf Wachstumsaktien weltweit.",
+          "tag": "Geldpolitik",
+          "emoji": "📊",
           "quelle": "CNBC",
-          "quelle_url": "https://www.cnbc.com/2026/11/21/emergency-prep-spending-tech-outages.html"
+          "quelle_url": "https://www.cnbc.com/2026/11/23/john-williams-fed-inflation-rate-hikes.html"
         },
         {
           "id": "boerse-1",
-          "titel": "KI-Roboter-Startup streicht Mitarbeiter-Krankenversicherung",
-          "zusammenfassung": "Ein von Eric Trump unterstütztes Robotik-Startup hat seinen Beschäftigten die Krankenversicherung gestrichen, da dem Unternehmen das Geld ausgeht. Das Unternehmen wartet auf eine Kapitalzufuhr von 150 Millionen Dollar aus Südkorea und verhandelt parallel mit Risikokapitalgebern.",
-          "bedeutung": "Der Fall zeigt exemplarisch die Liquiditätsprobleme, mit denen viele hochbewertete KI- und Robotik-Startups konfrontiert sind, wenn Finanzierungsrunden sich verzögern.",
-          "hintergrund": "Foundation, das betroffene Unternehmen, befindet sich in einer klassischen Cash-Crunch-Situation: Die zugesagten Mittel aus Südkorea sind noch nicht eingegangen, und laufende Betriebskosten – darunter Sozialleistungen für Mitarbeiter – können nicht mehr gedeckt werden. Notfallkredite sollen die Lücke überbrücken.\n\nDer Vorgang illustriert ein wachsendes Spannungsfeld im Technologiesektor: Hohe Bewertungen und ehrgeizige Investitionszusagen treffen auf die harte Realität von Kapitalabruf-Verzögerungen. Für Beschäftigte in der Branche bedeutet das ein wachsendes Risiko, das über bloße Jobsicherheit hinausgeht.",
-          "tag": "Startup-Krise",
-          "emoji": "🤖",
+          "titel": "Huang-Rückkehr stabilisiert Märkte – vorerst",
+          "zusammenfassung": "Wall-Street-Strategen bewerten die Wiedereinsetzung von Jensen Huang als Nvidia-Chef als wichtiges Signal zur Stabilisierung des KI-Aktienhandels und als mögliche Bodenbildung nach dem jüngsten Kursrutsch. Dennoch warnen Analysten vor fortbestehenden Risiken rund um KI-Investitionsausgaben und Rechenzentrumskapazitäten.",
+          "bedeutung": "Nvidia ist zum Barometer für das globale Vertrauen in den KI-Boom geworden – Stimmungsschwankungen rund um das Unternehmen wirken sich unmittelbar auf Tech-Indizes weltweit aus.",
+          "hintergrund": "Nachdem Nvidia-Aktien infolge politischen Drucks und Führungsturbulenzen massiv an Wert verloren hatten, löste Huangs Rückkehr einen Kursanstieg aus, der dem Unternehmen innerhalb kurzer Zeit fast eine Billion Dollar an Marktkapitalisierung zurückbrachte. Der Nasdaq legte daraufhin um rund 6,5 Prozent zu.\n\nDennoch bleibt die Lage fragil: Handelsbeschränkungen für KI-Chips gegenüber China, regulatorischer Druck aus Washington und Unsicherheiten über die Rentabilität massiver Rechenzentrum-Investitionen könnten die Erholung jederzeit gefährden.",
+          "tag": "KI-Aktien",
+          "emoji": "💹",
           "quelle": "CNBC",
-          "quelle_url": "https://www.cnbc.com/2026/11/22/foundation-future-industries-health-benefits-payroll-base-group.html"
+          "quelle_url": "https://www.cnbc.com/2026/11/23/nvidia-jensen-huang-ceo-market-rally.html"
         },
         {
           "id": "boerse-2",
-          "titel": "Xi nutzt Gipfeldiplomatie zum Ausbau globalen Einflusses",
-          "zusammenfassung": "Chinas Präsident Xi Jinping setzt internationale Gipfeltreffen gezielt als Instrument zur Stärkung Pekings weltweiter Rolle ein. Die Strategie verbindet Handelspolitik, Investitionsversprechen und symbolische Bildwirkung zu einer konzertierten Einflusskampagne.",
-          "bedeutung": "Chinas aktive Gipfeldiplomatie verschiebt geopolitische Gewichte und beeinflusst direkt, wie internationale Märkte, Lieferketten und Investitionsströme sich künftig ausrichten.",
-          "hintergrund": "Xi Jinping hat in jüngster Zeit mehrere hochkarätige internationale Treffen genutzt, um Chinas Position als unverzichtbaren globalen Partner zu festigen. Dabei geht es nicht allein um politische Symbolik, sondern um konkrete wirtschaftliche Vereinbarungen und strategische Partnerschaften.\n\nFür Investoren und Unternehmen weltweit ist Pekings Diplomatie-Offensive ein Signal: China positioniert sich als stabiles Gegengewicht zu einer zunehmend unberechenbaren westlichen Weltordnung – und will dies auch in Handelsbedingungen und Marktzugang eingepreist sehen.",
-          "tag": "Geopolitik",
-          "emoji": "🐉",
+          "titel": "JPMorgan entwickelt KI-Agenten für autonome Finanztransaktionen",
+          "zusammenfassung": "Die US-Großbank JPMorgan arbeitet gemeinsam mit dem südkoreanischen Finanzdienstleister Hyundai Card an Systemen, bei denen künstliche Intelligenz Finanztransaktionen vollständig ohne menschliche Beteiligung abwickeln soll. Das Projekt gilt als wegweisend für die nächste Stufe der Automatisierung im Bankwesen.",
+          "bedeutung": "Autonome KI-Agenten im Finanzbereich könnten die Struktur von Bankdienstleistungen und Kapitalmärkten grundlegend verändern und werfen gleichzeitig neue regulatorische Fragen auf.",
+          "hintergrund": "Großbanken investieren weltweit massiv in den Einsatz generativer KI und autonomer Agentensysteme, um Kosten zu senken und Transaktionsgeschwindigkeit sowie -präzision zu erhöhen. JPMorgan gilt in dieser Entwicklung als Vorreiter unter den traditionellen Finanzinstituten.\n\nDie Zusammenarbeit mit Hyundai Card unterstreicht zudem, wie eng asiatische und amerikanische Finanzakteure bei der Entwicklung neuer KI-Infrastruktur kooperieren. Aufsichtsbehörden in den USA, der EU und Asien ringen unterdessen mit der Frage, wie autonome Finanzsysteme reguliert werden sollen, ohne Innovation zu bremsen.",
+          "tag": "Banken-KI",
+          "emoji": "🤖",
           "quelle": "CNBC",
-          "quelle_url": "https://www.cnbc.com/2026/11/21/china-xi-trump-putin-global-diplomacy-shenzhen.html"
+          "quelle_url": "https://www.cnbc.com/2026/11/18/jpmorgan-hyundai-card-ai-agents-payments.html"
         }
       ]
     }
