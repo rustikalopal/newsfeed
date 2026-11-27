@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-26T05:10:41.738213+00:00",
-  "datum": "Donnerstag, 26. November 2026",
+  "generated_at": "2026-11-27T05:08:44.096372+00:00",
+  "datum": "Freitag, 27. November 2026",
   "ressorts": [
     {
       "id": "politik",
@@ -9,36 +9,36 @@
       "stories": [
         {
           "id": "politik-0",
-          "titel": "USA verhängen neue Zölle gegen China und EU",
-          "zusammenfassung": "Die US-Regierung hat umfangreiche neue Strafzölle gegen eine Reihe wichtiger Handelspartner angekündigt, darunter China und die Europäische Union. Die Maßnahmen treffen einige der bedeutendsten Wirtschaftspartner Amerikas und könnten globale Handelsströme erheblich belasten.",
-          "bedeutung": "Neue US-Zölle gegen China und die EU drohen einen eskalierenden Handelskonflikt auszulösen, der Lieferketten weltweit erschüttern und Verbraucherpreise in die Höhe treiben könnte.",
-          "hintergrund": "Die Ankündigung markiert eine weitere Eskalation in der amerikanischen Handelspolitik, die seit Monaten auf Konfrontationskurs mit zentralen Wirtschaftsmächten liegt. Besonders die gleichzeitige Belastung Chinas und der EU signalisiert, dass Washington bereit ist, auf breiter Front handelspolitische Druckmittel einzusetzen.\n\nFür die betroffenen Partnerländer stellt sich nun die Frage nach Gegenmaßnahmen. Brüssel hat in der Vergangenheit mit Gegenzöllen reagiert, während Peking eigene Hebel in diesem Handelsgefüge besitzt. Analysten warnen, dass eine Spirale gegenseitiger Vergeltungsmaßnahmen das globale Wachstum empfindlich bremsen könnte.",
-          "tag": "Handelspolitik",
-          "emoji": "🌐",
+          "titel": "Selenskyj kritisiert Washingtons Fokus auf Nahen Osten",
+          "zusammenfassung": "Der ukrainische Präsident Wolodymyr Selenskyj hat öffentlich bemängelt, die USA konzentrierten sich zu stark auf den Nahen Osten und setzten Russland nicht entschieden genug unter Druck. Besonders befremdlich findet er Trumps freundschaftliche Haltung gegenüber Wladimir Putin.",
+          "bedeutung": "Die offene Kritik Selenskyjs an Washington signalisiert wachsende Spannungen zwischen Kyjiw und seinem wichtigsten Verbündeten inmitten des anhaltenden Krieges.",
+          "hintergrund": "Selenskyj äußerte sich in einem BBC-Interview ungewohnt direkt über die amerikanische Außenpolitik. Seine Frustration dürfte nicht nur persönlicher Natur sein, sondern die Sorge widerspiegeln, dass die Ukraine im geopolitischen Prioritätengefüge der neuen US-Administration an Bedeutung verliert.\n\nDer Kontext ist brisant: Während die USA militärische und diplomatische Ressourcen auf den Nahen Osten konzentrieren, bleibt die Lage an der Ostfront der Ukraine angespannt. Trumps wiederholt geäußerte Sympathie für Putin verstärkt in Kyjiw die Befürchtung, dass ein künftiger Friedensdeal zulasten der Ukraine ausgehandelt werden könnte.",
+          "tag": "Ukraine-Krieg",
+          "emoji": "🕊️",
           "quelle": "BBC",
-          "quelle_url": "https://www.bbc.co.uk/news/articles/c893r9ke5p97o?at_medium=RSS&at_campaign=rss"
+          "quelle_url": "https://www.bbc.co.uk/news/articles/c820q9wgrpyyo?at_medium=RSS&at_campaign=rss"
         },
         {
           "id": "politik-1",
-          "titel": "Israels Richter empfehlen Fallen wichtiger Netanyahu-Anklagen",
-          "zusammenfassung": "Israelische Richter haben empfohlen, die schwerwiegendsten Anklagepunkte in einem der drei laufenden Strafverfahren gegen Ministerpräsident Benjamin Netanyahu fallen zu lassen, da eine Verurteilung als unwahrscheinlich gilt. Netanyahu selbst forderte daraufhin die vollständige Einstellung seines Prozesses.",
-          "bedeutung": "Die Empfehlung des Gerichts verschafft Netanyahu innenpolitischen Rückenwind und könnte die ohnehin angespannte Debatte über Justizreformen in Israel neu entfachen.",
-          "hintergrund": "Netanyahu steht seit Jahren in drei separaten Verfahren vor Gericht, in denen es um Korruption, Betrug und Vertrauensbruch geht. Die nun ausgesprochene Empfehlung betrifft lediglich einen Teil der Anklage, doch der Ministerpräsident nutzte die Gelegenheit, um die Einstellung aller Verfahren zu fordern.\n\nDer Fall ist eng mit der innenpolitischen Auseinandersetzung um die Unabhängigkeit der israelischen Justiz verknüpft. Kritiker befürchten, dass politischer Druck auf das Rechtssystem zunimmt, während Netanyahus Unterstützer das Verfahren seit jeher als politisch motiviert bezeichnen.",
-          "tag": "Justiz Israel",
-          "emoji": "⚖️",
+          "titel": "Tanker kentert vor Ibiza – Umweltkatastrophe droht",
+          "zusammenfassung": "Ein Dieseltanker mit bis zu 7.000 Tonnen Kraftstoff an Bord ist in der Nähe der spanischen Insel Ibiza gekentert, wobei ein Mensch ums Leben kam. Der spanische Seerettungsdienst bewertet noch das potenzielle Ausmaß der Umweltschäden.",
+          "bedeutung": "Ein möglicher Großaustritt von Dieselkraftstoff im westlichen Mittelmeer könnte eine schwere ökologische Katastrophe für die marine Tierwelt und die Küstenregionen auslösen.",
+          "hintergrund": "Ibiza und die umliegenden Gewässer gehören zu einem der ökologisch sensibelsten und touristisch bedeutsamsten Gebiete des Mittelmeers. Schiffsunglücke mit großen Mengen fossiler Brennstoffe haben in der Vergangenheit gezeigt, wie nachhaltig solche Ereignisse Meeresökosysteme schädigen können.\n\nDie spanischen Behörden haben Notfallmaßnahmen eingeleitet, die genaue Menge des ausgelaufenen Kraftstoffs war zunächst unklar. Experten und Umweltorganisationen beobachten die Lage genau, da die Strömungsverhältnisse im Bereich der Balearen eine rasche Ausbreitung begünstigen könnten.",
+          "tag": "Umweltkatastrophe",
+          "emoji": "🛢️",
           "quelle": "BBC",
-          "quelle_url": "https://www.bbc.co.uk/news/articles/cxj05mv723r2o?at_medium=RSS&at_campaign=rss"
+          "quelle_url": "https://www.bbc.co.uk/news/articles/c9gklryvj24do?at_medium=RSS&at_campaign=rss"
         },
         {
           "id": "politik-2",
-          "titel": "Trump handelte 44-mal mit Nvidia-Aktien in diesem Jahr",
-          "zusammenfassung": "Finanzoffenlegungen zeigen, dass Konten des US-Präsidenten Donald Trump im laufenden Jahr 44-mal mit Aktien des Chip-Konzerns Nvidia gehandelt haben. Angesichts der engen Verflechtung zwischen Regierungsentscheidungen und dem KI-Sektor wirft dies ernsthafte Fragen zu Interessenkonflikten auf.",
-          "bedeutung": "Regelmäßige Aktiengeschäfte des amtierenden Präsidenten mit einem der derzeit politisch sensibelsten Tech-Konzerne nähren Zweifel an der Trennbarkeit von persönlichen Finanzinteressen und Regierungshandeln.",
-          "hintergrund": "Nvidia ist derzeit eines der geopolitisch bedeutsamsten Technologieunternehmen der Welt – seine Chips sind das Rückgrat der globalen KI-Infrastruktur und stehen im Zentrum des US-chinesischen Technologiestreits. Dass der Präsident gleichzeitig intensiv mit Aktien dieses Unternehmens handelt, verstärkt den Verdacht möglicher Interessenkollisionen.\n\nIn den USA verpflichten Transparenzgesetze hochrangige Regierungsvertreter zur Offenlegung ihrer Finanzgeschäfte. Doch ob die bloße Offenlegung ausreicht oder ob schärfere Regeln für amtierende Präsidenten nötig sind, ist eine Debatte, die Washington seit Jahren begleitet – und nun neue Dringlichkeit erlangt.",
-          "tag": "Interessenkonflikt",
-          "emoji": "📈",
+          "titel": "Zwei Italiener bei Angriff in Kuwait getötet",
+          "zusammenfassung": "Bei einem Angriff in Kuwait kamen zwei italienische Staatsbürger ums Leben, die als Techniker für den deutschen Rüstungskonzern Rheinmetall tätig waren. Der Iran wies jede Verantwortung für den Vorfall zurück.",
+          "bedeutung": "Der Angriff auf westliche Rüstungsmitarbeiter in der Golfregion verschärft die ohnehin angespannte sicherheitspolitische Lage im Nahen Osten.",
+          "hintergrund": "Die beiden Italiener arbeiteten nach Angaben des italienischen Außenministeriums als Techniker für Rheinmetall, einen der größten europäischen Rüstungskonzerne. Ihr Tod wirft Fragen über die Sicherheit westlichen Personals in der gesamten Golfregion auf.\n\nDer Vorfall ereignet sich vor dem Hintergrund anhaltender Spannungen zwischen dem Iran und westlichen Staaten sowie deren Verbündeten am Golf. Obwohl Teheran eine Beteiligung dementiert, dürfte der Fall die diplomatischen Beziehungen weiter belasten und die Debatte über den Schutz von Auslandspersonal in Krisenregionen neu entfachen.",
+          "tag": "Naher Osten",
+          "emoji": "💥",
           "quelle": "BBC",
-          "quelle_url": "https://www.bbc.co.uk/news/articles/cq772vk664yvo?at_medium=RSS&at_campaign=rss"
+          "quelle_url": "https://www.bbc.co.uk/news/articles/c39w9y5dx4k5o?at_medium=RSS&at_campaign=rss"
         }
       ]
     },
@@ -49,36 +49,36 @@
       "stories": [
         {
           "id": "wirtschaft-0",
-          "titel": "London und Brüssel einigen sich auf neue Brexit-Verträge",
-          "zusammenfassung": "Die britische Regierung will neue Abkommen mit der Europäischen Union vorstellen, die unter anderem eine zehnjährige Ausstiegsklausel für Grenzinfrastruktur enthalten. Die Verträge sollen das Verhältnis zwischen dem Vereinigten Königreich und der EU auf eine neue Grundlage stellen.",
-          "bedeutung": "Neue Vertragswerke zwischen London und Brüssel könnten das Kapitel des zermürbenden Post-Brexit-Streits zumindest in Teilen schließen und Planungssicherheit für Unternehmen auf beiden Seiten des Ärmelkanals schaffen.",
-          "hintergrund": "Seit dem britischen EU-Austritt 2020 haben sich Verhandlungen über praktische Fragen des Grenzregimes, des Handels und der Zusammenarbeit immer wieder verzögert oder festgefahren. Die nun angekündigten Verträge werden als Versuch gewertet, eine pragmatischere Phase in den bilateralen Beziehungen einzuleiten.\n\nDie enthaltene Ausstiegsklausel nach zehn Jahren deutet auf den politischen Kompromisscharakter der Einigung hin: Beide Seiten sichern sich Flexibilität für die Zukunft, statt sich dauerhaft zu binden. Wie das Abkommen im britischen Parlament aufgenommen wird, bleibt abzuwarten.",
+          "titel": "London zahlt Brüssel Gebühr für neue EU-Abkommen",
+          "zusammenfassung": "Großbritannien wird im Rahmen neu verhandelter Vereinbarungen mit der Europäischen Union einen finanziellen Beitrag zu den Betriebskosten der EU leisten. Die Einzelheiten wurden in neuen Rechtsdokumenten offengelegt.",
+          "bedeutung": "Die Zahlung markiert eine bedeutsame Verschiebung in den britisch-europäischen Beziehungen und könnte innenpolitisch erneut Debatten über die Konditionen des Brexit entfachen.",
+          "hintergrund": "Seit dem Brexit verhandeln London und Brüssel kontinuierlich über die Ausgestaltung ihrer künftigen Zusammenarbeit. Die nun bekanntgewordene Beteiligungsgebühr zeigt, dass eine engere Partnerschaft ihren Preis hat und Großbritannien bereit ist, dafür zu zahlen.\n\nKritiker werden darin einen weiteren Schritt in Richtung einer faktischen Annäherung an die EU sehen, während Befürworter auf die wirtschaftlichen Vorteile der neuen Abkommen verweisen. Die genaue Höhe des Beitrags und die damit verbundenen Gegenleistungen dürften die innenpolitische Debatte in Großbritannien in den kommenden Wochen dominieren.",
           "tag": "Brexit",
-          "emoji": "🤝",
+          "emoji": "🇬🇧",
           "quelle": "BBC",
-          "quelle_url": "https://www.bbc.co.uk/news/articles/c98r7p65edvgo?at_medium=RSS&at_campaign=rss"
+          "quelle_url": "https://www.bbc.co.uk/news/articles/ck2057x387ego?at_medium=RSS&at_campaign=rss"
         },
         {
           "id": "wirtschaft-1",
-          "titel": "Poundland pleite: 11.000 Arbeitsplätze in Gefahr",
-          "zusammenfassung": "Die britische Discountkette Poundland ist insolvent gegangen, nachdem die Eigentümer keinen Käufer für das Unternehmen finden konnten. Rund 11.000 Beschäftigte bangen nun um ihre Stellen.",
-          "bedeutung": "Der Zusammenbruch von Poundland spiegelt den anhaltenden Druck auf den britischen Einzelhandel wider und zeigt, dass selbst günstige Discounter in einem Umfeld hoher Kosten und schwacher Kaufkraft nicht immun sind.",
-          "hintergrund": "Poundland war jahrzehntelang ein Aushängeschild des britischen Niedrigpreishandels und galt vielen als Profiteur wirtschaftlicher Krisen – denn in schwierigen Zeiten suchen Verbraucher nach günstigen Alternativen. Doch steigende Betriebskosten, Mietpreise und Lieferkettenprobleme haben das Geschäftsmodell zuletzt stark unter Druck gesetzt.\n\nDie Insolvenz trifft eine ohnehin angeschlagene Branche: Der britische Einzelhandel kämpft seit Jahren mit dem Strukturwandel durch den Online-Handel und zuletzt zusätzlich mit inflationsbedingten Kaufkraftverlusten. Für die Beschäftigten stellt das Scheitern einen harten Schlag dar, insbesondere kurz vor der Weihnachtssaison.",
-          "tag": "Einzelhandel",
-          "emoji": "🏪",
-          "quelle": "BBC",
-          "quelle_url": "https://www.bbc.co.uk/news/articles/cm3vgdn037z4o?at_medium=RSS&at_campaign=rss"
+          "titel": "US-Zolldrohungen zwingen Handelspartner zu Deals",
+          "zusammenfassung": "Die USA haben angekündigt, 14 Handelspartnern mit neuen Zollerhöhungen zu drohen, bieten jedoch niedrigere Sätze für jene Länder an, die rasch bilaterale Handelsabkommen mit Washington abschließen. Der Schachzug erhöht den Druck auf wichtige Wirtschaftspartner weltweit.",
+          "bedeutung": "Die Verknüpfung von Zolldrohungen mit dem Angebot maßgeschneiderter Handelsdeals könnte die globale Handelsarchitektur grundlegend umgestalten.",
+          "hintergrund": "Die Trump-Administration setzt ihre Zollpolitik als strategisches Druckmittel ein, um bilaterale Handelsbedingungen zu ihren Gunsten neu zu verhandeln. Für viele exportabhängige Volkswirtschaften bedeutet das: entweder schnelle Zugeständnisse oder empfindliche Wettbewerbsnachteile auf dem US-Markt.\n\nBesonders betroffen sind Länder, die stark auf den amerikanischen Markt ausgerichtet sind. Ökonomen warnen, dass eine Fragmentierung des globalen Handelssystems in ein Netz bilateraler Abkommen langfristig die Effizienz des Welthandels verringern und Schwellenländer besonders hart treffen könnte.",
+          "tag": "Handelspolitik",
+          "emoji": "🌐",
+          "quelle": "CNBC",
+          "quelle_url": "https://www.cnbc.com/2026/11/26/us-tariffs-hike-trade-agreement.html"
         },
         {
           "id": "wirtschaft-2",
-          "titel": "SpaceX darf eine Million KI-Datensatelliten starten",
-          "zusammenfassung": "Die US-Regierung hat SpaceX grünes Licht für den Start einer Konstellation von einer Million Datensatelliten gegeben, die als Starmind bezeichnet wird. Das System soll KI-Rechenbedarf effizient und kostengünstig aus dem All decken.",
-          "bedeutung": "Wenn realisiert, würde Starmind die Infrastruktur für künstliche Intelligenz grundlegend verändern und die Frage aufwerfen, wer die globale KI-Datenverarbeitung kontrolliert.",
-          "hintergrund": "Der rasant wachsende Bedarf an Rechenkapazität für KI-Anwendungen stößt auf der Erde zunehmend an Grenzen – Energieverbrauch, Platz und Kosten sind massive Hürden für bodengebundene Rechenzentren. SpaceX positioniert sich mit Starmind als Lösung dieser Engpässe durch eine satellitengestützte Infrastruktur.\n\nGleichzeitig weckt die schiere Größe des Vorhabens Bedenken: Eine Million zusätzliche Satelliten würden die ohnehin kritische Situation in der niedrigen Erdumlaufbahn weiter verschärfen. Astronomen, Raumfahrtbehörden und internationale Partner dürften das Projekt genau beobachten.",
-          "tag": "Raumfahrt KI",
-          "emoji": "🛰️",
+          "titel": "Norse Atlantic droht Insolvenz – Flüge eingestellt",
+          "zusammenfassung": "Die Fluggesellschaft Norse Atlantic hat ihren gesamten Flugbetrieb vorübergehend eingestellt und sucht dringend nach neuer Finanzierung, um eine Pleite abzuwenden. Ohne eine rasche Kapitalspritze droht die Airline zu kollabieren.",
+          "bedeutung": "Das mögliche Aus für Norse Atlantic würde Tausende Passagiere betreffen und zeigt erneut, wie anfällig das Langstrecken-Billigflug-Modell gegenüber Kostendruck und Marktturbulenzen bleibt.",
+          "hintergrund": "Norse Atlantic war als Nachfolger des gescheiterten Norwegian Air gegründet worden und bediente vor allem transatlantische Strecken zu Niedrigpreisen. Das Geschäftsmodell stand von Beginn an unter dem Druck hoher Treibstoffkosten, starker Konkurrenz und schwankender Nachfrage.\n\nDas drohende Scheitern von Norse Atlantic reiht sich in eine Serie von Insolvenzen im europäischen Billigflugsektor ein und wirft die Frage auf, ob das Modell des preisgünstigen Langstreckenfliegens dauerhaft tragfähig ist.",
+          "tag": "Luftfahrt",
+          "emoji": "✈️",
           "quelle": "BBC",
-          "quelle_url": "https://www.bbc.co.uk/news/articles/cwp836l8n1jgo?at_medium=RSS&at_campaign=rss"
+          "quelle_url": "https://www.bbc.co.uk/news/articles/c9kgmd0ldy0lo?at_medium=RSS&at_campaign=rss"
         }
       ]
     },
@@ -89,36 +89,36 @@
       "stories": [
         {
           "id": "boerse-0",
-          "titel": "US-Kerninflation beschleunigt auf 3,8 Prozent",
-          "zusammenfassung": "Der von der US-Notenbank bevorzugte Inflationsindikator, der PCE-Preisindex, hat im Oktober auf 3,8 Prozent zugelegt und damit die Erwartungen der Analysten bestätigt. Die Entwicklung erhöht den Druck auf die Federal Reserve im Hinblick auf ihre Zinspolitik im Jahr 2027.",
-          "bedeutung": "Eine erneut anziehende Kerninflation verengt den Spielraum der Fed für Zinssenkungen und könnte Anleihe- und Aktienmärkte gleichermaßen belasten.",
-          "hintergrund": "Der PCE-Index gilt als das maßgebliche Inflationsmaß der US-Notenbank, weil er Verbraucherverhalten flexibler abbildet als der bekannte CPI. Ein Wert von 3,8 Prozent liegt deutlich über dem Zwei-Prozent-Ziel der Fed und signalisiert, dass die Inflation hartnäckiger ist als von vielen erhofft.\n\nFür den neuen Fed-Vorsitzenden Kevin Warsh, der als marktsensibler gilt als sein Vorgänger, stellt die Datenlage ein Dilemma dar: Zu frühzeitige Lockerungen riskieren eine Inflationsspirale, zu langes Festhalten an restriktiver Politik gefährdet Wachstum und Beschäftigung.",
-          "tag": "Inflation Fed",
-          "emoji": "📊",
+          "titel": "Fed-Inflationsmaß springt auf 3,8 Prozent – Druck wächst",
+          "zusammenfassung": "Der von der US-Notenbank bevorzugte Inflationsindikator, der PCE-Preisindex, hat im Oktober mit 3,8 Prozent den Erwartungen entsprochen, bleibt aber auf einem besorgniserregend hohen Niveau. Dies erhöht den Druck auf die Fed im Hinblick auf ihre Zinspolitik im Jahr 2027.",
+          "bedeutung": "Anhaltend hohe Inflation begrenzt den Spielraum der US-Notenbank für Zinssenkungen und beeinflusst damit Anleihemärkte und Risikobereitschaft der Investoren weltweit.",
+          "hintergrund": "Der PCE-Index gilt als das wichtigste Inflationsmaß für die Federal Reserve bei ihren geldpolitischen Entscheidungen. Ein Wert von 3,8 Prozent liegt deutlich über dem Zwei-Prozent-Ziel der Notenbank und signalisiert, dass der Kampf gegen die Inflation noch nicht gewonnen ist.\n\nAngesichts der politischen Unsicherheiten rund um die Handelspolitik und des Energiepreisdrucks infolge der Spannungen mit dem Iran stehen die Währungshüter vor einem schwierigen Abwägungsprozess zwischen Inflationsbekämpfung und wirtschaftlichem Wachstum.",
+          "tag": "Inflation",
+          "emoji": "📈",
           "quelle": "CNBC",
           "quelle_url": "https://www.cnbc.com/2026/11/25/pce-inflation-report-october-2026.html"
         },
         {
           "id": "boerse-1",
-          "titel": "Frankreich droht Rezession – Zentralbank gibt Entwarnung",
-          "zusammenfassung": "Frankreich steht nach Einschätzung von Ökonomen vor ernsthaften wirtschaftlichen Risiken, darunter schwaches Wachstum und strukturelle Schwächen. Der Gouverneur der Banque de France zeigte sich jedoch optimistisch und verwies auf robuste Bereiche wie Rüstung, Luft- und Raumfahrt sowie Energie.",
-          "bedeutung": "Eine Rezession in Frankreich, der zweitgrößten Volkswirtschaft der Eurozone, hätte erhebliche Auswirkungen auf die europäische Konjunktur und die EZB-Zinspolitik.",
-          "hintergrund": "Frankreichs Wirtschaft kämpft mit einer Kombination aus politischer Unsicherheit, hoher Staatsverschuldung und schwacher Binnennachfrage. Anders als Deutschland, das ebenfalls mit Stagnation ringt, profitiert Frankreich zumindest von einem boomenden Rüstungssektor infolge erhöhter europäischer Verteidigungsausgaben.\n\nAn den Märkten werden französische Staatsanleihen bereits mit einem spürbaren Risikoaufschlag gegenüber deutschen Bundesanleihen gehandelt. Sollte sich das Wachstumsbild weiter eintrüben, dürfte der Druck auf die Europäische Zentralbank zunehmen, ihre Geldpolitik stärker zu lockern.",
-          "tag": "Eurozone Rezession",
-          "emoji": "🇫🇷",
+          "titel": "Spanier De Cos soll künftig die EZB führen",
+          "zusammenfassung": "Der frühere Chef der spanischen Zentralbank, Pablo Hernández de Cos, hat die erforderliche Unterstützung erhalten, um Christine Lagarde als Präsident der Europäischen Zentralbank zu beerben. Er übernimmt das Amt in einer Phase politischer Unsicherheit und schwächelnden Wachstums.",
+          "bedeutung": "Die Personalie an der EZB-Spitze ist für Millionen Sparer, Kreditnehmer und Anleger in der Eurozone von unmittelbarer Relevanz, da sie die künftige Zinspolitik prägen wird.",
+          "hintergrund": "De Cos gilt als erfahrener Zentralbanker mit tiefem Verständnis für europäische Finanzmarktdynamiken. Seine Nominierung fällt in eine Zeit, in der die Eurozone mit schwachem Wirtschaftswachstum, Handelsunsicherheiten und dem Erbe jahrelanger Niedrigzinspolitik kämpft.\n\nBeobachter werden genau verfolgen, ob De Cos einen eher tauben oder falkenhaften geldpolitischen Kurs einschlagen wird. Besonders die Frage, wie schnell und wie weit die EZB die Zinsen senken kann, ohne die Inflationsziele zu gefährden, dürfte seine Amtszeit von Beginn an prägen.",
+          "tag": "EZB",
+          "emoji": "🏦",
           "quelle": "CNBC",
-          "quelle_url": "https://www.cnbc.com/2026/11/24/france-recession-risk-pmi.html"
+          "quelle_url": "https://www.cnbc.com/2026/11/26/pablo-hernandez-de-cos-ecb-president.html"
         },
         {
           "id": "boerse-2",
-          "titel": "Huang kehrt zu Nvidia zurück – KI-Rennen geht weiter",
-          "zusammenfassung": "Die Rückkehr von Jensen Huang als Nvidia-Chef unterstreicht laut Analysten, dass im US-chinesischen KI-Wettbewerb nicht nur Chips, sondern auch Spitzenkräfte im Technologiesektor eine entscheidende Rolle spielen. Der Fall zeigt, wie eng Talentpolitik und Technologiegeopolitik miteinander verknüpft sind.",
-          "bedeutung": "Nvidias Führungskrise und ihre Auflösung verdeutlichen, dass der globale KI-Wettbewerb zunehmend auch ein Kampf um die klügsten Köpfe ist – mit direkten Folgen für Börsenkurse und strategische Ausrichtung.",
-          "hintergrund": "Jensen Huang gilt als das unersetzliche Gesicht hinter Nvidias Aufstieg zum wertvollsten Halbleiterunternehmen der Welt. Sein zwischenzeitliches Ausscheiden hatte die Märkte verunsichert und Nvidias Aktie stark belastet – ein Zeugnis dafür, wie abhängig der Börsenwert mancher Technologiekonzerne von einzelnen Führungspersönlichkeiten ist.\n\nIm größeren geopolitischen Kontext steht der Fall für den verschärften Wettbewerb zwischen den USA und China um Halbleitertechnologie und KI-Expertise. Washington hat mit Exportkontrollen versucht, Chinas Zugang zu fortschrittlichen Chips zu begrenzen – doch die Talentfrage bleibt eine offene Flanke in dieser strategischen Auseinandersetzung.",
-          "tag": "Nvidia KI",
-          "emoji": "🤖",
+          "titel": "Chinas Industriegewinne wachsen so stark wie seit fünf Monaten nicht",
+          "zusammenfassung": "Die Gewinne chinesischer Industrieunternehmen sind im Oktober um 20,1 Prozent gestiegen – der stärkste Zuwachs seit fünf Monaten. Das Wachstum wird vor allem von KI-bezogener Fertigung und einem boomenden Exportsektor getragen.",
+          "bedeutung": "Starke chinesische Industriedaten beeinflussen die globalen Rohstoffmärkte und liefern wichtige Signale für die Erholung der zweitgrößten Volkswirtschaft der Welt.",
+          "hintergrund": "China erlebt derzeit eine ausgeprägte Zweiteilung seiner Wirtschaft: Während der exportorientierte Industriesektor und die Halbleiterfertigung boomen, stagniert der private Konsum im Inland weiterhin. Diese Schere erschwert eine breite wirtschaftliche Erholung.\n\nFür internationale Investoren und Rohstoffmärkte sind die Daten dennoch ein positives Signal, das auf eine anhaltend hohe Nachfrage nach Industriegütern und Vorprodukten hindeutet. Gleichzeitig dürften die starken chinesischen Exportzahlen die Handelsspannungen mit den USA und Europa weiter verschärfen.",
+          "tag": "China",
+          "emoji": "🏭",
           "quelle": "CNBC",
-          "quelle_url": "https://www.cnbc.com/2026/11/25/jensen-huang-nvidia-ai-talent-race.html"
+          "quelle_url": "https://www.cnbc.com/2026/11/27/china-industrial-profits-october.html"
         }
       ]
     }
