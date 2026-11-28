@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-27T05:08:44.096372+00:00",
-  "datum": "Freitag, 27. November 2026",
+  "generated_at": "2026-11-28T04:46:59.192713+00:00",
+  "datum": "Samstag, 28. November 2026",
   "ressorts": [
     {
       "id": "politik",
@@ -9,10 +9,10 @@
       "stories": [
         {
           "id": "politik-0",
-          "titel": "Selenskyj kritisiert Washingtons Fokus auf Nahen Osten",
-          "zusammenfassung": "Der ukrainische Präsident Wolodymyr Selenskyj hat öffentlich bemängelt, die USA konzentrierten sich zu stark auf den Nahen Osten und setzten Russland nicht entschieden genug unter Druck. Besonders befremdlich findet er Trumps freundschaftliche Haltung gegenüber Wladimir Putin.",
-          "bedeutung": "Die offene Kritik Selenskyjs an Washington signalisiert wachsende Spannungen zwischen Kyjiw und seinem wichtigsten Verbündeten inmitten des anhaltenden Krieges.",
-          "hintergrund": "Selenskyj äußerte sich in einem BBC-Interview ungewohnt direkt über die amerikanische Außenpolitik. Seine Frustration dürfte nicht nur persönlicher Natur sein, sondern die Sorge widerspiegeln, dass die Ukraine im geopolitischen Prioritätengefüge der neuen US-Administration an Bedeutung verliert.\n\nDer Kontext ist brisant: Während die USA militärische und diplomatische Ressourcen auf den Nahen Osten konzentrieren, bleibt die Lage an der Ostfront der Ukraine angespannt. Trumps wiederholt geäußerte Sympathie für Putin verstärkt in Kyjiw die Befürchtung, dass ein künftiger Friedensdeal zulasten der Ukraine ausgehandelt werden könnte.",
+          "titel": "Selenskyj kritisiert Trumps Nähe zu Putin offen",
+          "zusammenfassung": "Der ukrainische Präsident äußerte in einem Interview scharfe Kritik an der US-Haltung im Friedensprozess und zeigte sich frustriert über die mangelnde Druckausübung auf Moskau. Er bezeichnete die Beziehung zwischen Trump und Putin als befremdlich und warnte vor einer Schwächung der westlichen Verhandlungsposition.",
+          "bedeutung": "Die öffentliche Kritik Selenskyjs an Washington signalisiert wachsende Spannungen zwischen Kyjiw und seinem wichtigsten westlichen Unterstützer in einem entscheidenden Moment des Krieges.",
+          "hintergrund": "Seit dem Amtsantritt der zweiten Trump-Regierung haben sich die USA in ihrer Ukraine-Politik merklich zurückgezogen. Statt klarer Unterstützung für Kyjiw stehen direkte Gesprächskanäle zwischen Washington und Moskau im Vordergrund – sehr zur Sorge der europäischen Verbündeten.\n\nSelenskyj sieht darin ein gefährliches Signal: Wenn der wichtigste externe Akteur keinen ausreichenden Druck auf Russland ausübt, drohe eine Einigung zu Bedingungen, die Moskau begünstigen. Sein Vorstoß in die Öffentlichkeit dürfte die diplomatischen Beziehungen zwischen Kyjiw und Washington weiter belasten.",
           "tag": "Ukraine-Krieg",
           "emoji": "🕊️",
           "quelle": "BBC",
@@ -20,25 +20,25 @@
         },
         {
           "id": "politik-1",
-          "titel": "Tanker kentert vor Ibiza – Umweltkatastrophe droht",
-          "zusammenfassung": "Ein Dieseltanker mit bis zu 7.000 Tonnen Kraftstoff an Bord ist in der Nähe der spanischen Insel Ibiza gekentert, wobei ein Mensch ums Leben kam. Der spanische Seerettungsdienst bewertet noch das potenzielle Ausmaß der Umweltschäden.",
-          "bedeutung": "Ein möglicher Großaustritt von Dieselkraftstoff im westlichen Mittelmeer könnte eine schwere ökologische Katastrophe für die marine Tierwelt und die Küstenregionen auslösen.",
-          "hintergrund": "Ibiza und die umliegenden Gewässer gehören zu einem der ökologisch sensibelsten und touristisch bedeutsamsten Gebiete des Mittelmeers. Schiffsunglücke mit großen Mengen fossiler Brennstoffe haben in der Vergangenheit gezeigt, wie nachhaltig solche Ereignisse Meeresökosysteme schädigen können.\n\nDie spanischen Behörden haben Notfallmaßnahmen eingeleitet, die genaue Menge des ausgelaufenen Kraftstoffs war zunächst unklar. Experten und Umweltorganisationen beobachten die Lage genau, da die Strömungsverhältnisse im Bereich der Balearen eine rasche Ausbreitung begünstigen könnten.",
-          "tag": "Umweltkatastrophe",
-          "emoji": "🛢️",
+          "titel": "Türkei: Regierungskritischer TV-Sender zerstört",
+          "zusammenfassung": "Die Zentrale des oppositionsnahen Fernsehsenders Halk TV wurde türkischen Angaben zufolge bei einer staatlich veranlassten Razzia verwüstet. Der Eigentümer berichtete dem BBC von gezielter Zerstörung und bezeichnete den Vorfall als Teil einer systematischen Kampagne gegen unabhängige Medien.",
+          "bedeutung": "Der Vorfall reiht sich in eine Serie staatlicher Einschränkungen der Pressefreiheit in der Türkei ein und verdeutlicht den zunehmenden Druck auf kritische Stimmen in einem NATO-Mitgliedsstaat.",
+          "hintergrund": "Die Türkei belegt in internationalen Pressefreiheitsindizes seit Jahren einen der hinteren Plätze unter demokratisch verfassten Staaten. Medien, die der Regierung Erdoğan kritisch gegenüberstehen, sehen sich regelmäßig mit Lizenzentzug, Steuerprüfungen oder direkten behördlichen Maßnahmen konfrontiert.\n\nHalk TV gilt als eine der wenigen verbliebenen Plattformen mit deutlich oppositioneller Ausrichtung. Eine gezielte Ausschaltung dieses Senders würde die ohnehin schmale Medienvielfalt des Landes weiter einengen und internationale Kritik an Ankara erneut befeuern.",
+          "tag": "Pressefreiheit",
+          "emoji": "📺",
           "quelle": "BBC",
-          "quelle_url": "https://www.bbc.co.uk/news/articles/c9gklryvj24do?at_medium=RSS&at_campaign=rss"
+          "quelle_url": "https://www.bbc.co.uk/news/articles/cq36gk151xkdo?at_medium=RSS&at_campaign=rss"
         },
         {
           "id": "politik-2",
-          "titel": "Zwei Italiener bei Angriff in Kuwait getötet",
-          "zusammenfassung": "Bei einem Angriff in Kuwait kamen zwei italienische Staatsbürger ums Leben, die als Techniker für den deutschen Rüstungskonzern Rheinmetall tätig waren. Der Iran wies jede Verantwortung für den Vorfall zurück.",
-          "bedeutung": "Der Angriff auf westliche Rüstungsmitarbeiter in der Golfregion verschärft die ohnehin angespannte sicherheitspolitische Lage im Nahen Osten.",
-          "hintergrund": "Die beiden Italiener arbeiteten nach Angaben des italienischen Außenministeriums als Techniker für Rheinmetall, einen der größten europäischen Rüstungskonzerne. Ihr Tod wirft Fragen über die Sicherheit westlichen Personals in der gesamten Golfregion auf.\n\nDer Vorfall ereignet sich vor dem Hintergrund anhaltender Spannungen zwischen dem Iran und westlichen Staaten sowie deren Verbündeten am Golf. Obwohl Teheran eine Beteiligung dementiert, dürfte der Fall die diplomatischen Beziehungen weiter belasten und die Debatte über den Schutz von Auslandspersonal in Krisenregionen neu entfachen.",
-          "tag": "Naher Osten",
-          "emoji": "💥",
+          "titel": "Kenianischer Sektenchef für weitere 123 Tode verurteilt",
+          "zusammenfassung": "Paul Mackenzie, Anführer einer apokalyptischen Sekte in Kenia, wurde erneut schuldig gesprochen – diesmal für den Tod von 123 weiteren Anhängern. Erst vor wenigen Wochen war er bereits wegen des Massenmordes an Kindern verurteilt worden.",
+          "bedeutung": "Das Urteil gegen Mackenzie ist eines der schwersten gegen einen religiösen Sektenführer in der jüngeren afrikanischen Geschichte und wirft grundlegende Fragen über staatliche Aufsicht religiöser Gemeinschaften auf.",
+          "hintergrund": "Die Tragödie um die Sekte des Paul Mackenzie hatte internationale Aufmerksamkeit erregt, als 2023 auf einem abgelegenen Waldgelände in der kenianischen Küstenregion Shakahole Massengräber entdeckt wurden. Hunderte Anhänger hatten sich auf Anweisung Mackenzies zu Tode gehungert, in der Überzeugung, so dem Jüngsten Gericht entgegenzugehen.\n\nDie Fälle der Opfer werden in mehreren Verfahren aufgerollt, da die Anklageschriften inhaltlich unterschieden werden. Menschenrechtsorganisationen fordern als Konsequenz schärfere gesetzliche Regelungen für religiöse Gruppen in Kenia und anderen ostafrikanischen Staaten.",
+          "tag": "Sektenkriminalität",
+          "emoji": "⚖️",
           "quelle": "BBC",
-          "quelle_url": "https://www.bbc.co.uk/news/articles/c39w9y5dx4k5o?at_medium=RSS&at_campaign=rss"
+          "quelle_url": "https://www.bbc.co.uk/news/articles/cmy49de4xx1zo?at_medium=RSS&at_campaign=rss"
         }
       ]
     },
@@ -49,36 +49,36 @@
       "stories": [
         {
           "id": "wirtschaft-0",
-          "titel": "London zahlt Brüssel Gebühr für neue EU-Abkommen",
-          "zusammenfassung": "Großbritannien wird im Rahmen neu verhandelter Vereinbarungen mit der Europäischen Union einen finanziellen Beitrag zu den Betriebskosten der EU leisten. Die Einzelheiten wurden in neuen Rechtsdokumenten offengelegt.",
-          "bedeutung": "Die Zahlung markiert eine bedeutsame Verschiebung in den britisch-europäischen Beziehungen und könnte innenpolitisch erneut Debatten über die Konditionen des Brexit entfachen.",
-          "hintergrund": "Seit dem Brexit verhandeln London und Brüssel kontinuierlich über die Ausgestaltung ihrer künftigen Zusammenarbeit. Die nun bekanntgewordene Beteiligungsgebühr zeigt, dass eine engere Partnerschaft ihren Preis hat und Großbritannien bereit ist, dafür zu zahlen.\n\nKritiker werden darin einen weiteren Schritt in Richtung einer faktischen Annäherung an die EU sehen, während Befürworter auf die wirtschaftlichen Vorteile der neuen Abkommen verweisen. Die genaue Höhe des Beitrags und die damit verbundenen Gegenleistungen dürften die innenpolitische Debatte in Großbritannien in den kommenden Wochen dominieren.",
-          "tag": "Brexit",
-          "emoji": "🇬🇧",
+          "titel": "Asiens KI-Wette auf Nvidia: Zwischen Boom und Risiko",
+          "zusammenfassung": "Asiatische Aktien erlebten zuletzt starke Kursschwankungen, nachdem überraschende Personalentscheidungen bei Nvidia Unsicherheit über die Zukunft des KI-Chip-Marktführers ausgelöst hatten. Viele Unternehmen und Fonds in der Region hatten massiv auf Nvidias anhaltende Dominanz gesetzt.",
+          "bedeutung": "Nvidias Kursvolatilität zeigt, wie stark die asiatische Technologiewirtschaft von einem einzigen Unternehmen abhängt – eine Anfälligkeit, die systemische Risiken birgt.",
+          "hintergrund": "Länder wie Taiwan, Südkorea und Japan haben in den vergangenen Jahren erhebliche Teile ihrer Technologieinvestitionen auf den KI-Chip-Sektor ausgerichtet, in dem Nvidia eine marktbeherrschende Stellung einnimmt. Zulieferer, Auftragsfertiger und Fonds sind eng mit der Entwicklung des Unternehmens verknüpft.\n\nDie jüngsten Turbulenzen verdeutlichen die Fragilität dieser Abhängigkeit: Strategische Personalwechsel oder regulatorische Eingriffe können die gesamte regionale Technologielieferkette erschüttern. Analysten mahnen zur Diversifikation, doch kurzfristig bleibt Nvidia für viele asiatische Marktteilnehmer alternativlos.",
+          "tag": "KI-Wirtschaft",
+          "emoji": "🤖",
           "quelle": "BBC",
-          "quelle_url": "https://www.bbc.co.uk/news/articles/ck2057x387ego?at_medium=RSS&at_campaign=rss"
+          "quelle_url": "https://www.bbc.co.uk/news/articles/cqevr4lnd1nxo?at_medium=RSS&at_campaign=rss"
         },
         {
           "id": "wirtschaft-1",
-          "titel": "US-Zolldrohungen zwingen Handelspartner zu Deals",
-          "zusammenfassung": "Die USA haben angekündigt, 14 Handelspartnern mit neuen Zollerhöhungen zu drohen, bieten jedoch niedrigere Sätze für jene Länder an, die rasch bilaterale Handelsabkommen mit Washington abschließen. Der Schachzug erhöht den Druck auf wichtige Wirtschaftspartner weltweit.",
-          "bedeutung": "Die Verknüpfung von Zolldrohungen mit dem Angebot maßgeschneiderter Handelsdeals könnte die globale Handelsarchitektur grundlegend umgestalten.",
-          "hintergrund": "Die Trump-Administration setzt ihre Zollpolitik als strategisches Druckmittel ein, um bilaterale Handelsbedingungen zu ihren Gunsten neu zu verhandeln. Für viele exportabhängige Volkswirtschaften bedeutet das: entweder schnelle Zugeständnisse oder empfindliche Wettbewerbsnachteile auf dem US-Markt.\n\nBesonders betroffen sind Länder, die stark auf den amerikanischen Markt ausgerichtet sind. Ökonomen warnen, dass eine Fragmentierung des globalen Handelssystems in ein Netz bilateraler Abkommen langfristig die Effizienz des Welthandels verringern und Schwellenländer besonders hart treffen könnte.",
-          "tag": "Handelspolitik",
-          "emoji": "🌐",
-          "quelle": "CNBC",
-          "quelle_url": "https://www.cnbc.com/2026/11/26/us-tariffs-hike-trade-agreement.html"
+          "titel": "Millionen Briten drohen höhere Hypothekenraten",
+          "zusammenfassung": "Mehr Menschen als bisher angenommen müssen in den kommenden Monaten ihre auslaufenden Festzinsverträge zu deutlich teureren Konditionen verlängern. Schätzungen zufolge steigen die monatlichen Belastungen im Schnitt um rund 100 Pfund.",
+          "bedeutung": "Der Anstieg der Hypothekenkosten trifft Millionen britischer Haushalte direkt und dürfte den privaten Konsum und damit die ohnehin schwächelnde britische Konjunktur zusätzlich bremsen.",
+          "hintergrund": "Das Vereinigte Königreich erlebte in den Jahren 2022 und 2023 einen der stärksten Zinsanstiege seiner jüngeren Geschichte. Viele Eigenheimbesitzer hatten sich damals noch günstige Festzinsen gesichert – diese laufen nun sukzessive aus, und die Anschlussfinanzierung fällt in ein deutlich höheres Zinsniveau.\n\nDie Folgen reichen über individuelle Haushalte hinaus: Weniger verfügbares Einkommen bedeutet geringere Konsumausgaben, was Einzelhandel und Dienstleistungssektor spürbar belasten kann. Ökonomen beobachten die Entwicklung als einen der wichtigsten Konjunkturfaktoren für Großbritannien im kommenden Jahr.",
+          "tag": "Immobilienmarkt",
+          "emoji": "🏠",
+          "quelle": "BBC",
+          "quelle_url": "https://www.bbc.co.uk/news/articles/cwg5r02zel9qo?at_medium=RSS&at_campaign=rss"
         },
         {
           "id": "wirtschaft-2",
-          "titel": "Norse Atlantic droht Insolvenz – Flüge eingestellt",
-          "zusammenfassung": "Die Fluggesellschaft Norse Atlantic hat ihren gesamten Flugbetrieb vorübergehend eingestellt und sucht dringend nach neuer Finanzierung, um eine Pleite abzuwenden. Ohne eine rasche Kapitalspritze droht die Airline zu kollabieren.",
-          "bedeutung": "Das mögliche Aus für Norse Atlantic würde Tausende Passagiere betreffen und zeigt erneut, wie anfällig das Langstrecken-Billigflug-Modell gegenüber Kostendruck und Marktturbulenzen bleibt.",
-          "hintergrund": "Norse Atlantic war als Nachfolger des gescheiterten Norwegian Air gegründet worden und bediente vor allem transatlantische Strecken zu Niedrigpreisen. Das Geschäftsmodell stand von Beginn an unter dem Druck hoher Treibstoffkosten, starker Konkurrenz und schwankender Nachfrage.\n\nDas drohende Scheitern von Norse Atlantic reiht sich in eine Serie von Insolvenzen im europäischen Billigflugsektor ein und wirft die Frage auf, ob das Modell des preisgünstigen Langstreckenfliegens dauerhaft tragfähig ist.",
-          "tag": "Luftfahrt",
-          "emoji": "✈️",
+          "titel": "London zahlt Brüssel Gebühr für EU-Partnerschaftsdeals",
+          "zusammenfassung": "Neu veröffentlichte Rechtsdokumente enthüllen, dass Großbritannien im Rahmen seiner erneuerten Kooperationsabkommen mit der Europäischen Union einen finanziellen Beitrag zu den EU-Verwaltungskosten leisten wird. Die genaue Höhe und Verteilung der Zahlungen sorgt politisch für Diskussionen.",
+          "bedeutung": "Die Vereinbarung zeigt, dass eine engere Zusammenarbeit mit der EU für London mit konkreten finanziellen Verpflichtungen verbunden ist – ein politisch heikles Signal in der Post-Brexit-Debatte.",
+          "hintergrund": "Seit dem Brexit versuchen aufeinanderfolgende britische Regierungen, pragmatische Kooperationsformate mit Brüssel zu etablieren, ohne formell in EU-Strukturen zurückzukehren. Dabei stoßen finanzielle Beteiligungsforderungen der EU traditionell auf innenpolitischen Widerstand.\n\nDie nun bekannt gewordenen Zahlungsverpflichtungen dürften die Debatte über den Preis der europäischen Annäherung neu entfachen. Kritiker aus dem Brexit-Lager werden darin eine Bestätigung ihrer Warnungen vor einer schleichenden Wiedereingliederung sehen.",
+          "tag": "Brexit-Folgen",
+          "emoji": "🇬🇧",
           "quelle": "BBC",
-          "quelle_url": "https://www.bbc.co.uk/news/articles/c9kgmd0ldy0lo?at_medium=RSS&at_campaign=rss"
+          "quelle_url": "https://www.bbc.co.uk/news/articles/ck2057x387ego?at_medium=RSS&at_campaign=rss"
         }
       ]
     },
@@ -89,36 +89,36 @@
       "stories": [
         {
           "id": "boerse-0",
-          "titel": "Fed-Inflationsmaß springt auf 3,8 Prozent – Druck wächst",
-          "zusammenfassung": "Der von der US-Notenbank bevorzugte Inflationsindikator, der PCE-Preisindex, hat im Oktober mit 3,8 Prozent den Erwartungen entsprochen, bleibt aber auf einem besorgniserregend hohen Niveau. Dies erhöht den Druck auf die Fed im Hinblick auf ihre Zinspolitik im Jahr 2027.",
-          "bedeutung": "Anhaltend hohe Inflation begrenzt den Spielraum der US-Notenbank für Zinssenkungen und beeinflusst damit Anleihemärkte und Risikobereitschaft der Investoren weltweit.",
-          "hintergrund": "Der PCE-Index gilt als das wichtigste Inflationsmaß für die Federal Reserve bei ihren geldpolitischen Entscheidungen. Ein Wert von 3,8 Prozent liegt deutlich über dem Zwei-Prozent-Ziel der Notenbank und signalisiert, dass der Kampf gegen die Inflation noch nicht gewonnen ist.\n\nAngesichts der politischen Unsicherheiten rund um die Handelspolitik und des Energiepreisdrucks infolge der Spannungen mit dem Iran stehen die Währungshüter vor einem schwierigen Abwägungsprozess zwischen Inflationsbekämpfung und wirtschaftlichem Wachstum.",
-          "tag": "Inflation",
-          "emoji": "📈",
-          "quelle": "CNBC",
-          "quelle_url": "https://www.cnbc.com/2026/11/25/pce-inflation-report-october-2026.html"
-        },
-        {
-          "id": "boerse-1",
-          "titel": "Spanier De Cos soll künftig die EZB führen",
-          "zusammenfassung": "Der frühere Chef der spanischen Zentralbank, Pablo Hernández de Cos, hat die erforderliche Unterstützung erhalten, um Christine Lagarde als Präsident der Europäischen Zentralbank zu beerben. Er übernimmt das Amt in einer Phase politischer Unsicherheit und schwächelnden Wachstums.",
-          "bedeutung": "Die Personalie an der EZB-Spitze ist für Millionen Sparer, Kreditnehmer und Anleger in der Eurozone von unmittelbarer Relevanz, da sie die künftige Zinspolitik prägen wird.",
-          "hintergrund": "De Cos gilt als erfahrener Zentralbanker mit tiefem Verständnis für europäische Finanzmarktdynamiken. Seine Nominierung fällt in eine Zeit, in der die Eurozone mit schwachem Wirtschaftswachstum, Handelsunsicherheiten und dem Erbe jahrelanger Niedrigzinspolitik kämpft.\n\nBeobachter werden genau verfolgen, ob De Cos einen eher tauben oder falkenhaften geldpolitischen Kurs einschlagen wird. Besonders die Frage, wie schnell und wie weit die EZB die Zinsen senken kann, ohne die Inflationsziele zu gefährden, dürfte seine Amtszeit von Beginn an prägen.",
-          "tag": "EZB",
+          "titel": "Spanier De Cos soll EZB-Präsidentschaft übernehmen",
+          "zusammenfassung": "Pablo Hernández de Cos, bisher Gouverneur der spanischen Zentralbank, hat die nötige Unterstützung der EU-Mitgliedsstaaten erhalten, um Christine Lagarde im kommenden Jahr als EZB-Chef abzulösen. Er tritt sein Amt in einem konjunkturell und politisch herausfordernden Umfeld an.",
+          "bedeutung": "Die Besetzung der EZB-Führung ist für die Geldpolitik von rund 350 Millionen Menschen im Euroraum richtungsweisend und beeinflusst Zins- und Anleihemärkte weltweit.",
+          "hintergrund": "De Cos gilt als geldpolitischer Pragmatiker mit ausgeprägtem akademischen Hintergrund. Als bisheriger Notenbanker der spanischen Zentralbank war er stets im EZB-Rat vertreten und kennt die internen Dynamiken des Hauses bestens. Einige Marktbeobachter erwarten von ihm einen etwas taubenhafte Kurs gegenüber Lagardes späteren restriktiven Jahren.\n\nSeine Amtszeit beginnt unter komplexen Vorzeichen: Das Wachstum in der Eurozone bleibt fragil, die geopolitischen Unsicherheiten durch Handelszölle und den Ukraine-Krieg halten an, und die Inflationsziele sind zwar weitgehend erreicht, aber noch nicht stabil verankert. Märkte werden seine ersten Signale zur Zinspolitik genau analysieren.",
+          "tag": "EZB-Führung",
           "emoji": "🏦",
           "quelle": "CNBC",
           "quelle_url": "https://www.cnbc.com/2026/11/26/pablo-hernandez-de-cos-ecb-president.html"
         },
         {
-          "id": "boerse-2",
-          "titel": "Chinas Industriegewinne wachsen so stark wie seit fünf Monaten nicht",
-          "zusammenfassung": "Die Gewinne chinesischer Industrieunternehmen sind im Oktober um 20,1 Prozent gestiegen – der stärkste Zuwachs seit fünf Monaten. Das Wachstum wird vor allem von KI-bezogener Fertigung und einem boomenden Exportsektor getragen.",
-          "bedeutung": "Starke chinesische Industriedaten beeinflussen die globalen Rohstoffmärkte und liefern wichtige Signale für die Erholung der zweitgrößten Volkswirtschaft der Welt.",
-          "hintergrund": "China erlebt derzeit eine ausgeprägte Zweiteilung seiner Wirtschaft: Während der exportorientierte Industriesektor und die Halbleiterfertigung boomen, stagniert der private Konsum im Inland weiterhin. Diese Schere erschwert eine breite wirtschaftliche Erholung.\n\nFür internationale Investoren und Rohstoffmärkte sind die Daten dennoch ein positives Signal, das auf eine anhaltend hohe Nachfrage nach Industriegütern und Vorprodukten hindeutet. Gleichzeitig dürften die starken chinesischen Exportzahlen die Handelsspannungen mit den USA und Europa weiter verschärfen.",
-          "tag": "China",
-          "emoji": "🏭",
+          "id": "boerse-1",
+          "titel": "S&P 500 in Korrektur: Bärenmarkt droht noch nicht",
+          "zusammenfassung": "Der amerikanische Leitindex S&P 500 ist im November um mehr als zehn Prozent gefallen und befindet sich damit offiziell in einer Korrekturphase. Historische Daten zeigen jedoch, dass eine Korrektur nicht zwingend in einen Bärenmarkt oder eine Rezession mündet.",
+          "bedeutung": "Die Entwicklung des S&P 500 gilt als globaler Stimmungsindikator für Risikobereitschaft an den Kapitalmärkten und beeinflusst Anlageentscheidungen weltweit.",
+          "hintergrund": "Auslöser der November-Korrektur waren mehrere Faktoren gleichzeitig: steigende Zolldrohungen aus Washington, Unsicherheit über die weitere Zinspolitik der US-Notenbank sowie Volatilität im Technologiesektor, insbesondere rund um KI-Titel.\n\nHistorisch betrachtet erholen sich Aktienmärkte nach Korrekturen häufig binnen weniger Monate, sofern keine fundamentale Rezession folgt. Analysten streiten derzeit darüber, ob die aktuelle Schwächephase eine gesunde Konsolidierung darstellt oder ein Vorbote tieferer Verwerfungen ist. Entscheidend dürften die kommenden US-Wirtschaftsdaten und die Fed-Signale im Dezember sein.",
+          "tag": "Börsenkorrektur",
+          "emoji": "📉",
           "quelle": "CNBC",
-          "quelle_url": "https://www.cnbc.com/2026/11/27/china-industrial-profits-october.html"
+          "quelle_url": "https://www.cnbc.com/2026/11/27/the-sp-500-is-in-a-correction-bear-markets-and-recessions-dont-always-follow.html"
+        },
+        {
+          "id": "boerse-2",
+          "titel": "Halbleiter überholen Öl: Chips werden zum neuen Rohstoff",
+          "zusammenfassung": "Erstmals in der Wirtschaftsgeschichte haben Halbleiterexporte die globalen Öl- und Gasausfuhren nach Handelsvolumen übertroffen. Der Boom bei Künstlicher Intelligenz gilt als treibende Kraft hinter dieser historischen Verschiebung.",
+          "bedeutung": "Die Ablösung von Öl durch Chips als meistgehandeltes Exportgut markiert einen Strukturwandel in der Weltwirtschaft, der geopolitische Abhängigkeiten und Machtgefüge neu definiert.",
+          "hintergrund": "Jahrzehntelang galt Öl als das strategisch wichtigste Handelsgut der Welt – Länder, die es kontrollierten, verfügten über enormen geopolitischen Einfluss. Dieser Status beginnt sich nun auf jene Staaten und Unternehmen zu verlagern, die Halbleitertechnologie beherrschen: allen voran Taiwan, Südkorea, die Niederlande und die USA.\n\nDer KI-Boom hat den Chip-Hunger der Weltwirtschaft exponentiell verstärkt. Rechenzentren, autonome Systeme und vernetzte Industrie benötigen immer leistungsfähigere Prozessoren in immer größerer Stückzahl. Die geopolitische Rivalität zwischen den USA und China um die Kontrolle über Halbleitertechnologie gewinnt damit eine neue, noch dringlichere Dimension.",
+          "tag": "Chip-Wirtschaft",
+          "emoji": "🔬",
+          "quelle": "CNBC",
+          "quelle_url": "https://www.cnbc.com/2026/11/26/semiconductor-chips-are-the-new-oil-heres-why.html"
         }
       ]
     }
